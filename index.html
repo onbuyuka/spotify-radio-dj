@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Radio DJ — your playlist, with a voice</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📻</text></svg>">
+    <meta name="description" content="A personal radio in the browser: plays your Spotify playlist with an AI DJ who reads the news, scores, weather and song facts between tracks. Pick a station, pick a voice." />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              pixel: ['"Press Start 2P"', 'monospace'],
+              lcd: ['VT323', 'ui-monospace', 'monospace'],
+              sans: ['VT323', 'ui-monospace', 'monospace'],
+            },
+            colors: {
+              chassis: { 900: '#0e0d0b', 800: '#15130f', 700: '#1d1a15', 600: '#272219' },
+              metal: { 300: '#5d5749', 400: '#4a463d', 500: '#322e27', 600: '#272420', 700: '#1d1b17' },
+              silver: { 300: '#c4c8cc', 400: '#9aa0a4', 500: '#6c7075', 600: '#44474a' },
+              amber: { 300: '#ffd27a', 400: '#ffb22e', 500: '#ff9500', 600: '#d97a00' },
+              lime: { 400: '#5dff9e', 500: '#2bff88', 600: '#13c463' },
+              onair: { 400: '#ff6a6a', 500: '#ff2d2d', 600: '#d61f1f' },
+              info: { 400: '#5cc8ff', 500: '#35b6ff' },
+            },
+            animation: {
+              'fade-in': 'fadeIn .35s ease-out',
+              'blink': 'blink 1.1s steps(1) infinite',
+              'marquee': 'marquee 14s linear infinite',
+              'spin-slow': 'spin 3s linear infinite',
+            },
+            keyframes: {
+              fadeIn: { '0%': { opacity: '0' }, '100%': { opacity: '1' } },
+              blink: { '0%,49%': { opacity: '1' }, '50%,100%': { opacity: '.25' } },
+              marquee: { '0%': { transform: 'translateX(100%)' }, '100%': { transform: 'translateX(-100%)' } },
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      :root { color-scheme: dark; }
+      html, body { height: 100%; }
+      body {
+        background:
+          radial-gradient(circle at 50% -15%, #241f17 0%, #0e0d0b 62%),
+          #0e0d0b;
+        color: #e9e4d6;
+        font-family: 'VT323', ui-monospace, monospace;
+        font-size: 18px;
+      }
+      /* Global CRT scanlines + vignette for that tube-glow immersion. */
+      body::before {
+        content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 60;
+        background: repeating-linear-gradient(0deg, rgba(0,0,0,.16) 0, rgba(0,0,0,.16) 1px, transparent 1px, transparent 3px);
+        mix-blend-mode: multiply; opacity: .55;
+      }
+      body::after {
+        content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 61;
+        box-shadow: inset 0 0 180px rgba(0,0,0,.75);
+      }
+      .num { font-variant-numeric: tabular-nums; }
+
+      /* ---- Brushed-metal panel (the chassis) ---- */
+      .panel {
+        background:
+          repeating-linear-gradient(90deg, rgba(255,255,255,.016) 0 2px, transparent 2px 4px),
+          linear-gradient(180deg, #2b2820 0%, #201d18 55%, #191712 100%);
+        border: 1px solid #000; border-radius: 6px;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.07), inset 0 0 0 1px rgba(0,0,0,.4), 0 4px 12px rgba(0,0,0,.55);
+      }
+      .panel-inset {
+        background: linear-gradient(180deg, #14110c, #1b1813);
+        border: 1px solid #000; border-radius: 5px;
+        box-shadow: inset 0 2px 7px rgba(0,0,0,.8), inset 0 -1px 0 rgba(255,255,255,.04);
+      }
+      /* ---- Chrome bezel frame ---- */
+      .bezel {
+        border-radius: 7px; padding: 3px;
+        background: linear-gradient(180deg, #9aa0a4, #44474a 45%, #2a2c2e);
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.3), 0 2px 6px rgba(0,0,0,.6);
+      }
+      /* ---- LCD / LED display ---- */
+      .lcd {
+        position: relative;
+        background: repeating-linear-gradient(0deg, rgba(0,0,0,.35) 0 2px, transparent 2px 3px), #160f02;
+        color: #ffb22e; text-shadow: 0 0 6px rgba(255,178,46,.55);
+        font-family: 'VT323', monospace; border-radius: 4px;
+        box-shadow: inset 0 0 20px rgba(255,150,0,.12), inset 0 2px 7px rgba(0,0,0,.85);
+      }
+      .lcd-green {
+        color: #39ff9e; text-shadow: 0 0 6px rgba(57,255,158,.55);
+        background: repeating-linear-gradient(0deg, rgba(0,0,0,.35) 0 2px, transparent 2px 3px), #03140d;
+        box-shadow: inset 0 0 20px rgba(40,255,140,.12), inset 0 2px 7px rgba(0,0,0,.85);
+      }
+      /* ---- LED indicator ---- */
+      .led { width: 11px; height: 11px; border-radius: 9999px; background: #3a2a00; box-shadow: inset 0 0 2px #000; flex: none; }
+      .led-amber { background: #ffb22e; box-shadow: 0 0 9px #ffb22e, inset 0 0 2px #fff; }
+      .led-green { background: #2bff88; box-shadow: 0 0 9px #2bff88, inset 0 0 2px #fff; }
+      .led-red { background: #ff2d2d; box-shadow: 0 0 11px #ff2d2d, inset 0 0 2px #fff; }
+      .led-blue { background: #35b6ff; box-shadow: 0 0 9px #35b6ff, inset 0 0 2px #fff; }
+
+      /* ---- Chunky hardware buttons ---- */
+      .btn3d {
+        font-family: 'Press Start 2P', monospace; font-size: 10px; letter-spacing: .5px; line-height: 1.5;
+        color: #e9e4d6; text-transform: uppercase;
+        background: linear-gradient(180deg, #403c33, #262320);
+        border: 1px solid #000; border-top-color: #5d5749; border-radius: 5px;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.14), 0 3px 0 #0a0908, 0 5px 8px rgba(0,0,0,.5);
+        padding: .7em 1em; cursor: pointer; display: inline-flex; align-items: center; gap: .55em;
+        transition: transform .05s, box-shadow .05s, filter .15s;
+      }
+      .btn3d:hover { filter: brightness(1.13); }
+      .btn3d:active { transform: translateY(3px); box-shadow: inset 0 2px 6px rgba(0,0,0,.7); }
+      .btn3d:disabled { opacity: .4; cursor: not-allowed; transform: none; box-shadow: inset 0 1px 0 rgba(255,255,255,.06); filter: none; }
+      .btn3d-amber {
+        background: linear-gradient(180deg, #ffc24d, #e88a00); color: #241600; border-top-color: #ffe0a0;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.5), 0 3px 0 #7a4500, 0 5px 8px rgba(0,0,0,.5);
+      }
+      .btn3d-amber:active { box-shadow: inset 0 2px 6px rgba(120,60,0,.6); }
+      .btn3d-red {
+        background: linear-gradient(180deg, #ff5b5b, #c81f1f); color: #fff; border-top-color: #ff9b9b;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.35), 0 3px 0 #6e0f0f, 0 5px 8px rgba(0,0,0,.5);
+      }
+      .btn3d-on {
+        background: linear-gradient(180deg, #1f7d4a, #0e5e34); color: #caffe0; border-top-color: #39ff9e;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.2), inset 0 0 12px rgba(40,255,140,.3), 0 3px 0 #053a1f;
+      }
+
+      /* ---- Round transport buttons (media-player deck) ---- */
+      .xport {
+        width: 46px; height: 46px; border-radius: 9999px; flex: none;
+        display: grid; place-items: center; line-height: 1;
+        font-family: 'VT323', monospace; font-size: 20px; color: #e9e4d6;
+        background: linear-gradient(180deg, #403c33, #211e1a);
+        border: 1px solid #000; border-top-color: #5d5749;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.16), 0 3px 0 #0a0908, 0 5px 8px rgba(0,0,0,.5);
+        cursor: pointer; transition: transform .05s, box-shadow .05s, filter .15s;
+      }
+      .xport:hover { filter: brightness(1.15); }
+      .xport:active { transform: translateY(3px); box-shadow: inset 0 2px 7px rgba(0,0,0,.75); }
+      .xport:disabled { opacity: .4; cursor: not-allowed; transform: none; filter: none; box-shadow: inset 0 1px 0 rgba(255,255,255,.06); }
+      .xport-lg { width: 62px; height: 62px; font-size: 26px; }
+      .xport-amber {
+        background: linear-gradient(180deg, #ffc24d, #e88a00); color: #241600; border-top-color: #ffe0a0;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.5), 0 0 14px rgba(255,150,0,.35), 0 3px 0 #7a4500, 0 5px 8px rgba(0,0,0,.5);
+      }
+      .xport-amber:active { box-shadow: inset 0 2px 7px rgba(120,60,0,.6); }
+      .xport-on {
+        background: linear-gradient(180deg, #1f7d4a, #0e5e34); color: #caffe0; border-top-color: #39ff9e;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,.2), inset 0 0 12px rgba(40,255,140,.35), 0 3px 0 #053a1f, 0 5px 8px rgba(0,0,0,.5);
+      }
+
+      /* ---- VU meter ---- */
+      .vu { display: flex; align-items: flex-end; gap: 2px; }
+      .vu i {
+        display: block; width: 4px; border-radius: 1px;
+        background: linear-gradient(180deg, #ff2d2d, #ffb22e 42%, #2bff88 78%);
+        transform-origin: bottom; transition: transform .12s ease-out;
+      }
+
+      /* ---- Rotary knob ---- */
+      .knob {
+        width: 44px; height: 44px; border-radius: 50%; position: relative; flex: none;
+        background: radial-gradient(circle at 50% 32%, #4a463d, #1b1813 72%);
+        border: 1px solid #000;
+        box-shadow: inset 0 2px 3px rgba(255,255,255,.16), inset 0 -3px 7px rgba(0,0,0,.7), 0 2px 5px rgba(0,0,0,.5);
+      }
+      .knob::after { content: ''; position: absolute; top: 5px; left: 50%; width: 2px; height: 13px; background: #ffb22e; box-shadow: 0 0 5px #ffb22e; transform: translateX(-50%); border-radius: 1px; }
+
+      /* ---- Scrolling marquee ---- */
+      /* Keyframes defined here (not just in the Tailwind config) so they exist
+         even when no `animate-*` utility triggers the CDN to emit them — the
+         Home tagline and the DJ ticker reference them via raw/inline CSS. */
+      @keyframes marquee { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: .25; } }
+      .marquee-wrap { overflow: hidden; white-space: nowrap; }
+      .marquee-wrap > span { display: inline-block; animation: marquee 14s linear infinite; }
+
+      /* ---- Speaker grille texture ---- */
+      .grille {
+        background-image: radial-gradient(circle, rgba(0,0,0,.55) 1px, transparent 1.4px);
+        background-size: 7px 7px;
+      }
+
+      /* ---- Pixel scrollbar ---- */
+      *::-webkit-scrollbar { width: 12px; height: 12px; }
+      *::-webkit-scrollbar-track { background: #14110c; border-left: 1px solid #000; }
+      *::-webkit-scrollbar-thumb { background: linear-gradient(180deg, #4a463d, #272420); border: 1px solid #000; }
+      *::-webkit-scrollbar-thumb:hover { background: linear-gradient(180deg, #5d5749, #322e27); }
+
+      /* Keep pixel fonts crisp. */
+      .font-pixel { -webkit-font-smoothing: none; }
+    </style>
+    <script type="module" crossorigin src="/spotify-radio-dj/assets/index-FoCnEoFI.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
