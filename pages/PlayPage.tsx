@@ -205,10 +205,14 @@ export const PlayPage: React.FC = () => {
               <button
                 key={p.id}
                 onClick={() => setSelectedId(active ? null : p.id)}
-                className={`text-left panel-inset p-2.5 transition-transform hover:-translate-y-0.5 ${
-                  active ? 'ring-2 ring-amber-400' : ''
-                }`}
+                className="relative text-left panel-inset p-2.5 transition-transform hover:-translate-y-0.5"
               >
+                {active && (
+                  <span
+                    aria-hidden
+                    className="pointer-events-none absolute inset-0 z-10 rounded border-2 border-amber-400 bg-amber-400/20"
+                  />
+                )}
                 <span className="bezel block mb-2">
                   {p.image ? (
                     <img src={p.image} alt="" className="w-full aspect-square object-cover rounded block" />

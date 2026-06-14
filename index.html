@@ -18,7 +18,7 @@
         default-src 'self';
         script-src 'self' https://sdk.scdn.co;
         style-src 'self' 'unsafe-inline';
-        font-src 'self';
+        font-src 'self' data:;
         img-src 'self' data: https:;
         media-src 'self' blob: https://*.scdn.co;
         connect-src 'self' https://api.spotify.com https://accounts.spotify.com https://*.spotify.com https://*.scdn.co wss://*.spotify.com wss://*.scdn.co ws://127.0.0.1:* ws://localhost:*;
