@@ -53,12 +53,32 @@ export class WebSpeechTts implements TtsEngine {
   }
 
   whenReady(): Promise<void> {
-    if (!this.synth || this.voices.length) return Promise.resolve();
+    if (!this.synth) return Promise.resolve();
+    this.loadVoices();
+    if (this.voices.length) return Promise.resolve();
+    // Chrome populates getVoices() asynchronously and may need polling (and a
+    // getVoices() call) to kick it. Resolve on voiceschanged or after a cap.
     return new Promise((resolve) => {
-      const done = () => resolve();
-      this.synth?.addEventListener?.('voiceschanged', done, { once: true });
-      window.setTimeout(done, 1500);
+      let settled = false;
+      const finish = () => {
+        if (settled) return;
+        settled = true;
+        window.clearInterval(poll);
+        this.loadVoices();
+        resolve();
+      };
+      this.synth?.addEventListener?.('voiceschanged', finish, { once: true });
+      let tries = 0;
+      const poll = window.setInterval(() => {
+        this.loadVoices();
+        if (this.voices.length || ++tries > 20) finish();
+      }, 100);
     });
+  }
+
+  /** True if the browser has at least one voice for `lang`. */
+  hasVoiceFor(lang: Lang): boolean {
+    return this.voicesFor(lang).length > 0;
   }
 
   private pickVoice(cfg: TtsVoiceConfig): SpeechSynthesisVoice | undefined {
@@ -76,6 +96,10 @@ export class WebSpeechTts implements TtsEngine {
 
   async speak(text: string, cfg: TtsVoiceConfig): Promise<void> {
     if (!this.synth) return;
+    // Wait for the voice list before choosing, so Chrome (which loads voices
+    // asynchronously) doesn't fall back to its default English voice and read
+    // Turkish text with an English accent.
+    await this.whenReady();
     this.synth.cancel();
     const voice = this.pickVoice(cfg);
     const langTag = voice?.lang ?? LANG_BCP47[cfg.lang];
