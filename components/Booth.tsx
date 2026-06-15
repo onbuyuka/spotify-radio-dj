@@ -7,6 +7,7 @@ import { Director, type DirectorState } from './Director';
 import { WebSpeechTts } from '../utils/tts';
 import { createSegmentBuilder } from '../utils/segments';
 import { loadFeed, EMPTY_FEED } from '../utils/feed';
+import { WakeLock } from '../utils/wakeLock';
 import { SOURCES, AVAILABLE_SOURCES } from '../data/sources';
 import { getEnabledSourceIds, setSourceEnabled, getVoiceForLang } from '../utils/storage';
 import type { FeedSnapshot } from '../types';
@@ -47,6 +48,7 @@ export const Booth: React.FC<BoothProps> = ({ playlist, station, cadence, onExit
     return Object.fromEntries(AVAILABLE_SOURCES.map((s) => [s.id, on.has(s.id)]));
   });
   const directorRef = useRef<Director | null>(null);
+  const wakeLockRef = useRef<WakeLock | null>(null);
   // The data feed (news/sports/weather), loaded once when the booth opens.
   const feedRef = useRef<FeedSnapshot>(EMPTY_FEED);
   // The active segment builder lives in a ref so toggling sources updates the DJ
@@ -125,6 +127,8 @@ export const Booth: React.FC<BoothProps> = ({ playlist, station, cadence, onExit
       director.stop();
       player.disconnect();
       tts.cancel();
+      wakeLockRef.current?.disable();
+      wakeLockRef.current = null;
       directorRef.current = null;
     };
   }, [getToken, playlist.id, station, cadence]);
@@ -132,6 +136,9 @@ export const Booth: React.FC<BoothProps> = ({ playlist, station, cadence, onExit
   const goOnAir = async () => {
     if (!tracks || !directorRef.current) return;
     setStarted(true);
+    // Keep the tab awake so the show keeps running between songs.
+    wakeLockRef.current = new WakeLock();
+    wakeLockRef.current.enable().catch(() => {});
     await directorRef.current.start(tracks);
   };
 
