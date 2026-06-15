@@ -1,0 +1,57 @@
+name: Refresh feed
+
+# Rebuilds public/feed.json (news, sports, weather) on the deployed gh-pages
+# branch so the DJ's data stays fresh — without a full site rebuild. The app
+# fetches feed.json at runtime. No secrets needed (all sources are public).
+
+on:
+  schedule:
+    # Every 3 hours. GitHub may delay scheduled runs under load; that's fine.
+    - cron: '0 */3 * * *'
+  workflow_dispatch: {}
+
+# Avoid overlapping runs; let the newest win.
+concurrency:
+  group: refresh-feed
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main (for the build script)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main
+
+      - name: Checkout gh-pages (the live site)
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: site
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Build the feed into the deployed site
+        run: FEED_OUT="$GITHUB_WORKSPACE/site/feed.json" node main/scripts/buildFeed.mjs
+
+      - name: Commit & push if the feed changed
+        working-directory: site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git status --porcelain | grep -q feed.json; then
+            git add feed.json
+            git commit -m "chore: refresh feed [skip ci]"
+            git push origin gh-pages
+            echo "Pushed updated feed.json"
+          else
+            echo "No change in feed.json"
+          fi
