@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
-import { getClientId, setClientId } from '../utils/storage';
+import { getClientId, setClientId, getCadence, setCadence } from '../utils/storage';
 import { getRedirectUri, DEFAULT_CLIENT_ID } from '../data/spotifyConfig';
+import { VoiceSettings } from '../components/VoiceSettings';
 
 export const SettingsPage: React.FC = () => {
   const [clientId, setClientIdState] = useState(() => {
@@ -8,12 +9,19 @@ export const SettingsPage: React.FC = () => {
     return stored === DEFAULT_CLIENT_ID ? '' : stored;
   });
   const [saved, setSaved] = useState(false);
+  const [cadence, setCadenceState] = useState(() => getCadence());
   const redirectUri = getRedirectUri();
 
   const save = () => {
     setClientId(clientId);
     setSaved(true);
     window.setTimeout(() => setSaved(false), 2000);
+  };
+
+  const changeCadence = (n: number) => {
+    const v = Math.max(1, Math.min(20, n));
+    setCadenceState(v);
+    setCadence(v);
   };
 
   const copy = (text: string) => {
@@ -78,8 +86,34 @@ export const SettingsPage: React.FC = () => {
         </p>
       </section>
 
+      <VoiceSettings />
+
+      <section className="panel p-5 mt-5">
+        <h2 className="font-pixel text-[11px] text-silver-300 flex items-center gap-2">
+          <span className="led led-green" /> DJ FREQUENCY
+        </h2>
+        <p className="mt-3 font-lcd text-lg text-silver-300 leading-snug">
+          How often the DJ speaks — a segment every{' '}
+          <span className="text-amber-400">{cadence}</span> track{cadence === 1 ? '' : 's'}.
+        </p>
+        <div className="mt-3 flex items-center gap-3">
+          <button onClick={() => changeCadence(cadence - 1)} className="btn3d">
+            −
+          </button>
+          <div className="bezel">
+            <span className="lcd px-4 py-2 inline-block font-lcd text-2xl text-amber-400 num w-16 text-center">
+              {cadence}
+            </span>
+          </div>
+          <button onClick={() => changeCadence(cadence + 1)} className="btn3d">
+            +
+          </button>
+          <span className="font-lcd text-base text-silver-500 ml-1">tracks between bits</span>
+        </div>
+      </section>
+
       <p className="mt-5 font-lcd text-base text-silver-500 text-center">
-        Stations, voices and data sources tune in as they come online.
+        Changes apply the next time you start a show.
       </p>
     </div>
   );

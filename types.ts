@@ -200,6 +200,8 @@ export interface Settings {
   selectedStationId: string;
   /** Per-source on/off, keyed by source id. */
   enabledSources: Record<string, boolean>;
+  /** Chosen TTS voice name per language (e.g. { tr: 'Microsoft Tolga' }). */
+  voiceByLang: Record<string, string>;
   /** Speak a DJ segment every N tracks. */
   cadence: number;
   /** Location used for the weather source. */

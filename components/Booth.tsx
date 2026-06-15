@@ -8,7 +8,7 @@ import { WebSpeechTts } from '../utils/tts';
 import { createSegmentBuilder } from '../utils/segments';
 import { loadFeed, EMPTY_FEED } from '../utils/feed';
 import { SOURCES, AVAILABLE_SOURCES } from '../data/sources';
-import { getEnabledSourceIds, setSourceEnabled } from '../utils/storage';
+import { getEnabledSourceIds, setSourceEnabled, getVoiceForLang } from '../utils/storage';
 import type { FeedSnapshot } from '../types';
 
 interface BoothProps {
@@ -95,7 +95,7 @@ export const Booth: React.FC<BoothProps> = ({ playlist, station, cadence, onExit
           lang,
           rate: station.voice.rate,
           pitch: station.voice.pitch,
-          voiceName: station.voice.voiceName,
+          voiceName: getVoiceForLang(lang) ?? station.voice.voiceName,
         }),
       buildSegment: (ctx) => builderRef.current(ctx),
       onState: setState,
