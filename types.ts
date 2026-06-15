@@ -56,6 +56,8 @@ export interface ScoreItem {
   awayScore?: number;
   /** "FT", "live", or a scheduled kickoff label. */
   status: string;
+  /** ISO date of the match (YYYY-MM-DD), if known. */
+  date?: string;
 }
 
 export interface WeatherItem {

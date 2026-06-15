@@ -36,10 +36,20 @@ const NEWS_FEEDS = [
 ];
 
 // --- Sports (TheSportsDB free "123" key) ----------------------------------
+// A broad list of big competitions. Whatever is IN SEASON surfaces; out-of-
+// season leagues are dropped by the freshness window below (so we never narrate
+// a month-old game as if it's news). Order = rough priority.
 const SPORTS_LEAGUES = [
+  { id: 4429, league: 'World Cup' }, // in season Jun–Jul 2026
   { id: 4339, league: 'Süper Lig' },
   { id: 4328, league: 'Premier League' },
+  { id: 4335, league: 'La Liga' },
+  { id: 4331, league: 'Bundesliga' },
+  { id: 4332, league: 'Serie A' },
 ];
+
+// Only narrate results from the last this-many days; older games are stale.
+const SPORTS_MAX_AGE_DAYS = 10;
 
 // --- Weather (Open-Meteo, no key) -----------------------------------------
 const WEATHER_PLACES = [
@@ -158,13 +168,21 @@ async function collectNews() {
 
 async function collectSports() {
   const scores = [];
+  const cutoff = Date.now() - SPORTS_MAX_AGE_DAYS * 86_400_000;
   for (const lg of SPORTS_LEAGUES) {
     try {
       const j = await fetchJson(
         `https://www.thesportsdb.com/api/v1/json/123/eventspastleague.php?id=${lg.id}`,
       );
-      const events = (j.events || []).slice(0, 6);
-      for (const e of events) {
+      // Keep only recently-played games, newest first.
+      const fresh = (j.events || [])
+        .filter((e) => {
+          const t = Date.parse(e.dateEvent || '');
+          return Number.isFinite(t) && t >= cutoff;
+        })
+        .sort((a, b) => Date.parse(b.dateEvent) - Date.parse(a.dateEvent))
+        .slice(0, 4);
+      for (const e of fresh) {
         scores.push({
           league: lg.league,
           home: e.strHomeTeam,
@@ -172,9 +190,10 @@ async function collectSports() {
           homeScore: e.intHomeScore != null ? Number(e.intHomeScore) : undefined,
           awayScore: e.intAwayScore != null ? Number(e.intAwayScore) : undefined,
           status: 'FT',
+          date: e.dateEvent,
         });
       }
-      console.log(`  sports: ${lg.league} → ${events.length}`);
+      console.log(`  sports: ${lg.league} → ${fresh.length}`);
     } catch (e) {
       console.warn(`  sports: ${lg.league} FAILED (${e.message})`);
     }
