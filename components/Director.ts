@@ -10,6 +10,16 @@ import { pick, shuffled } from '../utils/random';
 const TICK_MS = 1000;
 /** Treat the track as finished this close to the end (smooths the handoff). */
 const END_THRESHOLD_MS = 1500;
+/** Hard cap on a DJ segment so a hung TTS/build can never freeze the show. */
+const SEGMENT_TIMEOUT_MS = 35000;
+
+/** Resolve when `p` settles or after `ms`, whichever comes first. */
+function withTimeout<T>(p: Promise<T>, ms: number): Promise<T | void> {
+  return Promise.race([
+    p,
+    new Promise<void>((resolve) => setTimeout(resolve, ms)),
+  ]);
+}
 
 export interface DirectorState {
   phase: DirectorPhase;
@@ -268,32 +278,41 @@ export class Director {
     if (this.advancing || this.stopped || this.userPaused) return;
     this.advancing = true;
     this.clearTicker();
+    try {
+      const justPlayed = this.queue[this.index] ?? null;
+      const nextIndex = this.computeNext(true);
 
-    const justPlayed = this.queue[this.index] ?? null;
-    const nextIndex = this.computeNext(true);
-
-    if (nextIndex === null) {
-      // Reached the end with repeat off: sign off and stop.
-      await this.runOutro();
-      if (!this.stopped) {
-        this.stopped = true;
-        this.setPhase('idle');
-        await this.deps.player.pause().catch(() => {});
+      if (nextIndex === null) {
+        // Reached the end with repeat off: sign off and stop.
+        await withTimeout(this.runOutro(), SEGMENT_TIMEOUT_MS);
+        if (!this.stopped) {
+          this.stopped = true;
+          this.setPhase('idle');
+          await this.deps.player.pause().catch(() => {});
+        }
+        return;
       }
+
+      const upNext = this.queue[nextIndex] ?? null;
+      this.tracksSinceDj++;
+      if (this.tracksSinceDj >= this.deps.cadence) {
+        this.tracksSinceDj = 0;
+        // A hung segment (e.g. a TTS engine that never fires onend) must never
+        // freeze the show, so cap how long the DJ bit can take.
+        await withTimeout(this.runSegment(justPlayed, upNext), SEGMENT_TIMEOUT_MS);
+      }
+
+      if (!this.stopped) await this.playIndex(nextIndex);
+    } catch {
+      // Never let a failed segment/handoff strand the show — advance anyway.
+      if (!this.stopped) {
+        const fallback = (this.index + 1) % this.queue.length;
+        await this.playIndex(fallback).catch(() => {});
+      }
+    } finally {
       this.advancing = false;
-      return;
+      if (!this.stopped && !this.userPaused) this.startTicker();
     }
-
-    const upNext = this.queue[nextIndex] ?? null;
-    this.tracksSinceDj++;
-    if (this.tracksSinceDj >= this.deps.cadence) {
-      this.tracksSinceDj = 0;
-      await this.runSegment(justPlayed, upNext);
-    }
-
-    if (!this.stopped) await this.playIndex(nextIndex);
-    this.advancing = false;
-    if (!this.stopped && !this.userPaused) this.startTicker();
   }
 
   private async runOutro(): Promise<void> {
@@ -358,8 +377,9 @@ export class Director {
       if (s.duration > 0 && s.duration - s.position <= END_THRESHOLD_MS) {
         void this.onTrackEnded();
       }
-    } else if (this.wasPlaying && s.position === 0) {
-      // Single-URI playback pauses at position 0 when a track ends naturally.
+    } else if (this.wasPlaying && (s.position === 0 || s.duration - s.position <= END_THRESHOLD_MS)) {
+      // A finished single track pauses either at position 0 or at its full
+      // duration depending on the SDK build — treat both as "ended".
       void this.onTrackEnded();
     }
   }

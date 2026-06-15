@@ -18,13 +18,22 @@ export async function spotifyFetch<T>(
   path: string,
   init?: RequestInit,
 ): Promise<T> {
-  const res = await fetch(`${API_BASE}${path}`, {
-    ...init,
-    headers: {
-      Authorization: `Bearer ${tokens.accessToken}`,
-      ...(init?.headers ?? {}),
-    },
-  });
+  // Abort a stalled request so a network hang can never freeze the show.
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), 12000);
+  let res: Response;
+  try {
+    res = await fetch(`${API_BASE}${path}`, {
+      ...init,
+      signal: ctrl.signal,
+      headers: {
+        Authorization: `Bearer ${tokens.accessToken}`,
+        ...(init?.headers ?? {}),
+      },
+    });
+  } finally {
+    clearTimeout(timer);
+  }
   if (!res.ok) {
     const text = await res.text().catch(() => '');
     throw new SpotifyApiError(res.status, `Spotify API ${res.status}: ${text.slice(0, 200)}`);

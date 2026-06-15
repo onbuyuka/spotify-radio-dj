@@ -120,14 +120,33 @@ export class WebSpeechTts implements TtsEngine {
     cfg: TtsVoiceConfig,
   ): Promise<void> {
     return new Promise<void>((resolve) => {
+      let done = false;
+      const finish = () => {
+        if (done) return;
+        done = true;
+        window.clearTimeout(watchdog);
+        resolve();
+      };
       const u = new SpeechSynthesisUtterance(text);
       if (voice) u.voice = voice;
       u.lang = langTag;
       u.rate = cfg.rate;
       u.pitch = cfg.pitch;
       // Resolve on end OR error so a TTS hiccup never stalls the show.
-      u.onend = () => resolve();
-      u.onerror = () => resolve();
+      u.onend = finish;
+      u.onerror = finish;
+      // Watchdog: Chrome's onend/onerror sometimes never fire (the speech
+      // engine can silently die), which would hang the whole show. Force-resolve
+      // after a generous estimate of the spoken duration so playback continues.
+      const estMs = (text.length / 12) * 1000 / Math.max(0.5, cfg.rate) + 5000;
+      const watchdog = window.setTimeout(() => {
+        try {
+          this.synth?.cancel();
+        } catch {
+          // ignore
+        }
+        finish();
+      }, Math.min(30000, Math.max(6000, estMs)));
       this.synth!.speak(u);
     });
   }
