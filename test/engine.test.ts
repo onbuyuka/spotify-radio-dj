@@ -11,6 +11,7 @@ import {
 } from '../utils/segments';
 import { chunkText } from '../utils/tts';
 import { shuffled } from '../utils/random';
+import { isTrackEnd } from '../components/Director';
 import { normalizeState, defaultState } from '../utils/storage';
 import type { SpotifyTrack, FeedSnapshot } from '../types';
 
@@ -82,6 +83,62 @@ describe('chunkText', () => {
     const chunks = chunkText(sentence.repeat(8));
     expect(chunks.length).toBeGreaterThan(1);
     for (const c of chunks) expect(c.length).toBeLessThanOrEqual(180);
+  });
+});
+
+describe('isTrackEnd', () => {
+  const URI = 'spotify:track:current';
+  // Minimal PlaybackState shape (only the fields isTrackEnd reads).
+  const state = (over: Record<string, unknown> = {}): never =>
+    ({
+      paused: false,
+      position: 5000,
+      duration: 200000,
+      track_window: {
+        current_track: { uri: URI, id: 'current' },
+        previous_tracks: [],
+        next_tracks: [],
+      },
+      ...over,
+    }) as never;
+
+  it('is false for a null state', () => {
+    expect(isTrackEnd(null, URI, true)).toBe(false);
+  });
+
+  it('is false mid-track while playing', () => {
+    expect(isTrackEnd(state(), URI, true)).toBe(false);
+  });
+
+  it('is true near the end while still playing', () => {
+    expect(isTrackEnd(state({ position: 199_000 }), URI, true)).toBe(true);
+  });
+
+  it('is true when paused at position 0 after playing (single-track end)', () => {
+    expect(isTrackEnd(state({ paused: true, position: 0 }), URI, true)).toBe(true);
+  });
+
+  it('is true when paused with the track now in previous_tracks', () => {
+    const s = state({
+      paused: true,
+      position: 123,
+      track_window: {
+        current_track: { uri: URI, id: 'current' },
+        previous_tracks: [{ uri: URI, id: 'current' }],
+        next_tracks: [],
+      },
+    });
+    expect(isTrackEnd(s, URI, true)).toBe(true);
+  });
+
+  it('is false when paused at position 0 but never seen playing (loading)', () => {
+    expect(isTrackEnd(state({ paused: true, position: 0 }), URI, false)).toBe(false);
+  });
+
+  it('is false for a stale event about a different track', () => {
+    expect(isTrackEnd(state({ paused: true, position: 0 }), 'spotify:track:other', true)).toBe(
+      false,
+    );
   });
 });
 

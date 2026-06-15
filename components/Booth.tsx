@@ -87,6 +87,9 @@ export const Booth: React.FC<BoothProps> = ({ playlist, station, cadence, onExit
     const tts = new WebSpeechTts();
     const player = new RadioPlayer(getToken, {
       onError: (m) => setState((s) => (s ? { ...s, error: m } : s)),
+      // Forward the SDK's player_state_changed events to the Director for
+      // reliable, event-driven end-of-track detection.
+      onState: (s) => directorRef.current?.handleState(s),
     });
     const director = new Director({
       player,

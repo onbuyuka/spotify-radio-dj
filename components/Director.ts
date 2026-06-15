@@ -21,6 +21,33 @@ function withTimeout<T>(p: Promise<T>, ms: number): Promise<T | void> {
   ]);
 }
 
+/**
+ * Decide whether a playback state means the expected track has ended. Pure and
+ * unit-tested so the (untestable-live) state machine has a verified core.
+ *
+ * A single-track URI can signal its end several ways depending on the SDK
+ * build: paused at position 0, paused at full duration, or the just-played
+ * track appearing in `previous_tracks`. We also treat "within END_THRESHOLD of
+ * the end while still playing" as ended to smooth the handoff.
+ */
+export function isTrackEnd(
+  s: Spotify.PlaybackState | null,
+  expectedUri: string | undefined,
+  wasPlaying: boolean,
+): boolean {
+  if (!s) return false;
+  const current = s.track_window?.current_track;
+  if (!current || current.uri !== expectedUri) return false;
+  const nearEnd = s.duration > 0 && s.duration - s.position <= END_THRESHOLD_MS;
+  if (!s.paused) return nearEnd;
+  if (!wasPlaying) return false;
+  const inPrev =
+    s.track_window?.previous_tracks?.some(
+      (t) => t.uri === current.uri || (t.id != null && t.id === current.id),
+    ) ?? false;
+  return s.position === 0 || inPrev || nearEnd;
+}
+
 export interface DirectorState {
   phase: DirectorPhase;
   track: SpotifyTrack | null;
@@ -80,6 +107,10 @@ export class Director {
   private userPaused = false;
   private stopped = true;
   private failures = 0;
+  /** End-detection watchdog state (see tick / handleState). */
+  private lastPos = -1;
+  private stalledTicks = 0;
+  private nullTicks = 0;
 
   constructor(deps: DirectorDeps) {
     this.deps = deps;
@@ -258,6 +289,9 @@ export class Director {
     this.wasPlaying = false;
     this.positionMs = 0;
     this.durationMs = this.queue[i]?.durationMs ?? 0;
+    this.lastPos = -1;
+    this.stalledTicks = 0;
+    this.nullTicks = 0;
     this.setPhase('playingTrack');
     try {
       await this.deps.player.playTrack(this.queue[i].uri);
@@ -358,12 +392,47 @@ export class Director {
     }
   }
 
+  /**
+   * Authoritative end-of-track signal from the SDK's player_state_changed
+   * event. This fires reliably at the transition even when getCurrentState()
+   * subsequently returns null (which happens when a single-track URI ends and
+   * the device goes idle — the exact case that used to freeze the show).
+   */
+  handleState(s: Spotify.PlaybackState | null): void {
+    if (!s || this.phase !== 'playingTrack' || this.stopped || this.userPaused || this.advancing) {
+      return;
+    }
+    const current = s.track_window?.current_track;
+    const expected = this.queue[this.index]?.uri;
+    if (!current || current.uri !== expected) return;
+
+    this.positionMs = s.position;
+    if (s.duration) this.durationMs = s.duration;
+    if (!s.paused) this.wasPlaying = true;
+    this.emit();
+
+    if (isTrackEnd(s, expected, this.wasPlaying)) {
+      void this.onTrackEnded();
+    }
+  }
+
   private async tick(): Promise<void> {
     if (this.phase !== 'playingTrack' || this.stopped || this.userPaused || this.advancing) {
       return;
     }
     const s = await this.deps.player.getState();
-    if (!s) return;
+
+    if (!s) {
+      // No state while we believe we're playing: a finished single track makes
+      // the device go idle and getCurrentState() return null. After a few
+      // seconds of that, treat the track as ended so the show never freezes.
+      if (this.wasPlaying && ++this.nullTicks >= 3) {
+        this.nullTicks = 0;
+        void this.onTrackEnded();
+      }
+      return;
+    }
+    this.nullTicks = 0;
     this.positionMs = s.position;
     this.durationMs = s.duration;
     this.emit();
@@ -374,12 +443,21 @@ export class Director {
 
     if (!s.paused) {
       this.wasPlaying = true;
-      if (s.duration > 0 && s.duration - s.position <= END_THRESHOLD_MS) {
-        void this.onTrackEnded();
+      // Stall watchdog: if the position stops advancing for ~8s mid-track, the
+      // SDK has wedged — advance rather than freeze.
+      if (s.position === this.lastPos) {
+        if (++this.stalledTicks >= 8) {
+          this.stalledTicks = 0;
+          void this.onTrackEnded();
+          return;
+        }
+      } else {
+        this.stalledTicks = 0;
       }
-    } else if (this.wasPlaying && (s.position === 0 || s.duration - s.position <= END_THRESHOLD_MS)) {
-      // A finished single track pauses either at position 0 or at its full
-      // duration depending on the SDK build — treat both as "ended".
+      this.lastPos = s.position;
+    }
+
+    if (isTrackEnd(s, expected, this.wasPlaying)) {
       void this.onTrackEnded();
     }
   }
