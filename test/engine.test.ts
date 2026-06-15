@@ -4,12 +4,15 @@ import {
   buildSongSegment,
   songTrivia,
   buildFactSegment,
+  buildNewsSegment,
+  buildSportsSegment,
+  buildWeatherSegment,
   createSegmentBuilder,
 } from '../utils/segments';
 import { chunkText } from '../utils/tts';
 import { shuffled } from '../utils/random';
 import { normalizeState, defaultState } from '../utils/storage';
-import type { SpotifyTrack } from '../types';
+import type { SpotifyTrack, FeedSnapshot } from '../types';
 
 function track(over: Partial<SpotifyTrack> = {}): SpotifyTrack {
   return {
@@ -122,6 +125,72 @@ describe('createSegmentBuilder', () => {
     const first = await build(ctx);
     const second = await build(ctx);
     expect(new Set([first!.sourceId, second!.sourceId])).toEqual(new Set(['song', 'fact']));
+  });
+});
+
+function feed(over: Partial<FeedSnapshot> = {}): FeedSnapshot {
+  return {
+    updated: '2026-06-15T00:00:00Z',
+    news: [
+      { title: 'Türkçe başlık', source: 'NTV', lang: 'tr' },
+      { title: 'World headline', source: 'BBC World', lang: 'en' },
+    ],
+    sports: [{ league: 'Süper Lig', home: 'A', away: 'B', homeScore: 2, awayScore: 1, status: 'FT' }],
+    weather: [{ place: 'İstanbul', tempC: 26, description: 'clear sky', high: 27, low: 18 }],
+    facts: [],
+    ...over,
+  };
+}
+
+describe('buildNewsSegment', () => {
+  const en = getStation('night-owl');
+  it('speaks a Turkish headline in Turkish (item language, not station)', () => {
+    const seg = buildNewsSegment(en, { title: 'Deneme', source: 'NTV', lang: 'tr' });
+    expect(seg.lang).toBe('tr');
+    expect(seg.text).toContain('Deneme');
+    expect(seg.text).toContain('NTV');
+  });
+  it('speaks an English headline in English', () => {
+    const seg = buildNewsSegment(en, { title: 'Hello', source: 'BBC', lang: 'en' });
+    expect(seg.lang).toBe('en');
+    expect(seg.text).toContain('From BBC');
+  });
+});
+
+describe('buildSportsSegment / buildWeatherSegment', () => {
+  const tr = getStation('radyo-gece');
+  const en = getStation('night-owl');
+  it('formats a score in the station language', () => {
+    const s = buildSportsSegment(en, { league: 'EPL', home: 'X', away: 'Y', homeScore: 3, awayScore: 0, status: 'FT' });
+    expect(s.lang).toBe('en');
+    expect(s.text).toContain('X 3');
+    expect(s.text).toContain('Y 0');
+  });
+  it('formats weather in Turkish for a Turkish station', () => {
+    const w = buildWeatherSegment(tr, { place: 'İstanbul', tempC: 20, description: 'clear sky' });
+    expect(w.lang).toBe('tr');
+    expect(w.text).toContain('İstanbul');
+    expect(w.text).toContain('20');
+  });
+});
+
+describe('createSegmentBuilder with a feed', () => {
+  const en = getStation('night-owl');
+  const ctx = { station: en, justPlayed: track(), upNext: track(), index: 0 };
+
+  it('pulls Turkish news for news-tr and English for news-world', async () => {
+    const build = createSegmentBuilder(['news-tr', 'news-world'], feed());
+    const a = await build(ctx);
+    const b = await build(ctx);
+    const byLang = Object.fromEntries([a, b].map((s) => [s!.lang, s!.text]));
+    expect(byLang.tr).toContain('Türkçe başlık');
+    expect(byLang.en).toContain('World headline');
+  });
+
+  it('skips a feed source with no items and still returns a segment', async () => {
+    const build = createSegmentBuilder(['sports'], feed({ sports: [] }));
+    const seg = await build(ctx);
+    expect(seg!.sourceId).toBe('song'); // fell back
   });
 });
 

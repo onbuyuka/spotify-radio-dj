@@ -6,8 +6,10 @@ import { RadioPlayer } from './RadioPlayer';
 import { Director, type DirectorState } from './Director';
 import { WebSpeechTts } from '../utils/tts';
 import { createSegmentBuilder } from '../utils/segments';
+import { loadFeed, EMPTY_FEED } from '../utils/feed';
 import { SOURCES, AVAILABLE_SOURCES } from '../data/sources';
 import { getEnabledSourceIds, setSourceEnabled } from '../utils/storage';
+import type { FeedSnapshot } from '../types';
 
 interface BoothProps {
   playlist: SpotifyPlaylist;
@@ -45,6 +47,8 @@ export const Booth: React.FC<BoothProps> = ({ playlist, station, cadence, onExit
     return Object.fromEntries(AVAILABLE_SOURCES.map((s) => [s.id, on.has(s.id)]));
   });
   const directorRef = useRef<Director | null>(null);
+  // The data feed (news/sports/weather), loaded once when the booth opens.
+  const feedRef = useRef<FeedSnapshot>(EMPTY_FEED);
   // The active segment builder lives in a ref so toggling sources updates the DJ
   // live without tearing down the player/Director.
   const builderRef = useRef(createSegmentBuilder([]));
@@ -54,8 +58,22 @@ export const Booth: React.FC<BoothProps> = ({ playlist, station, cadence, onExit
     [enabled],
   );
   useEffect(() => {
-    builderRef.current = createSegmentBuilder(sourceIds);
+    builderRef.current = createSegmentBuilder(sourceIds, feedRef.current);
   }, [sourceIds]);
+
+  // Fetch the feed snapshot once; rebuild the segment builder when it arrives.
+  useEffect(() => {
+    let cancelled = false;
+    loadFeed().then((feed) => {
+      if (cancelled) return;
+      feedRef.current = feed;
+      builderRef.current = createSegmentBuilder(sourceIds, feed);
+    });
+    return () => {
+      cancelled = true;
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const toggleSource = (id: string) => {
     const next = !enabled[id];
