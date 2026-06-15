@@ -49,7 +49,9 @@ const SPORTS_LEAGUES = [
 ];
 
 // Only narrate results from the last this-many days; older games are stale.
-const SPORTS_MAX_AGE_DAYS = 10;
+const SPORTS_MAX_AGE_DAYS = 2;
+// Cap total games kept across all leagues.
+const SPORTS_CAP = 12;
 
 // --- Weather (Open-Meteo, no key) -----------------------------------------
 const WEATHER_PLACES = [
@@ -166,40 +168,64 @@ async function collectNews() {
   return news.slice(0, NEWS_CAP);
 }
 
-async function collectSports() {
-  const scores = [];
-  const cutoff = Date.now() - SPORTS_MAX_AGE_DAYS * 86_400_000;
-  for (const lg of SPORTS_LEAGUES) {
-    try {
-      const j = await fetchJson(
-        `https://www.thesportsdb.com/api/v1/json/123/eventspastleague.php?id=${lg.id}`,
-      );
-      // Keep only recently-played games, newest first.
-      const fresh = (j.events || [])
-        .filter((e) => {
-          const t = Date.parse(e.dateEvent || '');
-          return Number.isFinite(t) && t >= cutoff;
-        })
-        .sort((a, b) => Date.parse(b.dateEvent) - Date.parse(a.dateEvent))
-        .slice(0, 4);
-      for (const e of fresh) {
-        scores.push({
-          league: lg.league,
-          home: e.strHomeTeam,
-          away: e.strAwayTeam,
-          homeScore: e.intHomeScore != null ? Number(e.intHomeScore) : undefined,
-          awayScore: e.intAwayScore != null ? Number(e.intAwayScore) : undefined,
-          status: 'FT',
-          date: e.dateEvent,
-        });
-      }
-      console.log(`  sports: ${lg.league} → ${fresh.length}`);
-    } catch (e) {
-      console.warn(`  sports: ${lg.league} FAILED (${e.message})`);
-    }
-    await new Promise((r) => setTimeout(r, 1500)); // be gentle on the free tier
+/** Calendar dates (YYYY-MM-DD, UTC) from today back `days` days, inclusive. */
+function recentDates(days) {
+  const out = [];
+  const now = Date.now();
+  for (let i = 0; i <= days; i++) {
+    out.push(new Date(now - i * 86_400_000).toISOString().slice(0, 10));
   }
-  return scores;
+  return out;
+}
+
+async function collectSports() {
+  const cutoff = Date.now() - SPORTS_MAX_AGE_DAYS * 86_400_000;
+  const dates = recentDates(Math.ceil(SPORTS_MAX_AGE_DAYS));
+  const seen = new Set();
+  const collected = [];
+
+  // Sweep each league day-by-day via eventsday (richer than eventspastleague,
+  // which only returns one game on the free tier). Gives every finished and
+  // upcoming fixture for the league on that date.
+  for (const lg of SPORTS_LEAGUES) {
+    let count = 0;
+    for (const date of dates) {
+      try {
+        const j = await fetchJson(
+          `https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=${date}&l=${lg.id}`,
+        );
+        for (const e of j.events || []) {
+          const id = e.idEvent || `${e.strHomeTeam}-${e.strAwayTeam}-${e.dateEvent}`;
+          if (seen.has(id)) continue;
+          const t = Date.parse(e.dateEvent || '');
+          if (!Number.isFinite(t) || t < cutoff) continue;
+          seen.add(id);
+          const hasScore = e.intHomeScore != null && e.intAwayScore != null;
+          collected.push({
+            ts: t,
+            league: lg.league,
+            home: e.strHomeTeam,
+            away: e.strAwayTeam,
+            homeScore: hasScore ? Number(e.intHomeScore) : undefined,
+            awayScore: hasScore ? Number(e.intAwayScore) : undefined,
+            status: hasScore ? 'FT' : 'upcoming',
+            date: e.dateEvent,
+          });
+          count++;
+        }
+      } catch (e) {
+        console.warn(`  sports: ${lg.league} ${date} FAILED (${e.message})`);
+      }
+      await new Promise((r) => setTimeout(r, 1200)); // free tier: ~30 req/min
+    }
+    console.log(`  sports: ${lg.league} → ${count}`);
+  }
+
+  // Newest first; finished games before same-day upcoming fixtures.
+  collected.sort(
+    (a, b) => b.ts - a.ts || (a.status === 'FT' ? 0 : 1) - (b.status === 'FT' ? 0 : 1),
+  );
+  return collected.slice(0, SPORTS_CAP).map(({ ts, ...rest }) => rest);
 }
 
 async function collectWeather() {
