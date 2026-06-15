@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T11:56:48.327Z",
+  "updated": "2026-06-15T11:55:17.808Z",
   "news": [
     {
       "title": "ABD-İran anlaşmasına İsrail ne tepki verdi?",
@@ -50,13 +50,6 @@
       "publishedAt": "Mon, 15 Jun 2026 06:04:30 GMT"
     },
     {
-      "title": "İzmir Büyükşehir Belediyesi işçileri iş bıraktı",
-      "summary": "İzmir'de TİS görüşmelerinden sonuç alamayan Büyükşehir Belediyesi işçileri, bir günlük iş bırakma eylemi gerçekleştirdi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-15T14:53:15+03:00"
-    },
-    {
       "title": "Cumhurbaşkanı Erdoğan: 2026 Türkiye için zirveler yılı",
       "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, bu senenin her alanda Türkiye için zirveler yılı olduğunu ifade edip \"Kimsenin motivasyonumuzu bozmasına müsaade etmeyeceğiz.\" dedi.",
       "source": "NTV",
@@ -92,12 +85,11 @@
       "publishedAt": "2026-06-15T12:45:12+03:00"
     },
     {
-      "title": "İspanya - Yeşil Burun Adaları maçı ne zaman?",
-      "summary": "2026 FIFA Dünya Kupası'nda favorilerden İspanya, turnuvanın sürpriz ekiplerinden Yeşil Burun Adaları ile karşı karşıya geliyor. Futbolseverlerin merakla beklediği mücadele ne zaman oynanacak, saat kaçta başlayacak ve hangi kanaldan canlı ya",
-      "source": "Habertürk",
+      "title": "34 ildeki dolandırıcılık ve yasa dışı bahis operasyonunda 159 tutuklama",
+      "summary": "İçişleri Bakanlığı, yasa dışı bahis ve nitelikli dolandırıcılık suçlarına yönelik 34 ilde düzenlenen operasyonlarda gözaltına alınan 293 şüpheliden 159'unun tutuklandığını bildirdi.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya-kupasi-maclari-ispanya-yesil-burun-adalari-maci-ne-zaman-saat-kacta-hangi-kanalda-dunya-kupasi-canli-izle-3891721",
-      "publishedAt": "Mon, 15 Jun 2026 08:40:03 GMT"
+      "publishedAt": "2026-06-15T11:54:48+03:00"
     },
     {
       "title": "Kabine Toplantısı saat kaçta?",
@@ -138,6 +130,14 @@
       "lang": "tr",
       "link": "https://www.haberturk.com/ayt-2026-sinav-tarihi-ayt-ne-zaman-saat-kacta-osym-detaylari-acikladi-2026-alan-yeterlilik-testleri-ayt-kac-soru-kac-dakika-olacak-3891687",
       "publishedAt": "Mon, 15 Jun 2026 07:18:13 GMT"
+    },
+    {
+      "title": "Beyaz Saray'da bir ilk",
+      "summary": "ABD tarihinde ilk kez Beyaz Saray, Ultimate Fighting Championship (UFC) karşılaşmalarına ev sahipliği yaptı. ABD Bağımsızlık Bildirgesinin imzalanmasının 250. yıl dönümü kutlamaları kapsamında düzenlenen etkinlik, Başkan Trump'ın 80'inci do",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/beyaz-saray-da-bir-ilk-trump-in-dogum-gununde-ufc-karsilasmalarina-ev-sahipligi-yapti-3891681",
+      "publishedAt": "Mon, 15 Jun 2026 07:03:52 GMT"
     },
     {
       "title": "Oil prices fall and shares jump after US-Iran deal announced",
@@ -236,14 +236,6 @@
       "publishedAt": "Mon, 15 Jun 2026 10:55:55 +0000"
     },
     {
-      "title": "As Luigi Mangione's lawyers head to court, support grows for the accused 'vigilante'",
-      "summary": "Luigi Mangione's legal team is back in court in New York City this week for a key pretrial hearing. He's accused of stalking and killing an insurance CEO. Donors have given $1.5 million to support his defense.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/15/nx-s1-5853110/luigi-mangione-court-hearings-growing-support",
-      "publishedAt": "Mon, 15 Jun 2026 07:48:33 -0400"
-    },
-    {
       "title": "Trump announces deal to end war in Iran. And, how to stay safe in deadly heat",
       "summary": "Trump says a deal has been reached to end the war between the U.S. and Iran. Plus, this is what extreme temperatures do to the human body — and how you can keep yourself safe.",
       "source": "NPR",
@@ -281,6 +273,14 @@
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/06/15/nx-s1-5857699/2026-fifa-world-cup-week-1-highlights",
+      "publishedAt": "Mon, 15 Jun 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Most parents track their 18-25-year-old kids on their smartphones. Is that healthy?",
+      "summary": "A new survey from the University of Michigan asks parents about their use of technology to track their adult children, ages 18-25, including using \"always on\" location tracking on their smartphones.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/15/nx-s1-5854613/tracking-smartphone-kids-parents-adults",
       "publishedAt": "Mon, 15 Jun 2026 05:00:00 -0400"
     },
     {
