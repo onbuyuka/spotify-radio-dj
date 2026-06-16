@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T11:06:28.763Z",
+  "updated": "2026-06-16T16:47:45.313Z",
   "news": [
     {
       "title": "104 maçı canlı takip edin",
@@ -10,12 +10,20 @@
       "publishedAt": "Thu, 04 Jun 2026 07:01:41 GMT"
     },
     {
+      "title": "İtalya'nın Konya'ya konuşlandıracağı SAMP/T Hava Savunma Sistemi nedir?",
+      "summary": "Milli Savunma Bakanlığı (MSB) NATO Daimi Savunma Planı kapsamında İtalya'ya ait bir adet SAMP/T Hava Savunma Sistemi'nin Konya'ya konuşlandırılacağını açıkladı. Amerikan yapımı Patriot'a alternatif görülen SAMP/T mobil bir karadan havaya sa",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c1eyg8qde95o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 15:59:41 GMT"
+    },
+    {
       "title": "Trump'tan İsrail'e Lübnan eleştirisi: 'Her seferinde bir binayı havaya uçurmak zorunda değilsiniz'",
       "summary": "ABD Başkanı Donald Trump, İsrail Başbakanı Binyamin Netanyahu ile \"harika\" bir ilişkisi olduğunu, fakat İsrail'in Lübnan konusunda \"daha sorumlu davranması gerektiğini\" söyledi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cddly2l63g3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 10:48:06 GMT"
+      "publishedAt": "Tue, 16 Jun 2026 14:18:53 GMT"
     },
     {
       "title": "ABD-İran anlaşması Türkiye ekonomisini nasıl etkileyebilir?",
@@ -34,14 +42,6 @@
       "publishedAt": "Tue, 16 Jun 2026 05:43:51 GMT"
     },
     {
-      "title": "Evde ayakkabı giymek sağlıksız mı mantıklı mı?",
-      "summary": "BBC Dünya Servisi iç mekana ayakkabıyla girmenin sağlık riski oluşturup oluşturmadığını araştırdı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c0myw20ddp9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 01:01:28 GMT"
-    },
-    {
       "title": "TEST: Dünya Kupası'ndaki formaları ne kadar tanıyorsunuz?",
       "summary": "Dünya Kupası'nda çok sayıda göz alıcı forma sergileniyor. Peki, yeni formaları ne kadar tanıyorsunuz? Testi çözün ve Dünya Kupası formaları hakkındaki bilginizi sınayın.",
       "source": "BBC Türkçe",
@@ -50,46 +50,62 @@
       "publishedAt": "Fri, 12 Jun 2026 14:11:19 GMT"
     },
     {
-      "title": "Bakan Gürlek'ten AP Türkiye taslak raporuna tepki: Biz görevimizi yaptık",
-      "summary": "Adalet Bakanı Akın Gürlek, Avrupa Parlamentosu'nun (AP) Türkiye taslak raporundaki kendisiyle ilgili değerlendirmelere bir kez daha tepki gösterip \"Biz görevimizi yaptık, yapmaya da devam ediyoruz.\" dedi.",
+      "title": "5 ilde yasa dışı bahis operasyonu. 1 milyar 165 milyon TL'lik işlem hacmi belirlendi",
+      "summary": "Diyarbakır merkezli 5 ilde düzenlenen yasa dışı bahis operasyonunda 51 şahıs gözaltına alındı. Şahısların banka hesaplarında 1 milyar 165 milyon 753 bin liralık işlem hacmi belirlendi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-16T13:10:18+03:00"
+      "publishedAt": "2026-06-16T19:18:59+03:00"
     },
     {
-      "title": "\"Doğum kontrol hapı kullanıyor\" deyip boşanma davası açmıştı. Yargıtay kararını açıkladı",
-      "summary": "Ankara'da davacı koca, eşinin kendi bilgisi dışında doğum kontrol hapı kullandığını ileri sürerek boşanma davası açtı. Aile mahkemesi, iddiaların ispatlanamaması nedeniyle davayı reddetti. İstinaf ve Yargıtay kararı hukuka uygun buldu.",
+      "title": "Aziz İhsan Aktaş davasında 33. duruşma. Zeydan Karalar savunma yaptı",
+      "summary": "Aziz İhsan Aktaş suç örgütüne ilişkin davasında görevinden uzaklaştırılan Adana Büyükşehir Belediye Başkanı Zeydan Karalar savunma yaptı. Karalar, \"Belediye başkanlarının ihale almada, vermede bir yetkileri yok. İhale komisyonu ihtiyaç duya",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-16T12:59:13+03:00"
+      "publishedAt": "2026-06-16T18:16:46+03:00"
     },
     {
-      "title": "TBMM Başkanı Kurtulmuş DEM Parti İmralı heyetiyle bir araya geldi",
-      "summary": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş, DEM Parti İmralı heyetiyle bir görüşme gerçekleştirdi.",
+      "title": "MSB duyurdu. İtalya'nın SAMP-T bataryası Konya'ya konuşlandırılacak",
+      "summary": "Milli Savunma Bakanlığı, İtalya'ya ait bir SAMP-T hava savunma sisteminin NATO Daimi Savunma Planı kapsamında Konya'ya konuşlandırılacağını bildirdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-16T12:44:07+03:00"
+      "publishedAt": "2026-06-16T18:08:41+03:00"
     },
     {
-      "title": "Büyükçekmece Adliyesi'nden 25 kilo altın, 50 gümüşle kaçmışlardı. İki şüpheli adliyeye sevk edildi",
-      "summary": "Büyükçekmece Adliyesi'nden 25 kilogram altın ve 50 kilogram gümüşün çalınmasına ilişkin yürütülen soruşturmada Türkiye'ye teslim olan 2 şüpheli, adliyeye sevk edildi.",
+      "title": "Can Holding soruşturması. Remzi Sanver tahliye edildi",
+      "summary": "Can Holding soruşturması kapsamında gözaltına alınan ve tutuklanan Bilgi Üniversitesi'nin eski rektörü Remzi Sanver tahliye edildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-16T12:29:25+03:00"
+      "publishedAt": "2026-06-16T17:40:05+03:00"
     },
     {
-      "title": "İlginç olay: Aranan şahıs diye durduruldu, sistemde kendi fotoğrafını görünce şaşırdı",
-      "summary": "Osmaniye'de yaşayan Emrah Baş, Kent Güvenlik Yönetim Sistemi (KGYS) bünyesinde kullanılan yüz tanıma sisteminde aranan bir şahsa ait fotoğraflar arasına iddiaya göre kendi fotoğrafının yüklenmesi nedeniyle zaman zaman polis ekipleri tarafın",
+      "title": "Tuzla'da bir gemi yangını. Ekipler olay yerinde",
+      "summary": "İstanbul Tuzla'da tersanede bulunan bir gemide yangın çıktı. Ekipler olay yerine sevk edildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-16T12:13:20+03:00"
+      "publishedAt": "2026-06-16T16:14:30+03:00"
     },
     {
-      "title": "Bahçeli'nin \"Turan Koridoru\" dediği projeyle ilgili neler biliniyor?",
-      "summary": "Zengezur Koridoru, MHP Genel Başkanı Devlet Bahçeli'nin \"Adını doğru koyalım. Bu hat, Turan Koridoru'dur.\" ifadesiyle bir kez daha gündeme geldi. Proje, Azerbaycan'ı Nahçıvan bölgesine ve devamında Türkiye'ye bağlamayı hedefliyor.",
+      "title": "Korkunç kaza: Motosiklet sürücüsü emniyet şeridindeki servise çarptı",
+      "summary": "Kartal'da emniyet şeridindeki servis aracına çarpan motosiklet sürücüsünün yaralandığı kaza, araç kamerasınca kaydedildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-16T14:02:22+03:00"
+      "publishedAt": "2026-06-16T16:04:00+03:00"
+    },
+    {
+      "title": "KPSS 2026 başvuru tarihleri",
+      "summary": "Haziran ayıyla birlikte KPSS başvuru takvimi, sınava hazırlanan adayların en çok araştırdığı konular arasında yer almaya başladı. 2026 yılında ÖSYM tarafından düzenlenecek KPSS, lisans, ön lisans, ortaöğretim ve DHBT oturumlarıyla gerçekleş",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/kpss-2026-basvuru-tarihleri-2026-kpss-lisans-on-lisans-ortaogretim-dhbt-basvurulari-ne-zaman-basliyor-ne-zaman-bitiyor-sinav-tarihleri-ne-zaman-3891982",
+      "publishedAt": "Tue, 16 Jun 2026 08:44:18 GMT"
+    },
+    {
+      "title": "Fransa - Senegal maçı saat kaçta?",
+      "summary": "Fransa - Senegal karşılaşması için geri sayım sona eriyor. Turnuvanın en dikkat çeken eşleşmelerinden biri olarak gösterilen dev randevuda iki güçlü ekip sahaya mutlak galibiyet parolasıyla çıkacak. Peki, Fransa - Senegal maçı ne zaman, saa",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/fransa-senegal-maci-ne-zaman-saat-kacta-dunya-kupasi-fransa-senegal-maci-hangi-kanalda-dunya-kupasi-canli-izle-3891978",
+      "publishedAt": "Tue, 16 Jun 2026 08:39:33 GMT"
     },
     {
       "title": "LGS sınav sonuçları ne zaman açıklanacak?",
@@ -124,60 +140,28 @@
       "publishedAt": "Tue, 16 Jun 2026 07:10:51 GMT"
     },
     {
-      "title": "Türkiye - Paraguay maçı ne zaman?",
-      "summary": "2026 FIFA Dünya Kupası’nda heyecan giderek yükselirken, A Milli Takım’ın kritik Paraguay sınavı futbolseverlerin gündemine oturdu. “Türkiye - Paraguay maçı ne zaman, saat kaçta, hangi kanalda?” soruları peş peşe gelirken, millilerin kaderin",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/turkiye-dunya-kupasi-maclari-turkiye-paraguay-maci-ne-zaman-saat-kacta-turkiye-dunya-kupasi-maci-hangi-kanalda-turkiye-dunya-kupasi-mac-takvimi-3891934",
-      "publishedAt": "Tue, 16 Jun 2026 08:11:45 GMT"
-    },
-    {
-      "title": "Hicri Yılbaşı mesajları 2026",
-      "summary": "Muharrem ayının gelişiyle birlikte hicri yılbaşı heyecanı İslam aleminde yaşanmaya başladı. Hicri takvimin ilk ayı olan Muharrem, Müslümanlar için hem yeni bir yılın başlangıcını hem de manevi olarak önemli günleri içinde barındırıyor. Diya",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/hicri-yilbasi-mesajlari-2026-resimli-muharrem-hicri-yilbasiniz-kutlu-olsun-tikla-ucretsiz-indir-iste-feyiz-dolu-duali-yeni-farkli-kisa-hicri-yilbasi-mesajlari-3891923",
-      "publishedAt": "Tue, 16 Jun 2026 07:31:11 GMT"
-    },
-    {
-      "title": "Iran deal presents political nightmare for Netanyahu",
-      "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
+      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+      "summary": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 03:40:36 GMT"
+      "link": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 16:38:55 GMT"
     },
     {
-      "title": "Eight dead after US Air Force B-52 bomber crashes in California",
-      "summary": "The incident occurred on Monday morning while the aircraft had been on a routine test mission.",
+      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+      "summary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 01:49:03 GMT"
+      "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 15:31:24 GMT"
     },
     {
-      "title": "Japan raises interest rate to highest for 31 years",
-      "summary": "The Bank of Japan has been raising rates from near-zero since 2024.",
+      "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+      "summary": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 08:26:30 GMT"
-    },
-    {
-      "title": "California's Gavin Newsom alleges justice department is investigating his wife and ex-staff",
-      "summary": "A source familiar with the investigations says they had been ongoing for \"roughly a year\".",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.com/news/articles/c3vyw7021r0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 15 Jun 2026 23:06:58 GMT"
-    },
-    {
-      "title": "'Dancing girl's' bare torso restored in Indian textbook after backlash",
-      "summary": "A picture in a new school textbook had covered up the naked torso of the famous figurine with dark shading.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.com/news/articles/c7vyzgl2142o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 16 Jun 2026 07:05:54 GMT"
+      "link": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 16:20:33 GMT"
     },
     {
       "title": "Russian artist and Putin critic shot dead in Poland",
@@ -188,52 +172,108 @@
       "publishedAt": "Tue, 16 Jun 2026 10:37:16 GMT"
     },
     {
-      "title": "Australia warns El Nino weather pattern set to be strongest in decades",
-      "summary": "Australia’s Bureau of Meteorology says forecasts have pointed towards a 'very strong El Nino event'.",
-      "source": "Al Jazeera",
+      "title": "France's oldest female detainee, 79, goes on trial for in-law's grisly murder",
+      "summary": "A dismembered body found in a chain-bound trunk in the Seine in 1995 was only recently connected to the defendant by DNA evidence.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/16/australia-warns-el-nino-weather-pattern-set-to-be-strongest-in-decades?traffic_source=rss",
-      "publishedAt": "Tue, 16 Jun 2026 10:35:32 +0000"
+      "link": "https://www.bbc.com/news/articles/cy498llene1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 14:46:35 GMT"
     },
     {
-      "title": "China offers staunch support to Myanmar president during his state visit",
-      "summary": "The two countries sign 18 cooperation deals, including on free trade and assistance in the event of natural disasters.",
-      "source": "Al Jazeera",
+      "title": "Venezuela signs deal with US energy giant to rebuild power grid",
+      "summary": "The deal with General Electric is the latest sign of co-operation between US firms and Venezuela's interim government.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/16/china-offers-staunch-support-to-myanmar-president-during-his-state-visit?traffic_source=rss",
-      "publishedAt": "Tue, 16 Jun 2026 10:06:22 +0000"
+      "link": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 16 Jun 2026 15:19:52 GMT"
     },
     {
-      "title": "World Cup: Can Senegal stun France again? Predictions, schedule on Day 6",
-      "summary": "France take on Senegal in a repeat of their famous 2002 opener while Messi's Argentina face Algeria in Kansas City.",
+      "title": "Nearly all children globally exposed to at least one climate hazard: Report",
+      "summary": "Report highlights the growing threats posed by climate change and calls for the green transition to be accelerated.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/16/world-cup-can-senegal-stun-france-again-predictions-schedule-on-day-6?traffic_source=rss",
-      "publishedAt": "Tue, 16 Jun 2026 09:39:06 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/16/nearly-all-children-globally-exposed-to-at-least-one-climate-hazard-report?traffic_source=rss",
+      "publishedAt": "Tue, 16 Jun 2026 16:08:58 +0000"
     },
     {
-      "title": "Iran says Israeli occupation in Lebanon would breach US deal",
-      "summary": "Iran says any continued Israeli occupation in Lebanon would be a breach of the Memorandum of Understanding with the US.",
+      "title": "Israel went to war with Iran, but Netanyahu may be the loser",
+      "summary": "Critics say PM Benjamin Netanyahu's Iran war strengthened Tehran, strained US ties, and left Israel weaker.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-says-israeli-occupation-in-lebanon-would-breach-us-deal?traffic_source=rss",
-      "publishedAt": "Tue, 16 Jun 2026 09:22:26 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/16/israel-went-to-war-with-iran-netanyahu-may-be-loser?traffic_source=rss",
+      "publishedAt": "Tue, 16 Jun 2026 15:57:03 +0000"
     },
     {
-      "title": "G7 leaders meet in France with Iran and Ukraine high on agenda",
-      "summary": "French President Emmanuel Macron said Tuesday’s lunch summit would focus on reopening the Strait of Hormuz.",
+      "title": "A Mexican citizen died in ICE custody. Now his family is demanding answers",
+      "summary": "Jose Guadalupe Ramos is one of 19 people who have died in ICE detention this year. Experts say he's part of a trend.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda?traffic_source=rss",
-      "publishedAt": "Tue, 16 Jun 2026 09:13:41 +0000"
+      "link": "https://www.aljazeera.com/news/longform/2026/6/16/a-mexican-citizen-died-in-ice-custody-now-his-family-is-demanding-answers?traffic_source=rss",
+      "publishedAt": "Tue, 16 Jun 2026 15:45:59 +0000"
     },
     {
-      "title": "Iran fans react to team’s first World Cup match amid political schisms",
-      "summary": "Iran fans react to team’s first World Cup match amid political schisms",
+      "title": "Optics of peace first, details later: The US-Iran 60-day challenge",
+      "summary": "Negotiators have yet to hold talks on key issues that have plagued US-Iran diplomacy for decades, say analysts.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-fans-react-to-teams-first-world-cup-match-amid-political-schisms?traffic_source=rss",
-      "publishedAt": "Tue, 16 Jun 2026 09:04:50 +0000"
+      "link": "https://www.aljazeera.com/features/2026/6/16/optics-of-peace-first-details-later-the-us-iran-60-day-challenge?traffic_source=rss",
+      "publishedAt": "Tue, 16 Jun 2026 15:39:55 +0000"
+    },
+    {
+      "title": "Ukrainian drone detonates near Moscow",
+      "summary": "Footage shows the moment a Ukrainian drone hit a building under construction.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/ukrainian-drone-detonates-near-moscow?traffic_source=rss",
+      "publishedAt": "Tue, 16 Jun 2026 15:34:58 +0000"
+    },
+    {
+      "title": "France vs Senegal live: World Cup 2026",
+      "summary": "Follow the build-up, analysis and live text commentary as France take on Senegal in a Group I clash in New Jersey.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/16/france-vs-senegal-live-world-cup-2026-group-i?traffic_source=rss",
+      "publishedAt": "Tue, 16 Jun 2026 15:30:00 +0000"
+    },
+    {
+      "title": "Live with a partner? You may be sharing more microbes than you think",
+      "summary": "A large study finds you may share about a quarter of your oral and gut microbes with the people you live with. Should you worry? We asked the experts.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/16/nx-s1-5859419/microbiome-oral-gut-romantic-partner",
+      "publishedAt": "Tue, 16 Jun 2026 12:05:44 -0400"
+    },
+    {
+      "title": "The World Cup reminds us that the way to a visitor's heart ... is through their stomach",
+      "summary": "The action inside the stadiums isn't the only thing capturing the attention of international visitors. Turns out, they're discovering the delights of Buc-ee's, Waffle House, Wawa and free soda refills.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/16/g-s1-128352/the-world-cup-wawa-bucees-waffle-house",
+      "publishedAt": "Tue, 16 Jun 2026 11:59:00 -0400"
+    },
+    {
+      "title": "The war with Iran is making oil changes pricier. And a deal won't solve it",
+      "summary": "The U.S. may be the world's biggest producer of crude oil, but that's not the case for motor oil. The cost of lubricants is soaring, and even a tentative deal to end the war won't solve the problem.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/16/nx-s1-5847024/motor-oil-iran-war",
+      "publishedAt": "Tue, 16 Jun 2026 11:29:02 -0400"
+    },
+    {
+      "title": "Pop albums are drowning in 'narrative.' What happens when we go in cold?",
+      "summary": "New albums by Lizzo and the rising artist Imani Imani are both \"event\" records — but one arrives with arguably too much backstory, the other with almost none.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/16/nx-s1-5848030/lizzo-imani-imani-narrative-listening-pop",
+      "publishedAt": "Tue, 16 Jun 2026 10:21:35 -0400"
+    },
+    {
+      "title": "Survey confirms the struggle of working parents: 'No way to be two things at once'",
+      "summary": "A new Pew survey finds many working parents feel they cannot give 100% at either work or home. Benefits like paid sick leave and more affordable childcare could help.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/16/nx-s1-5856274/working-parents-balance-work-pew",
+      "publishedAt": "Tue, 16 Jun 2026 10:00:00 -0400"
     },
     {
       "title": "How Israel could complicate Iran peace negotiations. And, World Cup highlights",
@@ -242,46 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/06/16/g-s1-128341/up-first-newsletter-iran-israel-g7-primaries-luigi-mangione",
       "publishedAt": "Tue, 16 Jun 2026 06:53:19 -0400"
-    },
-    {
-      "title": "Is it a renter's market? It depends on where you live",
-      "summary": "About 40% of rentals on Zillow offer move-in deals, like a month of free rent, thanks to a construction boom that created an apartment surplus in some parts of the United States.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5847678/rent-apartment-landlord-construction-boom",
-      "publishedAt": "Tue, 16 Jun 2026 06:00:00 -0400"
-    },
-    {
-      "title": "Voting officials fear DHS may actually be a threat to elections this year",
-      "summary": "Voting officials worry that the Department of Homeland Security will not be a partner helping to secure elections, but rather a threat seeking to undermine results that President Trump dislikes.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5702491/trump-voting-threat-midterm-election-dhs",
-      "publishedAt": "Tue, 16 Jun 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Is a transparent fish the future of brain science? This center is betting on it",
-      "summary": "One of the world's leading brain research centers is shifting away from fruit flies and toward a tiny, transparent fish. The goal: to understand how brains control the behavior of an animal or human.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5859393/ai-science-brain-humans-fruit-fly-danionella",
-      "publishedAt": "Tue, 16 Jun 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Morning news brief",
-      "summary": "Israel's reluctance on Lebanon ceasefire complicates U.S.-Iran deal, first full day of G7 summit gets underway in France, what to watch as voters in several states head to the polls for primaries.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/16/nx-s1-5857623/morning-news-brief",
-      "publishedAt": "Tue, 16 Jun 2026 04:46:51 -0400"
-    },
-    {
-      "title": "DMV artist turns belts into a conversation about discipline",
-      "summary": "Multidisciplinary artist Lex Marie has gone viral on TikTok and Instagram for her artwork confronting discipline within Black households.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/12/nx-s1-5662593/artist-lex-marie",
-      "publishedAt": "Tue, 16 Jun 2026 04:45:36 -0400"
     },
     {
       "title": "South African jazz pianist Abdullah Ibrahim dies aged 91",
@@ -371,15 +371,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 26,
-      "description": "overcast",
+      "tempC": 22,
+      "description": "partly cloudy",
       "high": 27,
       "low": 20
     },
     {
       "place": "London",
-      "tempC": 23,
-      "description": "clear sky",
+      "tempC": 25,
+      "description": "overcast",
       "high": 26,
       "low": 16
     }
