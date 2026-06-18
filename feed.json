@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T22:44:29.443Z",
+  "updated": "2026-06-18T03:38:20.617Z",
   "news": [
     {
       "title": "104 maçı canlı takip edin",
@@ -10,12 +10,12 @@
       "publishedAt": "Thu, 04 Jun 2026 07:01:41 GMT"
     },
     {
-      "title": "ABD-İran anlaşmasıyla ilgili açıklanan yeni detaylar neler?",
-      "summary": "ABD Başkanı Donald Trump, İran ile vardıkları mutabakat zaptıyla ilgili yeni açıklamalarda bulundu. Trump konuşurken ABD'li yetkililer BBC'nin de olduğu bir basın toplantısında anlaşmayla ilgili yeni detayları aktardı.",
+      "title": "ABD-İran anlaşması neler içeriyor?",
+      "summary": "Beyaz Saray yetkilileri BBC'ye yaptığı açıklamada, ABD ve İran arasında iki ülke arasındaki ateşkesi uzatmak için bir anlaşmanın imzalandığını ve yürürlüğe girdiğini doğruladı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cly0w9yy4jzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 17 Jun 2026 22:18:01 GMT"
+      "publishedAt": "Thu, 18 Jun 2026 00:53:03 GMT"
     },
     {
       "title": "AP'de kabul edilen Türkiye raporunda 'Mavi Vatan' ve 12 mil vurgusu",
@@ -26,35 +26,49 @@
       "publishedAt": "Wed, 17 Jun 2026 14:59:24 GMT"
     },
     {
-      "title": "ABD'de 9 yıldır devam eden Halkbank davası düştü",
-      "summary": "Halkbank, ABD'de 2019 yılından beri devam eden davanın 17 Haziran'da New York'ta görülen duruşmada düşürüldüğünü açıkladı.",
+      "title": "Amazon'un kurucusu Bezos: 'Yapay zeka insanların yerini almayacak'",
+      "summary": "Amazon'un kurucusu Jeff Bezos, Paris'te bir teknoloji konferansında yaptığı konuşmada, yapay zekanın insanları işsiz bırakmak yerine daha fazla istihdam doğuracağını söyledi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cd95lgjgl5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 17 Jun 2026 15:52:17 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cvgq7y1k2ego?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 18 Jun 2026 03:05:41 GMT"
     },
     {
-      "title": "Özgür Çelik: CHP'de il başkanlarının disipline sevk edilmesi kararı 'yok hükmündedir'",
-      "summary": "CHP'de yeni yönetimin MYK toplantısında İstanbul İl Başkanı Özgür Çelik'in de aralarında bulunduğu bazı isimler disipline sevk edilirken, çok sayıda il başkanı ve parti yöneticisi görevden alındı",
+      "title": "İngiltere'de rahim ağzı kanseri aşısı yapılan genç kadınlarda ölümler sıfıra düştü",
+      "summary": "İngiltere'de 1823 yılında kurulan, haftalık hakemli tıp dergisi Lancet'te yayımlanan bir analize göre, rahim ağzı kanseri aşısı sayesinde ülkede yaklaşık 200 hayat kurtarıldı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c8x287le01no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 17 Jun 2026 16:36:26 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c5yz4wz9zero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 18 Jun 2026 02:15:21 GMT"
     },
     {
-      "title": "2026 Dünya Kupası: İngiltere Hırvatistan karşısında 4-2 önde",
-      "summary": "İngiltere, 2026 Dünya Kupası L Grubu'ndaki ilk maçında Hırvatistan ile karşı karşıya geliyor. İngiltere karşılaşmanın 12. dakikasında Harry Kane'in golüyle 1-0 öne geçti.",
+      "title": "Stonehenge'ten 5 km uzakta daha basit ve eski bir versiyonu bulundu",
+      "summary": "Arkeologlar, tarih öncesine dayanan Stonehenge'ten yaklaşık 5 km uzakta, ondan daha erken bir döneme ait ve çok daha basit bir versiyonunu keşfettiklerini duyurdu.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c07yn18yn4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 17 Jun 2026 21:19:43 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c5yzpnnzwz2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 18 Jun 2026 02:09:20 GMT"
+    },
+    {
+      "title": "Navigasyon yanılttı, dere yatağına uçtu",
+      "summary": "Bursa’da navigasyon sisteminin yanlış yolu göstermesi nedeniyle sürücüsünün direksiyon hakimiyetini kaybettiği araç dereye uçtu. 19 yaşındaki sürücü yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-18T04:41:57+03:00"
+    },
+    {
+      "title": "Direksiyon başında kalp krizinden öldü",
+      "summary": "İzmir'de park halindeki 2 araca çarpan otomobilin sürücüsü hayatını kaybetti. 68 yaşındaki sürücünün kalp krizi geçirdiği değerlendiriliyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-18T03:08:58+03:00"
     },
     {
       "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Haziran 2026",
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-18T01:30:00+03:00"
+      "publishedAt": "2026-06-18T06:30:00+03:00"
     },
     {
       "title": "MEB, öğretmenlerin haziran dönemi seminerlerini çevrim içi düzenleyecek",
@@ -76,20 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-06-17T19:03:32+03:00"
-    },
-    {
-      "title": "Dışişleri Bakanlığı'ndan, Avrupa Parlamentosu'nun Türkiye Raporu'na tepki",
-      "summary": "Dışişleri Bakanlığı, Avrupa Parlamentosu (AP) Genel Kurulunda kabul edilen 2025 Yılı Türkiye Raporu'na ilişkin, \"Ülkemiz karşıtı çevrelerin temelsiz iddialarına ve yanlış bilgilere dayanan, gerçeklerle bağdaşmayan değerlendirmeler içermekte",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-17T23:49:01+03:00"
-    },
-    {
-      "title": "\"Tetikçi temin etme ve suç örgütlerini övücü\" paylaşımlar yapanlara operasyon. 258 gözaltı",
-      "summary": "İçişleri Bakanlığı, 54 ilde sosyal medya platformları üzerinden \"tetikçi temin etme ve suç örgütlerini övücü\" paylaşım yapanlara yönelik düzenlenen operasyonlarda 258 şüphelinin gözaltına alındığını duyurdu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-17T18:34:11+03:00"
     },
     {
       "title": "Aşure günü ne zaman başlıyor?",
@@ -140,12 +140,28 @@
       "publishedAt": "Wed, 17 Jun 2026 08:02:43 GMT"
     },
     {
+      "title": "What's in the US-Iran agreement?",
+      "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 18 Jun 2026 01:28:02 GMT"
+    },
+    {
       "title": "Iran sends tankers loaded with oil past US military blockade",
       "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 17 Jun 2026 13:27:47 GMT"
+    },
+    {
+      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+      "summary": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 17 Jun 2026 22:36:13 GMT"
     },
     {
       "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
@@ -172,68 +188,52 @@
       "publishedAt": "Wed, 17 Jun 2026 19:03:10 GMT"
     },
     {
-      "title": "Serial killer who murdered eight women in Long Island town imprisoned for life",
-      "summary": "In fiery exchange, judge sentenced him to three life sentences plus 25 years to life on four other charges, all running consecutively.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.com/news/articles/clyw29kvlydo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 17 Jun 2026 17:45:54 GMT"
-    },
-    {
-      "title": "Norway's crown princess undergoes successful lung transplant, palace says",
-      "summary": "Crown Princess Mette-Marit, who suffered from pulmonary fibrosis, will now spend several weeks recovering in hospital.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.com/news/articles/c1eyg37qyqjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 17 Jun 2026 10:15:08 GMT"
-    },
-    {
-      "title": "Kane double fires England past Croatia in World Cup thriller",
-      "summary": "Harry Kane scores twice, while Jude Bellingham and Marcus Rashford also net, as England beat Croatia 4-2 in 2026 opener.",
+      "title": "Trump’s MoU with Iran draws backlash from some Republicans",
+      "summary": "Louisiana Senator Bill Cassidy blasts US-Iran MoU as 'worst foreign policy blunder in decades'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/17/kane-double-fires-england-past-croatia-in-world-cup-thriller?traffic_source=rss",
-      "publishedAt": "Wed, 17 Jun 2026 22:19:32 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 03:11:41 +0000"
     },
     {
-      "title": "Al Jazeera journalist reunited with family in Khartoum after years of war",
-      "summary": "Al Jazeera journalist Al-Tahir al-Mardi has been reunited with his family in Khartoum after three years of separation.",
+      "title": "Netanyahu under pressure in Israel after US-Iran agreement",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu is facing mounting pressure after he was cut out of the US-Iran agreement.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/al-jazeera-journalist-reunited-with-family-in-khartoum-after-years-of-war?traffic_source=rss",
-      "publishedAt": "Wed, 17 Jun 2026 21:34:05 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/netanyahu-under-pressure-in-israel-after-us-iran-agreement?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 02:27:44 +0000"
     },
     {
-      "title": "Huawei CFO’s admissions can be used at criminal trial, US judge rules",
-      "summary": "CFO Meng Wanzhou said in 2021 that Huawei illegally conducted business in Iran.",
+      "title": "Who benefits from Zimbabwe’s lithium boom?",
+      "summary": "New projects and foreign-backed mines are reshaping Zimbabwe’s lithium sector, with uneven local gains.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/6/17/huawei-cfos-admissions-can-be-used-at-criminal-trial-us-judge-rules?traffic_source=rss",
-      "publishedAt": "Wed, 17 Jun 2026 21:32:43 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/18/who-benefits-from-zimbabwes-lithium-boom?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 02:26:51 +0000"
     },
     {
-      "title": "Thieves with bulldozer carry out ATM heist in 4 minutes",
-      "summary": "CCTV footage released by police shows thieves using a bulldozer to tear an ATM from the front of a bank.",
+      "title": "Greta Thunberg joins Brussels protest against Israel",
+      "summary": "Around 100 people, including Greta Thunberg and other Flotilla activists, have rallied in Brussels.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/thieves-with-bulldozer-carry-out-atm-heist-in-4-minutes?traffic_source=rss",
-      "publishedAt": "Wed, 17 Jun 2026 21:11:38 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/greta-thunberg-joins-brussels-protest-against-israel?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 02:24:13 +0000"
     },
     {
-      "title": "Meet Yoane Wissa, who scored DR Congo’s first-ever goal at a World Cup",
-      "summary": "Wissa, who nearly lost his sight in 2021, scored a header marking DR Congo’s historic return to the World Cup.",
+      "title": "South Africa coach tells critics to ‘shut up’ before second World Cup match",
+      "summary": "'I never listen to the ​trash of the social media,' Hugo Broos says before Bafana Bafana's match against Czechia.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/17/meet-yoane-wissa-who-scored-dr-congos-first-ever-goal-at-a-world-cup?traffic_source=rss",
-      "publishedAt": "Wed, 17 Jun 2026 21:10:46 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/18/south-africa-coach-tells-critics-to-shut-up-before-second-world-cup-match?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 01:49:05 +0000"
     },
     {
-      "title": "Gilgo Beach killer sentenced to life without parole",
-      "summary": "New York’s Gilgo Beach serial killer Rex Heuermann was sentenced to life without parole for the murders of eight women.",
+      "title": "Ghalibaf says talks delivered more results than war",
+      "summary": "Ghalibaf says talks delivered more results than war",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/gilgo-beach-killer-sentenced-to-life-without-parole?traffic_source=rss",
-      "publishedAt": "Wed, 17 Jun 2026 21:07:26 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/ghalibaf-says-talks-delivered-more-results-than-war?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 01:45:45 +0000"
     },
     {
       "title": "As western fires erupt, Trump's Forest Service says it's now fully staffed",
@@ -244,7 +244,7 @@
       "publishedAt": "Wed, 17 Jun 2026 17:33:59 -0400"
     },
     {
-      "title": "Here's how much the the Iran war cost -- and how its effects will linger",
+      "title": "Here's how much the Iran war cost -- and how its effects will linger",
       "summary": "More than three months after the U.S. and Israel launched their war on Iran, the costs and aftereffects are felt around the world.",
       "source": "NPR",
       "lang": "en",
@@ -319,6 +319,29 @@
   "sports": [
     {
       "league": "World Cup",
+      "home": "Uzbekistan",
+      "away": "Colombia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "date": "2026-06-18"
+    },
+    {
+      "league": "World Cup",
+      "home": "Canada",
+      "away": "Qatar",
+      "status": "upcoming",
+      "date": "2026-06-18"
+    },
+    {
+      "league": "World Cup",
+      "home": "Czech Republic",
+      "away": "South Africa",
+      "status": "upcoming",
+      "date": "2026-06-18"
+    },
+    {
+      "league": "World Cup",
       "home": "Argentina",
       "away": "Algeria",
       "homeScore": 3,
@@ -343,49 +366,22 @@
       "awayScore": 2,
       "status": "FT",
       "date": "2026-06-17"
-    },
-    {
-      "league": "World Cup",
-      "home": "Iran",
-      "away": "New Zealand",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-06-16"
-    },
-    {
-      "league": "World Cup",
-      "home": "France",
-      "away": "Senegal",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-06-16"
-    },
-    {
-      "league": "World Cup",
-      "home": "Iraq",
-      "away": "Norway",
-      "homeScore": 1,
-      "awayScore": 4,
-      "status": "FT",
-      "date": "2026-06-16"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 19,
+      "tempC": 20,
       "description": "overcast",
       "high": 26,
       "low": 19
     },
     {
       "place": "London",
-      "tempC": 20,
-      "description": "mainly clear",
+      "tempC": 18,
+      "description": "overcast",
       "high": 25,
-      "low": 18
+      "low": 17
     }
   ],
   "facts": [
