@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T20:22:53.770Z",
+  "updated": "2026-06-18T22:55:21.280Z",
   "news": [
     {
       "title": "104 maçı canlı takip edin",
@@ -15,7 +15,7 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c5yz88jz3nro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 19:05:37 GMT"
+      "publishedAt": "Thu, 18 Jun 2026 22:25:01 GMT"
     },
     {
       "title": "ABD İran'a deniz ablukasını kaldırdı",
@@ -50,6 +50,27 @@
       "publishedAt": "Thu, 18 Jun 2026 15:58:02 GMT"
     },
     {
+      "title": "Kula'da zincirleme kaza. 2 ölü, 4 yaralı",
+      "summary": "Manisa'nın Kula ilçesinde tiner yüklü tırın 2 araçla çarpıştığı kazada 2 kişi hayatını kaybetti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-19T01:46:55+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Haziran 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-19T01:30:00+03:00"
+    },
+    {
+      "title": "Bakan Uraloğlu: Halkalı ve İstanbul Havalimanı arası 30 dakika olacak",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Halkalı ve İstanbul Havalimanı arasının 30 dakika olacağını belirtti. Bakan Uraloğlu saatte 225 kilometre giden ilk yerli trenin yapılacağının müjdesini verdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-18T23:27:41+03:00"
+    },
+    {
       "title": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, CHP'den istifa etti",
       "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, CHP'den istifa ettiğini açıkladı.",
       "source": "NTV",
@@ -69,27 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-06-18T19:56:36+03:00"
-    },
-    {
-      "title": "Emine Erdoğan, Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum ile görüştü",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ile bir araya geldi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-18T19:29:40+03:00"
-    },
-    {
-      "title": "İçişleri Bakanı Çiftçi, Dışişleri Bakanı Fidan ile görüştü",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi ve Dışişleri Bakanı Hakan Fidan ile görüşme gerçekleştirdi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-18T19:25:45+03:00"
-    },
-    {
-      "title": "Özgür Özel dahil 12 milletvekilinin dokunulmazlık dosyası TBMM'de",
-      "summary": "TBMM Başkanlığı'na CHP Grup Başkanı Özgür Özel dahil 12 milletvekili hakkında 14 dokunulmazlık dosyası sunuldu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-18T18:47:12+03:00"
     },
     {
       "title": "YKS TYT örnek çıkmış sorular",
@@ -145,7 +145,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 19:54:42 GMT"
+      "publishedAt": "Thu, 18 Jun 2026 21:34:28 GMT"
     },
     {
       "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
@@ -177,7 +177,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 18 Jun 2026 17:28:32 GMT"
+      "publishedAt": "Thu, 18 Jun 2026 21:47:25 GMT"
     },
     {
       "title": "Parents of Serbia's teenage school shooter given jail terms in retrial",
@@ -188,52 +188,60 @@
       "publishedAt": "Thu, 18 Jun 2026 18:36:19 GMT"
     },
     {
-      "title": "Dozens of countries warn of atrocities amid escalation in Sudan’s el-Obeid",
-      "summary": "UN and allies warn of grave rights violations in North Kordofan, ⁠urge maximum pressure on ⁠RSF and SAF.",
+      "title": "Switzerland beat Bosnia and Herzegovina 4-1, top Group B in World Cup",
+      "summary": "All five goals were scored in the final 30 minutes as the match in Los Angeles erupted to life in the closing stages.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/18/dozens-of-countries-warn-of-atrocities-amid-escalation-in-sudans-el-obeid?traffic_source=rss",
-      "publishedAt": "Thu, 18 Jun 2026 19:52:53 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/18/switzerland-beat-bosnia-and-herzegovina-4-1-top-group-b-in-world-cup?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 22:17:43 +0000"
     },
     {
-      "title": "MoU’s $300bn Iran reconstruction fund becomes US political flashpoint",
-      "summary": "Trump says US will not pay for planned fund as part of Iran MoU, as lawmakers connect price tag to affordability issues.",
+      "title": "Mamdani gives New York Knicks keys to city after NBA title",
+      "summary": "The New York Knicks celebrated their first NBA title in 53 years with a frenzied ticker-tape parade through Manhattan.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss",
-      "publishedAt": "Thu, 18 Jun 2026 19:52:17 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/mamdani-gives-new-york-knicks-keys-to-city-after-nba-title?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 22:01:17 +0000"
     },
     {
-      "title": "US military says it has lifted naval blockade of Iranian ports",
-      "summary": "CENTCOM says that all blockade enforcement efforts 'have ceased' but that US forces will remain in the area.",
+      "title": "Are prices really dropping in the US, as Trump claims?",
+      "summary": "Donald Trump boasts on social media that since signing of MoU for peace deal, oil is flowing and prices are dropping.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss",
-      "publishedAt": "Thu, 18 Jun 2026 19:43:20 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/6/18/are-prices-really-dropping-as-trump-claims?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 21:30:41 +0000"
     },
     {
-      "title": "Can the Global South have a say in global affairs?",
-      "summary": "China calls for stronger representation for emerging economies.",
+      "title": "Cuba’s Communist Party approves opening economy in unprecedented move",
+      "summary": "The emergency economic package comes amid an ongoing US pressure campaign that has left the island nation reeling.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/18/can-the-global-south-have-a-say-in-global-affairs?traffic_source=rss",
-      "publishedAt": "Thu, 18 Jun 2026 18:51:11 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/18/cubas-communist-party-approves-opening-economy-in-unprecedented-move?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 21:28:00 +0000"
     },
     {
-      "title": "World Cup 2026: South Africa grab draw with Czechia with late penalty",
-      "summary": "Teboho Mokoena equalises through a late penalty to salvage a draw for South Africa in their Group A clash with Czechia.",
+      "title": "Myanmar military airstrike kills seven civilians in Rakhine state",
+      "summary": "A Myanmar military airstrike on the Rakhine state town of Kyauktaw killed at least seven civilians.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/18/woerld-cup-2026-south-africa-grab-1-1-draw-with-czechia-with-late-penalty?traffic_source=rss",
-      "publishedAt": "Thu, 18 Jun 2026 18:26:53 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/aje-onl-nf_myanmar-military-airstrike-kills-seven-civilians-180626?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 21:15:13 +0000"
     },
     {
-      "title": "Pakistan signs US-Iran MoU",
-      "summary": "Pakistan’s Prime Minister Shehbaz Sharif signed a US-Iran memorandum of understanding aimed at ending the war.",
+      "title": "Brazil executes warrant against Lula ally in widening financial scandal",
+      "summary": "Left-wing Senator Jaques Wagner was the latest prominent figure to be swept up in investigations into Banco Master.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss",
-      "publishedAt": "Thu, 18 Jun 2026 18:14:55 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/18/brazil-executes-warrant-against-lula-ally-in-widening-financial-scandal?traffic_source=rss",
+      "publishedAt": "Thu, 18 Jun 2026 21:13:00 +0000"
+    },
+    {
+      "title": "U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking",
+      "summary": "The U.S. is allowing ships to enter and exit Iranian ports and coastal areas as the countries move to a new phase of negotiations over the next 60 days.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz",
+      "publishedAt": "Thu, 18 Jun 2026 17:28:30 -0400"
     },
     {
       "title": "Student loan borrowers will get an interest rate cut if they sign up for auto pay",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/06/18/g-s1-128583/hiv-orphans-child-headed-family",
       "publishedAt": "Thu, 18 Jun 2026 10:47:36 -0400"
-    },
-    {
-      "title": "Supreme Court sides with a marijuana user who was barred from owning guns",
-      "summary": "The court ruled that the law used to prosecute a marijuana user violated his Second Amendment right to bear arms and is unconstitutionally vague.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/18/nx-s1-5835232/supreme-court-marijuana-guns",
-      "publishedAt": "Thu, 18 Jun 2026 10:14:32 -0400"
     },
     {
       "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
@@ -328,18 +328,20 @@
     },
     {
       "league": "World Cup",
-      "home": "Czech Republic",
-      "away": "South Africa",
+      "home": "Canada",
+      "away": "Qatar",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 0,
       "status": "FT",
       "date": "2026-06-18"
     },
     {
       "league": "World Cup",
-      "home": "Canada",
-      "away": "Qatar",
-      "status": "upcoming",
+      "home": "Czech Republic",
+      "away": "South Africa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
       "date": "2026-06-18"
     },
     {
@@ -375,12 +377,12 @@
       "place": "İstanbul",
       "tempC": 20,
       "description": "overcast",
-      "high": 26,
-      "low": 19
+      "high": 24,
+      "low": 20
     },
     {
       "place": "London",
-      "tempC": 23,
+      "tempC": 21,
       "description": "clear sky",
       "high": 26,
       "low": 17
