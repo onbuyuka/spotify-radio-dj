@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-20T13:56:30.425Z",
+  "updated": "2026-06-20T16:15:23.361Z",
   "news": [
+    {
+      "title": "İsrail'in Lübnan'a yeni saldırıları sonrası İran Hürmüz Boğazı'nı kapattı",
+      "summary": "İran Devrim Muhafızları gemilerin Hürmüz Boğazı'na yaklaşmamaları, aksi halde güvenliklerinin tehlikede olacağı uyarısında bulundu.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 20 Jun 2026 14:31:31 GMT"
+    },
     {
       "title": "Cemil Tugay'ın istifası: Yeni parti hazırlığı sürüyor, belediye başkanlarına geçiş baskısı yok",
       "summary": "CHP'de mutlak butlan kararının ardından yeni parti tartışmaları sürerken, İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın istifası gözleri diğer CHP'li belediye başkanlarına çevirdi.",
@@ -8,14 +16,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c0myrdlwk7wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 20 Jun 2026 07:54:10 GMT"
-    },
-    {
-      "title": "İsrail ve Hizbullah arasındaki ateşkes sonrası Lübnan'da yeni saldırılar",
-      "summary": "İsrail ve Hizbullah arasında varılan ateşkesten saatler sonra İsrail, Hizbullah'ın saldırılarına yanıt verdiğini söyleyerek, Lübnan'ın güneyini yeniden vurdu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 20 Jun 2026 11:18:04 GMT"
     },
     {
       "title": "İtalya basını: 'Montella istifa mı edecek, kovulacak mı?'",
@@ -50,6 +50,34 @@
       "publishedAt": "Sat, 20 Jun 2026 07:22:37 GMT"
     },
     {
+      "title": "Kemal Kılıçdaroğlu'ndan dokunulmazlık açıklaması",
+      "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu \"dokunulmazlıklarla\" ilgili sözlerine açıklık getirdi. Dokunulmazlıkların kaldırılması süreci ve verdikleri hukuk mücadelesinin yalan bilgilerle çarpıtılmak istendiğini söyledi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-20T18:55:21+03:00"
+    },
+    {
+      "title": "İstanbul ve Samsun sahillerinde askeri mühimmat bulundu",
+      "summary": "İstanbul'da Çatalca Ormanlı Sahili ile Eyüpsultan Ağaçlı sahilinde ve Samsun Bafra'da sahilde mühimmat olduğu değerlendirilen cisim bulundu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-20T18:50:43+03:00"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Romanya Cumhurbaşkanı Nicuşor Dan ile görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Romanya Cumhurbaşkanı Nicuşor Dan ile görüşmesinde, Karadeniz ile ilgili konularda Türkiye ile Romanya'nın yakın işbirliği içinde olmasını önemsediklerini belirtti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-20T18:21:23+03:00"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Gençleri kimsenin ikbal kavgalarına meze yaptırmayacağız",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Liyakat ve ehliyeti ağızlarından düşürmeyenlerin belediyeleri nasıl akraba çiftliğine dönüştürdüğüne tanıklık ettik. Gençleri kimsenin ikbal kavgalarına meze yaptırmayacağız.\" dedi. Yapay zekanın riskler",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-20T18:37:45+03:00"
+    },
+    {
       "title": "Ekipler alarma geçti. Çatalca'da mühimmat paniği",
       "summary": "Çatalca Ormanlı Sahili’nde mühimmat olduğu değerlendirilen bir cisim bulundu.",
       "source": "NTV",
@@ -62,34 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-06-20T15:38:32+03:00"
-    },
-    {
-      "title": "Bakan Uraloğlu: Artık Hakkari'nin dağlarında terör değil, barış kol geziyor",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Artık Hakkari'nin dağlarında terör değil, barış, huzur ve kalkınma kol geziyor.\" dedi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-20T14:47:42+03:00"
-    },
-    {
-      "title": "Türkiye tarihinde bir ilk | Cumhurbaşkanı Erdoğan: NATO ve AB üyesi bir ülkeye savaş gemisi ihracı gerçekleşmiştir",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye tarihinde ilk defa NATO ve AB üyesi bir ülkeye savaş gemisi ihraç edildiğini dile getirip \"Aynı anda en fazla savaş gemisi yapan ülkelerden biriyiz.\" dedi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-20T14:53:17+03:00"
-    },
-    {
-      "title": "ÖSYM Başkanı Ersoy'dan YKS adaylarına uyarı",
-      "summary": "Yükseköğretim Kurumları Sınavı'nın (YKS) yarınki Alan Yeterlilik Testleri (AYT) ve Yabancı Dil Testi (YDT) oturumlarına girecek adayları uyardı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-20T14:25:49+03:00"
-    },
-    {
-      "title": "Edirne'de ormanlık alanlara girişler yasaklandı",
-      "summary": "Edirne Valiliği, yazın artan sıcaklıklar ve orman yangını riskine karşı il genelindeki ormanlık alanlara girişleri 15 Ekim'e kadar yasakladı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-20T13:35:20+03:00"
     },
     {
       "title": "YKS ne zaman?",
@@ -141,19 +141,27 @@
     },
     {
       "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "summary": "Deaths are reported in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces.",
+      "summary": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 20 Jun 2026 13:23:40 GMT"
     },
     {
-      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+      "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 19 Jun 2026 21:46:07 GMT"
+      "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 20 Jun 2026 15:31:12 GMT"
+    },
+    {
+      "title": "Bolivian president declares state of emergency",
+      "summary": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 20 Jun 2026 15:27:09 GMT"
     },
     {
       "title": "Tourist dies in Dominican Republic luxury resort fire",
@@ -164,12 +172,12 @@
       "publishedAt": "Sat, 20 Jun 2026 07:40:20 GMT"
     },
     {
-      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "summary": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
+      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
+      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 19 Jun 2026 19:36:10 GMT"
+      "link": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 19 Jun 2026 21:46:07 GMT"
     },
     {
       "title": "US to stop funding HIV programmes in South Africa",
@@ -180,12 +188,28 @@
       "publishedAt": "Fri, 19 Jun 2026 23:35:07 GMT"
     },
     {
-      "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
-      "summary": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
-      "source": "BBC World",
+      "title": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
+      "summary": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments.",
+      "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 20 Jun 2026 03:13:18 GMT"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-warns-of-reciprocal-action-if-us-doesnt-honour-mou-commitments?traffic_source=rss",
+      "publishedAt": "Sat, 20 Jun 2026 15:10:37 +0000"
+    },
+    {
+      "title": "Nine left in critical condition after UK train collision that killed driver",
+      "summary": "More than 80 people received treatment after the crash and 28 remain in hospital.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/6/20/nine-left-in-critical-condition-after-uk-train-collision-that-killed-driver?traffic_source=rss",
+      "publishedAt": "Sat, 20 Jun 2026 14:50:46 +0000"
+    },
+    {
+      "title": "Court bans Spanish PM’s wife from leaving country amid corruption probe",
+      "summary": "Begona Gomez is accused of using her position as the prime minister's wife ⁠to secure work contracts.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/6/20/court-bans-spanish-pms-wife-from-leaving-country-amid-corruption-probe?traffic_source=rss",
+      "publishedAt": "Sat, 20 Jun 2026 14:21:15 +0000"
     },
     {
       "title": "Where do Iran’s political factions stand on the US peace deal?",
@@ -212,30 +236,6 @@
       "publishedAt": "Sat, 20 Jun 2026 13:01:23 +0000"
     },
     {
-      "title": "Top Ukrainian officials return Polish awards in WWII dispute",
-      "summary": "The move comes after Ukrainian President Volodymyr Zelenskyy was stripped of Poland's top honour.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/20/top-ukrainian-officials-return-polish-awards-in-wwii-dispute?traffic_source=rss",
-      "publishedAt": "Sat, 20 Jun 2026 12:38:34 +0000"
-    },
-    {
-      "title": "Spain vs Saudi Arabia: World Cup 2026 – Yamal, prediction, watch, kickoff",
-      "summary": "Spain face Saudi Arabia in need of a win to take control of Group H. Can they rediscover their attacking edge?",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/20/spain-vs-saudi-arabia-world-cup-2026-yamal-prediction-watch-kickoff?traffic_source=rss",
-      "publishedAt": "Sat, 20 Jun 2026 12:17:44 +0000"
-    },
-    {
-      "title": "Why Tunisia’s renewable energy strategy is facing resistance",
-      "summary": "Giving concessions for renewable projects to foreign corporations will not help solve the country’s energy crisis.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/6/20/why-tunisias-renewable-energy-strategy-is-facing-resistance?traffic_source=rss",
-      "publishedAt": "Sat, 20 Jun 2026 12:06:02 +0000"
-    },
-    {
       "title": "Opinion: Algae doesn't care about our party lines",
       "summary": "President Trump's beautification project of the Lincoln Memorial Reflecting Pool has become plagued with a robust algae bloom, despite a $14 million investment and a coating of \"American flag blue.\"",
       "source": "NPR",
@@ -252,8 +252,8 @@
       "publishedAt": "Sat, 20 Jun 2026 06:45:09 -0400"
     },
     {
-      "title": "Fighting persists in Lebanon despite a ceasefire as U.S.-Iran deal is under threat",
-      "summary": "Israeli strikes on southern Lebanon on Saturday killed at least seven people, including two children, hours after reports emerged of a ceasefire agreement.",
+      "title": "Iran says Strait of Hormuz shut as US-Iran talks set for Sunday in Switzerland",
+      "summary": "Iran said it had closed the strait after Israel struck Lebanon Saturday, violating the US-Iran memorandum of understanding signed earlier this week.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
@@ -268,7 +268,7 @@
       "publishedAt": "Sat, 20 Jun 2026 06:00:00 -0400"
     },
     {
-      "title": "Shot by ICE and still in pain. LA detainee highlights gaps in DHS oversight",
+      "title": "A California man's case highlights gaps in care and oversight at DHS detention centers",
       "summary": "Federal officers shot Ricardo Parias eight months ago during an ICE operation to detain him. His lawyer says he is still in pain, highlighting gaps in oversight and care in DHS facilities.",
       "source": "NPR",
       "lang": "en",
@@ -284,8 +284,8 @@
       "publishedAt": "Fri, 19 Jun 2026 17:16:15 -0400"
     },
     {
-      "title": "Global framework for reparatory justice adopted at landmark conference in Ghana",
-      "summary": "Ensuring fair compensation for those affected by legacies of enslavement and measures to address debt burdens, part of 18-point strategic roadmapMore than money: the logic of slavery reparationsA global framework for reparatory justice has ",
+      "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
+      "summary": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmapMore than money: the logic of slavery reparationsA global framework for reparatory justice has been adopted at a conference i",
       "source": "The Guardian",
       "lang": "en",
       "link": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
@@ -373,16 +373,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 26,
-      "description": "clear sky",
+      "tempC": 23,
+      "description": "mainly clear",
       "high": 27,
       "low": 20
     },
     {
       "place": "London",
       "tempC": 26,
-      "description": "partly cloudy",
-      "high": 27,
+      "description": "overcast",
+      "high": 26,
       "low": 18
     }
   ],
