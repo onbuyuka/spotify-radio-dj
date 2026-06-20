@@ -1,14 +1,6 @@
 {
-  "updated": "2026-06-20T19:21:42.757Z",
+  "updated": "2026-06-20T22:04:21.858Z",
   "news": [
-    {
-      "title": "Cemil Tugay'ın istifası: Yeni parti hazırlığı sürüyor, belediye başkanlarına geçiş baskısı yok",
-      "summary": "CHP'de mutlak butlan kararının ardından yeni parti tartışmaları sürerken, İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın istifası gözleri diğer CHP'li belediye başkanlarına çevirdi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c0myrdlwk7wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 20 Jun 2026 07:54:10 GMT"
-    },
     {
       "title": "İsrail'in Lübnan'a yeni saldırıları sonrası İran Hürmüz Boğazı'nı kapattı",
       "summary": "İran Devrim Muhafızları gemilerin Hürmüz Boğazı'na yaklaşmamaları, aksi halde güvenliklerinin tehlikede olacağı uyarısında bulundu.",
@@ -24,6 +16,14 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c9w21dj5we5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 20 Jun 2026 16:57:10 GMT"
+    },
+    {
+      "title": "Cemil Tugay'ın istifası: Yeni parti hazırlığı sürüyor, belediye başkanlarına geçiş baskısı yok",
+      "summary": "CHP'de mutlak butlan kararının ardından yeni parti tartışmaları sürerken, İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın istifası gözleri diğer CHP'li belediye başkanlarına çevirdi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c0myrdlwk7wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 20 Jun 2026 07:54:10 GMT"
     },
     {
       "title": "İtalya basını: 'Montella istifa mı edecek, kovulacak mı?'",
@@ -50,46 +50,46 @@
       "publishedAt": "Sat, 20 Jun 2026 08:24:37 GMT"
     },
     {
+      "title": "İstanbul'un iki ilçesinde bazı yollar trafiğe kapatılacak",
+      "summary": "Beyoğlu ve Şişli'de güvenlik tedbirleri kapsamında trafiğe kapatılacak yollar ve alternatif güzergahlar açıklandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-21T00:00:54+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Haziran 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-21T01:00:00+03:00"
+    },
+    {
+      "title": "Tabancayla kızını ve eşini öldürüp, diğer kızını yaraladı",
+      "summary": "Malatya'nın Yeşilyurt ilçesinde Nejdet Timurkaan, tartıştığı kızı Beyza Timurkaan'ı (21) ve eşi Feray'ı tabancayla öldürdü ve diğer kızı Berra Timurkaan'ı da yaraladı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-20T23:19:13+03:00"
+    },
+    {
+      "title": "EGM’den personele Babalar Günü sürprizi",
+      "summary": "Emniyet Genel Müdürlüğünce, Babalar Günü dolayısıyla teşkilatta görevli babalara çocuklarının hazırladığı video mesajlar izletildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-20T23:13:03+03:00"
+    },
+    {
+      "title": "Önce vurdu sonra kemeriyle turnike yaptı",
+      "summary": "Sakarya’nın Adapazarı ilçesinde husumetli olduğu kişiyi tabancayla bacaklarından vurarak yaralayan şüphelinin, olayın ardından yaralının kan kaybını önlemek için kemeriyle turnike yaptığı anlar güvenlik kamerasına yansıdı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-20T23:08:02+03:00"
+    },
+    {
       "title": "Son dakika Düzce'de deprem mi oldu? Az önce deprem Düzce'de nerede oldu? Düzce deprem Kandilli ve AFAD son depremler listesi 20 Haziran 2026",
       "summary": "Son dakika Düzce deprem haberleri.. Düzce'de deprem mi oldu? Az önce deprem Düzce'de nerede oldu? Düzce Kandilli ve AFAD son depremler.. 20 Haziran 2026 Düzce deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Düzce'de? D",
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-06-20T21:50:00+03:00"
-    },
-    {
-      "title": "Bahçe kapısı cinayetinde güvenlik kamerası görüntüleri ortaya çıktı",
-      "summary": "Muğla'nın Fethiye ilçesinde, Ramazan Çalışkan'ın (42) bahçe kapısından çıkan ses nedeniyle tartıştığı komşusu Osman Küçükgüzel (62) tarafından av tüfeğiyle öldürüldüğü olayın güvenlik kamerası görüntüleri ortaya çıktı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-20T20:49:56+03:00"
-    },
-    {
-      "title": "\"Bahçe kapısı ses çıkarıyor\" cinayeti. Kamera görüntüleri ortaya çıktı",
-      "summary": "Muğla'nın Fethiye ilçesinde, Ramazan Çalışkan'ın (42) bahçe kapısından çıkan ses nedeniyle tartıştığı komşusu Osman Küçükgüzel (62) tarafından av tüfeğiyle öldürüldüğü olayın güvenlik kamerası görüntüleri ortaya çıktı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-20T20:52:40+03:00"
-    },
-    {
-      "title": "İstanbul'da yamaç paraşütü kazası. Biri çocuk 2 kişi kayalıklara çarparak yaralandı",
-      "summary": "Çatalca'da yamaç paraşütü yaparken rüzgarın etkisiyle kayalıklara çarpan biri çocuk 2 kişi yaralandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-20T20:37:39+03:00"
-    },
-    {
-      "title": "Halı sahada başlayan kavga 4 ilde hipodromlara sıçradı. 2 kişi öldü, 11 yaralı var",
-      "summary": "Şanlıurfa'da iki aile arasında halı sahada top oynarken çıkan ve Ankara, Diyarbakır ile Elazığ'a da sıçrayan kavgada ağır yaralanan 2 kişi, tedavi altına alındıkları hastanede hayatını kaybetti. Yaralı 11 kişinin tedavisi sürüyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-20T20:23:28+03:00"
-    },
-    {
-      "title": "Isparta'da tur otobüsü devrildi. 4 kişi öldü, 26 kişi yaralandı",
-      "summary": "Isparta'nın Gelendost ilçesinde yağış nedeniyle kontrolden çıkarak yol kenarındaki bahçeye devrilen midibüste bulunan 30 kişiden 4'ü hayatını kaybetti, 5'i ağır 26 kişi yaralandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-20T21:25:00+03:00"
     },
     {
       "title": "YKS ne zaman?",
@@ -140,12 +140,12 @@
       "publishedAt": "Fri, 19 Jun 2026 21:34:39 GMT"
     },
     {
-      "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
-      "summary": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
+      "title": "Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon",
+      "summary": "The US military has disputed Tehran's claim, which comes ahead of US-Iran talks in Switzerland on Sunday.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 20 Jun 2026 18:39:55 GMT"
+      "publishedAt": "Sat, 20 Jun 2026 21:11:57 GMT"
     },
     {
       "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
@@ -164,6 +164,14 @@
       "publishedAt": "Sat, 20 Jun 2026 15:31:12 GMT"
     },
     {
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 20 Jun 2026 21:57:36 GMT"
+    },
+    {
       "title": "Bolivian president declares state of emergency",
       "summary": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
       "source": "BBC World",
@@ -180,60 +188,60 @@
       "publishedAt": "Sat, 20 Jun 2026 16:34:15 GMT"
     },
     {
-      "title": "Tourist dies in Dominican Republic luxury resort fire",
-      "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 20 Jun 2026 17:33:25 GMT"
-    },
-    {
-      "title": "Are UK Prime Minister Keir Starmer’s political days numbered?",
-      "summary": "British PM resisting intensifying party pressure to step aside.",
+      "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
+      "summary": "The US-Iran memorandum of understanding does not rule out future tolls in the strait after an initial 60-day period.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/20/are-uk-prime-minister-keir-starmers-political-days-numbered?traffic_source=rss",
-      "publishedAt": "Sat, 20 Jun 2026 18:50:14 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
+      "publishedAt": "Sat, 20 Jun 2026 21:54:39 +0000"
     },
     {
-      "title": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
-      "summary": "Al Jazeera said it 'strongly condemns the heinous crime of targeting and killing' the Al Jazeera Mubasher correspondent.",
+      "title": "Uncertain World Cup for Paraguay’s Almiron, sent off for covering his mouth",
+      "summary": "Almiron received the first red card for covering his mouth in the World Cup Group D match against Turkiye.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
-      "publishedAt": "Sat, 20 Jun 2026 18:07:09 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/20/uncertain-world-cup-for-paraguays-almiron-sent-off-for-covering-his-mouth?traffic_source=rss",
+      "publishedAt": "Sat, 20 Jun 2026 21:52:28 +0000"
     },
     {
-      "title": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
-      "summary": "Planned negotiations come amid tensions over Israeli attacks in Lebanon and Iran’s announced closure of Hormuz again.",
+      "title": "Bolivia declares state of emergency to clear protest blockades",
+      "summary": "Bolivia declares state of emergency to clear protest blockades",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says?traffic_source=rss",
-      "publishedAt": "Sat, 20 Jun 2026 17:39:08 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss",
+      "publishedAt": "Sat, 20 Jun 2026 20:42:42 +0000"
     },
     {
-      "title": "As ILO convention turns 30, India’s home-based workers demand equal rights",
-      "summary": "Convention 177 was adopted on 20 June 1996, recognising home-based workers on a par with traditional wage earners.",
+      "title": "Overplaying Strait of Hormuz card will turn Iran into a pariah state",
+      "summary": "Overplaying Strait of Hormuz card will turn Iran into a pariah state.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/20/as-ilo-convention-turns-30-indias-home-based-workers-demand-equal-rights?traffic_source=rss",
-      "publishedAt": "Sat, 20 Jun 2026 17:31:45 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/overplaying-strait-of-hormuz-card-will-turn-iran-into-a-pariah-state?traffic_source=rss",
+      "publishedAt": "Sat, 20 Jun 2026 19:43:47 +0000"
     },
     {
-      "title": "World cup wrap day 9",
-      "summary": "World cup wrap day 9",
+      "title": "Netherlands vs Sweden: Gakpo, Brobbey doubles give Dutch 5–1 World Cup win",
+      "summary": "The Dutch have four points after bagging their first win in Houston; Sweden are second with three points in Group F.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/world-cup-wrap-day-9?traffic_source=rss",
-      "publishedAt": "Sat, 20 Jun 2026 17:27:59 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/20/netherlands-vs-sweden-gakpo-brobbey-doubles-give-dutch-5-1-world-cup?traffic_source=rss",
+      "publishedAt": "Sat, 20 Jun 2026 19:42:47 +0000"
     },
     {
-      "title": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
-      "summary": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes.",
+      "title": "Ukraine says Russian attack kills five people in Zaporizhzhia",
+      "summary": "During nightly address, Ukrainian President Volodymyr Zelenskyy warns that Russia is preparing for 'massive' attack.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes?traffic_source=rss",
-      "publishedAt": "Sat, 20 Jun 2026 17:05:37 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/20/ukraine-says-russian-attack-kills-five-people-in-zaporizhzhia?traffic_source=rss",
+      "publishedAt": "Sat, 20 Jun 2026 19:31:55 +0000"
+    },
+    {
+      "title": "DOJ memo stokes fear among disability advocates of a return to institutionalization",
+      "summary": "The Justice Department's opinion challenges civil rights protections that have long treated the institutionalization of disabled Americans as a last resort.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/20/nx-s1-5865100/doj-memo-trump-disability-civil-rights-institutionalization",
+      "publishedAt": "Sat, 20 Jun 2026 16:33:14 -0400"
     },
     {
       "title": "Opinion: Algae doesn't care about our party lines",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/06/20/nx-s1-5855064/richard-la-parias-ice-detention",
       "publishedAt": "Sat, 20 Jun 2026 05:00:00 -0400"
-    },
-    {
-      "title": "James Burrows, director of classic shows 'Cheers' and 'Friends,' dies at 85",
-      "summary": "Burrows spent his career behind the camera specializing in situation comedies. Few viewers recognized him or knew his name, other than to see it flash quickly on the screen in the opening credits. But they knew his work.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/19/g-s1-129137/james-burrows-death-obit-cheers-friends",
-      "publishedAt": "Fri, 19 Jun 2026 17:16:15 -0400"
     },
     {
       "title": "Global framework for reparatory justice adopted at landmark Ghana conference",
@@ -328,18 +328,20 @@
     },
     {
       "league": "World Cup",
-      "home": "Turkey",
-      "away": "Paraguay",
-      "homeScore": 0,
+      "home": "Germany",
+      "away": "Ivory Coast",
+      "homeScore": 1,
       "awayScore": 1,
       "status": "FT",
       "date": "2026-06-20"
     },
     {
       "league": "World Cup",
-      "home": "Germany",
-      "away": "Ivory Coast",
-      "status": "upcoming",
+      "home": "Turkey",
+      "away": "Paraguay",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FT",
       "date": "2026-06-20"
     },
     {
@@ -375,13 +377,13 @@
       "place": "İstanbul",
       "tempC": 21,
       "description": "clear sky",
-      "high": 27,
+      "high": 29,
       "low": 20
     },
     {
       "place": "London",
-      "tempC": 25,
-      "description": "partly cloudy",
+      "tempC": 23,
+      "description": "clear sky",
       "high": 26,
       "low": 18
     }
