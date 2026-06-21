@@ -1,14 +1,6 @@
 {
-  "updated": "2026-06-21T16:28:54.093Z",
+  "updated": "2026-06-21T19:26:28.695Z",
   "news": [
-    {
-      "title": "Sayılarla Dünya Kupası: 'Çevreyi en çok kirleten turnuva'",
-      "summary": "Kuzey Amerika genelinde düzenlenen ve 48 takımın yer aldığı 2026 Dünya Kupası, benzeri görülmemiş seyahat mesafeleri ve karbon salımına neden olacak. Turnuvanın yaratacağı emisyon yaklaşık 9 milyon ton CO2'ye ulaşabilir. Böylece Dünya Kupas",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/crlpljnz6pro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 21 Jun 2026 14:29:14 GMT"
-    },
     {
       "title": "İsviçre'de başlayan ABD-İran görüşmelerinde son durum ne?",
       "summary": "ABD ile İran arasındaki savaşı sona erdirecek uzun vadeli bir barış anlaşmasının ayrıntılarına ilişkin görüşmeler İsviçre'de başladı.",
@@ -26,6 +18,22 @@
       "publishedAt": "Sun, 21 Jun 2026 13:37:03 GMT"
     },
     {
+      "title": "İngiltere'de Başbakan Starmer'ın istifa takvimini açıklayacağına dair işaretler artıyor",
+      "summary": "İngiltere'de İşçi Partisi liderliği için yarışın başlayacağına ve Başbakan Keir Starmer'ın istifa edeceğine dair beklentiler, hükümette havanın değişmesiyle birlikte daha da arttı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/crlwj1ye84do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 21 Jun 2026 16:57:14 GMT"
+    },
+    {
+      "title": "Sayılarla Dünya Kupası: 'Çevreyi en çok kirleten turnuva'",
+      "summary": "Kuzey Amerika genelinde düzenlenen ve 48 takımın yer aldığı 2026 Dünya Kupası, benzeri görülmemiş seyahat mesafeleri ve karbon salımına neden olacak. Turnuvanın yaratacağı emisyon yaklaşık 9 milyon ton CO2'ye ulaşabilir. Böylece Dünya Kupas",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/crlpljnz6pro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 21 Jun 2026 14:29:14 GMT"
+    },
+    {
       "title": "İbn Battuta: 'Ortaçağ'ın en büyük Müslüman seyyahı'",
       "summary": "13 Haziran 1325'te, İbn Battuta diye bilinen Ebu Abdullah Muhammed ibn Battuta adlı genç bir Faslı bilgin, keşifler tarihinin en olağanüstü yolculuklarından birine çıktı.",
       "source": "BBC Türkçe",
@@ -34,20 +42,33 @@
       "publishedAt": "Sun, 21 Jun 2026 10:15:17 GMT"
     },
     {
-      "title": "İngiltere'de Başbakan Starmer'ın istifa takvimini açıklayacağına dair işaretler artıyor",
-      "summary": "İngiltere'de İşçi Partisi liderliği için yarışın başlayacağına ve Başbakan Keir Starmer'ın istifa edeceğine dair beklentiler, hükümette havanın değişmesiyle birlikte daha da arttı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/crlwj1ye84do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 21 Jun 2026 11:36:34 GMT"
-    },
-    {
       "title": "İtalya Başbakanı Meloni'den Trump'a: 'Dostun olmak popülariteme iyi gelmedi'",
       "summary": "ABD Başkanı Donald Trump'ın, İtalya Başbakanı Giorgia Meloni hakkında \"benimle fotoğraf çektirmek için yalvardı\" demesinin ardından başlayan karşılıklı atışma yeni mesajlarla devam ediyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/clyez3knx02o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 21 Jun 2026 10:57:10 GMT"
+    },
+    {
+      "title": "Interpol kırmızı bültenle arıyor. Sahte kimlikle Kütahya'da yakalandı",
+      "summary": "Kütahya’da polis ekiplerince yapılan denetimde, Interpol tarafından kırmızı bültenle aranan ve hakkında 12 yıl 6 ay kesinleşmiş hapis cezası bulunan Afganistan uyruklu Nazar Mohammad Nazari (29), sahte kimlikle yakalandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-21T21:34:27+03:00"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan’dan Babalar Günü mesajı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Babalar Günü dolayısıyla sanal medya hesabından paylaştığı mesajda, tüm babaların Babalar Günü’nü kutladı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-21T20:46:11+03:00"
+    },
+    {
+      "title": "Ceset sandılar, cansız manken çıktı",
+      "summary": "Artvin'de baraj yüzeyinde ceset olduğu yönündeki ihbar sonrası bölgeye sevk edilen AFAD ekipleri, cansız manken ile karşılaştı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-21T20:11:53+03:00"
     },
     {
       "title": "YKS'de zamanla yarış. Sınava yetişemeyen öğrencilere polis ekipleri yardım etti",
@@ -69,27 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-06-21T18:19:27+03:00"
-    },
-    {
-      "title": "Büyükçekmece'de otomobille çarpışan motosikletin sürücüsü öldü",
-      "summary": "Büyükçekmece'de otomobille çarpışan motosikletin sürücüsü hayatını kaybetti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-21T18:17:52+03:00"
-    },
-    {
-      "title": "Şanlıurfa'da kendisinden haber alınamayan kişi hukuk bürosunda ölü bulundu",
-      "summary": "Şanlıurfa'nın merkez Haliliye ilçesinde, kendisinden haber alınamayan 44 yaşındaki kişi hukuk bürosunda ölü bulundu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-21T18:13:15+03:00"
-    },
-    {
-      "title": "Sosyal medyada başörtülülere aşağılayıcı ifadeler kullanan kişi hakkında gözaltı kararı",
-      "summary": "Sosyal medyada başörtülü vatandaşlar için aşağılayıcı ifadeler kullandığı gerekçesiyle bir şüpheli hakkında gözaltı kararı verildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-21T17:33:04+03:00"
     },
     {
       "title": "YKS sonuçları ne zaman açıklanacak?",
@@ -156,7 +156,7 @@
       "publishedAt": "Sun, 21 Jun 2026 10:55:05 GMT"
     },
     {
-      "title": "Nobel Peace Prize winner triumphs at Ethiopian polls but fears grow of new conflict",
+      "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
       "summary": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
       "source": "BBC World",
       "lang": "en",
@@ -188,52 +188,60 @@
       "publishedAt": "Sun, 21 Jun 2026 07:16:54 GMT"
     },
     {
-      "title": "Syria frees activist Hassan Akkad days after he was detained",
-      "summary": "His release comes after journalist Mousa al-Omar reportedly withdrew a complaint against Akkad over online criticism.",
+      "title": "Europe heatwave scorches cities and wildlife",
+      "summary": "Europe heatwave scorches cities and wildlife",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/21/syria-frees-activist-hassan-akkad-days-after-he-was-detained?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 15:56:04 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/europe-heatwave-scorches-cities-and-wildlife?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 18:47:18 +0000"
     },
     {
-      "title": "Mbappe, France play Iraq in World Cup match: prediction, team news, lineups",
-      "summary": "Star forward Kylian Mbappe and France face Iraq in Boston with Les Bleus focused on securing a place in knockout phase.",
+      "title": "Spain thrash Saudi Arabia 4-0 as Lamine Yamal off mark at World Cup 2026",
+      "summary": "Yamal makes a goal-scoring return for Spain as European champions get their World Cup campaign back on track.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/21/mbappe-france-play-iraq-in-world-cup-match-prediction-team-news-lineups?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 15:17:44 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/21/spain-thrash-saudi-arabia-4-0-as-lamine-yamal-off-mark-at-world-cup-2026?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 18:37:15 +0000"
     },
     {
-      "title": "US-Iran negotiations in Switzerland kick off",
-      "summary": "US-Iran talks opened in Switzerland with mediators Qatar and Pakistan hailing a ‘historic’ opportunity for stability.",
+      "title": "What’s next in the Strait of Hormuz crisis?",
+      "summary": "Iranian armed forces say they've closed the vital waterway after Israeli attacks on Lebanon.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-negotiations-in-switzerland-kick-off?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 15:16:44 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 17:36:27 +0000"
     },
     {
-      "title": "Iran-U.S. launch historic peace talks with 60-day roadmap",
-      "summary": "Iran-U.S. launch historic peace talks with 60-day roadmap",
+      "title": "Ethiopian prime minister’s party easily wins parliamentary election",
+      "summary": "Nobel Peace Prize winner PM Abiy Ahmed will stay in power, as analysts warn of renewed conflicts in Ethiopia.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/iran-u-s-launch-historic-peace-talks-with-60-day-roadmap?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 14:54:56 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 17:07:52 +0000"
     },
     {
-      "title": "Fans flood Atlanta streets before Spain-Saudi Arabia match",
-      "summary": "Spain and Saudi Arabia fans filled the streets of Atlanta with chants and celebrations ahead of their World Cup clash.",
+      "title": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
+      "summary": "Supreme leader has expressed reservations about interim deal with US, but most top decision-makers back it.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/fans-flood-atlanta-streets-before-spain-saudi-arabia-match?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 14:48:18 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 17:01:50 +0000"
     },
     {
-      "title": "Bolivian authorities say no active blockades after state of emergency decree",
-      "summary": "State of emergency permits deployment of military to support police amid five weeks of anti-government protests.",
+      "title": "Iran, US, Israel: Memorandum of misunderstanding?",
+      "summary": "Chances are slim for progress between Iran and the US, argues Drop Site News co-founder Jeremy Scahill.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/21/bolivian-authorities-say-no-active-blockades-after-state-of-emergency-decree?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 14:27:50 +0000"
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 16:49:31 +0000"
+    },
+    {
+      "title": "Trump threatens to 'hit Iran very hard again' while Vance in Switzerland for talks",
+      "summary": "President Trump has threatened further attacks on Iran while Vice President Vance attended talks with Iranian officials in Switzerland on Sunday.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
+      "publishedAt": "Sun, 21 Jun 2026 13:29:57 -0400"
     },
     {
       "title": "Ukrainian attacks prompt Russian-held Crimea to halt civilian gasoline sales",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/06/21/g-s1-128624/freed-from-cambodias-scam-compounds-trafficking-victims-face-a-new-crisis",
       "publishedAt": "Sun, 21 Jun 2026 06:00:00 -0400"
-    },
-    {
-      "title": "Want to improve your agility? Try these exercises that combine speed and strength",
-      "summary": "These simple movements combine speed and strength to train your body's ability to rapidly generate force. They can also help prevent injury and boost agility.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/21/nx-s1-5776814/improve-your-agility-explosive-power-exercises-prevent-injury",
-      "publishedAt": "Sun, 21 Jun 2026 05:00:00 -0400"
     },
     {
       "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
@@ -373,15 +373,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
+      "tempC": 22,
       "description": "clear sky",
       "high": 29,
       "low": 20
     },
     {
       "place": "London",
-      "tempC": 29,
-      "description": "overcast",
+      "tempC": 25,
+      "description": "clear sky",
       "high": 30,
       "low": 21
     }
