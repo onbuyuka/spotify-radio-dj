@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T19:26:28.695Z",
+  "updated": "2026-06-21T22:12:21.073Z",
   "news": [
     {
       "title": "İsviçre'de başlayan ABD-İran görüşmelerinde son durum ne?",
@@ -7,7 +7,7 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 21 Jun 2026 16:23:52 GMT"
+      "publishedAt": "Sun, 21 Jun 2026 21:52:53 GMT"
     },
     {
       "title": "Türkiye, Mısır, Suudi Arabistan ve Pakistan dışişleri bakanları Kahire'de biraraya geldi",
@@ -50,6 +50,13 @@
       "publishedAt": "Sun, 21 Jun 2026 10:57:10 GMT"
     },
     {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Haziran 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-22T01:00:00+03:00"
+    },
+    {
       "title": "Interpol kırmızı bültenle arıyor. Sahte kimlikle Kütahya'da yakalandı",
       "summary": "Kütahya’da polis ekiplerince yapılan denetimde, Interpol tarafından kırmızı bültenle aranan ve hakkında 12 yıl 6 ay kesinleşmiş hapis cezası bulunan Afganistan uyruklu Nazar Mohammad Nazari (29), sahte kimlikle yakalandı.",
       "source": "NTV",
@@ -83,13 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-06-21T18:52:42+03:00"
-    },
-    {
-      "title": "\"Her baba evladı için yaşar\" sözüne hayat verdi. Ömrünü engelli oğluna adadı",
-      "summary": "Zonguldak'ın Çaycuma ilçesinde yaşayan Ayhan Kuru, serebral palsi hastası 26 yaşındaki oğlu Sercan Kuru için verdiği yaşam mücadelesiyle Babalar Günü'nde fedakârlığın en somut örneğini sergiliyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-21T18:19:27+03:00"
     },
     {
       "title": "YKS sonuçları ne zaman açıklanacak?",
@@ -140,12 +140,12 @@
       "publishedAt": "Sun, 21 Jun 2026 07:26:26 GMT"
     },
     {
-      "title": "US and Iran begin talks on initial peace deal in Switzerland",
-      "summary": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
+      "title": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
+      "summary": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 21 Jun 2026 14:41:02 GMT"
+      "publishedAt": "Sun, 21 Jun 2026 19:33:09 GMT"
     },
     {
       "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
@@ -188,52 +188,60 @@
       "publishedAt": "Sun, 21 Jun 2026 07:16:54 GMT"
     },
     {
-      "title": "Europe heatwave scorches cities and wildlife",
-      "summary": "Europe heatwave scorches cities and wildlife",
+      "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
+      "summary": "Nathan Ngoy was sent off for hauling down Mehdi Taremi, whose first-half strike was ruled offside in a close Group G match.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/europe-heatwave-scorches-cities-and-wildlife?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 18:47:18 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 21:45:02 +0000"
     },
     {
-      "title": "Spain thrash Saudi Arabia 4-0 as Lamine Yamal off mark at World Cup 2026",
-      "summary": "Yamal makes a goal-scoring return for Spain as European champions get their World Cup campaign back on track.",
+      "title": "What are the end goals of Iran-US negotiations?",
+      "summary": "Professor and political analyst Mahjoub Zweiri breaks down what intentions behind US-Iran talks will result in.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/21/spain-thrash-saudi-arabia-4-0-as-lamine-yamal-off-mark-at-world-cup-2026?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 18:37:15 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 20:59:22 +0000"
     },
     {
-      "title": "What’s next in the Strait of Hormuz crisis?",
-      "summary": "Iranian armed forces say they've closed the vital waterway after Israeli attacks on Lebanon.",
+      "title": "Mourners gather to remember Lebanese conservationist killed by Israel",
+      "summary": "People gathered in Beirut in memory of beloved turtle conservationist Mona Khalil, killed in Israeli attack.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/21/whats-next-in-the-strait-of-hormuz-crisis?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 17:36:27 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 20:21:59 +0000"
     },
     {
-      "title": "Ethiopian prime minister’s party easily wins parliamentary election",
-      "summary": "Nobel Peace Prize winner PM Abiy Ahmed will stay in power, as analysts warn of renewed conflicts in Ethiopia.",
+      "title": "Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work",
+      "summary": "Al Jazeera cameraman Ahmed Wishah dedicated his life to documenting life in Gaza before he was killed by Israel.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/21/ethiopian-prime-ministers-party-easily-wins-parliamentary-election?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 17:07:52 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/remembering-al-jazeera-cameraman-ahmed-wishahs-lifes-work?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 20:11:48 +0000"
     },
     {
-      "title": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
-      "summary": "Supreme leader has expressed reservations about interim deal with US, but most top decision-makers back it.",
+      "title": "Serena Williams to play women’s singles at Wimbledon as wildcard entrant",
+      "summary": "The seven-time ladies' singles champion will make her Grand Slam return at Wimbledon, six years after her last appearance.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 17:01:50 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/21/serena-williams-to-play-womens-singles-at-wimbledon-as-wildcard-entrant?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 20:05:19 +0000"
     },
     {
-      "title": "Iran, US, Israel: Memorandum of misunderstanding?",
-      "summary": "Chances are slim for progress between Iran and the US, argues Drop Site News co-founder Jeremy Scahill.",
+      "title": "Displaced Lebanese inspect shattered Nabatieh after Israel halts attacks",
+      "summary": "Displaced residents returned to Nabatieh after Israel ordered a halt to fighting in southern Lebanon.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss",
-      "publishedAt": "Sun, 21 Jun 2026 16:49:31 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/displaced-lebanese-inspect-shattered-nabatieh-after-israel-halts-attacks?traffic_source=rss",
+      "publishedAt": "Sun, 21 Jun 2026 20:04:40 +0000"
+    },
+    {
+      "title": "Leading Lebanese conservationist dies after Israeli airstrike on her home",
+      "summary": "Mona Khalil died Friday after an Israeli airstrike hit her beachside home two weeks ago. She's credited with creating a conservation movement in southern Lebanon to protect sea turtle nesting grounds.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike",
+      "publishedAt": "Sun, 21 Jun 2026 17:37:22 -0400"
     },
     {
       "title": "Trump threatens to 'hit Iran very hard again' while Vance in Switzerland for talks",
@@ -260,28 +268,20 @@
       "publishedAt": "Sun, 21 Jun 2026 09:46:25 -0400"
     },
     {
+      "title": "Week in politics: continued negotiations with Iran; G7 summit; Reflecting Pool issues",
+      "summary": "There continues to be uncertainty over negotiations. At the same time, the Trump administration continues to aggravate allies.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/21/nx-s1-5864237/week-in-politics-continued-negotiations-with-iran-g7-summit-reflecting-pool-issues",
+      "publishedAt": "Sun, 21 Jun 2026 08:06:14 -0400"
+    },
+    {
       "title": "Colombia runoff vote shaped by security fears and conflict warnings",
       "summary": "Voters head to a runoff in Colombia Sunday between candidates offering sharply different approaches to armed groups, with the frontrunner calling for intensified military action over peace talks",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombia-election-conflict",
       "publishedAt": "Sun, 21 Jun 2026 08:06:08 -0400"
-    },
-    {
-      "title": "A new survey on dads found that 9 out of 10 had a surprising reaction to fatherhood",
-      "summary": "Men are traditionally thought of as providers for their children. But a report that interviewed thousands of fathers found them embracing another role.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/21/g-s1-128889/a-new-survey-on-dads-found-that-9-out-of-10-had-a-surprising-reaction-to-fatherhood",
-      "publishedAt": "Sun, 21 Jun 2026 06:38:48 -0400"
-    },
-    {
-      "title": "Cambodia cracked down on scams costing Americans billions. It created a new crisis",
-      "summary": "Cambodia's crackdown on scam centers has created a secondary crisis: thousands of stranded foreign workers are now roaming the streets of Phnom Penh.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/21/g-s1-128624/freed-from-cambodias-scam-compounds-trafficking-victims-face-a-new-crisis",
-      "publishedAt": "Sun, 21 Jun 2026 06:00:00 -0400"
     },
     {
       "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
@@ -339,7 +339,9 @@
       "league": "World Cup",
       "home": "Belgium",
       "away": "Iran",
-      "status": "upcoming",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
       "date": "2026-06-21"
     },
     {
@@ -373,14 +375,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 22,
+      "tempC": 21,
       "description": "clear sky",
-      "high": 29,
+      "high": 28,
       "low": 20
     },
     {
       "place": "London",
-      "tempC": 25,
+      "tempC": 22,
       "description": "clear sky",
       "high": 30,
       "low": 21
