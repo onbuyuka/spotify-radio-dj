@@ -1,287 +1,295 @@
 {
-  "updated": "2026-06-23T06:49:41.528Z",
+  "updated": "2026-06-23T11:59:14.994Z",
   "news": [
     {
-      "title": "Brexit, Türkiye-İngiltere ilişkilerini nasıl etkiledi?",
+      "title": "Avrupa'da kırmızı alarm: Sıcaklıklar 40 dereceyi aşacak, ölümler başladı",
+      "summary": "Fransa ve İspanya başta olmak üzere Avrupa'nın birçok ülkesinde sıcaklıkların 40 derecenin üzerine çıkacağı beklentisiyle kırmızı alarm verildi. Bazı ülkelerde sıcak ve boğulma vakaları nedeniyle ölümler yaşanıyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.co.uk/turkce/articles/cvg4qxq907do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 10:31:31 GMT"
+    },
+    {
+      "title": "Akaryakıt sektörüne yönelik operasyonla ilgili neler biliniyor?",
+      "summary": "Türkiye'de akaryakıt sektörüne yönelik geniş çaplı ve eş zamanlı bir operasyon düzenlendi. Dokuz ilde düzenlenen operasyonun merkezinde, sahte fatura ve hayali ihracat yöntemleriyle devleti zarara uğrattığı tespit edilen organize bir şirket",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.co.uk/turkce/articles/c2kynj97ydyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 10:55:06 GMT"
+    },
+    {
+      "title": "NATO zirvesi öncesi Ankara ve İstanbul'da baskınlar: 233 kişi gözaltında",
+      "summary": "Ankara'da gelecek ay düzenlenmesi planlanan NATO zirvesi öncesinde Ankara ve İstanbul'da yapılan operasyonlarda 233 kişi gözaltına alındı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.co.uk/turkce/articles/cwyd855ee7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 09:18:59 GMT"
+    },
+    {
+      "title": "10. yılında Brexit: Türkiye-İngiltere ilişkileri nasıl değişti?",
       "summary": "İngiltere'nin Brexit sonrası ikili ilişkilerini en fazla artırdığı ülkelerden biri de Türkiye oldu. Türkiye'nin AB'ye üyelik sürecinin de resmen askıya alındığı ve müzakerelerde yeni bir faslın açılmadığı bu dönemde, iki ülke ilişkilerini g",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c621nqg3gy0o?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/turkce/articles/c621nqg3gy0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 23 Jun 2026 01:41:54 GMT"
-    },
-    {
-      "title": "Özel grup toplantısı yapacak, Kılıçdaroğlu MYK toplayacak",
-      "summary": "Mutlak butlan kararıyla CHP Genel Başkanlığı düşürülen partinin Grup Başkanı Özgür Özel, 23 Haziran Salı günü grup toplantısı yapmak için TBMM Başkanlığı'na başvuru yaptı. Kılıçdaroğlu tarafı ise salı günü Merkez Yönetim Kurulu (MYK) ve Par",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cwyl19vzkn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 23 Jun 2026 06:29:03 GMT"
-    },
-    {
-      "title": "'İran nükleer denetçilere izin verdi, ABD petrol yaptırımını kaldırdı'",
-      "summary": "ABD Başkan Yardımcısı JD Vance, İran'ın nükleer denetçilerin ülkeye geri dönmesine izin verdiğini söylerken ABD Hazinesi de İran'ın petrol ve petrol ürünlerine yönelik yaptırımlarım 21 Ağustos'a kadar askıya alındığını açıkladı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ce8k0znpgd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 17:19:39 GMT"
-    },
-    {
-      "title": "Romanya'da hastaneler siber saldırıyı 'kağıt-kalem' yöntemiyle nasıl yendi?",
-      "summary": "ÖZET: Romanya’da onlarca hastane dört gün boyunca çevrimdışı kaldı. Bu süre boyunca siber güvenlik uzmanları saldırganları durdurmaya çalıştı",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/clywr8zd4jgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 23 Jun 2026 01:41:35 GMT"
     },
     {
       "title": "Backrooms ve Obsession: Düşük bütçeli iki korku filmi Hollywood'da nasıl deprem etkisi yarattı?",
       "summary": "Hollywood'un dev bütçeli marka filmleri gişede zorlanırken, YouTube kökenli genç yönetmenlerin çektiği düşük bütçeli korku filmleri Backrooms ve Obsession, Z Kuşağı izleyicilerinin desteğiyle yazın en büyük başarı hikâyelerine dönüştü",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cp8rzx6z94jo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/turkce/articles/cp8rzx6z94jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 23 Jun 2026 01:41:22 GMT"
     },
     {
-      "title": "Keir Starmer'ın istifasına giden süreçte neler yaşandı?",
-      "summary": "İki yıl önce ezici bir seçim zaferi kazanmasına rağmen, liderlik popüleritesi sürekli düşen İngiltere başbakanı Keir Starmer, kendi partisi tarafından istifaya zorlandı.",
+      "title": "Mbappe'nin gecesi: Fransa kötü hava koşullarına rağmen Irak engelini rahat aştı",
+      "summary": "Fransa, Philadelphia'da hava koşulları nedeniyle uzun süre duran karşılaşmada Irak'ı rahat bir şekilde mağlup etti. İki gol attığı maçta Fransız yıldız Kylian Mbappe, Dünya Kupası tarihinin en golcü oyuncuları listesinde ikinci sıraya ortak",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/crlwj1ye84do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 23:15:32 GMT"
+      "link": "https://www.bbc.co.uk/turkce/articles/c5yey6mny64o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 02:17:03 GMT"
     },
     {
-      "title": "13 yıllık Nesim Bayram ve Evindar Tığrak cinayeti aydınlatıldı",
-      "summary": "Ağrı’da 2013 yılından bu yana soruşturması devam eden Nesim Bayram ile 2025 yılında Batman’da kayıp olarak aranan Evindar Tığrak dosyasında önemli gelişmeler yaşandı.",
+      "title": "Özgür Özel'den Kılıçdaroğlu'na çağrı: \"Partiyi bu ayıptan kurtarmalı\"",
+      "summary": "CHP Grup Başkanı Özgür Özel, partisinin grup toplantısında Genel Merkez'e olağanüstü kurultay için verilen delege imzalarını hatırlattı. Özel, CHP lideri Kemal Kılıçdaroğlu'na seslenerek \"Partinin bu ayıptan derhal kurtulması lazım.\" dedi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-23T09:47:09+03:00"
+      "publishedAt": "2026-06-23T14:41:21+03:00"
     },
     {
-      "title": "Park halindeki iki otomobile çarpıp, kaçan alkollü sürücü aracında uyurken yakalandı",
-      "summary": "Nevşehir’de park halindeki iki otomobile çarptıktan sonra bir sokakta aracında uyurken yakalanan alkollü sürücü E.G., polis tarafından uyandırıldı. Sürücüye 27 bin 719 TL ceza yazılırken, ehliyetine 6 ay el konuldu.",
+      "title": "Son dakika Aydın'da deprem mi oldu? Az önce deprem Aydın'da nerede oldu? Aydın deprem Kandilli ve AFAD son depremler listesi 23 Haziran 2026",
+      "summary": "Son dakika Aydın deprem haberleri.. Aydın'da deprem mi oldu? Az önce deprem Aydın'da nerede oldu? Aydın Kandilli ve AFAD son depremler.. 23 Haziran 2026 Aydın deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Aydın'da? A",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-23T09:19:49+03:00"
+      "publishedAt": "2026-06-23T14:30:00+03:00"
     },
     {
-      "title": "Uzman çavuştan 92 gün sonra acı haber",
-      "summary": "Hatay’da trafik kazasında ağır yaralanan 53 yaşındaki Uzman Çavuş Hüseyin Sür, 92 gün süren hayat mücadelesini kaybetti.",
+      "title": "215 yeni fay tespit edildi. Yeni faylar İstanbul depremini etkiler mi?",
+      "summary": "Diri fay haritasının 13 yıl sonra güncellenip fay sayısının artması Türkiye'nin bir deprem ülkesi olduğunu bir kez daha gündeme getirdi. Prof. Dr. Şerif Barış, yeni tespit edilen fayların beklenen Marmara depremine etkisini ve bu fayların n",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-23T09:07:01+03:00"
+      "publishedAt": "2026-06-23T14:18:22+03:00"
     },
     {
-      "title": "Uyuşturucu operasyonunda gözaltına alınan Denizli Baro Başkanı Ufuk Kök istifa etti",
-      "summary": "Avukatlara uyuşturucu soruşturması kapsamında gözaltına alınan Denizli Baro Başkanı Ufuk Kök, görevinden istifa etti.",
+      "title": "Bakan Göktaş: Hiçbir ekran bir aile sofrasının sıcaklığını sunamaz",
+      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Aile değerlerini reyting malzemelerine dönüştüren, kültürümüzü trend listelerine kurban edenlerle mücadelemiz sürecektir.\" mesajını verdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-23T08:30:36+03:00"
+      "publishedAt": "2026-06-23T13:48:49+03:00"
     },
     {
-      "title": "Resmi Gazete'de bugün (23 Haziran 2026 Resmi Gazete kararları)",
-      "summary": "Resmi Gazete'de 23 Haziran 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 23 Haziran 2026 tarihli ve 33289 Sayılı Resmi Gazete ayrıntıları.",
+      "title": "KKTC'de Şehit Teğmen Caner Gönyeli 2026 Tatbikatı'nın kara safhası tamamlandı",
+      "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) ile Türkiye Cumhuriyeti arasında arama kurtarma alanındaki iş birliğini geliştirmek amacıyla düzenlenen Şehit Teğmen Caner Gönyeli-2026 Arama Kurtarma Davet Tatbikatı'nın kara safhası gerçekleştirildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-23T08:17:03+03:00"
+      "publishedAt": "2026-06-23T13:50:07+03:00"
     },
     {
-      "title": "Kavurucu sıcaklar başlıyor. Sıcaklık güneşin altında 45 dereceyi bulacak",
-      "summary": "Bu hafta sıcaklıklar bir kademe daha artıyor. Özellikle batı bölgelerindeki birçok ilde sıcaklık 30 derecenin üzerinde olacak. Uzmanlar, havanın kuru olmasından dolayı perşembe gününe kadar da orman yangınlarına karşı uyarıda bulundu.",
+      "title": "4 çocuk annesi eşini öldürüp intihar süsü vermiş",
+      "summary": "Şanlıurfa'da 4 çocuk annesi Emine Kurt'u, eşinin boğduğu ardından da olaya intihar görünümü verdiği ortaya çıktı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-23T08:08:12+03:00"
+      "publishedAt": "2026-06-23T13:36:35+03:00"
     },
     {
-      "title": "12. Yargı Paketi Meclis'e sunuldu!",
-      "summary": "12. Yargı Paketi’ne ilişkin son dakika gelişmeleri kamuoyunda yakından takip edilmeye devam ediyor. AK Parti Grup Başkanı Abdullah Güler ve Adalet Bakanı tarafından yapılan açıklamaların ardından paketin içeriğine dair tartışmalar yeniden g",
+      "title": "Adalet Bakanlığı personel alımı sonuçları",
+      "summary": "Adalet Bakanlığı tarafından gerçekleştirilecek 15 bin sözleşmeli personel alımında başvuru sürecinin tamamlanmasının ardından gözler sonuç tarihine çevrildi. İnfaz ve Koruma Memuru, Büro Personeli, Hemşire, Teknisyen ve çeşitli destek perso",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/12-yargi-paketi-meclis-e-sunuldu-son-dakika-12-yargi-paketi-ne-zaman-cikacak-12-yargi-paketi-maddeleri-neler-af-gelecek-mi-infaz-duzenlemesi-var-mi-3893313",
-      "publishedAt": "Mon, 22 Jun 2026 09:16:32 GMT"
+      "link": "https://www.haberturk.com/adalet-bakanligi-personel-alimi-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-adalet-bakanligi-15-bin-personel-alimi-basvuru-sonucu-sorgula-3893576",
+      "publishedAt": "Tue, 23 Jun 2026 09:12:44 GMT"
     },
     {
-      "title": "Adli tatil ne zaman başlayacak, bitecek?",
-      "summary": "Adli süreçleri yakından takip eden vatandaşlar, avukatlar ve hukuk camiası 2026 yılı adli tatil takvimini araştırıyor. Her yıl belirli tarihler arasında uygulanan adli tatil döneminde hangi davaların görülmeye devam edeceği ve yeni adli yıl",
+      "title": "MTV 2. taksit ödemeleri ne zaman?",
+      "summary": "2026 yılı Motorlu Taşıtlar Vergisi (MTV) 2. taksit ödemeleri yaklaşırken araç sahipleri ödeme takvimi ve borç sorgulama işlemlerine odaklandı. Yılda iki eşit taksit halinde tahsil edilen MTV’nin ilk ödemeleri Ocak ayında tamamlandı. Araç sa",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/adli-tatil-takvimi-2026-adli-tatil-ne-zaman-baslayacak-bitecek-3893311",
-      "publishedAt": "Mon, 22 Jun 2026 09:01:29 GMT"
+      "link": "https://www.haberturk.com/mtv-2-taksit-odeme-tarihi-2026-mtv-2-taksit-odemeleri-ne-zaman-basliyor-ne-zaman-bitiyor-motorlu-tasitlar-vergisi-taksit-sorgulama-ekrani-3893568",
+      "publishedAt": "Tue, 23 Jun 2026 08:59:13 GMT"
     },
     {
-      "title": "Soğan dolması tarifi!",
-      "summary": "Klasik dolma tariflerinden sıkılanların favorisi olmaya aday soğan dolması, hem görünümü hem de lezzetiyle sofralarda fark yaratıyor. İşte evde kolayca hazırlayabileceğiniz soğan dolması tarifi ve püf noktaları...",
+      "title": "LGS sonuçları ne zaman açıklanacak?",
+      "summary": "Sınav sonrası heyecan dorukta! LGS 2026 sonuçlarının açıklanacağı tarih ve tercih sürecinin başlayacağı dönem milyonlarca öğrenci tarafından yakından takip ediliyor; gözler artık MEB takvimine çevrilmiş durumda. LGS sonuçlarının hangi gün a",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bu-tarif-klasik-dolmalari-unutturacak-bir-kez-deneyenin-vazgecemedigi-kat-kat-acilan-lezzet-sogan-dolmasi-tarifi-3893305",
-      "publishedAt": "Mon, 22 Jun 2026 08:47:07 GMT"
+      "link": "https://www.haberturk.com/2026-lgs-sonuclari-aciklanma-tarihi-lgs-sonuclari-nasil-ogrenilir-lgs-sonuclari-ne-zaman-aciklanacak-2026-lgs-tercihleri-ne-zaman-baslayacak-3893566",
+      "publishedAt": "Tue, 23 Jun 2026 09:05:50 GMT"
     },
     {
-      "title": "TBMM ne zaman kapanacak?",
-      "summary": "Türkiye Büyük Millet Meclisi’nin 2026 çalışma takvimi gündemdeki yerini koruyor. Genel Kurul’un son oturum tarihi ve yaz dönemi tatil süreci araştırılırken “Meclis ne zaman kapanacak?” sorusu yeniden öne çıkıyor. Peki, TBMM tatile girdi mi?",
+      "title": "Hemşire maaşı ne kadar olacak?",
+      "summary": "Memur maaşları, her yıl Ocak ve Temmuz aylarında yeniden belirlenirken kamu çalışanları gözünü Temmuz 2026 zammına çevirdi. Hemşire gibi birçok kadroda görev yapan memurlar için maaş artışında 6 aylık enflasyon farkı ile toplu sözleşme zamm",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/tbmm-ne-zaman-kapanacak-2026-tbmm-tatile-girdi-mi-meclis-ne-zaman-kapanacak-3893301",
-      "publishedAt": "Mon, 22 Jun 2026 08:45:09 GMT"
+      "link": "https://www.haberturk.com/hemsire-maasi-zammi-2026-hemsire-maasi-ne-kadar-kac-tl-olacak-haziran-enflasyon-beklentisi-ile-hemsire-maasi-yuzde-kac-artacak-3893554",
+      "publishedAt": "Tue, 23 Jun 2026 09:20:57 GMT"
     },
     {
-      "title": "Aşure Günü ne zaman?",
-      "summary": "Müslümanlar için manevi değeri yüksek olan Muharrem ayının başlamasıyla birlikte, Aşure Günü yeniden gündemdeki yerini aldı. Paylaşma, dayanışma ve bereketin simgesi olarak kabul edilen Aşure Günü’nde ibadetler yerine getirilirken, geleneks",
+      "title": "YKS tercih tarihleri ne zaman başlıyor?",
+      "summary": "Geçtiğimiz günlerde tamamlanan YKS sınavlarının ardından milyonlarca öğrenci ve velinin gözü kulağı tercih tarihlerine çevrilmiş durumda. Üniversite hayallerini şekillendirecek bu kritik sürecin ne zaman başlayacağı ve tercih kılavuzunda ha",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/asure-gunu-tarihi-2026-asure-gunu-ne-zaman-hangi-gune-denk-geliyor-muharrem-ayi-ve-asure-gunu-hangi-gun-baslayacak-ne-zaman-bitecek-3893293",
-      "publishedAt": "Mon, 22 Jun 2026 08:23:52 GMT"
+      "link": "https://www.haberturk.com/2026-yks-tercih-tarihleri-yks-tercihleri-aciklandi-mi-yks-tercih-tarihleri-ne-zaman-basliyor-yks-sonuclari-ne-zaman-aciklanacak-3893548",
+      "publishedAt": "Tue, 23 Jun 2026 08:16:40 GMT"
     },
     {
-      "title": "TFF başkanlık seçimi ne zaman?",
-      "summary": "Türkiye Futbol Federasyonu'nda (TFF) gerçekleştirilecek başkanlık seçimi için gözler genel kurul takvimine çevrildi. Süper Lig'den alt liglere kadar futbol camiasını yakından ilgilendiren seçim sürecinde, genel kurul tarihi, adaylık başvuru",
+      "title": "En düşük emekli maaşı ne kadar olacak?",
+      "summary": "Milyonlarca emeklinin gözü temmuz ayında açıklanacak enflasyon verilerine çevrildi. SSK, Bağ-Kur ve memur emeklilerinin maaşlarına yapılacak artış için geri sayım sürerken, en düşük emekli aylığında yeni bir düzenleme yapılıp yapılmayacağı ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/tff-baskanlik-secimi-tarihi-2026-tff-secimleri-ne-zaman-yapilacak-turkiye-futbol-federasyonu-2026-secim-tarihi-3893286",
-      "publishedAt": "Mon, 22 Jun 2026 07:57:10 GMT"
+      "link": "https://www.haberturk.com/en-dusuk-emekli-maasi-ne-kadar-kac-tl-olacak-emekliye-yuzde-kac-zam-yapilacak-3893547",
+      "publishedAt": "Tue, 23 Jun 2026 09:20:00 GMT"
     },
     {
-      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 10:53:10 GMT"
+    },
+    {
+      "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
       "summary": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 23 Jun 2026 05:39:17 GMT"
     },
     {
-      "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-      "summary": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
+      "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+      "summary": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 15:15:42 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 11:10:06 GMT"
     },
     {
-      "title": "Ransom note claims Nancy Guthrie died after abduction",
-      "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
+      "summary": "Edgar Lungu's family and the Zambian government remain in dispute 12 months after he died.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 23 Jun 2026 01:59:39 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 11:33:33 GMT"
     },
     {
-      "title": "Myanmar army killed over 700 civilians in six months, UN says",
-      "summary": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
+      "title": "Trump anticipates better relationship with Colombia under new leader",
+      "summary": "Abelardo de la Espriella, who preliminary results suggest is Colombia's next president, had Trump's endorsement.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 15:31:55 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 10:27:04 GMT"
     },
     {
-      "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-      "summary": "If Kostyantynivka falls, Russian forces would be able push towards Ukraine's last remaining strongholds in the east.",
+      "title": "Spider which uses spring trap to capture prey discovered in Australia",
+      "summary": "Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 21 Jun 2026 23:57:59 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 23 Jun 2026 10:05:53 GMT"
     },
     {
-      "title": "WhatsApp to be led by Indian start-up founder as Will Cathcart steps back",
-      "summary": "WhatsApp's leadership shake-up comes as Meta looks to strengthen its app's already booming presence in India.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.com/news/articles/c8e2195k5j2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 22 Jun 2026 15:57:46 GMT"
-    },
-    {
-      "title": "Ronaldo, Portugal play Uzbekistan in World Cup: prediction and team news",
-      "summary": "Cristiano Ronaldo's Portugal face Uzbekistan in a must-win group match, as race for the knockouts intensifies.",
+      "title": "Palestinian children targeted in genocide, war crimes in Gaza: UN inquiry",
+      "summary": "UN commission of inquiry says Israel's deliberate targeting of Palestinian children in Gaza resulted in genocide.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/23/portugal-vs-uzbekistan-world-cup-ronaldo-prediction-kickoff-team-news?traffic_source=rss",
-      "publishedAt": "Tue, 23 Jun 2026 06:30:49 +0000"
+      "link": "https://www.aljazeera.com/gallery/2026/6/23/palestinian-children-face-genocide-war-crimes-in-gaza-un-says?traffic_source=rss",
+      "publishedAt": "Tue, 23 Jun 2026 11:55:55 +0000"
     },
     {
-      "title": "Giannis Antetokounmpo trade: Bucks star to join Miami Heat – reports",
-      "summary": "The reported deal draws a line under months of speculation concerning the 10-time All-Star's future in Milwaukee.",
+      "title": "NYC Mayor Zohran Mamdani doubles down on criticism of AIPAC",
+      "summary": "Zohran Mamdani says AIPAC's has been supportive of a 'status quo for immorality' in Palestine, wider region.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/23/giannis-antetokounmpo-trade-milwaukee-bucks-miami-heat-nba-basketball-reports?traffic_source=rss",
-      "publishedAt": "Tue, 23 Jun 2026 05:47:47 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/23/nyc-mayor-zohran-mamdani-doubles-down-on-criticism-of-aipac?traffic_source=rss",
+      "publishedAt": "Tue, 23 Jun 2026 11:35:13 +0000"
     },
     {
-      "title": "Football offers escape for Gaza, but World Cup spirit dimmed",
-      "summary": "Palestinians in Gaza struggle to find World Cup joy amid displacement, power outages, and memories of previous lives.",
+      "title": "Why is Israel being accused of meddling in Colombia presidential election?",
+      "summary": "President Gustavo Petro claims digital manipulation affected the results, but attorney general dismisses allegations.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/6/23/gaza-world-cup-football-offers-escape?traffic_source=rss",
-      "publishedAt": "Tue, 23 Jun 2026 05:41:14 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/23/why-is-israel-being-accused-of-meddling-in-colombia-presidential-election?traffic_source=rss",
+      "publishedAt": "Tue, 23 Jun 2026 11:16:27 +0000"
     },
     {
-      "title": "Palestine weekly wrap: Israel’s ‘quiet annexation’ grows louder",
-      "summary": "Al Jazeera cameraman killed in Gaza, West Bank mosques torched, as Israeli officials describe attempt to expand control.",
+      "title": "How does air conditioning work, and how does it affect your body?",
+      "summary": "While AC keeps us cool, it can also cause dry skin and irritation. Here are some tips to keep comfortable this summer.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/23/palestine-weekly-wrap-israels-quiet-annexation-grows-louder?traffic_source=rss",
-      "publishedAt": "Tue, 23 Jun 2026 05:40:33 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/23/how-does-air-conditioning-work-and-how-does-it-affect-your-body?traffic_source=rss",
+      "publishedAt": "Tue, 23 Jun 2026 11:07:21 +0000"
     },
     {
-      "title": "Algeria rally late to knock Jordan out of World Cup 2026",
-      "summary": "Goals from Nadhir Benbouali and Amine Gouiri steer Algeria to a dramatic second-half comeback in Group J.",
+      "title": "Mamdani defends AIPAC ‘monsters’ comment",
+      "summary": "New York City Mayor Zohran Mamdani has defended calling AIPAC ‘monsters’.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/23/algeria-jordan-score-fifa-world-cup-2026?traffic_source=rss",
-      "publishedAt": "Tue, 23 Jun 2026 05:35:18 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/mamdani-defends-aipac-monsters-comment?traffic_source=rss",
+      "publishedAt": "Tue, 23 Jun 2026 11:02:48 +0000"
     },
     {
-      "title": "Colombia’s leftist presidential candidate vows to challenge election result",
-      "summary": "Colombia’s leftist presidential candidate Ivan Cepeda has vowed to challenge the results of the presidential runoff.",
+      "title": "Iran’s President Pezeshkian lands in Pakistan after US deal",
+      "summary": "Pakistan hosts Iranian President Masoud Pezeshkian after mediating the breakthrough US-Iran negotiations in Switzerland.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/colombias-leftist-presidential-candidate-vows-to-challenge-election-result?traffic_source=rss",
-      "publishedAt": "Tue, 23 Jun 2026 05:12:16 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us?traffic_source=rss",
+      "publishedAt": "Tue, 23 Jun 2026 10:37:05 +0000"
     },
     {
-      "title": "Britain left the EU 10 years ago. Its politics has been an unruly mess",
-      "summary": "Brexit fractured the European Union, and broke British politics. A decade on, millions of voters have deserted the two big parties for alternatives.",
+      "title": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
+      "summary": "The U.S. has temporarily lifted oil sanctions on Iran as peace talks continue. And, a federal judge ruled that the Trump administration's data system, known as SAVE, is unlawful.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/06/23/nx-s1-5867281/brexit-10-years-later",
-      "publishedAt": "Tue, 23 Jun 2026 02:12:41 -0400"
+      "link": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info",
+      "publishedAt": "Tue, 23 Jun 2026 07:17:26 -0400"
     },
     {
-      "title": "What to know about a cold storage warehouse fire in Los Angeles",
-      "summary": "Firefighters are still battling a blaze at a massive frozen-food storage facility near downtown Los Angeles six days after the fire started.",
+      "title": "When falling housing prices are good news — and when they're not",
+      "summary": "Denver renters are celebrating falling housing costs. But sometimes cheaper housing is a sign of economic decline. How can you tell the difference?",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/06/23/g-s1-129578/la-warehouse-fire",
-      "publishedAt": "Tue, 23 Jun 2026 01:53:46 -0400"
+      "link": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not",
+      "publishedAt": "Tue, 23 Jun 2026 06:30:00 -0400"
     },
     {
-      "title": "Authorities arrest 2 more suspects in planned attack on Trump's UFC show",
-      "summary": "Two more people in Missouri and Washington state have been arrested in connection with the planned attack. Law enforcement officials learned about the possible threat on June 10, four days before the event on the White House's South Lawn.",
+      "title": "Iran's president heads to Pakistan as U.S.-Iran teams work on war-ending deal",
+      "summary": "President Masoud Pezeshkian's visit to Islamabad comes as technical teams were working on details of the deal, following high-level negotiations in Switzerland on Monday led by US Vice President JD Vance and Iran's parliamentary speaker, Mo",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/06/23/nx-s1-5867278/authorities-arrest-suspects-attack-ufc-show",
-      "publishedAt": "Tue, 23 Jun 2026 01:53:42 -0400"
+      "link": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
+      "publishedAt": "Tue, 23 Jun 2026 05:29:01 -0400"
     },
     {
-      "title": "Gunman kills an officer at a Montreal hotel before being shot dead, police say",
-      "summary": "Police say a suspect armed with a long gun opened fire at a Montreal hotel, killing a police officer before officers returned fire, killing him.",
+      "title": "How Trump's 'Complete and Total Endorsement' has reshaped the Republican Party",
+      "summary": "An NPR analysis of more than a thousand Trump endorsements in House, Senate and governor races over the last decade finds the president now picks candidates earlier — and in safer races.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/06/23/g-s1-129576/montreal-officer-killed",
-      "publishedAt": "Tue, 23 Jun 2026 01:39:08 -0400"
+      "link": "https://www.npr.org/2026/06/23/nx-s1-5863542/trump-endorsements-primary-runoff-general",
+      "publishedAt": "Tue, 23 Jun 2026 05:00:00 -0400"
     },
     {
-      "title": "A federal judge finds a Trump data system to verify voters is unlawful",
-      "summary": "Tens of millions of voters have had their data run through the Trump administration's revamped SAVE tool. A judge just found it unlawful.",
+      "title": "Trouble getting weight loss drugs covered by insurance? Here's what to know",
+      "summary": "If your doctor prescribes a GLP-1 medication for weight loss but your insurance won't cover it, you have options.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/06/22/nx-s1-5866719/save-voter-data-trump-judge-unlawful",
-      "publishedAt": "Mon, 22 Jun 2026 18:25:21 -0400"
+      "link": "https://www.npr.org/2026/06/23/nx-s1-5793971/weight-loss-glp1-insurance-coverage",
+      "publishedAt": "Tue, 23 Jun 2026 05:00:00 -0400"
     },
     {
-      "title": "Supreme Court declines to hear Texas man's intellectual disability case in capital case",
-      "summary": "The court's action means Victor Saldaño is likely to be executed even though both defense and state experts determined he was not eligible for execution under the law.",
+      "title": "Lebanese struggle to get by in an ancient city under Israeli evacuation order",
+      "summary": "In one of the oldest cities in Lebanon, once besieged by Alexander the Great, ordinary people struggle to survive Israeli attacks.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/06/22/nx-s1-5866741/supreme-court-texas-death-penalty",
-      "publishedAt": "Mon, 22 Jun 2026 16:13:51 -0400"
+      "link": "https://www.npr.org/2026/06/23/g-s1-128783/lebanon-israel-tyre-hezbollah-war",
+      "publishedAt": "Tue, 23 Jun 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Kenyan minister orders halt to construction of US Ebola facility",
+      "summary": "Decision comes after Aden Duale was held in contempt for ignoring previous high court ruling to stop work Kenya’s health minister has told a court he has ordered a halt to preparations for a US-run Ebola quarantine facility, after being hel",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/world/2026/jun/23/kenya-minister-orders-halt-us-ebola-facility",
+      "publishedAt": "Tue, 23 Jun 2026 11:35:56 GMT"
     },
     {
       "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/us-news/2026/jun/18/cdc-emergency-ebola-funding",
       "publishedAt": "Thu, 18 Jun 2026 18:55:09 GMT"
-    },
-    {
-      "title": "Barbados prime minister announces manifesto for slavery reparations",
-      "summary": "Updated document, which emphasises harm done to African women, is being considered by other Caribbean countriesBarbados’s prime minister, Mia Mottley, has announced a new manifesto from Caribbean leaders asserting the “moral, ethical and le",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/news/2026/jun/18/barbados-prime-minister-manifesto-slavery-reparations",
-      "publishedAt": "Thu, 18 Jun 2026 17:52:08 GMT"
     }
   ],
   "sports": [
@@ -373,14 +373,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
+      "tempC": 28,
       "description": "mainly clear",
       "high": 28,
       "low": 20
     },
     {
       "place": "London",
-      "tempC": 20,
+      "tempC": 31,
       "description": "clear sky",
       "high": 35,
       "low": 19
