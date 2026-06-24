@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T14:24:40.113Z",
+  "updated": "2026-06-24T17:03:30.072Z",
   "news": [
     {
       "title": "BM yetkilisi, nükleer denetçilerin İran'a gideceğini söyledi",
@@ -18,6 +18,14 @@
       "publishedAt": "Wed, 24 Jun 2026 12:06:09 GMT"
     },
     {
+      "title": "Keşan Belediye Başkanı Mehmet Özcan CHP'den istifa etti",
+      "summary": "Edirne Keşan Belediye Başkanı Mehmet Özcan CHP'den istifa etti. Özcan istifasına dair bir açıklama yapmadı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/czj8v2xpnyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 24 Jun 2026 15:02:11 GMT"
+    },
+    {
       "title": "CHP'den istifa ettikten sonra AKP'ye katılan Nimet Özdemir kimdir?",
       "summary": "17 Haziran'da CHP'den istifa eden İstanbul milletvekili Nimet Özdemir, AKP'ye katıldı. 24 Haziran'daki AKP'nin Meclis Grup Toplantısında Özdemir'e rozetini Cumhurbaşkanı ve AKP Genel Başkanı Recep Tayyip Erdoğan taktı.",
       "source": "BBC Türkçe",
@@ -26,20 +34,12 @@
       "publishedAt": "Wed, 24 Jun 2026 11:02:54 GMT"
     },
     {
-      "title": "Temmuz sonunda TBMM'den geçmesi hedeflenen 'çözüm süreci yasasında' neler var?",
-      "summary": "Yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa için Temmuz ayında adım atılması bekleniyor. AKP ve MHP kulislerinde, teklifin NATO Zirvesi sonrasında TBMM Başkanlığı'na sunulabileceği ve Meclis tatile girmeden yasalaşabileceğ",
+      "title": "Klimalar Fransa'da nasıl siyasi bölünmeye yol açtı?",
+      "summary": "Sıcak dalgası Avrupa'yı kasıp kavururken Fransa iklim değişikliği konusunda uzun süredir temkinli yaklaştığı bir önlemi gözden geçirmek zorunda kalıyor: Klimalar. Sıcaklıklarla birlikte \"la clim\" (iklimlendirme) tartışması bu hafta bir kez ",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cpd391ndxv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 00:56:50 GMT"
-    },
-    {
-      "title": "Avrupa kavruluyor: İngiltere'de 'kırmızı alarm', Fransa'da boğulma kaynaklı ölümler",
-      "summary": "İngiltere'de sıcaklıklar nedeniyle kırmızı alarm verildi. Fransa'da sıcak hava dalgası sırasında serinlemek için nehir ve kanallara girenlerin de aralarında bulunduğu en az 40 kişi boğularak hayatını kaybederken, Avrupa'nın birçok ülkesinde",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cvg4qxq907do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 12:39:51 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c621q1zjynro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 24 Jun 2026 15:54:18 GMT"
     },
     {
       "title": "Gana-İngiltere maçında tecavüzle suçlanan Partey'ye seyirciden protesto",
@@ -50,11 +50,25 @@
       "publishedAt": "Wed, 24 Jun 2026 06:53:54 GMT"
     },
     {
+      "title": "TBMM Başkanı Kurtulmuş'tan Bakü'de diplomasi trafiği",
+      "summary": "TBMM Başkanı Numan Kurtulmuş, İslam İşbirliği Teşkilatı Parlamento Birliği dolayısıyla Bakü'de önemli diplomatik temaslar gerçekleştirdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-24T19:33:55+03:00"
+    },
+    {
+      "title": "Reuters: Trump yönetimi Türkiye'ye jet motoru satışı planlıyor",
+      "summary": "ABD Başkanı Donald Trump yönetiminin, Kongre’deki itirazlara rağmen Türkiye’ye onlarca jet motoru satışında süreci ilerletmeye hazırlandığı iddia edildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-24T19:22:20+03:00"
+    },
+    {
       "title": "Keşan Belediye Başkanı Mehmet Özcan CHP'den istifa etti",
       "summary": "Keşan Belediye Başkanı Mehmet Özcan, Cumhuriyet Halk Partisi'nden istifa etti.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-24T17:12:52+03:00"
+      "publishedAt": "2026-06-24T17:40:44+03:00"
     },
     {
       "title": "Nişan kutlamasında panik: Havai fişek kalabalığın üzerine patladı",
@@ -68,7 +82,7 @@
       "summary": "Rize'de gece saatlerinde iki otomobil ile bir minibüsün karıştığı kazada alev alan aynı araçta hayatını kaybeden sürücü Selinay Saral, Nilay Bilgin ve Gamze Saklı'nın yürek burkan son görüntüleri ortaya çıktı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-24T16:09:50+03:00"
+      "publishedAt": "2026-06-24T18:22:19+03:00"
     },
     {
       "title": "Ödüllü kemancı Laçin'in ölümüne yol açmıştı: Cezası onanan sürücüye tahliye kararı",
@@ -76,36 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-06-24T15:56:58+03:00"
-    },
-    {
-      "title": "Kiracı dehşeti: 25 yaşındaki kiracı, ev sahibini bıçaklayarak öldürdü",
-      "summary": "Kartal'da kiracısı tarafından bıçaklanan kişi hayatını kaybetti",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-24T15:41:52+03:00"
-    },
-    {
-      "title": "Bakan Gürlek açıkladı: Suç örgütü elebaşı \"Can Dalton\"un Rusya'dan iadesi istendi",
-      "summary": "Adalet Bakanı Akın Gürlek, organize suç örgütü elebaşı olduğu değerlendirilen \"Can Dalton\" lakaplı Beratcan Gökdemir'in Türkiye'ye iadesine yönelik talebi Rus makamlarına yeniden ilettiklerini söyledi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-24T16:43:42+03:00"
-    },
-    {
-      "title": "MSÜ tercih sonuçları açıklandı mı?",
-      "summary": "MSÜ 2026 tercih sonuçları için adayların bekleyişi sürüyor. 25 Nisan-24 Mayıs tarihleri arasında tercih işlemlerini tamamlayan adaylar, Milli Savunma Bakanlığı Personel Temin ekranından yapılacak duyuruya odaklandı. Geçtiğimiz yıl sonuçları",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/msu-tercih-sonucu-sorgulama-ekrani-2026-msu-tercih-sonuclari-aciklandi-mi-ne-zaman-erisime-acilacak-milli-savunma-universitesi-yerlestirme-sonuclari-nasil-sorgulanir-3893816",
-      "publishedAt": "Wed, 24 Jun 2026 08:38:18 GMT"
-    },
-    {
-      "title": "LGS taban puanları ve yüzdelik dilimler açıklandı mı?",
-      "summary": "Geçtiğimiz günlerde tamamlanan Liselere Geçiş Sistemi (LGS) sınavının ardından, milyonlarca öğrenci ve velinin gözü kulağı hem tercih sonuçlarına hem de 2026 LGS taban puanları ile yüzdelik dilimlere çevrildi. Milli Eğitim Bakanlığı tarafın",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/2026-lgs-taban-puanlari-ve-yuzdelik-dilimler-ne-zaman-aciklanacak-lgs-tercih-sonuclari-ne-zaman-aciklanacak-meb-kontenjan-taban-puanlari-sorgulama-3893814",
-      "publishedAt": "Wed, 24 Jun 2026 08:24:49 GMT"
     },
     {
       "title": "Öğretmen maaşı ne kadar olacak?",
@@ -140,15 +124,31 @@
       "publishedAt": "Wed, 24 Jun 2026 07:53:32 GMT"
     },
     {
-      "title": "Power outages hit France as record heatwave set to peak",
-      "summary": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
+      "title": "SSK VE Bağkur emekli aylıkları ne kadar olacak?",
+      "summary": "Milyonlarca SSK ve Bağkur emeklisinin gözü, temmuz ayında açıklanacak zam oranlarına çevrilmiş durumda. Yıllık artış oranı ile enflasyon verileri doğrultusunda belirlenecek emekli maaş zamları, son günlerde en çok merak edilen konular arası",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/ssk-ve-bagkur-emekli-maaslari-ne-kadar-olacak-temmuz-ayi-zam-oranlari-aciklandi-mi-en-dusuk-ssk-ve-bag-kur-ayligi-ne-kadar-olacak-3893782",
+      "publishedAt": "Wed, 24 Jun 2026 07:27:17 GMT"
+    },
+    {
+      "title": "Dul ve yetim maaşı ne kadar olacak?",
+      "summary": "5 aylık enflasyon farkının netleşmesiyle birlikte milyonlarca hak sahibinin gözü Temmuz ayında yapılacak zam oranına çevrildi. Ölüm aylığı olarak da bilinen dul ve yetim maaşlarında yeni tutarların ne kadar olacağı merak konusu oldu. Hak sa",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/zamli-dul-ve-yetim-maasi-hesaplama-2026-temmuz-zammi-ile-dul-ve-yetim-maasi-ne-kadar-kac-lira-olacak-en-dusuk-olum-ayligi-hesaplama-tablosu-3893781",
+      "publishedAt": "Wed, 24 Jun 2026 07:25:45 GMT"
+    },
+    {
+      "title": "Power outages hit France as it records hottest day since measurements began",
+      "summary": "France has recorded it hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 13:44:08 GMT"
+      "publishedAt": "Wed, 24 Jun 2026 16:31:38 GMT"
     },
     {
-      "title": "Air conditioning creates political divide as France records hottest day",
+      "title": "Air conditioning creates political divide after France records hottest day",
       "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
       "source": "BBC World",
       "lang": "en",
@@ -181,59 +181,91 @@
     },
     {
       "title": "France confirms first Ebola case",
-      "summary": "More than 260 people in the Democratic Republic of Congo are known to have died during the current outbreak.",
+      "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 10:40:57 GMT"
+      "publishedAt": "Wed, 24 Jun 2026 15:00:52 GMT"
     },
     {
-      "title": "Rubio tries to reassure Gulf allies on US-Iran deal details",
-      "summary": "Rubio tours Gulf in bid to allay allies' security concerns over the US-Iran memorandum of understanding.",
+      "title": "Greta Thunberg pleads not guilty in trespassing case over 2024 pro-Palestin",
+      "summary": "Greta Thunberg pleads not guilty in trespassing case over 2024 pro-Palestine protest",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/24/rubio-tries-to-reassure-gulf-allies-on-us-iran-deal-details?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 13:40:22 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/greta-thunberg-pleads-not-guilty-in-trespassing-case-over-2024-pro-palestin?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 16:49:03 +0000"
     },
     {
-      "title": "When Paris is hotter than Mecca: How Europe’s heatwave compares globally",
-      "summary": "Paris and other European cities are seeing temperatures above 40C (104F), levels normally seen across the Middle East.",
+      "title": "Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks",
+      "summary": "Israeli defence minister says troops won’t withdraw from southern Lebanon as attacks slow but do not stop.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/24/when-paris-is-hotter-than-mecca-how-europes-heatwave-compares-globally?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 13:14:29 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-kill-2-in-southern-lebanon-despite-ongoing-washington-talks?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 16:23:56 +0000"
     },
     {
-      "title": "Deaths, disruptions across Europe: What you should know about the heatwave",
-      "summary": "Experts say the climate crisis is making Europe's heatwaves more frequent and more intense.",
+      "title": "Trump cancels housing bill signing, demands US voter ID law first",
+      "summary": "The affordable housing bill had been passed by bipartisan support, a rare move in a deeply divided US Congress.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/24/deaths-disruptions-across-europe-what-you-should-know-about-the-heatwave?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 13:07:31 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/6/24/trump-cancels-housing-bill-signing-demands-us-voter-id-law-first?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 16:20:08 +0000"
     },
     {
-      "title": "What does Pakistan stand to gain from helping broker the US-Iran deal?",
-      "summary": "Pakistan sees strategic opportunity in the US-Iran thaw, including trade, energy access and renewed regional relevance.",
+      "title": "What The Elephant Knows | Ep 7 – Sri Lanka",
+      "summary": "In rural Sri Lanka, families face deadly human-elephant conflict while seeking a fragile path to co-existence.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/24/what-does-pakistan-stand-to-gain-from-helping-broker-the-us-iran-deal?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 12:59:19 +0000"
+      "link": "https://www.aljazeera.com/video/making-peace/2026/6/24/what-the-elephant-knows-ep-7-sri?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 16:00:00 +0000"
     },
     {
-      "title": "Iranians cautiously optimistic about thorny deal with US",
-      "summary": "Iran is watching closely as months of complex negotiations lie ahead amid internal political disputes.",
+      "title": "Israeli attacks on Gaza and occupied West Bank kill two, including child",
+      "summary": "Health officials at Nasser Medical Complex tell Al Jazeera a 12-year-old child was killed in al-Mawasi, Gaza.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/24/iranians-cautiously-optimistic-about-thorny-deal-with-us?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 12:44:07 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-on-gaza-and-occupied-west-bank-kill-two-including-child?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 15:21:59 +0000"
     },
     {
-      "title": "World Cup 2026: Full group schedule and top third-round matches to watch",
-      "summary": "Remaining group schedule, teams, as well as the best third-round group fixtures at the tournament in North America.",
+      "title": "How Colombia’s traditional midwives serve as lifelines to rural communities",
+      "summary": "Parts of Colombia are isolated, with no hospitals nearby. Experts say midwives can help bridge the healthcare gap.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/24/world-cup-2026-full-group-schedule-and-top-third-round-matches-to-watch?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 12:36:06 +0000"
+      "link": "https://www.aljazeera.com/features/longform/2026/6/24/how-colombias-traditional-midwives-serve-as-lifelines-to-rural-communities?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 15:20:22 +0000"
+    },
+    {
+      "title": "Postal Service says its cash crisis is delayed until at least 2031, but problems loom",
+      "summary": "The U.S. Postal Service is no longer set to be out of cash in 2027, the agency's head says. But its finances remain shaky as Trump officials keep putting it in political hot water.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/24/nx-s1-5859334/us-postal-service-david-steiner",
+      "publishedAt": "Wed, 24 Jun 2026 12:19:44 -0400"
+    },
+    {
+      "title": "Will Texas' new top voting official be a 'disruptor'? Locals are preparing for it",
+      "summary": "Just ahead of closely contested midterms, Texas is about to get a new top voting official. Many locals there fear the frontrunner is a state lawmaker and pastor with no election experience.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/24/nx-s1-5866554/texas-secretary-of-state-schatzline",
+      "publishedAt": "Wed, 24 Jun 2026 11:32:06 -0400"
+    },
+    {
+      "title": "Understanding 'masculinism,' a movement to restore the primacy of men",
+      "summary": "Masculinism is a belief that feminism emasculates men, and men should be in control while women stay at home raising children. The Atlantic writer Helen Lewis says the movement is becoming mainstream.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/24/nx-s1-5868665/understanding-masculinism-a-movement-to-restore-the-primacy-of-men",
+      "publishedAt": "Wed, 24 Jun 2026 10:54:04 -0400"
+    },
+    {
+      "title": "US eases restriction on Iran's World Cup team, allowing travel 2 days before next match",
+      "summary": "The U.S. is easing its restrictions on Iran's World Cup team. The U.S. Department of Homeland Security said Tuesday the squad could travel into the country two days before its next match.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/24/g-s1-129820/irans-world-cup-travel-restrictions",
+      "publishedAt": "Wed, 24 Jun 2026 10:51:45 -0400"
     },
     {
       "title": "Star Fox Review: Can't quite teach an old Fox new tricks",
@@ -250,38 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/06/24/nx-s1-5867606/lucerne-switzerland-world-cup-heat",
       "publishedAt": "Wed, 24 Jun 2026 07:55:49 -0400"
-    },
-    {
-      "title": "IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal",
-      "summary": "The head of the U.N.'s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a day after the U.S. and Iran offered contradictory remarks about the issue.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
-      "publishedAt": "Wed, 24 Jun 2026 07:10:17 -0400"
-    },
-    {
-      "title": "Congress passes major housing bill. And, Mamdani-backed candidates sweep NYC primaries",
-      "summary": "Congress has passed the largest housing affordability bill in decades. And all three candidates endorsed by New York City mayor Zohran Mamdani have won their primaries.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/24/g-s1-129769/up-first-newsletter-trump-john-thune-housing-act-new-york-primaries",
-      "publishedAt": "Wed, 24 Jun 2026 07:01:04 -0400"
-    },
-    {
-      "title": "Political consultant on whether Trump is losing GOP support after war powers vote",
-      "summary": "NPR's A Martínez asks Republican political consultant Doug Heye about whether Trump is losing support among congressional Republicans after the Senate voted to limit his war powers on Iran.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/24/nx-s1-5867632/political-consultant-on-whether-trump-is-losing-gop-support-after-war-powers-vote",
-      "publishedAt": "Wed, 24 Jun 2026 06:49:58 -0400"
-    },
-    {
-      "title": "4 ways to design a dreamy summer, according to a happiness expert",
-      "summary": "Don't let the season fly by. Gretchen Rubin, host of the Happier podcast, shares exercises to help you get what you want out of summer. Fill out the printable worksheet and stick it on your fridge.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/24/nx-s1-5851839/how-to-plan-a-dream-summer",
-      "publishedAt": "Wed, 24 Jun 2026 05:00:00 -0400"
     },
     {
       "title": "France confirms first Ebola case in doctor who had worked in DRC",
@@ -369,7 +369,7 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 27,
+      "tempC": 25,
       "description": "clear sky",
       "high": 28,
       "low": 21
@@ -378,7 +378,7 @@
       "place": "London",
       "tempC": 36,
       "description": "clear sky",
-      "high": 37,
+      "high": 36,
       "low": 24
     }
   ],
