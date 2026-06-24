@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-24T17:03:30.072Z",
+  "updated": "2026-06-24T19:42:48.772Z",
   "news": [
+    {
+      "title": "Reuters: ABD KAAN uçaklarına motor satışına izin verecek",
+      "summary": "Reuters ajansı ABD hükümetinin, KAAN uçakları için Türkiye'ye motor satışına izin vereceğini yazdı. Haberini konu hakkında bilgi sahibi dört kaynağa dayandıran ajans, bunun Temmuz'da Ankara'da düzenlenecek NATO zirvesi öncesi Türkiye'ye bir",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c05y9q2dqnyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 24 Jun 2026 18:50:02 GMT"
+    },
     {
       "title": "BM yetkilisi, nükleer denetçilerin İran'a gideceğini söyledi",
       "summary": "Küresel nükleer denetimden sorumlu kurumun başkanı, İran'ın ABD ile yaptığı ateşkes anlaşması kapsamında İran'da denetimler gerçekleştirileceğini söyledi.",
@@ -8,14 +16,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c1dyq91pvppo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 24 Jun 2026 13:41:14 GMT"
-    },
-    {
-      "title": "Macaristan'da reformlara başlayan yeni hükümet Cumhurbaşkanı Sulyok'u görevden alabilecek mi?",
-      "summary": "Seçim zaferi sonrası Mayıs ayında göreve başlayan Başbakan Peter Magyar, selefi Viktor Orban döneminde atanan üst düzey yargı ve devlet kadrolarını değiştirmeyi hedefliyor. Bu kapsamda en kritik isimlerden biri, görev süresi 2029'da dolacak",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c892dx729vjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 12:06:09 GMT"
     },
     {
       "title": "Keşan Belediye Başkanı Mehmet Özcan CHP'den istifa etti",
@@ -50,6 +50,34 @@
       "publishedAt": "Wed, 24 Jun 2026 06:53:54 GMT"
     },
     {
+      "title": "5 yaşındaki Hamza hayatını kaybetmişti. Saray belediye başkanına soruşturma izni",
+      "summary": "İçişleri Bakanlığı, Van'da 5 yaşındaki çocuğun köpek saldırısı sonucunu hayatını kaybetmesine ilişkin ihmali bulunduğu tespit edilen Saray Belediye Başkanı Davut Acar hakkında soruşturma izni verildiğini duyurdu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-24T22:26:39+03:00"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Moritanya Cumhurbaşkanı Ghazouani ile telefonda görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Moritanya Cumhurbaşkanı Muhammed Ould Şeyh El Ghazouani ile telefonda görüştü.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-24T21:33:52+03:00"
+    },
+    {
+      "title": "Aşırı tutumlu olma boşanma nedeni. Yargıtay'dan emsal karar",
+      "summary": "Bursa'da bir kadın kendisine çay demlemeyi bile yasaklayan eşine dava açtı. Emsal karar Yargıtay'dan geldi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-24T21:22:28+03:00"
+    },
+    {
+      "title": "İletişim Başkanlığı, NATO Zirvesi'nin ayrıntılarını paylaştı",
+      "summary": "Türkiye, Ankara'da düzenlenecek 36. NATO Zirvesi kapsamında, İttifak üyesi 32 devlet ve hükümet başkanının yanı sıra, çok sayıda davetli lidere, 100'e yakın bakana, birçok üst düzey diplomata, uluslararası kuruluş temsilcilerine ve binlerce",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-24T20:10:47+03:00"
+    },
+    {
       "title": "TBMM Başkanı Kurtulmuş'tan Bakü'de diplomasi trafiği",
       "summary": "TBMM Başkanı Numan Kurtulmuş, İslam İşbirliği Teşkilatı Parlamento Birliği dolayısıyla Bakü'de önemli diplomatik temaslar gerçekleştirdi.",
       "source": "NTV",
@@ -64,32 +92,36 @@
       "publishedAt": "2026-06-24T19:22:20+03:00"
     },
     {
-      "title": "Keşan Belediye Başkanı Mehmet Özcan CHP'den istifa etti",
-      "summary": "Keşan Belediye Başkanı Mehmet Özcan, Cumhuriyet Halk Partisi'nden istifa etti.",
-      "source": "NTV",
+      "title": "Aşure günü ibadetleri",
+      "summary": "İslam dünyasında rahmet, bereket ve paylaşma duygularının yoğun şekilde hissedildiği Aşure Günü'nün yaklaşmasıyla birlikte bu mübarek günde yapılacak ibadetler yeniden gündeme geldi. Muharrem ayının 10. gününe denk gelen Aşure Günü'nde oruç",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-06-24T17:40:44+03:00"
+      "link": "https://www.haberturk.com/asure-gunu-ibadetleri-2026-asure-gunu-hangi-dualar-ve-sureler-okunur-asure-gunu-ibadetleri-zikir-ve-tesbihleri-nelerdir-3893832",
+      "publishedAt": "Wed, 24 Jun 2026 09:15:06 GMT"
     },
     {
-      "title": "Nişan kutlamasında panik: Havai fişek kalabalığın üzerine patladı",
-      "summary": "İzmir’in Bornova ilçesinde bir nişan organizasyonu öncesi patlatılmak istenen havai fişek, yanlışlıkla misafirlerin üzerine doğru ateşlendi. Davetlilerin panikle sağa sola kaçıştığı o korku dolu anlar, bir vatandaşın cep telefonu kamerasına",
-      "source": "NTV",
+      "title": "Karneler saat kaçta dağıtılacak?",
+      "summary": "Haziran ayının son günlerine yaklaşılırken milyonlarca öğrenci ve veli, karnelerin ne zaman ve saat kaçta dağıtılacağını merak ediyor. Yoğun geçen bir eğitim döneminin ardından uzun bir yaz tatiline hazırlanan öğrenciler, okulların kapanış ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-06-24T16:26:10+03:00"
+      "link": "https://www.haberturk.com/2026-karne-gunu-ve-saati-okullar-ne-zaman-kapanacak-karneler-ne-zaman-saat-kacta-verilecek-meb-2026-karne-gunu-ne-zaman-3893827",
+      "publishedAt": "Wed, 24 Jun 2026 08:57:48 GMT"
     },
     {
-      "title": "Yanan aracında içinde sıkışarak can vermişlerdi. Faciadan önceki son kareleri: 3 yakın arkadaştan geriye sadece bu fotoğraf kaldı",
-      "summary": "Rize'de gece saatlerinde iki otomobil ile bir minibüsün karıştığı kazada alev alan aynı araçta hayatını kaybeden sürücü Selinay Saral, Nilay Bilgin ve Gamze Saklı'nın yürek burkan son görüntüleri ortaya çıktı.",
-      "source": "NTV",
+      "title": "MSÜ tercih sonuçları açıklandı mı?",
+      "summary": "MSÜ 2026 tercih sonuçları için adayların bekleyişi sürüyor. 25 Nisan-24 Mayıs tarihleri arasında tercih işlemlerini tamamlayan adaylar, Milli Savunma Bakanlığı Personel Temin ekranından yapılacak duyuruya odaklandı. Geçtiğimiz yıl sonuçları",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-06-24T18:22:19+03:00"
+      "link": "https://www.haberturk.com/msu-tercih-sonucu-sorgulama-ekrani-2026-msu-tercih-sonuclari-aciklandi-mi-ne-zaman-erisime-acilacak-milli-savunma-universitesi-yerlestirme-sonuclari-nasil-sorgulanir-3893816",
+      "publishedAt": "Wed, 24 Jun 2026 08:38:18 GMT"
     },
     {
-      "title": "Ödüllü kemancı Laçin'in ölümüne yol açmıştı: Cezası onanan sürücüye tahliye kararı",
-      "summary": "Mersin'de otomobiliyle çarptığı 18 yaşındaki keman sanatçısı Laçin Akyol'un ölümüne neden olan sürücüye verilen 5 yıl 6 ay 20 gün hapis cezası, Yargıtay tarafından onandı. Tutuklu sanık, denetimli serbestlik kapsamında tahliye edildi.",
-      "source": "NTV",
+      "title": "LGS taban puanları ve yüzdelik dilimler açıklandı mı?",
+      "summary": "Geçtiğimiz günlerde tamamlanan Liselere Geçiş Sistemi (LGS) sınavının ardından, milyonlarca öğrenci ve velinin gözü kulağı hem tercih sonuçlarına hem de 2026 LGS taban puanları ile yüzdelik dilimlere çevrildi. Milli Eğitim Bakanlığı tarafın",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-06-24T15:56:58+03:00"
+      "link": "https://www.haberturk.com/2026-lgs-taban-puanlari-ve-yuzdelik-dilimler-ne-zaman-aciklanacak-lgs-tercih-sonuclari-ne-zaman-aciklanacak-meb-kontenjan-taban-puanlari-sorgulama-3893814",
+      "publishedAt": "Wed, 24 Jun 2026 08:24:49 GMT"
     },
     {
       "title": "Öğretmen maaşı ne kadar olacak?",
@@ -108,44 +140,12 @@
       "publishedAt": "Wed, 24 Jun 2026 07:58:36 GMT"
     },
     {
-      "title": "Kırklareli'nde tarlalar sarıya döndü",
-      "summary": "Kırklareli'nde sarı ve yeşil tonlara bürünen ayçiçeği tarlaları, gün doğumu ve gün batımında sunduğu eşsiz manzarayla fotoğraf tutkunları ve ziyaretçilerin ilgi odağı oluyor",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/kirklareli-nde-aycicegi-tarlalari-fotograf-tutkunlarini-agirliyor-3893804",
-      "publishedAt": "Wed, 24 Jun 2026 07:56:29 GMT"
-    },
-    {
-      "title": "En düşük emekli maaşı kaç TL olacak?",
-      "summary": "Milyonlarca emekli, 2026 Temmuz ayında açıklanacak yeni zam oranlarına kilitlenmiş durumda… En düşük emekli maaşında yapılacak olası düzenleme, hem kök maaş hesaplarını hem de taban aylık uygulamasını yeniden gündemin merkezine taşıyor. Pek",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/en-dusuk-emekli-maasi-ne-kadar-olacak-2026-temmuz-emekli-maaslari-ne-kadar-olacak-3893800",
-      "publishedAt": "Wed, 24 Jun 2026 07:53:32 GMT"
-    },
-    {
-      "title": "SSK VE Bağkur emekli aylıkları ne kadar olacak?",
-      "summary": "Milyonlarca SSK ve Bağkur emeklisinin gözü, temmuz ayında açıklanacak zam oranlarına çevrilmiş durumda. Yıllık artış oranı ile enflasyon verileri doğrultusunda belirlenecek emekli maaş zamları, son günlerde en çok merak edilen konular arası",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/ssk-ve-bagkur-emekli-maaslari-ne-kadar-olacak-temmuz-ayi-zam-oranlari-aciklandi-mi-en-dusuk-ssk-ve-bag-kur-ayligi-ne-kadar-olacak-3893782",
-      "publishedAt": "Wed, 24 Jun 2026 07:27:17 GMT"
-    },
-    {
-      "title": "Dul ve yetim maaşı ne kadar olacak?",
-      "summary": "5 aylık enflasyon farkının netleşmesiyle birlikte milyonlarca hak sahibinin gözü Temmuz ayında yapılacak zam oranına çevrildi. Ölüm aylığı olarak da bilinen dul ve yetim maaşlarında yeni tutarların ne kadar olacağı merak konusu oldu. Hak sa",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/zamli-dul-ve-yetim-maasi-hesaplama-2026-temmuz-zammi-ile-dul-ve-yetim-maasi-ne-kadar-kac-lira-olacak-en-dusuk-olum-ayligi-hesaplama-tablosu-3893781",
-      "publishedAt": "Wed, 24 Jun 2026 07:25:45 GMT"
-    },
-    {
       "title": "Power outages hit France as it records hottest day since measurements began",
       "summary": "France has recorded it hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 16:31:38 GMT"
+      "publishedAt": "Wed, 24 Jun 2026 17:29:55 GMT"
     },
     {
       "title": "Air conditioning creates political divide after France records hottest day",
@@ -161,7 +161,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 24 Jun 2026 12:32:00 GMT"
+      "publishedAt": "Wed, 24 Jun 2026 17:31:48 GMT"
     },
     {
       "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
@@ -188,52 +188,68 @@
       "publishedAt": "Wed, 24 Jun 2026 15:00:52 GMT"
     },
     {
-      "title": "Greta Thunberg pleads not guilty in trespassing case over 2024 pro-Palestin",
-      "summary": "Greta Thunberg pleads not guilty in trespassing case over 2024 pro-Palestine protest",
+      "title": "Why does Israel want to be less dependent on US weapons?",
+      "summary": "Prime Minister Benjamin Netanyahu has called for Israel to pursue 'armaments independence'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/greta-thunberg-pleads-not-guilty-in-trespassing-case-over-2024-pro-palestin?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 16:49:03 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/6/24/why-does-israel-want-to-be-less-dependent-on-us-weapons?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 19:27:46 +0000"
     },
     {
-      "title": "Israeli attacks kill 2 in southern Lebanon despite ongoing Washington talks",
-      "summary": "Israeli defence minister says troops won’t withdraw from southern Lebanon as attacks slow but do not stop.",
+      "title": "Dutch PM unveils Moluccan monument marking dark colonial chapter",
+      "summary": "Dutch PM Rob Jetten unveiled a Moluccan memorial commemorating decades of mistreatment endured by the Moluccan community",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-kill-2-in-southern-lebanon-despite-ongoing-washington-talks?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 16:23:56 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/aje-onl-nf_dutch-pm-unveils-moluccan-monument-after-apology-240626?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 19:19:12 +0000"
     },
     {
-      "title": "Trump cancels housing bill signing, demands US voter ID law first",
-      "summary": "The affordable housing bill had been passed by bipartisan support, a rare move in a deeply divided US Congress.",
+      "title": "Our life stops’: West Bank childhood shattered by Israeli military raids",
+      "summary": "A new UN report documents killings, detentions and lasting psychological harm to Palestinian children.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/6/24/trump-cancels-housing-bill-signing-demands-us-voter-id-law-first?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 16:20:08 +0000"
+      "link": "https://www.aljazeera.com/features/2026/6/24/our-life-stops-west-bank-childhood-shattered-by-israeli-military-raids?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 18:20:11 +0000"
     },
     {
-      "title": "What The Elephant Knows | Ep 7 – Sri Lanka",
-      "summary": "In rural Sri Lanka, families face deadly human-elephant conflict while seeking a fragile path to co-existence.",
+      "title": "Ivan Cepeda concedes defeat in Colombia election, sealing right-wing win",
+      "summary": "Presidential candidate Ivan Cepeda accepted the victory of his opponent Abelardo de la Espriella.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/making-peace/2026/6/24/what-the-elephant-knows-ep-7-sri?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 16:00:00 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/24/ivan-cepeda-concedes-defeat-in-colombia-election-sealing-right-wing-win?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 18:10:16 +0000"
     },
     {
-      "title": "Israeli attacks on Gaza and occupied West Bank kill two, including child",
-      "summary": "Health officials at Nasser Medical Complex tell Al Jazeera a 12-year-old child was killed in al-Mawasi, Gaza.",
+      "title": "Palestinian boy amongst dead in Israeli strike on displaced tent in Gaza",
+      "summary": "An Israeli drone strike on a tent sheltering displaced Palestinians in Khan Younis killed two people, including a child.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/24/israeli-attacks-on-gaza-and-occupied-west-bank-kill-two-including-child?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 15:21:59 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/palestinian-boy-amongst-dead-in-israeli-strike-on-displaced-tent-in-gaza?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 18:03:08 +0000"
     },
     {
-      "title": "How Colombia’s traditional midwives serve as lifelines to rural communities",
-      "summary": "Parts of Colombia are isolated, with no hospitals nearby. Experts say midwives can help bridge the healthcare gap.",
+      "title": "LIVE: Scotland vs Brazil – World Cup 2026",
+      "summary": "Updates of Scotland vs Brazil, who have Neymar back from injury, via our buildup and text commentary stream coverage.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/longform/2026/6/24/how-colombias-traditional-midwives-serve-as-lifelines-to-rural-communities?traffic_source=rss",
-      "publishedAt": "Wed, 24 Jun 2026 15:20:22 +0000"
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/24/scotland-vs-brazil-live-world-cup-2026?traffic_source=rss",
+      "publishedAt": "Wed, 24 Jun 2026 18:00:53 +0000"
+    },
+    {
+      "title": "Meta plans to release AI-powered prediction market app, documents show",
+      "summary": "The company is building an app separate from Facebook and Instagram where people can wager on the outcome of real-world events, using \"play money.\"",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/24/nx-s1-5869486/meta-prediction-market-app-ai",
+      "publishedAt": "Wed, 24 Jun 2026 14:39:06 -0400"
+    },
+    {
+      "title": "A judge says the Kennedy Center must update him on its plans — and address that tarp",
+      "summary": "A federal judge has ordered the Kennedy Center to update him on programming and operational plans. But with most of the staff gone and many artists booked elsewhere, what shows would they present?",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/24/nx-s1-5869578/kennedy-center-tarp",
+      "publishedAt": "Wed, 24 Jun 2026 14:02:47 -0400"
     },
     {
       "title": "Postal Service says its cash crisis is delayed until at least 2031, but problems loom",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/06/24/g-s1-129820/irans-world-cup-travel-restrictions",
       "publishedAt": "Wed, 24 Jun 2026 10:51:45 -0400"
-    },
-    {
-      "title": "Star Fox Review: Can't quite teach an old Fox new tricks",
-      "summary": "The Switch 2 Star Fox remake comes with high-effort visuals and a fun battle mode, but its campaign feels stuck in the past.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/24/nx-s1-5868629/star-fox-remake-review-switch-2",
-      "publishedAt": "Wed, 24 Jun 2026 08:00:00 -0400"
-    },
-    {
-      "title": "Greetings from sweltering Switzerland",
-      "summary": "On the waterfront in Lucerne, Switzerland, soccer fans watched jumbo TVs showing a World Cup match played an ocean away. But the air felt more like the tropics.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/24/nx-s1-5867606/lucerne-switzerland-world-cup-heat",
-      "publishedAt": "Wed, 24 Jun 2026 07:55:49 -0400"
     },
     {
       "title": "France confirms first Ebola case in doctor who had worked in DRC",
@@ -369,14 +369,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
+      "tempC": 23,
       "description": "clear sky",
       "high": 28,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 36,
+      "tempC": 31,
       "description": "clear sky",
       "high": 36,
       "low": 24
