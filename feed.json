@@ -1,14 +1,6 @@
 {
-  "updated": "2026-06-25T19:56:19.570Z",
+  "updated": "2026-06-25T22:19:27.670Z",
   "news": [
-    {
-      "title": "104 maçı canlı takip edin",
-      "summary": "Hiçbir golü kaçırmayın: Takvim ve anlık sonuçlar",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cq8pljlkx0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 04 Jun 2026 07:01:41 GMT"
-    },
     {
       "title": "Yusuf Ziya Gümüşel ve Kadir İstekli'ye 'sahte kemik yaşı raporu' davasında beşer yıl hapis: Karar neden önemli?",
       "summary": "Hiranur Vakfı kurucusu Yusuf Ziya Gümüşel ve reşit olmayan kızını evlendirdiği Kadir İstekli dahil dört sanık, çocuğun kemik yaşını büyütmek üzere evrakta sahtecilik yapmaktan beşer yıl hapis cezasına çaptırıldı.",
@@ -18,12 +10,12 @@
       "publishedAt": "Thu, 25 Jun 2026 19:00:13 GMT"
     },
     {
-      "title": "NATO zirvesi öncesi Ankara'da 103 kişi kişi tutuklandı",
+      "title": "NATO zirvesi öncesi Ankara'da 103 kişi tutuklandı",
       "summary": "Ankara'da gelecek ay düzenlenmesi planlanan NATO zirvesi öncesinde Ankara ve İstanbul'da yapılan operasyonlarda 233 kişi gözaltına alındı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cwyd855ee7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 19:25:45 GMT"
+      "publishedAt": "Thu, 25 Jun 2026 20:08:18 GMT"
     },
     {
       "title": "Nevşehir, Keçiören ve Keşan belediye başkanları AKP'ye geçti",
@@ -48,6 +40,28 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c9826y6grz2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 25 Jun 2026 12:13:54 GMT"
+    },
+    {
+      "title": "Montella: İstifa etmeyeceğim, daha da güçlendim",
+      "summary": "Türkiye A Milli Erkek Futbol Takımı Teknik Direktörü Vincenzo Montella, takımının ikinci maçlar sonunda 2026 Dünya Kupası'ndan elenmesinin ardından görevinden istifa etmeyeceğini söyledi",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cj0g70g17m9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 01:39:28 GMT"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Haziran 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-26T01:00:00+03:00"
+    },
+    {
+      "title": "Kayıp vakası planlı cinayet çıktı. 18 yıl sonra 7 kişi gözaltında",
+      "summary": "Aydın'da 2008 yılında kaybolan Naciye A'nın dosyası yeniden açıldı. Olayın planlı cinayet olduğu tespit edilirken, 7 kişi gözaltına alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-25T23:46:17+03:00"
     },
     {
       "title": "Sınav sistemi değişecek mi? Bakan Tekin'den açıklama",
@@ -78,66 +92,52 @@
       "publishedAt": "2026-06-25T20:14:26+03:00"
     },
     {
-      "title": "Son dakika Malatya'da deprem mi oldu? Az önce deprem Malatya'da nerede oldu? Malatya deprem Kandilli ve AFAD son depremler listesi 25 Haziran 2026",
-      "summary": "Son dakika Malatya deprem haberleri.. Malatya'da deprem mi oldu? Az önce deprem Malatya'da nerede oldu? Malatya Kandilli ve AFAD son depremler.. 25 Haziran 2026 Malatya deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu M",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-25T16:50:00+03:00"
-    },
-    {
-      "title": "Malatya'da 4 büyüklüğünde deprem",
-      "summary": "Malatya'nın Battalgazi ilçesinde 4 büyüklüğünde deprem meydana geldi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-25T16:42:59+03:00"
-    },
-    {
-      "title": "Polis maaşı ne kadar, kaç TL olacak?",
-      "summary": "Temmuz ayında açıklanacak zamlı maaşlar milyonlarca polis memuru tarafından yakından takip ediliyor. Enflasyon farkı ve toplu sözleşme artışıyla birlikte polis maaşlarında oluşacak yeni tablo merak konusu olurken, en düşük polis maaşının ha",
+      "title": "Hemşire maaşları ne kadar olacak?",
+      "summary": "Temmuz 2026 hemşire maaş zammı için geri sayım sürüyor. Milyonlarca memur gibi sağlık çalışanları da Türkiye İstatistik Kurumu'nun (TÜİK) açıklayacağı haziran ayı enflasyon verilerine odaklandı. Kesin zam oranının belli olmasıyla birlikte h",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/polis-maasi-hesaplama-2026-temmuz-zamli-polis-maasi-ne-kadar-olacak-en-dusuk-polis-maasi-kac-tl-polis-maasi-ne-kadar-artacak-3894067",
-      "publishedAt": "Thu, 25 Jun 2026 07:58:23 GMT"
+      "link": "https://www.haberturk.com/hemsire-maaslari-temmuz-2026-temmuz-zammi-ile-hemsire-maaslari-ne-kadar-olacak-hemsire-maasina-ne-kadar-zam-gelecek-3894096",
+      "publishedAt": "Thu, 25 Jun 2026 09:23:45 GMT"
     },
     {
-      "title": "SGK ve Bağkur emekli maaşı ne kadar olacak?",
-      "summary": "Temmuz ayında emekli maaşlarına yapılacak artış için gözler enflasyon verilerine çevrildi. SSK ve Bağ-Kur emeklilerinin zam oranı, yılın ilk 6 aylık enflasyon rakamlarının kesinleşmesiyle belli olacak. Haziran ayı enflasyonunun açıklanmasın",
+      "title": "Temmuz ayı kira zammı ne kadar?",
+      "summary": "Temmuz ayı kira artış oranı, ev sahibi ve kiracıların gündemindeki yerini koruyor. Kira sözleşmesini bu ay yenileyecek milyonlarca kişi, Türkiye İstatistik Kurumu'nun (TÜİK) açıklayacağı Haziran ayı enflasyon verilerine odaklandı. Açıklanac",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/sgk-bagkur-emekli-zammi-2026-6-aylik-enflasyon-farki-ile-en-dusuk-sgk-ve-bagkur-emekli-maasi-ne-kadar-olacak-temmuz-2026-emekli-maasina-yuzde-kac-zam-gelecek-3894058",
-      "publishedAt": "Thu, 25 Jun 2026 07:57:39 GMT"
+      "link": "https://www.haberturk.com/kira-artis-orani-hesapla-temmuz-2026-temmuz-ayi-kira-zammi-ne-kadar-yuzde-kac-olacak-3894092",
+      "publishedAt": "Thu, 25 Jun 2026 09:11:20 GMT"
     },
     {
-      "title": "Zamlı dul ve yetim aylığı ne kadar olacak?",
-      "summary": "Temmuz ayının yaklaşmasıyla birlikte milyonlarca vatandaşın gözü sosyal yardım ödemelerine çevrildi. 2026 zamlı dul ve yetim aylığı ne kadar olacak? Özellikle dul ve yetim aylığı alanlar, yapılacak zam oranının hayatlarına nasıl yansıyacağı",
+      "title": "MSÜ taban puanları açıklandı!",
+      "summary": "MSÜ 2026 taban puanlarıyla ilgili beklenen açıklama geldi. Kara, Deniz ve Hava Harp Okulu ile Astsubay Meslek Yüksekokulu için oluşan son veriler adayların tercih sürecini doğrudan etkilerken, gözler en düşük ve en yüksek puan aralıklarına ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/temmuz-sosyal-yardim-ucretleri-2026-zamli-dul-ve-yetim-ayligi-ne-kadar-olacak-3894054",
-      "publishedAt": "Thu, 25 Jun 2026 07:33:26 GMT"
+      "link": "https://www.haberturk.com/son-dakika-msu-taban-puanlari-aciklandi-2026-msu-kara-deniz-hava-harp-okulu-astsubay-meslek-yuksekokulu-taban-puanlari-3894088",
+      "publishedAt": "Thu, 25 Jun 2026 09:09:49 GMT"
     },
     {
-      "title": "Emekli kök maaşı nasıl hesaplanır?",
-      "summary": "Emeklilik planı yapan milyonlarca vatandaş için maaş hesabında en çok merak edilen başlıklardan biri kök aylık oluyor. SGK üzerinden yapılan sorgulamalarda görülen tutarlar, emekli maaşının nasıl belirlendiğine dair önemli ipuçları verirken",
+      "title": "Bu akşam TV'de neler yayınlanacak?",
+      "summary": "Bu akşam televizyon ekranlarında spor karşılaşmalarından dizilere, sinema kuşağından eğlence programlarına kadar geniş bir yayın akışı izleyicilerle buluşacak. TRT 1’de FIFA Dünya Kupası heyecanı Ekvador - Almanya 2026 Dünya Kupası Grup Maç",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/emekli-kok-maasi-nasil-hesaplanir-emekli-kok-aylik-sorgulama-nasil-nereden-yapilir-sgk-ekrani-ile-kok-maas-sorgulama-3894039",
-      "publishedAt": "Thu, 25 Jun 2026 07:07:03 GMT"
+      "link": "https://www.haberturk.com/bugun-televizyonda-hangi-diziler-var-25-haziran-2026-persembe-kanal-d-show-tv-trt-1-atv-star-tv-now-tv8-tv-yayin-akisi-listesi-3894086",
+      "publishedAt": "Thu, 25 Jun 2026 09:17:46 GMT"
     },
     {
-      "title": "12. Yargı Paketi son durum",
-      "summary": "12. Yargı Paketi TBMM sürecinde son dakika gelişmeleri yakından izleniyor. TBMM Adalet Komisyonu'nda kabul edilen kanun teklifinde dikkat çeken değişiklikler yapıldı. Tekliften Yargıtay'ın görevsizlik ve yetkisizlik gerekçesiyle bozma yetki",
+      "title": "BİM 26 Haziran fırsat ürünleri!",
+      "summary": "BİM’in 26 Haziran Cuma günü raflara taşıdığı yeni fırsat ürünleri kataloğu yine büyük ilgi görüyor. Ev ihtiyaçlarından elektronik ürünlere kadar geniş yelpazede sunulan indirimler, alışveriş listelerini yeniden şekillendiriyor. İşte BİM 26 ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/12-yargi-paketi-son-durum-tbmm-den-gecti-mi-ne-zaman-yasalasacak-12-yargi-paketi-maddeleri-neler-af-cikacak-mi-iban-duzenlemesi-var-mi-3894034",
-      "publishedAt": "Thu, 25 Jun 2026 07:39:14 GMT"
+      "link": "https://www.haberturk.com/bim-firsat-urunleri-katalogu-26-haziran-cuma-bim-firsat-katalogu-ve-indirimli-urunler-afisi-3894077",
+      "publishedAt": "Thu, 25 Jun 2026 08:28:06 GMT"
     },
     {
-      "title": "Aşure Günü ne zaman başlar ve biter?",
-      "summary": "Aşure Günü tarihi ve Muharrem ayı, İslam alemi tarafından merakla araştırılıyor. Diyanet İşleri Başkanlığı'nın dini günler takvimine göre hicri yılın ilk ayı olan Muharrem, 2026 yılında haziran ayında başladı. Muharrem ayının 10. gününe den",
+      "title": "En düşük emekli maaşı ne kadar olacak?",
+      "summary": "Temmuz 2026 emekli zammı için bekleyiş devam ederken, özellikle en düşük emekli maaşına yönelik olası düzenleme milyonlarca kişinin gündeminde yer alıyor. SSK ve Bağ-Kur emeklilerinin alacağı yeni aylıkların, açıklanacak enflasyon verileri ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/asure-gunu-ne-zaman-baslar-ve-biter-2026-25-haziran-bugun-asure-gunu-mu-iste-asure-gunu-faziletleri-ve-onemi-3894027",
-      "publishedAt": "Thu, 25 Jun 2026 06:31:50 GMT"
+      "link": "https://www.haberturk.com/en-dusuk-emekli-maasi-zammi-hesaplama-2026-temmuz-emekli-zammi-yuzde-kac-olacak-en-dusuk-emekli-maasi-ne-kadar-kac-lira-olacak-en-dusuk-emekli-maasi-senaryolari-3894076",
+      "publishedAt": "Thu, 25 Jun 2026 08:22:18 GMT"
     },
     {
       "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
@@ -161,7 +161,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 18:12:27 GMT"
+      "publishedAt": "Thu, 25 Jun 2026 21:27:06 GMT"
     },
     {
       "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
@@ -180,60 +180,68 @@
       "publishedAt": "Thu, 25 Jun 2026 18:50:12 GMT"
     },
     {
-      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-      "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
+      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+      "summary": "The ruling opens the path for the Trump administration to deport hundreds of thousands of immigrants who have been living in the US for years.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 25 Jun 2026 09:06:59 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 25 Jun 2026 18:43:14 GMT"
     },
     {
-      "title": "‘Truly terrifying’: Caracas confronts the aftermath of Venezuela earthquake",
-      "summary": "Devastated residents recall the moment when they experienced the twin earthquakes that toppled buildings and killed 188.",
+      "title": "Venezuela earthquakes live: At least 188 dead as rescue efforts intensify",
+      "summary": "Venezuelans battle to rescue loved ones trapped alive beneath rubble of collapsed buildings after two major earthquakes.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/25/truly-terrifying-caracas-confronts-the-aftermath-of-venezuela-earthquake?traffic_source=rss",
-      "publishedAt": "Thu, 25 Jun 2026 19:44:43 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/venezuela-earthquakes-live-at-least-188-dead-as-rescue-efforts-intensify?traffic_source=rss",
+      "publishedAt": "Thu, 25 Jun 2026 22:00:02 +0000"
     },
     {
-      "title": "Kenya arrests more than 350 as people mark anniversary of deadly protests",
-      "summary": "Demonstrators mark the second anniversary of a 2024 protest where 60 people were killed by security forces.",
+      "title": "WNBA: Alyssa Thomas suspended one game for fist into Cailtin Clark’s throat",
+      "summary": "Both players were on the floor when Thomas pushed her fist into Clark's throat before getting up and stepping over her.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/25/kenya-arrests-more-than-350-as-people-mark-anniversary-of-deadly-protests?traffic_source=rss",
-      "publishedAt": "Thu, 25 Jun 2026 18:55:10 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/25/wnba-alyssa-thomas-suspended-one-game-for-fist-into-cailtin-clarks-throat?traffic_source=rss",
+      "publishedAt": "Thu, 25 Jun 2026 21:48:05 +0000"
     },
     {
-      "title": "Bedouins protest Israel’s home demolition policy in the Negev desert",
-      "summary": "Bedouins protest Israel’s home demolition policy in the Negev desert",
+      "title": "Venezuela rescue teams race to find earthquake survivors",
+      "summary": "Rescue teams raced to find survivors and recover bodies after twin earthquakes rocked Venezuela on Wednesday.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/bedouins-protest-israels-home-demolition-policy-in-the-negev-desert?traffic_source=rss",
-      "publishedAt": "Thu, 25 Jun 2026 18:50:23 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-rescue-teams-race-to-find-earthquake-survivors?traffic_source=rss",
+      "publishedAt": "Thu, 25 Jun 2026 21:42:33 +0000"
     },
     {
-      "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
-      "summary": "Andreas Krieg said Iran possesses sufficient geographic and military leverage in the Strait of Hormuz.",
+      "title": "Economic losses mount as Venezuela earthquake death toll grows",
+      "summary": "Initial forecasts suggest damage could cost as much as 7 percent of the South American nation's GDP.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
-      "publishedAt": "Thu, 25 Jun 2026 18:24:58 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/25/economic-losses-mount-as-venezuela-earthquake-death-toll-grows?traffic_source=rss",
+      "publishedAt": "Thu, 25 Jun 2026 21:12:00 +0000"
     },
     {
-      "title": "‘Concrete breaking off walls’: Survivors describe Venezuela’s earthquakes",
-      "summary": "The Venezuelan government has loosened restrictions on social media as residents search for missing loved ones.",
+      "title": "UN agency pauses Hormuz ship evacuation initiative after vessel attacked",
+      "summary": "Iran warns vessels to use only Tehran-approved routes as IMO halts Hormuz evacuation after ship struck.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/25/concrete-breaking-off-walls-survivors-describe-venezuelas-earthquakes?traffic_source=rss",
-      "publishedAt": "Thu, 25 Jun 2026 18:20:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/25/un-agency-pauses-hormuz-ship-evacuation-initiative-after-vessel-attacked?traffic_source=rss",
+      "publishedAt": "Thu, 25 Jun 2026 20:55:46 +0000"
     },
     {
-      "title": "Russia set to return to FIFA competition at inaugural U-15 World Cup",
-      "summary": "FIFA's inaugural U-15 World Cup in October is opened to all of its member associates, paving way for Russia's return.",
+      "title": "Venezuela quake leaves La Guaira in almost total devastation",
+      "summary": "La Guaira, the region hardest hit by two earthquakes in Venezuela, has been left devastated.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/25/russia-set-to-return-to-fifa-competition-as-inaugural-u-15-world-cup?traffic_source=rss",
-      "publishedAt": "Thu, 25 Jun 2026 18:09:15 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/venezuela-quake-leaves-la-guaira-in-almost-total-devastation?traffic_source=rss",
+      "publishedAt": "Thu, 25 Jun 2026 20:50:40 +0000"
+    },
+    {
+      "title": "What made the deadly Venezuelan earthquakes different",
+      "summary": "It appears the two big earthquakes in Venezuela that occurred in rapid succession may have involved two separate fault lines. Several faults intersect in this tectonically complex region.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/25/nx-s1-5870557/what-made-the-deadly-venezuelan-earthquakes-different",
+      "publishedAt": "Thu, 25 Jun 2026 16:12:15 -0400"
     },
     {
       "title": "Photos: See Venezuela destruction after earthquakes",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/06/25/nx-s1-5866742/world-cup-norway-soccer-viking-row",
       "publishedAt": "Thu, 25 Jun 2026 10:46:29 -0400"
-    },
-    {
-      "title": "Supreme Court bars 'vampire rules' on gun ownership",
-      "summary": "In a 6-3 ideologically divided decision, the high court said that requiring permission in advance is an undue burden on the right to possess and carry a firearm.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/25/nx-s1-5835228/supreme-court-hawaii-gun-law",
-      "publishedAt": "Thu, 25 Jun 2026 10:22:26 -0400"
     },
     {
       "title": "‘Constitutional coup’ claims as Zimbabwe senate approves extending presidential term",
@@ -330,14 +330,18 @@
       "league": "World Cup",
       "home": "Curaçao",
       "away": "Ivory Coast",
-      "status": "upcoming",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FT",
       "date": "2026-06-25"
     },
     {
       "league": "World Cup",
       "home": "Ecuador",
       "away": "Germany",
-      "status": "upcoming",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
       "date": "2026-06-25"
     },
     {
@@ -372,14 +376,14 @@
     {
       "place": "İstanbul",
       "tempC": 23,
-      "description": "partly cloudy",
-      "high": 29,
-      "low": 21
+      "description": "mainly clear",
+      "high": 31,
+      "low": 22
     },
     {
       "place": "London",
-      "tempC": 27,
-      "description": "overcast",
+      "tempC": 25,
+      "description": "clear sky",
       "high": 31,
       "low": 22
     }
