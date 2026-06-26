@@ -1,6 +1,22 @@
 {
-  "updated": "2026-06-26T14:18:50.427Z",
+  "updated": "2026-06-26T16:59:20.412Z",
   "news": [
+    {
+      "title": "Türk sinemasının usta ismi Kadir İnanır hayatını kaybetti",
+      "summary": "Türk sinemasının usta ismi Kadir İnanır, tedavi gördüğü hastanede hayatını kaybetti. 77 yaşındaki yıldız oyuncu 14 Mayıs'ta zatürre rahatsızlığı nedeniyle hastaneye kaldırılmış, kısa bir süre sonra da akciğerindeki enfeksiyon nedeniyle yoğu",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c39y7g10pexo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 16:49:04 GMT"
+    },
+    {
+      "title": "İtalya'dan kaçak gönderilen binlerce ton tekstil atığı Türkiye'de ele geçirildi",
+      "summary": "İtalya'dan Türkiye'ye yasadışı yollarla tekstil atığı kaçakçılığını hedef alan uluslararası operasyonda Türkiye'de binlerce ton atık ele geçirildi. İtalya merkezli bir şirkete yapılan operasyonda da 12 milyon euro değerinde mal varlığı ve t",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c5yzpn3092yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 14:36:56 GMT"
+    },
     {
       "title": "Rutte'nin İran saldırılarına üs desteği sözleri Tahran'ı kızdırdı, Roma iddiaları yalanladı",
       "summary": "NATO Genel Sekreteri Mark Rutte, İran'a yönelik \"Epik Öfke\" operasyonunu desteklemek için İtalya'daki ABD üslerinden 500 ABD uçağının, Avrupa çapında da binlercesinin havalandığını söyleyince NATO ile İran arasında gerginliğe neden oldu.",
@@ -8,22 +24,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/clyw4m0elxzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 26 Jun 2026 12:47:01 GMT"
-    },
-    {
-      "title": "Dilovası parfüm fabrikası yangını soruşturmasında yedi kişi daha tutuklandı",
-      "summary": "Kocaeli'nin Dilovası ilçesindeki bir kozmetik fabrikası yangınında yedi işçinin yaşamını yitirmesine ilişkin soruşturma kapsamında aralarında görevden uzaklaştırılan Dilovası Belediye Başkan Yardımcısı ve Zabıta Müdür Vekilinin de bulunduğu",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c30yvn17y2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 11:10:26 GMT"
-    },
-    {
-      "title": "Böcek ailesi davasında karar: Dört sanık hakkında 12 yıldan 18 yıla kadar hapis",
-      "summary": "Almanya'dan Türkiye'ye tatile gelen ve kaldıkları oteldeki ilaçlama yüzünden zehirlenerek hayatını kaybeden dört kişilik Böcek ailesinin ölümüne ilişkin davada karar açıklandı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cy01z59pr05o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 14:11:16 GMT"
     },
     {
       "title": "Avrupa kavruluyor: Paris'te alkol satış ve tüketimi kısıtlandı",
@@ -42,12 +42,40 @@
       "publishedAt": "Fri, 26 Jun 2026 11:53:04 GMT"
     },
     {
-      "title": "Venezuela'da peş peşe iki deprem: Can kaybı 589'a yükseldi",
-      "summary": "Venezuela'da 24 Haziran'da peş peşe meydana gelen 7,2 ve 7,5 büyüklüğündeki iki depremde en az 589 kişi öldü, 3000'e yakın yaralı var. Ülke genelinde olağanüstü hal ilan edildi.",
+      "title": "Böcek ailesi davasında karar: Dört sanık hakkında 12 yıldan 18 yıla kadar hapis",
+      "summary": "Almanya'dan Türkiye'ye tatile gelen ve kaldıkları oteldeki ilaçlama yüzünden zehirlenerek hayatını kaybeden dört kişilik Böcek ailesinin ölümüne ilişkin davada karar açıklandı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cj3gy31vz8yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 12:58:58 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cy01z59pr05o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 14:11:16 GMT"
+    },
+    {
+      "title": "Bakan Uraloğlu'ndan Hürmüz açıklaması: Bölgede bekleyen Türk gemilerinin tamamı çıkış yaptı",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Hürmüz Boğazı ve Basra Körfezi'nde bekleyen tüm Türk sahipli gemilerin tamamının emniyetle çıkış yaptığını belirtti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-26T18:55:45+03:00"
+    },
+    {
+      "title": "DMM'den 'sahte belge' uyarısı",
+      "summary": "Dezenformasyonla Mücadele Merkezi (DMM), NATO Zirvesi tedbirlerine ilişkin Ankara Valiliği'ne ait olduğu iddiasıyla dolaşıma sokulan sahte belgelerle yapılan dezenformasyon faaliyetlerine karşı uyarıda bulundu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-26T18:21:51+03:00"
+    },
+    {
+      "title": "Niğde'de havai fişek fabrikasında patlama",
+      "summary": "Niğde'nin Bor ilçesindeki bir havai fişek fabrikasında patlama meydana geldi. Valilikten yapılan açıklamaya göre 1 işçi hayatını kaybetti, 1 işçi de ağır yaralı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-26T18:16:10+03:00"
+    },
+    {
+      "title": "Yüzlerce araç neredeyse bedavaya satılacak. \"Gelin alın\" dediler",
+      "summary": "Kocaeli'de trafikten men edilen veya haciz kararı bulunan yüzlerce araç, sahipleri almayınca yediemin otoparkında çürümeye yüz tuttu. Duruma isyan eden otoparkın işletmecisi, \"Eski araba ya da motosikleti olan gelsin üçüne beşine bakmadan v",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-26T17:35:23+03:00"
     },
     {
       "title": "Eski milletvekili Orhan Sür son yolculuğuna uğurlandı",
@@ -62,34 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-06-26T16:29:04+03:00"
-    },
-    {
-      "title": "İstanbul'da NATO Zirvesi öncesi önemli toplantı",
-      "summary": "Ankara'da NATO Zirvesi öncesinde İstanbul'da 28-29 Haziran'da NATO Parlamenter Zirvesi yapılacak.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-26T15:34:35+03:00"
-    },
-    {
-      "title": "AK Parti yarın kampa giriyor",
-      "summary": "AK Parti, kuruluşunun 25’inci yılına yaklaşırken yeni dönem yol haritasını belirlemek üzere yarın kampa giriyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-26T15:08:31+03:00"
-    },
-    {
-      "title": "Meclis'te sandalye dağılımı değişti",
-      "summary": "Türkiye Büyük Millet Meclisi'ndeki (TBMM) sandalye dağılımı, iki milletvekilinin AK Parti'ye katılması ve iki milletvekilinin CHP'den istifa etmesiyle birlikte değişti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-26T15:29:11+03:00"
-    },
-    {
-      "title": "NATO Zirvesi'ne adım adım. Gece gündüz sahada olacaklar",
-      "summary": "Zirve kapsamında alınan güvenlik tedbirleri 12 Temmuz tarihine kadar kesintisiz bir şekilde devam edecek.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-26T14:32:28+03:00"
     },
     {
       "title": "BİM 26 Haziran aktüel kataloğu satışta",
@@ -140,28 +140,20 @@
       "publishedAt": "Fri, 26 Jun 2026 08:22:49 GMT"
     },
     {
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 589 people.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 02:12:07 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 16:07:18 GMT"
     },
     {
-      "title": "Aerial footage reveals destruction in coastal Venezuela",
-      "summary": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday.",
+      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
+      "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 05:13:22 GMT"
-    },
-    {
-      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-      "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 11:27:59 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 16:45:21 GMT"
     },
     {
       "title": "Christmas market attacker jailed for life for murdering six in Germany",
@@ -172,12 +164,12 @@
       "publishedAt": "Fri, 26 Jun 2026 10:49:11 GMT"
     },
     {
-      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
-      "summary": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
+      "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+      "summary": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 10:38:37 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 11:27:59 GMT"
     },
     {
       "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
@@ -188,52 +180,100 @@
       "publishedAt": "Fri, 26 Jun 2026 06:16:01 GMT"
     },
     {
-      "title": "Iraq’s new PM launches anticorruption campaign, but is it enough?",
-      "summary": "Al-Zaidi campaign to combat corruption seizes $86m, properties, vehicles and gold. But analysts say he needs to do more.",
-      "source": "Al Jazeera",
+      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
+      "summary": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/26/iraqs-new-pm-launches-anticorruption-campaign-but-is-it-enough?traffic_source=rss",
-      "publishedAt": "Fri, 26 Jun 2026 13:37:46 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 26 Jun 2026 10:38:37 GMT"
     },
     {
-      "title": "New York’s primaries signal a new force in US politics",
-      "summary": "Progressive, Muslim and Arab American candidates are challenging old limits on debate over Israel and Palestine.",
+      "title": "‘This time’: The World Cup commercials capturing Egypt’s soaring hopes",
+      "summary": "The advertisements play on Egypt's poor World Cup record — and the belief that 2026 is different. So far, they ring true",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/6/26/new-yorks-primaries-signal-a-new-force-in-us-politics?traffic_source=rss",
-      "publishedAt": "Fri, 26 Jun 2026 13:37:17 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/26/this-time-the-world-cup-commercials-capturing-egypts-soaring-hopes?traffic_source=rss",
+      "publishedAt": "Fri, 26 Jun 2026 16:32:22 +0000"
     },
     {
-      "title": "Aid groups urge swift action to avert ‘atrocities’ in Sudan’s el-Obeid",
-      "summary": "The city is at risk of an 'imminent ground offensive' by the RSF paramilitary and its allies, 38 NGOs warn.",
+      "title": "Hezbollah: Israel must ‘unconditionally’ leave Lebanon",
+      "summary": "Hezbollah says Israel has \"no option\" but to “unconditionally” withdraw from southern Lebanon and other occupied areas.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/26/aid-groups-urge-swift-action-to-avert-atrocities-in-sudans-el-obeid?traffic_source=rss",
-      "publishedAt": "Fri, 26 Jun 2026 13:32:14 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/aje-onl-nf_hezbollah_israel-must-unconditionally-leave-lebanon-260626?traffic_source=rss",
+      "publishedAt": "Fri, 26 Jun 2026 16:27:13 +0000"
     },
     {
-      "title": "Hezbollah demands Israel leave Lebanon ‘unconditionally’ as US talks extend",
-      "summary": "As Lebanon-Israel strive for agreement, Hezbollah chief Naim Qassem accepts 'no normalisation' and 'no gains for Israel'",
+      "title": "Why did these World Cup ads strike a nerve in Egypt?",
+      "summary": "Why did these World Cup ads strike a nerve in Egypt?",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/26/hezbollah-demands-israel-leave-lebanon-unconditionally-as-us-talks-extend?traffic_source=rss",
-      "publishedAt": "Fri, 26 Jun 2026 13:28:34 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/why-did-these-world-cup-ads-strike-a-nerve-in-egypt?traffic_source=rss",
+      "publishedAt": "Fri, 26 Jun 2026 16:15:56 +0000"
     },
     {
-      "title": "Thermal cameras reveal intense heat for outdoor workers in Europe",
-      "summary": "Thermal cameras reveal intense heat for outdoor workers in Europe",
+      "title": "Norway vs France LIVE: FIFA World Cup 2026",
+      "summary": "Follow live updates from the blockbuster clash in Group I - including the build-up, analysis and live text commentary.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/thermal-cameras-reveal-intense-heat-for-outdoor-workers-in-europe?traffic_source=rss",
-      "publishedAt": "Fri, 26 Jun 2026 13:13:40 +0000"
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/norway-vs-france-live-fifa-world-cup-2026?traffic_source=rss",
+      "publishedAt": "Fri, 26 Jun 2026 16:00:00 +0000"
     },
     {
-      "title": "Everything we know so far about the deadly earthquakes in Venezuela",
-      "summary": "Everything we know so far about the deadly earthquakes in Venezuela",
+      "title": "EU targets Somalia with visa curbs as president pushes back on returns",
+      "summary": "President says his country will readmit genuine nationals but insists Europe must first verify deportees' identities.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/everything-we-know-so-far-about-the-deadly-earthquakes-in-venezuela-2?traffic_source=rss",
-      "publishedAt": "Fri, 26 Jun 2026 12:52:27 +0000"
+      "link": "https://www.aljazeera.com/news/2026/6/26/eu-targets-somalia-with-visa-curbs-as-president-pushes-back-on-returns?traffic_source=rss",
+      "publishedAt": "Fri, 26 Jun 2026 15:18:02 +0000"
+    },
+    {
+      "title": "Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?",
+      "summary": "A cargo vessel had been struck by a projectile near Oman, as Iran says all ships must pass with its permission.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz?traffic_source=rss",
+      "publishedAt": "Fri, 26 Jun 2026 14:59:15 +0000"
+    },
+    {
+      "title": "World Cup fans are missing games after their resale tickets fall through",
+      "summary": "The ordeal has left fans forced to either miss out on a once-in-a-lifetime opportunity or scramble to find new tickets, often costing more and for worse seats.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5871397/world-cup-tickets-stubhub-resale-controversy",
+      "publishedAt": "Fri, 26 Jun 2026 12:13:47 -0400"
+    },
+    {
+      "title": "Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born",
+      "summary": "Nayef Samaro, 25, was killed in an Israeli military raid on Nablus, in the occupied West Bank, as he prepared to meet his wife at the hospital for the birth of their first child.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-west-bank",
+      "publishedAt": "Fri, 26 Jun 2026 11:45:25 -0400"
+    },
+    {
+      "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
+      "summary": "Ukraine launched a major nighttime attack on a dozen Russian regions, Russian-held Crimea and the surrounding seas, and Russia attacked various regions of Ukraine, as their war grinds on.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
+      "publishedAt": "Fri, 26 Jun 2026 11:08:14 -0400"
+    },
+    {
+      "title": "Plane crashes into Beijing's tallest building; damage reported",
+      "summary": "The cause of the damage could not be independently verified, and authorities did not immediately issue a statement on the incident.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/26/g-s1-130388/beijings-tallest-building-is-damaged-after-small-airplane-reportedly-crashed-into-it",
+      "publishedAt": "Fri, 26 Jun 2026 11:05:48 -0400"
+    },
+    {
+      "title": "John Bolton, former Trump national security adviser, pleads guilty in classified documents case",
+      "summary": "Bolton pleaded guilty to one count of retaining national defense information while he was a national security adviser during President Trump's first term, saying: \"And I am sorry for it.\"",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5871292/john-bolton-national-security-classified-documents",
+      "publishedAt": "Fri, 26 Jun 2026 11:00:18 -0400"
     },
     {
       "title": "Australia plans to strengthen laws banning children from social media",
@@ -242,46 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/06/26/g-s1-130375/australia-plans-to-strengthen-laws-banning-children-from-social-media",
       "publishedAt": "Fri, 26 Jun 2026 09:09:30 -0400"
-    },
-    {
-      "title": "South Korean ex-first lady sentenced to 7 years for bribery scandal",
-      "summary": "The former first lady had previously been sentenced to four years in a separate case involving the Unification Church.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/26/g-s1-130372/south-korean-ex-first-lady-sentenced-to-7-years-for-bribery-scandal",
-      "publishedAt": "Fri, 26 Jun 2026 09:03:20 -0400"
-    },
-    {
-      "title": "Rescuers scramble to find Venezuela earthquake survivors. And, SCOTUS rules on asylum",
-      "summary": "Rescuers are searching for thousands of people missing after two earthquakes struck Venezuela on Wednesday. And, the Supreme Court says the U.S. can turn away asylum seekers at the border.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/26/g-s1-130361/up-first-newsletter-venezuela-earthquakes-asylum-claims-farmers",
-      "publishedAt": "Fri, 26 Jun 2026 07:22:46 -0400"
-    },
-    {
-      "title": "'We are with you, Venezuela': Houston community rallies after deadly earthquakes",
-      "summary": "Venezuelans living in the U.S organize donation drives in response to the devastating earthquakes.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5871147/venezuela-houston-earthquake-katy",
-      "publishedAt": "Fri, 26 Jun 2026 05:30:00 -0400"
-    },
-    {
-      "title": "How well do you know your Reflecting Pool news? Because the quiz will test you",
-      "summary": "This week, the beleaguered body of water faced new woes. Plus soccer, gambling and U.K. politics!",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/26/g-s1-129799/fair-trump-tarp-fda-starmer-meta-viking-news-quiz",
-      "publishedAt": "Fri, 26 Jun 2026 05:01:00 -0400"
-    },
-    {
-      "title": "Trump axed a Black history exhibit. Former park rangers are teaching it anyway.",
-      "summary": "As the U.S. prepares to celebrate its 250th anniversary, former national park rangers are hosting teach-ins and sharing history that the Trump administration has sought to erase from federal land.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5867415/resistance-rangers-trump-history",
-      "publishedAt": "Fri, 26 Jun 2026 05:00:00 -0400"
     },
     {
       "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
@@ -373,14 +373,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 29,
-      "description": "clear sky",
+      "tempC": 26,
+      "description": "mainly clear",
       "high": 31,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 36,
+      "tempC": 35,
       "description": "clear sky",
       "high": 36,
       "low": 24
