@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T02:50:32.592Z",
+  "updated": "2026-06-27T06:28:14.130Z",
   "news": [
     {
       "title": "Hayallerimiz, öfkelerimiz ve Kadir İnanır",
@@ -50,6 +50,27 @@
       "publishedAt": "Fri, 26 Jun 2026 12:47:01 GMT"
     },
     {
+      "title": "YKS'de hatalı soru tartışması, ÖSYM inceleme başlattı. Edebiyat ve matematikte iptaller olacak mı?",
+      "summary": "Yükseköğretim Kurumları Sınavı'nda (YKS) bu yıl tartışma yaratan iki soru için Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) inceleme başlattı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-27T09:19:45+03:00"
+    },
+    {
+      "title": "Ankara'da terör operasyonu. 178 kişi tutuklandı",
+      "summary": "Ankara merkezli yürütülen terör operasyonlarında gözaltına alınan 225 şüpheliden 178'i, sevk edildikleri mahkemece tutuklanarak cezaevine gönderildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-27T09:02:21+03:00"
+    },
+    {
+      "title": "Trafikte görülmemiş hız cezası. Formula 1 ve yolcu uçağından bile süratli çıktı",
+      "summary": "Saattle bin 221 kilometre hızla radara yakalanan ve hız cezası yiyen 62 yaşındaki adama 30 bin liralık ceza tebligatı geldi. Mahkemeye başvuran yaşlı adam yanlış kesilen cezayı iptal ettirdi. Haber: Rojbin Hayrullahoğlu",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-27T08:44:09+03:00"
+    },
+    {
       "title": "Makas kazasında iki otomobil dereye uçtu",
       "summary": "Bursa'da trafikte makas atan aracın neden olduğu zincirleme kazada iki otomobil dereye uçtu, 6 kişi yaralandı.",
       "source": "NTV",
@@ -71,76 +92,55 @@
       "publishedAt": "2026-06-27T04:15:37+03:00"
     },
     {
-      "title": "Satırlı taksiciye ceza",
-      "summary": "Kayseri'de trafikte tartıştığı sürücüyü elindeki satırla tehdit eden taksiciye 180 bin lira ceza kesildi, ehliyetine el konuldu, aracı trafikten menedildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-27T02:58:22+03:00"
-    },
-    {
-      "title": "Kreş ve Gündüz Bakımevleri Yönetmeliği Resmi Gazete’de",
-      "summary": "Kamu Kurum ve Kuruluşlarınca 2828 Sayılı Sosyal Hizmetler Kanununa Göre Açılacak Kreş ve Gündüz Bakımevleri Hakkında Yönetmelik Resmi Gazete’de yayımlanarak yürürlüğe girdi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-27T00:43:34+03:00"
-    },
-    {
-      "title": "Ankara'da bazı yollar bugün trafiğe kapatılacak",
-      "summary": "Ankara İl Emniyet Müdürlüğünden, bugün trafiğe kapatılacak yollara ve Ankaray durağına ilişkin açıklama yapıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-27T00:37:07+03:00"
-    },
-    {
-      "title": "BİM 26 Haziran aktüel kataloğu satışta",
-      "summary": "BİM’in 26 Haziran Cuma aktüel ürünler kataloğu yayımlandı. Bugünden itibaren market raflarında teknoloji ürünlerinden piknik ekipmanlarına, küçük ev aletlerinden oyuncu aksesuarlarına kadar pek çok farklı kategoride ürün satışa sunulacak. M",
+      "title": "Zamlı evde bakım maaşı",
+      "summary": "Temmuz ayında açıklanacak Haziran enflasyon verileriyle birlikte evde bakım maaşlarına yapılacak zam da netlik kazanacak. Milyonlarca hak sahibi, 6 aylık enflasyon farkına göre belirlenecek yeni ödeme tutarını merak ederken, gözler Türkiye ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/satisa-cikti-bim-26-haziran-cuma-aktuel-katalogu-bugun-bim-markette-klima-elektrikli-scooter-espresso-makinesi-satista-iste-bim-cuma-aktuel-brosuru-3894361",
-      "publishedAt": "Fri, 26 Jun 2026 09:12:54 GMT"
+      "link": "https://www.haberturk.com/zamli-evde-bakim-maasi-hesaplama-2026-zamli-evde-bakim-maasi-ne-kadar-olacak-3894323",
+      "publishedAt": "Fri, 26 Jun 2026 07:54:55 GMT"
     },
     {
-      "title": "LGS tercihleri ne zaman başlayacak?",
-      "summary": "Liselere Geçiş Sistemi (LGS) kapsamında yapılacak tercih süreci, sınav sonuçlarının açıklanmasının ardından öğrenciler ve veliler için en kritik dönemlerden biri olarak öne çıkıyor. Bu süreçte adaylar, puan ve yüzdelik dilimlerine göre en u",
+      "title": "Öğretmen maaşı ne kadar olacak?",
+      "summary": "Öğretmenlerin Temmuz 2026 maaş artışı için bekleyiş kritik aşamaya geldi. Ocak-mayıs dönemine ait enflasyon verilerinin açıklanmasıyla zam hesabında tablo büyük ölçüde ortaya çıkarken, kesin oran için haziran ayı enflasyonu bekleniyor. TÜİK",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/lgs-2026-lgs-sonuclari-ne-zaman-aciklanacak-lgs-tercihleri-ne-zaman-baslayacak-lgs-tercih-sayfasi-3894356",
-      "publishedAt": "Fri, 26 Jun 2026 09:10:22 GMT"
+      "link": "https://www.haberturk.com/ogretmen-maasi-ne-kadar-temmuz-zammi-ile-ogretmen-maasi-ne-kadar-kac-lira-olacak-6-aylik-enflasyon-farki-ile-ogretmen-maas-zammi-beklentileri-3894318",
+      "publishedAt": "Fri, 26 Jun 2026 07:52:54 GMT"
     },
     {
-      "title": "YKS sonuçları ne zaman açıklanacak?",
-      "summary": "2026 TYT, AYT ve YDT sonuçları için geri sayım sürerken, adayların en çok merak ettiği konu açıklanacak tarih oldu. ÖSYM takvimine göre değerlendirme sürecinin tamamlanmasının ardından tüm oturumların sonuçları aynı gün erişime açılacak ve ",
+      "title": "Hemşire maaşı ne kadar olacak?",
+      "summary": "2026 Temmuz zammı yaklaşırken milyonlarca memur ve sağlık çalışanının gözü maaş artışında. Özellikle hemşire maaşlarının ne kadar olacağı ve yeni zam oranlarının nasıl şekilleneceği büyük merak konusu. Beklentiler yükselirken, hesaplamalar ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/yks-2026-aciklanma-tarihi-2026-tyt-ayt-ydt-universite-sinavi-sonuclari-ne-zaman-aciklanacak-yks-tercihleri-ne-zaman-yapilacak-3894344",
-      "publishedAt": "Fri, 26 Jun 2026 08:52:57 GMT"
+      "link": "https://www.haberturk.com/hemsire-maaslari-ne-kadar-olacak-memur-maasi-ne-kadar-artacak-2026-temmuz-zammi-ile-hemsire-maaslari-ne-kadar-olacak-3894313",
+      "publishedAt": "Fri, 26 Jun 2026 07:41:48 GMT"
     },
     {
-      "title": "Polis maaşı ne kadar olacak?",
-      "summary": "Polis maaşları Temmuz 2026 zammı öncesinde en çok araştırılan konular arasında yer alıyor. TÜİK'in açıklayacağı Haziran ayı enflasyon rakamlarıyla birlikte memur maaşlarına uygulanacak zam oranı netleşecek, polislerin derece ve kademelerine",
+      "title": "En düşük memur maaşı beklentisi",
+      "summary": "Memur ve memur emeklilerinin Temmuz 2026 maaş artışı için kritik takvim işlemeye devam ediyor. Ocak-mayıs dönemine ilişkin enflasyon farkının belli olmasıyla birlikte zam hesabı büyük ölçüde şekillenirken, gözler şimdi TÜİK’in 3 Temmuz’da d",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/polis-maasi-temmuz-hesaplamasi-zamli-polis-maaslari-ne-kadar-olacak-temmuz-zammi-ile-polis-maaslarina-ne-kadar-zam-gelecek-3894341",
-      "publishedAt": "Fri, 26 Jun 2026 08:31:25 GMT"
+      "link": "https://www.haberturk.com/en-dusuk-memur-maasi-ne-kadar-olacak-tuik-temmuz-enflasyon-orani-ile-memur-maasi-kac-lira-olacak-memur-zammi-beklentisi-ne-yonde-3894306",
+      "publishedAt": "Fri, 26 Jun 2026 07:24:03 GMT"
     },
     {
-      "title": "Muhtemel Aşk konusu nedir?",
-      "summary": "SHOW TV’nin yeni yapımlarından Muhtemel Aşk, perşembe akşamı yayınlanan 2. bölümüyle izleyici karşısına çıktı. Başrollerinde Ekin Koç, Ayça Ayşin Turan ve Feyyaz Şerifoğlu’nun yer aldığı dizi, yayın hayatına hızlı bir giriş yaptı. Renkli dü",
+      "title": "Temmuz kira zam oranı ne kadar olacak?",
+      "summary": "Temmuz ayına yaklaşılırken kiracılar ve ev sahipleri için kritik süreç başlıyor. Her ay yeniden belirlenen kira artış oranı, milyonlarca kişinin bütçesini doğrudan etkilerken gözler açıklanacak resmi verilere çevrildi. Özellikle son dönemde",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/muhtemel-ask-konusu-show-tv-nin-yeni-dizisi-muhtemel-ask-konusu-nedir-oyunculari-kimler-yeni-bolum-ne-zaman-muhtemel-ask-2-bolumde-neler-oldu-3894339",
-      "publishedAt": "Fri, 26 Jun 2026 08:37:52 GMT"
+      "link": "https://www.haberturk.com/temmuz-kira-zammi-2026-temmuz-ayi-kira-artis-orani-ne-kadar-olacak-kira-artis-orani-nasil-hesaplanir-3894298",
+      "publishedAt": "Fri, 26 Jun 2026 07:01:54 GMT"
     },
     {
-      "title": "Zamlı dul ve yetim aylığı ne kadar olacak?",
-      "summary": "Temmuz ayında açıklanacak haziran ayı enflasyon verisi öncesinde dul ve yetim maaşı alan kişi zam araştırmalarına başladı. İlk 5 aylık enflasyon verisinin netleşmesiyle birlikte yeni maaş hesaplamaları gündeme gelirken, gözler Türkiye İstat",
+      "title": "Haziran ayı enflasyonu ne zaman açıklanacak?",
+      "summary": "Türkiye ekonomisinin nabzını tutan kritik veri için geri sayım başladı. Haziran ayına ilişkin enflasyon rakamları öncesinde gözler resmi açıklamaya çevrilirken, piyasalar ve vatandaşlar açıklanacak verilerin etkisini şimdiden tartışmaya baş",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dul-ve-yetim-maasi-temmuz-hesaplamasi-zamli-dul-ve-yetim-ayligi-ne-kadar-olacak-3894337",
-      "publishedAt": "Fri, 26 Jun 2026 08:22:49 GMT"
+      "link": "https://www.haberturk.com/tuik-haziran-enflasyon-verileri-haziran-ayi-enflasyonu-ne-zaman-aciklanacak-tuik-enflasyon-verileri-3894289",
+      "publishedAt": "Fri, 26 Jun 2026 06:37:22 GMT"
     },
     {
-      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "title": "US strikes Iran after attack on cargo ship",
       "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
       "source": "BBC World",
       "lang": "en",
@@ -148,12 +148,12 @@
       "publishedAt": "Sat, 27 Jun 2026 02:48:12 GMT"
     },
     {
-      "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-      "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
+      "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 21:15:37 GMT"
+      "publishedAt": "Sat, 27 Jun 2026 04:09:24 GMT"
     },
     {
       "title": "Mother dies saving daughter in Venezuela earthquakes",
@@ -188,52 +188,60 @@
       "publishedAt": "Sat, 27 Jun 2026 00:31:42 GMT"
     },
     {
-      "title": "Cape Verde qualify for World Cup Round of 32, set up date with Argentina",
-      "summary": "Cape Verde's third draw gives them a second-place finish in Group H and pits them against the world champions in the knockouts.",
+      "title": "Which teams have qualified for the World Cup 2026 knockouts, round of 32?",
+      "summary": "The 2026 FIFA World Cup knockout stage format, criteria and rules for qualification. Find out who's in and who's out.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/cape-verde-qualify-for-world-cup-round-of-32-set-up-date-with-argentina?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 02:28:37 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/27/which-teams-have-qualified-for-the-world-cup-2026-knockouts-round-of-32?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 06:00:22 +0000"
     },
     {
-      "title": "Newly released video exposes Henry Nowak killer’s lies",
-      "summary": "Newly released footage has exposed the series of lies that led UK police to arrest a dying stabbing victim.",
+      "title": "Which teams are in the World Cup round of 32, and what’s the schedule?",
+      "summary": "Cape Verde's stunning debut headlines the team list for the World Cup knockouts, which begin on Sunday in Los Angeles.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/newly-released-video-exposes-henry-nowak-killers-lies?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 02:23:36 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/27/which-teams-are-in-the-world-cup-round-of-32-and-whats-the-schedule?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 05:56:01 +0000"
     },
     {
-      "title": "Trump justifies strikes on Iran amid ceasefire",
-      "summary": "The US has struck Iran in retaliation for what it says was an Iranian attack on a ship in the Strait of Hormuz.",
+      "title": "Iran wait on World Cup progress after late goal disallowed in Egypt draw",
+      "summary": "Egypt finish second with five points in Group G, while Iran finish third with three points.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 00:16:58 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/27/iran-wait-on-world-cup-progress-after-late-goal-disallowed-in-egypt-draw?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 05:46:41 +0000"
     },
     {
-      "title": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
-      "summary": "Iran's IRGC says it targeted US military in region after Trump administration launched attack on the country.",
+      "title": "Fishermen capture the moment earthquake hits Venezuelan coast",
+      "summary": "Fishermen have captured the moment twin earthquakes hit Venezuela’s La Guaira coastline on Wednesday.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 00:00:04 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/fishermen-capture-the-moment-earthquake-hits-venezuelan-coast?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 05:41:06 +0000"
     },
     {
-      "title": "Paris Diamond League to go ahead with safety measures amid heatwave",
-      "summary": "Only competitions involving professional athletes will be held, with all other activities cancelled.",
+      "title": "Cape Verde becomes tiniest nation to make World Cup knockouts",
+      "summary": "Cape Verde erupted in celebration after the national team qualified for the World Cup knockout stage and made history.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/26/paris-diamond-league-to-go-ahead-with-safety-measures-amid-heatwave?traffic_source=rss",
-      "publishedAt": "Fri, 26 Jun 2026 23:49:37 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/cape-verde-becomes-tiniest-nation-to-make-world-cup-knockouts?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 04:59:41 +0000"
     },
     {
-      "title": "US judge holds prosecutor in contempt in Charlie Kirk murder case",
-      "summary": "Judge says comments to the media by prosecutors about defendant violate rules of what can be said outside of court.",
+      "title": "US strikes on Iran test fragile ceasefire",
+      "summary": "The US has struck Iran for the first time since the two sides reached a Memorandum of Understanding on June 17.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/26/us-judge-holds-prosecutor-in-contempt-in-charlie-kirk-murder-case?traffic_source=rss",
-      "publishedAt": "Fri, 26 Jun 2026 23:14:22 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 04:13:53 +0000"
+    },
+    {
+      "title": "U.S. strikes Iran in response to a drone attack on a ship",
+      "summary": "The U.S. struck Iran on Friday in response to a drone attack a day earlier on a cargo ship in the Strait of Hormuz. It's the most significant test yet to an interim understanding reached a week ago by the two countries.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
+      "publishedAt": "Sat, 27 Jun 2026 00:12:23 -0400"
     },
     {
       "title": "Pete Buttigieg and his kids subject to CPS, police investigation after false report",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/06/26/nx-s1-5871369/new-york-ice-instagram-immigration-dhs-paigelynne-gonyea",
       "publishedAt": "Fri, 26 Jun 2026 16:21:35 -0400"
-    },
-    {
-      "title": "U.S. pledges generous earthquake relief to Venezuela",
-      "summary": "Secretary of State Marco Rubio promised: \"We have a whole-of-government response. It'll be big; it'll be fast; and it'll be effective.\"",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5870652/venezuela-earthquake-usaid-u-s-aid",
-      "publishedAt": "Fri, 26 Jun 2026 13:42:40 -0400"
     },
     {
       "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
@@ -330,14 +330,18 @@
       "league": "World Cup",
       "home": "Egypt",
       "away": "Iran",
-      "status": "upcoming",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
       "date": "2026-06-27"
     },
     {
       "league": "World Cup",
       "home": "New Zealand",
       "away": "Belgium",
-      "status": "upcoming",
+      "homeScore": 1,
+      "awayScore": 5,
+      "status": "FT",
       "date": "2026-06-27"
     },
     {
@@ -371,17 +375,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 22,
+      "tempC": 26,
       "description": "mainly clear",
-      "high": 31,
+      "high": 30,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 24,
-      "description": "overcast",
+      "tempC": 22,
+      "description": "mainly clear",
       "high": 34,
-      "low": 23
+      "low": 22
     }
   ],
   "facts": [
