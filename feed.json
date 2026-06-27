@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T13:27:07.538Z",
+  "updated": "2026-06-27T16:03:04.174Z",
   "news": [
     {
       "title": "DEM Parti'nin çerçeve yasa beklentisi: İtirazlar ve talepler neler?",
@@ -8,6 +8,14 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c30yj77grqjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 27 Jun 2026 10:12:16 GMT"
+    },
+    {
+      "title": "İsrail, yeni imzalanan çerçeve anlaşması uyarınca Lübnan'daki iki bölgeden çekilecek",
+      "summary": "İsrail ve Lübnan, ABD arabuluculuğunda birkaç gün süren müzakerelerin ardından 26 Haziran'da Washington'da bir çerçeve anlaşması imzaladı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cjdgr1v0g0mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 14:45:25 GMT"
     },
     {
       "title": "ABD, bir yük gemisine saldırının ardından İran'ı vurdu",
@@ -26,14 +34,6 @@
       "publishedAt": "Sat, 27 Jun 2026 12:52:02 GMT"
     },
     {
-      "title": "Hayallerimiz, öfkelerimiz ve Kadir İnanır",
-      "summary": "Kadir İnanır 58 yıllık kariyerine 182 film, 12 dizi sığdırdı. Yeşilçam'ın en üretken ama Türkiye'nin en sancılı dönemlerinde kamera karşısındaydı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c5yezked38yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 17:35:23 GMT"
-    },
-    {
       "title": "'Sperm kardeşleri': Aynı sperm bağışçısından doğduklarını 20'lerinde fark ettiler",
       "summary": "Natasha, Gemma ve Helen birbirlerini bulmanın \"bir peri masalı\" gibi olduğunu söylüyor.",
       "source": "BBC Türkçe",
@@ -50,6 +50,34 @@
       "publishedAt": "Sat, 27 Jun 2026 09:28:33 GMT"
     },
     {
+      "title": "Beyoğlu'nda sokağa patlayıcı bırakıldı. Bina, araç ve iş yerlerinde hasar oluştu",
+      "summary": "Beyoğlu’nda motosikletle gelen kasklı iki kişi tarafından sokaktaki kaldırımın üzerine çivi ve bilyelerle güçlendirilmiş patlayıcı bırakıldı. Patlamada ölen ya da yaralanan olmazken çevredeki binaların giriş kapılarında ve araçlarda hasar o",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-27T18:12:07+03:00"
+    },
+    {
+      "title": "Büyükada'da yaz yoğunluğu başladı. \"İğne atsan yere düşmez\"",
+      "summary": "Havaların ısınmasıyla birlikte hafta sonunda Büyükada’da ziyaretçi yoğunluğu yaşandı. Adalara gelen vatandaşlar, güzel havayı yürüyüş yaparak, bisiklet sürerek ve sahilde vakit geçirerek değerlendirdi. Gelen ziyaretçiler durumu \"İğne atsan ",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-27T18:04:59+03:00"
+    },
+    {
+      "title": "Göç İdaresi Başkanlığı Türkiye'deki Suriyeli sayısını açıkladı",
+      "summary": "Göç İdaresi Başkanlığı, Zafer Partisi Genel Başkanı Ümit Özdağ’ın Türkiye’deki Suriyelilere yönelik açıklamalarının asılsız olduğunu belirterek, \"Geçici koruma statüsü altındaki Suriyeli sayısı 2 milyon 255 bin 31'dir\" açıklamasında bulundu",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-27T17:55:39+03:00"
+    },
+    {
+      "title": "Ömer Çelik: Terörsüz Türkiye sürecinde yeni aşamaya geçtik",
+      "summary": "AK Parti Sözcüsü Ömer Çelik, AK Parti 33. İstişare ve Değerlendirme Toplantısı nedeniyle Sakarya'da açıklamalarda bulundu. Terörsüz Türkiye sürecinde yeni aşamaya geçildiğini belirten Çelik, \"Herkes sürece pozitif katkı vermeli\" dedi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-27T18:40:08+03:00"
+    },
+    {
       "title": "ABP Genel Başkanı'nın iddiası: \"CHP'den 86 vekil bize katılacak\"",
       "summary": "Anadolu Birliği Partisi Genel Başkanı Bedri Yalçın, mutlak butlan kararı sonrası CHP Grup Başkanı Özgür Özel ve ekibiyle görüşmeler yürüttüğünü, 86 vekilin ABP'ye katılacağını ileri sürdü.",
       "source": "NTV",
@@ -62,34 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-06-27T14:49:46+03:00"
-    },
-    {
-      "title": "Emine Erdoğan: Yeni yol haritası hizmet yolculuğunu güçlendirecek",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, AK Parti 33'üncü İstişare ve Değerlendirme Toplantısı'nın ülke geleceğine katkı sunmasını temenni ettiğini söyledi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-27T14:52:17+03:00"
-    },
-    {
-      "title": "Gülistan Doku dosyasının kilit ismi, ABD'de hakim karşısına çıktı",
-      "summary": "ABD'de firari durumda bulunan Umut Altaş ABD'de hakim karşısına çıktı. Gülistan Doku soruşturmasında kritik bir yere sahip olan Altaş, Mustafa Türkay Sonel'in cinayeti kendisine itiraf ettiğini ileri sürüyordu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-27T14:02:06+03:00"
-    },
-    {
-      "title": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 27 Haziran 2026",
-      "summary": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 27 Haziran 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-27T13:50:00+03:00"
-    },
-    {
-      "title": "DHMİ'den yeni hamle. İHA'ları yapay zeka takip edecek",
-      "summary": "Bakan Uraloğlu, DHMİ'nin havacılıktaki yapay zeka hamlesini açıkladı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-27T13:25:22+03:00"
     },
     {
       "title": "Resmi Gazete yayımlandı",
@@ -140,14 +140,6 @@
       "publishedAt": "Fri, 26 Jun 2026 21:17:47 GMT"
     },
     {
-      "title": "US strikes Iran after attack on cargo ship",
-      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 10:40:38 GMT"
-    },
-    {
       "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
       "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
       "source": "BBC World",
@@ -156,12 +148,20 @@
       "publishedAt": "Sat, 27 Jun 2026 08:56:30 GMT"
     },
     {
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+      "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 26 Jun 2026 18:36:32 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 14:22:37 GMT"
+    },
+    {
+      "title": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 10:40:38 GMT"
     },
     {
       "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
@@ -188,52 +188,60 @@
       "publishedAt": "Sat, 27 Jun 2026 00:31:42 GMT"
     },
     {
-      "title": "Three killed as Ukraine and Russia trade attacks overnight",
-      "summary": "Moscow's attacks are reported to have killed two, while Kyiv's attacks on Russia killed one.",
+      "title": "With water cuts looming in Arizona in US, locals fight data centres",
+      "summary": "Arizona residents have campaigned against state’s data centres as they seek a share of the shrinking water supply.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 11:58:54 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/6/27/with-water-cuts-looming-in-arizona-in-us-locals-fight-data-centres?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 15:11:37 +0000"
     },
     {
-      "title": "Childhood interrupted: Family awaits justice 8 years after baby was raped",
-      "summary": "A Delhi family is trapped between a stalled legal system, fraught family ties, and the struggle to protect their child.",
+      "title": "Sabalenka defends Wimbledon prize protest, says it’s for struggling players",
+      "summary": "The world number one is in a group of players seeking a greater prize return at Grand Slams.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/longform/2026/6/27/childhood-interrupted-family-awaits-justice-8-years-after-baby-was-raped?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 11:36:58 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/27/sabalenka-defends-wimbledon-protest-says-its-for-struggling-players?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 15:05:58 +0000"
     },
     {
-      "title": "Exclusive: Infiltrating Myanmar’s scam syndicates",
-      "summary": "101 East goes undercover to expose the playbook of Myanmar’s notorious scam industry.",
+      "title": "Bodycam shows driver offering armed police a lift mid-chase",
+      "summary": "Bodycam video showing a van driver offering an armed officer a lift to catch a fleeing suspect has gone viral in the UK.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/101-east/2026/6/27/exclusive-infiltrating-myanmars-scam-syndicates?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 11:30:00 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/bodycam-shows-driver-offering-armed-police-a-lift-mid-chase?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 14:40:11 +0000"
     },
     {
-      "title": "No school, living in a tent, but it’s exam time in Gaza",
-      "summary": "Dana Shabat, 18, has to walk an hour every day to go to a cafe to take her high school exams in the Gaza Strip.",
+      "title": "Toxic Bielsa leaves ‘nothing good’ behind as Uruguay suffer World Cup shock",
+      "summary": "Uruguay's outgoing Argentinian coach Marcelo Bielsa has previously described himself as a 'toxic perfectionist'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/6/27/no-school-living-in-a-tent-but-its-exam-time-in-gaza-generate?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 11:29:30 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/27/toxic-bielsa-leaves-nothing-good-behind-in-uruguay-shock-world-cup-exit?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 14:38:59 +0000"
     },
     {
-      "title": "Ronaldo, Portugal play Colombia in World Cup: Prediction, kickoff, schedule",
-      "summary": "Cristiano Ronaldo's Portugal and Luis Diaz's Colombia clash in Miami, with both sides vying for the top spot in Group K.",
+      "title": "Cape Verde break record as smallest nation to reach World Cup knockouts",
+      "summary": "Cape Verde set sights on Lionel Messi's Argentina in last 32 as dream run continues at 2026 edition of FIFA's showpiece.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/colombia-portugal-fifa-world-cup-2026-schedule-ronaldo-prediction?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 11:13:32 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/6/27/cape-verde-break-record-as-smallest-nation-to-reach-world-cup-knockouts?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 14:07:12 +0000"
     },
     {
-      "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
-      "summary": "Israel's Prime Minister Benjamin Netanyahu faces mounting political, legal and US pressure ahead of crucial elections.",
+      "title": "Israel-Lebanon deal ties ceasefire to Hezbollah disarmament: Will it work?",
+      "summary": "Hezbollah chief calls the deal 'null and void', raising questions if the latest agreement can lead to peace in Lebanon.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 10:35:08 +0000"
+      "link": "https://www.aljazeera.com/features/2026/6/27/israel-lebanon-deal-ties-ceasefire-to-hezbollah-disarmament-will-it-work?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 13:54:14 +0000"
+    },
+    {
+      "title": "Uzbekistan makes its World Cup debut, a first for Central Asia",
+      "summary": "The country is the first Central Asian nation to qualify for the World Cup, and Uzbek fans have reveled in showcasing their country and culture. The country's president calls the team a symbol of the \"new Uzbekistan.\"",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup",
+      "publishedAt": "Sat, 27 Jun 2026 09:45:19 -0400"
     },
     {
       "title": "Opinion: Ranch dressing is a winner at the World Cup games",
@@ -244,20 +252,20 @@
       "publishedAt": "Sat, 27 Jun 2026 08:00:00 -0400"
     },
     {
+      "title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
+      "summary": "The U.S. government is asserting a new level of influence over AI, controlling which companies can access Anthropic's new models. OpenAI agreed to let the administration screen users of its new model.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
+      "publishedAt": "Sat, 27 Jun 2026 07:40:32 -0400"
+    },
+    {
       "title": "If a Lyme disease vaccine gets approved, how would it go over? We asked hunters",
       "summary": "Drugmakers are working on a potential new shot to prevent the tick-borne illness. How might it fare in the era of vaccine skepticism?",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/06/27/nx-s1-5859907/lyme-disease-vaccine-hesitancy-rural-hunters",
       "publishedAt": "Sat, 27 Jun 2026 06:30:00 -0400"
-    },
-    {
-      "title": "As Supreme Court expands Trump's immigration power, experts warn of steeper U.S. population decline",
-      "summary": "The U.S. population was already aging and tilting toward decline. After the Supreme Court confirmed Trump's power to deport hundreds of thousands of foreign migrants, population decline could accelerate.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5871338/tps-population-scotus-immigration-trump",
-      "publishedAt": "Sat, 27 Jun 2026 06:00:00 -0400"
     },
     {
       "title": "How coach Mauricio Pochettino made believers out of the U.S. World Cup team",
@@ -268,20 +276,12 @@
       "publishedAt": "Sat, 27 Jun 2026 06:00:00 -0400"
     },
     {
-      "title": "Inside a secretive Ukrainian team launching deep drone strikes at Russia",
-      "summary": "Ukraine's long-range drones are striking deep inside Russia, up to 1,200 miles away, hitting oil refineries and depots. NPR recently spent time with one of the Ukrainian strike teams launching drones at Russian targets.",
+      "title": "As Supreme Court expands Trump's immigration power, experts warn of steeper U.S. population decline",
+      "summary": "The U.S. population was already aging and tilting toward decline. After the Supreme Court confirmed Trump's power to deport hundreds of thousands of foreign migrants, population decline could accelerate.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/06/27/g-s1-129704/ukraine-long-range-drones-russia-war",
-      "publishedAt": "Sat, 27 Jun 2026 05:02:00 -0400"
-    },
-    {
-      "title": "4 ways to get creative with your leftovers (and save money on food)",
-      "summary": "Don't let your leftovers go to waste. Cookbook authors share clever storage techniques — like an \"Eat Me First\" box in your fridge — and cooking tricks to help you make the most of your food scraps.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5786564/4-ways-get-creative-with-your-leftovers-save-money-on-food",
-      "publishedAt": "Sat, 27 Jun 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5871338/tps-population-scotus-immigration-trump",
+      "publishedAt": "Sat, 27 Jun 2026 06:00:00 -0400"
     },
     {
       "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
@@ -375,16 +375,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 29,
+      "tempC": 26,
       "description": "mainly clear",
       "high": 30,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 32,
+      "tempC": 31,
       "description": "overcast",
-      "high": 32,
+      "high": 33,
       "low": 22
     }
   ],
