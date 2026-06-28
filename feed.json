@@ -1,6 +1,14 @@
 {
-  "updated": "2026-06-28T08:47:58.774Z",
+  "updated": "2026-06-28T11:05:07.443Z",
   "news": [
+    {
+      "title": "ABD'nin saldırılarına karşılık olarak İran Bahreyn ve Kuveyt'i vurdu",
+      "summary": "ABD'nin İran'a yönelik saldırıları iki gündür devam ederken, Bahreyn ve Kuveyt İran'ın füze ve insansız hava aracı saldırılarının hedefi olduklarını açıkladı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cd0mk28d8vyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 28 Jun 2026 08:50:21 GMT"
+    },
     {
       "title": "DEM Parti'nin çerçeve yasa beklentisi: İtirazlar ve talepler neler?",
       "summary": "İktidarın \"Terörsüz Türkiye\" olarak adlandırdığı yeni çözüm sürecinin hukuki altyapısının ilk adımı olacak çerçeve yasaya ilişkin tartışmalar sürüyor. DEM Partililerle görüşen Ayşe Sayın Ankara'dan bildiriyor.",
@@ -10,12 +18,12 @@
       "publishedAt": "Sat, 27 Jun 2026 10:12:16 GMT"
     },
     {
-      "title": "İngiltere'de başbakanlar neden sürekli değişiyor?",
-      "summary": "Keir Starmer, son 10 yılda görevden ayrılan altıncı İngiltere başbakanı oldu. BBC'den Rob Watson, bu istikrarsızlığın ardındaki nedenleri inceliyor.",
+      "title": "Kadir İnanır son yolculuğuna uğurlanıyor",
+      "summary": "Hayatını kaybeden Türk sinemasının usta ismi Kadir İnanır için Harbiye Muhsin Ertuğrul Sahnesi'nde tören düzenleniyor. 77 yaşındaki yıldız oyuncu 14 Mayıs'ta zatürre rahatsızlığı nedeniyle hastaneye kaldırılmış, kısa bir süre sonra da akciğ",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cvgdr1qjypgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 09:28:33 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c39y7g10pexo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 28 Jun 2026 10:30:10 GMT"
     },
     {
       "title": "Macaristan'ın teşvik kampanyası nüfus artırma politikaları hakkında bize ne anlatıyor?",
@@ -34,20 +42,40 @@
       "publishedAt": "Sun, 28 Jun 2026 07:29:05 GMT"
     },
     {
-      "title": "'Sperm kardeşleri': Aynı sperm bağışçısından doğduklarını 20'lerinde fark ettiler",
-      "summary": "Natasha, Gemma ve Helen birbirlerini bulmanın \"bir peri masalı\" gibi olduğunu söylüyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cgqjn4yx0d7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 07:51:35 GMT"
-    },
-    {
-      "title": "İsrail, yeni imzalanan çerçeve anlaşması uyarınca Lübnan'daki iki bölgeden çekilecek",
-      "summary": "İsrail ve Lübnan, ABD arabuluculuğunda birkaç gün süren müzakerelerin ardından 26 Haziran'da Washington'da bir çerçeve anlaşması imzaladı.",
+      "title": "Hizbullah yeni anlaşmayı reddetti, İsrail Lübnan'ın güneyini vurdu",
+      "summary": "İsrail ve Lübnan arasında imzalanan çerçeve anlaşmasından bir gün sonra, Lübnan Sağlık Bakanlığı İsrail'in düzenlediği hava saldırılarında bir kişinin hayatını kaybettiğini açıkladı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cjdgr1v0g0mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 14:45:25 GMT"
+      "publishedAt": "Sun, 28 Jun 2026 10:15:00 GMT"
+    },
+    {
+      "title": "İstanbul Boğazı'ndaki Atatürk silüeti görenleri duygulandırdı",
+      "summary": "100. Gazi Koşusu kutlamaları kapsamında İstanbul semalarında drone gösterisi gerçekleştirildi. Çırağan Palace Kempinski üzerinde gerçekleştirilen gösteride, 2 binin üzerinde drone senkronize hareket ederek Gazi Mustafa Kemal Atatürk’ün silü",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-28T13:29:17+03:00"
+    },
+    {
+      "title": "Soner Arıca dayısı Kadir İnanır'ı anlatırken duygusal anlar yaşadı",
+      "summary": "Kadir İnanır'ın yeğeni ve İnanır'dan çok kısa bir süre önce de annesini kaybeden şarkıcı Soner Arıca, “Başımız sağ olsun. Çok şaşkın ve üzgünüm. Tabii ki ölüm hiç kimseye yakışmıyor ama ben bir gün bu sebepten böyle yerde olacağımı asla hay",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-28T12:40:33+03:00"
+    },
+    {
+      "title": "29 ilde siber suçlarla mücadele operasyonu: 213 tutuklama",
+      "summary": "Siber suçlara yönelik 29 ilde son 6 günde düzenlenen operasyonlarda gözaltına alınan 409 şüpheliden 213'ü tutuklandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-28T12:28:58+03:00"
+    },
+    {
+      "title": "Terörsüz Türkiye sürecinde gözler yasal düzenlemede. Kısmi ya da genel af olacak mı?",
+      "summary": "Terörsüz Türkiye sürecinde, yasal düzenlemenin kısa süre içerisinde Meclis gündemine gelmesi bekleniyor. Düzenlemeye ilişkin bazı ipuçları var. Çerçeve yasada, kısmi ya da genel af olmayacak. Düzenlemenin yürürlüğe girmesi ise, silah şartın",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-28T12:02:58+03:00"
     },
     {
       "title": "Otomobil alev alev yandı. Sürücü o anları anlattı: Ailemi bir buçuk dakika arayla kurtardım",
@@ -64,80 +92,52 @@
       "publishedAt": "2026-06-28T10:09:25+03:00"
     },
     {
-      "title": "Antalya denizinde korku dolu anlar. Dalış yaparken köpek balığıyla burun buruna geldi",
-      "summary": "Antalya'da bir kişi dalış yaparken burun buruna geldiği köpek balığını, zıpkınla korkutmaya çalıştı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-28T09:59:21+03:00"
-    },
-    {
-      "title": "Türkiye kavrulacak, sıcaklıklar rekor kıracak. Güneşin altında 50 dereceye dikkat!",
-      "summary": "Türkiye'de yeni haftada aşırı sıcak hava dalgası etkili olacak. Yarın 31 derece olan İstanbul'daki sıcaklık Salı günü tavan yapacak. Bazı yerlerdeyse sıcaklık 50 dereceye kadar yükselecek.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-28T09:02:46+03:00"
-    },
-    {
-      "title": "Ankara'da NATO zirvesi öncesi \"Turkuaz\" operasyonu: 58 tutuklama",
-      "summary": "Ankara'da NATO zirvesi öncesi düzenlenen \"Turkuaz\" operasyonları kapsamında gözaltına alınan 58 şüpheli tutuklandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-28T08:59:15+03:00"
-    },
-    {
-      "title": "Merak konusu oldu; Osmaniye'de gökyüzünde gizemli ışık",
-      "summary": "Osmaniye'nin Kadirli ilçesinde gece saatlerinde gökyüzünde görülen ve ne olduğu henüz belirlenemeyen parlak cisim, vatandaşların dikkatini çekti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-28T08:44:25+03:00"
-    },
-    {
-      "title": "Resmi Gazete yayımlandı",
-      "summary": "27 Haziran 2026 tarihli Resmi Gazete yayımlandı. Bugünkü sayıda Türkiye ile Suudi Arabistan arasında yenilenebilir enerji santrali projelerine ilişkin hükümetlerarası anlaşmanın onaylanmasını uygun bulan kanun yürürlüğe girerken, Kuzey Kıbr",
+      "title": "LGS sonuçları ne zaman açıklanacak?",
+      "summary": "LGS sonuçlarının açıklanıp açıklanmadığı ve hangi tarihte erişime açılacağı, sınava giren binlerce öğrenci ve veli tarafından yakından takip ediliyor. Sınavın ardından başlayan bu bekleyiş sürecinde, Milli Eğitim Bakanlığı’nın duyurduğu tak",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/resmi-gazete-yayimlandi-27-haziran-2026-resmi-gazete-de-hangi-kararlar-alindi-3894499",
-      "publishedAt": "Fri, 26 Jun 2026 22:51:37 GMT"
+      "link": "https://www.haberturk.com/meb-lgs-sonuclari-2026-lgs-sonuclari-aciklandi-mi-ayin-kacinda-ne-zaman-aciklanacak-lgs-tercihleri-ne-zaman-baslayacak-3894671",
+      "publishedAt": "Sun, 28 Jun 2026 07:49:11 GMT"
     },
     {
-      "title": "BEDAŞ elektrik kesinti programı",
-      "summary": "Boğaziçi Elektrik Dağıtım AŞ (BEDAŞ), 27 Haziran 2026 Cumartesi günü uygulanacak planlı elektrik kesinti programını duyurdu. İstanbul'un Avrupa Yakası'nda bakım, onarım ve yatırım çalışmaları nedeniyle bazı ilçe ve mahallelerde belirli saat",
+      "title": "Temmuz memur maaş zam oranı yüzde kaç olacak?",
+      "summary": "Memur ve memur emeklilerinin Temmuz 2026 maaş artışı, enflasyon verileri ve toplu sözleşme hükümleri doğrultusunda netleşiyor. TÜİK tarafından açıklanan ilk altı aylık enflasyon oranı ile birlikte oluşan fark, mevcut sözleşme zammına eklene",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bedas-elektrik-kesinti-programini-duyurdu-27-haziran-2026-istanbul-da-elektrikler-ne-zaman-gelecek-saat-kacta-kesilecek-3894492",
-      "publishedAt": "Fri, 26 Jun 2026 21:15:39 GMT"
+      "link": "https://www.haberturk.com/temmuz-2026-memur-maas-zam-oranlari-memur-ve-memur-emeklisi-temmuz-2026-maas-zam-orani-yuzde-kac-olacak-haziran-enflasyon-beklentisi-3894663",
+      "publishedAt": "Sun, 28 Jun 2026 07:24:08 GMT"
     },
     {
-      "title": "Asgari ücrete ara zam gelecek mi?",
-      "summary": "Temmuz ayının yaklaşmasıyla birlikte asgari ücrete ara zam gelir mi, sorusu gündemdeki yerini aldı. Çalışanlar ve işverenler gözünü hükümetten gelecek açıklamalara çevirdi. Asgari ücretin yeniden belirlenmesi halinde süreç Asgari Ücret Tesp",
+      "title": "Son dakika depremler",
+      "summary": "AFAD ve Kandilli Rasathanesi’nin 28 Haziran Pazar gününe ait son deprem verileri yakından takip ediliyor. Gün içinde meydana gelen sarsıntıların detayları, saat ve büyüklük bilgileriyle birlikte merak konusu olurken, “Az önce deprem mi oldu",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/asgari-ucret-ara-zam-son-dakika-asgari-ucrete-ara-zam-gelecek-mi-2026-temmuz-asgari-ucret-tespit-komisyonu-toplanacak-mi-ek-zam-yapilacak-mi-3894468",
-      "publishedAt": "Fri, 26 Jun 2026 21:24:19 GMT"
+      "link": "https://www.haberturk.com/son-dakika-depremler-28-haziran-bugun-deprem-mi-oldu-nerede-ne-zaman-kac-siddetinde-28-haziran-pazar-2026-afad-ve-kandilli-deprem-listesi-3894656",
+      "publishedAt": "Sun, 28 Jun 2026 06:51:19 GMT"
     },
     {
-      "title": "Emekli promosyon kampanyaları yenilendi",
-      "summary": "Emekli promosyon kampanyaları 2026 yılında da milyonlarca emeklinin gündemindeki yerini koruyor. Bankalar yeni müşteri kazanmak için promosyon tutarlarını güncellerken, ek ödül ve avantajlarla rekabeti artırıyor. Ziraat Bankası, VakıfBank, ",
+      "title": "Dünün reyting sonuçları açıklandı!",
+      "summary": "Dün akşam televizyon kanallarında birbirinden farklı yapımlar izleyicilerle buluştu. TRT 1’de 2026 Dünya Kupası kapsamında oynanan Mısır - İran ile Panama - İngiltere grup maçları futbolseverleri ekran başına kilitlerken, TV8’de MasterChef ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/emekli-promosyonu-son-dakika-2026-emekli-banka-promosyonu-ne-kadar-is-bankasi-yapi-kredi-garanti-ve-ziraat-bankasi-en-yuksek-promosyon-veren-bankalar-3894466",
-      "publishedAt": "Sat, 27 Jun 2026 07:25:55 GMT"
+      "link": "https://www.haberturk.com/dunun-reyting-sonuclari-aciklandi-mi-27-haziran-2026-cumartesi-abc-ab-ve-total-siralamasi-ile-reyting-birincisi-hangi-yapim-oldu-3894653",
+      "publishedAt": "Sun, 28 Jun 2026 07:57:07 GMT"
     },
     {
-      "title": "Kadir İnanır'ın hayatı ve filmleri",
-      "summary": "Türk sinemasının efsane isimlerinden Kadir İnanır'dan sevenlerini yasa boğan haber geldi. 14 Mayıs'ta rahatsızlanarak hastaneye kaldırılan, yoğun bakımda tedavi gören ve entübe edilen usta oyuncu, doktorların tüm müdahalelerine rağmen 77 ya",
+      "title": "Güncel altın fiyatları",
+      "summary": "Altın piyasasındaki dalgalı hareketler, yatırım yapmak isteyen vatandaşların karar sürecini zorlaştırmaya devam ediyor. Son günlerde sert iniş ve çıkışlar yaşayan gram altın, hafta içinde 6 bin TL’nin altına geriledikten sonra hafta sonu it",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/kadir-inanir-nereliydi-evli-miydi-cocugu-var-mi-kadir-inanir-in-cenaze-toreni-programi-ne-zaman-nerede-iste-filmografisi-3894454",
-      "publishedAt": "Sat, 27 Jun 2026 07:25:31 GMT"
+      "link": "https://www.haberturk.com/guncel-altin-fiyatlari-28-haziran-2026-hafta-sonu-deger-artisi-gram-altin-ceyrek-altin-tam-altin-ne-kadar-kac-tl-3894651",
+      "publishedAt": "Sun, 28 Jun 2026 06:11:04 GMT"
     },
     {
-      "title": "Altın alış-satış fiyatı",
-      "summary": "Altın fiyatları 27 Haziran 2026 Cumartesi günü yatırımcılar ve alım-satım yapmayı planlayan vatandaşlar tarafından yakından takip ediliyor. Küresel piyasalarda ons altındaki hareketlilik ve döviz kurundaki değişimler yurt içi altın fiyatlar",
+      "title": "Panama - İngiltere maçı saat kaçta?",
+      "summary": "2026 FIFA Dünya Kupası'nda grup aşaması heyecanı Panama ile İngiltere arasında oynanacak mücadeleyle devam ediyor. L Grubu'ndaki kritik karşılaşma öncesinde futbolseverler Panama - İngiltere maçının yayın saati ve canlı yayın bilgilerini ar",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/altin-fiyatlari-canli-takip-27-haziran-2026-bugun-14-22-ayar-bilezik-tam-ceyrek-altin-ve-gram-altin-fiyati-ne-kadar-3894279",
-      "publishedAt": "Fri, 26 Jun 2026 21:17:47 GMT"
+      "link": "https://www.haberturk.com/canli-trt-1-izle-panama-ingiltere-maci-ne-zaman-saat-kacta-hangi-kanalda-2026-dunya-kupasi-panama-ingiltere-maci-trt-1-izle-ekrani-3894627",
+      "publishedAt": "Sat, 27 Jun 2026 21:26:45 GMT"
     },
     {
       "title": "Families calling out to loved ones trapped in rubble by Venezuela quakes",
@@ -164,20 +164,20 @@
       "publishedAt": "Sun, 28 Jun 2026 04:54:50 GMT"
     },
     {
-      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-      "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 21:35:40 GMT"
-    },
-    {
       "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
       "summary": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 27 Jun 2026 23:10:39 GMT"
+    },
+    {
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 21:35:40 GMT"
     },
     {
       "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
@@ -188,6 +188,46 @@
       "publishedAt": "Sat, 27 Jun 2026 20:48:16 GMT"
     },
     {
+      "title": "‘US trying to find its way out of MoU with Iran’",
+      "summary": "Bahrain and Kuwait have condemned Iran’s retaliatory attacks after a second day of US strikes on Iran.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss",
+      "publishedAt": "Sun, 28 Jun 2026 10:30:45 +0000"
+    },
+    {
+      "title": "Iraq security forces arrest several officials in anticorruption crackdown",
+      "summary": "Large-scale operation carried out at dawn in Green Zone and several neighbourhoods in Baghdad, security source says.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss",
+      "publishedAt": "Sun, 28 Jun 2026 10:05:16 +0000"
+    },
+    {
+      "title": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit",
+      "summary": "Knockout matches begin with South Africa vs Canada as Iran exit, Africa make history, Messi-Ronaldo final hopes rise.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/fifa-world-cup-2026-sunday-schedule-round-of-32-fixtures-predictions?traffic_source=rss",
+      "publishedAt": "Sun, 28 Jun 2026 09:33:43 +0000"
+    },
+    {
+      "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
+      "summary": "US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss",
+      "publishedAt": "Sun, 28 Jun 2026 08:39:48 +0000"
+    },
+    {
+      "title": "Watch World Cup Day 17: Messi breaks record as Algeria and DR Congo advance",
+      "summary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/2026/6/28/video-world-cup-2026-highlights?traffic_source=rss",
+      "publishedAt": "Sun, 28 Jun 2026 08:30:41 +0000"
+    },
+    {
       "title": "South Africa vs Canada: World Cup 2026 – prediction, team news and lineups",
       "summary": "Neither South Africa nor Canada has reached the knockout rounds of a World Cup before, but now a last-16 place awaits.",
       "source": "Al Jazeera",
@@ -196,44 +236,44 @@
       "publishedAt": "Sun, 28 Jun 2026 08:04:33 +0000"
     },
     {
-      "title": "DR Congo fans celebrate reaching World Cup knockout stage",
-      "summary": "DR Congo fans are celebrating after their team secured a historic place in the World Cup knockout stage.",
-      "source": "Al Jazeera",
+      "title": "These church members disagree on politics. Together they're wiping out medical debt",
+      "summary": "Trinity Moravian Church, a politically diverse congregation in Winston-Salem, N. C., has been raising money to retire medical debt in the surrounding community.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/dr-congo-fans-celebrate-reaching-world-cup-knockout-stage?traffic_source=rss",
-      "publishedAt": "Sun, 28 Jun 2026 07:52:28 +0000"
+      "link": "https://www.npr.org/2026/06/28/nx-s1-5847966/medical-debt-politics-republican-democrat",
+      "publishedAt": "Sun, 28 Jun 2026 07:00:00 -0400"
     },
     {
-      "title": "‘Between pain and fear’: Gaza children bear cost of ongoing Israeli attacks",
-      "summary": "Suffering of Gaza's children continues unabated due to Israeli attacks despite 'ceasefire' reached in October 2025.",
-      "source": "Al Jazeera",
+      "title": "July 4th fireworks in Washington: What's different for America's 250th?",
+      "summary": "This year's fireworks display in Washington, D.C., is scheduled toWhat to know about the massive July 4 firework show for America's 250th",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/6/28/between-pain-and-fear-gaza-children-bear-cost-of-ongoing-israeli-attacks?traffic_source=rss",
-      "publishedAt": "Sun, 28 Jun 2026 07:39:08 +0000"
+      "link": "https://www.npr.org/2026/06/28/nx-s1-5869604/dc-fireworks-trump-250-world-record",
+      "publishedAt": "Sun, 28 Jun 2026 06:00:00 -0400"
     },
     {
-      "title": "Iran bow out of World Cup: Late drama ends Team Melli’s knockout dream",
-      "summary": "Austria's 3-3 draw with Algeria ultimately decides Iran's fate as Team Melli crash out of the 2026 World Cup.",
-      "source": "Al Jazeera",
+      "title": "Food defined social hierarchy in 1776. Here's what was on the table",
+      "summary": "Around the time the United States was founded, Americans' diets included Parmesan ice cream and terrapin. But what you ate depended on your social status.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/late-drama-ends-irans-hopes-of-reaching-world-cup-knockouts-for-first-time?traffic_source=rss",
-      "publishedAt": "Sun, 28 Jun 2026 07:23:46 +0000"
+      "link": "https://www.npr.org/2026/06/28/nx-s1-5843114/250-colonial-america-1776-food-anniversary",
+      "publishedAt": "Sun, 28 Jun 2026 05:00:00 -0400"
     },
     {
-      "title": "Polls open in New Caledonia’s first provincial elections since 2019",
-      "summary": "The New Zealand public broadcaster reports that about 2,500 police officers were deployed to secure and monitor polling stations.",
-      "source": "Al Jazeera",
+      "title": "Will the new student loan limits actually drive down tuition? Economists weigh in",
+      "summary": "The idea that there's a connection between federal student loans and what colleges charge dates back almost four decades. But it's unclear that link can lead to lower costs.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/28/polls-open-in-new-caledonias-first-provincial-elections-since-2019?traffic_source=rss",
-      "publishedAt": "Sun, 28 Jun 2026 07:12:10 +0000"
+      "link": "https://www.npr.org/2026/06/28/nx-s1-5805988/cost-education-student-loan-tuition-graduate-school",
+      "publishedAt": "Sun, 28 Jun 2026 05:00:00 -0400"
     },
     {
-      "title": "In pictures: Race against time to rescue Venezuela earthquake survivors",
-      "summary": "Time is running out in Venezuela's race to locate survivors as experts highlight the crucial 72-hour rescue window.",
-      "source": "Al Jazeera",
+      "title": "\"If you are alive, make any noise\": Venezuela searches rubble on day four",
+      "summary": "In Venezuela, rescue teams are racing against time after twin earthquakes killed more than 1,400 people and left tens of thousands unaccounted for.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/gallery/2026/6/28/in-pictures-race-against-time-to-rescue-venezuela-earthquake-survivors?traffic_source=rss",
-      "publishedAt": "Sun, 28 Jun 2026 06:41:07 +0000"
+      "link": "https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake",
+      "publishedAt": "Sun, 28 Jun 2026 04:50:46 -0400"
     },
     {
       "title": "Onto the knockout round: 4 takeaways from the FIFA World Cup so far",
@@ -242,46 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/06/28/nx-s1-5872241/2026-world-cup-fifa-knockout-round-of-32",
       "publishedAt": "Sun, 28 Jun 2026 03:00:00 -0400"
-    },
-    {
-      "title": "Trump nominates former Oklahoma state trooper to head ICE",
-      "summary": "President Trump nominated Lance Schroyer, a former Oklahoma state trooper, to direct Immigration and Customs Enforcement. The agency hasn't had a Senate-confirmed director since the Obama administration.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5873485/trump-nominates-lance-schroyer-ice-director",
-      "publishedAt": "Sat, 27 Jun 2026 18:01:36 -0400"
-    },
-    {
-      "title": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
-      "summary": "Firefighters working on the nation's largest current wildfire, burning in southern Utah, are being challenged by historic weather conditions. Extreme wildfire behavior is expected to continue through the weekend.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5873445/utah-wildfire-cottonwood-dry-weather",
-      "publishedAt": "Sat, 27 Jun 2026 15:40:06 -0400"
-    },
-    {
-      "title": "Uzbekistan makes its World Cup debut, a first for Central Asia",
-      "summary": "The country is the first Central Asian nation to qualify for the World Cup, and Uzbek fans have reveled in showcasing their country and culture. The country's president calls the team a symbol of the \"new Uzbekistan.\"",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/27/g-s1-129705/uzbekistan-world-cup",
-      "publishedAt": "Sat, 27 Jun 2026 09:45:19 -0400"
-    },
-    {
-      "title": "Opinion: Ranch dressing is a winner at the World Cup games",
-      "summary": "NPR's Scott Simon reflects on the popularity of ranch dressing among international visitors to the U.S. during the World Cup games.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5865082/opinion-ranch-dressing-is-a-winner-at-the-world-cup-games",
-      "publishedAt": "Sat, 27 Jun 2026 08:00:00 -0400"
-    },
-    {
-      "title": "Trump administration partially lifts export ban on Anthropic's most advanced AI model",
-      "summary": "The U.S. government is asserting a new level of influence over AI, controlling which companies can access Anthropic's new models. OpenAI agreed to let the administration screen users of its new model.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5871245/trump-administration-imposes-restrictions-for-anthropic-to-halt-access-to-2-ai-models",
-      "publishedAt": "Sat, 27 Jun 2026 07:40:32 -0400"
     },
     {
       "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
@@ -373,15 +373,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 27,
-      "description": "mainly clear",
+      "tempC": 28,
+      "description": "clear sky",
       "high": 28,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 22,
-      "description": "mainly clear",
+      "tempC": 23,
+      "description": "overcast",
       "high": 25,
       "low": 19
     }
