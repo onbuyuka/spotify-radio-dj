@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:00:48.685Z",
+  "updated": "2026-06-28T03:32:07.075Z",
   "news": [
     {
       "title": "DEM Parti'nin çerçeve yasa beklentisi: İtirazlar ve talepler neler?",
@@ -50,6 +50,27 @@
       "publishedAt": "Sat, 27 Jun 2026 14:45:25 GMT"
     },
     {
+      "title": "Cami avlusunda bıçaklı saldırı. İki kişi hayatını kaybetti",
+      "summary": "Kayseri'de psikolojik rahatsızlığı olduğu ileri sürülen Mehmet A.'nın yatsı namazı öncesi cami avlusunda bıçakladığı iki kişi hayatını kaybetti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-28T02:46:20+03:00"
+    },
+    {
+      "title": "Balkondan düşen kadın hayatını kaybetti",
+      "summary": "Uşak'ta şüpheli şekilde evinin balkonundan beton zemine düşen kadın hayatını kaybetti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-28T02:12:29+03:00"
+    },
+    {
+      "title": "Tamar Tanrıyar hakkında gözaltı kararı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı'nın resen başlattığı soruşturma kapsamında internet ünlüsü Tamar Tanrıyar hakkında gözaltı kararı verildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-06-28T02:25:09+03:00"
+    },
+    {
       "title": "DMD hastası çocuk için toplanan paraları çaldı. Diğer kampanyaları da gözüne kestirmiş",
       "summary": "Çanakkale'de Duchenne Musküler Distrofi (DMD) hastası küçük çocuk için toplanan bağış paralarını alan şüpheli, Bursa'da yakalandı. Şüphelinin evinden başka DMD hastası kampanya afişleri çıktı.",
       "source": "NTV",
@@ -61,7 +82,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 28 Haziran 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-06-28T00:30:00+03:00"
+      "publishedAt": "2026-06-28T06:30:00+03:00"
     },
     {
       "title": "Avcılar Sahili’nde köpeğe şiddet kamerada",
@@ -69,27 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-06-27T22:54:53+03:00"
-    },
-    {
-      "title": "Avcılar Sahili’nde köpeğe şiddet. Şüpheli gözaltına alındı",
-      "summary": "Avcılar Sahili'nde bir kişinin gezdirdiği köpeğe dakikalarca şiddet uyguladığı anlar cep telefonu kamerasına yansıdı. Şüpheliyi yakalamak için çalışma başlatan polis ekipleri, köpeğe şiddet uyguladığı belirlenen H.E.'yi yakalayarak gözaltın",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-27T22:55:19+03:00"
-    },
-    {
-      "title": "Yaşlı adamın öldürülmesinde yeni gelişme. \"Bana cinleri musallat etti\" diyerek vurmuş",
-      "summary": "Şanlıurfa'nın Eyyübiye ilçesinde evinde tabancayla vurularak öldürülen 70 yaşındaki Mehmet Doğan'ın öldürülmesine ilişkin yeni detaylar ortaya çıktı. Gözaltına alınan zanlı, adamı \"cinleri musallat ettiğini\" öne sürerek öldürdüğünü itiraf e",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-27T21:36:53+03:00"
-    },
-    {
-      "title": "Rize'de hortum meydana geldi",
-      "summary": "Meteoroloji Genel Müdürlüğü'nün uyarılarda bulunduğu Rize'de, sağanak yağış kent genelinde sabahın erken saatlerinde etkisini gösterdi. Rüzgarla birlikte etkisini artıran yağış sırasında, Ardeşen ilçesinde kıyıya yakın bir noktada hortum me",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-06-27T21:23:30+03:00"
     },
     {
       "title": "Resmi Gazete yayımlandı",
@@ -140,20 +140,28 @@
       "publishedAt": "Fri, 26 Jun 2026 21:17:47 GMT"
     },
     {
-      "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
-      "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 08:56:30 GMT"
-    },
-    {
       "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
       "summary": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 27 Jun 2026 21:12:51 GMT"
+    },
+    {
+      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+      "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 14:22:37 GMT"
+    },
+    {
+      "title": "US launches strikes on Iran after second shipping attack",
+      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 28 Jun 2026 01:22:03 GMT"
     },
     {
       "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
@@ -164,6 +172,14 @@
       "publishedAt": "Sat, 27 Jun 2026 21:35:40 GMT"
     },
     {
+      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+      "summary": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 27 Jun 2026 23:10:39 GMT"
+    },
+    {
       "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
       "summary": "An estimated 150 million people are now experiencing temperatures of over 35C across Europe.",
       "source": "BBC World",
@@ -172,20 +188,36 @@
       "publishedAt": "Sat, 27 Jun 2026 20:48:16 GMT"
     },
     {
-      "title": "Trump's face is added to select US passports for America's 250th birthday",
-      "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
-      "source": "BBC World",
+      "title": "Colombia top World Cup 2026 group after breathless 0-0 draw with Portugal",
+      "summary": "Colombia book last 32 clash with Ghana, while Portugal will face Croatia in the first knockout stage.",
+      "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 20:03:26 GMT"
+      "link": "https://www.aljazeera.com/sports/2026/6/28/colombia-wins-world-cup-2026-group-after-breathless-0-0-draw-with-portugal?traffic_source=rss",
+      "publishedAt": "Sun, 28 Jun 2026 01:52:39 +0000"
     },
     {
-      "title": "Religion row as Texas makes Bible stories required reading in schools",
-      "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state.",
-      "source": "BBC World",
+      "title": "Anger grows in Venezuela as citizens blocked from aiding earthquake rescue",
+      "summary": "Anger is mounting in Venezuela after the military barred citizens from entering zones devastated by the earthquakes.",
+      "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 27 Jun 2026 00:31:42 GMT"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/anger-grows-in-venezuela-as-citizens-blocked-from-aiding-earthquake-rescue?traffic_source=rss",
+      "publishedAt": "Sun, 28 Jun 2026 00:09:46 +0000"
+    },
+    {
+      "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
+      "summary": "US president threatens to 'militarily complete the job' as the US strikes Sirik and Qeshm Island over ship attacks.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
+      "publishedAt": "Sun, 28 Jun 2026 00:00:00 +0000"
+    },
+    {
+      "title": "US launches second night of strikes on Iran after ship hit by drone",
+      "summary": "The attacks come after an alleged Iranian drone struck another commercial vessel in the Strait of Hormuz on Saturday.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
+      "publishedAt": "Sat, 27 Jun 2026 22:07:03 +0000"
     },
     {
       "title": "Videos show Israeli settlers trying to seize house in occupied West Bank",
@@ -196,7 +228,7 @@
       "publishedAt": "Sat, 27 Jun 2026 21:13:12 +0000"
     },
     {
-      "title": "Donald Trump nominates Lance Schroyer to serve as ICE director",
+      "title": "Donald Trump nominates ex-state trooper Lance Schroyer as ICE director",
       "summary": "The immigration enforcement agency has been without a Senate-confirmed director since 2017, during Trump's first term.",
       "source": "Al Jazeera",
       "lang": "en",
@@ -204,36 +236,12 @@
       "publishedAt": "Sat, 27 Jun 2026 20:34:57 +0000"
     },
     {
-      "title": "Colombia vs Portugal LIVE: FIFA World Cup 2026",
-      "summary": "Follow updates as the top two teams in Group K face off - including the build-up, analysis and live text commentary.",
-      "source": "Al Jazeera",
+      "title": "Trump nominates former Oklahoma state trooper to head ICE",
+      "summary": "President Trump nominated Lance Schroyer, a former Oklahoma state trooper, to direct Immigration and Customs Enforcement. The agency hasn't had a Senate-confirmed director since the Obama administration.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/27/colombia-vs-portugal-live-fifa-world-cup-2026?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 20:30:00 +0000"
-    },
-    {
-      "title": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’",
-      "summary": "Vucic is under ⁠pressure after months ⁠of antigovernment protests.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/27/serbias-president-aleksandar-vucic-says-will-resign-within-weeks?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 20:23:44 +0000"
-    },
-    {
-      "title": "Another powerful 4.8 magnitude earthquake hits near Venezuela",
-      "summary": "Latest quake comes as rescuers still searching for survivors from twin 7.2 and 7.5 quakes on Wednesday.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/6/27/another-powerful-4-8-magnitude-earthquake-hits-near-venezuela?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 19:38:14 +0000"
-    },
-    {
-      "title": "DR Congo superfan denied US visa to support team at World Cup",
-      "summary": "Michel Kuka Mboladinga is iconic for his motionless tribute at DRC games, but a US World Cup repeat has been denied.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/dr-congo-superfan-denied-us-visa-to-support-team-at-world-cup?traffic_source=rss",
-      "publishedAt": "Sat, 27 Jun 2026 19:35:22 +0000"
+      "link": "https://www.npr.org/2026/06/27/nx-s1-5873485/trump-nominates-lance-schroyer-ice-director",
+      "publishedAt": "Sat, 27 Jun 2026 18:01:36 -0400"
     },
     {
       "title": "Critical fire weather complicates firefighting efforts in massive Utah wildfire",
@@ -276,14 +284,6 @@
       "publishedAt": "Sat, 27 Jun 2026 06:30:00 -0400"
     },
     {
-      "title": "How coach Mauricio Pochettino made believers out of the U.S. World Cup team",
-      "summary": "Pochettino was the biggest name the U.S. men's soccer team had ever hired. His rebuild was bumpy at times — but now, with the U.S. headed to the World Cup knockout stage, the players are all in.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/06/27/nx-s1-5872818/2026-world-cup-fifa-mauricio-pochettino-usmnt-coach",
-      "publishedAt": "Sat, 27 Jun 2026 06:00:00 -0400"
-    },
-    {
       "title": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
       "summary": "Cape Verdeans in Britain feeling ‘incredibly proud’ after team’s hard-fought draws against Spain and UruguayWorld Cup live – latest updatesFor as long as she can remember, 13-year-old Lauryn struggled to find a map that included Cape Verde.",
       "source": "The Guardian",
@@ -319,6 +319,31 @@
   "sports": [
     {
       "league": "World Cup",
+      "home": "Algeria",
+      "away": "Austria",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FT",
+      "date": "2026-06-28"
+    },
+    {
+      "league": "World Cup",
+      "home": "Jordan",
+      "away": "Argentina",
+      "homeScore": 1,
+      "awayScore": 2,
+      "status": "FT",
+      "date": "2026-06-28"
+    },
+    {
+      "league": "World Cup",
+      "home": "South Africa",
+      "away": "Canada",
+      "status": "upcoming",
+      "date": "2026-06-28"
+    },
+    {
+      "league": "World Cup",
       "home": "Cape Verde",
       "away": "Saudi Arabia",
       "homeScore": 0,
@@ -343,49 +368,22 @@
       "awayScore": 5,
       "status": "FT",
       "date": "2026-06-27"
-    },
-    {
-      "league": "World Cup",
-      "home": "Paraguay",
-      "away": "Australia",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-06-26"
-    },
-    {
-      "league": "World Cup",
-      "home": "Norway",
-      "away": "France",
-      "homeScore": 1,
-      "awayScore": 4,
-      "status": "FT",
-      "date": "2026-06-26"
-    },
-    {
-      "league": "World Cup",
-      "home": "Turkey",
-      "away": "USA",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-06-26"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 23,
+      "tempC": 22,
       "description": "mainly clear",
       "high": 29,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 23,
+      "tempC": 21,
       "description": "clear sky",
-      "high": 33,
-      "low": 22
+      "high": 25,
+      "low": 19
     }
   ],
   "facts": [
