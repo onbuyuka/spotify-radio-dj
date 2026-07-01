@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T19:50:19.946Z",
+  "updated": "2026-07-01T22:16:35.391Z",
   "news": [
     {
       "title": "Van Barosu Rojin Kabaiş dosyasından neden çekildi, taraflar ne diyor?",
@@ -50,6 +50,20 @@
       "publishedAt": "Wed, 01 Jul 2026 11:54:38 GMT"
     },
     {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 02 Temmuz 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 02 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-02T01:00:00+03:00"
+    },
+    {
+      "title": "Yüzyıllardır kayıptı, Osman Gazi'nin miğferi dünyanın öbür ucunda ortaya çıktı",
+      "summary": "Osmanlı'nın kurucusu Osman Gazi'ye ait çelik miğferin New York Metropolitan Müzesi'nde tespit edildiği bildirildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-01T23:34:23+03:00"
+    },
+    {
       "title": "İstanbul 40. Ağır Ceza Mahkemesi kapatıldı. İBB davası başka mahkemede devam edecek",
       "summary": "İstanbul 40. Ağır Ceza Mahkemesi HSK Kararnamesi ile kapatıldı. İstanbul Büyükşehir Belediyesi'nde yolsuzluk iddiasıyla açılan dava, İstanbul 33. Ağır Ceza Mahkemesi’nde mevcut heyetle devam edecek.",
       "source": "NTV",
@@ -76,20 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-01T20:09:04+03:00"
-    },
-    {
-      "title": "15 Temmuz'da anma etkinlikleri. Yurt içi ve yurt dışında binlerce etkinlik düzenlenecek",
-      "summary": "15 Temmuz Demokrasi ve Millî Birlik Günü’nün 10. yıl dönümü kapsamında, yurt içinde ve yurt dışında binlerce etkinlik düzenlenecek. İletişim Başkanı Burhanettin Duran, gazetecilere 15 Temmuz programını anlattı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-01T18:15:08+03:00"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan Türkiye Katolik Episkoposlar heyetini kabul etti",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye Katolik Episkoposlar heyetini kabul etti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-01T17:11:49+03:00"
     },
     {
       "title": "DOA depozito geri dönüşüm nedir?",
@@ -140,12 +140,12 @@
       "publishedAt": "Wed, 01 Jul 2026 09:45:54 GMT"
     },
     {
-      "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
-      "summary": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
+      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+      "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 15:48:02 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 21:27:04 GMT"
     },
     {
       "title": "Ukrainian charged in Germany over Nord Stream blasts",
@@ -156,6 +156,30 @@
       "publishedAt": "Wed, 01 Jul 2026 18:19:32 GMT"
     },
     {
+      "title": "US blocks long-term renewal of North American trade deal",
+      "summary": "US blocks 16-year North America trade deal renewal, triggering annual rolling reviews",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 18:56:36 GMT"
+    },
+    {
+      "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+      "summary": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 17:40:29 GMT"
+    },
+    {
+      "title": "Watch: Two people climb to highest point of Empire State Building",
+      "summary": "The two were atop the 1,454 ft (443 m) building for at least ten minutes and displayed a large banner before climbing down.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/videos/cz75gz79pl2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 01 Jul 2026 17:08:56 GMT"
+    },
+    {
       "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
       "summary": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
       "source": "BBC World",
@@ -164,76 +188,52 @@
       "publishedAt": "Wed, 01 Jul 2026 16:10:38 GMT"
     },
     {
-      "title": "Three die in Mexico City World Cup celebrations",
-      "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 11:01:12 GMT"
-    },
-    {
-      "title": "Businessman goes on trial over murder of Maltese journalist",
-      "summary": "Yorgen Fenech denies any involvement in the assassination of Daphne Caruana Galizia in 2017.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c1ey95gl5j5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 17:15:47 GMT"
-    },
-    {
-      "title": "Syria's president names final 70 lawmakers to new post-Assad parliament",
-      "summary": "Fifteen women are appointed, after only six female candidates were selected by regional electoral colleges last October.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 01 Jul 2026 16:44:58 GMT"
-    },
-    {
-      "title": "Israel kills three Palestinians in Gaza despite ‘ceasefire’",
-      "summary": "An Israeli drone strike near a Gaza hospital and fuel station kills at least three people, reports Wafa news agency.",
+      "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
+      "summary": "Carroll's lawyers have asked for an expedited resolution to the payment question after US Supreme Court declines appeal.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/1/israel-kills-three-palestinians-in-gaza-despite-ceasefire?traffic_source=rss",
-      "publishedAt": "Wed, 01 Jul 2026 19:29:52 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
+      "publishedAt": "Wed, 01 Jul 2026 21:45:58 +0000"
     },
     {
-      "title": "As Venezuela responds to earthquake devastation, volunteers take charge",
-      "summary": "As frustration with the government disaster response grows, everyday citizens are organising to distribute aid.",
+      "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
+      "summary": "The US and Israel have signed a deal allocating land for a permanent US embassy in West Jerusalem.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/longform/2026/7/1/as-venezuela-responds-to-earthquake-devastation-volunteers-take-charge?traffic_source=rss",
-      "publishedAt": "Wed, 01 Jul 2026 18:42:31 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
+      "publishedAt": "Wed, 01 Jul 2026 21:09:15 +0000"
     },
     {
-      "title": "One week on from Venezuela’s deadly earthquakes",
-      "summary": "One week after Venezuela's twin earthquakes, more than 1,900 are confirmed dead while tens of thousands are missing.",
+      "title": "US Supreme Court hands wealthy donors more sway with latest decision",
+      "summary": "Critics say the ruling invites corruption, benefitting wealthy donors and amplifying special interest sway in politics.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/one-week-on-from-venezuelas-deadly-earthquakes?traffic_source=rss",
-      "publishedAt": "Wed, 01 Jul 2026 18:35:39 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss",
+      "publishedAt": "Wed, 01 Jul 2026 21:04:19 +0000"
     },
     {
-      "title": "Kane double fires England to comeback win over DR Congo at World Cup 2026",
-      "summary": "England survive huge scare against DR Congo to win 2-1 and set up last 16 clash with cohosts Mexico.",
+      "title": "LIVE: USA vs Bosnia and Herzegovina – FIFA World Cup 2026",
+      "summary": "Live coverage and text updates as USA play Bosnia and Herzegovina in the round of 32 knockout stage in San Francisco.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/1/kane-double-fires-england-to-comeback-win-over-dr-congo-at-world-cup-2026?traffic_source=rss",
-      "publishedAt": "Wed, 01 Jul 2026 18:23:52 +0000"
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss",
+      "publishedAt": "Wed, 01 Jul 2026 21:03:01 +0000"
     },
     {
-      "title": "How AI is being weaponised against India’s Muslim women",
-      "summary": "For years, India's Muslim women have been subject to online abuse.",
+      "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
+      "summary": "Iran's Deputy Foreign Minister Gharibabadi says part of $6bn in frozen assets would be used to buy goods Tehran needs.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss",
-      "publishedAt": "Wed, 01 Jul 2026 18:06:32 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
+      "publishedAt": "Wed, 01 Jul 2026 20:55:04 +0000"
     },
     {
-      "title": "US says it won’t agree to renew USMCA",
-      "summary": "USMCA came into effect on July 1, 2020, and is slated to expire after 16 years.",
+      "title": "Russian couple arrested after climbing Empire State Building",
+      "summary": "Two Russian climbers scaled New York’s Empire State Building on Wednesday as part of a death-defying marriage proposal.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/1/us-says-it-wont-agree-to-renew-usmca?traffic_source=rss",
-      "publishedAt": "Wed, 01 Jul 2026 17:59:05 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/1/russian-couple-arrested-after-climbing-empire-state-building?traffic_source=rss",
+      "publishedAt": "Wed, 01 Jul 2026 20:54:39 +0000"
     },
     {
       "title": "Untold casualties and humanitarian needs: What to know a week from Venezuela's quakes",
@@ -339,7 +339,9 @@
       "league": "World Cup",
       "home": "Belgium",
       "away": "Senegal",
-      "status": "upcoming",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FT",
       "date": "2026-07-01"
     },
     {
@@ -373,15 +375,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
+      "tempC": 24,
       "description": "partly cloudy",
-      "high": 30,
-      "low": 22
+      "high": 31,
+      "low": 23
     },
     {
       "place": "London",
-      "tempC": 24,
-      "description": "mainly clear",
+      "tempC": 20,
+      "description": "overcast",
       "high": 26,
       "low": 17
     }
