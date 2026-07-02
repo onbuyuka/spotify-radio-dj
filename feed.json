@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:20:24.958Z",
+  "updated": "2026-07-02T22:04:47.154Z",
   "news": [
     {
       "title": "Komedyen Deniz Göktaş gözaltına alındı",
@@ -8,6 +8,14 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c5yzjgg5l0yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 02 Jul 2026 15:50:22 GMT"
+    },
+    {
+      "title": "Türkiye'den Euro Ödeme Alanı'na katılma başvurusu",
+      "summary": "Türkiye ve Avrupa Birliği'nden ekonomi heyetleri bugün İstanbul Dolmabahçe'de Türkiye – AB Yüksek Düzeyli Ekonomik Diyalog toplantısı düzenledi. Toplantıda konuşan Hazine ve Maliye Bakanı Şimşek, Türkiye'nin Tek Euro Ödeme Alanı'na (SEPA) k",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cx2d9pvr93vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 19:52:20 GMT"
     },
     {
       "title": "İBB davasında savunma süresi gerginliği: İmamoğlu salondan çıkarıldı",
@@ -26,20 +34,12 @@
       "publishedAt": "Thu, 02 Jul 2026 16:06:32 GMT"
     },
     {
-      "title": "Rusya'nın Kiev'e düzenlediği geniş çaplı füze saldırılarında en az 20 kişi öldü",
-      "summary": "Ukraynalı yetkililer, Rus güçlerinin ülkenin başkenti Kiev'e gece saatlerinde büyük bir insansız hava aracı ve füze saldırısı düzenleyerek 18 kişinin ölümüne neden olduğunu açıkladı.",
+      "title": "İspanya, Avusturya'yı 3-0 yenerek son 16'ya yükseldi",
+      "summary": "İspanya 2026 Dünya Kupası son 32 turunda karşı karşıya geldiği Avusturya'yı farklı skorla yenerek bir üst tura yükseldi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cn0784njj71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 13:45:50 GMT"
-    },
-    {
-      "title": "Dünya Kupası'nın viral yıldızları sosyal medya şöhretini servete dönüştürebilir mi?",
-      "summary": "Dünya Kupası'nda viral olan futbolcular milyonlarca yeni takipçi kazanırken, uzmanlara göre bu ani şöhret büyük kazanç fırsatları sunsa da kalıcı olmayabilir",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cly7887n7jyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 09:26:51 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cdx7rg1dnjlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 22:00:00 GMT"
     },
     {
       "title": "Madımak Katliamı'nın 33. yılı: 2 Temmuz 1993'te Sivas'ta neler yaşandı?",
@@ -50,70 +50,46 @@
       "publishedAt": "Thu, 02 Jul 2026 02:29:41 GMT"
     },
     {
+      "title": "Alaattin Köseler rüşvet ve irtikap suçlarından da tutuklandı",
+      "summary": "Beykoz Belediyesi'ne yönelik yolsuzluk davasında tutuklu yargılanan Belediye Başkanı Alaattin Köseler, \"rüşvet alma\" ve \"icbar suretiyle irtikap\" suçlarından da tutuklandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-03T00:46:17+03:00"
+    },
+    {
+      "title": "Sürücüler dikkat. Araç içi multimedya yönetmeliği yayınlandı",
+      "summary": "Tartışma konusu olan araç içi multimedya sistemleri için son karar verildi ve yönetmelik yayınlandı. Araç ön bölümlerinde 5 santimi geçen cihaz bulundurulmayacak, cama monteli telefon tutucular kullanılacak. Araçlardaki ses sistemlerine yen",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-03T00:27:51+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 03 Temmuz 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 03 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-03T01:00:00+03:00"
+    },
+    {
+      "title": "Uzman erbaş kanunu yasalaştı. Sözleşmeli erlere kamu istihdamı",
+      "summary": "Sözleşmeli erbaş ve erlerin kamuda istihdam edilmesini de içerisinde barındıran yasa teklifi Meclis Genel Kurulu'nda kabul edildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-02T23:06:34+03:00"
+    },
+    {
+      "title": "İstanbul'da tacizci kadın korkusu. Sokak sokak gezerek erkekleri taciz ediyor",
+      "summary": "İstanbul'da bir kadın, sokaklarda ve dükkanlarda erkekleri taciz etmeye başladı. İlk olay Ümraniye'de yaşandı ancak farklı bölgelerden de benzer şikayetler geliyor, kamera görüntüleri sosyal medyada paylaşılıyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-02T22:49:08+03:00"
+    },
+    {
       "title": "Dışişleri Bakanı Fidan: CAATSA yaptırımları kaldırılabilir",
       "summary": "Dışişleri Bakanı Hakan Fidan, ABD ve Türkiye'nin CAATSA yaptırımlarının kaldırılması için fikir birliğinde olduğunu ancak bunun bir süreç işi olduğunu söyledi. F-35 programına dönüşün ise konsorsiyum kararına bağlı olduğunu belirtti.",
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-02T22:18:20+03:00"
-    },
-    {
-      "title": "Dışişleri Bakanlığı, Suriye'deki saldırıyı kınadı",
-      "summary": "Dışişleri Bakanlığı Suriye'nin başkenti Şam’da bir kafede gerçekleştirilen saldırıyı kınadı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-02T20:45:15+03:00"
-    },
-    {
-      "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 02 Temmuz 2026",
-      "summary": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 02 Temmuz 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Mu",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-02T19:20:00+03:00"
-    },
-    {
-      "title": "C31K nedir? Çocukları hedef alıyorlar, şantaj ve şiddet içerikleri üretiyorlar",
-      "summary": "Sosyal medya platformları üzerinden çocukları hedef alan siber çetelerden biri olan C31K, şiddet ve şantaj içerikleri üretiyor. Peki, çocukları nasıl hedef alıyorlar? Çocukları korumak için neler yapılması gerekiyor? Haber: Tuana Çiftçi",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-02T18:33:53+03:00"
-    },
-    {
-      "title": "Meteoroloji tarih verdi: Önce İstanbul sonra Ankara'ya uyarı",
-      "summary": "Yaz sıcağı yerini gök gürültülü sağanak yağışa bırakacak. Yağışlı hava sistemi önce İstanbul ardından Ankara'da etkili olacak.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-02T17:07:05+03:00"
-    },
-    {
-      "title": "Kılıçdaroğlu'ndan NATO mesajları",
-      "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, NATO Zirvesi öncesinde hükümete çağrıda bulundu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-02T16:14:04+03:00"
-    },
-    {
-      "title": "İspanya - Avusturya maçı ne zaman?",
-      "summary": "2026 FIFA Dünya Kupası’nda heyecan tüm hızıyla sürüyor. Grup aşamasını başarıyla tamamlayan takımlar, son 32 turunda karşı karşıya gelerek bir üst tura yükselmek için mücadele ediyor. Sürpriz sonuçların dikkat çektiği bu kritik süreçte artı",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/ispanya-avusturya-maci-canli-izle-ispanya-avusturya-maci-ne-zaman-saat-kacta-hangi-kanalda-dunya-kupasi-canli-izle-ekrani-3895676",
-      "publishedAt": "Thu, 02 Jul 2026 09:08:09 GMT"
-    },
-    {
-      "title": "Kademeli emeklilik çıkacak mı?",
-      "summary": "Kademeli emeklilik son dakika gelişmeleri, milyonlarca çalışanın gündemindeki yerini koruyor. Emeklilikte Yaşa Takılanlar (EYT) düzenlemesinin ardından 1999 sonrası sigorta girişi bulunan vatandaşlar, \"Kademeli emeklilik çıkacak mı?\", \"TBMM",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/erken-kademeli-emeklilik-2026-son-dakika-kademeli-emeklilik-ne-zaman-cikacak-sartlari-ne-1999-sonrasi-calisanlara-kademeli-emeklilik-cikacak-mi-3895669",
-      "publishedAt": "Thu, 02 Jul 2026 08:47:12 GMT"
-    },
-    {
-      "title": "BİLSEM mülakat sonuçları ne zaman açıklanacak?",
-      "summary": "BİLSEM mülakat sonuçlarının açıklanacağı tarih, veliler ve öğrenciler tarafından büyük bir merakla beklenirken, süreçte yaşanan gelişmeler heyecanı her geçen gün daha da artırıyor. Değerlendirme aşamasının tamamlanmasına sayılı günler kala,",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilsem-sonuc-tarihi-2026-meb-bilsem-mulakat-sonuclari-ne-zaman-aciklanacak-3895663",
-      "publishedAt": "Thu, 02 Jul 2026 08:37:03 GMT"
     },
     {
       "title": "Seramik halka arz katılım endeksine uygun mu?",
@@ -140,6 +116,30 @@
       "publishedAt": "Thu, 02 Jul 2026 07:18:52 GMT"
     },
     {
+      "title": "Anaokulu kayıtları ne zaman başlıyor?",
+      "summary": "Anaokulu kayıtlarının ne zaman başlayacağı, veliler tarafından her yıl merakla takip edilen konuların başında geliyor. Yeni eğitim dönemi yaklaşırken aileler, çocuklarının okul öncesi eğitim sürecine sorunsuz bir şekilde dahil olabilmesi iç",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/anaokulu-kayitlari-ne-zaman-basliyor-anaokulu-kayit-sonuclari-ogrenme-ekrani-3895624",
+      "publishedAt": "Thu, 02 Jul 2026 06:37:01 GMT"
+    },
+    {
+      "title": "65 yaş aylığı ne kadar olacak?",
+      "summary": "Temmuz ayı zam süreciyle birlikte milyonlarca vatandaşın gözü sosyal yardım ödemelerine çevrildi. Memur maaş katsayısındaki artış doğrultusunda güncellenen 65 yaş aylığının da temmuz zammıyla birlikte yükselmesi bekleniyor. İlk beş aylık en",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/temmuz-zammi-ile-65-yas-ayligi-ne-kadar-olacak-yaslilik-maasi-zammi-icin-gozler-yeni-oranda-3895609",
+      "publishedAt": "Thu, 02 Jul 2026 08:13:57 GMT"
+    },
+    {
+      "title": "Hemşire maaşı ne kadar olacak?",
+      "summary": "Temmuz 2026 memur maaş zammı için geri sayım sürerken, sağlık çalışanlarının gözü de açıklanacak son enflasyon verilerine çevrildi. TÜİK'in haziran ayı enflasyon rakamlarını açıklamasıyla birlikte memur maaşlarına uygulanacak zam oranı kesi",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/memur-zammi-ile-hemsire-maasi-ne-kadar-olacak-2026-temmuz-zammi-ile-hemsire-maaslarina-ne-kadar-zam-gelecek-3895607",
+      "publishedAt": "Thu, 02 Jul 2026 08:14:56 GMT"
+    },
+    {
       "title": "Venezuela quake survivor pulled out alive after eight days",
       "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
       "source": "BBC World",
@@ -148,12 +148,12 @@
       "publishedAt": "Thu, 02 Jul 2026 16:11:24 GMT"
     },
     {
-      "title": "'Most massive' Russian attack on Kyiv kills at least 25",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 27",
       "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 18:35:36 GMT"
+      "publishedAt": "Thu, 02 Jul 2026 20:18:14 GMT"
     },
     {
       "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
@@ -180,60 +180,76 @@
       "publishedAt": "Thu, 02 Jul 2026 09:21:31 GMT"
     },
     {
-      "title": "South Africa and Ghana in diplomatic row over alleged killing of migrant",
-      "summary": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
+      "title": "Former Olympian indicted for allegedly vandalising Washington Reflecting Pool",
+      "summary": "US authorities charged him with property destruction after renovations championed by President Donald Trump appeared to go awry.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 13:11:16 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c2ky3p9jlveo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 20:34:52 GMT"
     },
     {
-      "title": "The last time Iran held a funeral for the Supreme Leader",
-      "summary": "An estimated 10 million mourners attended Iran’s first Supreme Leader’s funeral in 1989.",
+      "title": "Oyarzabal scores two goals as Spain dominates Austria in World Cup knockout",
+      "summary": "Mikel Oyarzabal's brace allows the European champions to dominate Austria and move on to the round of 16.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 19:11:16 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/2/oyarzabal-scores-two-goals-as-spain-dominates-austria-in-world-cup-knockout?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 21:45:42 +0000"
     },
     {
-      "title": "Fears of new massacre in Sudan’s el-Obeid: What do we know?",
-      "summary": "As RSF troops besiege el-Obeid, 500,000 civilians face mass atrocities amid drone strikes and a stalled peace process.",
+      "title": "Could water become a flashpoint between Islamabad and New Delhi?",
+      "summary": "Pakistan has warned India over the Indus Water Treaty.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 18:59:41 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/2/could-water-become-a-flashpoint-between-islamabad-and-new-delhi?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 21:01:30 +0000"
     },
     {
-      "title": "UK’s likely next PM Andy Burnham faces defence funding gap",
-      "summary": "Defence Secretary Dan Jarvis is facing questions over the funding gap and whether Burnham was blindsided.",
+      "title": "WHO declares cruise-linked hantavirus outbreak officially over",
+      "summary": "WHO declares cruise-linked hantavirus outbreak over as final exposed person completes quarantine and tests negative.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/2/uk-leader-hopeful-andy-burnham-faces-defence-funding-gap?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 18:59:33 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/2/who-declares-cruise-linked-hantavirus-outbreak-officially-over?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 20:50:03 +0000"
     },
     {
-      "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
-      "summary": "Attention has turned to the humanitarian response after at least 2,295 people are confirmed dead, and 13,000 homeless.",
+      "title": "UK’s likely next leader Andy Burnham vows to fully fund defence plans",
+      "summary": "Andy Burnham says the UK must take the defence investment plan 'very seriously' despite 4.7bn-pound funding hole.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 18:12:54 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/2/uks-likely-next-leader-andy-burnham-vows-to-fully-fund-defence-plans?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 20:34:39 +0000"
     },
     {
-      "title": "How the North American heatwave could impact the FIFA World Cup",
-      "summary": "Which host cities and matches face the biggest risks? What is FIFA doing to protect players and how can fans stay safe?",
+      "title": "Trump administration aims to cut regulations on US commercial fishing",
+      "summary": "Scallop fishing had been banned in the New England waters since 1994 on account of overfishing.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/2/how-the-north-american-heatwave-could-impact-the-fifa-world-cup?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 17:55:42 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/7/2/trump-administration-aims-to-cut-regulations-on-us-commercial-fishing?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 20:20:23 +0000"
     },
     {
-      "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
-      "summary": "At least 6 people were killed and 22 injured after an explosive device detonated in a café in Damascus' Al-Hijaz area.",
+      "title": "UK culture minister quits X over ‘abuse and misinformation’",
+      "summary": "UK Department of Culture, Media and Sport will also stop using social media platform.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 17:36:49 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/2/uk-culture-minister-quits-x-over-abuse-and-misinformation?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 20:15:43 +0000"
+    },
+    {
+      "title": "House Democrats accuse Trump of 'hijacking' America's 250th birthday for his own gain",
+      "summary": "A 55-page report from House Democrats accuses Freedom 250 of America's birthday celebrations for profit, using questionable fundraising methods. Watchdog groups had already sounded alarms.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/02/nx-s1-5879162/freedom-250-report-house-democrats-controversy",
+      "publishedAt": "Thu, 02 Jul 2026 17:47:30 -0400"
+    },
+    {
+      "title": "Christian missionaries have found a new (virtual) mission territory",
+      "summary": "The room may be virtual, but the prayer — and the evangelism — are not.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/02/g-s1-131124/christian-missionaries-have-found-a-new-virtual-mission-territory",
+      "publishedAt": "Thu, 02 Jul 2026 16:06:53 -0400"
     },
     {
       "title": "What to know about the Society of St. Pius X, the schismatic group excommunicated by the Pope",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/02/g-s1-131702/up-first-newsletter-trump-crypto-earnings-society-pope-pius-venezuela-world-cup",
       "publishedAt": "Thu, 02 Jul 2026 07:23:10 -0400"
-    },
-    {
-      "title": "Former ethics lawyer says Trump's crypto poses 'clear conflict of interest'",
-      "summary": "Former White House ethics lawyer Richard Painter says President Trump \"stands alone\" in having substantial financial conflicts of interest and that, \"for every other executive branch official, it would be a violation.\"",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/02/nx-s1-5877487/trump-crypto-earnings-ethics",
-      "publishedAt": "Thu, 02 Jul 2026 06:44:01 -0400"
-    },
-    {
-      "title": "Going outside in this heat? Follow these guidelines to stay safe",
-      "summary": "Man, it's a hot one! Don't go out in this summer's heat wave before you arm yourself with these tips and a really big water bottle.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety",
-      "publishedAt": "Thu, 02 Jul 2026 06:00:00 -0400"
     },
     {
       "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
@@ -328,15 +328,17 @@
     },
     {
       "league": "World Cup",
-      "home": "Portugal",
-      "away": "Croatia",
-      "status": "upcoming",
+      "home": "Spain",
+      "away": "Austria",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FT",
       "date": "2026-07-02"
     },
     {
       "league": "World Cup",
-      "home": "Spain",
-      "away": "Austria",
+      "home": "Portugal",
+      "away": "Croatia",
       "status": "upcoming",
       "date": "2026-07-02"
     },
@@ -372,13 +374,13 @@
     {
       "place": "İstanbul",
       "tempC": 24,
-      "description": "overcast",
+      "description": "partly cloudy",
       "high": 31,
-      "low": 23
+      "low": 22
     },
     {
       "place": "London",
-      "tempC": 22,
+      "tempC": 19,
       "description": "clear sky",
       "high": 26,
       "low": 17
