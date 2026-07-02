@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T16:48:06.159Z",
+  "updated": "2026-07-02T19:20:24.958Z",
   "news": [
     {
       "title": "Komedyen Deniz Göktaş gözaltına alındı",
@@ -50,6 +50,20 @@
       "publishedAt": "Thu, 02 Jul 2026 02:29:41 GMT"
     },
     {
+      "title": "Dışişleri Bakanı Fidan: CAATSA yaptırımları kaldırılabilir",
+      "summary": "Dışişleri Bakanı Hakan Fidan, ABD ve Türkiye'nin CAATSA yaptırımlarının kaldırılması için fikir birliğinde olduğunu ancak bunun bir süreç işi olduğunu söyledi. F-35 programına dönüşün ise konsorsiyum kararına bağlı olduğunu belirtti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-02T22:18:20+03:00"
+    },
+    {
+      "title": "Dışişleri Bakanlığı, Suriye'deki saldırıyı kınadı",
+      "summary": "Dışişleri Bakanlığı Suriye'nin başkenti Şam’da bir kafede gerçekleştirilen saldırıyı kınadı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-02T20:45:15+03:00"
+    },
+    {
       "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 02 Temmuz 2026",
       "summary": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 02 Temmuz 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Mu",
       "source": "NTV",
@@ -76,20 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-02T16:14:04+03:00"
-    },
-    {
-      "title": "Tam 33 yıl geçti... Madımak olaylarında yaşamını yitirenler anıldı",
-      "summary": "Türkiye tarihine kara bir leke olarak geçen Madımak olayının üzerinden tam 33 yıl geçti. Ateşe verilen Madımak Oteli'nde yaşamını yitirenler bu yıl da unutulmadı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-02T15:54:17+03:00"
-    },
-    {
-      "title": "Antalya'da korkutan sokak kavgası: Turistler dehşetle izledi",
-      "summary": "Antalya'da tarihi Hadrian Kapısı önünde 3 kişi, kaldırım taşı, delici alet, yumruk ve tekmeyle birbirine saldırdı. Gelen polisi gören şüphelilerden 1’i kaçtı, 2’si ise ifadeleri için polis merkezine götürüldü.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-02T15:23:34+03:00"
     },
     {
       "title": "İspanya - Avusturya maçı ne zaman?",
@@ -148,28 +148,28 @@
       "publishedAt": "Thu, 02 Jul 2026 16:11:24 GMT"
     },
     {
-      "title": "'Most massive' Russian attack on Kyiv kills at least 21",
+      "title": "'Most massive' Russian attack on Kyiv kills at least 25",
       "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 16:15:31 GMT"
+      "publishedAt": "Thu, 02 Jul 2026 18:35:36 GMT"
     },
     {
-      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+      "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 05:00:03 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 02 Jul 2026 17:56:18 GMT"
     },
     {
-      "title": "Vatican excommunicates hundreds of thousands of splinter sect followers",
+      "title": "Vatican excommunicates followers of global Catholic sect",
       "summary": "Around 600,000 followers of the Society of Saint Pius X, a Catholic sect, are affected.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 15:44:45 GMT"
+      "publishedAt": "Thu, 02 Jul 2026 17:27:36 GMT"
     },
     {
       "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
@@ -188,52 +188,76 @@
       "publishedAt": "Thu, 02 Jul 2026 13:11:16 GMT"
     },
     {
-      "title": "Why is Prada facing pro-Israeli backlash?",
-      "summary": "Prada is facing boycott calls after appointing Palestinian singer Saint Levant as a brand ambassador.",
+      "title": "The last time Iran held a funeral for the Supreme Leader",
+      "summary": "An estimated 10 million mourners attended Iran’s first Supreme Leader’s funeral in 1989.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 16:14:24 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 19:11:16 +0000"
     },
     {
-      "title": "What is the Society of St Pius X? Why Pope Leo excommunicated its bishops",
-      "summary": "The Vatican declares 'schism' in Catholic Church after bishops were ordained without Pope Leo XIV's approval.",
+      "title": "Fears of new massacre in Sudan’s el-Obeid: What do we know?",
+      "summary": "As RSF troops besiege el-Obeid, 500,000 civilians face mass atrocities amid drone strikes and a stalled peace process.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/2/what-is-the-society-of-st-pius-x-why-pope-leo-excommunicated-its-bishops?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 15:54:48 +0000"
+      "link": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 18:59:41 +0000"
     },
     {
-      "title": "Spain vs Austria LIVE: FIFA World Cup 2026",
-      "summary": "Live coverage and text updates as Spain play Austria in Los Angeles in the Round of 32 knockout stage.",
+      "title": "UK’s likely next PM Andy Burnham faces defence funding gap",
+      "summary": "Defence Secretary Dan Jarvis is facing questions over the funding gap and whether Burnham was blindsided.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/2/spain-vs-austria-live-fifa-world-cup-2026?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 15:41:05 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/2/uk-leader-hopeful-andy-burnham-faces-defence-funding-gap?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 18:59:33 +0000"
     },
     {
-      "title": "Into the Darkness",
-      "summary": "Fault Lines investigates allegations of systematic torture of Palestinian prisoners and detainees in Israeli custody.",
+      "title": "‘Miracle’: Trapped man rescued eight days after Venezuela earthquakes",
+      "summary": "Attention has turned to the humanitarian response after at least 2,295 people are confirmed dead, and 13,000 homeless.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 15:30:00 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/2/miracle-trapped-man-rescued-eight-days-after-venezuela-earthquakes?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 18:12:54 +0000"
     },
     {
-      "title": "US job growth slows in June; hospitality sheds roles despite World Cup",
-      "summary": "Labour force participation dropped to its lowest level since March 2021, reaching 61.5 percent in June.",
+      "title": "How the North American heatwave could impact the FIFA World Cup",
+      "summary": "Which host cities and matches face the biggest risks? What is FIFA doing to protect players and how can fans stay safe?",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/2/us-job-growth-slows-in-june-hospitality-sheds-roles-despite-world-cup?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 15:23:50 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/2/how-the-north-american-heatwave-could-impact-the-fifa-world-cup?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 17:55:42 +0000"
     },
     {
-      "title": "UK’s Starmer apologises for the state’s role in decades of forced adoptions",
-      "summary": "UK government and Christian churches oversaw system that separated 185,000 babies from their mothers from 1949 to 1976.",
+      "title": "Deadly blast at Damascus cafe leaves 6 dead, 22 injured",
+      "summary": "At least 6 people were killed and 22 injured after an explosive device detonated in a café in Damascus' Al-Hijaz area.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/2/uks-starmer-apologises-for-the-states-role-in-decades-of-forced-adoptions?traffic_source=rss",
-      "publishedAt": "Thu, 02 Jul 2026 15:03:19 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/deadly-blast-at-damascus-cafe-leaves-6-dead-22-injured?traffic_source=rss",
+      "publishedAt": "Thu, 02 Jul 2026 17:36:49 +0000"
+    },
+    {
+      "title": "What to know about the Society of St. Pius X, the schismatic group excommunicated by the Pope",
+      "summary": "The Society of St. Pius X was excommunicated by Pope Leo for ordaining bishops without his permission. Its issues with the church run far deeper.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/02/g-s1-131791/what-to-know-about-the-society-of-st-pius-x-the-schismatic-group-excommunicated-by-the-pope",
+      "publishedAt": "Thu, 02 Jul 2026 14:26:43 -0400"
+    },
+    {
+      "title": "Photos: Fans gather in the Bay Area for the World Cup match between the U.S. and Bosnia-Herzegovina",
+      "summary": "World Cup watch parties in Santa Clara and the San Francisco Bay Area brought fans together for the United States vs. Bosnia-Herzegovina match, where the U.S. earned a 2-0 win to reach the Round of 16.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/07/02/g-s1-131712/photos-fans-gather-in-the-bay-area-for-the-world-cup-match-between-the-u-s-and-bosnia-herzegovina",
+      "publishedAt": "Thu, 02 Jul 2026 13:51:50 -0400"
+    },
+    {
+      "title": "The days are hot, but so are the nights. That's a problem, experts say",
+      "summary": "As much of the Eastern U.S. experiences potentially record-breaking daytime temperatures, the nights are also staying unusually warm, leaving the human body no time to recover.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/02/nx-s1-5879113/heat-wave-nighttime-climate-change",
+      "publishedAt": "Thu, 02 Jul 2026 12:55:50 -0400"
     },
     {
       "title": "Trump denies conflict of interest over crypto. And, Vatican excommunicates rebel group",
@@ -258,30 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/02/nx-s1-5878429/heat-wave-stroke-exhaustion-prevention-safety",
       "publishedAt": "Thu, 02 Jul 2026 06:00:00 -0400"
-    },
-    {
-      "title": "Federal civil rights data holds schools accountable. Under Trump, it's 6 months late",
-      "summary": "The Education Department has long collected civil rights data about things like bullying, harassment and disability services in schools, but it hasn't made the latest information public.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/02/nx-s1-5859422/civil-rights-data-students-education",
-      "publishedAt": "Thu, 02 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "The U.S. healthcare system is in crisis. A Supreme Court ruling could make things worse",
-      "summary": "Mass deportations would be felt across hospitals and emergency rooms, which already face persistent staffing shortfalls. The long-term healthcare sector will suffer the greatest disruptions, experts say.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/02/nx-s1-5878415/haitian-tps-healthcare-immigration-supreme-court",
-      "publishedAt": "Thu, 02 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Vatican declares Society of St. Pius X in schism, excommunicates bishops",
-      "summary": "The Vatican responded Thursday to a traditionalist society that consecrated bishops without the pope's consent, declaring the Society of St. Pius X in schism and excommunicating its bishops and priests.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism",
-      "publishedAt": "Thu, 02 Jul 2026 04:54:48 -0400"
     },
     {
       "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
@@ -371,14 +371,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 26,
-      "description": "mainly clear",
+      "tempC": 24,
+      "description": "overcast",
       "high": 31,
       "low": 23
     },
     {
       "place": "London",
-      "tempC": 26,
+      "tempC": 22,
       "description": "clear sky",
       "high": 26,
       "low": 17
