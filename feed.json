@@ -1,37 +1,37 @@
 {
-  "updated": "2026-07-03T06:29:32.717Z",
+  "updated": "2026-07-03T11:30:14.812Z",
   "news": [
     {
-      "title": "Gözaltına alınan komedyen Deniz Göktaş'ın adliyeye sevk edilmesi bekleniyor",
-      "summary": "Son gösterisi Ölü Deniz'deki ifadeleri nedeniyle hakkında soruşturma başlatılan komedyen Deniz Göktaş gözaltına alındı. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada Göktaş'a \"Cumhurbaşkanına hakaret\" ile \"halkı kin ve ",
+      "title": "Gözaltına alınan komedyen Deniz Göktaş adliyeye sevk edildi",
+      "summary": "Son gösterisi Ölü Deniz'deki ifadeleri nedeniyle hakkında soruşturma başlatılan komedyen Deniz Göktaş gözaltına alındı. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada Göktaş'a \"Cumhurbaşkanına hakaret\" ile \"halkın bir ke",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c5yzjgg5l0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Jul 2026 01:54:57 GMT"
+      "publishedAt": "Fri, 03 Jul 2026 10:00:56 GMT"
     },
     {
-      "title": "Tahran'dan Necef'e: Ali Hamaney'in cenazesi hakkında bilinenler",
-      "summary": "Suikaste uğrayan İran'ın dini lideri Ali Hamaney için ölümünden yaklaşık dört ay sonra düzenlenecek \"veda ve cenaze\" töreninin 4 Temmuz Cumartesi günü Tahran'da başlaması planlanıyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/clyrxndzv9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Jul 2026 03:03:16 GMT"
-    },
-    {
-      "title": "DEVA lideri Babacan: Geniş ittifak için partilerle görüşüyoruz",
-      "summary": "DEVA Partisi Genel Başkanı Ali Babacan, Gelecek ve Saadet partileriyle oluşturdukları Yeni Yol Grubu'nu seçimlere dönük daha geniş bir siyasi ittifaka dönüştürmek amacıyla Yeniden Refah Partisi başta olmak üzere farklı siyasi partilerle gör",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c79yj77ep45o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Jul 2026 02:56:10 GMT"
-    },
-    {
-      "title": "Enflasyon verileri açıklanacak, beklentiler ne yönde?",
-      "summary": "Türkiye İstatistik Kurumu (TÜİK) haziran ayı enflasyon rakamlarını 3 Temmuz'da açıklayacak. AA Finans'ın 17 ekonomistin katılımıyla yaptığı beklenti anketine göre aylık enflasyon beklentilerinin ortalaması %1,044 oldu. Yıllık enflasyonun is",
+      "title": "TÜİK haziran enflasyonunu %32,11; ENAG %51,49 olarak açıkladı",
+      "summary": "Türkiye İstatistik Kurumu (TÜİK) haziran ayı enflasyon verilerini yıllık %32,11 ve aylık %0,99 olarak açıkladı. Akademisyenlerden oluşan Enflasyon Araştırma Grubu'nun (ENAG) haziran ayı enflasyon verileri ise yıllık %51,49 ve aylık %1,94.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/clyerg468neo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Jul 2026 02:02:54 GMT"
+      "publishedAt": "Fri, 03 Jul 2026 07:11:01 GMT"
+    },
+    {
+      "title": "Ali Hamaney'in cenaze töreni Tahran'da başladı",
+      "summary": "Suikaste uğrayan İran'ın dini lideri Ali Hamaney için ölümünden yaklaşık dört ay sonra düzenlenecek \"veda ve cenaze\" töreni 3 Temmuz Cuma günü Tahran'da başladı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/clyrxndzv9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:50:12 GMT"
+    },
+    {
+      "title": "ABD'nin Türkiye'ye uyguladığı CAATSA yaptırımları nedir?",
+      "summary": "Dışişleri Bakanı Hakan Fidan, ABD'nin Türkiye'ye uyguladığı savunma sanayi yaptırımalrının kaldırılması konusunda liderler arasında \"güçlü bir irade\" olduğunu söyledi. Peki yaptırımların Türkiye için sonuçları ne oldu?",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cwynrxnnl14o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 09:36:39 GMT"
     },
     {
       "title": "Şeker detoksu akımı: 'Her şeker düşmanınız değil'",
@@ -42,106 +42,114 @@
       "publishedAt": "Fri, 03 Jul 2026 04:12:59 GMT"
     },
     {
-      "title": "Şam'daki bir kafede meydana gelen bombalı saldırıda dokuz kişi öldü",
-      "summary": "Suriye resmi haber ajansı SANA, Şam'ın merkezindeki kalabalık bir kafede perşembe günü meydana gelen bombalı saldırıda dokuz kişinin öldüğünü duyurdu. Saldırıyı kimin yaptığı henüz netlik kazanmadı.",
+      "title": "Memur ve emekliler için zam farkı ve kira artış oranı netleşti",
+      "summary": "Memurlar, sözleşmeliler ve memur emeklilerinin maaşlarına yapılacak zam oranı haziran ayı enflasyonun verilerinin açıklanmasıyla netleşti.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cvgm4zlnl6jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Jul 2026 03:45:19 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c1eyq6549n8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 07:27:23 GMT"
     },
     {
-      "title": "İstanbul'da bugün \"nefes alamayacak\". Nem rekora konuşuyor",
-      "summary": "Türkiye, yarından itibaren yeni bir hava sisteminin etkisi altına giriyor. Hafta sonu birçok ilde gök gürültülü yağış beklenirken İstanbul'da sağanak önce bugün nem oranının yüzde 92'ye kadar çıkması bekleniyor.",
+      "title": "Meclis'e sunuldu: Ehliyetlere ve alkollü araç kullanmanın cezasına yeni düzenleme",
+      "summary": "Aday sürücülerin ehliyet alma sürecinde değişiklik öngören yasa tasarısı Meclis'e sunuldu. Söz konusu düzenleme daha önce Anayasa Mahkemesi tarafından iptal edilmişti. Yasa yeniden ele alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-03T09:22:52+03:00"
+      "publishedAt": "2026-07-03T13:56:38+03:00"
     },
     {
-      "title": "Kapıkule'de gurbetçi yoğunluğu: \"Hep eksiğiz, buraya gelince tamamlanıyoruz\"",
-      "summary": "Gurbetçilerin yıllık izinlerini geçirmek üzere Türkiye'ye gelişleri devam ediyor.",
+      "title": "Cinayetin ardından kaçmışlardı. Sınır kapısında yakalandılar",
+      "summary": "Esenyurt'taki cinayetin ardından tır dorsesinde yurt dışına kaçmaya çalışan iki şüpheli, sınır kapısında yakalanarak adliyeye sevk edildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-03T08:57:09+03:00"
+      "publishedAt": "2026-07-03T13:09:51+03:00"
     },
     {
-      "title": "Resmi Gazete'de bugün (3 Temmuz 2026 Resmi Gazete kararları)",
-      "summary": "Resmi Gazete'de 3 Temmuz 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 3 Temmuz 2026 tarihli ve 33299 Sayılı Resmi Gazete ayrıntıları.",
+      "title": "Ankara hava sahasında NATO hazırlığı. Uçuş iptalleri olabilir",
+      "summary": "Önümüzdeki hafta yapılacak NATO zirvesi nedeniyle Ankara hava sahasında sıkı güvenlik önlemleri alınıyor. Ankara hava sahası 6-9 Temmuz arasında sivil uçuşlara kapatılabilir.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-03T08:25:39+03:00"
+      "publishedAt": "2026-07-03T13:08:05+03:00"
     },
     {
-      "title": "Türk mahkemesi raporu yeterli buldu. Kusurlu sürücüyü yapay zeka kurtardı",
-      "summary": "İstanbul'da görülen bir tazminat davasında hazırlanan yapay zeka destekli bilirkişi raporunu mahkeme heyeti yeterli bularak 4 bin euroluk davanın reddine karar verdi. Bu karar, Türk hukuk tarihinde bir ilke imza attı.",
+      "title": "Kırşehir'deki çifte cinayette belediye başkanına ihmalden hapis cezası",
+      "summary": "Kırşehir'de iki sevgilinin öldürüldüğü olayda ihmalleri olduğu gerekçesiyle haklarında dava açılan belediye başkanı ile belediye yetkilileri hapis cezasına çarptırıldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-03T08:12:42+03:00"
+      "publishedAt": "2026-07-03T12:54:07+03:00"
     },
     {
-      "title": "Sahte kimlik şebekesinin tapu oyunu! Aralarında memurlar da var",
-      "summary": "İstanbul'da nüfus müdürlüklerinde görevli memurlar ile iş birliği yaparak sahte belge üretip bu belgelerde tapu müdürlüklerinde satış yapmaya teşebbüs eden şebekeye yönelik operasyon yapıldı.",
+      "title": "Cumhurbaşkanı Yardımcısı Yılmaz Hamaney'in cenaze töreni için Tahran'da",
+      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz ve beraberindeki heyet, ABD saldırısında öldürülen dini lider Ali Hamaney için düzenlenen devlet törenine katılmak için İran’ın başkenti Tahran’a geldi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-03T09:16:24+03:00"
+      "publishedAt": "2026-07-03T12:49:20+03:00"
     },
     {
-      "title": "Sakarya'da 5 buçuk ton etiketsiz et ele geçirildi",
-      "summary": "Sakarya'nın Hendek ilçesinde faaliyet gösteren bir sucuk işletmesinde gerçekleştirilen denetimde, 5 bin 500 kilogram etiketsiz et ve et ürünü ele geçirildi.",
+      "title": "İstanbul'da binanın bahçesinde çökme: 29 kişi mahsur kaldı",
+      "summary": "İstanbul Küçükçekmece'de bir binanın bahçesinde göçme meydana geldi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-03T03:50:24+03:00"
+      "publishedAt": "2026-07-03T12:14:34+03:00"
     },
     {
-      "title": "LGS sonuçları ne zaman açıklanacak?",
-      "summary": "2026 Liselere Geçiş Sistemi (LGS) kapsamında sınava giren yüz binlerce öğrenci ve veli, sonuçların açıklanacağı tarihe odaklanmış durumda. Sonuçların erişime açılmasıyla birlikte adaylar, elde ettikleri puan ve yüzdelik dilim bilgilerini in",
+      "title": "Yönetici görevlendirme başvuruları ne zaman başlıyor?",
+      "summary": "Milli Eğitim Bakanlığı bünyesinde gerçekleştirilecek yönetici görevlendirme süreci, eğitim camiasının gündeminde yer almaya devam ediyor. Okul ve kurumlarda idareci olarak görev almak isteyen binlerce öğretmen, başvuru takviminin açıklanaca",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/lgs-2026-sonuc-tarihi-2026-lgs-sonuclari-ne-zaman-aciklanacak-lgs-sonuclari-nasil-ogrenilir-3895694",
-      "publishedAt": "Thu, 02 Jul 2026 09:53:48 GMT"
+      "link": "https://www.haberturk.com/meb-yonetici-gorevlendirme-2026-yonetici-gorevlendirme-basvurulari-ne-zaman-basliyor-yonetici-yetistirme-programi-sinavi-ne-zaman-3895959",
+      "publishedAt": "Fri, 03 Jul 2026 09:02:06 GMT"
     },
     {
-      "title": "İspanya - Avusturya maçı ne zaman?",
-      "summary": "2026 FIFA Dünya Kupası’nda heyecan tüm hızıyla sürüyor. Grup aşamasını başarıyla tamamlayan takımlar, son 32 turunda karşı karşıya gelerek bir üst tura yükselmek için mücadele ediyor. Sürpriz sonuçların dikkat çektiği bu kritik süreçte artı",
+      "title": "Zamlı memur maaşı ne zaman yatacak?",
+      "summary": "Temmuz 2026 maaş zammının belli olmasıyla birlikte memur ve memur emeklilerinin gözü ödeme takvimine çevrildi. Haziran ayı enflasyon verilerinin açıklanmasının ardından memur maaşlarına uygulanacak yüzde 13,52'lik artış kesinleşirken, zamlı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ispanya-avusturya-maci-canli-izle-ispanya-avusturya-maci-ne-zaman-saat-kacta-hangi-kanalda-dunya-kupasi-canli-izle-ekrani-3895676",
-      "publishedAt": "Thu, 02 Jul 2026 09:08:09 GMT"
+      "link": "https://www.haberturk.com/zamli-memur-maasi-ne-zaman-yatacak-temmuz-2026-memur-maasi-odeme-tarihleri-ile-memur-ve-memur-emeklisi-maas-farklari-ne-zaman-odenecek-3895956",
+      "publishedAt": "Fri, 03 Jul 2026 08:55:18 GMT"
     },
     {
-      "title": "Kademeli emeklilik çıkacak mı?",
-      "summary": "Kademeli emeklilik son dakika gelişmeleri, milyonlarca çalışanın gündemindeki yerini koruyor. Emeklilikte Yaşa Takılanlar (EYT) düzenlemesinin ardından 1999 sonrası sigorta girişi bulunan vatandaşlar, \"Kademeli emeklilik çıkacak mı?\", \"TBMM",
+      "title": "Kıdem tazminatı tavanı ne kadar oldu?",
+      "summary": "Milyonlarca özel sektör çalışanını yakından ilgilendiren Temmuz 2026 kıdem tazminatı tavanı için beklenen gelişme yaşandı. TÜİK'in haziran ayı enflasyon verilerini açıklamasıyla memur ve memur emeklilerinin zam oranı yüzde 13,52 olarak kesi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/erken-kademeli-emeklilik-2026-son-dakika-kademeli-emeklilik-ne-zaman-cikacak-sartlari-ne-1999-sonrasi-calisanlara-kademeli-emeklilik-cikacak-mi-3895669",
-      "publishedAt": "Thu, 02 Jul 2026 08:47:12 GMT"
+      "link": "https://www.haberturk.com/temmuz-2026-kidem-tazminati-tavani-ne-kadar-oldu-kidem-tazminati-ust-sinir-ne-2026-temmuz-zammi-ile-guncel-kidem-tazminati-aciklandi-mi-3895933",
+      "publishedAt": "Fri, 03 Jul 2026 07:53:31 GMT"
     },
     {
-      "title": "BİLSEM mülakat sonuçları ne zaman açıklanacak?",
-      "summary": "BİLSEM mülakat sonuçlarının açıklanacağı tarih, veliler ve öğrenciler tarafından büyük bir merakla beklenirken, süreçte yaşanan gelişmeler heyecanı her geçen gün daha da artırıyor. Değerlendirme aşamasının tamamlanmasına sayılı günler kala,",
+      "title": "AÖL 3. Dönem sınavları ne zaman?",
+      "summary": "Açık Öğretim Lisesi öğrencilerinin gündeminde yer alan 3. dönem sınav sürecine ilişkin detaylar netleşirken, gözler hem sınav tarihine hem de sınav giriş belgelerinin yayımlanacağı tarihe çevrildi. Milli Eğitim Bakanlığı tarafından ilan edi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilsem-sonuc-tarihi-2026-meb-bilsem-mulakat-sonuclari-ne-zaman-aciklanacak-3895663",
-      "publishedAt": "Thu, 02 Jul 2026 08:37:03 GMT"
+      "link": "https://www.haberturk.com/acik-ogretim-lisesi-sinavlari-2026-aol-3-donem-sinavlari-ne-zaman-meb-aol-yazili-sinav-giris-yerleri-belli-oldu-mu-3895906",
+      "publishedAt": "Fri, 03 Jul 2026 06:55:57 GMT"
     },
     {
-      "title": "Seramik halka arz katılım endeksine uygun mu?",
-      "summary": "Sermaye Piyasası Kurulu'ndan (SPK) onay alan İsvea Seramik ve Banyo Ürünleri Sanayi A.Ş., halka arz takvimini açıklayarak yatırımcıların odağına yerleşti. Borsaya açılan şirket için talep toplama tarihleri, hisse fiyatı, dağıtılması beklene",
+      "title": "DGS ne zaman?",
+      "summary": "Ön lisans eğitimlerini dört yıllık lisans programlarıyla tamamlamak isteyen binlerce aday, Dikey Geçiş Sınavı (DGS) heyecanla beklemeyi sürdürüyor. Eğitim hayatlarında önemli bir dönüm noktası olarak görülen bu sınav, adaylara akademik kari",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/isvea-seramik-halka-arz-tarihi-isvea-seramik-halka-arzi-kac-lot-verir-hisse-fiyati-ne-kadar-3895661",
-      "publishedAt": "Thu, 02 Jul 2026 08:12:45 GMT"
+      "link": "https://www.haberturk.com/dgs-sinav-tarihi-2026-dikey-gecis-sinavi-ne-zaman-dgs-sinav-sonuclari-ne-zaman-aciklanacak-dgs-sinav-giris-belgesi-yayimlandi-mi-3895896",
+      "publishedAt": "Fri, 03 Jul 2026 06:36:24 GMT"
     },
     {
-      "title": "Dışişleri personel alımı başvurusu ne zaman?",
-      "summary": "Dışişleri Bakanlığı personel alımıyla ilgili beklenen süreç yeniden gündeme geldi. Kamu kariyeri hedefleyen binlerce adayın yakından takip ettiği başvuru takvimi ve şartlara ilişkin gelişmeler merak konusu olurken, adayların hazırlıklarını ",
+      "title": "Bedelli askerlik ücreti açıklandı!",
+      "summary": "Bedelli askerlik ücretinde gözler Temmuz ayında güncellenen memur maaş katsayısına çevrildi. Hazine ve Maliye Bakanlığı tarafından belirlenecek yeni katsayıyla birlikte bedelli askerlik tutarı da yeniden hesaplanıyor. Milyonlarca yükümlü, y",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/disisleri-personel-alimi-2026-disisleri-personel-alimi-basvurusu-ne-zaman-disisleri-personel-alimi-sartlari-nelerdir-3895650",
-      "publishedAt": "Thu, 02 Jul 2026 07:51:50 GMT"
+      "link": "https://www.haberturk.com/temmuz-bedelli-askerlik-ucreti-son-dakika-2026-bedelli-askerlik-ucreti-ne-kadar-oldu-bedelli-askerlik-ucretine-yuzde-kac-zam-geldi-3895887",
+      "publishedAt": "Fri, 03 Jul 2026 07:45:00 GMT"
+    },
+    {
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:23:32 GMT"
     },
     {
       "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-      "summary": "The BBC visits Bandar Abbas to see how the US-Israeli war with Iran has affected everyday life in the port city.",
+      "summary": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
@@ -153,15 +161,23 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Jul 2026 02:07:35 GMT"
+      "publishedAt": "Fri, 03 Jul 2026 06:38:45 GMT"
     },
     {
-      "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
-      "summary": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
+      "title": "Nasa launches mission to save falling space telescope",
+      "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Jul 2026 03:50:18 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:28:17 GMT"
+    },
+    {
+      "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
+      "summary": "Monaco's prosecutor's office says the suspect is no longer in Monaco.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:58:26 GMT"
     },
     {
       "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
@@ -169,119 +185,103 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Jul 2026 02:33:40 GMT"
+      "publishedAt": "Fri, 03 Jul 2026 08:36:23 GMT"
     },
     {
-      "title": "'Most massive' Russian attack on Kyiv kills at least 30",
-      "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 03 Jul 2026 04:41:05 GMT"
-    },
-    {
-      "title": "How the American Dream has survived 250 years, but only just",
-      "summary": "The American Dream has persisted since the days of the Founding Fathers, but faith in the ideal is fading",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 02 Jul 2026 23:14:29 GMT"
-    },
-    {
-      "title": "Are Europe’s extreme summers the new normal? What the science says",
-      "summary": "WHO warns Europe must 'plan for heat like winter flu' as experts reveal how permanent this summer's extreme heat is.",
+      "title": "Argentina fans revel in Messi’s Miami homecoming before Cape Verde match",
+      "summary": "Argentinian supporters turn Miami Beach into a celebratory hub ahead of their team's only World Cup match in Messi city.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/7/3/are-europes-extreme-summers-the-new-normal-what-the-science-says?traffic_source=rss",
-      "publishedAt": "Fri, 03 Jul 2026 05:37:54 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/3/argentina-fans-revel-in-messis-miami-homecoming-before-cape-verde-match?traffic_source=rss",
+      "publishedAt": "Fri, 03 Jul 2026 11:09:35 +0000"
     },
     {
-      "title": "Delcy Rodriguez responds to public anger at government response",
-      "summary": "Delcy Rodriguez says 80% of the buildings that collapsed in earthquakes were privately developed.",
+      "title": "Nagelsmann quits as Germany coach after early World Cup 2026 exit",
+      "summary": "Nagelsmann's departure leaves the door open for former Liverpool manager Jurgen Klopp to take over, if he wants the job.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/delcy-rodriguez-responds-to-public-anger-at-government-response?traffic_source=rss",
-      "publishedAt": "Fri, 03 Jul 2026 05:07:23 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/3/nagelsmann-steps-down-germany-coach-klopp-paraguay-world-cup-round-of-32?traffic_source=rss",
+      "publishedAt": "Fri, 03 Jul 2026 11:08:07 +0000"
     },
     {
-      "title": "Switzerland beat Algeria 2-0 to reach World Cup Round of 16 in style",
-      "summary": "Switzerland remain unbeaten at the 2026 World Cup and will face either Colombia or Ghana in the next game.",
+      "title": "What is Nayara, the Indian firm Russia is reportedly importing oil from?",
+      "summary": "Ukrainian forces have repeatedly targeted Russian oil facilities causing long queues for fuel across the country.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/3/switzerland-algeria-fifa-world-cup-2026-score-embolo-ndoye?traffic_source=rss",
-      "publishedAt": "Fri, 03 Jul 2026 04:57:11 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/3/what-is-nayara-the-indian-firm-russia-is-reportedly-importing-oil-from?traffic_source=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:53:12 +0000"
     },
     {
-      "title": "Khamenei’s coffin readied as Iran prepares for seven-day funeral",
-      "summary": "Former Supreme Leader Ali Khamenei's coffin has been readied as Iran prepares for seven-day funeral.",
+      "title": "Moldova’s prime minister quits, triggering government’s resignation",
+      "summary": "Alexandru Munteanu's resignation came as pressure has intensified over alleged corruption in a state-owned company.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss",
-      "publishedAt": "Fri, 03 Jul 2026 04:25:48 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/3/moldovas-prime-minister-quits-triggering-governments-resignation?traffic_source=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:45:52 +0000"
     },
     {
-      "title": "Mapping Iran’s Ali Khamenei funeral: Where mourners will gather each day",
-      "summary": "Funeral processions for Iran's late supreme leader will take place between July 3-9 across Iran and Iraq.",
+      "title": "Russia’s triumphant tone shifts as Ukraine deploys ‘asymmetrical tactics’",
+      "summary": "Putin wobbles as Russia's top brass stays mum on Kyiv's long-range strikes, which analysts say look set to continue.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/3/mapping-irans-ali-khamenei-funeral-where-mourners-will-gather-each-day?traffic_source=rss",
-      "publishedAt": "Fri, 03 Jul 2026 04:18:04 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/3/russias-triumphant-tone-shifts-as-ukraine-deploys-asymmetrical-tactics?traffic_source=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:38:12 +0000"
     },
     {
-      "title": "Canada’s Carney secures deal for pipeline to expand oil exports beyond US",
-      "summary": "Ottawa says future pipeline will reduce economic dependence on the US amid Donald Trump's trade war.",
+      "title": "US Police staff spark altercation with Egyptian players posing with fans",
+      "summary": "US Police sparked a confrontation with Egypt's national team as they posed with fans at their hotel in Dallas.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/3/canadas-carney-secures-deal-for-pipeline-to-expand-oil-exports-beyond-us?traffic_source=rss",
-      "publishedAt": "Fri, 03 Jul 2026 04:17:37 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/us-police-staff-spark-altercation-with-egyptian-players-posing-with-fans?traffic_source=rss",
+      "publishedAt": "Fri, 03 Jul 2026 10:13:07 +0000"
     },
     {
-      "title": "Ex-HK bookseller Lam Wing-kee, detained by China in 2015, dies in Taiwan at 70",
-      "summary": "Lam was one of five people from Causeway Bay Books who disappeared in 2015. He later detailed his detention by Chinese authorities.",
+      "title": "Just gave birth or are about to? Share your story and questions about costs",
+      "summary": "The costs of having a baby in the U.S. can be hard to predict and budget for. We want to hear your stories and questions about how to navigate the system.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/03/g-s1-131904/ex-hk-bookseller-lam-wing-kee-detained-by-china-in-2015-dies-in-taiwan-at-70",
-      "publishedAt": "Fri, 03 Jul 2026 00:25:07 -0400"
+      "link": "https://www.npr.org/2026/07/03/nx-s1-5879531/birth-pregnancy-costs-healthcare-us",
+      "publishedAt": "Fri, 03 Jul 2026 07:03:00 -0400"
     },
     {
-      "title": "House Democrats accuse Trump of 'hijacking' America's 250th birthday for his own gain",
-      "summary": "A 55-page report from House Democrats accuses Freedom 250 of America's birthday celebrations for profit, using questionable fundraising methods. Watchdog groups had already sounded alarms.",
+      "title": "Former USAID head grieves its closure while hoping for its future",
+      "summary": "Former USAID administrator reflects on a year since USAID's shutdown and the new direction of US foreign aid.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/02/nx-s1-5879162/freedom-250-report-house-democrats-controversy",
-      "publishedAt": "Thu, 02 Jul 2026 17:47:30 -0400"
+      "link": "https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future",
+      "publishedAt": "Fri, 03 Jul 2026 07:00:00 -0400"
     },
     {
-      "title": "Christian missionaries have found a new (virtual) mission territory",
-      "summary": "The room may be virtual, but the prayer — and the evangelism — are not.",
+      "title": "A hot summer trend in the sharing economy? Rental swimming pools",
+      "summary": "The Airbnb-style company Swimply said there have been about 275,000 private pool reservations so far this year.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/02/g-s1-131124/christian-missionaries-have-found-a-new-virtual-mission-territory",
-      "publishedAt": "Thu, 02 Jul 2026 16:06:53 -0400"
+      "link": "https://www.npr.org/2026/07/03/nx-s1-5876505/swimming-pool-rental-sharing-economy-swimply",
+      "publishedAt": "Fri, 03 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Even fans who don't speak Spanish are watching the World Cup on Telemundo. Here's why",
-      "summary": "They may not understand every word, but fans appreciate exuberant announcers who match their enthusiasm. Plus, cameras stay on the field during hydration breaks rather than cutting to commercials.",
+      "title": "But first, coffee: The drink that energized the American Revolution",
+      "summary": "Colonial Americans were drinking coffee long before they dumped tea into Boston Harbor or fought a war for independence. The establishments that served it were already brewing revolutionary ideas.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/02/nx-s1-5876380/telemundo-world-cup-fox",
-      "publishedAt": "Thu, 02 Jul 2026 15:59:34 -0400"
+      "link": "https://www.npr.org/2026/07/03/nx-s1-5845436/coffee-july-4-colonies-america-250-1776-boston-tea-party",
+      "publishedAt": "Fri, 03 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "What to know about the Society of St. Pius X, the schismatic group excommunicated by the Pope",
-      "summary": "The Society of St. Pius X was excommunicated by Pope Leo for ordaining bishops without his permission. Its issues with the church run far deeper.",
+      "title": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
+      "summary": "The closure of the Strait of Hormuz disrupted shipments of fertilizer and natural gas, a key component in fertilizer manufacturing. It's unlikely to cause major price hikes for U.S. grocery shoppers.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/02/g-s1-131791/what-to-know-about-the-society-of-st-pius-x-the-schismatic-group-excommunicated-by-the-pope",
-      "publishedAt": "Thu, 02 Jul 2026 14:26:43 -0400"
+      "link": "https://www.npr.org/2026/07/03/nx-s1-5877344/fertilizer-shortage-food-prices",
+      "publishedAt": "Fri, 03 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Photos: Fans gather in the Bay Area for the World Cup match between the U.S. and Bosnia-Herzegovina",
-      "summary": "World Cup watch parties in Santa Clara and the San Francisco Bay Area brought fans together for the United States vs. Bosnia-Herzegovina match, where the U.S. earned a 2-0 win to reach the Round of 16.",
+      "title": "Oregon ER doctors win a 'David and Goliath' battle against a national company",
+      "summary": "In a test of a new state law, doctors in Eugene went up against a national physician staffing firm seeking to replace them. Their success is getting attention across the U.S. as other states consider similar laws.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/07/02/g-s1-131712/photos-fans-gather-in-the-bay-area-for-the-world-cup-match-between-the-u-s-and-bosnia-herzegovina",
-      "publishedAt": "Thu, 02 Jul 2026 13:51:50 -0400"
+      "link": "https://www.npr.org/2026/07/03/nx-s1-5875435/eugene-oregon-corporate-medicine-emergency-doctors",
+      "publishedAt": "Fri, 03 Jul 2026 05:00:00 -0400"
     },
     {
       "title": "‘Give him any award, and he’ll come running’: Narendra Modi racks up honours on overseas trips",
@@ -371,17 +371,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 26,
-      "description": "partly cloudy",
-      "high": 30,
-      "low": 22
+      "tempC": 29,
+      "description": "overcast",
+      "high": 29,
+      "low": 23
     },
     {
       "place": "London",
-      "tempC": 16,
+      "tempC": 21,
       "description": "overcast",
-      "high": 26,
-      "low": 15
+      "high": 27,
+      "low": 14
     }
   ],
   "facts": [
