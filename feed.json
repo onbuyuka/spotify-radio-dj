@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-04T13:18:14.608Z",
+  "updated": "2026-07-04T15:59:52.536Z",
   "news": [
+    {
+      "title": "CHP Ankara milletvekili Adnan Beker partisinden istifa etti",
+      "summary": "CHP Ankara Milletvekili Adnan Beker, partisinden istifa ettiğini açıkladı. Beker, bağımsız milletvekili olarak siyasi hayatına devam edeceğini belirtti.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c70y8eepd9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 04 Jul 2026 14:07:48 GMT"
+    },
     {
       "title": "Ukrayna'dan St. Petersburg'a İHA saldırısı: Petrol terminali alevler içinde",
       "summary": "Ukrayna'ya ait insansız hava araçları 4 Temmuz Cumartesi günü St. Petersburg kenti ve Leningrad bölgesine saldırı düzenledi. Bölgenin en büyük petrol terminallerinden birinde yangın çıktığı bildirildi.",
@@ -26,28 +34,20 @@
       "publishedAt": "Sat, 04 Jul 2026 11:41:26 GMT"
     },
     {
+      "title": "Japonya'da bir belediye başkanı doğum izni alacağını açıklayınca ülkenin gündemine oturdu",
+      "summary": "Eleştirilere rağmen, 35 yaşındaki Shoko Kawata, işini sevdiğini ve bebek sahibi olmak için izin almaktan gurur duyduğunu söylüyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c5yzr2442wyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 04 Jul 2026 13:41:38 GMT"
+    },
+    {
       "title": "ABD bağımsızlığının 250. yılını kutluyor",
       "summary": "Amerikan tarihinin en önemli dönüm noktalarından biri olan ülkenin bağımsızlığının 250'nci yıldönümünü kutlamak için ABD genelinde etkinlikler düzenleniyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c9q23g48d19o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 07:47:06 GMT"
-    },
-    {
-      "title": "Taylor Swift ve Travis Kelce New York'ta evlendi",
-      "summary": "Pop süperstarı Taylor Swift ve Amerikan futbol oyuncusu Travis Kelce, komedyen Adam Sandler'ın yönettiği ve yıldızlarla dolu bir törenle resmen evlendi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c0qy289n70qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 07:19:14 GMT"
-    },
-    {
-      "title": "Depremlerde daha çok insanın ölmesi ile iklim değişikliği arasında bağlantı var mı?",
-      "summary": "Yerleşim bölgelerinde meydana gelen depremler genellikle aynı soruları gündeme getiriyor: Depremler daha sık ve daha ölümcül hale mi geliyor ve bunun sorumlusu iklim değişikliği mi?",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cn07kewg2pgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 11:43:31 GMT"
+      "publishedAt": "Sat, 04 Jul 2026 15:39:39 GMT"
     },
     {
       "title": "Enkazdan 248. saatte kurtarılmıştı. Mucize kız Aleyna mezun oldu",
@@ -64,11 +64,11 @@
       "publishedAt": "2026-07-04T15:54:17+03:00"
     },
     {
-      "title": "Kütahya'da ve Malatya'da orman yangını",
-      "summary": "Kütahya'da ve Malatya'da orman yangını çıktı. Ekiplerin alevlere müdahalesi sürüyor.",
+      "title": "Malatya'da orman yangını. Ekiplerin müdahalesi sürüyor",
+      "summary": "Kütahya'da ve Malatya'da öğle saatlerinde orman yangını çıktı. Kütahya'daki yangın kontrol altına alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-04T14:59:23+03:00"
+      "publishedAt": "2026-07-04T16:29:49+03:00"
     },
     {
       "title": "Eski nişanlısını rehin aldı, camla saldırdı",
@@ -140,14 +140,6 @@
       "publishedAt": "Fri, 03 Jul 2026 21:55:58 GMT"
     },
     {
-      "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-      "summary": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 02:26:54 GMT"
-    },
-    {
       "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
       "summary": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
       "source": "BBC World",
@@ -156,12 +148,12 @@
       "publishedAt": "Sat, 04 Jul 2026 02:57:48 GMT"
     },
     {
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 07:52:55 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 04 Jul 2026 14:07:31 GMT"
     },
     {
       "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
@@ -172,20 +164,68 @@
       "publishedAt": "Sat, 04 Jul 2026 09:45:55 GMT"
     },
     {
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+      "title": "Injury ends Williams' Wimbledon comeback",
+      "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 13:13:52 GMT"
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 04 Jul 2026 15:06:26 GMT"
     },
     {
-      "title": "'Flamingo Revolution' takes off as thousands demand Albanian PM's resignation",
-      "summary": "Flamingos have become a national symbol of protest, triggered by opposition to a luxury development.",
+      "title": "Pope urges Europe to do more for migrants while visiting gateway island",
+      "summary": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 00:43:26 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 04 Jul 2026 11:25:57 GMT"
+    },
+    {
+      "title": "Row after Indian state drops eggs from school lunch menu",
+      "summary": "West Bengal's move to replace eggs in some school meals has sparked a wider debate over nutrition and choice.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 04 Jul 2026 00:55:10 GMT"
+    },
+    {
+      "title": "Iran promotes message of continuity and revenge at Khamenei commemoration",
+      "summary": "Iran will be shut down on Sunday and Monday to encourage more mourners to join funeral procession.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 15:49:39 +0000"
+    },
+    {
+      "title": "Russian attacks leave trail of destruction across Ukraine",
+      "summary": "Russian attacks leave trail of destruction across Ukraine",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/russian-attacks-leave-trail-of-destruction-across-ukraine?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 15:46:35 +0000"
+    },
+    {
+      "title": "Canada vs Morocco LIVE: FIFA World Cup 2026 last 16",
+      "summary": "Live coverage and text updates as cohosts Canada play Morocco in the round of 16 knockout stage.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/4/canada-vs-morocco-live-fifa-world-cup-2026-last-16?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Brain drain leaves Yemen’s health sector in tatters and millions helpless",
+      "summary": "Yemen's health professionals have been leaving the country in search of higher income and a safer working environment.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/features/2026/7/4/brain-drain-leaves-yemens-health-sector-in-tatters-and-millions-helpless?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 13:38:32 +0000"
+    },
+    {
+      "title": "Why closure matters at the end of life",
+      "summary": "A peaceful, supported end-of-life experience — focused on family and closure — can transform both dying and grieving.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/features/longform/2026/7/4/why-closure-matters-at-the-end-of-life?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 12:41:19 +0000"
     },
     {
       "title": "Nabatieh recovery begins amid ongoing southern Lebanon tensions",
@@ -196,44 +236,20 @@
       "publishedAt": "Sat, 04 Jul 2026 12:31:20 +0000"
     },
     {
-      "title": "Pope Leo urges migrant protection, integration on visit to Lampedusa",
-      "summary": "Pontiff urges people in Europe and US to welcome and assist migrants during symbolic trip to Italy’s frontier island.",
-      "source": "Al Jazeera",
+      "title": "Move over Chutes & Ladders: Schisto & Ladders has educational value plus worms",
+      "summary": "Spread by parasitic worms that can infect via a splash of water, schistosomiasis causes debilitating symptoms. It hits kids hard. A board game teaches how to prevent it.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/4/pope-urges-protection-integration-of-migrants-on-visit-to-island-frontier?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 12:17:29 +0000"
+      "link": "https://www.npr.org/2026/07/04/g-s1-129679/chutes-ladders-schistosomiasis-worms-parasites",
+      "publishedAt": "Sat, 04 Jul 2026 11:51:49 -0400"
     },
     {
-      "title": "Firefighters race to contain flames in northeastern Spain",
-      "summary": "Firefighters race to contain flames in northeastern Spain",
-      "source": "Al Jazeera",
+      "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks",
+      "summary": "The shake-up is believed to be an effort to ensure the military's loyalty to the Communist Party and its leader, Xi Jinping.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/firefighters-race-to-contain-flames-in-northeastern-spain?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 12:09:27 +0000"
-    },
-    {
-      "title": "England vs Mexico at Azteca: Kickoff, altitude and weather explained",
-      "summary": "The pitch at the Azteca is 2,240 metres above sea level. At that altitude, air is thinner and makes breathing difficult.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/4/england-mexico-fifa-world-cup-azteca-kickoff-altitude-weather-explained?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 11:27:18 +0000"
-    },
-    {
-      "title": "Thousands protest in Germany as far-right AfD party meets",
-      "summary": "Protesters from unions, civil society and left-wing parties aim to disrupt AfD annual conference in Erfurt.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 11:18:18 +0000"
-    },
-    {
-      "title": "America250: How the US heatwave will affect Fourth of July celebrations",
-      "summary": "From Washington to LA, how plans to mark the United States' 250th anniversary could be disrupted by extreme heat.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/4/america250-how-the-us-heatwave-will-affect-fourth-of-july-celebrations?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 11:00:47 +0000"
+      "link": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
+      "publishedAt": "Sat, 04 Jul 2026 10:07:57 -0400"
     },
     {
       "title": "Opinion: America is still a work in progress",
@@ -268,28 +284,12 @@
       "publishedAt": "Sat, 04 Jul 2026 01:04:16 -0400"
     },
     {
-      "title": "Reflections on America's 250th birthday",
-      "summary": "NPR member station reporters across the U.S. asked people how they are thinking about their country on its semiquincentennial.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/04/nx-s1-5876246/reflections-on-americas-250th-birthday",
-      "publishedAt": "Sat, 04 Jul 2026 00:00:00 -0400"
-    },
-    {
-      "title": "After weeks of speculation, Taylor Swift, Travis Kelce wed in New York",
-      "summary": "Superfans and sleuths appear to have their hunches confirmed on Friday, as dozens of black cars dropped off elegantly dressed guests outside of Madison Square Garden in New York City. The wedding bash is expected to last into Saturday morni",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/03/nx-s1-5877361/taylor-swift-travis-kelce-wedding-msg",
-      "publishedAt": "Fri, 03 Jul 2026 17:03:00 -0400"
-    },
-    {
       "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-      "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima is losing count of the number of drone attacks on the besieged city of El Obeid in Sudan, but says the attacks this past wee",
+      "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past week",
       "source": "The Guardian",
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-      "publishedAt": "Sat, 04 Jul 2026 12:43:43 GMT"
+      "publishedAt": "Sat, 04 Jul 2026 15:14:18 GMT"
     },
     {
       "title": "Overseas education project for women and girls axed by UK after two years",
@@ -371,14 +371,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 24,
-      "description": "thunderstorm",
+      "tempC": 23,
+      "description": "rain showers",
       "high": 26,
-      "low": 22
+      "low": 23
     },
     {
       "place": "London",
-      "tempC": 27,
+      "tempC": 28,
       "description": "mainly clear",
       "high": 28,
       "low": 16
