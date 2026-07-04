@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T19:07:03.436Z",
+  "updated": "2026-07-04T21:56:21.730Z",
   "news": [
     {
       "title": "ABD bağımsızlığının 250. yılını kutluyor",
@@ -50,6 +50,13 @@
       "publishedAt": "Sat, 04 Jul 2026 11:41:26 GMT"
     },
     {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Temmuz 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-05T00:30:00+03:00"
+    },
+    {
       "title": "TAYFUN Blok-3 füzesi ilke imza attı",
       "summary": "TAYFUN Blok-3 füzesi, uzun menzilde ilk kez su üstü hareketli hedefi cerrahi hassasiyetle imha etti.",
       "source": "NTV",
@@ -83,13 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-04T19:42:27+03:00"
-    },
-    {
-      "title": "Yol kenarında servet buldu, polise teslim etti",
-      "summary": "Düzce'de temizlik işçisi, yol kenarında bulduğu altın dolu çantayı polise teslim etti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-04T19:11:16+03:00"
     },
     {
       "title": "Hamaney'e Tahran'da veda töreni",
@@ -188,52 +188,60 @@
       "publishedAt": "Sat, 04 Jul 2026 11:25:57 GMT"
     },
     {
-      "title": "Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week",
-      "summary": "The visit would mark Netanyahu's seventh visit to the US since Trump returned to office for a second term as president.",
+      "title": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
+      "summary": "Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/4/trump-hints-israels-benjamin-netanyahu-may-visit-us-as-early-as-next-week?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 18:17:58 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 21:08:18 +0000"
     },
     {
-      "title": "Turkiye’s Erdogan says Israel must not be able to ‘dynamite’ US-Iran deal",
-      "summary": "The Turkiye leader has repeatedly accused Israel of trying to undermine the US-Iran memorandum of understanding.",
+      "title": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
+      "summary": "In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can 'open a new page of hope'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 18:09:20 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 20:06:41 +0000"
     },
     {
-      "title": "France vs Paraguay LIVE: FIFA World Cup 2026 last 16",
-      "summary": "Live coverage and text commentary stream updates as Mbappe's France face Paraguay in the Round of 16 knockout game.",
+      "title": "Ounahi fires Morocco into World Cup quarterfinals with 3-0 win over Canada",
+      "summary": "Azzedine Ounahi scored two of three second-half goals as Morocco ended cohosts run to reach last eight.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/4/france-vs-paraguay-live-fifa-world-cup-2026?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 17:51:21 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/4/ounahi-fires-morocco-into-world-cup-quarterfinals-with-3-0-win-over-canada?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 20:03:15 +0000"
     },
     {
-      "title": "Police clash with protesters outside AfD meeting",
-      "summary": "German police scuffled with protesters as the far-right Alternative for Germany (AfD) held its national convention",
+      "title": "A politically charged holiday: The US celebrates its 250th anniversary",
+      "summary": "The semiquincentennial has been meet with controversy, as President Trump seeks to exert influence over the celebration.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/police-clash-with-protesters-outside-afd-meeting?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 17:13:01 +0000"
+      "link": "https://www.aljazeera.com/gallery/2026/7/4/a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 19:43:18 +0000"
     },
     {
-      "title": "FIFA World Cup 2026: Best Round of 16 knockout matches to watch",
-      "summary": "As the tournament enters the second knockout phase, there are several blockbuster matchups led by Spain-Portugal.",
+      "title": "America’s Indigenous Legacy",
+      "summary": "The Potomac isn't just the name of a river, it's part of a much older story. Al Jazeera's Emma Withrow explains.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/4/biggest-fifa-world-cup-matches-to-watch-in-round-of-16-knockout-stage?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 16:51:20 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/americas-indigenous-legacy?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 19:32:43 +0000"
     },
     {
-      "title": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
-      "summary": "A further nine bodies were recovered from under the rubble, according to Gaza's Ministry of Health.",
+      "title": "Has the US reckoned with its own history?",
+      "summary": "Marc Lamont Hill speaks to scholar Kimberle Crenshaw on whether the US is sliding backwards on civil rights.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 16:23:48 +0000"
+      "link": "https://www.aljazeera.com/video/upfront/2026/7/4/has-the-us-reckoned-with-its-own-history?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 19:30:00 +0000"
+    },
+    {
+      "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
+      "summary": "President Trump ushered in America's 250th anniversary with a darkly political speech that swerved from the typically apolitical, unifying speeches past presidents have given to mark Independence Day.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/04/g-s1-132025/mount-rushmore-speech-trump-july-4-250",
+      "publishedAt": "Sat, 04 Jul 2026 16:34:31 -0400"
     },
     {
       "title": "Washington's July 4 parade is off. The fireworks are still on",
@@ -276,12 +284,12 @@
       "publishedAt": "Sat, 04 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Cape Verde's historic World Cup ride ends after pushing Argentina to the brink",
-      "summary": "Cape Verde didn't win a match at the World Cup, and somehow, that didn't seem to matter. The African team's debut on this stage was unforgettable.",
-      "source": "NPR",
+      "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
+      "summary": "Well-preserved fourth-century quarters reveal details of daily life, urban development and economic activitiesArchaeologists in Egypt have uncovered a well-preserved Byzantine-era city in the western desert.The fourth-century quarters had r",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
-      "publishedAt": "Sat, 04 Jul 2026 01:44:19 -0400"
+      "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
+      "publishedAt": "Sat, 04 Jul 2026 20:32:52 GMT"
     },
     {
       "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/jul/03/narendra-modi-awards-honours-overseas-trips",
       "publishedAt": "Fri, 03 Jul 2026 00:00:13 GMT"
-    },
-    {
-      "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-      "summary": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and NigeriaFloods in Côte d’Ivoire have killed 59 people since May, the communication minister told a cabinet meeting in Abidjan.Ther",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-      "publishedAt": "Thu, 02 Jul 2026 11:01:32 GMT"
     }
   ],
   "sports": [
@@ -331,7 +331,7 @@
       "home": "Canada",
       "away": "Morocco",
       "homeScore": 0,
-      "awayScore": 1,
+      "awayScore": 3,
       "status": "FT",
       "date": "2026-07-04"
     },
@@ -339,7 +339,9 @@
       "league": "World Cup",
       "home": "Paraguay",
       "away": "France",
-      "status": "upcoming",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
       "date": "2026-07-04"
     },
     {
@@ -375,13 +377,13 @@
       "place": "İstanbul",
       "tempC": 23,
       "description": "partly cloudy",
-      "high": 26,
-      "low": 23
+      "high": 28,
+      "low": 21
     },
     {
       "place": "London",
-      "tempC": 26,
-      "description": "overcast",
+      "tempC": 22,
+      "description": "clear sky",
       "high": 28,
       "low": 16
     }
