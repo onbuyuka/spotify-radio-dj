@@ -1,103 +1,135 @@
 {
-  "updated": "2026-07-05T06:38:26.562Z",
+  "updated": "2026-07-05T11:02:50.563Z",
   "news": [
     {
-      "title": "ABD bağımsızlığının 250. yılını kutluyor",
-      "summary": "Amerikan tarihinin en önemli dönüm noktalarından biri olan ülkenin bağımsızlığının 250'nci yıldönümünü kutlamak için ABD genelinde etkinlikler düzenleniyor.",
+      "title": "Türkiye ve NATO: 1952'den bugüne krizlerle şekillenen stratejik ortaklık",
+      "summary": "Türkiye’nin NATO’ya 1952’de katılımıyla başlayan ortaklık, Soğuk Savaş’tan günümüze uzanan krizler ve jeopolitik gerilimlerle şekillendi. Ankara, ittifak içinde zaman zaman yaşanan siyasi ve askeri anlaşmazlıklara rağmen NATO’nun güvenlik m",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/czj8wz12peko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 07:26:05 GMT"
+    },
+    {
+      "title": "Deniz Göktaş'ın avukatı: Saç, kıl, tırnak örnekleri alındı",
+      "summary": "Tutuklanan komedyen Deniz Göktaş'ın avukatı Metin Sinan Aslan, müvekkilinin halk arasında 'kuyu tipi' olarak bilinen Karatepe Cezaevi'nde tek kişilik bir odada tutulduğunu; gözaltı sırasında uyuşturucu suçlaması yapılmamasına rağmen Göktaş'",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cx2ww9pwqpxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 10:12:18 GMT"
+    },
+    {
+      "title": "'Hayatı bir fanteziden ibaretti': John le Carré'nin dolandırıcı babası casus romanlarını nasıl şekillendirdi?",
+      "summary": "Yazar John le Carré'nin hayatı ve romanları, elit bir hayat yaşayan dolandırıcı babası tarafından şekillendirildi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cq61qj1lzz2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 07:27:34 GMT"
+    },
+    {
+      "title": "İnsanların görünüşü gelecekte nasıl değişecek?",
+      "summary": "Bilim insanları hala evrimleşmekte olduğumuzu söylüyor. Fakat gen düzenleme gibi yeni teknolojiler sayesinde, gelecekteki görünümümüz beklenmedik şekillerde değişebilir.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c78yj0mgrjyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 07:43:50 GMT"
+    },
+    {
+      "title": "Uzmanlara göre çocuklara daha fazla sebze yedirmenin en etkili altı yolu",
+      "summary": "Çocukların yeterince sebze yemesini sağlamak zor olabilir. Neyse ki araştırmacılar çocuklukta beslenme alışkanlıklarını iyileştirmenin yeni yollarını araştırıyor ve bazı yenilikçi çözümler bulmuş durumda.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cdxdgq9w136o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 07:28:30 GMT"
+    },
+    {
+      "title": "ABD bağımsızlığının 250. yılını kutladı",
+      "summary": "ABD genelinde, ülkenin bağımsızlığının 250'nci yıldönümünü kutlamak için havai fişekler ve uçak gösterileri dahil çeşitli etkinlikler düzenlendi. Ancak aşırı hava koşulları bazı gösterilere engel oldu.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c9q23g48d19o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 15:39:39 GMT"
+      "publishedAt": "Sun, 05 Jul 2026 08:19:56 GMT"
     },
     {
-      "title": "Ukrayna'dan St. Petersburg'a İHA saldırısı: Petrol terminali vuruldu",
-      "summary": "Ukrayna Cumhurbaşkanı Volodimir Zelenskiy, Rusya'nın kuzeybatısındaki ikinci büyük şehri St. Petersburg'da bulunan önemli bir petrol terminalinin gece saatlerinde Ukrayna tarafından vurulduğunu açıkladı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cn0784njj71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 16:12:01 GMT"
-    },
-    {
-      "title": "CHP Ankara milletvekili Adnan Beker partisinden istifa etti",
-      "summary": "CHP Ankara Milletvekili Adnan Beker, partisinden istifa ettiğini açıkladı. Beker, bağımsız milletvekili olarak siyasi hayatına devam edeceğini belirtti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c70y8eepd9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 14:07:48 GMT"
-    },
-    {
-      "title": "En fazla nüfusa sahip 10 ülkenin sekizi neden Dünya Kupası'nda yok?",
-      "summary": "Yüksek nüfuslu birçok ülke, futbolun en büyük şöleninden sürekli mahrum kalıyor. Peki futbolda başarı için geniş bir oyuncu havuzu yeterli mi?",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c2lyr4wzlxyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 10:15:26 GMT"
-    },
-    {
-      "title": "Japonya'da bir belediye başkanı doğum izni alacağını açıklayınca ülkenin gündemine oturdu",
-      "summary": "Eleştirilere rağmen, 35 yaşındaki Shoko Kawata, işini sevdiğini ve bebek sahibi olmak için izin almaktan gurur duyduğunu söylüyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c5yzr2442wyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 13:41:38 GMT"
-    },
-    {
-      "title": "Hamaney için Tahran'da 'veda ve cenaze' töreni devam ediyor",
-      "summary": "Suikaste uğrayan İran'ın dini lideri Ali Hamaney için ölümünden yaklaşık dört ay sonra düzenlenen \"veda ve cenaze\" töreni Tahran'da devam ediyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/clyrxndzv9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 11:41:26 GMT"
-    },
-    {
-      "title": "Plan yapanlara kötü haber: Bugün denize girmek yasaklandı, İstanbul'dan üç ilçe de listede",
-      "summary": "Türkiye'nin bazı kesimlerinde etkili olan hava şartları nedeniyle bazı şehirlerde ve ilçelerde denize girmek yasaklandı. Listede İstanbul'dan da üç ilçe var.",
+      "title": "30 yıldır yiyordu bu sefer hastanelik oldu",
+      "summary": "Erzurum'da bir kişi mantar zehirlenmesi şüphesiyle hastaneye kaldırıldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-05T09:22:26+03:00"
+      "publishedAt": "2026-07-05T13:53:04+03:00"
     },
     {
-      "title": "Biri 14, diğeri 15 yaşında: Suç kaydı sayıları şaşkına çevirdi!",
-      "summary": "İstanbul'da çocuk yaştaki iki hırsızlık şüphelisi polis tarafından yakalandı. Biri 14, diğeri 15 olan iki çocuğun polisteki suç kaydı sayısı şaşkına çevirdi.",
+      "title": "Düğün konvoyuyla trafiği kitlediler: 289 bin 986 lira ceza",
+      "summary": "Pendik'te düğün konvoyu sırasında yolu kapatarak trafiği tehlikeye düşüren sürücüler, sanal medya da paylaşılan görüntülerin ardından polis ekiplerinin çalışmasıyla tespit edildi. Kimlikleri belirlenen 6 sürücüye toplam 289 bin 986 lira cez",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-05T08:58:54+03:00"
+      "publishedAt": "2026-07-05T13:30:38+03:00"
     },
     {
-      "title": "Ankara'da NATO Zirvesi öncesi yeni operasyon",
-      "summary": "Ankara'da 7-8 Temmuz tarihlerinde gerçekleşecek NATO Liderler Zirvesi öncesinde hazırlıklar sürüyor.",
+      "title": "Dünyanın gözü NATO Zirvesi için Ankara'da: Belirsizlikler döneminde hangi kararlar alınacak?",
+      "summary": "NATO ittifak tarihinin en önemli toplantılarından biri Ankara'da yapılacak. Türkiye, İttifak'ın yeni dönemine yön verecek kritik görüşmelere ev sahipliği yapacak.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-05T08:25:46+03:00"
+      "publishedAt": "2026-07-05T13:25:02+03:00"
     },
     {
-      "title": "Adli tatil tarihi 2026: Adli tatil başladı mı, ne zaman başlayacak?",
-      "summary": "Adli tatil tarihi, hukukçular ve mahkemelerde aktif davası ya da hukuki süreci devam eden binlerce vatandaş tarafından sorgulanmaya başladı. 6100 sayılı Hukuk Muhakemeleri Kanunu (HMK) ve 5271 sayılı Ceza Muhakemesi Kanunu (CMK) kapsamında ",
+      "title": "Malatya'da feci kaza: İki ölü, dört ağır yaralı",
+      "summary": "Malatya'da ağaca çarpan otomobildeki iki kişi öldü, üçü çocuk dört kişi ağır yaralandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-05T08:23:09+03:00"
+      "publishedAt": "2026-07-05T13:13:19+03:00"
     },
     {
-      "title": "Çorlu'da akrobatik hareketler yapan motosikletliye ağır ceza",
-      "summary": "Tekirdağ'ın Çorlu ilçesinde polisin uygulama yaptığı sırada durumu fark etmeyerek ön tekerleğini kaldıran motosiklet sürücüsüne 46 bin lira ceza kesilirken, sürücü belgesine de 60 gün süreyle el konuldu.",
+      "title": "Balıkesir'de orman yangını",
+      "summary": "Balıkesir'in Kepsut ilçesinde orman yangını çıktı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-05T08:22:32+03:00"
+      "publishedAt": "2026-07-05T13:04:07+03:00"
     },
     {
-      "title": "Resmi Gazete'de bugün (5 Temmuz 2026 Resmi Gazete kararları)",
-      "summary": "Resmi Gazete'de 5 Temmuz 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 5 Temmuz 2026 tarihli ve 33301 Sayılı Resmi Gazete ayrıntıları.",
+      "title": "Apartman görevlisi ile kadın motokurye arasında asansör kullanımı tartışması karakolluk oldu",
+      "summary": "Antalya'da motokurye ile apartman görevlisi arasında asansör kullanımı nedeniyle çıkan tartışma kask kamerasına yansıdı. Apartman görevlisi olduğu öğrenilen şahıs kadın motokuryeye asansörü kullanamayacağını yürüyerek çıkmasını söyledikten ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-05T08:11:11+03:00"
+      "publishedAt": "2026-07-05T12:50:27+03:00"
     },
     {
-      "title": "Hamaney'e Tahran'da veda töreni",
-      "summary": "ABD ve İsrail'in 28 Şubat'ta düzenlediği saldırılarda hayatını kaybeden İran'ın eski dini lideri Hamaney için dün başlayan cenaze töreni devam ediyor. Bu sabah binlerce kişi Tahran'da Hamaney'e veda etmek için toplandı",
+      "title": "LGS sonuçları ne zaman açıklanacak?",
+      "summary": "Sonuçların ilan edilmesiyle birlikte öğrenciler, puanlarını ve yüzdelik dilimlerini öğrenerek tercih sürecine yön verecek kritik verileri elde etmiş olacak. Aynı gün içerisinde tercih sürecine ilişkin detayların da netleşmesi öngörülürken, ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/binlerce-kisi-toplandi-abd-israil-saldirisinda-hayatini-kaybeden-iranin-eski-lideri-hamaney-icin-tahran-da-veda-toreni-3896144",
-      "publishedAt": "Sat, 04 Jul 2026 07:36:31 GMT"
+      "link": "https://www.haberturk.com/lgs-sinav-sonuclari-aciklanma-tarihi-2026-meb-lgs-sonuclari-ne-zaman-aciklanacak-lgs-sonuclari-nasil-ogrenilir-3896304",
+      "publishedAt": "Sun, 05 Jul 2026 07:33:36 GMT"
+    },
+    {
+      "title": "Dün en çok ne izlendi?",
+      "summary": "Televizyon dünyasında yayınlanan dizi, film, yarışma ve gündüz kuşağı programlarının performansı, 4 Temmuz 2026 tarihli reyting verileriyle yeniden değerlendirildi. Total, AB ve ABC1 gruplarına göre şekillenen izlenme oranları, yapımlar ara",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/4-temmuz-reyting-sonuclari-dun-en-cok-ne-izlendi-hangi-yapim-reytinglerde-kacinci-oldu-3896296",
+      "publishedAt": "Sun, 05 Jul 2026 08:01:46 GMT"
+    },
+    {
+      "title": "Az önce deprem mi oldu?",
+      "summary": "5 Temmuz 2026 Pazar günü itibarıyla hem çevremizde hem de farklı bölgelerde meydana gelen depremler dikkat çekmeye başladı. Yaşanan sarsıntıların ardından vatandaşlar, “Deprem mi oldu, nerede, ne zaman, kaç şiddetinde?” sorularına yanıt arı",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/son-dakika-5-temmuz-en-son-depremler-listesi-az-once-deprem-mi-oldu-nerede-ne-zaman-kac-siddetinde-3896291",
+      "publishedAt": "Sun, 05 Jul 2026 06:25:14 GMT"
+    },
+    {
+      "title": "Hafta sonu altın fiyatları",
+      "summary": "Hafta sonuna girilirken altın piyasasında yukarı yönlü hareket dikkat çekiyor. Küresel gelişmeler ve döviz kurundaki dalgalanmaların etkisiyle yatırımcıların odağında yer alan altın fiyatları, özellikle gram ve çeyrek altın tarafında yakınd",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/altin-fiyatlari-4-temmuz-canli-son-durum-hafta-sonu-yukselis-suruyor-cumhuriyet-altini-ceyrek-ve-gram-altin-fiyatlari-ne-kadar-kac-tl-3896287",
+      "publishedAt": "Sun, 05 Jul 2026 08:04:37 GMT"
+    },
+    {
+      "title": "Yeni statü sembolü: Kara lastik",
+      "summary": "Yıllarca yoksulluğun simgesi olan gösterişsiz kara lastiğin, bugün Amerikan sosyetesinin statü sembolüne dönüşmesi sizce de çok ilginç değil mi?",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/stil/yeni-statu-sembolu-kara-lastik-3896123",
+      "publishedAt": "Sun, 05 Jul 2026 09:06:03 GMT"
     },
     {
       "title": "12. Yargı Paketi maddeleri",
@@ -105,47 +137,15 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/12-yargi-paketi-son-dakika-2026-12-yargi-paketi-ne-zaman-cikacak-12-yargi-paketi-maddeleri-neler-infaz-duzenlemesi-ve-af-var-mi-3896086",
-      "publishedAt": "Sat, 04 Jul 2026 07:08:14 GMT"
+      "publishedAt": "Sat, 04 Jul 2026 21:04:28 GMT"
     },
     {
-      "title": "Zamlı emekli maaşı tablosu",
-      "summary": "Türkiye İstatistik Kurumu'nun (TÜİK) haziran ayı enflasyon verilerini açıklamasıyla birlikte temmuz ayı emekli maaş zammı da netleşti. Buna göre SSK ve BAĞ-KUR emeklilerinin aylıklarına yüzde 17,76, memur emeklileri ile memur maaşlarına ise",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/zamli-emekli-maasi-hesaplama-2026-temmuz-20000-22000-23000-25000-30000-tl-emekli-maasi-alanlar-ne-kadar-maas-alacak-3896082",
-      "publishedAt": "Sat, 04 Jul 2026 07:59:34 GMT"
-    },
-    {
-      "title": "İntercity halka arz sonuçları açıklandı mı?",
-      "summary": "Ekim Turizm Ticaret ve Sanayi A.Ş. halka arzında talep toplama süreci 1, 2 ve 3 Temmuz tarihlerinde tamamlandı. İntercity markasıyla faaliyet gösteren şirketin halka arzına katılan yatırımcılar hesaplarına kaç lot düştüğünü araştırıyor. Hal",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/intercity-halka-arz-sonuclari-aciklandi-mi-ekim-turizm-kac-lot-verdi-ekim-borsada-ne-zaman-islem-gorecek-3896074",
-      "publishedAt": "Fri, 03 Jul 2026 22:01:22 GMT"
-    },
-    {
-      "title": "İsvea Seramik halka arz sonuçları",
-      "summary": "İsvea Seramik halka arzında talep toplama işlemleri 1-2-3 Temmuz tarihleri tamamlandı. Talep toplama işlemlerinin sona ermesinin ardından katılımcılar, İsvea Seramik halka arz sonuçlarının açıklanacağı tarihi ve kaç lot düştüğünü araştırmay",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/isvea-seramik-halka-arz-sonuclari-aciklandi-mi-isvea-seramik-kac-lot-verdi-isvea-borsada-ne-zaman-islem-gorecek-3896067",
-      "publishedAt": "Fri, 03 Jul 2026 22:01:33 GMT"
-    },
-    {
-      "title": "Emekli promosyonları ne kadar oldu?",
-      "summary": "Emekli maaşını farklı bir bankaya taşımayı düşünen vatandaşlar için promosyon kampanyaları yeniden gündemde. Bankalar, müşteri kazanmak adına sundukları nakit promosyon tutarlarını güncellerken, emekliler de en avantajlı teklifi veren banka",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/emekli-promosyonlari-2026-en-yuksek-emekli-promosyonu-veren-banka-hangisi-ssk-ve-bag-kur-emekli-maas-promosyonu-guncel-rakamlar-3896021",
-      "publishedAt": "Fri, 03 Jul 2026 21:55:58 GMT"
-    },
-    {
-      "title": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
+      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
       "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 04:38:09 GMT"
+      "publishedAt": "Sun, 05 Jul 2026 08:24:32 GMT"
     },
     {
       "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
@@ -154,6 +154,14 @@
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 04 Jul 2026 18:41:25 GMT"
+    },
+    {
+      "title": "Evacuations in Guam as super typhoon Bavi approaches",
+      "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 09:26:56 GMT"
     },
     {
       "title": "Chinese underground church figure Jin Mingri freed from prison",
@@ -180,60 +188,68 @@
       "publishedAt": "Sat, 04 Jul 2026 23:17:24 GMT"
     },
     {
-      "title": "Injury ends Williams' Wimbledon comeback",
-      "summary": "Serena Williams pulls out of her planned Wimbledon doubles appearance with older sister Venus because of a knee injury.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/ce95mxn1rlmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 17:22:46 GMT"
-    },
-    {
-      "title": "Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction",
-      "summary": "Norway are one of only three countries Brazil have faced at a World Cup without registering at least one victory.",
+      "title": "Release Dr Hussam Abu Safia immediately!",
+      "summary": "It’s been more than 1,000 days of genocide and 500 days of Abu Safia’s detention. We need urgent action to end both.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/5/brazil-vs-norway-fifa-world-cup-last-16-vinicius-haaland-and-prediction?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 06:22:26 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/7/5/release-dr-hussam-abu-safia-immediately?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 10:56:46 +0000"
     },
     {
-      "title": "Native Americans Resisting ICE",
-      "summary": "A Native American lawyer confronts ICE as he channels generational resistance into a fight for justice in the US.",
+      "title": "Mexico vs England: FIFA World Cup last 16 – Kane, prediction and altitude",
+      "summary": "One of the most anticipated knockout matches takes place when Mexico plays England at the Azteca in the round of 16.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/witness/2026/7/5/native-americans-resisting-ice?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 06:02:12 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/5/mexico-vs-england-fifa-world-cup-2026-kane-prediction-kickoff-time-altitude-round-of-16?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 10:33:40 +0000"
     },
     {
-      "title": "Trump lauds Americans in storm-delayed 250th anniversary speech",
-      "summary": "President Trump has praised Americans as ‘a historic and heroic people’, in a speech on the nation's 250th anniversary.",
+      "title": "Reform UK’s Farage failed to disclose funds from convicted criminal: Report",
+      "summary": "George Cottrell provided funds for Reform UK leader's security, drivers, staff and accommodation, Sunday Times reports.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_trump-lauds-americans-in-250th-anniversary-speech-050726?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 05:18:14 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/5/reform-uks-farage-failed-to-disclose-funds-from-convicted-criminal-report?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 10:25:04 +0000"
     },
     {
-      "title": "A name, a document, a future: Cameroon’s fight to register every child",
-      "summary": "Efforts to expand birth registration in Cameroon are gaining ground, but millions of children remain undocumented.",
+      "title": "How xenophobia went viral in South Africa",
+      "summary": "The online campaign stoking South Africa's latest xenophobic backlash.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 03:55:54 +0000"
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/5/how-xenophobia-went-viral-in-south-africa?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 09:53:48 +0000"
     },
     {
-      "title": "Fireworks light up New York City to mark 250 years of US independence",
-      "summary": "Fireworks lit up the New York City skyline as America marked its 250th anniversary.",
+      "title": "FIFA World Cup round of 16: Bracket, schedule, predictions and latest news",
+      "summary": "Second round of knockout matches features Brazil vs Norway, Mexico vs England. We have predictions and the latest news.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 02:55:06 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/5/fifa-world-cup-round-of-16-bracket-schedule-predictions-latest-news?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 09:18:34 +0000"
     },
     {
-      "title": "Severe weather disrupts US’s 250th celebrations",
-      "summary": "President Trump describes milestone as 'one of the most joyous and glorious' in US's history in campaign style speech.",
+      "title": "China releases underground church pastor after months in detention",
+      "summary": "Ezra Jin’s family says the Zion Church founder arrived in the US after months in detention in China.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 02:54:05 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 08:54:12 +0000"
+    },
+    {
+      "title": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
+      "summary": "The husband of former House Speaker Nancy Pelosi was involved in a hit-and-run in California that left a parked car with \"major\" damage, authorities said Saturday.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage",
+      "publishedAt": "Sun, 05 Jul 2026 06:28:42 -0400"
+    },
+    {
+      "title": "Pastor freed from prison in China weeks after Trump requested his release",
+      "summary": "A pastor of a prominent underground church who was detained in China in October has been released, less than two months after U.S. President Donald Trump brought up his case when meeting Chinese leader Xi Jinping.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request",
+      "publishedAt": "Sun, 05 Jul 2026 04:30:07 -0400"
     },
     {
       "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
       "publishedAt": "Sat, 04 Jul 2026 10:07:57 -0400"
-    },
-    {
-      "title": "Opinion: America is still a work in progress",
-      "summary": "Poets like Walt Whitman and Langston Hughes have written movingly about America.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/04/nx-s1-5871128/opinion-america-is-still-a-work-in-progress",
-      "publishedAt": "Sat, 04 Jul 2026 08:00:00 -0400"
-    },
-    {
-      "title": "'Cautiously optimistic': Swing voters describe their view of America at 250",
-      "summary": "As America turns 250, voters from our Swing Shift project talk about the state of the country. Their views ranged from \"uncertain\" and \"concerned\" to \"excited\" and \"cautiously optimistic.\"",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/04/nx-s1-5877727/swing-voters-america-250-midterms",
-      "publishedAt": "Sat, 04 Jul 2026 05:00:00 -0400"
     },
     {
       "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
@@ -355,17 +355,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
-      "description": "partly cloudy",
+      "tempC": 28,
+      "description": "mainly clear",
       "high": 28,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 19,
-      "description": "mainly clear",
-      "high": 29,
-      "low": 18
+      "tempC": 22,
+      "description": "overcast",
+      "high": 28,
+      "low": 17
     }
   ],
   "facts": [
