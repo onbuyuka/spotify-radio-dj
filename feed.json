@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T16:05:33.010Z",
+  "updated": "2026-07-05T19:13:14.313Z",
   "news": [
     {
       "title": "Türkiye ve NATO: 1952'den bugüne krizlerle şekillenen stratejik ortaklık",
@@ -50,6 +50,13 @@
       "publishedAt": "Sun, 05 Jul 2026 14:03:01 GMT"
     },
     {
+      "title": "Ölüm virajı kabusu bitecek, yol 5 dakikaya düşecek",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Çamlıbel Tüneli ile ulaşım kotunu 286 metre aşağı çekip 1684 metreden 1398 metreye indireceklerini ve 13 keskin virajı baypas edeceklerini belirterek, \"Güzergahı 2,3 kilometre kısaltarak seya",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-05T19:32:47+03:00"
+    },
+    {
       "title": "Son dakika Adıyaman'da deprem mi oldu? Az önce deprem Adıyaman'da nerede oldu? Adıyaman deprem Kandilli ve AFAD son depremler listesi 05 Temmuz 2026",
       "summary": "Son dakika Adıyaman deprem haberleri.. Adıyaman'da deprem mi oldu? Az önce deprem Adıyaman'da nerede oldu? Adıyaman Kandilli ve AFAD son depremler.. 05 Temmuz 2026 Adıyaman deprem son dakika haberleri haberin detayında... Artçı deprem mi ol",
       "source": "NTV",
@@ -85,11 +92,12 @@
       "publishedAt": "2026-07-05T15:33:52+03:00"
     },
     {
-      "title": "Ankara'da NATO Zirvesi hareketliliği başladı",
-      "summary": "Ankara'da düzenlenecek olan ⁠NATO Zirvesi öncesinde Ankara Havalimanı'nda hareketlilik yaşandığı gözlendi.",
-      "source": "NTV",
+      "title": "Okullar ne zaman açılacak?",
+      "summary": "Karnelerini alan milyonlarca öğrenci yaz tatiline girerken, velilerin gündeminde ise okulların ne zaman açılacağı sorusu öne çıkıyor. Milli Eğitim Bakanlığı tarafından yayımlanan 2026-2027 eğitim öğretim yılı çalışma takvimiyle birlikte; ok",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-05T16:29:52+03:00"
+      "link": "https://www.haberturk.com/okullar-ne-zaman-acilacak-2026-2027-okullar-ne-zaman-acilacak-ilkokul-ortaokul-ve-lise-kayitlari-ne-zaman-okullarin-acilmasina-ne-kadar-kaldi-3896330",
+      "publishedAt": "Sun, 05 Jul 2026 09:39:52 GMT"
     },
     {
       "title": "LGS sonuçları ne zaman açıklanacak?",
@@ -132,20 +140,12 @@
       "publishedAt": "Sun, 05 Jul 2026 09:06:03 GMT"
     },
     {
-      "title": "12. Yargı Paketi maddeleri",
-      "summary": "12. Yargı Paketi, TBMM Adalet Komisyonu'nda kabul edilirken teklifin Genel Kurul süreci için geri sayım başladı. Düzenlemede kamuoyunda \"IBAN mağdurları\" olarak bilinen banka hesabını kullandıran kişilere yönelik ceza indirimi düzenlemesi d",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/12-yargi-paketi-son-dakika-2026-12-yargi-paketi-ne-zaman-cikacak-12-yargi-paketi-maddeleri-neler-infaz-duzenlemesi-ve-af-var-mi-3896086",
-      "publishedAt": "Sat, 04 Jul 2026 21:04:28 GMT"
-    },
-    {
       "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
       "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 15:48:55 GMT"
+      "publishedAt": "Sun, 05 Jul 2026 17:58:01 GMT"
     },
     {
       "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
@@ -188,52 +188,68 @@
       "publishedAt": "Sat, 04 Jul 2026 23:17:24 GMT"
     },
     {
-      "title": "Cape Verde celebrates team’s return after historic World Cup",
-      "summary": "Cape Verde's football team is getting a hero's welcome on its return home after a historic World Cup run.",
+      "title": "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent",
+      "summary": "Massive crowds gathered in Tehran to mourn Khamenei’s death, with chants calling for revenge against the US and Israel.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/cape-verde-celebrates-teams-return-after-historic-world-cup?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 14:48:26 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 18:55:37 +0000"
     },
     {
-      "title": "Extreme weather disrupts US’s 250th anniversary celebrations",
-      "summary": "Extreme weather disrupted the US’s 250th anniversary celebrations, forcing evacuations, cancellations and delays.",
+      "title": "Osaka knocks out top-seeded Sabalenka to reach Wimbledon quarterfinals",
+      "summary": "Naomi Osaka beat world number one Sabalenka in straight sets to book her maiden Wimbledon quarterfinal.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/extreme-weather-disrupts-uss-250th-anniversary-celebrations?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 14:10:34 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/5/osaka-knocks-out-top-seeded-sabalenka-to-reach-wimbledon-quarterfinals?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 18:45:55 +0000"
     },
     {
-      "title": "Millions attend funeral prayers for Iran’s Khamenei and family",
-      "summary": "Millions of people have attended funeral prayers in Tehran for Iran's late Supreme Leader Ayatollah Ali Khamenei.",
+      "title": "Palestinians rally outside Al-Shifa hospital, demanding medical evacuation",
+      "summary": "Protest outside Al-Shifa Medical Complex demanding Israel lift travel restrictions on those leaving the Gaza Strip.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/millions-attend-funeral-prayers-for-irans-khamenei-and-family?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 13:48:13 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuation?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 18:40:43 +0000"
     },
     {
-      "title": "Houthi rebels kill 16 Yemeni government troops in fiercest clashes in years",
-      "summary": "Medical sources on the Red Sea coast report 16 dead from pro-government forces and 22 wounded.",
+      "title": "Trump thanks FIFA as it suspends Balogun’s ban for Belgium World Cup match",
+      "summary": "Balogun was set to miss USA vs Belgium last 16 tie but will now be available as FIFA surprisingly ends his suspension.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/5/at-least-15-yemeni-government-troops-killed-in-hodeidah-fighting?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 13:46:32 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/5/trump-thanks-fifa-as-it-suspends-baloguns-ban-for-belgium-world-cup-match?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 18:28:22 +0000"
     },
     {
-      "title": "Dr Hussam Abu Safia’s life in ‘grave danger’",
-      "summary": "‘This is the last time you'll see me.’",
+      "title": "Lawmaker McGovern: Americans need to ‘fight for the soul’ of the US",
+      "summary": "The left is rising because Americans ‘want more from the Democrats’, US Representative Jim McGovern argues.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/dr-hussam-abu-safias-life-in-grave?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 13:40:44 +0000"
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/5/lawmaker-mcgovern-americans-need-to-fight-for-the-soul-of-the-us?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 18:20:25 +0000"
     },
     {
-      "title": "What to know about the renewed coordinated attacks across Mali",
-      "summary": "Separatist Tuareg-led group and regional al-Qaeda affiliate have claimed responsibility for attacks on army positions.",
+      "title": "US Congressman denies existence of Palestinians in interview",
+      "summary": "US Congressman Randy Fine claims “there is no such thing as Palestinian”, on interview show The Next Generation.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/5/what-to-know-about-the-renewed-coordinated-attacks-across-mali?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 12:27:15 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/us-congressman-denies-existence-of-palestinians-in-interview-2?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 17:37:26 +0000"
+    },
+    {
+      "title": "Folarin Balogun's soccer ban suspended by FIFA, allowing U.S. striker to play Belgium",
+      "summary": "U.S. soccer star Folarin Balogun has had his World Cup ban suspended by FIFA, making him free to play in the United States' round of 16 game against Belgium on Monday.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/05/g-s1-132061/folarin-balogun-soccer-reinstated-ban-suspended-fifa-belgium",
+      "publishedAt": "Sun, 05 Jul 2026 14:37:19 -0400"
+    },
+    {
+      "title": "Guam and surrounding Pacific islands brace for impact of Super Typhoon Bavi",
+      "summary": "People in the Northern Mariana Islands – remote U.S. territories in the Pacific Ocean – are preparing for Super Typhoon Bavi, which experts say could bring winds of over 180 miles per hour.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/05/g-s1-132052/guam-pacific-islands-brace-super-typhoon-bavi",
+      "publishedAt": "Sun, 05 Jul 2026 13:22:55 -0400"
     },
     {
       "title": "Construction is a man's game. These women are demolishing the barriers",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage",
       "publishedAt": "Sun, 05 Jul 2026 06:28:42 -0400"
-    },
-    {
-      "title": "Pastor freed from prison in China weeks after Trump requested his release",
-      "summary": "A pastor of a prominent underground church who was detained in China in October has been released, less than two months after U.S. President Donald Trump brought up his case when meeting Chinese leader Xi Jinping.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/05/nx-s1-5882784/pastor-freed-prison-china-trump-request",
-      "publishedAt": "Sun, 05 Jul 2026 04:30:07 -0400"
-    },
-    {
-      "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
-      "summary": "President Trump ushered in America's 250th anniversary with a darkly political speech that swerved from the typically apolitical, unifying speeches past presidents have given to mark Independence Day.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/04/g-s1-132025/mount-rushmore-speech-trump-july-4-250",
-      "publishedAt": "Sat, 04 Jul 2026 16:34:31 -0400"
     },
     {
       "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
@@ -355,15 +355,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
-      "description": "mainly clear",
+      "tempC": 22,
+      "description": "clear sky",
       "high": 28,
       "low": 21
     },
     {
       "place": "London",
       "tempC": 28,
-      "description": "mainly clear",
+      "description": "overcast",
       "high": 29,
       "low": 17
     }
