@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T19:13:14.313Z",
+  "updated": "2026-07-05T21:58:54.869Z",
   "news": [
     {
       "title": "Türkiye ve NATO: 1952'den bugüne krizlerle şekillenen stratejik ortaklık",
@@ -50,6 +50,20 @@
       "publishedAt": "Sun, 05 Jul 2026 14:03:01 GMT"
     },
     {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 06 Temmuz 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-06T00:30:00+03:00"
+    },
+    {
+      "title": "Kuşadası'nda bir günde 4 kişi boğularak hayatını kaybetti",
+      "summary": "Aydın'ın Kuşadası ilçesinde sabah saatlerinden itibaren etkili olan kuvvetli rüzgar ve buna bağlı olarak yükselen dalgalar, denizde tehlikeli anların yaşanmasına neden oldu. İlçede gün boyunca 20 kişi boğulma tehlikesi geçirirken, 4 kişi bo",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-05T23:35:50+03:00"
+    },
+    {
       "title": "Ölüm virajı kabusu bitecek, yol 5 dakikaya düşecek",
       "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Çamlıbel Tüneli ile ulaşım kotunu 286 metre aşağı çekip 1684 metreden 1398 metreye indireceklerini ve 13 keskin virajı baypas edeceklerini belirterek, \"Güzergahı 2,3 kilometre kısaltarak seya",
       "source": "NTV",
@@ -76,20 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-05T15:52:30+03:00"
-    },
-    {
-      "title": "Balıkesir ve Kütahya'da üç noktada orman yangını: Alevlerle mücadele sürüyor",
-      "summary": "Balıkesir'in Kepsut ve Altıeylül ilçeleri ile Kütahya'nın Şaphane ilçesinde çıkan orman yangınlarına müdahale sürüyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-05T17:39:11+03:00"
-    },
-    {
-      "title": "Elektrikli bisiklet sürücüsü alkollü çıktı, \"Eve gidiyordum\" dedi",
-      "summary": "Bursa'da alkol denetimi sırasında şüpheli seyreden elektrikli bisiklet sürücüsü durduruldu. Yapılan kontrollerde yasal sınırdan yaklaşık 11 kat fazla alkollü olduğu tespit edilen sürücüye toplam 50 bin lira ceza kesildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-05T15:33:52+03:00"
     },
     {
       "title": "Okullar ne zaman açılacak?",
@@ -148,12 +148,12 @@
       "publishedAt": "Sun, 05 Jul 2026 17:58:01 GMT"
     },
     {
-      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+      "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+      "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 08:24:32 GMT"
+      "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 17:54:47 GMT"
     },
     {
       "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
@@ -164,12 +164,12 @@
       "publishedAt": "Sun, 05 Jul 2026 15:48:20 GMT"
     },
     {
-      "title": "Evacuations in Guam as super typhoon Bavi approaches",
-      "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 05 Jul 2026 09:26:56 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 04 Jul 2026 23:17:24 GMT"
     },
     {
       "title": "Australia probes mystery space balls that washed up on beach",
@@ -180,64 +180,88 @@
       "publishedAt": "Sun, 05 Jul 2026 12:55:58 GMT"
     },
     {
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
+      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 04 Jul 2026 23:17:24 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 05 Jul 2026 21:39:12 GMT"
     },
     {
-      "title": "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent",
-      "summary": "Massive crowds gathered in Tehran to mourn Khamenei’s death, with chants calling for revenge against the US and Israel.",
+      "title": "Albanian court frees protesters who rallied against Kushner-linked resort",
+      "summary": "The planned resort linked to US President Donald Trump's son-in-law has become a flashpoint for anti-government protests",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 18:55:37 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/5/albanian-court-frees-protesters-who-rallied-against-kushner-linked-resort?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 20:50:58 +0000"
     },
     {
-      "title": "Osaka knocks out top-seeded Sabalenka to reach Wimbledon quarterfinals",
-      "summary": "Naomi Osaka beat world number one Sabalenka in straight sets to book her maiden Wimbledon quarterfinal.",
+      "title": "Mexico vs England LIVE: FIFA World Cup 2026 – last 16",
+      "summary": "Live coverage and text updates with full build-up and team news ahead from our commentary stream of Mexico vs England.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/5/osaka-knocks-out-top-seeded-sabalenka-to-reach-wimbledon-quarterfinals?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 18:45:55 +0000"
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/5/mexico-vs-england-live-fifa-world-cup-2026-last-16?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 20:46:14 +0000"
     },
     {
-      "title": "Palestinians rally outside Al-Shifa hospital, demanding medical evacuation",
-      "summary": "Protest outside Al-Shifa Medical Complex demanding Israel lift travel restrictions on those leaving the Gaza Strip.",
+      "title": "FIFA World Cup: All to know as Ronaldo’s Portugal play Spain in the last 16",
+      "summary": "Cristiano Ronaldo is just one of several key talking points before Portugal and Spain clash in a round of 16 epic in Dallas.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuation?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 18:40:43 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/5/world-cup-portugal-vs-spain-key-talking-points-ronaldo-yamal-prediction?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 20:41:02 +0000"
     },
     {
-      "title": "Trump thanks FIFA as it suspends Balogun’s ban for Belgium World Cup match",
-      "summary": "Balogun was set to miss USA vs Belgium last 16 tie but will now be available as FIFA surprisingly ends his suspension.",
+      "title": "10,000 people evacuated as wildfire tears through southern France",
+      "summary": "A fast-moving wildfire has forced around 10,000 people to evacuate after burning more than 1,500 hectares in France.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/5/trump-thanks-fifa-as-it-suspends-baloguns-ban-for-belgium-world-cup-match?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 18:28:22 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/10000-people-evacuated-as-wildfire-tears-through-southern-france?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 20:38:57 +0000"
     },
     {
-      "title": "Lawmaker McGovern: Americans need to ‘fight for the soul’ of the US",
-      "summary": "The left is rising because Americans ‘want more from the Democrats’, US Representative Jim McGovern argues.",
+      "title": "How will the rise of right-wing populism affect Latin America?",
+      "summary": "Conservatives are winning elections across the region.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/5/lawmaker-mcgovern-americans-need-to-fight-for-the-soul-of-the-us?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 18:20:25 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/5/how-will-the-rise-of-right-wing-populism-affect-latin-america?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 20:34:04 +0000"
     },
     {
-      "title": "US Congressman denies existence of Palestinians in interview",
-      "summary": "US Congressman Randy Fine claims “there is no such thing as Palestinian”, on interview show The Next Generation.",
+      "title": "8 injured, including 4 children, in New York City Fourth of July shooting",
+      "summary": "A shooting at a Fourth of July celebration in the US city of New York wounded eight victims, four of whom are children.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/us-congressman-denies-existence-of-palestinians-in-interview-2?traffic_source=rss",
-      "publishedAt": "Sun, 05 Jul 2026 17:37:26 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/8-injured-including-4-children-in-new-york-city-fourth-of-july-shooting?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 20:16:23 +0000"
     },
     {
-      "title": "Folarin Balogun's soccer ban suspended by FIFA, allowing U.S. striker to play Belgium",
-      "summary": "U.S. soccer star Folarin Balogun has had his World Cup ban suspended by FIFA, making him free to play in the United States' round of 16 game against Belgium on Monday.",
+      "title": "Y si sí: the phrase uniting Mexico during the World Cup",
+      "summary": "Mexico's World Cup run has inspired a phrase heard across the country: \"Y si sí.\" Or in English: \"What if we can?\" Anamaria Sayre reports from Mexico City.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/05/nx-s1-5881076/y-si-si-the-phrase-uniting-mexicos-world-cup-fans",
+      "publishedAt": "Sun, 05 Jul 2026 17:03:43 -0400"
+    },
+    {
+      "title": "Thunderstorms, heat and wind will hamper efforts to contain Colorado wildfires",
+      "summary": "Thunderstorms with high winds could make it more difficult to contain a massive wildfire that has scorched parts of southern Colorado.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/05/nx-s1-5883052/colorado-wildfires-thunderstorms-firefighters-killed",
+      "publishedAt": "Sun, 05 Jul 2026 16:54:38 -0400"
+    },
+    {
+      "title": "National Guard troops fatally shoot a man in downtown Memphis",
+      "summary": "Memphis police say National Guard troops fired their weapons in the early morning hours of July 5, killing a man who was armed with a handgun. State investigators will handle the case.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/05/nx-s1-5883091/national-guard-fatal-shooting-memphis",
+      "publishedAt": "Sun, 05 Jul 2026 15:40:37 -0400"
+    },
+    {
+      "title": "Folarin Balogun's ban is lifted by FIFA, allowing U.S. striker to play Belgium",
+      "summary": "FIFA's Disciplinary Committee said it would suspend Balogun's one-game red card ban for a probationary period of one year. The Royal Belgian Football Federation said it was \"astonished.\"",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/07/05/g-s1-132061/folarin-balogun-soccer-reinstated-ban-suspended-fifa-belgium",
@@ -258,30 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/05/g-s1-129643/construction-business-women-kenya",
       "publishedAt": "Sun, 05 Jul 2026 10:10:38 -0400"
-    },
-    {
-      "title": "A new law in California will clarify 'sell by' dates to reduce food waste",
-      "summary": "NPR's Ayesha Rascoe speaks with Nick Lapis of Californians Against Waste about the new law that standardizes food label \"use by\" dates and how that reduces consumer confusion and tons of food waste.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/05/nx-s1-5879284/a-new-law-in-california-will-clarify-sell-by-dates-to-reduce-food-waste",
-      "publishedAt": "Sun, 05 Jul 2026 08:26:17 -0400"
-    },
-    {
-      "title": "Pennsylvania's proposed data centers are bringing strangers together in protest",
-      "summary": "Proposals to build six data centers in the small community of Archbald, Pennsylvania, have brought strangers together to fight the plans there — and elsewhere in the state.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/05/nx-s1-5804732/proposed-data-centers-in-pennsylvania-are-leading-strangers-to-mobilize-in-protest",
-      "publishedAt": "Sun, 05 Jul 2026 08:26:06 -0400"
-    },
-    {
-      "title": "Paul Pelosi in hit-and-run in California, car left with major damage, authorities say",
-      "summary": "The husband of former House Speaker Nancy Pelosi was involved in a hit-and-run in California that left a parked car with \"major\" damage, authorities said Saturday.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/05/g-s1-132046/paul-pelosi-hit-and-run-california-car-damage",
-      "publishedAt": "Sun, 05 Jul 2026 06:28:42 -0400"
     },
     {
       "title": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
@@ -321,7 +321,9 @@
       "league": "World Cup",
       "home": "Brazil",
       "away": "Norway",
-      "status": "upcoming",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
       "date": "2026-07-05"
     },
     {
@@ -355,14 +357,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 22,
+      "tempC": 21,
       "description": "clear sky",
       "high": 28,
-      "low": 21
+      "low": 19
     },
     {
       "place": "London",
-      "tempC": 28,
+      "tempC": 25,
       "description": "overcast",
       "high": 29,
       "low": 17
