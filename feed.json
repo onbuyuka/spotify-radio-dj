@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T21:56:21.730Z",
+  "updated": "2026-07-05T02:47:38.336Z",
   "news": [
     {
       "title": "ABD bağımsızlığının 250. yılını kutluyor",
@@ -50,11 +50,39 @@
       "publishedAt": "Sat, 04 Jul 2026 11:41:26 GMT"
     },
     {
+      "title": "TIR otoyolda arızalanan otomobile çarptı. 1 çocuk öldü, 3 kişi yaralandı",
+      "summary": "Anadolu Otoyolu'nun Kocaeli kesiminde tırın, arızalanan otomobile çarpması sonucu 7 yaşındaki çocuk hayatını kaybetti, 3 kişi yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-05T05:24:12+03:00"
+    },
+    {
+      "title": "AFAD'dan Hatay'daki konteyner kentler açıklaması",
+      "summary": "Hatay İl Afet ve Acil Durum Müdürlüğü (AFAD), hak sahibi olup konutu henüz teslim edilmemiş ya da Sosyal Yardımlaşma ve Dayanışma Vakıflarınca yapılan incelemeler sonucunda barınma ihtiyacının devam ettiği saptanan vatandaşlar için konteyne",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-05T04:18:43+03:00"
+    },
+    {
+      "title": "Karadeniz için kuvvetli yağış uyarısı. Sel, heyelan, doluya dikkat!",
+      "summary": "Türkiye'yi etkisi altına alan yağışlı hava sistemi bugün de birçok ilde etkisini gösterecek. Bugün özellikle Doğu Karadeniz ve Akdeniz için kuvvetli yağış etkisi gösterecek. Ülke genelinde hava sıcaklığının bu hafta mevsim ortalamasının alt",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-05T03:31:24+03:00"
+    },
+    {
+      "title": "Filyos Sahili'ne askeri İHA vurdu. İnceleme başlatıldı",
+      "summary": "Zonguldak'ta Karadeniz sahiline, askeri amaçlı olduğu değerlendirilen bir insansız hava aracının (İHA) vurması üzerine bölgede geniş güvenlik önlemleri alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-05T01:20:46+03:00"
+    },
+    {
       "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Temmuz 2026",
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-05T00:30:00+03:00"
+      "publishedAt": "2026-07-05T05:30:00+03:00"
     },
     {
       "title": "TAYFUN Blok-3 füzesi ilke imza attı",
@@ -62,34 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-04T21:03:11+03:00"
-    },
-    {
-      "title": "Muş'ta balık avlarken suya düşen iki kuzen hayatını kaybetti",
-      "summary": "Muş'un Sungu beldesindeki Karaağaç Deresi'nde balık avlarken suya düşen iki kuzen boğuldu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-04T20:54:42+03:00"
-    },
-    {
-      "title": "Karadeniz'deki 4 ilde yarın denize girilmesine izin verilmeyecek",
-      "summary": "Trabzon, Giresun, Rize ve Artvin'de olumsuz hava koşulları nedeniyle yarın denize girilmesine izin verilmeyecek.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-04T20:49:10+03:00"
-    },
-    {
-      "title": "Dışişleri Bakanı Fidan, Katar Başbakanı Al Sani ile telefonda görüştü",
-      "summary": "Dışişleri Bakanı Hakan Fidan, Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani ile telefon görüşmesi yaptı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-04T19:50:35+03:00"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, Kanada Başbakanı Carney ile telefonda görüştü",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kanada Başbakanı Carney ile telefonda görüştü. Görüşmede, Türkiye-Kanada ilişkileri ile bölgesel ve küresel konular ele alındı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-04T19:42:27+03:00"
     },
     {
       "title": "Hamaney'e Tahran'da veda töreni",
@@ -188,52 +188,52 @@
       "publishedAt": "Sat, 04 Jul 2026 11:25:57 GMT"
     },
     {
-      "title": "Masses of Iranians defy heatwave on second day of Khamenei’s funeral",
-      "summary": "Iran has marked the second day of funeral processions for its late Supreme Leader Ali Khamenei.",
+      "title": "This immigrant served in the US military. Now he faces deportation",
+      "summary": "Benito Miranda Hernandez completed three tours during the Iraq war but now faces removal from the US to Mexico.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/masses-of-iranians-defy-heatwave-on-second-day-of-khameneis-funeral?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 21:08:18 +0000"
+      "link": "https://www.aljazeera.com/news/longform/2026/7/5/this-immigrant-served-in-the-us-military-now-he-faces-deportation?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 00:49:14 +0000"
     },
     {
-      "title": "Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country",
-      "summary": "In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can 'open a new page of hope'.",
+      "title": "White nationalists march on Washington DC ahead of Freedom 250 celebrations",
+      "summary": "Hundreds of masked white nationalists marched on Washington DC ahead of Freedom 250.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 20:06:41 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_white-nationalists-march-ahead-of-freedom-250-040726?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 00:08:47 +0000"
     },
     {
-      "title": "Ounahi fires Morocco into World Cup quarterfinals with 3-0 win over Canada",
-      "summary": "Azzedine Ounahi scored two of three second-half goals as Morocco ended cohosts run to reach last eight.",
+      "title": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
+      "summary": "Iran's late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/4/ounahi-fires-morocco-into-world-cup-quarterfinals-with-3-0-win-over-canada?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 20:03:15 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
+      "publishedAt": "Sun, 05 Jul 2026 00:00:00 +0000"
     },
     {
-      "title": "A politically charged holiday: The US celebrates its 250th anniversary",
-      "summary": "The semiquincentennial has been meet with controversy, as President Trump seeks to exert influence over the celebration.",
+      "title": "White nationalists march in Washington, DC, area during July 4 festivities",
+      "summary": "Donald Trump has faced condemnation for failing to forcefully reject white nationalists during his presidency.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/gallery/2026/7/4/a-politically-charged-holiday-the-us-celebrates-its-250th-anniversary?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 19:43:18 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/4/white-nationalists-march-in-washington-dc-area-during-july-4-festivities?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 23:57:52 +0000"
     },
     {
-      "title": "America’s Indigenous Legacy",
-      "summary": "The Potomac isn't just the name of a river, it's part of a much older story. Al Jazeera's Emma Withrow explains.",
+      "title": "Ticket prices plunge for USA-Belgium World Cup last-16 match",
+      "summary": "The price for the final 2026 World ⁠Cup match in Seattle hit nearly $4,000 but dipped as low as $1,549 ⁠on Tuesday.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/4/americas-indigenous-legacy?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 19:32:43 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/4/ticket-prices-plunge-for-us-belgium-world-cup-last-16-match?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 23:36:37 +0000"
     },
     {
-      "title": "Has the US reckoned with its own history?",
-      "summary": "Marc Lamont Hill speaks to scholar Kimberle Crenshaw on whether the US is sliding backwards on civil rights.",
+      "title": "Mbappe draws level with Messi as France beat Paraguay to set up Morocco tie",
+      "summary": "Kylian Mbappe moves level with Lionel Messi on seven goals at World Cup 2026 as France beat Paraguay 1-0 in last 16.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/upfront/2026/7/4/has-the-us-reckoned-with-its-own-history?traffic_source=rss",
-      "publishedAt": "Sat, 04 Jul 2026 19:30:00 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/4/mbappe-draws-level-with-messi-as-france-beat-paraguay-to-set-up-morocco-tie?traffic_source=rss",
+      "publishedAt": "Sat, 04 Jul 2026 23:25:33 +0000"
     },
     {
       "title": "In Mount Rushmore speech, Trump veers from U.S. exceptionalism to warnings about communism",
@@ -244,8 +244,8 @@
       "publishedAt": "Sat, 04 Jul 2026 16:34:31 -0400"
     },
     {
-      "title": "Washington's July 4 parade is off. The fireworks are still on",
-      "summary": "Organizers called off the Independence Day Parade late Friday, citing an extreme heat warning with temperatures expected to reach up to 115 degrees. The evening fireworks display remains scheduled.",
+      "title": "National Mall fireworks are back on, Trump to speak, after stormy delay",
+      "summary": "The fireworks show will also go on, organizers said. Attendees gathered at the National Mall to mark America's 250th birthday had been ordered to seek shelter due to the \"severe storms\" in the area.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/07/04/nx-s1-5882179/washingtons-july-4-heat-cancellations",
@@ -319,6 +319,13 @@
   "sports": [
     {
       "league": "World Cup",
+      "home": "Brazil",
+      "away": "Norway",
+      "status": "upcoming",
+      "date": "2026-07-05"
+    },
+    {
+      "league": "World Cup",
       "home": "Colombia",
       "away": "Ghana",
       "homeScore": 1,
@@ -340,52 +347,25 @@
       "home": "Paraguay",
       "away": "France",
       "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-07-04"
-    },
-    {
-      "league": "World Cup",
-      "home": "Australia",
-      "away": "Egypt",
-      "homeScore": 1,
       "awayScore": 1,
       "status": "FT",
-      "date": "2026-07-03"
-    },
-    {
-      "league": "World Cup",
-      "home": "Argentina",
-      "away": "Cape Verde",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-07-03"
-    },
-    {
-      "league": "World Cup",
-      "home": "Switzerland",
-      "away": "Algeria",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-07-03"
+      "date": "2026-07-04"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 23,
-      "description": "partly cloudy",
+      "tempC": 21,
+      "description": "mainly clear",
       "high": 28,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 22,
-      "description": "clear sky",
-      "high": 28,
-      "low": 16
+      "tempC": 19,
+      "description": "partly cloudy",
+      "high": 29,
+      "low": 18
     }
   ],
   "facts": [
