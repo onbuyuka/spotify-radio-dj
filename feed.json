@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T14:25:58.345Z",
+  "updated": "2026-07-07T17:11:54.428Z",
   "news": [
     {
       "title": "Trump-Erdoğan görüşmesi: 'Yaptırımları kaldıracağız, F-35 satışını değerlendireceğiz'",
@@ -10,6 +10,22 @@
       "publishedAt": "Tue, 07 Jul 2026 13:47:08 GMT"
     },
     {
+      "title": "Zelenskiy NATO'dan hava savunma sistemi istedi",
+      "summary": "Ukrayna Cumhurbaşkanı, Türkiye'deki NATO zirvesinde yaptığı konuşmada, Rusya'nın artan saldırılarına karşı Kiev'i korumak için müttefiklerine acilen hava savunma sistemini teslim etmeleri çağrısında bulundu.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c77yg1mnlr1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 07 Jul 2026 17:09:45 GMT"
+    },
+    {
+      "title": "İngiltere'de göçmen karşıtı Nigel Farage milletvekilliğinden istifa etti: 'Kararı seçmenler versin'",
+      "summary": "İngiltere'de yükselişteki Reform UK Partisi'nin lideri Nigel Farage, usulsüz aldığı söylenen mali yardımlar konusundaki iddiaların ardından, milletvekilliğinden istifa ettiğini duyurdu. Ancak istifasıyla tetiklenecek ara seçime aday olduğun",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cz9l75z4pe9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 07 Jul 2026 15:53:20 GMT"
+    },
+    {
       "title": "Fransa'da temyiz mahkemesi Marine Le Pen'in seçime girmesinin önünü açtı",
       "summary": "Paris'teki temyiz mahkemesi aşırı sağcı Ulusal Birlik partisinin lideri Marine Le Pen'in cumhurbaşkanlığı seçimlerine girmesinin önünü açan bir karar aldı.",
       "source": "BBC Türkçe",
@@ -18,28 +34,12 @@
       "publishedAt": "Tue, 07 Jul 2026 12:50:48 GMT"
     },
     {
-      "title": "NATO Savunma Fuarı: Türkiye ve müttefikler hangi anlaşmalara imza attı?",
+      "title": "NATO Savunma Forumu: Türkiye ve müttefikler hangi anlaşmalara imza attı?",
       "summary": "NATO müttefikleri Ankara'daki liderler zirvesi kapsamında düzenlenen Savunma Forumu'nda on milyarlarca dolarlık anlaşmalar imzaladı. Türkiye, bu anlaşmalar çerçevesinde Atmaca seyir füzesi, gözlem uyduları ve başka savunma teçhizatı konusun",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c4gyj0w77eyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 07 Jul 2026 11:34:44 GMT"
-    },
-    {
-      "title": "Şam'da Macron'un ziyareti sırasında iki patlama: 18 yaralı",
-      "summary": "Suriye'nin başkenti Şam'da, Fransa Cumhurbaşkanı Emmanuel Macron'un geceyi geçirdiği otelin yakınında iki patlama meydana geldi. Suriye resmi haber ajansı olayda aralarında dört polisin de bulunduğu 18 kişinin yaralandığını bildirdi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c5yz0417mm4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 11:09:38 GMT"
-    },
-    {
-      "title": "Prens Harry, Daily Mail'e açtığı davayı kaybetti",
-      "summary": "İngiltere Kralı 3. Charles'ın küçük oğlu Prens Harry ve diğer altı kişi, Daily Mail'in yayıncısı Associated Newspapers'a karşı hukuka aykırı şekilde bilgi topladıkları iddiasıyla açtıkları davayı kaybetti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/clyejk29zz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 13:52:53 GMT"
     },
     {
       "title": "Ankara'da NATO protestosuna polis müdahalesi: Çok sayıda gözaltı",
@@ -92,20 +92,12 @@
       "publishedAt": "2026-07-07T12:16:05+03:00"
     },
     {
-      "title": "Bekçi maaşı ne kadar oldu?",
-      "summary": "Geçtiğimiz günlerde Türkiye İstatistik Kurumu (TÜİK) tarafından haziran ayı enflasyon verilerinin açıklanmasıyla birlikte yılın ilk 6 ayına ilişkin enflasyon oranı da kesinleşti. Açıklanan rakamların ardından memur ve memur emeklilerinin ma",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/zamli-bekci-mesajlari-2026-temmuz-zamli-bekci-maaslari-ne-kadar-kac-tl-oldu-3896806",
-      "publishedAt": "Tue, 07 Jul 2026 09:52:25 GMT"
-    },
-    {
       "title": "En düşük memur maaşı ne kadar oldu?",
       "summary": "Yılın ikinci yarısına girilirken memur maaşlarına yönelik yapılan artış ve düzenlemeler, kamu çalışanlarının gelir yapısında önemli değişiklikleri beraberinde getirirken, oluşan yeni maaş dengesi hem çalışanlar hem de ekonomi çevreleri tara",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/temmuz-2026-zamli-maaslar-belli-oldu-en-dusuk-memur-maasi-ne-kadar-oldu-en-dusuk-emekli-memur-ayligi-ne-kadar-oldu-3896798",
-      "publishedAt": "Tue, 07 Jul 2026 09:59:28 GMT"
+      "publishedAt": "Tue, 07 Jul 2026 09:21:01 GMT"
     },
     {
       "title": "NATO açılımı nedir?",
@@ -129,7 +121,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/ankara-nato-zirvesi-kapali-yollar-ankara-da-hangi-yollar-trafige-kapatildi-kapali-yollar-ne-zaman-acilacak-ankara-nato-zirvesi-trafige-kapali-yollar-listesi-3896727",
-      "publishedAt": "Tue, 07 Jul 2026 09:59:44 GMT"
+      "publishedAt": "Tue, 07 Jul 2026 06:34:21 GMT"
     },
     {
       "title": "NATO üyesi ülkeler listesi",
@@ -138,6 +130,22 @@
       "lang": "tr",
       "link": "https://www.haberturk.com/nato-uyesi-ulkeler-turkiye-nato-ya-ne-zaman-uye-oldu-nato-uyesi-ulkeler-hangileri-nato-ne-demek-kurulus-amaci-nedir-3896690",
       "publishedAt": "Mon, 06 Jul 2026 22:41:00 GMT"
+    },
+    {
+      "title": "NATO zirvesi kapalı yollar listesi",
+      "summary": "Ankara'da 7-8 Temmuz tarihlerinde gerçekleştirilecek 36. NATO Zirvesi nedeniyle başkent genelinde geniş güvenlik önlemleri uygulanacak. Zirve kapsamında Esenboğa Havalimanı çevresi, Cumhurbaşkanlığı Külliyesi'nin bulunduğu bölge, protokol g",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/nato-zirvesi-kapali-yollar-listesi-ankara-da-nato-zirvesi-nedeniyle-hangi-yollar-kapali-olacak-iste-alternatif-yol-guzergahlari-3896668",
+      "publishedAt": "Mon, 06 Jul 2026 21:28:30 GMT"
+    },
+    {
+      "title": "Marine Le Pen found guilty, but court clears way for presidential run if she wears tag",
+      "summary": "The National Rally leader now has to decide whether she will run with an electronic tag and will speak on TV later.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 07 Jul 2026 15:46:05 GMT"
     },
     {
       "title": "Zelensky presses Nato for air defence systems after intense Russian strikes",
@@ -153,7 +161,15 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 14:08:57 GMT"
+      "publishedAt": "Tue, 07 Jul 2026 16:31:04 GMT"
+    },
+    {
+      "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+      "summary": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 07 Jul 2026 16:10:14 GMT"
     },
     {
       "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
@@ -164,79 +180,63 @@
       "publishedAt": "Mon, 06 Jul 2026 23:55:53 GMT"
     },
     {
-      "title": "Explosions injure 18 in Damascus during Macron's visit",
-      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+      "title": "Ghana delays visit by South African president amid row over anti-migrant protests",
+      "summary": "Many in Ghana feared his presence would lead to mass protests, and officials say it is postponed for now.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 11:16:30 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cy8dmelnjk7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 07 Jul 2026 16:25:59 GMT"
     },
     {
-      "title": "Watch: Moment rare tornado lashes central Chinese cities",
-      "summary": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 07:27:05 GMT"
-    },
-    {
-      "title": "Zimbabwean football star survives gun attack in South Africa",
-      "summary": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 11:12:00 GMT"
-    },
-    {
-      "title": "The World Cup is exposing the contradictions of national identity",
-      "summary": "Teams shaped by migration and diaspora are challenging exclusionary ideas of who belongs.",
+      "title": "LIVE: Switzerland vs Colombia – FIFA World Cup 2026 round of 16",
+      "summary": "Live coverage and text updates from our commentary stream as Switzerland play Colombia in round of 16 knockout stage.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/7/7/the-world-cup-is-exposing-the-contradictions-of-national-identity?traffic_source=rss",
-      "publishedAt": "Tue, 07 Jul 2026 13:55:16 +0000"
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/7/live-switzerland-vs-colombia-fifa-world-cup-2026?traffic_source=rss",
+      "publishedAt": "Tue, 07 Jul 2026 17:00:26 +0000"
     },
     {
-      "title": "Mbappe slams racism by Paraguay’s Amarilla at World Cup: What we know",
-      "summary": "Footballers of African descent are often subjected to racist abuse on and off the pitch.",
+      "title": "US trade deficit surges amid artificial intelligence spending boom",
+      "summary": "Imbalance soars to $77.6bn in May as imports outpaced exports, driven by pharmaceuticals and semiconductors.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/7/mbappe-slams-racism-by-paraguays-amarilla-at-world-cup-what-we-know?traffic_source=rss",
-      "publishedAt": "Tue, 07 Jul 2026 13:44:12 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/7/7/us-trade-deficit-surges-amid-artificial-intelligence-spending-boom?traffic_source=rss",
+      "publishedAt": "Tue, 07 Jul 2026 16:38:28 +0000"
     },
     {
-      "title": "Two mothers, each certain a viral Gaza prisoner photo shows her son",
-      "summary": "Two Palestinian mothers believe a viral image of a bound Gaza detainee shows their missing son.",
+      "title": "Trump says will lift sanctions on Turkiye, ‘consider’ selling F-35s",
+      "summary": "Announcement during Ankara meeting suggests pivot in US policy, despite opposition from Israel.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/two-mothers-each-certain-a-viral-gaza-prisoner-photo-shows-her-son?traffic_source=rss",
-      "publishedAt": "Tue, 07 Jul 2026 13:16:26 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/7/trump-says-will-lift-sanctions-on-turkiye-consider-selling-f-35s?traffic_source=rss",
+      "publishedAt": "Tue, 07 Jul 2026 16:11:34 +0000"
     },
     {
-      "title": "At least nine police officers killed in southwestern Pakistan attack",
-      "summary": "Shahid Rind, a spokesman for the Balochistan government, says 15 assailants killed in 'clearance operations'.",
+      "title": "Christians are not united for Israel",
+      "summary": "The Christian Zionist narrative linking faith to support for Israel is deeply flawed. Evangelicals have begun to see it.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/7/at-least-nine-police-officers-killed-in-southwestern-pakistan-attack?traffic_source=rss",
-      "publishedAt": "Tue, 07 Jul 2026 13:08:25 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/7/7/christians-are-not-united-for-israel?traffic_source=rss",
+      "publishedAt": "Tue, 07 Jul 2026 16:06:09 +0000"
     },
     {
-      "title": "Displaced Gaza farmers turn to dirt near tents to grow crops",
-      "summary": "Israel has devastated 95 percent of Gaza's farms, engineering starvation and aid dependency, experts warn.",
+      "title": "Nigel Farage resigns as MP, will run in UK by-election",
+      "summary": "Reform UK leader Nigel Farage says he will resign as an MP to trigger a by-election and stand again.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss",
-      "publishedAt": "Tue, 07 Jul 2026 12:56:19 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/nigel-farage-resigns-as-mp-will-run-in-uk-by-election?traffic_source=rss",
+      "publishedAt": "Tue, 07 Jul 2026 15:19:51 +0000"
     },
     {
-      "title": "LIVE: Argentina vs Egypt – FIFA World Cup 2026",
-      "summary": "Live coverage and text updates as Argentina play Egypt in the round of 16 knockout stage.",
+      "title": "How much does playing in the World Cup pay?",
+      "summary": "How much does playing in the World Cup pay?",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/7/argentina-vs-egypt-live-fifa-world-cup-2026?traffic_source=rss",
-      "publishedAt": "Tue, 07 Jul 2026 12:30:00 +0000"
+      "link": "https://www.aljazeera.com/video/money-works/2026/7/7/how-much-does-playing-in-the-world-cup-pay?traffic_source=rss",
+      "publishedAt": "Tue, 07 Jul 2026 15:11:59 +0000"
     },
     {
-      "title": "New lawsuit alleges US shared asylum application details with Iran",
+      "title": "New lawsuit alleges U.S. shared asylum application details with Iran",
       "summary": "A lawsuit alleges the Trump administration is divulging details of Iranian asylum seekers to the government of Iran.",
       "source": "NPR",
       "lang": "en",
@@ -284,6 +284,14 @@
       "publishedAt": "Tue, 07 Jul 2026 05:00:00 -0400"
     },
     {
+      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
+      "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in tri",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
+      "publishedAt": "Tue, 07 Jul 2026 15:17:19 GMT"
+    },
+    {
       "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
       "summary": "Experts say cuts have hindered the response to DRC’s Ebola outbreak and resulted in ‘significant numbers’ of deathsElon Musk has an Ebola problem. SpaceX stock dropped precipitously after its initial public offering, and Tesla faces a wave ",
       "source": "The Guardian",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/jul/04/archaeologists-uncover-ancient-byzantine-city-in-egypts-western-desert",
       "publishedAt": "Sat, 04 Jul 2026 20:32:52 GMT"
-    },
-    {
-      "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
-      "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past week",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
-      "publishedAt": "Sat, 04 Jul 2026 15:14:18 GMT"
     }
   ],
   "sports": [
@@ -330,7 +330,9 @@
       "league": "World Cup",
       "home": "Argentina",
       "away": "Egypt",
-      "status": "upcoming",
+      "homeScore": 0,
+      "awayScore": 1,
+      "status": "FT",
       "date": "2026-07-07"
     },
     {
@@ -362,16 +364,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 28,
+      "tempC": 25,
       "description": "clear sky",
       "high": 29,
       "low": 19
     },
     {
       "place": "London",
-      "tempC": 30,
-      "description": "clear sky",
-      "high": 31,
+      "tempC": 31,
+      "description": "mainly clear",
+      "high": 32,
       "low": 20
     }
   ],
