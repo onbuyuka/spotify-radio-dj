@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T13:56:50.183Z",
+  "updated": "2026-07-08T16:28:31.451Z",
   "news": [
     {
       "title": "NATO'dan ortak savunma taahhüdü: 5. Madde'ye bağlılık yinelendi",
@@ -9,20 +9,28 @@
       "link": "https://www.bbc.co.uk/turkce/live/c1dy1ygwd9vt?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "NATO'nun Ankara Zirvesi Bildirisi'nde neler var?",
+      "summary": "NATO'nun tüm üyelerinin onayıyla yayınlanan Ankara Zirvesi Bildirisi, zirvede alınan tüm kararları yansıtıyor. ABD Başkanı Donald Trump'ın zirve öncesi bazı müttefiklere yönelik sert açıklamalarına rağmen bildiride sorun yaşanmadı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ckg04q901j2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 15:44:12 GMT"
+    },
+    {
       "title": "İBB davasında mahkeme salonundan atılan İmamoğlu'na 'kamu görevlisini tehdit' soruşturması",
       "summary": "Ekrem İmamoğlu \"suç örgütü lideri\" olmakla suçlandığı İstanbul Büyükşehir Belediyesi (İBB) davasında mahkeme başkanıyla tartıştıktan sonra salondan çıkartıldı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c05yqd2y949o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 13:55:23 GMT"
+      "publishedAt": "Wed, 08 Jul 2026 15:22:10 GMT"
     },
     {
-      "title": "ABD-İran gerilimi yeniden tırmandı, Trump 'Bence ateşkes bitti' dedi",
-      "summary": "ABD, Hürmüz Boğazı'nda üç ticari gemiye düzenlenen saldırılara karşılık olarak İran'a yönelik bir dizi \"güçlü\" hava saldırısı başlattı. Buna karşılık İran, Kuveyt ve Bahreyn'deki Amerikan askeri üslerini vurdu.",
+      "title": "ABD-İran gerilimi yeniden tırmandı: 'Muhtemelen bu gece yine vuracağız'",
+      "summary": "ABD ve İran arasında son iki gündür yeniden patlak veren çatışmaların ardından, ABD Başkanı Donald Trump, \"Bence ateşkes bitti\" dedi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/czdemgm5gjmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 09:35:34 GMT"
+      "publishedAt": "Wed, 08 Jul 2026 14:32:16 GMT"
     },
     {
       "title": "Netanyahu: 'Türkiye'ye F-35 satışı Ortadoğu'da güç dengesini yok eder'",
@@ -41,12 +49,11 @@
       "publishedAt": "Wed, 08 Jul 2026 10:34:04 GMT"
     },
     {
-      "title": "Filenin Sultanları, Milletler Ligi'nin Japonya etabına galibiyetle başladı",
-      "summary": "Türkiye A Milli Kadın Voleybol Takımı, 2026 Voleybol Milletler Ligi'nin (VNL) üçüncü haftasında Japonya'nın Osaka kentinde oynadığı ilk karşılaşmada Polonya'yı 3-1 mağlup etti",
-      "source": "BBC Türkçe",
+      "title": "İBB davasında İnan Güney dahil 6 kişi için tahliye kararı",
+      "summary": "İBB davasında görevden alınan Beyoğlu Belediye Başkanı İnan Güney dahil 6 kişi hakkında tahliye kararı verildi.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c23y5yjpzr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 11:59:56 GMT"
+      "publishedAt": "2026-07-08T18:31:43+03:00"
     },
     {
       "title": "Edirne'de üçüz buzağı sürprizi: \"Rabbim bereketini üç kat verdi\"",
@@ -82,13 +89,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-08T13:50:32+03:00"
-    },
-    {
-      "title": "NATO Zirvesi’ni takip eden basın mensuplarından \"Lokum\"a yoğun ilgi",
-      "summary": "Cumhurbaşkanlığı Millet Kütüphanesi'nde NATO Zirvesi'ni takip eden yabancı gazetecilerin arasına giren Ankara kedisi \"Lokum\" ilgi odağı oldu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-08T13:02:27+03:00"
     },
     {
       "title": "Adalet Bakanlığı personel alımı sonuçları",
@@ -144,7 +144,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 11:18:28 GMT"
+      "publishedAt": "Wed, 08 Jul 2026 15:59:23 GMT"
     },
     {
       "title": "US strikes target Iranian military boats",
@@ -155,12 +155,28 @@
       "publishedAt": "Wed, 08 Jul 2026 05:42:37 GMT"
     },
     {
-      "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-      "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
+      "title": "German doctor jailed for murder of 15 patients and suspected of more",
+      "summary": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 03:22:46 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 14:25:25 GMT"
+    },
+    {
+      "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+      "summary": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 15:09:08 GMT"
+    },
+    {
+      "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+      "summary": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 16:12:50 GMT"
     },
     {
       "title": "Nato allies announce £37bn for new missile project",
@@ -171,68 +187,92 @@
       "publishedAt": "Wed, 08 Jul 2026 05:57:53 GMT"
     },
     {
-      "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-      "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 05:05:31 GMT"
-    },
-    {
-      "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
-      "summary": "Villagers whose families have been stranded told the BBC they are struggling to get food and help.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 00:49:07 GMT"
-    },
-    {
-      "title": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-      "summary": "A chronological look at key milestones from Hamas's 2006 election victory to its 2026 exit from governing Gaza.",
+      "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
+      "summary": "A court ruling has allowed Le Pen to campaign despite embezzlement conviction, sparking heated debates across France.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 13:29:22 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 16:17:12 +0000"
     },
     {
-      "title": "Why can’t we count our dead?",
-      "summary": "Most of the world's dead never make the official record. The death toll is an educated guess, not an actual count.",
+      "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
+      "summary": "Military spokesman warns fighters 'we will chase you, we will hurt you' amid the spate of deadly ambushes.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/8/why-cant-we-count-our-dead?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 13:28:54 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 16:07:45 +0000"
     },
     {
-      "title": "UN inquiry urges release of Palestinian doctor jailed by Israel",
-      "summary": "The inquiry commission urges Israel to release Hussam Abu Safia, citing credible reports he has suffered 'severe abuse'.",
+      "title": "Oil for unity: What is the US mediation plan in Libya?",
+      "summary": "The plan, led by Trump relative Massad Boulos, promises oil investments if rival factions work together.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/8/un-inquiry-urges-release-of-palestinian-doctor-jailed-by-israel?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 13:17:47 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/8/oil-for-unity-what-is-the-us-mediation-plan-in-libya?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 16:04:52 +0000"
     },
     {
-      "title": "Iran’s supreme leader’s coffin arrives in Najaf",
-      "summary": "Thousands of mourners thronged Najaf as the coffin of the late supreme leader moved through the city.",
+      "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
+      "summary": "German Foreign Minister Johann Wadephul urged the US and Iran to resume negotiations.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/irans-supreme-leaders-coffin-arrives-in-najaf?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 13:11:57 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 15:57:41 +0000"
     },
     {
-      "title": "Syria in tough balancing act as it tightens security after Damascus blasts",
-      "summary": "Authorities increase security measures after back-to-back deadly explosions rattle residents.",
+      "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
+      "summary": "Travel stocks plunged as fuel costs rise, United Airlines fell 3 percent, while energy stocks saw gains.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/8/syria-in-tough-balancing-act-as-it-tightens-security-after-damascus-blasts?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 13:11:25 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 15:53:23 +0000"
     },
     {
-      "title": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
-      "summary": "Iranian officials insist that Tehran will not give up control over the waterway as US attacks threaten fragile truce.",
+      "title": "Man sets wheelchair user in flames with Molotov cocktail",
+      "summary": "US police have released video showing the moment a man set a wheelchair user on fire.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/8/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 13:09:22 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/man-sets-wheelchair-user-in-flames-with-molotov-cocktail?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 15:42:11 +0000"
+    },
+    {
+      "title": "The IOC clears the way for Russian athletes to return to Olympic competition",
+      "summary": "The International Olympic Committee decision effectively overturns a decade-long ban on Russian athletes from international sport imposed due to a state-sponsored doping scandal and Russia's full-scale invasion of Ukraine.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/08/g-s1-132480/russia-olympics-ioc-decision",
+      "publishedAt": "Wed, 08 Jul 2026 12:17:37 -0400"
+    },
+    {
+      "title": "Do you know where your birth certificate is? Journalist warns of new voting barriers",
+      "summary": "The rules of the midterms are being rewritten, from redistricting to campaign money. Mother Jones journalist Ari Berman explains why President Trump seems \"obsessed with the mechanics of voting.\"",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/08/nx-s1-5884918/scotus-trump-election-barriers-ari-berman",
+      "publishedAt": "Wed, 08 Jul 2026 12:06:45 -0400"
+    },
+    {
+      "title": "Here are the 2026 Emmy nominations",
+      "summary": "Liza Colón-Zayas and Jeff Hiller presented the nominees on Wednesday morning. Winners will be announced at the 78th Emmy Awards on September 14.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/08/nx-s1-5883885/2026-emmy-nominations",
+      "publishedAt": "Wed, 08 Jul 2026 11:29:56 -0400"
+    },
+    {
+      "title": "Greetings from a Syrian church, infused with a mix of sweet fruit and diverse faiths",
+      "summary": "Syria's Mar Musa monastery provides the tastiest mulberries, and its services draw from Eastern Orthodox Christian and Sufi customs.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/08/nx-s1-5884694/syria-church-interfaith-fruit",
+      "publishedAt": "Wed, 08 Jul 2026 11:05:34 -0400"
+    },
+    {
+      "title": "Former Maine Sen. Troy Jackson says it would be 'self-serving' if Graham Platner runs",
+      "summary": "Former Maine state Sen. Troy Jackson has filed to replace Graham Platner on the U.S. Senate ballot in Maine after Platner's girlfriend accused him of sexual assault.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/08/nx-s1-5885757/troy-jackson-graham-platner",
+      "publishedAt": "Wed, 08 Jul 2026 10:15:25 -0400"
     },
     {
       "title": "Maine Democrats say Platner's campaign is trying to influence replacement process",
@@ -241,46 +281,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/08/nx-s1-5885770/graham-platner-maine-democrats",
       "publishedAt": "Wed, 08 Jul 2026 09:20:02 -0400"
-    },
-    {
-      "title": "Trump says he believes the Iran ceasefire is 'over.' And, IOC lifts Russia's suspension",
-      "summary": "Trump said that he believes the U.S.-Iran ceasefire is over, but hasn't ruled out talks. And, the International Olympic Committee paves the way for Russian athletes to compete in the 2028 games.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/08/g-s1-132474/up-first-newsletter-trump-iran-ceasefire-nato-graham-platner-ioc-russia",
-      "publishedAt": "Wed, 08 Jul 2026 07:15:40 -0400"
-    },
-    {
-      "title": "A spirit of resilience helps Venezuelans face healthcare challenges after the quakes",
-      "summary": "The economic collapse of Venezuela has pushed its healthcare system to the brink. The disaster is now adding to the stress.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/08/g-s1-132410/venezuela-earthquake-healthcare",
-      "publishedAt": "Wed, 08 Jul 2026 07:06:26 -0400"
-    },
-    {
-      "title": "Trump administration abruptly cancels grants for teen pregnancy prevention",
-      "summary": "Health departments, universities and nonprofit grantees had spent months adapting to President Trump's executive orders. They say the funding cut was completely unexpected.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/08/nx-s1-5885054/teen-pregnancy-prevention-trump-hhs",
-      "publishedAt": "Wed, 08 Jul 2026 07:00:00 -0400"
-    },
-    {
-      "title": "What's behind the push to make peptide therapies more readily available",
-      "summary": "Marketed for longevity and wellness benefits, the unproven therapies are sold through a grey market online. Compounding pharmacies say they should be able to make them legally to meet demand.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/08/nx-s1-5885073/fda-peptides-compounding-pharmacies",
-      "publishedAt": "Wed, 08 Jul 2026 06:00:00 -0400"
-    },
-    {
-      "title": "At NATO summit in Turkey, Trump says he believes ceasefire with Iran is 'over'",
-      "summary": "President Trump said he believes the current ceasefire with Iran is over following an exchange of attacks between the U.S. and Iran in the latest escalation straining the agreement to end the war.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/08/nx-s1-5883929/trump-nato-iran-strikes-press-conference",
-      "publishedAt": "Wed, 08 Jul 2026 05:12:59 -0400"
     },
     {
       "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
@@ -354,8 +354,8 @@
     },
     {
       "place": "London",
-      "tempC": 30,
-      "description": "clear sky",
+      "tempC": 33,
+      "description": "mainly clear",
       "high": 33,
       "low": 21
     }
