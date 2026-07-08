@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T02:26:00.271Z",
+  "updated": "2026-07-08T05:48:26.145Z",
   "news": [
     {
       "title": "Ankara'daki NATO Zirvesi'nde karar günü: Liderler dört konuya odaklanacak",
@@ -7,7 +7,39 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c9q29xz7z47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 23:08:46 GMT"
+      "publishedAt": "Wed, 08 Jul 2026 04:24:30 GMT"
+    },
+    {
+      "title": "Netanyahu: 'Türkiye'ye F-35 satışı Orta Doğu'da güç dengesini yok eder'",
+      "summary": "İsrail Başbakanı Benjamin Netanyahu, ABD'nin Türkiye'ye F-35 savaş uçakları satmasının Orta Doğu'daki güç dengesini \"yok edeceğini\" söyledi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c9v24x03dk9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 04:25:40 GMT"
+    },
+    {
+      "title": "ABD, Hürmüz Boğazı'nda tankerlerin vurulması sonrası İran'a hava saldırıları başlattı",
+      "summary": "ABD, saldırıların \"ağır bedeller ödetmeyi\" amaçladığını söylerken, İran da karşılık olarak \"kararlı önlemler\" alacağı konusunda uyarıda bulundu.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/czdemgm5gjmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 04:26:40 GMT"
+    },
+    {
+      "title": "Hakan Tosun cinayeti davasının ikinci duruşması bugün görülecek",
+      "summary": "Geçtiğimiz yıl Ekim ayında İstanbul'da saldırıya uğradıktan sonra hayatını kaybeden ekoloji aktivisti ve gazeteci Hakan Tosun'un ölümü ile ilgili soruşturmada iddianame tamamlandı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c3v6lv5w05no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 04:27:41 GMT"
+    },
+    {
+      "title": "Dünya Kupası'nda çeyrek finale yükselen son takım İsviçre",
+      "summary": "Dünya Kupası'nda çeyrek finale yükselen son takım İsviçre oldu. İsviçre, Kanada'nın Vancouver kentinde oynanan maçta Kolombiya'yı penaltılarla 4-3 mağlup etti.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cn7p7dyp0gjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 04:29:37 GMT"
     },
     {
       "title": "Trump-Erdoğan görüşmesi: 'Yaptırımları kaldıracağız, F-35 satışını değerlendireceğiz'",
@@ -18,78 +50,46 @@
       "publishedAt": "Tue, 07 Jul 2026 13:47:08 GMT"
     },
     {
-      "title": "ABD, Hürmüz Boğazı'nda tankerlerin vurulması sonrası İran'a hava saldırıları başlattı",
-      "summary": "ABD, saldırıların \"ağır bedeller ödetmeyi\" amaçladığını söylerken, İran da karşılık olarak \"kararlı önlemler\" alacağı konusunda uyarıda bulundu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/czdemgm5gjmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 01:10:26 GMT"
-    },
-    {
-      "title": "Hakan Tosun cinayeti davasının ikinci duruşması bugün görülecek",
-      "summary": "Geçtiğimiz yıl Ekim ayında İstanbul'da saldırıya uğradıktan sonra hayatını kaybeden ekoloji aktivisti ve gazeteci Hakan Tosun'un ölümü ile ilgili soruşturmada iddianame tamamlandı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c3v6lv5w05no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 01:56:52 GMT"
-    },
-    {
-      "title": "Dünya Kupası'nda çeyrek finale yükselen son takım İsviçre",
-      "summary": "Dünya Kupası'nda çeyrek finale yükselen son takım İsviçre oldu. İsviçre, Kanada'nın Vancouver kentinde oynanan maçta Kolombiya'yı penaltılarla 4-3 mağlup etti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cn7p7dyp0gjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 00:26:55 GMT"
-    },
-    {
-      "title": "NATO Savunma Forumu: Türkiye ve müttefikler hangi anlaşmalara imza attı?",
-      "summary": "NATO müttefikleri Ankara'daki liderler zirvesi kapsamında düzenlenen Savunma Forumu'nda on milyarlarca dolarlık anlaşmalar imzaladı. Türkiye, bu anlaşmalar çerçevesinde Atmaca seyir füzesi, gözlem uyduları ve başka savunma teçhizatı konusun",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c4gyj0w77eyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 11:34:44 GMT"
-    },
-    {
-      "title": "Kavga ettiği damadını silahla vurdu",
-      "summary": "Sivas'ta sokak ortasında tartıştığı damadını tabancayla ateş ederek yaralayan kayınpeder gözaltına alındı.",
+      "title": "NATO Zirvesi'nde ikinci gün. Liderler zirve için Beştepe'ye gidiyor",
+      "summary": "Ankara, 36'ncı ⁠NATO Devlet ve Hükümet Başkanları Zirvesi'nin ikinci gününde ev sahipliği yapıyor. 32 lider bugün bir araya gelerek savunma harcamaları, İran krizi, Avrupa'nın güvenliği ve ittifakın geleceğine ilişkin önemli başlıkları masa",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-08T04:18:24+03:00"
+      "publishedAt": "2026-07-08T08:44:58+03:00"
     },
     {
-      "title": "Akraba kavgasında 14 yaşındaki çocuk öldü",
-      "summary": "Trabzon'da akrabalar arasında çıkan kavgada silahla vurularak ağır yaralanan E.E. isimli çocuk, hastanede yaşamını yitirdi.",
+      "title": "Resmi Gazete'de bugün (8 Temmuz 2026 Resmi Gazete kararları)",
+      "summary": "Resmi Gazete'de 8 Temmuz 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 8 Temmuz 2026 tarihli ve 33304 Sayılı Resmi Gazete ayrıntıları.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-08T04:13:58+03:00"
+      "publishedAt": "2026-07-08T08:29:08+03:00"
     },
     {
-      "title": "Emniyet şeridinde feci kaza. 2 ölü",
-      "summary": "Adana'da arızalandığı için emniyet şeridinde duran dorsesiz tıra çarpan otomobilde 2 kişi hayatını kaybetti.",
+      "title": "Fransa Cumhurbaşkanı Ankara'da sabah koşusunda. Önce spor ardından Beştepe",
+      "summary": "NATO Liderler Zirvesi için Ankara'ya gelen Fransa Cumhurbaşkanı Emmanuel Macron, bu sabah ona eşlik eden bir grupla koşuya çıktı. Macron, sporunun ardından Beştepe'ye geçecek.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-08T03:51:45+03:00"
+      "publishedAt": "2026-07-08T08:40:09+03:00"
     },
     {
-      "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 08 Temmuz 2026",
-      "summary": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 08 Temmuz 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Mu",
+      "title": "Meteoroloji tarih verip uyardı. Önce kuvvetli sağanak sonra sıcak hava dalgası geliyor",
+      "summary": "Yurdun büyük bir kesimi yağışlı havanın etkisi altına giriyor. İstanbul'da yarından itibaren iki gün boyunca sağanak yağış etkili olacak. Hafta sonu ise sıcaklıklar yükselecek.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-08T03:10:00+03:00"
+      "publishedAt": "2026-07-08T07:57:58+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 08 Temmuz 2026",
-      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 08 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
+      "title": "Otobüs direğe çarptı. 5'i ağır 15 yaralı",
+      "summary": "Şehirlerarası yolcu otobüsü Anadolu Otoyolu'ndaki dinlenme tesisi girişinde direğe çarptı. 15 kişi yaralandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-08T05:00:00+03:00"
+      "publishedAt": "2026-07-08T07:41:17+03:00"
     },
     {
-      "title": "NATO Zirvesi'ne Türk mutfağı damgasını vurdu. Menüde neler vardı?",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan ve eşi Emine Erdoğan, NATO Zirvesi’ne katılan devlet ve hükümet başkanları ile eşlerini Beştepe'de ağırladı. Yemekte liderlere yöresel lezzetler sunuldu.",
+      "title": "\"Dur\" ihtarına uymayan sürücüye 492 bin 719 lira ceza",
+      "summary": "Karabük'te polis ekibinin \"dur\" ihtarına uymayıp kaçan otomobil sürücüsüne 492 bin 719 lira para cezası uygulandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-07T23:47:10+03:00"
+      "publishedAt": "2026-07-08T05:39:39+03:00"
     },
     {
       "title": "Bekçi maaşı ne kadar oldu?",
@@ -140,28 +140,36 @@
       "publishedAt": "Mon, 06 Jul 2026 22:41:00 GMT"
     },
     {
-      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
-      "summary": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
+      "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
+      "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 08 Jul 2026 02:19:53 GMT"
+      "publishedAt": "Wed, 08 Jul 2026 04:43:44 GMT"
     },
     {
-      "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
-      "summary": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
+      "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+      "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 19:55:59 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 03:22:46 GMT"
     },
     {
-      "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
-      "summary": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
+      "title": "Nato allies announce £37bn for new missile project",
+      "summary": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 18:56:19 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 03:12:00 GMT"
+    },
+    {
+      "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
+      "summary": "Villagers whose families have been stranded told the BBC they are struggling to get food and help.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 08 Jul 2026 00:49:07 GMT"
     },
     {
       "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
@@ -180,60 +188,60 @@
       "publishedAt": "Tue, 07 Jul 2026 16:10:14 GMT"
     },
     {
-      "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
-      "summary": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 07 Jul 2026 20:00:57 GMT"
-    },
-    {
-      "title": "US immigration officer shoots and kills man in Texas",
-      "summary": "Man, identified as Lorenzo Salgado Araujo, is latest to be killed by ICE officers since President Trump took power.",
+      "title": "Syria grapples with unrest as government faces old and new threats",
+      "summary": "Damascus shaken by twin blasts during Macron's visit, marking heightened threats to Syria's fragile stability",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 01:26:01 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/8/syria-grapples-with-unrest-as-government-faces-old-and-new-threats?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 05:10:23 +0000"
     },
     {
-      "title": "Argentina fans hurl beer at Egypt supporters after final whistle",
-      "summary": "A video circulating on social media shows Argentina fans throwing beer and taunting Egypt supporters in the stands.",
+      "title": "Argentina fan waves Israeli flag at World Cup match with Egypt",
+      "summary": "An Argentina fan waves the Israeli flag during his team’s Round of 16 match against Egypt.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_argentina-fans-hurl-beer-at-egypt-supporters-070726?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 01:21:37 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/argentina-fan-waves-israeli-flag-at-world-cup-match-with-egypt?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 05:01:08 +0000"
     },
     {
-      "title": "US strikes Iran despite promised pause for Khamenei funeral",
-      "summary": "The US launches new strikes on Iran despite a promise by US President Donald Trump to pause attacks.",
+      "title": "Khamenei’s coffin arrives in Iraq as US strikes hit Iran",
+      "summary": "The coffin carrying Iran’s late Supreme Leader Ali Khamenei has arrived in one of Shia Islam’s holiest cities, Najaf.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/us-strikes-iran-despite-promised-pause-for-khamenei-funeral?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 01:13:54 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/khameneis-coffin-arrives-in-iraq-as-us-strikes-hit-iran?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 04:53:50 +0000"
     },
     {
-      "title": "Unstable Manhattan skyscraper triggers collapse fears",
-      "summary": "An unstable Manhattan skyscraper has triggered a major evacuation after structural columns buckled.",
+      "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
+      "summary": "On July 8, at about 11:10 GMT, about 99 percent of the world experiences sunlight at the same time.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/unstable-manhattan-skyscraper-triggers-collapse-fears?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 01:09:49 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 04:23:58 +0000"
     },
     {
-      "title": "How the US-Iran conflict is reshaping Africa’s geopolitical opportunities",
-      "summary": "The US-Israel war on Iran is forcing African governments to rethink their security and economic priorities.",
+      "title": "Triumph to disaster: Egypt’s pride remains as they bow out of World Cup",
+      "summary": "Proud Egyptians celebrate their team's historic run at the World Cup but blame bias for a heartbreaking exit.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/8/how-the-us-iran-conflict-is-reshaping-africas-geopolitical-opportunities?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 01:04:26 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/8/triumph-to-disaster-egypts-pride-remains-as-they-bow-out-of-world-cup?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 04:03:54 +0000"
     },
     {
-      "title": "Marine Le Pen to run for French Presidency despite criminal conviction",
-      "summary": "Marine Le Pen, the far-right French politician, announced Tuesday she is running for president next year.",
+      "title": "Oil prices surge as US strikes Iran, reversing slide to pre-war levels",
+      "summary": "Brent crude rises above $76 a barrel for the first time in two weeks amid renewed violence in Strait of Hormuz.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-to-run-for-french-presidency-despite-criminal-conviction?traffic_source=rss",
-      "publishedAt": "Wed, 08 Jul 2026 00:23:53 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels?traffic_source=rss",
+      "publishedAt": "Wed, 08 Jul 2026 04:02:32 +0000"
+    },
+    {
+      "title": "Tehran targets Bahrain and Kuwait after US strikes",
+      "summary": "The regional crossfire raised the risks that an interim agreement to halt fighting in the war could break down, putting the Middle East again at risk of a wider conflict.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/08/g-s1-132460/us-iran-attacks",
+      "publishedAt": "Wed, 08 Jul 2026 01:36:30 -0400"
     },
     {
       "title": "Reigning champion Argentina escapes with remarkable World Cup victory over Egypt",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/07/g-s1-132281/up-first-newsletter-graham-platner-nato-trump-climate-change-us-roads",
       "publishedAt": "Tue, 07 Jul 2026 07:40:46 -0400"
-    },
-    {
-      "title": "Graham Platner faces calls to leave Maine Senate race after sexual assault allegation",
-      "summary": "Graham Platner is facing growing pressure to end his campaign for U.S. Senate in Maine after Politico reported an allegation of sexual assault. Platner has denied the claim.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/07/nx-s1-5884020/graham-platner-faces-calls-to-leave-maine-senate-race-after-sexual-assault-allegation",
-      "publishedAt": "Tue, 07 Jul 2026 06:44:47 -0400"
     },
     {
       "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
@@ -348,16 +348,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 19,
+      "tempC": 23,
       "description": "clear sky",
       "high": 29,
       "low": 19
     },
     {
       "place": "London",
-      "tempC": 23,
+      "tempC": 21,
       "description": "clear sky",
-      "high": 33,
+      "high": 32,
       "low": 21
     }
   ],
