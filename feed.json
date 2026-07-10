@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T16:53:41.419Z",
+  "updated": "2026-07-10T19:23:02.978Z",
   "news": [
     {
       "title": "'S-400'ler satılacak' iddiasına Rusya'dan ilk yanıt: 'Çok hassas bir mesele'",
@@ -7,7 +7,7 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cpd30d6g8qjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 12:11:44 GMT"
+      "publishedAt": "Fri, 10 Jul 2026 17:38:50 GMT"
     },
     {
       "title": "CHP'de Kılıçdaroğlu yönetimi yedi il başkanını daha görevden aldı",
@@ -50,6 +50,13 @@
       "publishedAt": "Fri, 10 Jul 2026 04:06:14 GMT"
     },
     {
+      "title": "Kendini yakmaya çalışırken 10 hektarlık alanı kül etti",
+      "summary": "Muğla'da kendisini yakmak isteyen 61 yaşındaki bir kadın, 10 hektarlık makilik alanı yaktı. Kurtarılan kadın hastaneye kaldırıldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-10T22:02:59+03:00"
+    },
+    {
       "title": "Bakan Fidan: CAATSA'da yakında sonuca ulaşacağız",
       "summary": "Bakan Fidan, CAATSA yaptırımları konusunda adımların atıldığını, kısa süre içinde neticeye ulaşılacağını söyledi.",
       "source": "NTV",
@@ -83,13 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-10T17:17:19+03:00"
-    },
-    {
-      "title": "15 Temmuz resmi tatil mi, hangi güne denk geliyor? 15 Temmuz'da kamu ve devlet daireleri açık mı?",
-      "summary": "15 Temmuz resmi tatil mi? Sorusunun yanıtı, 15 Temmuz Demokrasi ve Milli Birlik Günü'nün yaklaşması nedeniyle merak ediliyor. Resmi tatillerde mesai yapmayan kamu, kurum ve kuruluşları nedeniyle özel işlerini halledecek olan vatandaşlar pla",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-10T15:39:59+03:00"
     },
     {
       "title": "Kademeli emeklilik son durum",
@@ -140,12 +140,28 @@
       "publishedAt": "Fri, 10 Jul 2026 10:08:06 GMT"
     },
     {
+      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+      "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 14:08:26 GMT"
+    },
+    {
       "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
       "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 10 Jul 2026 13:53:11 GMT"
+    },
+    {
+      "title": "Zulu king expresses regret after video captures tirade against his wife",
+      "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 16:42:11 GMT"
     },
     {
       "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
@@ -172,68 +188,60 @@
       "publishedAt": "Fri, 10 Jul 2026 15:28:17 GMT"
     },
     {
-      "title": "Zulu king expresses regret after video captures tirade against his wife",
-      "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 16:42:11 GMT"
-    },
-    {
-      "title": "China lands reusable rocket for first time, state media says",
-      "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 06:44:21 GMT"
-    },
-    {
-      "title": "Israel bans Jerusalem’s grand mufti from Al-Aqsa Mosque for one week",
-      "summary": "The incident is the latest in a pattern of Israeli measures in the occupied territory since the Gaza genocide began.",
+      "title": "Can the agreement between Iran and the US be rescued?",
+      "summary": "Latest attacks jeopardise ceasefire and memorandum of understanding.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 15:53:51 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss",
+      "publishedAt": "Fri, 10 Jul 2026 19:02:01 +0000"
     },
     {
-      "title": "Spain vs Belgium LIVE: FIFA World Cup 2026 quarterfinal",
-      "summary": "Live coverage and text updates as Lamine Yamal's Spain face Belgium for the right to meet France in the semifinals.",
+      "title": "Eliminated Morocco turn attention to cohosting 2030 World Cup",
+      "summary": "Morocco were eliminated from the 2026 World Cup by a 2-0 defeat by France in the quarterfinals, but host next edition.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/10/spain-vs-belgium-live-fifa-world-cup-2026-quarterfinal?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 15:34:18 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/10/eliminated-morocco-turn-attention-to-co-hosting-2030-world-cup?traffic_source=rss",
+      "publishedAt": "Fri, 10 Jul 2026 18:43:43 +0000"
     },
     {
-      "title": "Trump refuses to sign US housing bill over voting act standoff",
-      "summary": "The housing legislation will become US law at midnight with or without President Donald Trump's signature.",
+      "title": "Clinical Sinner demolishes Djokovic to set up Wimbledon final with Zverev",
+      "summary": "Sinner is targeting his fifth Grand Slam title, which would bring him within two of the tally of rival Carlos Alcaraz.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/10/trump-refuses-to-sign-us-housing-bill-over-voting-act-standoff?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 15:17:42 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/10/clinical-sinner-demolishes-djokovic-to-set-up-wimbledon-final-with-zverev?traffic_source=rss",
+      "publishedAt": "Fri, 10 Jul 2026 18:29:54 +0000"
     },
     {
-      "title": "Family mourns baby after Israeli forces blocked journey to hospital",
-      "summary": "Three-month-old Ahmad Zaid’s family received his birth certificate and death certificate on the same day.",
+      "title": "Indian cricket board to review T20 team’s ‘bad phase’ after England defeats",
+      "summary": "India slumped to a nine-wicket defeat in the fourth T20 against England, following a 2-0 series whitewash in Ireland.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/family-mourns-baby-after-israeli-forces-blocked-journey-to-hospital?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 15:05:07 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/10/indian-cricket-board-to-review-t20-teams-bad-phase-after-england-defeats?traffic_source=rss",
+      "publishedAt": "Fri, 10 Jul 2026 18:23:52 +0000"
     },
     {
-      "title": "The search for Gaza’s missing brings heartbreak and closure for loved ones",
-      "summary": "Thousands of bodies remain trapped under the rubble of their homes in Gaza, with retrieval a long and difficult task.",
+      "title": "UK police arrest man suspected of murdering former MP Ann Widdecombe",
+      "summary": "Reform UK politician Widdecombe, 78, was found dead at her home on Thursday with serious injuries.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/7/10/the-search-for-gazas-missing-brings-heartbreak-and-closure-for-loved-ones?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 15:00:26 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/10/uk-police-arrest-man-suspected-of-murdering-former-mp-ann-widdecombe?traffic_source=rss",
+      "publishedAt": "Fri, 10 Jul 2026 18:18:39 +0000"
     },
     {
-      "title": "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
-      "summary": "Ukraine’s unmanned systems have cut overland routes and begun to target Russian shadow tankers.",
+      "title": "Peru’s President-elect Fujimori says she wants to restore ties with Mexico",
+      "summary": "Keiko Fujimori has 'every intention' of ending months-long rift with Mexico over its political asylum decisions.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/10/ukraine-chokes-fuel-to-crimea-russian-consumers-targeting-military-supply?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 14:38:44 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/10/perus-president-elect-fujimori-says-she-wants-to-restore-ties-with-mexico?traffic_source=rss",
+      "publishedAt": "Fri, 10 Jul 2026 18:18:26 +0000"
+    },
+    {
+      "title": "Houston neighbors started seeing more ICE agents around. Then came a fatal shooting.",
+      "summary": "Lorenzo Salgado Araujo was a 52-year-old Mexican national who worked in construction for more than three decades. The father of three was shot by Immigration and Customs Enforcement agents after they attempted to pull him over.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/10/nx-s1-5886481/houston-neighbors-started-seeing-more-ice-agents-around-then-came-a-fatal-shooting",
+      "publishedAt": "Fri, 10 Jul 2026 15:08:57 -0400"
     },
     {
       "title": "A major housing bill is set to become law at midnight — even though Trump says he won't sign",
@@ -273,14 +281,6 @@
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/07/10/nx-s1-5887550/count-binface-the-intergalactic-warrior-who-could-upend-britains-strangest-election",
-      "publishedAt": "Fri, 10 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "One U.S. visa program is growing rapidly. No one is happy with it",
-      "summary": "Republicans on Capitol Hill are starting to talk about one facet of immigration reform: how to expand the popular H-2A visa program for farm laborers. They face obstacles.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/10/g-s1-132915/congress-agriculture-h2a-visa-program",
       "publishedAt": "Fri, 10 Jul 2026 05:00:00 -0400"
     },
     {
@@ -337,14 +337,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
+      "tempC": 22,
       "description": "clear sky",
       "high": 28,
       "low": 17
     },
     {
       "place": "London",
-      "tempC": 29,
+      "tempC": 27,
       "description": "overcast",
       "high": 30,
       "low": 23
