@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T02:23:39.640Z",
+  "updated": "2026-07-11T05:37:52.772Z",
   "news": [
     {
       "title": "'S-400'ler satılacak' iddiasına Rusya'dan ilk yanıt: 'Çok hassas bir mesele'",
@@ -50,6 +50,20 @@
       "publishedAt": "Fri, 10 Jul 2026 04:06:14 GMT"
     },
     {
+      "title": "Resmi Gazete'de yayımlandı. MEB'den ek ücreti düzenlemesi",
+      "summary": "Resmi Gazete'de yayımlanan karar göre öğretmen, müdür ve müdür yardımcılarının ders ve ek ders saatleri değişti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-11T08:17:57+03:00"
+    },
+    {
+      "title": "Son Dakika... CHP'li Çankaya Belediyesi'ne operasyon",
+      "summary": "CHP'li Çankaya Belediyesi'ne yönelik sabahın erken saatlerinde operasyon düzenlendi. Polis ekiplerinin belediye binasında arama yaptığı öğrenildi. Çok sayıda isim için gözaltı kararı olduğu iddia ediliyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-11T08:06:32+03:00"
+    },
+    {
       "title": "15 Temmuz’da bazı toplu taşıma seferlerinin ücretsiz olması kararı Resmi Gazete’de",
       "summary": "15 Temmuz Demokrasi ve Milli Birlik Günü nedeniyle bazı metro seferlerinin ücretsiz olması hakkında karar Resmi Gazete’de yayımlandı.",
       "source": "NTV",
@@ -68,7 +82,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-11T05:00:00+03:00"
+      "publishedAt": "2026-07-11T08:30:00+03:00"
     },
     {
       "title": "İmzalar atıldı. Türkiye ve KKTC arasında doğal gaz boru hattı inşa edilecek",
@@ -76,20 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-10T22:25:06+03:00"
-    },
-    {
-      "title": "Kendini yakmaya çalışırken 10 hektarlık alanı kül etti",
-      "summary": "Muğla'da kendisini yakmak isteyen 61 yaşındaki bir kadın, 10 hektarlık makilik alanı yaktı. Kurtarılan kadın hastaneye kaldırıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-10T22:02:59+03:00"
-    },
-    {
-      "title": "Bakan Fidan: CAATSA'da yakında sonuca ulaşacağız",
-      "summary": "Bakan Fidan, CAATSA yaptırımları konusunda adımların atıldığını, kısa süre içinde neticeye ulaşılacağını söyledi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-10T18:13:34+03:00"
     },
     {
       "title": "YKS sonuçları ne zaman açıklanacak?",
@@ -145,15 +145,15 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 01:24:49 GMT"
+      "publishedAt": "Sat, 11 Jul 2026 04:56:33 GMT"
     },
     {
-      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
-      "summary": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 14:08:26 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 04:06:56 GMT"
     },
     {
       "title": "Meet the crypto billionaires building a world where money buys you a vote",
@@ -180,12 +180,52 @@
       "publishedAt": "Fri, 10 Jul 2026 23:02:59 GMT"
     },
     {
-      "title": "Zulu king expresses regret after video captures tirade against his wife",
-      "summary": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 16:42:11 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 01:45:59 GMT"
+    },
+    {
+      "title": "Are the US and Iran at war again?",
+      "summary": "Iranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over'.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
+      "publishedAt": "Sat, 11 Jul 2026 04:51:20 +0000"
+    },
+    {
+      "title": "‘We are the lost generation of Sudan’: Students in exile",
+      "summary": "Years of conflict have left thousands of Sudanese students struggling to continue their education in exile.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/7/11/we-are-the-lost-generation-of-sudan-students-in-exile?traffic_source=rss",
+      "publishedAt": "Sat, 11 Jul 2026 04:41:40 +0000"
+    },
+    {
+      "title": "Conor McGregor weighs in at 170.5 pounds for UFC 329 bout vs Max Holloway",
+      "summary": "Irishman McGregor, former two-division champion and still one of UFC's most famous fighters, has not fought since 2021.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/sports/2026/7/11/conor-mcgregor-max-holloway-weighs-in-at-170-5-pounds-ufc-329?traffic_source=rss",
+      "publishedAt": "Sat, 11 Jul 2026 04:34:33 +0000"
+    },
+    {
+      "title": "Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers",
+      "summary": "Haaland termed a 'beast' by England's Kane as the lethal forwards aim to carry their teams into the semifinals.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/sports/2026/7/11/kane-vs-haaland-in-england-vs-norway-world-cup-quarterfinal-of-strikers?traffic_source=rss",
+      "publishedAt": "Sat, 11 Jul 2026 03:54:17 +0000"
+    },
+    {
+      "title": "Yamal does not mind lack of goals if Spain win World Cup 2026",
+      "summary": "Spanish star has scored just one goal in the World Cup, where he has been sharing celebrations with his little brother.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/sports/2026/7/11/yamal-does-not-mind-lack-of-goals-if-spain-win-world-cup-2026?traffic_source=rss",
+      "publishedAt": "Sat, 11 Jul 2026 02:26:40 +0000"
     },
     {
       "title": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
@@ -194,46 +234,6 @@
       "lang": "en",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
       "publishedAt": "Sat, 11 Jul 2026 01:12:46 +0000"
-    },
-    {
-      "title": "Why the new US housing bill won’t fix the crisis",
-      "summary": "Why the new US housing bill won't fix the crisis.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss",
-      "publishedAt": "Sat, 11 Jul 2026 00:41:51 +0000"
-    },
-    {
-      "title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
-      "summary": "US said to be pushing for public statement that Iran will not fire at commercial ships passing through Strait of Hormuz",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-      "publishedAt": "Sat, 11 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Nicaragua strips lawyers of certification in latest crackdown on dissent",
-      "summary": "The government of Daniel Ortega and Rosario Murillo has been accused of human rights abuses against critics.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 23:31:22 +0000"
-    },
-    {
-      "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
-      "summary": "US President Donald Trump has placed the Caribbean island under a de facto oil blockade, straining its power grid.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 23:18:08 +0000"
-    },
-    {
-      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-      "summary": "The complaint alleges a coordinated effort by two former Apple employees and OpenAI to steal confidential information.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 23:00:11 +0000"
     },
     {
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
@@ -260,8 +260,8 @@
       "publishedAt": "Fri, 10 Jul 2026 15:08:57 -0400"
     },
     {
-      "title": "A major housing bill is set to become law at midnight — even though Trump says he won't sign",
-      "summary": "President Trump says he is refusing to sign the bill without Congress first passing his sweeping voter ID bill.",
+      "title": "Largest housing affordability bill in decades becomes law without Trump's signature",
+      "summary": "President Trump refused to sign the bill without Congress first passing his sweeping voter ID bill.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature",
@@ -337,15 +337,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 19,
+      "tempC": 22,
       "description": "clear sky",
       "high": 30,
       "low": 18
     },
     {
       "place": "London",
-      "tempC": 20,
-      "description": "mainly clear",
+      "tempC": 19,
+      "description": "partly cloudy",
       "high": 30,
       "low": 19
     }
