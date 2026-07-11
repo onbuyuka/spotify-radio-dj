@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T21:59:08.499Z",
+  "updated": "2026-07-11T02:23:39.640Z",
   "news": [
     {
       "title": "'S-400'ler satılacak' iddiasına Rusya'dan ilk yanıt: 'Çok hassas bir mesele'",
@@ -50,6 +50,13 @@
       "publishedAt": "Fri, 10 Jul 2026 04:06:14 GMT"
     },
     {
+      "title": "15 Temmuz’da bazı toplu taşıma seferlerinin ücretsiz olması kararı Resmi Gazete’de",
+      "summary": "15 Temmuz Demokrasi ve Milli Birlik Günü nedeniyle bazı metro seferlerinin ücretsiz olması hakkında karar Resmi Gazete’de yayımlandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-11T03:00:32+03:00"
+    },
+    {
       "title": "Bolu Belediyesi davasında ara karar. İki sanık tahliye edildi",
       "summary": "Bolu Belediyesi'ne yönelik irtikap soruşturmasında, Tanju Özcan'ın da aralarında olduğu 19 sanık hakim karşısına çıktı. 2 tutuklu sanık tahliye edilirken, Tanju Özcan'ın da aralarında olduğu 4 kişinin tutukluluk hallerinin devamına karar ve",
       "source": "NTV",
@@ -61,7 +68,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 11 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-11T00:30:00+03:00"
+      "publishedAt": "2026-07-11T05:00:00+03:00"
     },
     {
       "title": "İmzalar atıldı. Türkiye ve KKTC arasında doğal gaz boru hattı inşa edilecek",
@@ -85,11 +92,20 @@
       "publishedAt": "2026-07-10T18:13:34+03:00"
     },
     {
-      "title": "Mehmet Akif Ersoy hakkında iddianame kabul edildi. 266 yıl hapis istemi",
-      "summary": "Mehmet Akif Ersoy hakkında yeniden düzenlenen iddianame kabul edildi. Ersoy için 266 yıl hapis istendi.",
-      "source": "NTV",
+      "title": "YKS sonuçları ne zaman açıklanacak?",
+      "summary": "LGS sonuçlarının açıklanmasının ardından dikkatler bu kez YKS sonuçlarına yöneldi. Milyonlarca üniversite adayı ve aileleri, geleceklerini şekillendirecek tercih süreci öncesinde YKS sonuçlarına dair tüm detayları araştırmayı sürdürüyor. Pe",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-10T19:17:01+03:00"
+      "link": "https://www.haberturk.com/yks-sonuclari-aciklanma-tarihi-belli-oldu-yks-sonuclari-ne-zaman-aciklanacak-yks-sonuclari-sorgulama-ekrani-3897559",
+      "publishedAt": "Fri, 10 Jul 2026 09:50:18 GMT"
+    },
+    {
+      "title": "KPSS lisans başvuru tarihİ ne zaman?",
+      "summary": "Kamu Personel Seçme Sınavı (KPSS) lisans başvurularına yönelik süreçte adayların gözü başvuru ekranlarına çevrilmiş durumda. Başvuruların nereden yapılacağı, ücretlerin ne kadar olduğu ve son başvuru tarihinin ne zaman olduğu gibi konular, ",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/kpss-lisans-basvuru-tarihleri-kpss-basvurulari-nereden-yapilir-kpss-lisans-basvuru-ucreti-ne-kadar-kpss-lisans-basvurulari-son-gun-ne-zaman-3897554",
+      "publishedAt": "Fri, 10 Jul 2026 09:24:27 GMT"
     },
     {
       "title": "LGS taban puanları açıklandı mı?",
@@ -124,20 +140,12 @@
       "publishedAt": "Fri, 10 Jul 2026 07:39:33 GMT"
     },
     {
-      "title": "LGS EBA şifresi nasıl alınır?",
-      "summary": "Liseye Geçiş Sistemi (LGS) sınav sonuçlarının açıklanmasının ardından hem öğrenciler hem de veliler büyük bir merakla sonuçlara odaklandı. Sonuçları öğrenmek ve LGS sürecine dair tüm detaylara ulaşmak isteyenler için EBA üzerinden yapılan L",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/lgs-eba-giris-ekrani-eba-sifresi-nasil-alinir-lgs-sonuclari-nereden-sorgulanir-3897524",
-      "publishedAt": "Fri, 10 Jul 2026 07:36:27 GMT"
-    },
-    {
-      "title": "LGS yerleştirme sonuçları ve boş kontejyan",
-      "summary": "2026 LGS sonuçlarının açıklanmasıyla birlikte milyonlarca öğrenci ve veli için kritik süreç tamamlandı. Uzun süredir devam eden sınav maratonunun ardından şimdi gözler, yerleştirme sonuçları ve boş kontenjanlara çevrildi. Öğrenciler, istedi",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/2026-lgs-yerlestirme-sonuclari-ve-bos-kontenjanlar-ne-zaman-aciklanacak-3897514",
-      "publishedAt": "Fri, 10 Jul 2026 07:19:56 GMT"
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 01:24:49 GMT"
     },
     {
       "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
@@ -148,12 +156,28 @@
       "publishedAt": "Fri, 10 Jul 2026 14:08:26 GMT"
     },
     {
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 23:03:11 GMT"
+    },
+    {
       "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
       "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 10 Jul 2026 13:53:11 GMT"
+    },
+    {
+      "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+      "summary": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 10 Jul 2026 23:02:59 GMT"
     },
     {
       "title": "Zulu king expresses regret after video captures tirade against his wife",
@@ -164,76 +188,52 @@
       "publishedAt": "Fri, 10 Jul 2026 16:42:11 GMT"
     },
     {
-      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-      "summary": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 12:51:46 GMT"
-    },
-    {
-      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 16:42:24 GMT"
-    },
-    {
-      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-      "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 10 Jul 2026 21:30:57 GMT"
-    },
-    {
-      "title": "Spain leave it late to book semifinal date with France",
-      "summary": "Mikel Merino comes off the bench to break Belgian hearts after slip from sub keeper Senne Lammens.",
+      "title": "Zaporizhzhia’s mayor says Russian advance reaches city’s outskirts",
+      "summary": "Emergency crews are searching for survivors after a Russian air strike on the Ukrainian city of Zaporizhzhia.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/10/spain-leave-it-late-to-book-semifinal-date-with-france?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 21:39:56 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zaporizhzhias-mayor-says-russian-advance-reaches-citys-outskirts?traffic_source=rss",
+      "publishedAt": "Sat, 11 Jul 2026 01:12:46 +0000"
     },
     {
-      "title": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
-      "summary": "The hostages were taken from three separate schools in the southwestern state of Oyo in May.",
+      "title": "Why the new US housing bill won’t fix the crisis",
+      "summary": "Why the new US housing bill won't fix the crisis.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 21:01:27 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/why-the-new-us-housing-bill-wont-fix-the-crisis?traffic_source=rss",
+      "publishedAt": "Sat, 11 Jul 2026 00:41:51 +0000"
     },
     {
-      "title": "Lebanon historic sites destroyed by Israeli strikes",
-      "summary": "Israeli air strikes on southern Lebanon have caused catastrophic destruction and damaged historic landmarks.",
+      "title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
+      "summary": "US said to be pushing for public statement that Iran will not fire at commercial ships passing through Strait of Hormuz",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/2026/7/10/lebanon-historic-sites-destroyed-by-israeli-strikes?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 20:33:08 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
+      "publishedAt": "Sat, 11 Jul 2026 00:00:00 +0000"
     },
     {
-      "title": "How Wong Kim Ark’s legacy reignited the fight for birthright citizenship",
-      "summary": "Sandra Wong did not know her great-grandfather growing up. But his legacy would catapult her into the public eye.",
+      "title": "Nicaragua strips lawyers of certification in latest crackdown on dissent",
+      "summary": "The government of Daniel Ortega and Rosario Murillo has been accused of human rights abuses against critics.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/longform/2026/7/10/how-wong-kim-arks-legacy-reignited-the-fight-for-birthright-citizenship?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 20:24:03 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/10/nicaragua-strips-lawyers-of-certification-in-latest-crackdown-on-dissent?traffic_source=rss",
+      "publishedAt": "Fri, 10 Jul 2026 23:31:22 +0000"
     },
     {
-      "title": "Ukrainian attacks cause chaos at fuel stations across Russia",
-      "summary": "Ukraine’s targeting of Russia’s major oil refineries has sparked a nationwide fuel shortage.",
+      "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
+      "summary": "US President Donald Trump has placed the Caribbean island under a de facto oil blockade, straining its power grid.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 20:23:36 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
+      "publishedAt": "Fri, 10 Jul 2026 23:18:08 +0000"
     },
     {
-      "title": "Donald Trump removes final members of independent US election commission",
-      "summary": "The dismissals leave the federal election body vacant as Trump presses for broader changes to US voting rules.",
+      "title": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+      "summary": "The complaint alleges a coordinated effort by two former Apple employees and OpenAI to steal confidential information.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss",
-      "publishedAt": "Fri, 10 Jul 2026 20:12:22 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
+      "publishedAt": "Fri, 10 Jul 2026 23:00:11 +0000"
     },
     {
       "title": "Graham Platner makes it official in Maine, submitting paperwork to leave Senate race",
@@ -319,37 +319,35 @@
   "sports": [
     {
       "league": "World Cup",
+      "home": "Norway",
+      "away": "England",
+      "status": "upcoming",
+      "date": "2026-07-11"
+    },
+    {
+      "league": "World Cup",
       "home": "Spain",
       "away": "Belgium",
       "homeScore": 2,
       "awayScore": 1,
       "status": "FT",
       "date": "2026-07-10"
-    },
-    {
-      "league": "World Cup",
-      "home": "France",
-      "away": "Morocco",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-07-09"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 21,
+      "tempC": 19,
       "description": "clear sky",
       "high": 30,
       "low": 18
     },
     {
       "place": "London",
-      "tempC": 24,
-      "description": "overcast",
+      "tempC": 20,
+      "description": "mainly clear",
       "high": 30,
-      "low": 23
+      "low": 19
     }
   ],
   "facts": [
