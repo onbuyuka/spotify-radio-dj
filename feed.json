@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T15:57:03.820Z",
+  "updated": "2026-07-12T19:01:16.112Z",
   "news": [
     {
       "title": "Sanatçı Haluk Levent gözaltına alındı",
@@ -34,20 +34,27 @@
       "publishedAt": "Sun, 12 Jul 2026 07:34:42 GMT"
     },
     {
-      "title": "Wimbledon tek erkekler finalinde Sinner ve Zverev karşılaşıyor",
+      "title": "Wimbledon tek erkekler finalinde Zverev, Sinner karşısında ilk seti kazandı",
       "summary": "İngiltere'nin başkenti Londra'nın ev sahipliğini yaptığı Wimbledon Tenis Turnuvası tek erkekler finalinde İtalyan tenisçi Jannik Sinner, Alman rakibi Alexander Zverev ile karşılaşıyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c2lyppe22q7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 15:40:06 GMT"
+      "publishedAt": "Sun, 12 Jul 2026 16:19:35 GMT"
     },
     {
-      "title": "İran, ABD saldırılarına karşı Hürmüz Boğazı'nı kapattığını açıkladı",
-      "summary": "ABD, Hürmüz Boğazı'ndan geçen bir geminin İran güçlerinin vurulmasına misilleme olarak yeni bir saldırı dalgası başlattığını açıkladı. İran Devrim Muhafızları Ordusu, Amerikan saldırılarına karşılık olarak boğazın ikinci bir duyuruya kadar ",
+      "title": "ABD Hürmüz Boğazı'nın açıldığını savunuyor",
+      "summary": "ABD, İran'ın suyolunu kapattığını açıklamasına rağmen Hürmüz Boğazı'nın açık olduğunu savunuyor. İran Devrim Muhafızları Ordusu, Amerikan saldırılarına karşılık olarak boğazın ikinci bir duyuruya kadar kapatıldığını açıklamış ve bölgedeki A",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 09:29:38 GMT"
+      "publishedAt": "Sun, 12 Jul 2026 16:53:45 GMT"
+    },
+    {
+      "title": "Adalet Bakanı Gürlek, kazandığı 150 bin liralık tazminatı Türk Kızılay’a bağışladı",
+      "summary": "Adalet Bakanı Akın Gürlek, kendisine yönelik haksız ithamlar nedeniyle açtığı manevi tazminat davası sonucunda tahsil edilen 150 bin lirayı Türk Kızılay’a bağışladığını açıkladı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-12T18:59:14+03:00"
     },
     {
       "title": "Son dakika. Haluk Levent gözaltına alındı",
@@ -85,11 +92,20 @@
       "publishedAt": "2026-07-12T14:25:13+03:00"
     },
     {
-      "title": "Kabine Ankara'daki tarihi NATO zirvesinin ardından toplanıyor",
-      "summary": "Ankara'daki tarihi NATO zirvesi sonrası ilk Kabine Toplantısı yarın yapılacak. Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığındaki toplantıda gündem yoğun.",
-      "source": "NTV",
+      "title": "15 Temmuz resmi tatil olacak mı?",
+      "summary": "15 Temmuz Demokrasi ve Millî Birlik Günü yaklaşırken vatandaşlar, kamu kurumları başta olmak üzere birçok kurumun çalışma durumunu araştırmaya başladı. Resmî tatil takvimi kapsamında yer alan bu özel günün hangi kurumları kapsadığı ve günlü",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-12T14:15:03+03:00"
+      "link": "https://www.haberturk.com/15-temmuz-resmi-tatil-mi-15-temmuz-resmi-kurumlar-acik-mi-15-temmuz-yarim-gun-mu-3897924",
+      "publishedAt": "Sun, 12 Jul 2026 10:40:46 GMT"
+    },
+    {
+      "title": "Zamlı emekli maaşı ödeme günleri",
+      "summary": "Zamlı emekli maaşlarının hesaplara yatırılacağı tarihler, temmuz ayının en çok araştırılan konuları arasında yer alıyor. Enflasyon farkı ve zam oranının netleşmesinin ardından SSK ile Bağ-Kur emeklileri, SGK tarafından belirlenen ödeme takv",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/zamli-emekli-maasi-odeme-gunleri-tahsis-no-ya-gore-ssk-bag-kur-zamli-emekli-maaslari-ne-zaman-ve-ayin-kacinda-yatacak-3897923",
+      "publishedAt": "Sun, 12 Jul 2026 10:33:04 GMT"
     },
     {
       "title": "YKS sonuçları ne zaman açıklanacak?",
@@ -124,36 +140,20 @@
       "publishedAt": "Sun, 12 Jul 2026 08:44:09 GMT"
     },
     {
-      "title": "15 Temmuz toplu taşıma ücretsiz mi?",
-      "summary": "15 Temmuz Demokrasi ve Millî Birlik Günü yaklaşırken, resmi tatilde toplu ulaşımı kullanmayı planlayanlar ücretsiz ulaşım uygulamasına ilişkin gelişmeleri yakından takip ediyor. Özellikle İstanbul, Ankara ve İzmir'de yaşayanlar, \"15 Temmuz'",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/15-temmuz-toplu-tasima-ucretsiz-mi-15-temmuz-carsamba-istanbul-iett-otobus-metro-ucretsiz-mi-3897898",
-      "publishedAt": "Sun, 12 Jul 2026 08:20:57 GMT"
-    },
-    {
-      "title": "Bugün hangi maçlar var?",
-      "summary": "Futbolseverler, “Bugün hangi maçlar var, Dünya Kupası’nda karşılaşma oynanacak mı?” sorusunun yanıtını merak ediyor. Turnuvada heyecan çeyrek final etabının tamamlanmasının ardından kısa bir ara verirken, 12 Temmuz günü maç programında yer ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/gunun-maclari-12-temmuz-2026-bugun-hangi-maclar-var-bugun-dunya-kupasi-maci-var-mi-12-temmuz-gunun-maclari-neler-3897886",
-      "publishedAt": "Sun, 12 Jul 2026 07:50:03 GMT"
-    },
-    {
       "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "The strikes follow an attack on a Cyprus-flagged vessel travelling through the critical waterway.",
+      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 15:35:38 GMT"
+      "publishedAt": "Sun, 12 Jul 2026 16:46:24 GMT"
     },
     {
       "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+      "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 15:34:45 GMT"
+      "publishedAt": "Sun, 12 Jul 2026 17:40:34 GMT"
     },
     {
       "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
@@ -172,6 +172,14 @@
       "publishedAt": "Sun, 12 Jul 2026 07:39:45 GMT"
     },
     {
+      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 16:35:50 GMT"
+    },
+    {
       "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
       "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
       "source": "BBC World",
@@ -180,60 +188,68 @@
       "publishedAt": "Sat, 11 Jul 2026 23:58:40 GMT"
     },
     {
-      "title": "David Willey, esteemed BBC foreign correspondent, dies aged 93",
-      "summary": "Willey is best known for covering the Vatican, and reported on five popes during his long career.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 12 Jul 2026 15:22:52 GMT"
-    },
-    {
-      "title": "Syrian parliament convenes for first time following al-Assad’s overthrow",
-      "summary": "President Ahmed Al-Sharaa stresses that improving the economy and strengthening public services are key priorities.",
+      "title": "Thousands gather to bid farewell to Qatar’s Father Emir Sheikh Hamad",
+      "summary": "Thousands gathered in Doha to bid farewell to Qatar's Father Emir, Sheikh Hamad bin Khalifa Al Thani.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow?traffic_source=rss",
-      "publishedAt": "Sun, 12 Jul 2026 15:38:36 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/thousands-gather-to-bid-farewell-to-qatars-father-emir-sheikh-hamad?traffic_source=rss",
+      "publishedAt": "Sun, 12 Jul 2026 18:24:30 +0000"
     },
     {
-      "title": "Meet the Cubans stuck in Mexico under Donald Trump’s deportation campaign",
-      "summary": "Cuba has often refused to accept deportations from the US. Where does that leave Cuban deportees under Trump?",
+      "title": "Who will replace Trump ally Lindsey Graham in the US Senate?",
+      "summary": "The US president suggests he is considering a potential candidate to fill the late senator's seat in South Carolina.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/longform/2026/7/12/meet-the-cubans-stuck-in-mexico-under-donald-trumps-deportation-campaign?traffic_source=rss",
-      "publishedAt": "Sun, 12 Jul 2026 15:38:03 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss",
+      "publishedAt": "Sun, 12 Jul 2026 17:51:54 +0000"
     },
     {
-      "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
-      "summary": "Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.",
+      "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
+      "summary": "US military has significantly increased the scale of attacks on Iran in recent days as the Strait of Hormuz standoff boils over.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
-      "publishedAt": "Sun, 12 Jul 2026 15:16:44 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
+      "publishedAt": "Sun, 12 Jul 2026 17:50:27 +0000"
     },
     {
-      "title": "What made US Republican Senator Lindsey Graham a controversial figure",
-      "summary": "Graham was known for his hawkish views on US defence and foreign policies.",
+      "title": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad in Doha",
+      "summary": "Sheikh Hamad bin ⁠Khalifa Al Thani, who ruled Qatar from 1995 to 2013, will be laid to rest at Lusail Cemetery in Doha.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/12/what-made-us-republican-senator-lindsey-graham-a-controversial-figure?traffic_source=rss",
-      "publishedAt": "Sun, 12 Jul 2026 15:03:49 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss",
+      "publishedAt": "Sun, 12 Jul 2026 16:58:11 +0000"
     },
     {
-      "title": "FIFA, Infantino, to examine 64-team World Cup for 2030 tournament",
-      "summary": "FIFA President Gianni Infantino considering a proposal to add a further 16 nations ahead of the World Cup in four years.",
+      "title": "UK Christians protest for Church of England to recognise genocide in Gaza",
+      "summary": "UK Christians are urging the Church of England General Synod to pass a motion to engage with Kairos Palelestine II",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/12/fifa-infantino-to-examine-64-team-world-cup-for-2030-tournament?traffic_source=rss",
-      "publishedAt": "Sun, 12 Jul 2026 14:47:15 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-christians-protest-for-church-of-england-to-recognise-genocide-in-gaza?traffic_source=rss",
+      "publishedAt": "Sun, 12 Jul 2026 16:54:49 +0000"
     },
     {
-      "title": "The architect of Qatari autonomy",
-      "summary": "Sheikh Hamad bin Khalifa Al Thani made Qatar safe by making it relevant.",
+      "title": "Funeral prayers held for Qatar’s Father Emir Sheikh Hamad",
+      "summary": "Funeral prayers have been held for the Father Emir, Sheikh Hamad bin Khalifa Al Thani, at Qatar’s national mosque.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/7/12/the-architect-of-qatari-autonomy?traffic_source=rss",
-      "publishedAt": "Sun, 12 Jul 2026 14:42:27 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad?traffic_source=rss",
+      "publishedAt": "Sun, 12 Jul 2026 16:43:24 +0000"
+    },
+    {
+      "title": "Toronto police looking for suspects after deadly shooting at festival",
+      "summary": "At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
+      "publishedAt": "Sun, 12 Jul 2026 13:22:29 -0400"
+    },
+    {
+      "title": "What to know about the cyclosporiasis outbreak hitting more than half of U.S. states",
+      "summary": "A surge of cases of the intestinal illness that causes diarrhea and nausea has been detected in 31 states, according to federal health authorities, but the source is still under investigation.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
+      "publishedAt": "Sun, 12 Jul 2026 12:48:41 -0400"
     },
     {
       "title": "A Bible passage is at the center of a debate over how the U.S. should treat immigrants",
@@ -252,22 +268,6 @@
       "publishedAt": "Sun, 12 Jul 2026 06:49:40 -0400"
     },
     {
-      "title": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
-      "summary": "The Trump administration's executive orders have meant that administrators are questioning what art can — and can't — be seen on campus.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist",
-      "publishedAt": "Sun, 12 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "What a Monopoly importer learned when it tried to make things in the U.S.A.",
-      "summary": "After getting hit with tariffs for the imported board games he sells, Jonathan Silva decided to see if he could produce a version of his Monopoly game in the United States. This is what he learned.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa",
-      "publishedAt": "Sun, 12 Jul 2026 05:00:00 -0400"
-    },
-    {
       "title": "Some are raising ethical concerns about political text messages using AI",
       "summary": "Taught to sound like a candidate, bots are engaging voters with personalized text messages making AI-generated texting conversations the latest tool political campaigns are using to connect.",
       "source": "NPR",
@@ -276,12 +276,12 @@
       "publishedAt": "Sun, 12 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Sen. Lindsey Graham of South Carolina, Trump ally and foreign policy hawk, dies at 71",
-      "summary": "His office said Graham died Saturday night after a \"brief and sudden illness.\" The Republican senator was instrumental in enacting Trump's policy and staffing priorities.",
+      "title": "An artist brought 'I.C.E. pops' to a Texas campus. The show was shut down in days",
+      "summary": "The Trump administration's executive orders have meant that administrators are questioning what art can — and can't — be seen on campus.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/12/nx-s1-5890790/us-sen-lindsey-graham-dies",
-      "publishedAt": "Sun, 12 Jul 2026 03:10:41 -0400"
+      "link": "https://www.npr.org/2026/07/12/nx-s1-5783832/ice-pop-texas-victor-marka27-quinonez-artist",
+      "publishedAt": "Sun, 12 Jul 2026 05:00:00 -0400"
     },
     {
       "title": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
@@ -339,14 +339,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 26,
+      "tempC": 23,
       "description": "clear sky",
       "high": 29,
       "low": 20
     },
     {
       "place": "London",
-      "tempC": 29,
+      "tempC": 25,
       "description": "clear sky",
       "high": 30,
       "low": 17
