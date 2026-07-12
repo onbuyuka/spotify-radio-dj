@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T21:45:33.881Z",
+  "updated": "2026-07-12T02:28:11.139Z",
   "news": [
     {
       "title": "Çankaya Belediye Başkanı Hüseyin Can Güner gözaltına alındı",
@@ -50,6 +50,13 @@
       "publishedAt": "Sat, 11 Jul 2026 07:12:43 GMT"
     },
     {
+      "title": "Son dakika Niğde'de deprem mi oldu? Az önce deprem Niğde'de nerede oldu? Niğde deprem Kandilli ve AFAD son depremler listesi 12 Temmuz 2026",
+      "summary": "Son dakika Niğde deprem haberleri.. Niğde'de deprem mi oldu? Az önce deprem Niğde'de nerede oldu? Niğde Kandilli ve AFAD son depremler.. 12 Temmuz 2026 Niğde deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Niğde'de? Ni",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-12T01:00:00+03:00"
+    },
+    {
       "title": "Jandarmadan WhatsApp operasyonu. Yüzlerce aktif kullanıcısı var, uygulama noktalarını paylaşıyorlar",
       "summary": "Kırşehir'de uygulama noktalarını paylaşan WhatsApp gruplarına operasyon düzenlendi. 12 grup yöneticisi gözaltına alındı.",
       "source": "NTV",
@@ -61,7 +68,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 12 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-12T00:30:00+03:00"
+      "publishedAt": "2026-07-12T05:00:00+03:00"
     },
     {
       "title": "Mikro deprem kümesi büyük Marmara depreminin habercisi mi? \"Önümüzdeki 7 güne dikkat\"",
@@ -85,13 +92,6 @@
       "publishedAt": "2026-07-11T14:41:47+03:00"
     },
     {
-      "title": "İstanbul Boğazı'ndaki köprülere Türk bayrağı asıldı",
-      "summary": "15 Temmuz Demokrasi ve Millî Birlik Günü nedeniyle İstanbul Boğazı'ndaki 15 Temmuz Şehitler, Fatih Sultan Mehmet ve Yavuz Sultan Selim köprülerine Türk bayrağı asıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-11T15:07:52+03:00"
-    },
-    {
       "title": "15 Temmuz resmi tatil mi?",
       "summary": "15 Temmuz Demokrasi ve Millî Birlik Günü yaklaşırken milyonlarca vatandaş resmi tatil uygulamasına ilişkin detayları araştırmaya başladı. Kamu kurumlarında işi olanlar, bankacılık işlemlerini planlayanlar ve sağlık hizmetlerinden yararlanac",
       "source": "Habertürk",
@@ -113,7 +113,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/12-yargi-paketi-son-dakika-12-yargi-paketi-cikti-mi-maddeleri-neler-infaz-duzenlemesi-iceriginde-af-var-mi-3897690",
-      "publishedAt": "Sat, 11 Jul 2026 05:47:48 GMT"
+      "publishedAt": "Sat, 11 Jul 2026 09:03:30 GMT"
     },
     {
       "title": "On Numara sonuçları açıklandı",
@@ -121,7 +121,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/son-dakika-on-numara-sonuclari-aciklandi-10-temmuz-2026-on-numara-cekilis-sonucu-sorgulama-ekrani-3897674",
-      "publishedAt": "Sat, 11 Jul 2026 05:47:57 GMT"
+      "publishedAt": "Sat, 11 Jul 2026 09:03:45 GMT"
     },
     {
       "title": "Şa-Ra Enerji halka arz sonuçları",
@@ -140,28 +140,36 @@
       "publishedAt": "Fri, 10 Jul 2026 21:46:19 GMT"
     },
     {
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+      "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 01:55:03 GMT"
+    },
+    {
       "title": "China's second typhoon in a week makes landfall",
       "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 17:41:56 GMT"
+      "publishedAt": "Sun, 12 Jul 2026 01:22:22 GMT"
     },
     {
-      "title": "Iran supreme leader calls for revenge for father's killing",
-      "summary": "Mojtaba Khamenei says vengeance is \"inevitable\" for the killing, which happened on the first day of the US-Israeli war on Iran.",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 19:30:36 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 23:58:40 GMT"
     },
     {
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+      "title": "At least two killed in Toronto street festival shooting",
+      "summary": "Police have urged the public to stay away from the area.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 15:03:45 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 12 Jul 2026 02:18:59 GMT"
     },
     {
       "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
@@ -172,68 +180,84 @@
       "publishedAt": "Sat, 11 Jul 2026 16:11:33 GMT"
     },
     {
-      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 19:32:07 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 11 Jul 2026 15:03:45 GMT"
     },
     {
-      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 11 Jul 2026 18:00:09 GMT"
-    },
-    {
-      "title": "UK police investigate murder of politician Ann Widdecombe",
-      "summary": "Politician Ann Widdecombe was found dead with serious injuries, with police confirming a murder investigation underway",
+      "title": "Nigeria rescues dozens of abducted school children in Oyo state",
+      "summary": "Nigerian security forces have rescued 39 schoolchildren and five teachers abducted nearly two months ago in Oyo state.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/uk-police-investigate-murder-of-politician-ann-widdecombe?traffic_source=rss",
-      "publishedAt": "Sat, 11 Jul 2026 20:29:40 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/nigeria-rescues-dozens-of-abducted-school-children-in-oyo-state?traffic_source=rss",
+      "publishedAt": "Sun, 12 Jul 2026 01:56:01 +0000"
     },
     {
-      "title": "What’s behind Pakistan’s mass deportation of Afghans?",
-      "summary": "Islamabad cites national security concerns, returns thousands of undocumented migrants.",
+      "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+      "summary": "Regional mediators are stepping up efforts to prevent further escalation between Iran and the US.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/11/whats-behind-pakistans-mass-deportation-of-afghans?traffic_source=rss",
-      "publishedAt": "Sat, 11 Jul 2026 20:11:55 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
+      "publishedAt": "Sun, 12 Jul 2026 00:22:21 +0000"
     },
     {
-      "title": "Thousands gather in Srebrenica to mark 31 years since genocide",
-      "summary": "Ten newly identified victims were buried as the more than 8,000 Bosnian Muslim men and boys killed were remembered.",
+      "title": "Bellingham scores twice as England beat Norway 2-1 to reach World Cup semis",
+      "summary": "Jude Bellingham scores in extra-time to send England into the World Cup semifinals for first time since 2018.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss",
-      "publishedAt": "Sat, 11 Jul 2026 19:25:59 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/12/bellingham-scores-twice-as-england-beat-norway-2-1-to-reach-world-cup-semis?traffic_source=rss",
+      "publishedAt": "Sun, 12 Jul 2026 00:11:57 +0000"
     },
     {
-      "title": "‘All we see is decay’: Covering the human toll of Venezuela’s earthquakes",
-      "summary": "As the death toll in Venezuela surges past 4,000, families continue to hold out hope that loved ones might be found.",
+      "title": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+      "summary": "Explosions heard in the port cities of Bandar Abbas, Sirik, Chabahar, Bandar-e Deyr and Asaluyeh as US attacks continue.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/11/all-we-see-is-decay-covering-the-human-toll-of-venezuelas-earthquakes?traffic_source=rss",
-      "publishedAt": "Sat, 11 Jul 2026 19:15:10 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
+      "publishedAt": "Sun, 12 Jul 2026 00:00:00 +0000"
     },
     {
-      "title": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
-      "summary": "US Rep Ro Khanna speaks out about being harassed by Israeli settlers",
+      "title": "Indian tourists killed after speedboat capsizes in Vietnam",
+      "summary": "Fifteen Indian tourists have died after their speedboat capsized off Vietnam’s Phu Quoc Island.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/us-rep-ro-khanna-speaks-out-about-being-harassed-by-israeli-settlers?traffic_source=rss",
-      "publishedAt": "Sat, 11 Jul 2026 18:59:01 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/indian-tourists-killed-after-speedboat-capsizes-in-vietnam?traffic_source=rss",
+      "publishedAt": "Sat, 11 Jul 2026 23:35:23 +0000"
     },
     {
-      "title": "Trump administration subpoenas New York Times reporters over coverage",
-      "summary": "Press freedom advocates and members of Congress have condemned the subpoenas as an attempt to 'threaten and intimidate'.",
+      "title": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
+      "summary": "Democratic Senator Sheldon Whitehouse details rusting columns, uneven paint and unnecessary demolition under Trump.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
-      "publishedAt": "Sat, 11 Jul 2026 18:46:11 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/11/whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump?traffic_source=rss",
+      "publishedAt": "Sat, 11 Jul 2026 23:31:23 +0000"
+    },
+    {
+      "title": "200 young campers rescued as flooding hits parts of Missouri and Kentucky",
+      "summary": "A historic rainfall event has left communities across several Missouri counties underwater and prompted water rescues, including an evacuation of a summer camp.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5890213/missouri-kentucky-summer-camp-flooding",
+      "publishedAt": "Sat, 11 Jul 2026 21:38:29 -0400"
+    },
+    {
+      "title": "U.S. launches strikes after Iran fires on civilian vessel in Strait of Hormuz",
+      "summary": "Iran says it again considers the Strait of Hormuz closed after its military struck a ship using an \"unauthorized route.\" In response, the U.S. military announced a third round of strikes this week.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz",
+      "publishedAt": "Sat, 11 Jul 2026 21:32:36 -0400"
+    },
+    {
+      "title": "In a nailbiter, England moves on to the World Cup semifinals, defeating Norway 2-1",
+      "summary": "England's Jude Bellingham has done it again. Scoring both of his team's goals in a thrilling quarterfinal against Norway that needed extra time. It was the first World Cup meeting between the two.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5890169/2026-world-cup-fifa-england-norway-quarterfinal",
+      "publishedAt": "Sat, 11 Jul 2026 19:46:50 -0400"
     },
     {
       "title": "Palestinian aid worker who organized World Cup screenings killed in Israeli strike",
@@ -258,30 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
       "publishedAt": "Sat, 11 Jul 2026 12:35:24 -0400"
-    },
-    {
-      "title": "The biggest steam locomotive is whistle-stopping across the U.S.",
-      "summary": "Huge crowds of train fans turn out as the 1940s era Big Boy steam locomotive is making a rare trip cross country.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5872656/big-boy-locomotive-steam",
-      "publishedAt": "Sat, 11 Jul 2026 11:14:42 -0400"
-    },
-    {
-      "title": "Opinion: Is democracy a joke? Count Binface says no.",
-      "summary": "Populist British MP Nigel Farage resigned from Parliament over questions about his finances, and is running for re-election in his constituency. His biggest rival? Count Binface.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5881251/opinion-is-democracy-a-joke-count-binface-says-no",
-      "publishedAt": "Sat, 11 Jul 2026 08:00:00 -0400"
-    },
-    {
-      "title": "Most people who need glasses don't have them. Can the post office change that?",
-      "summary": "In some towns in India, a visitor to the post office who's squinting at fine print might be asked: Do you want an eye test?",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5887653/reading-glasses-post-office-india",
-      "publishedAt": "Sat, 11 Jul 2026 07:49:47 -0400"
     },
     {
       "title": "Nigeria says army has killed 300 bandits in north-western state of Zamfara",
@@ -319,35 +319,37 @@
   "sports": [
     {
       "league": "World Cup",
-      "home": "Norway",
-      "away": "England",
-      "status": "upcoming",
-      "date": "2026-07-11"
+      "home": "Argentina",
+      "away": "Switzerland",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FT",
+      "date": "2026-07-12"
     },
     {
       "league": "World Cup",
-      "home": "Spain",
-      "away": "Belgium",
-      "homeScore": 2,
-      "awayScore": 1,
+      "home": "Norway",
+      "away": "England",
+      "homeScore": 1,
+      "awayScore": 2,
       "status": "FT",
-      "date": "2026-07-10"
+      "date": "2026-07-11"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 22,
+      "tempC": 20,
       "description": "clear sky",
-      "high": 30,
-      "low": 19
+      "high": 29,
+      "low": 20
     },
     {
       "place": "London",
-      "tempC": 22,
-      "description": "clear sky",
+      "tempC": 18,
+      "description": "overcast",
       "high": 30,
-      "low": 19
+      "low": 18
     }
   ],
   "facts": [
