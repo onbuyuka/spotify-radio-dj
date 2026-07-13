@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T19:19:55.380Z",
+  "updated": "2026-07-13T21:53:52.259Z",
   "news": [
     {
       "title": "Trump, ABD'nin Hürmüz Boğazı'na ablukayı geri getirdiğini açıkladı",
@@ -50,6 +50,34 @@
       "publishedAt": "Mon, 13 Jul 2026 16:58:23 GMT"
     },
     {
+      "title": "Dışişleri Bakanı Fidan, Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne katıldı",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Fransa'nın başkenti Paris'te düzenlenen Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne Cumhurbaşkanı Recep Tayyip Erdoğan'ı temsilen katıldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-14T00:40:27+03:00"
+    },
+    {
+      "title": "Cumhurbaşkanlığına Cevdet Yılmaz vekalet edecek",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın Katar Devleti'ne ziyareti dolayısıyla Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz vekalet edecek.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-14T00:30:37+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Temmuz 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-14T00:30:01+03:00"
+    },
+    {
+      "title": "Yabancı plakalı araç kullanımında yeni dönem",
+      "summary": "İçişleri Bakanlığı ile Ticaret Bakanlığı, gurbetçilerin Türkiye’de yabancı plakalı araç kullanımıyla ilgili yaşadığı mağduriyetlerin önüne geçmek amacıyla uygulamada değişikliğe gitti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-13T23:04:20+03:00"
+    },
+    {
       "title": "Kılıçdaroğlu: Özel'in partiden ayrılmasına gerek yok",
       "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, ''Özgür Özel'in partiden ayrılmasına gerek yok. Gitmesin, gerekirse parti içinde mücadele etsin ama paralel yapı olmaz.'' dedi.",
       "source": "NTV",
@@ -62,34 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-13T16:38:56+03:00"
-    },
-    {
-      "title": "Tanju Özcan'a açılan ayrımcılık davasında karar",
-      "summary": "Görevden uzaklaştırılan Bolu Belediye Başkanı Tanju Özcan'a sığınmacılara yönelik sözleri nedeniyle açılan ayrımcılık davasında karar çıktı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-13T16:33:57+03:00"
-    },
-    {
-      "title": "Dalgalara kapılan 15 yaşındaki genç kızın imdadına cankurtaran ekipleri yetişti",
-      "summary": "Sakarya'nın Karasu ilçesinde denizde akıntıya kapılarak açığa sürüklenen ve boğulma tehlikesi geçiren 15 yaşındaki kız çocuğu, cankurtaran ekiplerinin müdahalesiyle kurtarıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-13T16:26:55+03:00"
-    },
-    {
-      "title": "Meclis'te terörsüz Türkiye zirvesi: Ala, DEM Parti heyetiyle bir araya gelecek",
-      "summary": "AK Parti Genel Başkanvekili Efkan Ala, Meclis'te DEM Parti heyetiyle bir araya gelecek.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-13T15:57:17+03:00"
-    },
-    {
-      "title": "Dev gemi yeni sahibini arıyor: Bedeli 7,4 milyon TL",
-      "summary": "Kocaeli'nin Kandıra ilçesi açıklarında, 18 Eylül 2025’te karaya oturan Tanzanya bayraklı 81 metre uzunluğundaki 'RAPID' isimli kuru yük gemisi için satış ihalesi kararı alındı. Yaklaşık 9 ay 25 gündür atıl durumda bekleyen gemi, 7 milyon 41",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-13T15:59:01+03:00"
     },
     {
       "title": "LGS puanına OBP ekleniyor mu?",
@@ -140,12 +140,12 @@
       "publishedAt": "Mon, 13 Jul 2026 07:45:31 GMT"
     },
     {
-      "title": "Trump reinstating naval blockade of Iranian ports",
-      "summary": "The US president also says Washington will charge a 20% toll on all cargo shipped through the Strait of Hormuz.",
+      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "summary": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 19:17:31 GMT"
+      "publishedAt": "Mon, 13 Jul 2026 21:46:06 GMT"
     },
     {
       "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
@@ -154,6 +154,14 @@
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 13 Jul 2026 17:31:54 GMT"
+    },
+    {
+      "title": "Hungary parliament votes to remove president from office",
+      "summary": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 20:39:14 GMT"
     },
     {
       "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
@@ -172,71 +180,79 @@
       "publishedAt": "Mon, 13 Jul 2026 11:52:55 GMT"
     },
     {
-      "title": "Senator Lindsey Graham died of aortic tear, examiner says",
-      "summary": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 10:14:01 GMT"
-    },
-    {
       "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
-      "summary": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
+      "summary": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 10:29:17 GMT"
+      "publishedAt": "Mon, 13 Jul 2026 20:15:00 GMT"
     },
     {
-      "title": "UK designates IRGC as terrorist organisation",
-      "summary": "The UK government has designated Iran’s Revolutionary Guard Corps (IRGC) as a terrorist organisation under new powers.",
+      "title": "US, Iran exchange attacks around Strait of Hormuz",
+      "summary": "This is a breaking news story.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/uk-designates-irgc-as-terrorist-organisation?traffic_source=rss",
-      "publishedAt": "Mon, 13 Jul 2026 18:57:57 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
+      "publishedAt": "Mon, 13 Jul 2026 21:19:28 +0000"
     },
     {
-      "title": "Locked exits, burning decor: inside Bangkok’s deadly pub fire",
-      "summary": "Survivors recount the horror after a deadly blaze engulfed a popular pub on a busy street in Bangkok.",
+      "title": "Lindsey Graham’s legacy: Israel advocate, Trump ally, Iran war supporter",
+      "summary": "Late US senator backed invasion of Iraq, war on Iran and approach of 'more for Israel' as he became a Trump confidant.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/locked-exits-burning-decor-inside-bangkoks-deadly-pub-fire?traffic_source=rss",
-      "publishedAt": "Mon, 13 Jul 2026 18:43:26 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
+      "publishedAt": "Mon, 13 Jul 2026 21:04:56 +0000"
     },
     {
-      "title": "FIFA World Cup: Five biggest controversies of the 2026 tournament",
-      "summary": "Football's 2026 World Cup has been full of controversies - Al Jazeera breaks down the five most significant.",
+      "title": "How is the US tech industry regulated?",
+      "summary": "Apple files a lawsuit against OpenAI, accusing it of stealing trade secrets.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/13/fifa-world-cup-five-biggest-controversies-of-the-2026-tournament?traffic_source=rss",
-      "publishedAt": "Mon, 13 Jul 2026 18:33:41 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/13/how-is-the-us-tech-industry-regulated?traffic_source=rss",
+      "publishedAt": "Mon, 13 Jul 2026 21:03:57 +0000"
     },
     {
-      "title": "Trump administration vows to ‘disable’ International Criminal Court",
-      "summary": "US State Department ups pressure campaign on international tribunal, threatening allies who support investigations.",
+      "title": "Andy Burnham in line to become British PM after securing party support",
+      "summary": "Burnham's bid cannot be challenged by fellow MPs, as he now has the support of almost the entire parliamentary party.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/13/trump-administration-vows-to-disable-international-criminal-court?traffic_source=rss",
-      "publishedAt": "Mon, 13 Jul 2026 18:32:24 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/13/andy-burnham-in-line-to-become-british-pm-after-securing-party-support?traffic_source=rss",
+      "publishedAt": "Mon, 13 Jul 2026 20:57:21 +0000"
     },
     {
-      "title": "UK to list Iran’s IRGC as ‘terror’ threat",
-      "summary": "London debuts new powers targeting state proxies after accusing Iranian outfit of engineering anti-Semitic attacks.",
+      "title": "Argentina vs England World Cup tickets more expensive than France vs Spain",
+      "summary": "Prices for the Argentina vs England semifinal have seen a 34 percent increase over the past three days.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/13/uk-to-list-irans-irgc-as-terror-threat?traffic_source=rss",
-      "publishedAt": "Mon, 13 Jul 2026 18:08:26 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/13/argentina-vs-england-world-cup-tickets-more-expensive-than-france-vs-spain?traffic_source=rss",
+      "publishedAt": "Mon, 13 Jul 2026 20:51:33 +0000"
     },
     {
-      "title": "How Lyhanna’s murder case is shedding light on child abuse in France",
-      "summary": "The rape and murder of 11-year-old Lyhanna exposed years of alleged police and judicial failures in France.",
+      "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
+      "summary": "US CENTCOM has published a video it says shows three Corsair unmanned surface vessels striking an Iranian ship facility",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/7/13/how-lyhannas-murder-case-is-shedding-light-on-child-abuse-in-france?traffic_source=rss",
-      "publishedAt": "Mon, 13 Jul 2026 17:44:13 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
+      "publishedAt": "Mon, 13 Jul 2026 20:48:18 +0000"
     },
     {
-      "title": "Trump says the U.S. is back to blockading Iran and will charge ships a toll in Hormuz",
+      "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
+      "summary": "NPR has learned that the Department of Health and Human Services will not be finalizing its most aggressive attempt to end gender-affirming care for youth nationally.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/13/nx-s1-5888586/transgender-gender-affirming-care-medicare-medicaid-hhs",
+      "publishedAt": "Mon, 13 Jul 2026 16:22:49 -0400"
+    },
+    {
+      "title": "South Carolina's governor names Lindsey Graham's sister to serve out his term",
+      "summary": "South Carolina's governor says he is appointing Darline Graham to finish the term of her late brother. Top Republicans, including President Trump, have coalesced around the pick.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/13/nx-s1-5891839/lindsey-graham-senate-seat-darline-graham",
+      "publishedAt": "Mon, 13 Jul 2026 16:17:53 -0400"
+    },
+    {
+      "title": "Trump says the U.S. will blockade Iran again and charge ships a toll in Hormuz",
       "summary": "The U.S. and Iran are fighting for control of the Strait of Hormuz, threatening a return to all-out war after agreeing to a ceasefire last month.",
       "source": "NPR",
       "lang": "en",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/13/nx-s1-5887668/pythons-metabolism-digestion-human-disease-treatment",
       "publishedAt": "Mon, 13 Jul 2026 06:00:00 -0400"
-    },
-    {
-      "title": "A guard punched him on camera. It was still nearly impossible for him to sue",
-      "summary": "Prisoners are allowed to file complaints about mistreatment — but doing so often comes with retaliation. That's according to an investigation by NPR and The Marshall Project.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/13/nx-s1-5825915/prison-grievance-retaliation-complaints",
-      "publishedAt": "Mon, 13 Jul 2026 05:10:00 -0400"
-    },
-    {
-      "title": "EV battery recycling has a math problem",
-      "summary": "For some electric vehicle batteries, it costs more to recycle them than they're worth. That creates all kinds of problems, which a new Colorado law aims to solve.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/13/nx-s1-5847025/ev-battery-recycling-economics",
-      "publishedAt": "Mon, 13 Jul 2026 05:00:00 -0400"
     },
     {
       "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
@@ -330,14 +330,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 23,
+      "tempC": 22,
       "description": "partly cloudy",
-      "high": 28,
-      "low": 21
+      "high": 26,
+      "low": 20
     },
     {
       "place": "London",
-      "tempC": 24,
+      "tempC": 20,
       "description": "overcast",
       "high": 28,
       "low": 16
