@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-14T02:09:22.514Z",
+  "updated": "2026-07-14T05:26:58.821Z",
   "news": [
     {
-      "title": "Trump, ABD'nin Hürmüz Boğazı'na ablukayı geri getirdiğini açıkladı",
+      "title": "Özel'in 'yeni parti' planı: Dilekçe hazır, zamanlama 22 Temmuz'da netleşecek",
+      "summary": "Mutlak butlan kararıyla fiilen bölünen CHP'de, Özgür Özel yönetimi resmi ayrılık hazırlıklarını hızlandırdı. Özel yönetimi, bir yandan olağanüstü kurultayın 45 gün içinde yapılması amacıyla yargı yoluna giderken, diğer yandan yeni partiye g",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c1dyd5v0p5eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 03:30:57 GMT"
+    },
+    {
+      "title": "Trump Hürmüz Boğazı'na ablukayı geri getirdiğini açıkladı, karşılıklı saldırılar sürüyor",
       "summary": "ABD Başkanı Donald Trump, ABD'nin İran'ın Hürmüz Boğazı'ndaki limanlarına yeniden abluka uygulamaya başlayacağını açıkladı. Abluka 14 Temmuz salı günü TSİ 23.00'te uygulanmaya başlanacak. Trump ayrıca boğazdan geçen kargo gemilerinden %20 o",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/ce8jlnm787jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 21:56:15 GMT"
+      "publishedAt": "Tue, 14 Jul 2026 04:06:46 GMT"
     },
     {
       "title": "İmralı Heyeti AKP ve Kurtulmuş ile görüşecek: DEM Parti çerçeve yasa taslağının sunulmasını bekliyor",
@@ -16,14 +24,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c0kykjpvexzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 14 Jul 2026 01:35:52 GMT"
-    },
-    {
-      "title": "Haluk Levent'ten açıklama: 'Kişisel borç-alacak ilişkilerimde Ahbap tamamen konu dışıdır'",
-      "summary": "Sanatçı Haluk Levent, İstanbul Cumhuriyet Başsavcılığı tarafından başlatılan soruşturma kapsamında gözaltına alındı. Ahbap derneğinin başkanı olan sanatçı, \"Dernekler Kanunu'na muhalefet\", \"suçtan kaynaklanan mal varlığı değerlerini aklama\"",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c24ye7d207no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 17:41:05 GMT"
     },
     {
       "title": "Macaristan parlamentosu Cumhurbaşkanı'nı görevden alacak yasa değişikliğini kabul etti",
@@ -42,12 +42,26 @@
       "publishedAt": "Mon, 13 Jul 2026 23:43:58 GMT"
     },
     {
-      "title": "Haluk Levent'in müzik, cezaevi ve Ahbap Derneği süreci",
-      "summary": "Müzisyen Haluk Levent, 2019'dan bu yana altı senedir üst üste yapılan bir araştırmada Türkiye'nin en güvenilir ünlüsü olarak öne çıktı. Levent, 12 Temmuz'da farklı suçlamalarla gözaltına alındı. İddiaları reddeden Haluk Levent bu noktaya na",
+      "title": "Komedyen Tuba UIu'nun Sultan Süleyman şakasından yargılandığı dava görülüyor",
+      "summary": "Stand-up gösterisinde Sultan Süleyman hakkında yaptığı şaka nedeniyle yargılanan komedyen Tuba Ulu hakkındaki davaya bugün devam edilecek.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cp8l3ev3vj6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 16:58:23 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c9q22p9pq3vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 05:00:47 GMT"
+    },
+    {
+      "title": "Meteorolojiden kuvvetli sağanak uyarısı. Sel tehlikesi var",
+      "summary": "İstanbul'da dün gece etkili olan sağanak geçişleri bugün megakenti terk ediyor. Karadeniz sahilinde bazı şehirlerde bugün sel tehlikesi var.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-14T08:23:52+03:00"
+    },
+    {
+      "title": "12 ilde organize suç örgütlerine yönelik operasyon. 74 kişi gözaltına alındı",
+      "summary": "İstanbul merkezli 12 ilde dört ayrı organize silahlı suç örgütüne yönelik operasyon düzenlendi. 74 şüpheli gözaltına alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-14T07:29:10+03:00"
     },
     {
       "title": "Dışişleri Bakanı Fidan, Ukrayna konulu Gönüllüler Koalisyonu Liderler Zirvesi'ne katıldı",
@@ -68,7 +82,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-14T05:00:00+03:00"
+      "publishedAt": "2026-07-14T08:00:00+03:00"
     },
     {
       "title": "Yabancı plakalı araç kullanımında yeni dönem",
@@ -78,18 +92,12 @@
       "publishedAt": "2026-07-13T23:04:20+03:00"
     },
     {
-      "title": "Kılıçdaroğlu: Özel'in partiden ayrılmasına gerek yok",
-      "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, ''Özgür Özel'in partiden ayrılmasına gerek yok. Gitmesin, gerekirse parti içinde mücadele etsin ama paralel yapı olmaz.'' dedi.",
-      "source": "NTV",
+      "title": "15 Temmuz mesajları ve sözleri",
+      "summary": "15 Temmuz Demokrasi ve Milli Birlik Günü'nün yıl dönümüne kısa süre kala, şehitleri rahmetle anmak ve milli birlik ruhunu yaşatmak isteyen milyonlarca vatandaş anlamlı mesajlara yöneldi. Sosyal medya hesaplarında paylaşılabilecek kısa, duyg",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-13T22:03:57+03:00"
-    },
-    {
-      "title": "Hüseyin Başaran kimdir, ne iş yapıyor? 8 yıl önce kazada kızını kaybeden iş insanı Hüseyin Başaran'ın hayatı",
-      "summary": "Türkiye’nin saygın iş insanlarından biri olan Hüseyin Başaran, iş dünyasındaki başarılarının yanı sıra yıllar önce tüm ülkeyi yasa boğan derin bir ailevi trajediyle de hafızalara kazındı. Sosyal medyada ve basında yeniden gündeme gelen ünlü",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-13T16:38:56+03:00"
+      "link": "https://www.haberturk.com/15-temmuz-mesajlari-2026-yeni-en-guzel-anlamli-turk-bayrakli-resimli-15-temmuz-demokrasi-ve-milli-birlik-gunu-mesajlari-ve-sozleri-3898122",
+      "publishedAt": "Mon, 13 Jul 2026 10:00:16 GMT"
     },
     {
       "title": "İşsizlik maaşı ne kadar oldu?",
@@ -132,36 +140,44 @@
       "publishedAt": "Mon, 13 Jul 2026 04:53:33 GMT"
     },
     {
-      "title": "LGS tercih tarihleri 2026",
-      "summary": "Liselere Geçiş Sistemi (LGS) kapsamındaki merkezi sınav sonuçlarının ardından gözler tercih takvimine çevrildi. Adaylar, yüzdelik dilimlerini ve taban puanları dikkate alarak lise tercihlerini oluşturacak. Tercih işlemleri, MEB'in belirledi",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/lgs-tercih-takvimi-2026-lgs-tercihleri-basladi-mi-lgs-tercihleri-ne-zaman-baslayacak-lise-tercihleri-nasil-yapilir-3897985",
-      "publishedAt": "Sun, 12 Jul 2026 21:24:14 GMT"
-    },
-    {
       "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-      "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
+      "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 02:05:35 GMT"
+      "publishedAt": "Tue, 14 Jul 2026 04:50:48 GMT"
     },
     {
-      "title": "''There was no way to get out': Witnesses describe how deadly inferno swept through Bangkok bar",
-      "summary": "A musician who was performing when the fire broke out says he crawled for the exit - and was thrown from the bar when something exploded.",
+      "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+      "summary": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 13:01:33 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 03:47:41 GMT"
     },
     {
-      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-      "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
+      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+      "summary": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 17:31:54 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 02:26:45 GMT"
+    },
+    {
+      "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+      "summary": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 14 Jul 2026 05:00:03 GMT"
+    },
+    {
+      "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+      "summary": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 13 Jul 2026 18:52:46 GMT"
     },
     {
       "title": "Colombian national killed by ICE agent during operation in Maine",
@@ -172,68 +188,60 @@
       "publishedAt": "Tue, 14 Jul 2026 01:50:48 GMT"
     },
     {
-      "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
-      "summary": "Hamish Tait is accused of abusing 136 children at five childcare facilities over a 16-year period.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 14 Jul 2026 01:43:57 GMT"
-    },
-    {
-      "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
-      "summary": "The man and his grandson appeared a safe distance away from the bison before it quickly chased them down.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 13 Jul 2026 17:21:21 GMT"
-    },
-    {
-      "title": "Trump demands payment to protect Gulf nations from Iranian attacks",
-      "summary": "US President Donald Trump says the US should be paid by ‘rich’ oil-producing Gulf nations to secure the Strait of Hormuz",
+      "title": "Birthday present for Spain’s Yamal? World Cup semifinal win over France",
+      "summary": "Yamal wants to celebrate his 19th birthday by taking Spain to the World Cup final in New York.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/trump-demands-payment-to-protect-gulf-nations-from-iranian-attacks?traffic_source=rss",
-      "publishedAt": "Tue, 14 Jul 2026 01:37:48 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/14/birthday-present-for-spains-yamal-world-cup-semifinal-win-over-france?traffic_source=rss",
+      "publishedAt": "Tue, 14 Jul 2026 04:24:20 +0000"
     },
     {
-      "title": "Record El Niño threatens to unleash floods across East Africa and Asia",
-      "summary": "Aid groups warn a record-strength El Niño could unleash flooding and hunger from Somalia to Pakistan.",
+      "title": "Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths",
+      "summary": "Mexico to formally ask prosecutors to file cases in US courts over its citizens' deaths in immigration operations.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/14/record-el-nino-threatens-to-unleash-floods-across-east-africa-and-asia?traffic_source=rss",
-      "publishedAt": "Tue, 14 Jul 2026 01:27:57 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/14/mexicos-sheinbaum-announces-criminal-charges-request-in-us-over-ice-deaths?traffic_source=rss",
+      "publishedAt": "Tue, 14 Jul 2026 04:15:28 +0000"
     },
     {
-      "title": "Indonesia’s jailing of Gojek founder raises fears for investor confidence",
-      "summary": "Authorities say Nadiem Makarim abused his authority to favour Google in the procurement of laptops for school kids.",
+      "title": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
+      "summary": "Yemen's Houthis say they struck Saudi Arabia's Abha airport in retaliation for a strike on Sanaa’s international airport",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/14/indonesias-jailing-of-gojek-founder-raises-fears-for-investor-confidence?traffic_source=rss",
-      "publishedAt": "Tue, 14 Jul 2026 00:53:51 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss",
+      "publishedAt": "Tue, 14 Jul 2026 04:10:13 +0000"
     },
     {
-      "title": "How Kenyan volunteers hunt polio’s hidden trail",
-      "summary": "Community health volunteers travel across remote northern Kenya to detect poliovirus before it can spread.",
+      "title": "Brazil court bars Bolsonaro’s son from visiting ex-president for 90 days",
+      "summary": "Top court bars former President Jair Bolsonaro's son from visiting his father under house arrest over social media post.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/14/how-kenyan-volunteers-hunt-polios-hidden-trail?traffic_source=rss",
-      "publishedAt": "Tue, 14 Jul 2026 00:35:07 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/14/brazil-court-bars-bolsonaros-son-from-visiting-ex-president-for-90-days?traffic_source=rss",
+      "publishedAt": "Tue, 14 Jul 2026 04:09:33 +0000"
     },
     {
-      "title": "Iran war live: US launches more attacks; UAE says 1 killed in tanker strike",
-      "summary": "US has carried out more attacks on Iran, with Iranian media reporting explosions in Kish, Qeshm and Bandar Abbas.",
+      "title": "‘Kylian is fine’: France ready, full-strength for Spain World Cup semifinal",
+      "summary": "French coach Deschamps says his team will be fully prepared for a midfield battle against the European champions.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss",
-      "publishedAt": "Tue, 14 Jul 2026 00:00:00 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/14/kylian-is-fine-france-ready-full-strength-for-spain-world-cup-semifinal?traffic_source=rss",
+      "publishedAt": "Tue, 14 Jul 2026 03:52:50 +0000"
     },
     {
-      "title": "Hundreds of experts warn the world must prepare now for AI’s impact",
-      "summary": "More than 200 economists and AI researchers call on leaders to immediately prepare for sweeping economic disruption.",
+      "title": "Oil prices hit 1-month high as US-Iran attacks dim Strait of Hormuz outlook",
+      "summary": "Brent crude nears $85 a barrel amid renewed hostiles between Washington and Tehran.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/13/hundreds-of-experts-warn-the-world-must-prepare-now-for-ais-impact?traffic_source=rss",
-      "publishedAt": "Mon, 13 Jul 2026 23:54:32 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook?traffic_source=rss",
+      "publishedAt": "Tue, 14 Jul 2026 03:38:22 +0000"
+    },
+    {
+      "title": "The star-studded World Cup semifinals kick off with France vs. Spain",
+      "summary": "The expanded World Cup allowed FIFA to introduce a new seeding system that placed the world's top teams in opposite corners of the knockout bracket. Now, the semifinals are both heavyweight matchups.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/14/nx-s1-5891860/2026-world-cup-fifa-spain-france-argentina-england-semifinals",
+      "publishedAt": "Tue, 14 Jul 2026 01:00:00 -0400"
     },
     {
       "title": "Trump's HHS abandons threat to withhold Medicare and Medicaid funding over trans care",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/13/nx-s1-5879286/paramount-warner-bros-discovery-lawsuit",
       "publishedAt": "Mon, 13 Jul 2026 12:30:12 -0400"
-    },
-    {
-      "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
-      "summary": "The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
-      "publishedAt": "Mon, 13 Jul 2026 08:02:33 -0400"
     },
     {
       "title": "Killings continue on Del Monte farm in Kenya, families say, after G4S hired for security",
@@ -328,7 +328,7 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 20,
+      "tempC": 21,
       "description": "partly cloudy",
       "high": 26,
       "low": 20
