@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-16T16:15:25.083Z",
+  "updated": "2026-07-16T19:04:58.463Z",
   "news": [
+    {
+      "title": "İmralı heyetinin çerçeve yasa turu: AKP ve Bahçeli ziyaretlerinde neler konuşuldu?",
+      "summary": "İktidarın \"Terörsüz Türkiye\" olarak adlandırdığı yeni çözüm sürecinin yasal zeminini oluşturacak çerçeve yasa için DEM Parti İmralı heyeti, AKP ve MHP Genel Başkanı Devlet Bahçeli ile art arda görüşmeler gerçekleştirdi. Peki AKP'ye hangi ta",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c78gln0xe75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 17:39:39 GMT"
+    },
     {
       "title": "Türkiye ve Mısır savunma alanında hangi anlaşmalara imza attılar?",
       "summary": "Türkiye ve Mısır, 13 Temmuz'da savunma işbirliği alanında, 14 Temmuz'da da savunma sanayi işbirliği için iki belgeye imza attılar. Bu anlaşmalar bölgesel dengeler açısından yeni bir denklemin güçlenmesi olarak görülüyor.",
@@ -26,14 +34,6 @@
       "publishedAt": "Thu, 16 Jul 2026 14:36:27 GMT"
     },
     {
-      "title": "DEM Parti çerçeve yasa taslağı için Bahçeli ile görüştü",
-      "summary": "DEM Parti, Meclis tatile girmeden çerçeve yasasının çıkarılması amacıyla peş peşe görüşmeler yapıyor. İmralı Heyeti üyeleri Pervin Buldan ve Mithat Sancar, Meclis'te MHP Genel Başkanı Devlet Bahçeli ile görüştü.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c78gln0xe75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 10:31:19 GMT"
-    },
-    {
       "title": "Messi, Maradona ve Pele'den büyük mü?",
       "summary": "39 yaşında üçüncü Dünya Kupası finaline hazırlanan Lionel Messi, rekorları, uzun soluklu kariyeri ve Arjantin’le kazandığı başarılarla Maradona ve Pelé’nin de yer aldığı “tüm zamanların en büyüğü” tartışmasının merkezinde",
       "source": "BBC Türkçe",
@@ -42,12 +42,33 @@
       "publishedAt": "Thu, 16 Jul 2026 11:14:24 GMT"
     },
     {
-      "title": "Ukrayna'da savunma bakanının görevden alınması sonrası protestolar",
-      "summary": "Ukrayna'da Devlet Başkanı Volodimir Zelenskiy'nin popüler Savunma Bakanı Mykhailo Fedorov'u sürpriz şekilde görevden almasına karşı protestolar düzenleniyor.",
+      "title": "Ahbap soruşturması: Deprem yardımlarının kullanımına ilişkin bilirkişi heyeti görevlendirildi",
+      "summary": "Ahbap Derneği soruşturmasında gözaltında bulunan ve savcılıktaki ifade işlemleri tamamlandıktan sonra tutuklama talebiyle Sulh Ceza Hakimliği'ne sevk edilen Haluk Levent ve 13 kişi daha, perşembe günü erken saatlerde tutuklandı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c4gxd9yx859o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 11:32:05 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c24ye7d207no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 18:45:13 GMT"
+    },
+    {
+      "title": "Adalet Bakanı Akın Gürlek açıkladı: Ahbap’ın deprem bağışları incelemeye alındı",
+      "summary": "Adalet Bakanı Akın Gürlek, İstanbul Cumhuriyet Başsavcılığı tarafından Ahbap Derneği hakkında yürütülen soruşturma kapsamında bilirkişi incelemesi yapılmasına karar verildiğini bildirdi. Gürlek, başsavcılığın konuya ilişkin açıklamasını da ",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-16T21:56:54+03:00"
+    },
+    {
+      "title": "Depozito İade Sistemi’nde yeni dönem",
+      "summary": "Türkiye genelinde 1 Temmuz’da devreye alınan Depozito İade Sistemi’nde (DOA), iade makinelerinin uzun süre meşgul edilmesi ve günlük limitlerin farklı kişilere ait bilgilerle aşılması üzerine yeni önlemler alınacak.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-16T21:09:49+03:00"
+    },
+    {
+      "title": "Muhsin Yazıcıoğlu'nun ölümüne ilişkin soruşturma. FETÖ’nün rolüne ilişkin yeni delillere ulaşıldı",
+      "summary": "Ankara Cumhuriyet Başsavcılığınca Büyük Birlik Partisi (BBP) Genel Başkanı Muhsin Yazıcıoğlu ve beraberindeki 5 kişinin hayatını kaybettiği helikopter kazasına ilişkin soruşturmada, Fetullahçı Terör Örgütü'nün (FETÖ) rolünü ortaya koyan ve ",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-16T19:23:12+03:00"
     },
     {
       "title": "CHP'de 8 il başkanı daha görevden alındı",
@@ -71,89 +92,60 @@
       "publishedAt": "2026-07-16T16:20:00+03:00"
     },
     {
-      "title": "Annesiz kalan kuzuya şefkat eli: Biberonla büyütüyor",
-      "summary": "Hakkari'nin Şemdinli ilçesinde, İsa Camiye, 2 günlükken annesi ölen kuzuyu sahiplendi. 'Arif' ismini verdiği kuzuyu biberonla besleyen Camiye, kuzuyu artık aileden biri gibi gördüklerini ve çok sevdiklerini söyledi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-16T16:00:12+03:00"
-    },
-    {
-      "title": "Kediye tekme atan şahıs tutuklandı: \"Sinirliydim, pişmanım\"",
-      "summary": "Samsun'un İlkadım ilçesinde esnafın baktığı bir kediye yoldan geçerken tekme atan ve o anlar güvenlik kamerasına yansıyan şahıs, çıkarıldığı mahkemece tutuklandı. Tutuklanan şahıs adliye çıkışı gazetecilere, \"Sinirliydim, pişmanım\" dedi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-16T15:51:46+03:00"
-    },
-    {
-      "title": "Tarım ve Orman Bakanlığı'ndan uyarı. \"Müebbet hapis cezası var\"",
-      "summary": "Tarım ve Orman Bakanlığı, orman yangınlarına neden olan ihmallere 10 yıla kadar, kasten yangın çıkaranlara ise müebbet hapis cezası uygulanacağını hatırlattı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-16T15:49:29+03:00"
-    },
-    {
-      "title": "İki Destan Bir Vatan filmi konusu",
-      "summary": "İki Destan Bir Vatan filmi, 16 Temmuz Perşembe günü televizyon ekranlarında izleyici ile buluşuyor. Film, Türk milletinin bağımsızlık mücadelesini iki farklı dönemi bir araya getiren güçlü hikâyesiyle dikkat çekiyor. Tarihi dönem ve dram tü",
+      "title": "Kademeli emeklilik tablosu",
+      "summary": "Kademeli emeklilik düzenlemesine ilişkin gelişmeler milyonlarca sigortalı çalışan tarafından yakından takip ediliyor. Emeklilikte Yaşa Takılanlar (EYT) düzenlemesinin ardından gözler bu kez kademeli emeklilik ve erken emeklilik beklentileri",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/iki-destan-bir-vatan-filmi-konusu-nedir-oyunculari-kimler-iki-destan-bir-vatan-ne-zaman-nerede-cekildi-gercek-bir-hikaye-mi-3898992",
-      "publishedAt": "Thu, 16 Jul 2026 15:38:20 GMT"
+      "link": "https://www.haberturk.com/kademeli-emeklilik-son-dakika-2026-kademeli-emeklilik-cikacak-mi-erken-emeklilik-duzenlemesi-meclis-e-gelecek-mi-3899015",
+      "publishedAt": "Thu, 16 Jul 2026 18:20:06 GMT"
     },
     {
-      "title": "Galatasaray-Ümraniyespor hazırlık maçı ne zaman?",
-      "summary": "Galatasaray, yeni sezon hazırlıkları kapsamında sahaya çıkacağı ilk özel karşılaşmada Ümraniyespor ile kozlarını paylaşmaya hazırlanıyor. Sarı-kırmızılı ekip, 2026-2027 sezonu öncesinde hem takımın fiziksel durumunu görmek hem de yeni trans",
+      "title": "The Odyssey konusu ve oyuncuları",
+      "summary": "Usta yönetmen Christopher Nolan'ın merakla beklenen yeni filmi The Odyssey için ilk fragman izleyiciyle buluştu. Homeros'un ölümsüz destanı Odysseia'dan uyarlanan yapım, Truva Savaşı'nın ardından evine dönmeye çalışan Odysseus'un destansı y",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/galatasaray-hazirlik-maci-galatasaray-umraniyespor-hazirlik-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-3898979",
-      "publishedAt": "Thu, 16 Jul 2026 14:42:09 GMT"
+      "link": "https://www.haberturk.com/the-odyssey-konusu-nedir-oyunculari-kimler-the-odyssey-ne-zaman-vizyona-girecek-gercek-bir-hikaye-mi-3899010",
+      "publishedAt": "Thu, 16 Jul 2026 18:53:26 GMT"
     },
     {
-      "title": "ALES/2 sınavı ne zaman?",
-      "summary": "Akademik kariyer planı yapan binlerce adayın gözü ALES takvimine çevrildi. Sınav tarihindeki değişiklik iddiaları ve giriş yerlerine dair gelişmeler, adayların gündeminde ilk sırada yer almaya devam ediyor. Peki, ALES sınavı ertelendi mi? A",
+      "title": "Araç sahiplerini üzecek gelişme, akaryakıta zam geliyor",
+      "summary": "Brent petrolde yaşanan yükseliş akaryakıt fiyatlarında zam beklentisini beraberinde getirdi. Sektör kaynaklarından edinilen bilgilere göre benzin ve motorinde 17 Temmuz 2026 Cuma gününden geçerli olmak üzere zam bekleniyor. Zam haberi sonra",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ales-sinav-tarihi-2026-ales-sinavi-ertelendi-mi-ales-sinavi-ne-zaman-ales-sinav-giris-yerleri-aciklandi-mi-3898966",
-      "publishedAt": "Thu, 16 Jul 2026 14:48:12 GMT"
+      "link": "https://www.haberturk.com/akaryakita-cifte-zam-benzin-ve-motorine-zam-mi-geliyor-16-temmuz-2026-guncel-akaryakit-fiyatlari-3899009",
+      "publishedAt": "Thu, 16 Jul 2026 18:44:42 GMT"
     },
     {
-      "title": "Temmuz Fed faiz kararı ne zaman açıklanacak?",
-      "summary": "Fed faiz kararı için piyasalarda bekleyiş hız kazandı. Temmuz 2026 toplantısı öncesinde yatırımcılar, \"Fed faiz kararı ne zaman açıklanacak?\", \"Temmuz FED toplantısı hangi tarihte yapılacak?\" ve \"Faizler sabit mi kalacak, yeni bir artış gel",
+      "title": "En düşük emekli maaşında gözler Resmi Gazete'de",
+      "summary": "En düşük emekli maaşına ilişkin düzenleme, Temmuz 2026 maaş zammının netleşmesinin ardından milyonlarca emeklinin gündemindeki yerini koruyor. AK Parti tarafından TBMM'ye sunulan kanun teklifiyle en düşük emekli aylığının 23 bin 552 TL'ye y",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/temmuz-fed-faiz-karari-ne-zaman-aciklanacak-fed-faiz-karari-toplanti-takvimi-3898956",
-      "publishedAt": "Thu, 16 Jul 2026 13:01:13 GMT"
+      "link": "https://www.haberturk.com/emekli-maasi-son-dakika-2026-en-dusuk-emekli-maasi-ne-kadar-olacak-resmi-gazete-de-ne-zaman-yayimlanacak-3899006",
+      "publishedAt": "Thu, 16 Jul 2026 18:45:41 GMT"
     },
     {
-      "title": "MTV 2.dönem ödeme tarihleri",
-      "summary": "Araç sahiplerinin gündeminde yine yılın en çok konuşulan başlıklarından biri var. Ödemeler yaklaşırken birçok kişi tarihleri ve detayları araştırmaya başladı. Son gün yaklaşırken gecikme yaşamamak adına süreci yakından takip etmekte fayda v",
+      "title": "Zamlı emekli maaşı ödeme günleri",
+      "summary": "Temmuz 2026 emekli maaşı zammının netleşmesiyle birlikte milyonlarca emeklinin gözü ödeme takvimine çevrildi. TÜİK'in açıkladığı haziran ayı enflasyon verileriyle birlikte SSK ve Bağ-Kur emeklilerinin 6 aylık zam oranı yüzde 17,76 olarak ke",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/mtv-odemeleri-son-gun-ne-zaman-temmuz-2026-mtv-odeme-nasil-nereden-yapilir-3898954",
-      "publishedAt": "Thu, 16 Jul 2026 14:48:06 GMT"
+      "link": "https://www.haberturk.com/zamli-emekli-maasi-odeme-takvimi-2026-temmuz-zamli-emekli-maasi-ne-zaman-yatacak-emekli-maasi-ne-kadar-oldu-3899001",
+      "publishedAt": "Thu, 16 Jul 2026 18:43:21 GMT"
     },
     {
-      "title": "ÖTV'siz araç marka ve modelleri",
-      "summary": "Emekliye ÖTV'siz araç düzenlemesine ilişkin son dakika gelişmeleri, 2026 yılında da gündemin öne çıkan başlıkları arasında yer alıyor. TBMM'ye sunulan kanun teklifinin ardından milyonlarca emekli, düzenlemenin yasalaşıp yasalaşmadığını ve k",
+      "title": "Süper Loto sonuçları",
+      "summary": "Süper Loto'da haftanın merakla beklenen çekilişi 16 Temmuz 2026 Perşembe akşamı gerçekleştirildi. Milli Piyango Online üzerinden canlı yayınlanan çekilişin ardından kazandıran numaralar belli oldu. Büyük ikramiyeyi kazanıp kazanmadığını öğr",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/emekliye-otv-siz-arac-marka-ve-modelleri-emekliye-otv-siz-arac-cikacak-mi-meclis-ten-gecti-mi-kimleri-kapsiyor-3898947",
-      "publishedAt": "Thu, 16 Jul 2026 12:34:33 GMT"
+      "link": "https://www.haberturk.com/son-dakika-super-loto-sonuclari-aciklandi-16-temmuz-2026-mpi-super-loto-cekilis-sonucu-sorgulama-ekrani-3898996",
+      "publishedAt": "Thu, 16 Jul 2026 18:35:57 GMT"
     },
     {
-      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
-      "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 16:10:40 GMT"
-    },
-    {
-      "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
-      "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+      "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+      "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 14:22:11 GMT"
+      "publishedAt": "Thu, 16 Jul 2026 16:36:21 GMT"
     },
     {
       "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
@@ -172,68 +164,92 @@
       "publishedAt": "Thu, 16 Jul 2026 11:48:49 GMT"
     },
     {
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 17:22:31 GMT"
+    },
+    {
+      "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
+      "summary": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 18:52:35 GMT"
+    },
+    {
       "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
       "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 15:30:43 GMT"
+      "publishedAt": "Thu, 16 Jul 2026 17:36:43 GMT"
     },
     {
-      "title": "Argentina face action over Falklands banner",
-      "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 12:01:37 GMT"
-    },
-    {
-      "title": "Hamas leadership run-off expected between Meshaal and al-Hayya",
-      "summary": "Israeli assassinations of several key leaders force Hamas to find new head, a process expected to be completed next week",
+      "title": "What could a US ground invasion of Iran look like?",
+      "summary": "Donald Trump has refused to rule out sending US troops into Iran as fighting resumes and US strikes continue.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/16/hamas-leadership-run-off-expected-between-meshaal-and-al-hayya?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 15:44:26 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 18:45:30 +0000"
     },
     {
-      "title": "Air defences intercept drones over Erbil, Iraq",
-      "summary": "Verified eyewitness video captures multiple aerial interceptions over Erbil, Iraq",
+      "title": "Iran condemns ‘barbaric’ US attack near children’s cancer hospital",
+      "summary": "Iran accuses US of 'cowardly war crime' as doctor says blast was 'so close' they thought the hospital was struck.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/air-defences-intercept-drones-over-erbil-iraq?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 15:38:48 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 18:37:55 +0000"
     },
     {
-      "title": "UK urges FIFA to investigate Argentina over World Cup Falklands banner",
-      "summary": "The United Kingdom and Argentina fought a brief war over the British overseas territory in 1982.",
+      "title": "WHO: Ebola spreading faster than ever recorded in DR Congo",
+      "summary": "The World Health Organization warns the Ebola outbreak in DR Congo is spreading faster than any previous outbreak.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/16/uk-urges-fifa-to-investigate-argentina-over-world-cup-falklands-banner?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 15:10:52 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/who-ebola-spreading-faster-than-ever-recorded-in-dr-congo?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 18:21:28 +0000"
     },
     {
-      "title": "What happens if Mitch McConnell is unable to finish his US Senate term?",
-      "summary": "The longtime party leader's absence from the Senate is likely to have repercussions for the Republican agenda.",
+      "title": "In Syria’s Jobar, locals struggle to rebuild their destroyed homes",
+      "summary": "Jobar was held by rebels for much of Syria's 13-year war but was destroyed by repeated government assaults.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/16/what-happens-if-mitch-mcconnell-is-unable-to-finish-his-us-senate-term?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 14:50:27 +0000"
+      "link": "https://www.aljazeera.com/features/2026/7/16/in-syrias-jobar-locals-struggle-to-rebuild-their-destroyed-homes?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 17:54:46 +0000"
     },
     {
-      "title": "Data breach reportedly targets India’s Kudankulam nuclear power plant",
-      "summary": "Purported blueprints of parts of India's largest plant exposed by World Leaks ransomware group, Reuters reports.",
+      "title": "US approves nearly $2bn in weapons sale to Saudi Arabia",
+      "summary": "The sale intends to bolster Saudi air defence systems as the kingdom risks escalation with the Iran-backed Houthis.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/16/data-breach-reportedly-targets-indias-kudankulam-nuclear-power-plant?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 14:46:12 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/16/us-approves-nearly-2bn-in-weapons-sale-to-saudi-arabia?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 17:22:09 +0000"
     },
     {
-      "title": "Has Bali’s Melukat ritual turned into a commodified religious ceremony?",
-      "summary": "With the world in chaos, many travellers are seeking healing experiences during the summer holidays.",
+      "title": "Rare protests in Kyiv over dismissal of defence minister",
+      "summary": "Rare protests erupted in central Kyiv over Ukrainian President Zelenskyy’s dismissal of defence minister.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/has-balis-melukat-ritual-turned-into-a-commodified-religious-ceremony?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 14:44:36 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 17:15:03 +0000"
+    },
+    {
+      "title": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
+      "summary": "Orthodox Jewish organizations say the bill, if passed, would force morning prayer services to start after 9 a.m. in some parts of the country, making observant Jews late for work and school.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/16/g-s1-133961/why-orthodox-jews-are-opposing-the-new-daylight-saving-bill-in-congress",
+      "publishedAt": "Thu, 16 Jul 2026 13:24:31 -0400"
+    },
+    {
+      "title": "Officials probe whether White House teleprompter operator profited off Trump's words",
+      "summary": "It's the first known instance of officials investigating suspected insider trading on a prediction market from inside the White House.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
+      "publishedAt": "Thu, 16 Jul 2026 13:10:29 -0400"
     },
     {
       "title": "Hong Kong official warns booksellers on security risks after raids",
@@ -244,7 +260,7 @@
       "publishedAt": "Thu, 16 Jul 2026 09:31:33 -0400"
     },
     {
-      "title": "Trump wants to fence off the park closest to the White House, a popular protest spot",
+      "title": "Trump wants a permanent fence around the D.C. park known for White House protests",
       "summary": "The Trump administration wants to install permanent fencing around Lafayette Park, directly outside the White House. It's long been a popular spot for protesters, who worry barriers will change that.",
       "source": "NPR",
       "lang": "en",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/16/g-s1-133918/up-first-newsletter-iran-us-trump-jay-clayton-ice-use-of-force",
       "publishedAt": "Thu, 16 Jul 2026 07:29:01 -0400"
-    },
-    {
-      "title": "Oil companies are making billions. In the U.S., calls to tax their windfall are growing",
-      "summary": "Higher oil prices since the Iran war began mean many oil companies have brought in excess profits. Some U.S. lawmakers want to tax those windfall profits and give the money to lower-income Americans.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war",
-      "publishedAt": "Thu, 16 Jul 2026 05:01:00 -0400"
-    },
-    {
-      "title": "Bike lanes and speed cameras disappear from the DOT's list of proven safety measures",
-      "summary": "The Federal Highway Administration quietly stripped bike lanes and other safety recommendations from a key list of best practices. Critics say those measures are proven to cut crashes and save lives.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/16/nx-s1-5893672/dot-bike-lanes-speed-cameras-safety-measures",
-      "publishedAt": "Thu, 16 Jul 2026 05:00:00 -0400"
     },
     {
       "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
@@ -330,15 +330,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 27,
-      "description": "clear sky",
+      "tempC": 24,
+      "description": "overcast",
       "high": 30,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 28,
-      "description": "mainly clear",
+      "tempC": 25,
+      "description": "clear sky",
       "high": 29,
       "low": 17
     }
