@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-16T08:07:42.016Z",
+  "updated": "2026-07-16T10:56:55.053Z",
   "news": [
+    {
+      "title": "DEM Parti çerçeve yasa taslağı için Bahçeli ile görüştü",
+      "summary": "DEM Parti, Meclis tatile girmeden çerçeve yasasının çıkarılması amacıyla peş peşe görüşmeler yapıyor. İmralı Heyeti üyeleri Pervin Buldan ve Mithat Sancar, Meclis'te MHP Genel Başkanı Devlet Bahçeli ile görüştü.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c78gln0xe75o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 10:31:19 GMT"
+    },
+    {
+      "title": "Bakan Fidan Ukrayna'da: 'Savaşın Karadeniz'e taşınmasını istemiyoruz'",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Kiev'de Ukrayna Dışişleri Bakanı Andriy Sibiha ile görüşmesinin ardından düzenlenen ortak basın toplantısında, Rusya ile Ukrayna arasındaki savaşın \"Karadeniz'e taşınmasını istemiyoruz\" dedi. Ukraynalı mevkidaş",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c78y8071dw5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 09:20:34 GMT"
+    },
+    {
+      "title": "Ünlülere uyuşturucu operasyonu: 25 gözaltı kararı",
+      "summary": "Ünlülere yönelik uyuşturucu soruşturması kapsamında, aralarında şarkıcı Sıla Gençoğlu, yapımcı Mehmet Fatih Aksoy, şarkıcı İlyas Altıntaş ve model İrem Haznedar'ın da bulunduğu 25 kişi hakkında gözaltı kararı verildi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c0l58k1pk60o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 09:50:19 GMT"
+    },
     {
       "title": "'Karton gibiydiler': Venezuela'daki depremde Türk müteahhitin yaptığı 100'den fazla sosyal konut çöktü",
       "summary": "Venezuela’da 24 Haziran’da meydana gelen depremlerde, Türk inşaat şirketi Summa’nın inşa ettiği 196 bloğun çoğu ya çöktü ya ağır hasar aldı. BBC Türkçe'nin sorularını yanıtlayan şirket, projenin inşası sırasında yürürlükte bulunan Venezuela",
@@ -8,30 +32,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c5yzy2k8r6zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 16 Jul 2026 02:13:10 GMT"
-    },
-    {
-      "title": "Nasuh Mahruki hakkında gözaltı kararı",
-      "summary": "Arama Kurtarma Derneği (AKUT) kurucularından Nasuh Mahruki hakkında, sosyal medya hesabından yaptığı 15 Temmuz darbe girişimine ilişkin paylaşım nedeniyle gözaltı kararı verildi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cjwx3ngn3z4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 07:10:48 GMT"
-    },
-    {
-      "title": "Ahbap soruşturması: Haluk Levent tutuklandı",
-      "summary": "Ahbap Derneği soruşturmasında gözaltında bulunan ve savcılıktaki ifade işlemleri tamamlandıktan sonra tutuklama talebiyle Sulh Ceza Hakimliği'ne sevk edilen Haluk Levent ve 13 kişi daha, perşembe günü erken saatlerde tutuklandı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c24ye7d207no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 00:47:23 GMT"
-    },
-    {
-      "title": "ABD ordusu testosteron eksikliği taramasına başlayacak",
-      "summary": "ABD Savunma Bakanı Pete Hegseth \"Yüksek-T [testosteron] Departmanı\" başlıklıbir video yayınlarak, 30 yaş ve üzeri askeri personelin yıllık sağlık kontrolleri kapsamında bundan böyle testosteron eksikliği testine de tabi tutulacağını duyurdu",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c2lq1z0ze5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 03:08:37 GMT"
     },
     {
       "title": "'İstediğim kariyere ulaşmak için 10 yılda 10 kez iş değiştirdim'",
@@ -47,97 +47,105 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cx2d8j0wrzqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 00:40:48 GMT"
+      "publishedAt": "Thu, 16 Jul 2026 08:45:50 GMT"
     },
     {
-      "title": "Belediyeye gece yarısı haciz operasyonu: Arabalar yediemine çekildi",
-      "summary": "Manavgat'ta 20 vatandaş, kamulaştırma bedellerini alamadıkları gerekçesiyle belediyede haciz işlemi gerçekleştirdi.",
+      "title": "Beykoz Belediyesi'ne ikinci dalga operasyon: Çok sayıda gözaltı kararı var",
+      "summary": "İstanbul'da CHP'li Beykoz Belediyesi'ne yönelik yürütülen soruşturmanın ikinci dalga operasyonunda 8 şüpheli hakkında gözaltı kararı verildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-16T10:37:13+03:00"
+      "publishedAt": "2026-07-16T13:53:07+03:00"
     },
     {
-      "title": "TEM'de operasyon: İstanbul'da yolcu otobüsünden cephanelik çıktı",
-      "summary": "İstanbul'da bir yolcu otobüsünün yakıt deposunda 120 tabanca ele geçirildi.",
+      "title": "AVM'deki kafede dehşet: Şikayetini geri çeken aile, kararını değiştirdi",
+      "summary": "Diyarbakır'da Merve Nur Yararlık'ın ölümüne ilişkin yargılamada daha önce sanık hakkındaki şikayetinden vazgeçen baba Osman Yararlık, yeniden şikayetçi olma kararı aldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-16T10:32:11+03:00"
+      "publishedAt": "2026-07-16T13:52:19+03:00"
     },
     {
-      "title": "Bakan Gürlek'ten Ahbap soruşturması açıklaması. \"Yardımlaşma duygusu istismar edilemez\"",
-      "summary": "Adalet Bakanı Akın Gürlek, Ahbap Derneği soruşturmasının aydınlatılacağını belirtip \"Yardımlaşma duygusu istismar edilemez. Sivil toplum kuruluşları bakımından şeffaflık bir tercih veya lütuf değil, hukuki ve ahlaki bir zorunluluktur.\" dedi",
+      "title": "TRT'den Asırlık Gece dizisi: \"Telefonda 'serseri bir mayın var' dedi\"",
+      "summary": "15 Temmuz 2016'daki darbe girişimine giden yol ve o gün yaşananlar Asırlık Gece isimli dizide anlatıldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-16T10:56:54+03:00"
+      "publishedAt": "2026-07-16T13:33:32+03:00"
     },
     {
-      "title": "Sezon açıldı: Van'da 90 günlük yasak sona erdi",
-      "summary": "Van Gölü'nün endemik türü inci kefalinde 15 Nisan'da başlayan av yasağı sona ererken, 90 gün süren yasağın ardından balıkçılar ağlarını yeniden Van Gölü'ne bıraktı.",
+      "title": "Gülistan Doku soruşturmasında yeni gelişme. Zırhlı araçlar incelenecek",
+      "summary": "Tunceli'de altı yıl önce kaybolan ve artık hayatta olmadığına kesin gözüyle bakılan Gülistan Doku'nun dosyasında yeni gelişme yaşandı. Erzurum Cumhuriyet Başsavcılığı, üniversite öğrencisinin kaybolduğu gün görev yapan tüm zırhlı araçların ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-16T10:18:40+03:00"
+      "publishedAt": "2026-07-16T13:20:19+03:00"
     },
     {
-      "title": "\"Hiç yorulmayan Türkler\" Ankara'ya döndü",
-      "summary": "Venezuela'daki deprem bölgesinde görev yapan AFAD ve TSK-DAK ekipleri, yerel halkın taktığı \"Hiç yorulmayan Türkler\" lakabıyla görevlerini tamamlayarak Ankara'ya döndü.",
+      "title": "Eminönü'nde tramvayda gergin anlar: Bağırıp sırt çantası fırlattı",
+      "summary": "Eminönü'nde Alibeyköy yönüne gitmek üzere peronda bekleyen tramvaydaki 2 kişi arasında çıkan yer tartışması kısa sürede kavgaya dönüştü.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-16T10:08:14+03:00"
+      "publishedAt": "2026-07-16T12:46:26+03:00"
     },
     {
-      "title": "Kör noktada kalan yayaya motosiklet çarptı",
-      "summary": "Bursa’da kör noktada kalan yayayı fark edemeyen motosiklet sürücüsü yayaya çarptı.",
+      "title": "Sağlık Bakanlığı'ndan yeni sigara bırakma hizmeti",
+      "summary": "Sağlık Bakanlığı, çocuk ve ergenlerde sigara bağımlılığıyla mücadele kapsamında 12-18 yaş grubuna yönelik yeni poliklinikleri hizmete aldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-16T09:46:27+03:00"
+      "publishedAt": "2026-07-16T12:29:15+03:00"
     },
     {
-      "title": "KPSS geç başvuru tarihi ne zaman?",
-      "summary": "KPSS geç başvuru sürecine dair merak edilen detaylar, adayların sınav planlamasını doğrudan etkileyen önemli başlıklar arasında yer alıyor. Başvuru dönemini kaçıranlar için açılan bu ikinci fırsat, hem takvim hem de ödeme koşulları açısında",
+      "title": "LGS taban puanları ve yüzdelik dilimler açıklandı mı?",
+      "summary": "Milyonlarca öğrencinin merakla beklediği LGS tercih döneminde gözler, okulların başarı ölçütleri ve yerleştirme sürecine ilişkin detaylara çevrildi. Adaylar, tercihlerini daha bilinçli yapabilmek için açıklanacak bilgileri araştırmaya devam",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/kpss-2026-gec-basvuru-tarihi-kpss-gec-basvuru-ucretleri-ne-kadar-kpss-gec-basvuru-tarihi-ne-zaman-2026-kpss-lisans-sinav-tarihi-3898847",
-      "publishedAt": "Thu, 16 Jul 2026 07:36:29 GMT"
+      "link": "https://www.haberturk.com/lgs-taban-puanlari-ve-yuzdelik-dilimler-2026-lgs-taban-puanlari-aciklandi-mi-2026-gs-fen-lisesi-anadolu-lisesi-anadolu-imam-hatip-lisesi-taban-puanlari-yuzdelik-dilimleri-ve-kontenjanlari-listesi",
+      "publishedAt": "Thu, 16 Jul 2026 10:43:00 GMT"
     },
     {
-      "title": "12. Yargı Paketi ne zaman çıkacak?",
-      "summary": "12. Yargı Paketi'ne ilişkin son gelişmeler milyonlarca vatandaş tarafından yakından takip ediliyor. İnfaz düzenlemesi, genel af beklentileri ve kamuoyunda \"IBAN mağdurları\" olarak bilinen kesime yönelik olası düzenlemeler gündemdeki yerini ",
+      "title": "Torba Yasa son durum",
+      "summary": "Yeni torba yasa teklifi kamuoyunun gündemindeki yerini koruyor. Ekonomi, vergi ve sosyal güvenlik alanında önemli düzenlemeler içermesi beklenen teklifin ayrıntıları yakından takip edilirken, \"Torba yasa Meclis'ten geçti mi?\", \"Kademeli eme",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/12-yargi-paketi-af-ve-iban-magdurlari-son-dakika-2026-12-yargi-paketi-ne-zaman-cikacak-meclis-e-geldi-mi-maddeleri-neler-3898845",
-      "publishedAt": "Thu, 16 Jul 2026 07:31:51 GMT"
+      "link": "https://www.haberturk.com/torba-yasa-cikacak-mi-ne-zaman-ve-meclis-ten-gecti-mi-torba-yasa-maddeleri-ve-icerigi-3898896",
+      "publishedAt": "Thu, 16 Jul 2026 09:31:54 GMT"
     },
     {
-      "title": "Anaokulu kayıtları ne zaman başlıyor?",
-      "summary": "Milyonlarca veli, 2026-2027 eğitim öğretim yılı öncesinde çocuklarının eğitim hayatına ilk adımı olarak görülen anaokulu kayıtlarıyla ilgili araştırmalarını sürdürüyor. Özellikle e-Devlet üzerinden adrese dayalı anaokulu kayıt işlemleri, en",
+      "title": "Dünya Kupası final maçı ne zaman?",
+      "summary": "2026 Dünya Kupası'nda artık final heyecanı yaşanacak. Uzun ve zorlu maç maratonunun ardından kupaya uzanacak son iki takım belli oldu. Turnuva boyunca savunmadaki başarısıyla dikkat çeken ve yalnızca 1 gol yiyerek finale yükselen İspanya il",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/anaokulu-kayit-tarihi-2026-e-devlet-anaokulu-adrese-gore-kayitlar-basladi-mi-anaokulu-kayitlari-ne-zaman-basliyor-3898823",
-      "publishedAt": "Thu, 16 Jul 2026 07:20:12 GMT"
+      "link": "https://www.haberturk.com/dunya-kupasi-final-maci-ne-zaman-ispanya-arjantin-maci-ne-zaman-saat-kacta-hangi-kanalda-dunya-kupasi-finali-nerede-oynanacak-3898887",
+      "publishedAt": "Thu, 16 Jul 2026 09:59:54 GMT"
     },
     {
-      "title": "Sınır kapısı tarihe karıştı",
-      "summary": "Avrupa Birliği ile İngiltere arasında imzalanan anlaşmayla, İspanya ile Cebelitarık arasındaki giriş ve çıkış kontrollerinin yapıldığı sınır kapısı tarihe karıştı. İspanya Başbakanı Pedro Sanchez, \"Tarih yazıyoruz. Bugün, kıta Avrupasındaki",
+      "title": "LGS tercih sonuçları ne zaman açıklanacak?",
+      "summary": "LGS tercih süreciyle ilgili geri sayım sürerken adaylar son gün yaklaşırken işlemlerini tamamlamaya odaklandı; lise hayalini şekillendirecek bu kritik dönemin ardından gözler yerleştirme sonuçlarının ilan edileceği tarihe çevrildi. Peki, LG",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ab-ve-ingiltere-anlasti-ispanya-ile-cebelitarik-arasindaki-sinir-kapisi-tarihe-karisti-3898812",
-      "publishedAt": "Thu, 16 Jul 2026 05:56:25 GMT"
+      "link": "https://www.haberturk.com/lgs-2026-tercih-sonuclari-ne-zaman-aciklanacak-lgs-tercihleri-ne-zaman-sona-erecek-lgs-tercih-sonuclari-ne-zaman-aciklanacak-3898876",
+      "publishedAt": "Thu, 16 Jul 2026 10:08:48 GMT"
     },
     {
-      "title": "Haluk Levent tutuklandı mı?",
-      "summary": "Haluk Levent hakkında araştırmalar kamuoyunun gündeminde yer almaya devam ediyor. İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında adliyeye sevk edilen 25 şüpheli hakkında hakimlik kararını verdi. Aralarında Ahbap Derneği",
+      "title": "Öğrenci affı kimleri kapsayacak?",
+      "summary": "Üniversite eğitimine çeşitli nedenlerle ara vermek zorunda kalan ya da yükseköğretim kurumlarıyla ilişiği kesilen binlerce kişinin gündeminde öğrenci affı yer alıyor. TBMM'de görüşülen yeni kanun teklifinde öğrenci affına ilişkin düzenlemen",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/haluk-levent-tutuklandi-mi-haluk-levent-neden-hangi-suclamayla-tutuklandi-iste-son-dakika-gelismesinin-detaylari-3898805",
-      "publishedAt": "Thu, 16 Jul 2026 06:00:43 GMT"
+      "link": "https://www.haberturk.com/ogrenci-affi-kimleri-kapsayacak-ogrenci-affi-duzenlemesi-son-durum-ne-ogrenci-affi-ne-zaman-cikacak-meclisten-gecti-mi-3898875",
+      "publishedAt": "Thu, 16 Jul 2026 08:38:58 GMT"
     },
     {
-      "title": "16 Temmuz deprem mi oldu?",
-      "summary": "AFAD ve Kandilli Rasathanesi tarafından anlık olarak yayımlanan son deprem verileri, 16 Temmuz 2026 Perşembe günü de yakından takip ediliyor. Gün içerisinde farklı bölgelerde meydana gelen sarsıntıların ardından \"Az önce deprem mi oldu?\", \"",
+      "title": "Gençlik ve Spor Bakanlığı personel alımı ne zaman?",
+      "summary": "GSB sözleşmeli personel alımı sürecine ilişkin detaylar, kamu kurumlarında görev almak isteyen adayların gündeminde yer almaya devam ediyor. Başvuru tarihleri ve şartlara dair yapılacak resmi açıklamalar yakından takip edilirken, sürecin na",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gunun-depremleri-son-dakika-16-temmuz-deprem-mi-oldu-nerede-kac-buyuklugunde-afad-kandilli-son-depremler-3898800",
-      "publishedAt": "Thu, 16 Jul 2026 04:50:01 GMT"
+      "link": "https://www.haberturk.com/genclik-ve-spor-bakanligi-600-personel-alimi-2026-gsb-sozlesmeli-personel-alimi-ne-zaman-gsb-personel-alimi-sartlari-nelerdir-3898864",
+      "publishedAt": "Thu, 16 Jul 2026 10:06:57 GMT"
+    },
+    {
+      "title": "Protests in Ukraine's cities against Zelensky's removal of defence minister",
+      "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 09:29:28 GMT"
     },
     {
       "title": "Iran targets military bases as US launches wave of strikes",
@@ -145,7 +153,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 07:44:08 GMT"
+      "publishedAt": "Thu, 16 Jul 2026 10:26:05 GMT"
     },
     {
       "title": "Argentina face action over Falklands banner",
@@ -164,14 +172,6 @@
       "publishedAt": "Wed, 15 Jul 2026 23:02:37 GMT"
     },
     {
-      "title": "US military to start screening for testosterone deficiency, Hegseth says",
-      "summary": "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\".",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 02:33:40 GMT"
-    },
-    {
       "title": "Actor Sam Neill died from pneumonia, agent confirms",
       "summary": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.",
       "source": "BBC World",
@@ -180,108 +180,108 @@
       "publishedAt": "Thu, 16 Jul 2026 04:28:22 GMT"
     },
     {
-      "title": "More people around the world now favour China over the US, Pew study suggests",
-      "summary": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
+      "title": "Moment US Navy jet stuns packed Florida beach with low flypast",
+      "summary": "A US Navy Blue Angels jet sent some beach items up in the air as it flew at a low altitude over a crowd in Pensacola Beach, Florida.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 15 Jul 2026 17:02:41 GMT"
+      "link": "https://www.bbc.co.uk/news/videos/cx27ljkngxmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 10:13:40 GMT"
     },
     {
-      "title": "Trump’s intelligence chief nominee won’t say Biden won 2020 election",
-      "summary": "US President Trump’s nominee for top intel official, Jay Clayton, evaded directly stating that Biden won 2020 election",
+      "title": "Fire at orphanage in Algeria kills 11 people, including children",
+      "summary": "Eleven people died and 19 were injured after a fire swept through a state-run child welfare home in east Algiers.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_trumps-intel-nominee-wont-say-biden-won-160726?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 05:01:36 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/16/fire-at-orphanage-in-algeria-kills-11-people-including-children?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 10:41:41 +0000"
     },
     {
-      "title": "UK proposes voluntary overnight social media curfew for older teens",
-      "summary": "Latest government measure aimed at curbing digital harm comes after under-16 social media ban announced last month.",
+      "title": "Climate funding: Who pays for the transition?",
+      "summary": "Developed nations are cutting climate funding, but developing countries still need billions to adapt.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/16/uk-proposes-voluntary-overnight-social-media-curfew-for-older-teens?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 04:57:34 +0000"
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/16/climate-funding-who-pays-for-the-transition?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 10:39:45 +0000"
     },
     {
-      "title": "Argentina’s Falklands banner sparks controversy at World Cup",
-      "summary": "Argentina players held up a banner declaring ‘Las Malvinas son Argentinas’ after beating England.",
+      "title": "‘Safe passage’: The fatal ambiguity at the heart of the Hormuz MoU",
+      "summary": "The vague language of the US-Iran MoU made the present escalation in the Strait of Hormuz all but inevitable.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/argentinas-falklands-banner-sparks-controversy-at-world-cup?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 04:54:10 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/7/16/safe-passage-the-fatal-ambiguity-at-the-heart-of-the-hormuz-mou?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 10:27:59 +0000"
     },
     {
-      "title": "Former US Ambassador says Iran miscalculated Trump’s resolve",
-      "summary": "Nightly strikes between the US and Iran have been the heaviest since the Memorandum of Understanding (MOU) agreement.",
+      "title": "What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak",
+      "summary": "Cyclospora cases are rising across the US. Here's what to know about symptoms, spread, treatment and prevention.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 04:18:22 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/16/what-is-cyclospora-diarrhoea-symptoms-foods-linked-to-us-outbreak?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 10:12:57 +0000"
     },
     {
-      "title": "Senior Chinese delegation visits North Korea for talks",
-      "summary": "China's fourth-highest-ranked official, Wang Huning, held talks with a top official of North Korea's governing party.",
+      "title": "More than 500 feared dead after reports of boats capsizing off Myanmar",
+      "summary": "The IOM and UNHCR say two boats carrying mostly Rohingya passengers departed Rakhine State in late June.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/16/senior-chinese-delegation-visits-north-korea-for-talks?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 03:45:33 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/16/more-than-500-feared-dead-after-reports-of-boats-capsizing-off-myanmar?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 09:51:13 +0000"
     },
     {
-      "title": "South Korea’s international adoptees seek justice, not homecoming",
-      "summary": "South Korea's government has acknowledged wrongs, but advocates say accountability is still lacking.",
+      "title": "Photos: Messi’s Argentina stun England to reach World Cup final vs Spain",
+      "summary": "Messi inspires Argentina’s dramatic late comeback win over England to reach final against Spain.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/7/16/south-koreas-international-adoptees-seek-justice-not-homecoming?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 03:41:50 +0000"
+      "link": "https://www.aljazeera.com/gallery/2026/7/16/photos-messis-argentina-stun-england-to-reach-world-cup-final-vs-spain?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 09:45:12 +0000"
     },
     {
-      "title": "The band playing when a Bangkok bar caught fire mourns its members among the 33 dead",
-      "summary": "Victims of this week's flash fire at a Bangkok music bar that took more than 30 lives included four of the six core members of the band playing when the blaze broke out.",
+      "title": "Oil companies are making billions. In the U.S., calls to tax their windfall are growing",
+      "summary": "Higher oil prices since the Iran war began mean many oil companies have brought in excess profits. Some U.S. lawmakers want to tax those windfall profits and give the money to lower-income Americans.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/16/g-s1-133907/death-toll-bangkok-fire",
-      "publishedAt": "Thu, 16 Jul 2026 02:03:21 -0400"
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5845818/oil-prices-windfall-tax-iran-war",
+      "publishedAt": "Thu, 16 Jul 2026 05:01:00 -0400"
     },
     {
-      "title": "Fear and hope in Utah in the shadow of America's largest wildfire",
-      "summary": "People in Monticello, Utah have been tense and preparing to evacuate since shortly after the Babylon fire started June 26th",
+      "title": "DHS pledged body cams for all immigration agents. Months later, that hasn't happened",
+      "summary": "In recent days, federal immigration agents fatally shot two immigrant fathers. None of the federal officers involved were wearing body cameras, the agency said.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5892509/fear-and-hope-in-utah-in-the-shadow-of-americas-largest-wildfire",
-      "publishedAt": "Wed, 15 Jul 2026 17:55:00 -0400"
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5894825/body-cams-ice-shootings",
+      "publishedAt": "Thu, 16 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Argentina is back in the World Cup final after a thrilling semifinal win over England",
-      "summary": "Argentina survived another heart-stopping match when it scored two late goals to topple England and extend the Three Lions' six-decade-long wait for another World Cup trophy.",
+      "title": "'Gossip' had godly origins. Here's how it gained its sinful reputation",
+      "summary": "We've all engaged in a little 'gossip.' But did you know its origins were tied to family and friendship?",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5893895/2026-world-cup-fifa-argentina-england-semifinal",
-      "publishedAt": "Wed, 15 Jul 2026 17:10:43 -0400"
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5884780/gossip-word-origins-etymology",
+      "publishedAt": "Thu, 16 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Takeaways from Todd Blanche's confirmation hearing for attorney general",
-      "summary": "Todd Blanche remained composed throughout the hours-long hearing, but faced several testy moments during questioning as he seeks to win the support of all Republican senators on the committee.",
+      "title": "Bike lanes and speed cameras disappear from the DOT's list of proven safety measures",
+      "summary": "The Federal Highway Administration quietly stripped bike lanes and other safety recommendations from a key list of best practices. Critics say those measures are proven to cut crashes and save lives.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5895105/todd-blanche-senate-confirmation-attorney-general-takeaways",
-      "publishedAt": "Wed, 15 Jul 2026 17:09:09 -0400"
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5893672/dot-bike-lanes-speed-cameras-safety-measures",
+      "publishedAt": "Thu, 16 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "China and Xi favored over U.S. and Trump in many nations: Survey",
-      "summary": "The change is driven by improved perceptions of China and declining views of the United States.",
+      "title": "TrumpRx promised a supermarket for cheaper drugs but delivered a boutique",
+      "summary": "President Trump said TrumpRx is the biggest thing to happen in healthcare in decades. But an NPR analysis finds drugmakers are only offering deals on a few of their medicines.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey",
-      "publishedAt": "Wed, 15 Jul 2026 16:34:30 -0400"
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5894947/trump-rx-medicine-drugs-health-care-pfizer-low-prices-gilead",
+      "publishedAt": "Thu, 16 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Trump relished in being compared to dictators like Hitler and Stalin, journalist says",
-      "summary": "The New York Times journalist Jonathan Swan says the president is fixated on becoming a \"great man of history\" during his second term. Swan's new book, written with Maggie Haberman, is Regime Change.",
+      "title": "Trump earned billions last year. Some Pennsylvania swing voters say they don't care",
+      "summary": "Key voters in Pennsylvania are split on whether President Trump earning a big windfall last year is a big deal or not. Their reaction reveals a level of cynicism about many in the political class.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5893633/trump-regime-change-jonathan-swan-maggie-haberman",
-      "publishedAt": "Wed, 15 Jul 2026 14:56:56 -0400"
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5893599/pennsylvania-focus-groups-trump-corruption",
+      "publishedAt": "Thu, 16 Jul 2026 05:00:00 -0400"
     },
     {
       "title": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
@@ -330,16 +330,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 28,
-      "description": "mainly clear",
+      "tempC": 30,
+      "description": "clear sky",
       "high": 30,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 21,
-      "description": "clear sky",
-      "high": 28,
+      "tempC": 26,
+      "description": "partly cloudy",
+      "high": 29,
       "low": 17
     }
   ],
