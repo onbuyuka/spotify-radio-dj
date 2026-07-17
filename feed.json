@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T22:01:11.989Z",
+  "updated": "2026-07-17T02:23:54.431Z",
   "news": [
     {
       "title": "İmralı heyetinin çerçeve yasa turu: AKP ve Bahçeli ziyaretlerinde neler konuşuldu?",
@@ -10,14 +10,6 @@
       "publishedAt": "Thu, 16 Jul 2026 17:39:39 GMT"
     },
     {
-      "title": "Türkiye ve Mısır savunma alanında hangi anlaşmalara imza attılar?",
-      "summary": "Türkiye ve Mısır, 13 Temmuz'da savunma işbirliği alanında, 14 Temmuz'da da savunma sanayi işbirliği için iki belgeye imza attılar. Bu anlaşmalar bölgesel dengeler açısından yeni bir denklemin güçlenmesi olarak görülüyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c8xnldnlzy7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 14:31:01 GMT"
-    },
-    {
       "title": "TBMM Genel Kurulu'nda kabul edilen 12. Yargı Paketi'nde neler var?",
       "summary": "Uzun süredir kamuoyunda tartışılan 12. Yargı Paketi, 16 Temmuz'da TBMM Genel Kurulu'nda kabul edilerek yasalaştı. Teklif, yargının daha \"etkin ve verimli\" işlemesini sağlamaya yönelik değişikliklerin yanı sıra Anayasa Mahkemesi'nin iptal et",
       "source": "BBC Türkçe",
@@ -26,12 +18,20 @@
       "publishedAt": "Thu, 16 Jul 2026 21:14:31 GMT"
     },
     {
-      "title": "Ünlülere uyuşturucu operasyonu: 25 gözaltı",
-      "summary": "Ünlülere yönelik uyuşturucu soruşturması kapsamında aralarında şarkıcı Sıla Gençoğlu, yapımcı Mehmet Fatih Aksoy, şarkıcı İlyas Altıntaş'ın da olduğu 25 kişi gözaltına alındı.",
+      "title": "Türkiye ve Mısır savunma alanında hangi anlaşmalara imza attılar?",
+      "summary": "Türkiye ve Mısır, 13 Temmuz'da savunma işbirliği alanında, 14 Temmuz'da da savunma sanayi işbirliği için iki belgeye imza attılar. Bu anlaşmalar bölgesel dengeler açısından yeni bir denklemin güçlenmesi olarak görülüyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c8xnldnlzy7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 16 Jul 2026 14:31:01 GMT"
+    },
+    {
+      "title": "Ünlülere uyuşturucu soruşturması: 4 kişi tutuklandı",
+      "summary": "Ünlülere yönelik uyuşturucu soruşturması kapsamında aralarında şarkıcı Sıla Gençoğlu, yapımcı Mehmet Fatih Aksoy, şarkıcı İlyas Altıntaş'ın da olduğu 25 kişi gözaltına alındı. Gece saatlerinde bu isimlerden dördü tutuklandı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c0l58k1pk60o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 14:36:27 GMT"
+      "publishedAt": "Thu, 16 Jul 2026 22:55:51 GMT"
     },
     {
       "title": "Messi, Maradona ve Pele'den büyük mü?",
@@ -48,6 +48,20 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c24ye7d207no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 16 Jul 2026 19:06:15 GMT"
+    },
+    {
+      "title": "Şişme bot keyfi kabusa döndü. Yüzlerce metre sürüklendiler",
+      "summary": "Foça'da baba ile çocuğunun deniz keyfi yaptığı lastik bot açığa sürüklendi. İkili kıyıya dönemeyince devreye Sahil Güvenlik ekipleri girdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-17T02:54:43+03:00"
+    },
+    {
+      "title": "Küçükçekmece’de yıkım paniği. Binanın bir bölümü yan apartmana devrildi",
+      "summary": "Küçükçekmece'de kontrollü yıkımı yapılan binanın bir bölümü bitişikteki apartmana yaslandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-17T01:04:29+03:00"
     },
     {
       "title": "YÖK, depremzede öğrencilere tanınan özel öğrencilik hakkını bir yıl daha uzattı",
@@ -68,7 +82,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-17T01:00:00+03:00"
+      "publishedAt": "2026-07-17T05:00:00+03:00"
     },
     {
       "title": "Elazığ'da 4 büyüklüğünde deprem",
@@ -78,18 +92,12 @@
       "publishedAt": "2026-07-16T23:34:29+03:00"
     },
     {
-      "title": "12. Yargı Paketi, TBMM Genel Kurulunda kabul edildi",
-      "summary": "TBMM Genel Kurulunda, kamuoyunda \"12. Yargı Paketi\" olarak bilinen Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi kabul edilerek yasalaştı. Teklif, IBAN mağdurlarına yönelik düzenlemey",
-      "source": "NTV",
+      "title": "Cuma namazı saat kaçta kılınacak?",
+      "summary": "17 Temmuz 2026 Cuma günü namaz ibadetini cemaatle yerine getirecek vatandaşlar, bulundukları ilde Cuma namazının saat kaçta kılınacağını araştırıyor. Diyanet İşleri Başkanlığı tarafından yayımlanan namaz vakitleri, her il için güneşin harek",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-16T23:17:24+03:00"
-    },
-    {
-      "title": "Son dakika Elazığ'da deprem mi oldu? Az önce deprem Elazığ'da nerede oldu? Elazığ deprem Kandilli ve AFAD son depremler listesi 16 Temmuz 2026",
-      "summary": "Son dakika Elazığ deprem haberleri.. Elazığ'da deprem mi oldu? Az önce deprem Elazığ'da nerede oldu? Elazığ Kandilli ve AFAD son depremler.. 16 Temmuz 2026 Elazığ deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Elazığ'",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-16T23:10:00+03:00"
+      "link": "https://www.haberturk.com/17-temmuz-2026-cuma-namazi-saatleri-istanbul-ankara-izmir-bursa-cuma-namazi-saat-kacta-diyanet-il-il-namaz-vakitleri-3899020",
+      "publishedAt": "Thu, 16 Jul 2026 22:28:23 GMT"
     },
     {
       "title": "Cuma hutbesi konusu belli oldu",
@@ -132,20 +140,12 @@
       "publishedAt": "Thu, 16 Jul 2026 21:27:09 GMT"
     },
     {
-      "title": "Süper Loto sonuçları",
-      "summary": "Süper Loto'da haftanın merakla beklenen çekilişi 16 Temmuz 2026 Perşembe akşamı gerçekleştirildi. Milli Piyango Online üzerinden canlı yayınlanan çekilişin ardından kazandıran numaralar belli oldu. Büyük ikramiyeyi kazanıp kazanmadığını öğr",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/son-dakika-super-loto-sonuclari-aciklandi-16-temmuz-2026-mpi-super-loto-cekilis-sonucu-sorgulama-ekrani-3898996",
-      "publishedAt": "Thu, 16 Jul 2026 21:39:36 GMT"
-    },
-    {
       "title": "Blasts reported in Iran as US launches new wave of strikes",
-      "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row.",
+      "summary": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 16 Jul 2026 21:44:37 GMT"
+      "publishedAt": "Thu, 16 Jul 2026 23:57:26 GMT"
     },
     {
       "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
@@ -188,52 +188,60 @@
       "publishedAt": "Thu, 16 Jul 2026 18:52:35 GMT"
     },
     {
-      "title": "Grand Mosque of Paris celebrates 100-year anniversary",
-      "summary": "The Grand Mosque of Paris is celebrating 100 years since its inauguration.",
+      "title": "How three Ivorian firms are competing with global brands",
+      "summary": "Homegrown firms are gaining ground in Ivory Coast's fuel, finance and cosmetics sectors.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 21:28:03 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/7/17/how-three-ivorian-firms-are-competing-with-global-brands?traffic_source=rss",
+      "publishedAt": "Fri, 17 Jul 2026 02:07:17 +0000"
     },
     {
-      "title": "FIFA to probe Argentina’s Falklands banner display at World Cup semifinal",
-      "summary": "FIFA says its disciplinary committee will assess match reports and consider relevant circumstances before taking any action.",
+      "title": "‘Trump Accounts’ are symbolic, not effective at closing wealth gap",
+      "summary": "The wealth gap is wider than it’s been in three decades.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/16/fifa-to-probe-argentinas-falklands-banner-display-at-world-cup-semifinal?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 21:23:05 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trump-accounts-are-symbolic-not-effective-at-closing-wealth-gap?traffic_source=rss",
+      "publishedAt": "Fri, 17 Jul 2026 01:49:16 +0000"
     },
     {
-      "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
-      "summary": "Iranian media reports airport, bridge and communications tower targeted.",
+      "title": "North Korean leader Kim Jong Un meets with top Chinese official",
+      "summary": "The meeting comes after Xi visited Kim, promising closer diplomatic, law enforcement and military cooperation.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 21:02:11 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/17/north-korean-leader-kim-jong-un-meets-with-top-chinese-official?traffic_source=rss",
+      "publishedAt": "Fri, 17 Jul 2026 01:49:03 +0000"
     },
     {
-      "title": "Donald Trump live: US president to deliver primetime address on elections",
-      "summary": "Critics fear Trump may use his podium to spread spread doubt about election integrity before the 2026 midterms.",
+      "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
+      "summary": "Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/donald-trump-live-us-president-to-deliver-primetime-address-on-elections?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 20:59:18 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
+      "publishedAt": "Fri, 17 Jul 2026 00:50:09 +0000"
     },
     {
-      "title": "The hardest party to manage in the Iran talks isn’t Iran",
-      "summary": "Washington's spoiler problem sits inside its own alliance, and the spoiler playbook was never written for friends.",
+      "title": "Brazilian football legend Pele’s World Cup shirt sells for $4.9m",
+      "summary": "The sale is a record for the Brazilian footballing great, but far from the most expensive piece of sporting memorabilia.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 20:40:53 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/17/brazilian-football-legend-peles-world-cup-shirt-sells-for-4-9-million?traffic_source=rss",
+      "publishedAt": "Fri, 17 Jul 2026 00:44:37 +0000"
     },
     {
-      "title": "Palestinians injured in Israeli settler attacks across West Bank",
-      "summary": "More than 30 people reportedly arrested across the occupied territory, as Israel intensifies its siege.",
+      "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
+      "summary": "Officials report power outages, attack on train station in Bandar, as Iran says Hormuz won't return to pre-war status.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/16/palestinians-injured-in-israeli-settler-attacks-across-west-bank?traffic_source=rss",
-      "publishedAt": "Thu, 16 Jul 2026 20:37:23 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
+      "publishedAt": "Thu, 16 Jul 2026 23:58:15 +0000"
+    },
+    {
+      "title": "An analysis of President Trump's address",
+      "summary": "President Trump gave a primetime address Thursday night in which he spoke about the integrity of U.S. elections — a topic he has spread disinformation about for much of his political career.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5896487/an-analysis-of-president-trumps-address",
+      "publishedAt": "Thu, 16 Jul 2026 21:38:04 -0400"
     },
     {
       "title": "White House says ICE traffic stops will continue after deadly shootings",
@@ -244,7 +252,7 @@
       "publishedAt": "Thu, 16 Jul 2026 17:31:23 -0400"
     },
     {
-      "title": "Flood sirens blare in southcentral Texas as rivers reach perilous heights",
+      "title": "Flood sirens blare in South Central Texas as rivers reach perilous heights",
       "summary": "Flood sirens blared early Thursday in Comfort, Texas, as the Guadalupe River rose more than 30 feet in three hours, the U.S. Geological Survey said. The storm could bring even more rainfall than last year's deadly Fourth of July floods.",
       "source": "NPR",
       "lang": "en",
@@ -252,12 +260,20 @@
       "publishedAt": "Thu, 16 Jul 2026 17:30:03 -0400"
     },
     {
-      "title": "After years of false claims on voting, Trump to give an address on election integrity",
-      "summary": "President Trump, who for years has sowed doubt about the security of American elections, is scheduled to give a primetime address Thursday night about election integrity. Trump has long contended, without evidence, that he won the 2020 elec",
+      "title": "After years of false claims on elections, Trump alleges 'shocking vulnerabilities'",
+      "summary": "President Trump, who for years has sowed doubt about the security of American elections, just spoke about election integrity. Trump has long contended, without evidence, that he won the 2020 election.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
       "publishedAt": "Thu, 16 Jul 2026 16:50:26 -0400"
+    },
+    {
+      "title": "Dangerous wildfire smoke continues to blanket parts of the U.S.",
+      "summary": "Orange skies and heavy smoke covered large parts of the U.S. on Thursday as Canada and Minnesota grapple with wildfires. Hazardous air quality is expected to continue.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/16/nx-s1-5894857/wildfire-smoke-fires-ontario-minnesota",
+      "publishedAt": "Thu, 16 Jul 2026 16:32:27 -0400"
     },
     {
       "title": "Why Orthodox Jews are opposing the new daylight saving bill in Congress",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/16/g-s1-133961/why-orthodox-jews-are-opposing-the-new-daylight-saving-bill-in-congress",
       "publishedAt": "Thu, 16 Jul 2026 13:24:31 -0400"
-    },
-    {
-      "title": "Officials probe whether White House teleprompter operator profited off Trump's words",
-      "summary": "It's the first known instance of officials investigating suspected insider trading on a prediction market from inside the White House.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/16/nx-s1-5896223/kalshi-trump-white-house-teleprompter-operator-bet",
-      "publishedAt": "Thu, 16 Jul 2026 13:10:29 -0400"
-    },
-    {
-      "title": "Hong Kong official warns booksellers on security risks after raids",
-      "summary": "The police operation marks the third round of arrests targeting independent bookstores in four months.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/16/g-s1-133931/hong-kong-official-warns-booksellers-on-security-risks-after-raids",
-      "publishedAt": "Thu, 16 Jul 2026 09:31:33 -0400"
     },
     {
       "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
@@ -316,30 +316,20 @@
       "publishedAt": "Thu, 16 Jul 2026 00:01:08 GMT"
     }
   ],
-  "sports": [
-    {
-      "league": "World Cup",
-      "home": "England",
-      "away": "Argentina",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-07-15"
-    }
-  ],
+  "sports": [],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 24,
-      "description": "overcast",
+      "tempC": 23,
+      "description": "partly cloudy",
       "high": 31,
       "low": 23
     },
     {
       "place": "London",
-      "tempC": 22,
+      "tempC": 19,
       "description": "clear sky",
-      "high": 29,
+      "high": 30,
       "low": 17
     }
   ],
