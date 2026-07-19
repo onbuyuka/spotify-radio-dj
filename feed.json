@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T21:47:27.944Z",
+  "updated": "2026-07-19T02:25:37.374Z",
   "news": [
     {
       "title": "Rus basını neden Türkiye'yi 'Karadeniz'i kontrol etmeye çalışmakla' suçluyor?",
@@ -50,6 +50,20 @@
       "publishedAt": "Sat, 18 Jul 2026 09:06:44 GMT"
     },
     {
+      "title": "Kamyonun freni patladı, polis alarma geçti",
+      "summary": "İnegöl'de freni patlayan kamyon polis ekiplerinin yolu boşaltıp güvenlik önlemi almasıyla 15 kilometre sonra durduruldu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-19T03:42:25+03:00"
+    },
+    {
+      "title": "Çalışmada ana boru patladı, 4 mahalle susuz kaldı",
+      "summary": "Avcılar'da İSKİ ekibinin çalışmasında kepçe ana su borusuna hasar verdi. 4 mahalleye en az 6 saat su verilemeyeceği açıklandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-19T03:32:44+03:00"
+    },
+    {
       "title": "Bakan Kurum: 81 ilde 7 milyon kişi sosyal konutlarına kavuştu",
       "summary": "Sosyal Konut Projesi kapsamında tamamlanan evlerin hak sahiplerine teslimi sürüyor. Bakan Kurum, 81 ilde yaklaşık 7 milyon kişiye evlerinin teslim edildiğini duyurdu...",
       "source": "NTV",
@@ -61,7 +75,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-19T00:30:00+03:00"
+      "publishedAt": "2026-07-19T05:00:00+03:00"
     },
     {
       "title": "Felç olan Diyar'ın ailesinden adalet çağrısı. \"Evladım gözümün önünde eriyor\"",
@@ -76,20 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-18T16:37:54+03:00"
-    },
-    {
-      "title": "3 ilde orman yangını. Alevler kontrol altına alındı",
-      "summary": "Kütahya, Aydın ve İstanbul'un Çatalca ilçesinde orman yangını çıktı. Üç yangında ekipler tarafından uzun uğraşlar sonucu söndürüldü.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-18T18:43:51+03:00"
-    },
-    {
-      "title": "Sosyal medyada gündem olmuştu. Sapanca Gölü'ndeki pamuksu yapının sırrı çözüldü",
-      "summary": "Sapanca Gölü'nün tabanındaki pamuksu oluşumun sıcaklık artışına bağlı olarak yeşil alg türü olduğu belirlendi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-18T15:22:28+03:00"
     },
     {
       "title": "YKS sonuçlarının açıklanacağı tarih belli oldu",
@@ -132,12 +132,12 @@
       "publishedAt": "Sat, 18 Jul 2026 21:34:27 GMT"
     },
     {
-      "title": "Emekli maaş farkı ödeme tarihi",
+      "title": "Emekli maaş farkı ödemeleri ne zaman yatacak?",
       "summary": "Milyonlarca emekli, Temmuz 2026 maaş zammının ardından zam farkı ödemelerine ilişkin gelişmeleri yakından takip ediyor. TÜİK'in açıkladığı 6 aylık enflasyon verileri doğrultusunda SSK ve Bağ-Kur emeklilerinin maaşlarına yüzde 17,76, memur e",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/emekli-maas-farki-odeme-tarihi-sgk-2026-emekli-maas-farklari-ne-zaman-yatacak-ssk-emekli-sandigi-ve-bagkur-emekli-zam-farki-ne-kadar-3899278",
-      "publishedAt": "Sat, 18 Jul 2026 21:30:45 GMT"
+      "publishedAt": "Sat, 18 Jul 2026 22:55:23 GMT"
     },
     {
       "title": "Two US troops killed and one missing after Iranian attack in Jordan",
@@ -145,7 +145,23 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 21:12:28 GMT"
+      "publishedAt": "Sun, 19 Jul 2026 00:18:47 GMT"
+    },
+    {
+      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 02:17:07 GMT"
+    },
+    {
+      "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 18 Jul 2026 23:59:26 GMT"
     },
     {
       "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
@@ -164,76 +180,68 @@
       "publishedAt": "Sat, 18 Jul 2026 19:34:16 GMT"
     },
     {
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 17 Jul 2026 19:04:09 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 01:47:59 GMT"
     },
     {
-      "title": "German politician resigns over surrogacy child controversy",
-      "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 15:23:31 GMT"
-    },
-    {
-      "title": "Laos says it can't determine cause of tourist deaths linked to methanol",
-      "summary": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 18 Jul 2026 11:10:20 GMT"
-    },
-    {
-      "title": "Cockroach Party protest intensifies after Wangchuk forcibly hospitalised",
-      "summary": "Protest by India's Cockroach Janta Party has intensified after activist Sonam Wangchuk was forcibly hospitalised.",
+      "title": "FIFA admits hydration breaks may not continue after World Cup criticism",
+      "summary": "FIFA will analyse the impact of hydration breaks after the World Cup, says Arsene Wenger a day before the final.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/cockroach-party-protest-intensifies-after-wangchuk-forcibly-hospitalised?traffic_source=rss",
-      "publishedAt": "Sat, 18 Jul 2026 21:03:34 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/19/fifa-admits-hydration-breaks-may-not-continue-after-world-cup-criticism?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 01:40:12 +0000"
     },
     {
-      "title": "Latin America unites to cheer against Argentina in FIFA World Cup final",
-      "summary": "Fans from Mexico to Brazil unite to cheer Yamal's Spain against Argentina and Messi, whom they call 'FIFA’s golden boy'.",
+      "title": "Argentina fans flood NYC’s Times Square before World Cup final",
+      "summary": "Hundreds of Argentina fans packed New York City’s Times Square hours before Sunday's World Cup final.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/latin-america-unites-to-cheer-against-argentina-in-fifa-world-cup-final?traffic_source=rss",
-      "publishedAt": "Sat, 18 Jul 2026 21:02:44 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/argentina-fans-flood-nycs-times-square-before-world-cup-final?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 01:20:48 +0000"
     },
     {
-      "title": "Palestinian teenage footballer dies a week after Israeli settler attack",
-      "summary": "A week after he was shot in his West Bank village, Fadi al-Nassan's death comes amid a surge in settler violence.",
+      "title": "Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms",
+      "summary": "Otero Alcantara is part of the San Isidro Movement, which has long been the target of Cuban repression.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss",
-      "publishedAt": "Sat, 18 Jul 2026 20:24:51 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/19/exiled-cuban-artist-otero-alcantara-has-arrived-in-us-rubio-confirms?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 00:52:18 +0000"
     },
     {
-      "title": "Drone video shows scale of major wildfire in northern Spain",
-      "summary": "Drone video shows the scale of a major wildfire in northern Spain where more than 150 square kilometres have burned",
+      "title": "A giant cake for Venezuelan quake child survivors as death toll passes 5000",
+      "summary": "Volunteers made a giant cake to cheer up around 3,000 Venezuelan children displaced by last month's powerful twin quakes",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/drone-video-shows-scale-of-major-wildfire-in-northern-spain?traffic_source=rss",
-      "publishedAt": "Sat, 18 Jul 2026 20:18:46 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/a-giant-cake-for-venezuelan-quake-child-survivors-as-death-toll-passes-5000?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 00:39:42 +0000"
     },
     {
-      "title": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-      "summary": "Palestinians who have endured Israel's genocidal war are still being targeted.",
+      "title": "Netanyahu declares support for Argentina ahead of World Cup final",
+      "summary": "Argentina’s ambassador to Israel has presented Benjamin Netanyahu with a football jersey ahead of the World Cup final.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-      "publishedAt": "Sat, 18 Jul 2026 19:55:16 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 00:33:31 +0000"
     },
     {
-      "title": "All to know about Canadian wildfire smoke, air quality and World Cup final",
-      "summary": "A thunderstorm rolled through the region causing disruption, and a haze raised air quality concerns in New York City.",
+      "title": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
+      "summary": "US president says death of soldiers in Jordan a 'sad thing' as US forces attack Iran for the eighth consecutive night.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/18/all-to-know-about-canadian-wildfire-smoke-air-quality-and-world-cup-final?traffic_source=rss",
-      "publishedAt": "Sat, 18 Jul 2026 19:42:27 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
+      "summary": "The brothers were taken into custody on a sealed warrant, the Marshals Service told the AP. British prosecutors said they were seeking the extradition of the brothers on rape and trafficking charges.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
+      "publishedAt": "Sat, 18 Jul 2026 20:57:08 -0400"
     },
     {
       "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
@@ -252,7 +260,7 @@
       "publishedAt": "Sat, 18 Jul 2026 14:15:42 -0400"
     },
     {
-      "title": "2 U.S. service members killed, 1 missing after Iranian attack in Jordan",
+      "title": "U.S. launches new airstrikes to 'punish' Iran for troop deaths",
       "summary": "Two U.S. service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S. Central Command said Saturday.",
       "source": "NPR",
       "lang": "en",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
       "publishedAt": "Sat, 18 Jul 2026 08:45:13 -0400"
-    },
-    {
-      "title": "Opinion: The continued courage of Captain Sully",
-      "summary": "Retired pilot Chesley \"Sully\" Sullenberger is known for safely landing an airplane on the Hudson River in 2009. This week, he announced that he has Alzheimer's disease.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/18/nx-s1-5882194/opinion-the-continued-courage-of-captain-sully",
-      "publishedAt": "Sat, 18 Jul 2026 08:00:00 -0400"
     },
     {
       "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
@@ -319,10 +319,17 @@
   "sports": [
     {
       "league": "World Cup",
+      "home": "Spain",
+      "away": "Argentina",
+      "status": "upcoming",
+      "date": "2026-07-19"
+    },
+    {
+      "league": "World Cup",
       "home": "France",
       "away": "England",
-      "homeScore": 0,
-      "awayScore": 2,
+      "homeScore": 4,
+      "awayScore": 6,
       "status": "FT",
       "date": "2026-07-18"
     }
@@ -332,15 +339,15 @@
       "place": "İstanbul",
       "tempC": 23,
       "description": "mainly clear",
-      "high": 30,
-      "low": 22
+      "high": 31,
+      "low": 23
     },
     {
       "place": "London",
-      "tempC": 19,
-      "description": "mainly clear",
+      "tempC": 15,
+      "description": "clear sky",
       "high": 23,
-      "low": 16
+      "low": 14
     }
   ],
   "facts": [
