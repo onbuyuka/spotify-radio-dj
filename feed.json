@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T02:25:37.374Z",
+  "updated": "2026-07-19T05:49:25.560Z",
   "news": [
     {
       "title": "Rus basını neden Türkiye'yi 'Karadeniz'i kontrol etmeye çalışmakla' suçluyor?",
@@ -50,6 +50,20 @@
       "publishedAt": "Sat, 18 Jul 2026 09:06:44 GMT"
     },
     {
+      "title": "Resmi Gazete'de bugün (19 Temmuz 2026 Resmi Gazete kararları)",
+      "summary": "Resmi Gazete'de 19 Temmuz 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 19 Temmuz 2026 tarihli ve 33314 Sayılı Resmi Gazete ayrıntıları.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-19T08:33:59+03:00"
+    },
+    {
+      "title": "Çöl sıcağı geliyor. 4 gün sürecek, 50 derece hissedilecek",
+      "summary": "Yeni haftada Yurt genelinde sıcaklık artıyor. 4 gün boyunca İstanbul'da sıcaklığın gölgede 33 dereceyi, Ege ve Akdeniz'de ise 45 dereceyi bulması bekleniyor. Hissedilen sıcaklığın ise 50 dereceye kadar ulaşacağı öngörülüyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-19T08:07:24+03:00"
+    },
+    {
       "title": "Kamyonun freni patladı, polis alarma geçti",
       "summary": "İnegöl'de freni patlayan kamyon polis ekiplerinin yolu boşaltıp güvenlik önlemi almasıyla 15 kilometre sonra durduruldu.",
       "source": "NTV",
@@ -75,21 +89,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-19T05:00:00+03:00"
-    },
-    {
-      "title": "Felç olan Diyar'ın ailesinden adalet çağrısı. \"Evladım gözümün önünde eriyor\"",
-      "summary": "Başakşehir'de evinin önünde bir otomobilin çarpmasıyla ağır yaralanan 23 yaşındaki Zahide Diyar Demirbaş felç oldu. Aile adalet çağrısında bulunurken, anne Mahide Demirbaş, \"Evladım gözümün önünde eriyor. 'Anne ne zaman yürüyeceğim' dediği ",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-18T18:16:57+03:00"
-    },
-    {
-      "title": "Kartalkaya yangını için başlatılan adalet yürüyüşü Ankara'da tamamlandı",
-      "summary": "Kartalkaya'daki otel yangınında 3 yakınını kaybeden Oktay Akişli'nin Bolu'dan Ankara'ya başlattığı \"78 Can İçin Adalet Yürüyüşü\" tamamlandı. Akişli, Ulus'ta ailelerle birlikte açıklama yaptı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-18T16:37:54+03:00"
+      "publishedAt": "2026-07-19T08:30:00+03:00"
     },
     {
       "title": "YKS sonuçlarının açıklanacağı tarih belli oldu",
@@ -140,12 +140,12 @@
       "publishedAt": "Sat, 18 Jul 2026 22:55:23 GMT"
     },
     {
-      "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+      "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
+      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 00:18:47 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 05:10:57 GMT"
     },
     {
       "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
@@ -188,52 +188,60 @@
       "publishedAt": "Sun, 19 Jul 2026 01:47:59 GMT"
     },
     {
-      "title": "FIFA admits hydration breaks may not continue after World Cup criticism",
-      "summary": "FIFA will analyse the impact of hydration breaks after the World Cup, says Arsene Wenger a day before the final.",
+      "title": "US bombs Iran for eighth-straight night",
+      "summary": "The US has launched a new wave of strikes on Iran after two American soldiers were killed by Iranian strikes in Jordan.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/19/fifa-admits-hydration-breaks-may-not-continue-after-world-cup-criticism?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 01:40:12 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 05:08:20 +0000"
     },
     {
-      "title": "Argentina fans flood NYC’s Times Square before World Cup final",
-      "summary": "Hundreds of Argentina fans packed New York City’s Times Square hours before Sunday's World Cup final.",
+      "title": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+      "summary": "A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/argentina-fans-flood-nycs-times-square-before-world-cup-final?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 01:20:48 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 04:36:47 +0000"
     },
     {
-      "title": "Exiled Cuban artist Otero Alcantara has arrived in US, Rubio confirms",
-      "summary": "Otero Alcantara is part of the San Isidro Movement, which has long been the target of Cuban repression.",
+      "title": "At least one killed as Russian ballistic missiles hit Kyiv",
+      "summary": "Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/19/exiled-cuban-artist-otero-alcantara-has-arrived-in-us-rubio-confirms?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 00:52:18 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 04:32:28 +0000"
     },
     {
-      "title": "A giant cake for Venezuelan quake child survivors as death toll passes 5000",
-      "summary": "Volunteers made a giant cake to cheer up around 3,000 Venezuelan children displaced by last month's powerful twin quakes",
+      "title": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
+      "summary": "Sirik and Hajiabad areas in Iran's Hormozgan province targeted as US says revenge for killing of two soldiers.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/a-giant-cake-for-venezuelan-quake-child-survivors-as-death-toll-passes-5000?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 00:39:42 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 04:16:08 +0000"
     },
     {
-      "title": "Netanyahu declares support for Argentina ahead of World Cup final",
-      "summary": "Argentina’s ambassador to Israel has presented Benjamin Netanyahu with a football jersey ahead of the World Cup final.",
+      "title": "Somalia races to save Radio Mogadishu’s fading archive",
+      "summary": "A small team is working to digitise decades of Somali history in the country's main public radio station.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/netanyahu-declares-support-for-argentina-ahead-of-world-cup-final?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 00:33:31 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/19/somalia-races-to-save-radio-mogadishus-fading-archive?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 03:38:03 +0000"
     },
     {
-      "title": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
-      "summary": "US president says death of soldiers in Jordan a 'sad thing' as US forces attack Iran for the eighth consecutive night.",
+      "title": "Tate brothers arrested in Miami on rape and sex trafficking charges",
+      "summary": "Controversial influencers Andrew and Tristan Tate have been arrested in Miami onrape and sex trafficking charges.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 00:00:00 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 03:36:44 +0000"
+    },
+    {
+      "title": "Argentina, Spain and their stars Lionel Messi and Lamine Yamal meet in World Cup final",
+      "summary": "Worry no more about wildfire smoke and $10,000 ticket prices. Sunday's final between Argentina and Spain — the first meeting of their transcendent stars — is here and seems destined to be a classic.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/19/nx-s1-5899071/2026-world-cup-fifa-argentina-spain-final-championship",
+      "publishedAt": "Sun, 19 Jul 2026 00:00:00 -0400"
     },
     {
       "title": "The Tate brothers are arrested in Miami, U.S. Marshals Service tells AP",
@@ -276,12 +284,12 @@
       "publishedAt": "Sat, 18 Jul 2026 11:30:00 -0400"
     },
     {
-      "title": "Why is it so hard for the U.S. to win wars?",
-      "summary": "U.S. presidents have promised short, decisive wars in Afghanistan, Iraq and Iran. All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning.",
-      "source": "NPR",
+      "title": "São Tomé and Príncipe heads to polls in tense presidential election",
+      "summary": "Incumbent Carlos Vila Nova hopes to defeat his former party and secure second term as independentVoters in São Tomé and Príncipe go to the polls for a presidential election on Sunday as one of Africa’s least populous countries seeks to burn",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
-      "publishedAt": "Sat, 18 Jul 2026 08:45:13 -0400"
+      "link": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
+      "publishedAt": "Sun, 19 Jul 2026 04:00:16 GMT"
     },
     {
       "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
       "publishedAt": "Thu, 16 Jul 2026 15:20:58 GMT"
-    },
-    {
-      "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
-      "summary": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the CongoUganda has started lobbying countries to lift Ebola-related travel restrictions after di",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
-      "publishedAt": "Thu, 16 Jul 2026 11:33:27 GMT"
     }
   ],
   "sports": [
@@ -337,16 +337,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 23,
+      "tempC": 25,
       "description": "mainly clear",
-      "high": 31,
+      "high": 30,
       "low": 23
     },
     {
       "place": "London",
-      "tempC": 15,
-      "description": "clear sky",
-      "high": 23,
+      "tempC": 14,
+      "description": "overcast",
+      "high": 22,
       "low": 14
     }
   ],
