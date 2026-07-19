@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T13:11:02.577Z",
+  "updated": "2026-07-19T15:55:06.957Z",
   "news": [
     {
       "title": "Türkçe saykodelik müzik nasıl tüm dünyaya yayıldı?",
@@ -18,12 +18,20 @@
       "publishedAt": "Sun, 19 Jul 2026 07:18:48 GMT"
     },
     {
-      "title": "Tarihin en gollü üçüncülük maçında İngiltere Fransa'yı 6-4 geçti",
-      "summary": "Kimsenin oynamak istemediği maç, kimsenin bitmesini istemediği bir maça dönüştü: İngiltere'nin Fransa ile oynadığı ve daha önce üçüncülük maçı olarak bilinen \"bronz final\", toplam 10 gole sahne olan bir kaosla ve İngiltere'nin 6-4'lük zafer",
+      "title": "Macaristan Cumhurbaşkanı Sulyok, parlamentonun adımı sonrası istifayı kabul etti",
+      "summary": "Macaristan Cumhurbaşkanı Tamás Sulyok, ülkenin anayasasında yapılan ve cumhurbaşkanlığını pazar günü gece yarısında sona erdirecek değişikliği imzalayarak görevden ayrılmayı kabul etti.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c4gjxzldeplo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 08:23:52 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cn8q080g5z8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 14:56:05 GMT"
+    },
+    {
+      "title": "Andrew ve Tristan Tate ABD'de gözaltına alındı",
+      "summary": "Tartışmalı sosyal medya ünlüsü Andrew Tate ve kardeşi Tristan, İngiliz makamlarının ikili hakkında 38 yeni suçlama yöneltmesinin ardından ABD'de gözaltına alındı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c8xnp8e8kv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 13:31:28 GMT"
     },
     {
       "title": "Yüzükler, Trump ve devre arası: Dünya Kupası final maçından neler beklemeliyiz?",
@@ -34,34 +42,40 @@
       "publishedAt": "Sun, 19 Jul 2026 09:08:32 GMT"
     },
     {
-      "title": "Sıcak havalarda nasıl beslenmeli?",
-      "summary": "Havalar çok ısındığında beslenme alışkanlıklarımızı değiştirmeli miyiz?",
+      "title": "Tarihin en gollü üçüncülük maçında İngiltere Fransa'yı 6-4 geçti",
+      "summary": "Kimsenin oynamak istemediği maç, kimsenin bitmesini istemediği bir maça dönüştü: İngiltere'nin Fransa ile oynadığı ve daha önce üçüncülük maçı olarak bilinen \"bronz final\", toplam 10 gole sahne olan bir kaosla ve İngiltere'nin 6-4'lük zafer",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ckg49lpdml9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 09:29:30 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c4gjxzldeplo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 08:23:52 GMT"
     },
     {
-      "title": "Bazı kadınlar, çoğu kişinin göremediği renkleri görebilir",
-      "summary": "Kadınların yaklaşık %12'sinin, onlara gelişmiş renk görme yeteneği kazandırabilecek genetik bir varyanta sahip olabileceği düşünülüyor; ancak ne gördüklerini kanıtlamak gerçekten zor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/clyxylgrg37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 08:53:21 GMT"
-    },
-    {
-      "title": "Ankara'da fabrika yangını",
-      "summary": "Ankara'nın Kahramankazan ilçesinde bulunan bir fabrikada yangın çıktı. İhbar üzerine bölgeye çok sayıda itfaiye, sağlık ve polis ekibi sevk edildi.",
+      "title": "İstanbul'da sıcak hava bunalttı: \"Sucuk gibi kavruluyoruz\"",
+      "summary": "İstanbul'da sıcak hava etkisini artırdı. Hava sıcaklığının 30 dereceyi aştığı kentte vatandaşlar pazar tatilini sahillerde geçirdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-19T16:07:34+03:00"
+      "publishedAt": "2026-07-19T16:42:12+03:00"
+    },
+    {
+      "title": "Dışişleri Bakanlığı'ndan Yunanistan'a Batı Trakya tepkisi",
+      "summary": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Yunanistan'ın Batı Trakya Türk Azınlığı’na ait sekiz ilkokulu daha kapatma kararını kınayıp \"Bu baskıcı karar ve uygulamalar, Lozan Barış Antlaşması hükümlerinin ihlali niteliğindedir.\" dedi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-19T17:00:26+03:00"
+    },
+    {
+      "title": "Ankara'daki fabrika yangını kontrol altında",
+      "summary": "Ankara'nın Kahramankazan ilçesinde atık yağ fabrikasında çıkan yangın paniğe neden oldu. İtfaiye ekiplerince söndürülen yangında ölen veya yaralanan yok.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-19T16:54:36+03:00"
     },
     {
       "title": "Gürlek'ten Muhsin Yazıcıoğlu soruşturmasına ilişkin açıklama: Sonuna kadar gidilecek",
       "summary": "Adalet Bakanı Akın Gürlek, BBP Genel Başkanı Muhsin Yazıcıoğlu'nun yaşamını yitirdiği helikopter kazasına ilişkin soruşturmada, ucu nereye uzanırsa uzansın sonuna kadar gidileceğini söyledi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-19T15:48:30+03:00"
+      "publishedAt": "2026-07-19T16:13:13+03:00"
     },
     {
       "title": "Antalya'da orman yangını: Alevlere havadan ve karadan müdahale",
@@ -78,18 +92,20 @@
       "publishedAt": "2026-07-19T15:15:44+03:00"
     },
     {
-      "title": "Antalya'da orman yangın: Ekipler müdahale ediyor",
-      "summary": "Antalya'nın Akseki ilçesinde çıkan orman yangınına havadan ve karadan müdahale sürüyor.",
-      "source": "NTV",
+      "title": "İstanbul'da hava çok sıcak",
+      "summary": "İstanbul'da sıcak havadan bunalan vatandaşlar, pazar gününü sahiller ve mesire alanlarında geçirdi. Kimi denize girerek serinledi, kimi ise park ve yeşil alanlarda vakit geçirdi. Kentin birçok noktasında yoğunluk oluştu",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-19T14:35:39+03:00"
+      "link": "https://www.haberturk.com/son-dakika-istanbul-da-hava-cok-sicak-vatandaslar-kentin-bircok-noktasina-akin-etti-3899534",
+      "publishedAt": "Sun, 19 Jul 2026 14:41:21 GMT"
     },
     {
-      "title": "Kadıköy'de 7 saat su kesintisi yaşanacak. Hangi mahallelere su verilemeyecek?",
-      "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ), isale hattında yapılacak çalışmalar nedeniyle yarın Kadıköy'de bazı mahallelere 7 saat süreyle su verilemeyeceğini bildirdi. Peki, hangi mahallelere su verilemeyecek?",
-      "source": "NTV",
+      "title": "A101 23 Temmuz yeni hafta indirimleri",
+      "summary": "Yeni haftayla birlikte alışveriş planlarını yenilemek isteyenler, A101’in güncel kampanya dönemine odaklanırken, farklı kategorilerde sunulan fırsatların hangi ürünlerde yoğunlaştığını merak ediyor. 23 Temmuz tarihli aktüel sürecin başlamas",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-19T14:42:19+03:00"
+      "link": "https://www.haberturk.com/a101-indirim-afisi-yeni-hafta-indirimleri-23-temmuz-2026-a101-aldin-aldin-aktuel-katalogu-yeni-neler-var-3899531",
+      "publishedAt": "Sun, 19 Jul 2026 14:44:07 GMT"
     },
     {
       "title": "Okullar ne zaman açılacak?",
@@ -113,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/dunya-kupasi-final-maci-saat-kacta-ispanya-arjantin-final-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-11-ler-3899505",
-      "publishedAt": "Sun, 19 Jul 2026 10:13:31 GMT"
+      "publishedAt": "Sun, 19 Jul 2026 13:13:07 GMT"
     },
     {
       "title": "LGS tercih sonuçları ne zaman açıklanacak?",
@@ -124,28 +140,12 @@
       "publishedAt": "Sun, 19 Jul 2026 09:24:33 GMT"
     },
     {
-      "title": "YKS sonuçları ne zaman açıklanacak?",
-      "summary": "YKS sonuçlarının açıklanacağı tarih ve sonuçların nasıl sorgulanacağı, sınava katılan milyonlarca adayın gündemindeki yerini koruyor. Üniversite hayali kuran öğrenciler, tercih sürecine yön verecek kritik sonuçlar için geri sayıma geçerken,",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/yks-sonuclari-aciklanma-tarihi-belli-oldu-yks-sonuclari-ne-zaman-aciklanacak-yks-sonuclari-nasil-ogrenilecek-3899487",
-      "publishedAt": "Sun, 19 Jul 2026 08:47:13 GMT"
-    },
-    {
-      "title": "DGS sonuçları ne zaman açıklanacak?",
-      "summary": "DGS’ye katılan binlerce aday, Dikey Geçiş Sınavı sonuçlarının açıklanacağı tarihi merakla araştırıyor. Adaylar gözlerini yapılacak resmi duyuruya çevirirken, sonuçların ilan edileceği güne ilişkin beklentiler de gündemdeki yerini koruyor.",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/2026-dgs-sonuclari-ne-zaman-aciklanacak-dikey-gecis-sinavi-ne-zaman-aciklanacak-dgs-sonuc-sorgulama-ekrani-3899483",
-      "publishedAt": "Sun, 19 Jul 2026 07:42:44 GMT"
-    },
-    {
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
       "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 11:57:10 GMT"
+      "publishedAt": "Sun, 19 Jul 2026 15:35:18 GMT"
     },
     {
       "title": "Tate brothers arrested in US as further UK charges take total to 59",
@@ -157,7 +157,7 @@
     },
     {
       "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "summary": "Four people are killed and at least 36 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
+      "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
@@ -172,12 +172,12 @@
       "publishedAt": "Sun, 19 Jul 2026 01:47:59 GMT"
     },
     {
-      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "summary": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 07:47:02 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 19 Jul 2026 14:50:11 GMT"
     },
     {
       "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
@@ -185,55 +185,55 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 09:59:41 GMT"
+      "publishedAt": "Sun, 19 Jul 2026 14:00:03 GMT"
     },
     {
-      "title": "Why have India’s Gen Z protesters called for a march to parliament?",
-      "summary": "After a prominent activist on hunger strike is forcibly removed, organisers announce a march to parliament.",
+      "title": "Kimi Antonelli wins Belgian Grand Prix to extend F1 championship lead",
+      "summary": "Mercedes driver won his sixth GP of 2026 as championship rival and teammate George Russell crashes out on first lap.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/7/19/why-have-indias-gen-z-protesters-called-for-a-march-to-parliament?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 12:45:07 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/19/kimi-antonelli-wins-belgian-grand-prix-to-extend-f1-championship-lead?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 15:26:45 +0000"
     },
     {
-      "title": "Indian court rejects bid to release hunger-striking activist from hospital",
-      "summary": "The wife of 59-year-old Sonam Wangchuk says his enforced hospitalisation is 'illegal detention'.",
+      "title": "Designing cities for a hotter future",
+      "summary": "Climate advocate Mina Hasman’s vision of designing cities that behave like forests and buildings that act like trees.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/19/indian-court-rejects-bid-to-release-hunger-striking-activist-from-hospital?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 12:38:24 +0000"
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/19/designing-cities-for-a-hotter-future?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 15:25:01 +0000"
     },
     {
-      "title": "Spain or Argentina, who will win the FIFA World Cup? Ex-player predictions",
-      "summary": "Former player predictions as the European and South American champions clash in a World Cup final for the first time.",
+      "title": "Tate brothers arrested in the US",
+      "summary": "Video shows the moment controversial influencer brothers Andrew Tate and Tristan Tate were arrested in Miami, US.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/spain-argentina-fifa-world-cup-who-will-win-prediction-ex-players?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 12:29:57 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-the-us?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 15:23:49 +0000"
     },
     {
-      "title": "India’s cockroach politics is no joke",
-      "summary": "The Cockroach Janta Party has crept onto the political scene at a time when Indian democracy is struggling.",
+      "title": "Spain vs Argentina LIVE: FIFA World Cup 2026 final",
+      "summary": "Live coverage and text updates as Spain play Argentina in the final of the 2026 World Cup.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/7/19/indias-cockroach-politics-is-no-joke?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 11:57:47 +0000"
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/7/19/spain-vs-argentina-live-2026-fifa-world-cup-final?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 15:00:00 +0000"
     },
     {
-      "title": "FIFA World Cup: Tobin Heath on record goals, France and Lamine Yamal",
-      "summary": "In an exclusive interview, Tobin Heath shares her insights before World Cup final and discusses best players and teams.",
+      "title": "Why is Argentina’s football team so white?",
+      "summary": "Argentina prepares to face Spain in the World Cup final.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/tobin-heath-fifa-world-cup-2026-football-analysis-players-teams-tournament?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 11:21:52 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/why-is-argentinas-football-team-so-white?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 14:34:15 +0000"
     },
     {
-      "title": "Guyana ferry with 116 people on board capsizes; more than 50 rescued",
-      "summary": "Rescue operations for remaining passengers and crew ongoing, authorities say.",
+      "title": "Iran attacks US Gulf allies, causing a fire at Kuwait power plant",
+      "summary": "Kuwait and Bahrain report several rounds of Iranian missile, drone attacks; sirens reportedly sound in Jordan.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/19/guyana-ferry-with-116-people-aboard-capsizes?traffic_source=rss",
-      "publishedAt": "Sun, 19 Jul 2026 11:18:17 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
+      "publishedAt": "Sun, 19 Jul 2026 14:27:53 +0000"
     },
     {
       "title": "Violence repeatedly erupts in dementia care despite warnings, inspections show",
@@ -337,14 +337,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 30,
+      "tempC": 27,
       "description": "clear sky",
       "high": 30,
       "low": 23
     },
     {
       "place": "London",
-      "tempC": 22,
+      "tempC": 23,
       "description": "mainly clear",
       "high": 23,
       "low": 14
