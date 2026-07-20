@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-20T11:42:43.921Z",
+  "updated": "2026-07-20T13:59:06.648Z",
   "news": [
     {
-      "title": "Andy Burnham İngiltere Başbakanı oldu",
-      "summary": "Andy Burnham, 20 Temmuz Pazartesi günü Kral III. Charles ile yaptığı görüşmenin ardından İngiltere'nin 59. ve son 10 yıldaki yedinci başbakanı oldu.",
+      "title": "Andy Burnham İngiltere başbakanı oldu",
+      "summary": "Andy Burnham, Kral III. Charles ile yaptığı görüşmenin ardından İngiltere'nin 59'uncu ve son 10 yıldaki yedinci başbakanı olarak göreve başladı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cgk41zke535o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 11:30:48 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 12:23:30 GMT"
+    },
+    {
+      "title": "Türkiye'de çöl sıcaklıkları: Bazı iller 40 dereceyi aşacak",
+      "summary": "Türkiye'nin batısında dün başlayan çöl sıcaklarının özellikle Ege ve Akdeniz'de üç gün daha etkili olması bekleniyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cgje7e302lpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 12:42:59 GMT"
     },
     {
       "title": "Diyarbakır Büyükşehir Belediyesi Eşbaşkanı Doğan Hatun istifa etti",
@@ -34,14 +42,6 @@
       "publishedAt": "Mon, 20 Jul 2026 11:11:19 GMT"
     },
     {
-      "title": "'Acımı TikTok'ta paylaşmak hayatıma anlam katıyor'",
-      "summary": "Kelsey Mulcahy, nişanlısı Joseph Day'in 2022'deki ölümünün ardından yaşadığı acıyı TikTok üzerinden anlatıyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c1l1gr61r5zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 02:45:40 GMT"
-    },
-    {
       "title": "Faullerde Arjantin, gol girişiminde İspanya: Sayılarla FIFA 2026 Dünya Kupası",
       "summary": "ABD, Kanada ve Meksika genelinde saha içinde ve dışında yaşananlara ilişkin sizi şaşırtabilecek turnuva bilgileri ve istatistiklerini derledik",
       "source": "BBC Türkçe",
@@ -50,46 +50,62 @@
       "publishedAt": "Mon, 20 Jul 2026 11:17:04 GMT"
     },
     {
-      "title": "Ömer Çelik: Kıbrıs Türk davasını her koşulda savunmaya devam edeceğiz",
-      "summary": "AK Parti Sözcüsü Ömer Çelik, Kıbrıs Barış Harekatı'nın 52. yılını kutlayıp \"Cumhurbaşkanı Recep Tayyip Erdoğan’ın tüm dünyaya ilan ettiği gibi Kıbrıs Türk davasını her koşulda savunmaya devam edeceğiz.\" dedi.",
+      "title": "Süs balıkları yerine tehlikeli türler akvaryum tutkunlarının gözdesi oldu",
+      "summary": "Sivas'ta akvaryum tutkunları, süs balıkları yerine piranha, timsah zargana, yılanbaş ve çiçekboynuzlu gibi tehlikeli ve egzotik türlere yöneldi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-20T13:53:15+03:00"
+      "publishedAt": "2026-07-20T16:47:17+03:00"
     },
     {
-      "title": "Emniyet içinde köstebek operasyonu: WhatsApp mesajları ortaya çıktı",
-      "summary": "Çetelere bilgi sızdırmakla suçlanan polis ve memurlara köstebek operasyonu yapıldı. Kamu görevlileri ile çete üyelerinin WhatsApp mesajlaşmaları soruşturma dosyasına girdi.",
+      "title": "Kontrolden çıkan otomobil istinat duvarında askıda kaldı",
+      "summary": "Tekirdağ’ın Çorlu ilçesinde sürücüsünün el frenini çekmeyi unuttuğu öne sürülen park halindeki otomobil, caddede geri hareket edip, bir apartmanın istinat duvarında asılı kaldı. Kaza anı, güvenlik kamerasına yansıdı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-20T13:58:36+03:00"
+      "publishedAt": "2026-07-20T16:31:35+03:00"
     },
     {
-      "title": "Yargıtay'dan mutlak butlan kararı",
-      "summary": "CHP'ye mutlak butlan kararının iptali için yapılan başvuruya ilişkin Yargıtay'ın kararı açıklandı. Yargıtay incelemesinin adli tatilden sonra yapılacağı öğrenildi.",
+      "title": "Korkunç kaza: Motosiklet, lokantadaki müşteriye çarptı",
+      "summary": "Kocaeli’nin Karamürsel ilçesinde lokantaya giren motosikletin çarptığı müşteri B.K. yaralandı. Kaza, güvenlik kamerasına yansıdı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-20T13:38:35+03:00"
+      "publishedAt": "2026-07-20T16:25:15+03:00"
     },
     {
-      "title": "DEM Parti heyeti İmralı'ya gitti",
-      "summary": "DEM Parti İmralı Heyeti, terör örgütü PKK'nın elebaşı Abdullah Öcalan ile görüşmek üzere İmralı Adası'na gitti.",
+      "title": "Rusya'da vurulan gemi İstanbul açıklarına demirledi",
+      "summary": "Rusya karasularında drone saldırılarında hasar gören Panama bandıralı gemi, Türk karasularına demirledi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-20T13:23:06+03:00"
+      "publishedAt": "2026-07-20T15:55:13+03:00"
     },
     {
-      "title": "İstanbul yaz ortasında kış yaşayacak: Hava 7 derece soğuyacak, yağmur 4 gün sürecek",
-      "summary": "İstanbul'da hava sıcaklığı 7-8 derece birden düşecek. Balkanlar üzerinden gelen yağışlı hava dört gün boyunca İstanbul'u terk etmeyecek.",
+      "title": "Terörsüz Türkiye süreci | Çerçeve yasa ne zaman gelecek? AK Partili Usta'dan açıklama",
+      "summary": "AK Parti Grup Başkanvekili Leyla Şahin Usta, Meclis'in temmuz sonu veya ağustos başı tatile girmesinin planlandığını söyledi. Usta, terörsüz Türkiye süreci kapsamındaki yasal düzenlemeler için Meclis'in olağanüstü toplantıya çağrılabileceği",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-20T12:45:19+03:00"
+      "publishedAt": "2026-07-20T15:43:48+03:00"
     },
     {
-      "title": "Oğuzhan Uğur hakkında bilirkişi raporu hazırlandı. İşlemlerin \"2023'ten itibaren sıra dışı şekilde arttı\" iddiası",
-      "summary": "Ahbap Derneği'ne yönelik yürütülen soruşturma kapsamında gözaltına alınan Oğuzhan Uğur hakkında bilirkişi raporu hazırlandı. Raporda, işlemlerin özellikle 2023 yılından itibaren sıra dışı şekilde arttığı iddia edildi.",
+      "title": "Yeni ifadeler ortaya çıktı: \"Duyunca çok sinirlendim, Haluk Levent ile esaslı kavgalar ettim\"",
+      "summary": "Ahbap Derneği'ne yönelik soruşturma devam ederken dosyadaki iki şüphelinin daha ifadesi ortaya çıktı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-20T12:49:12+03:00"
+      "publishedAt": "2026-07-20T15:33:29+03:00"
+    },
+    {
+      "title": "Adliyeler ne zaman açılacak?",
+      "summary": "Yargı sürecine dair merak edilenler adli tatil döneminde yeniden gündemde! Hangi dosyaların işleme alındığı, hangi davaların sürdüğü ve adliyelerin ne zaman tam kapasiteyle çalışmaya başlayacağına dair aramalar hız kazandı. Vatandaşlar, dav",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/adli-tatil-ne-zaman-sona-erecek-adli-tatilde-hangi-davalar-gorulur-adliyeler-ne-zaman-acilacak-3899733",
+      "publishedAt": "Mon, 20 Jul 2026 12:49:06 GMT"
+    },
+    {
+      "title": "Beşiktaş - Midtjylland maçı ne zaman?",
+      "summary": "Geçtiğimiz sezon beklentilerin altında kalan Beşiktaş, yeni sezon öncesinde hem transfer çalışmaları hem de hazırlık maçlarıyla yoğun bir kamp dönemi geçiriyor. Siyah-beyazlı ekip, tempolu bir hazırlık süreciyle lige güçlü bir başlangıç yap",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/besiktas-uefa-on-eleme-maci-besiktas-midtjylland-maci-ne-zaman-saat-kacta-hangi-kanalda-3899722",
+      "publishedAt": "Mon, 20 Jul 2026 12:14:25 GMT"
     },
     {
       "title": "TCDD işçi alımı ne zaman?",
@@ -105,7 +121,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/fenerbahce-gornik-zabrze-on-eleme-maci-fenerbahce-gornik-zabrze-maci-ne-zaman-saat-kacta-hangi-kanalda-3899682",
-      "publishedAt": "Mon, 20 Jul 2026 09:26:30 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 13:12:49 GMT"
     },
     {
       "title": "UDSP sınav sonuçları açıklandı mı?",
@@ -124,28 +140,12 @@
       "publishedAt": "Mon, 20 Jul 2026 08:49:20 GMT"
     },
     {
-      "title": "LGS tercih sonuçları ne zaman açıklanacak?",
-      "summary": "Tercih sürecinin tamamlanmasının ardından gözler sonuç tarihine çevrilirken, adaylar için kritik bekleyiş giderek hız kazanıyor. Yerleştirme sürecine dair tüm detayların netleşmesiyle birlikte sonuç ekranının açılmasıyla yeni bir dönem başl",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/2026-lgs-tercihleri-ne-zaman-aciklanacak-2026-lgs-nakil-basvurulari-ne-zaman-baslayacak-lgs-tercih-sonuclari-sorgulama-ekrani-3899652",
-      "publishedAt": "Mon, 20 Jul 2026 07:57:35 GMT"
-    },
-    {
-      "title": "DGS sonuçları ne zaman açıklanacak?",
-      "summary": "Dikey Geçiş Sınavı’na katılan binlerce adayın gözü, tercih sürecini şekillendirecek sonuç açıklamasına çevrildi. Ön lisans eğitimini lisansa tamamlamak isteyen öğrenciler, puanlarını öğrenerek hedefledikleri bölümlere yerleşme hayalini kura",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/2026-dgs-sonuclari-aciklanma-tarihi-2026-dgs-sonuclari-ne-zaman-aciklanacak-2026-dgs-sonuclari-nereden-ogrenilir-3899642",
-      "publishedAt": "Mon, 20 Jul 2026 07:29:51 GMT"
-    },
-    {
-      "title": "US soldier killed and one injured after Iranian attack in Iraq",
-      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 19 Jul 2026 19:45:12 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 11:18:40 GMT"
     },
     {
       "title": "Boy, 13, dies during World Cup celebrations in Spain",
@@ -156,12 +156,12 @@
       "publishedAt": "Mon, 20 Jul 2026 10:02:44 GMT"
     },
     {
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+      "summary": "Some protesters demanding education reforms said they werew injured in clashes with police who banned the march.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 11:18:40 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 12:31:10 GMT"
     },
     {
       "title": "Food delivery rider wins China's top literary prize",
@@ -172,12 +172,12 @@
       "publishedAt": "Mon, 20 Jul 2026 03:53:07 GMT"
     },
     {
-      "title": "Norway opens new memorial for victims of 2011 massacre",
-      "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+      "title": "Scores feared dead after passenger ferry capsizes off Guyana",
+      "summary": "Sixty-seven people have been rescued but the ferry is thought to have had more than 130 people on board.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 01:11:08 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 11:37:32 GMT"
     },
     {
       "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
@@ -188,52 +188,68 @@
       "publishedAt": "Mon, 20 Jul 2026 11:28:30 GMT"
     },
     {
-      "title": "Hamas names Khalil al-Hayya as new leader after run-off with Khaled Meshaal",
-      "summary": "This is a breaking news story.",
+      "title": "Israeli ministers and settlers call for return to Gaza settlements",
+      "summary": "‘Gaza is ours.’",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 11:27:04 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 13:29:39 +0000"
     },
     {
-      "title": "Jubilation in Spain as La Roja beat Argentina to win second World Cup title",
-      "summary": "Wild celebrations in Spain after La Roja defeat Argentina 1-0 in extra-time to win the title for the second time.",
+      "title": "Burnham’s move to scrap UK’s digital ID plans earns cheers and criticism",
+      "summary": "Digital inclusion and civil liberties campaigners welcome the U-turn — for different reasons. But some are unhappy.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/jubilation-in-spain-as-la-roja-beat-argentina-to-win-second-world-cup-title?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 11:15:15 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/20/burnhams-move-to-scrap-uks-digital-id-plans-earns-cheers-and-criticism?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 13:24:18 +0000"
     },
     {
-      "title": "World Cup: Spain to be welcomed home by million-strong Madrid crowd",
-      "summary": "Spain beat Argentina 1-0 in Sunday's final in the US, and are expected to parade the trophy in Madrid on Monday.",
+      "title": "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
+      "summary": "Thousands gathered across Gaza to watch the World Cup final, with many backing Spain over its support for Palestinians.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spain-to-be-welcomed-home-by-million-strong-madrid-crowd?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 11:09:16 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/why-palestinians-in-gaza-are-celebrating-spains-world-cup-win?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 13:21:51 +0000"
     },
     {
-      "title": "Occupied West Bank World Cup screening halted for funeral",
-      "summary": "A screening of the FIFA World Cup final in Ramallah was halted following news that two Palestinians were killed.",
+      "title": "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
+      "summary": "Veteran negotiator assumes Palestinian group's overall leadership following a wartime election process.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/occupied-west-bank-world-cup-screening-halted-for-funeral?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 10:33:16 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/20/who-is-khalil-al-hayya-hamas-newly-elected-political-chief?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 13:18:47 +0000"
     },
     {
-      "title": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
-      "summary": "What does Iran’s attack on Kuwait infrastructure mean for Gulf?",
+      "title": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
+      "summary": "We explain how the war has changed for all the parties since their MoU unravelled and as the conflict has escalated.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/what-does-irans-attack-on-kuwait-infrastructure-mean-for-gulf?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 10:08:00 +0000"
+      "link": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 13:06:32 +0000"
     },
     {
-      "title": "World Cup: Spanish boy, 13, killed in fountain collapse during celebrations",
-      "summary": "Tragedy struck in the Salamanca province when the 13-year-old died during celebrations for the win against Argentina.",
+      "title": "‘I want to be honest with you’ says new UK PM Andy Burnham",
+      "summary": "‘I want to be honest with you’ says new UK PM Andy Burnham",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/world-cup-spanish-boy-13-killed-in-fountain-collapse-during-celebrations?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 10:07:16 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/i-want-to-be-honest-with-you-says-new-uk-pm-andy-burnham?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 12:59:27 +0000"
+    },
+    {
+      "title": "Putin meets North Korean foreign minister in diplomatic push",
+      "summary": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by N",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
+      "publishedAt": "Mon, 20 Jul 2026 09:18:51 -0400"
+    },
+    {
+      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
+      "summary": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
+      "publishedAt": "Mon, 20 Jul 2026 07:40:28 -0400"
     },
     {
       "title": "At least 930 people have died in Congo's Ebola outbreak",
@@ -260,28 +276,12 @@
       "publishedAt": "Mon, 20 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "'I just wanted to give up': Disabled patients face Medicaid denials from IT errors",
-      "summary": "Complex computer systems that decide whether people get Medicaid benefits have a history of errors. Now changes to comply with Trump's tax and domestic policy law are inundating those systems.",
+      "title": "Deloitte-run systems denied Medicaid to disabled people. New laws could make it worse",
+      "summary": "Complex computer systems that decide whether people get Medicaid benefits have a history of errors. Now, changes to comply with Trump's tax and domestic policy law are inundating those systems.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/07/20/nx-s1-5896359/medicaid-disabled-patients-denied-deloitte-michigan",
       "publishedAt": "Mon, 20 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Morning news brief",
-      "summary": "The U.S. carries out a wave of strikes against Iran, as fighting between the two escalates, Congress faces long to-do list as August recess approaches, Andy Burnham becomes U.K.'s 7th prime minister.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5895962/morning-news-brief",
-      "publishedAt": "Mon, 20 Jul 2026 04:43:08 -0400"
-    },
-    {
-      "title": "Keir Starmer resigns, Andy Burnham becomes U.K. prime minister",
-      "summary": "In a transition of power presided over by King Charles, Andy Burnham replaces Keir Starmer as the United Kingdom's prime minister. Both are from the center-left Labour Party.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/19/nx-s1-5895993/andy-burnham-prime-minister-keir-starmer",
-      "publishedAt": "Mon, 20 Jul 2026 04:41:42 -0400"
     },
     {
       "title": "São Tomé and Príncipe heads to polls in tense presidential election",
@@ -330,15 +330,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 31,
+      "tempC": 30,
       "description": "clear sky",
       "high": 31,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 22,
-      "description": "clear sky",
+      "tempC": 25,
+      "description": "mainly clear",
       "high": 25,
       "low": 13
     }
