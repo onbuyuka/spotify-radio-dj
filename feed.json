@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T19:40:21.833Z",
+  "updated": "2026-07-20T21:57:54.645Z",
   "news": [
     {
       "title": "Andy Burnham İngiltere başbakanı oldu",
@@ -10,12 +10,20 @@
       "publishedAt": "Mon, 20 Jul 2026 19:06:16 GMT"
     },
     {
-      "title": "Ukrayna'da askere gitmek istemeyenler ve şiddet olayları: 'Herkes ölmekten korkuyor'",
-      "summary": "Ukrayna’da artan asker açığı, zorunlu seferberlik uygulamaları ve karşılıklı şiddet olaylarıyla giderek derinleşen bir krize dönüşüyor.",
+      "title": "ABD, İran'a yeni saldırılar başlattı: Trump'tan misilleme uyarısı",
+      "summary": "ABD ordusu, İran'ın Hürmüz Boğazı'ndaki gemilere saldırma gücünü \"daha da zayıflatmak\" amacıyla İran'a yönelik yeni hava saldırılarına başladığını açıkladı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cy8m7zl1d44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 15:19:22 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 21:25:41 GMT"
+    },
+    {
+      "title": "İngiltere'nin yeni dışişleri bakanı Ed Miliband kimdir?",
+      "summary": "Eski İşçi Partisi lideri Ed Miliband, Andy Burnham hükümetinde Dışişleri Bakanlığı görevine getirilmesini “hayatının en büyük onuru” olarak nitelendirdi",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cp3015ddwnqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 19:54:26 GMT"
     },
     {
       "title": "DEM Parti heyeti Öcalan'la görüşmek için İmralı'ya gitti",
@@ -24,14 +32,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c9v4nz2e7nxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 20 Jul 2026 14:59:36 GMT"
-    },
-    {
-      "title": "Türkiye'de çöl sıcaklıkları: Bazı iller 40 dereceyi aşacak",
-      "summary": "Türkiye'nin batısında dün başlayan çöl sıcaklarının özellikle Ege ve Akdeniz'de üç gün daha etkili olması bekleniyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cgje7e302lpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 12:42:59 GMT"
     },
     {
       "title": "Beş yılda 16 şampiyonluk: İspanya futbolda nasıl bu kadar baskın hale geldi?",
@@ -50,6 +50,27 @@
       "publishedAt": "Mon, 20 Jul 2026 11:17:04 GMT"
     },
     {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Temmuz 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-21T00:30:00+03:00"
+    },
+    {
+      "title": "Erdoğan’dan Cambridge Merkez Camisi mesajı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İngiltere Kralı 3. Charles'ın Cambridge Merkez Camisi'ne yaptığı ziyareti çok kıymetli bulduğunu belirterek, İslam karşıtlığı ve kültürel ırkçılığın küresel ölçekte tırmandığı bir dönemde Kral'ın ziyareti",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-20T23:02:38+03:00"
+    },
+    {
+      "title": "Bakan Gürlek'in talimatıyla 81 ilde ‘Terör Suçları Soruşturma Büroları’ kurulacak",
+      "summary": "Adalet Bakanı Akın Gürlek’in talimatıyla 81 ildeki 175 ağır ceza cumhuriyet başsavcılığına gönderilen yazıyla, il Cumhuriyet başsavcılıkları bünyesinde müstakil ‘Terör Suçları Soruşturma Büroları’ kurulması istendi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-20T22:50:01+03:00"
+    },
+    {
       "title": "MİT tarafından bulundu. Kırmızı bültenle aranan şüpheli Bodrum’da yakalandı",
       "summary": "INTERPOL tarafından hakkında uyuşturucu ticareti suçundan kırmızı bültenle arama kaydı bulunan Mikail Kaan, Milli İstihbarat Teşkilatı (MİT) ve emniyetin düzenlediği ortak operasyonla Bodrum’da yakalandı.",
       "source": "NTV",
@@ -64,32 +85,27 @@
       "publishedAt": "2026-07-20T20:56:05+03:00"
     },
     {
-      "title": "Numan Kurtulmuş yarın Kılıçdaroğlu ile görüşecek",
-      "summary": "TBMM Başkanı Numan Kurtulmuş yarın CHP Genel Başkanı Kemal Kılıçdaroğlu ile görüşecek.",
+      "title": "Numan Kurtulmuş, Kılıçdaroğlu ile görüşecek",
+      "summary": "TBMM Başkanı Numan Kurtulmuş salı günü CHP Genel Başkanı Kemal Kılıçdaroğlu ile görüşecek.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-20T17:33:42+03:00"
+      "publishedAt": "2026-07-21T00:56:21+03:00"
     },
     {
-      "title": "Süs balıkları yerine tehlikeli türler akvaryum tutkunlarının gözdesi oldu",
-      "summary": "Sivas'ta akvaryum tutkunları, süs balıkları yerine piranha, timsah zargana, yılanbaş ve çiçekboynuzlu gibi tehlikeli ve egzotik türlere yöneldi.",
-      "source": "NTV",
+      "title": "Çılgın Sayısal Loto sonuçları açıklandı!",
+      "summary": "20 Temmuz 2026 Pazartesi günü gerçekleştirilen Çılgın Sayısal Loto çekilişinin sonuçları belli oldu. Milli Piyango Online tarafından yapılan çekilişin ardından kazandıran numaralar, Joker ve SüperStar sonuçları erişime açılırken, büyük ikra",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-20T16:47:17+03:00"
+      "link": "https://www.haberturk.com/cilgin-sayisal-loto-sonuclari-aciklandi-20-temmuz-2026-cilgin-sayisal-loto-sonuc-sorgulama-ekrani-3899816",
+      "publishedAt": "Mon, 20 Jul 2026 21:30:45 GMT"
     },
     {
-      "title": "Kontrolden çıkan otomobil istinat duvarında askıda kaldı",
-      "summary": "Tekirdağ’ın Çorlu ilçesinde sürücüsünün el frenini çekmeyi unuttuğu öne sürülen park halindeki otomobil, caddede geri hareket edip, bir apartmanın istinat duvarında asılı kaldı. Kaza anı, güvenlik kamerasına yansıdı.",
-      "source": "NTV",
+      "title": "Emekliye zamlı promosyon kampanyaları",
+      "summary": "Emekli banka promosyonları, Temmuz 2026 itibarıyla maaş zammı sonrasında yeniden gündemin ilk sıralarında yer aldı. Kamu ve özel bankalar, emekli müşterilerini bünyelerine katmak için promosyon kampanyalarını ve ek ödeme fırsatlarını yenile",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-20T16:31:35+03:00"
-    },
-    {
-      "title": "Korkunç kaza: Motosiklet, lokantadaki müşteriye çarptı",
-      "summary": "Kocaeli’nin Karamürsel ilçesinde lokantaya giren motosikletin çarptığı müşteri B.K. yaralandı. Kaza, güvenlik kamerasına yansıdı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-20T16:25:15+03:00"
+      "link": "https://www.haberturk.com/emekliye-zamli-promosyon-kampanyalari-temmuz-2026-en-yuksek-emekli-promosyonu-hangi-banka-veriyor-en-fazla-promosyon-veren-bankalar-listesi-3899813",
+      "publishedAt": "Mon, 20 Jul 2026 21:31:01 GMT"
     },
     {
       "title": "Adalet Bakanlığı personel alımı sonuçları açıklandı mı?",
@@ -97,15 +113,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/adalet-bakanligi-15-bin-personel-alimi-basvuru-sonucu-sorgula-2026-adalet-bakanligi-personel-alimi-basvuru-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-3899812",
-      "publishedAt": "Mon, 20 Jul 2026 19:02:52 GMT"
-    },
-    {
-      "title": "12. Yargı Paketi çıktı mı?",
-      "summary": "12. Yargı Paketi yasalaştı mı? Milyonlarca vatandaşın yakından takip ettiği 12. Yargı Paketi ile ilgili beklenen gelişme yaşandı. TBMM Genel Kurulu'nda kabul edilen Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yap",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/yeni-12-yargi-paketi-maddeleri-son-dakika-12-yargi-paketi-cikti-mi-yasalasti-mi-12-yargi-paketi-maddeleri-neler-ve-iceriginde-af-var-mi-3899805",
-      "publishedAt": "Mon, 20 Jul 2026 18:35:43 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 21:30:53 GMT"
     },
     {
       "title": "On Numara sonuçları açıklandı!",
@@ -113,7 +121,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/son-dakika-on-numara-sonuclari-aciklandi-20-temmuz-2026-on-numara-cekilis-sonucu-sorgulama-ekrani-3899804",
-      "publishedAt": "Mon, 20 Jul 2026 18:23:02 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 21:30:50 GMT"
     },
     {
       "title": "Asırlık Gece dizisi konusu ve oyuncuları",
@@ -121,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/asirlik-gece-dizisi-konusu-ve-oyunculari-asirlik-gece-4-bolum-ne-zaman-kac-bolumden-olusuyor-3899795",
-      "publishedAt": "Mon, 20 Jul 2026 17:02:42 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 21:31:03 GMT"
     },
     {
       "title": "Asgari ücrete ara zam gelecek mi?",
@@ -129,23 +137,23 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/asgari-ucret-ara-zammi-yeni-2026-asgari-ucrete-yeni-model-mi-geliyor-ara-zam-gelecek-mi-net-asgari-ucret-ne-kadar-olacak-3899782",
-      "publishedAt": "Mon, 20 Jul 2026 15:50:41 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 21:30:48 GMT"
     },
     {
-      "title": "MasterChef ana kadroya kim girdi?",
-      "summary": "MasterChef Türkiye'de ana kadro heyecanı hız kesmeden devam ediyor. TV8 ekranlarında yayınlanan yarışmanın yeni bölümünde yarışmacılar, şeflerin verdiği zorlu tabağı en iyi şekilde hazırlayabilmek için kıyasıya mücadele ediyor. Dün akşam an",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/masterchef-ana-kadroya-kim-girdi-masterchef-te-4-isim-belli-oluyor-masterchef-kim-kazandi-3899772",
-      "publishedAt": "Mon, 20 Jul 2026 15:15:52 GMT"
-    },
-    {
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "title": "Trump imposes 50% tariff on Canadian imports",
+      "summary": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 17:20:37 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 21:51:55 GMT"
+    },
+    {
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "summary": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 21:09:31 GMT"
     },
     {
       "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
@@ -153,15 +161,23 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 17:33:02 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 21:30:19 GMT"
     },
     {
-      "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-      "summary": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
+      "title": "Tate brothers appear in US court for extradition proceedings",
+      "summary": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 16:10:38 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 19:05:50 GMT"
+    },
+    {
+      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 21:03:24 GMT"
     },
     {
       "title": "Rare identical quadruplets born in Australia",
@@ -172,68 +188,60 @@
       "publishedAt": "Mon, 20 Jul 2026 12:57:32 GMT"
     },
     {
-      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "summary": "Known as \"El Mayo\", the co-founder the Sinaloa Cartel was also ordered to pay $15bn after he admitted to sending vast amounts of drugs to the US.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 17:21:27 GMT"
-    },
-    {
-      "title": "Boy, 13, dies during World Cup celebrations in Spain",
-      "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 10:02:44 GMT"
-    },
-    {
-      "title": "Protests in Italy after Moroccan man dies during arrest",
-      "summary": "Outrage across Italy's political spectrum following death in Bologna likened to killing of George Floyd in 2020.",
+      "title": "Albanian protesters pelt lawmakers’ cars over resort projects",
+      "summary": "Protesters threw eggs at lawmakers' vehicles outside Albania's parliament, demanding changes to laws.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/20/protests-in-italy-after-moroccan-man-dies-during-arrest?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 18:53:13 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 21:19:41 +0000"
     },
     {
-      "title": "Houthis announce maritime blockade on Saudi Arabia",
-      "summary": "Yemen’s Iran-backed Houthi rebels have announced a maritime blockade on Saudi Arabia after the two sides traded fire",
+      "title": "FIFA investigating on-pitch brawl after Spain vs Argentina World Cup final",
+      "summary": "Argentina's Paredes was seen shoving Spanish players, which led to an on-field melee, while Spain's Yamal prayed calmly.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/houthis-announce-maritime-blockade-on-saudi-arabia?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 18:32:05 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-investigating-on-pitch-brawl-after-spain-vs-argentina-world-cup-final?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 21:12:22 +0000"
     },
     {
-      "title": "Trump vows Iran will ‘pay’ for killing US soldiers",
-      "summary": "The US intensifies air strikes on Iran, targeting critical sites after the deaths of American soldiers in the region.",
+      "title": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
+      "summary": "US president insists Netanyahu will not be arrested, despite ICC warrant.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 18:21:39 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 21:06:42 +0000"
     },
     {
-      "title": "‘Now or never’: Students defy Delhi lockdown to march on India’s parliament",
-      "summary": "Youth-led protesters answer call of Cockroach Janta Party to demand accountability, sweeping reforms after exam scandal.",
+      "title": "King of Spain celebrates World Cup winners in Madrid",
+      "summary": "Spain’s World Cup-winning team received a royal reception from King Felipe VI in Madrid ahead of a victory parade.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/20/now-or-never-students-defy-delhi-lockdown-to-march-on-indias-parliament?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 18:10:03 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/king-of-spain-celebrates-world-cup-winners-in-madrid?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 21:01:01 +0000"
     },
     {
-      "title": "Petrol prices climb as US–Iran tensions disrupt markets",
-      "summary": "US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.",
+      "title": "Gaza residents weigh in on election of new Hamas leader",
+      "summary": "Gaza residents weigh in on election of new Hamas leader",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 17:40:29 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 20:53:29 +0000"
     },
     {
-      "title": "FIFA World Cup: Five key takeaways from 2026 edition won by Spain",
-      "summary": "Spain beat Argentina, but talking points remain. Should there be 48 or 64 teams? Hydration breaks? The 'dark arts'?",
+      "title": "How will Zelenskyy handle the growing political crisis at home?",
+      "summary": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-world-cup-five-key-takeaways-from-2026-edition-won-by-spain?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 17:31:43 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
+      "publishedAt": "Mon, 20 Jul 2026 20:50:31 +0000"
+    },
+    {
+      "title": "10 things that wowed us at the 2026 World Cup",
+      "summary": "The United States, Mexico, and Canada co-hosted the nearly six-week tournament. NPR's team of journalists who covered the World Cup reflects on the experience.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5892511/2026-world-cup-fifa-spain-argentina-tournament",
+      "publishedAt": "Mon, 20 Jul 2026 15:56:44 -0400"
     },
     {
       "title": "Court ruling freezes Paramount-Warner Bros. merger for now",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
       "publishedAt": "Mon, 20 Jul 2026 06:36:08 -0400"
-    },
-    {
-      "title": "U.S. and Iran launch new strikes after 3 U.S. service members are killed",
-      "summary": "The U.S. attacks were the ninth consecutive day of bombing since peace talks between the two countries collapsed in dispute over a memorandum of understanding focused on the Strait of Hormuz.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/20/nx-s1-5900601/us-iran-updates",
-      "publishedAt": "Mon, 20 Jul 2026 06:04:56 -0400"
     },
     {
       "title": "São Tomé and Príncipe heads to polls in tense presidential election",
@@ -330,15 +330,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 24,
-      "description": "mainly clear",
-      "high": 31,
+      "tempC": 23,
+      "description": "clear sky",
+      "high": 32,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 23,
-      "description": "clear sky",
+      "tempC": 20,
+      "description": "mainly clear",
       "high": 26,
       "low": 13
     }
