@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-21T11:05:47.833Z",
+  "updated": "2026-07-21T13:42:01.670Z",
   "news": [
     {
-      "title": "Özgür Özel'in CHP'de son grup toplantısı: 'Vakti gelmiş bir vedanın hüznüyle kürsüdeyim'",
-      "summary": "CHP'de Özgür Özel, yeni parti kurma hazırlıkları sürerken son kez grup toplantısında konuşuyor. Özel konuşmasında kürsüye, \"Vakti gelmiş bir vedanın hüznüyle çıktığını\" söyledi.",
+      "title": "Özgür Özel'in CHP'de son grup toplantısı: 'Yeni partimizi kuruyoruz'",
+      "summary": "CHP'de Özgür Özel, yeni parti kurma hazırlıkları sürerken son kez grup toplantısında konuştu. Özel konuşmasında kürsüye, \"Vakti gelmiş bir vedanın hüznüyle çıktığını\" söyledi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cm2glz2n6v5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 10:54:08 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 11:48:11 GMT"
     },
     {
       "title": "Öcalan'dan yeni süreç mesajı: 'Yasal zeminin vakti geldi'",
@@ -39,7 +39,7 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c0l5g4njd65o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 10:16:43 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 13:04:34 GMT"
     },
     {
       "title": "'Çerçeve yasa': Meclis Başkanı Kurtulmuş siyasi partilerle görüşüyor",
@@ -50,6 +50,41 @@
       "publishedAt": "Tue, 21 Jul 2026 09:54:07 GMT"
     },
     {
+      "title": "Şişli'de sokak ortasında kadına şiddet. Arkasından yaklaşıp yumruk attı",
+      "summary": "İstanbul'un Şişli ilçesinde yolda yürüyen bir kadın, arkasından yaklaşan bir kişinin yumruklu saldırısına uğradı. Kaçan saldırgan aranıyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-21T15:33:37+03:00"
+    },
+    {
+      "title": "Kahramanmaraş okul saldırganının babası ve annesine istenen ceza belli oldu",
+      "summary": "Kahramanmaraş'ta dokuz öğrenci ile bir öğretmenin öldürüldüğü okul saldırısını gerçekleştiren İsa Aras Mersinli isimli saldırganın babası ve annesi hakkında iddianame düzenlendi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-21T16:10:41+03:00"
+    },
+    {
+      "title": "Balıkesir'de orman yangını: Ekipler müdahale ediyor",
+      "summary": "Balıkesir'in Gömeç ilçesinde çıkan orman yangınına havadan ve karadan müdahale ediliyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-21T15:19:50+03:00"
+    },
+    {
+      "title": "Ulaştırma ve Altyapı Dergisi'nin dördüncü sayısı yayımlandı",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, ulaştırma ve haberleşme sektörlerinde teknolojik dönüşümün merkezinde Ar-Ge ve yenilikçi çözümlerin bulunduğunu belirtti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-21T15:12:17+03:00"
+    },
+    {
+      "title": "Battaniyeleri çıkartın! Balkanlardan yola çıktı, İstanbul'a 4 günlük kış geliyor",
+      "summary": "Mevsim normallerinin üzerinde seyreden hava sıcaklarının ardından Balkanlardan serin ve yağışlı hava geliyor. Sıcaklıklar 8 derece birden düşecek.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-21T15:56:07+03:00"
+    },
+    {
       "title": "Adliye çevresinde silahla yakalanmışlardı. Nevzat Bahtiyar'ın oğluna hapis istemi",
       "summary": "Narin Güran cinayetinde 17 yıl hapis cezasına çarptırılan Nevzat Bahtiyar'ın duruşma sonrası adliye yakınında silahla yakalanan oğlu ve kardeşinin üçer yıl hapis cezasına çarptırılması istendi.",
       "source": "NTV",
@@ -57,39 +92,28 @@
       "publishedAt": "2026-07-21T13:59:40+03:00"
     },
     {
-      "title": "Yalova'da eğitim sırasında rahatsızlanan askeri öğrenci yaşamını yitirdi",
-      "summary": "Yalova'daki 18'inci Ana Üs Komutanlığı'nda eğitim sırasında rahatsızlanan Hava Harp Okulu hazırlık sınıfı öğrencisi Veli Bilgin hayatını kaybetti.",
-      "source": "NTV",
+      "title": "Gölcük Tabiat Parkı'ndaki ölümlere inceleme",
+      "summary": "Bolu Gölcük Tabiat Parkı içerisinde bulunan gölde balık ölümleri yaşanması üzerine çalışma başlatıldı",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-21T13:52:54+03:00"
+      "link": "https://www.haberturk.com/golcuk-tabiat-parki-ndaki-olumlere-inceleme-3900014",
+      "publishedAt": "Tue, 21 Jul 2026 12:51:00 GMT"
     },
     {
-      "title": "Özgür Özel: Vakti gelmiş bir vedanın hüznünü yaşıyorum",
-      "summary": "Özgür Özel, bugün Türkiye Büyük Millet Meclisi'ndeki (TBMM) toplantıda CHP Grubu'na veda etmek üzere kürsüye çıktı.",
-      "source": "NTV",
+      "title": "Tıbbi Sekreterlik Taban Puanları 2026",
+      "summary": "Sağlık alanında ön lisans tercihleri arasında öne çıkan bölümlerden biri olan Tıbbi Sekreterlik, adayların ilgisini çekmeye devam ediyor. Tercih döneminde merak edilen kontenjan, başarı sıralaması ve taban puan bilgileri ise her yıl olduğu ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-21T14:00:34+03:00"
+      "link": "https://www.haberturk.com/tibbi-sekreterlik-taban-puanlari-2026-tibbi-sekreterlik-kontenjan-basari-siralamasi-ve-taban-puanlari-tablosu-3900004",
+      "publishedAt": "Tue, 21 Jul 2026 12:32:58 GMT"
     },
     {
-      "title": "Ahbap Derneği soruşturması | Oğuzhan Uğur da tutuklandı, hakimliğin karar yazısı ortaya çıktı",
-      "summary": "Ahbap Derneği'ne yönelik soruşturmada tutuklanan Oğuzhan Uğur ve sekiz şüpheli hakkında hakimliğin karar yazısına ulaşıldı.",
-      "source": "NTV",
+      "title": "Mühendislik taban puanları",
+      "summary": "YKS sonuçlarının açıklanmasının ardından üniversite adayları için tercih maratonu başlıyor. Sayısal puan türüyle öğrenci kabul eden mühendislik bölümü de en çok araştırılan programlar arasında yer alıyor. Adaylar, tercih listelerini oluştur",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-21T12:49:13+03:00"
-    },
-    {
-      "title": "Trafik magandası taksicinin önünü kesip aracını yumrukladı",
-      "summary": "İstanbul'un Beylikdüzü ilçesinde bir trafik magandası, sol şeritten sağ şeride geçmek için yolda durunca arkasındaki taksi korna çaldı. Tepki gösterilmesine sinirlenen maganda, küfürlerle taksiciyi takip ederek önünü kesti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-21T12:44:37+03:00"
-    },
-    {
-      "title": "Rehabilitasyon merkezinde dehşet. Babanın gizli kaydı her şeyi ortaya çıkardı",
-      "summary": "İstanbul Büyükçekmece'de öğrenme güçlüğü çeken 10 yaşındaki oğlunun rehabilitasyon merkezine korkarak gitmesinden şüphelenen bir baba, öğretmenin çocuğuna yönelik fiziksel şiddetini cep telefonu kamerasıyla görüntüledi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-21T12:14:14+03:00"
+      "link": "https://www.haberturk.com/muhendislik-taban-puanlari-2026-ve-basari-siralamalari-universitelere-gore-muhendislik-fakultesi-taban-puanlari-aciklandi-mi-3899996",
+      "publishedAt": "Tue, 21 Jul 2026 11:48:05 GMT"
     },
     {
       "title": "600-700-800 bin sıralama ile hangi bölümlere girilir?",
@@ -105,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/hukuk-taban-puanlari-2026-yks-hukuk-bolumu-guncel-siralama-kontenjan-ve-basari-puanlari-3899964",
-      "publishedAt": "Tue, 21 Jul 2026 10:04:25 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 13:30:22 GMT"
     },
     {
       "title": "Altın fiyatlarında hızlı yükseliş",
@@ -116,36 +140,12 @@
       "publishedAt": "Tue, 21 Jul 2026 09:23:13 GMT"
     },
     {
-      "title": "Hac kurası ne zaman?",
-      "summary": "Milyonlarca hacı adayı, 2027 yılı hac ibadeti için gerçekleştirilecek kura süreci ve başvuru takvimine ilişkin gelişmeleri yakından takip ediyor. Diyanet İşleri Başkanlığı tarafından yapılacak açıklamalarla birlikte hac kayıtlarının başlang",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/2027-hac-kurasi-hac-kurasi-ne-zaman-saat-kacta-cekilecek-hac-kayitlari-ne-zaman-basliyor-3899941",
-      "publishedAt": "Tue, 21 Jul 2026 09:10:10 GMT"
-    },
-    {
-      "title": "Motorine zam mı geldi?",
-      "summary": "Akaryakıt tabelaları bir kez daha değişirken, sürücüler güncel benzin, motorin ve LPG fiyatlarını öğrenmek için araştırmalara yöneldi. Petrol piyasalarındaki dalgalanma ile birlikte motorin fiyatlarına ilişkin zam haberleri gündemdeki yerin",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/guncel-akaryakit-fiyatlari-motorine-zam-mi-geldi-21-temmuz-benzin-lpg-motorin-fiyati-ne-kadar-oldu-3899940",
-      "publishedAt": "Tue, 21 Jul 2026 09:03:23 GMT"
-    },
-    {
-      "title": "Kardemir çelik halka arz tarihleri ne zaman?",
-      "summary": "Kardemir Çelik halka arzı için geri sayım devam ederken, yatırımcılar KARCL halka arz tarihleri, talep toplama süreci ve kişi başına verilebilecek lot sayısını araştırıyor. Demir çelik sektöründe faaliyet gösteren şirketin Borsa İstanbul’da",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/karcl-halka-arz-ne-zaman-kac-lot-verir-kardemir-celik-halka-arz-tarihleri-ne-zaman-3899926",
-      "publishedAt": "Tue, 21 Jul 2026 08:37:16 GMT"
-    },
-    {
       "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
       "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 09:16:21 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 11:42:41 GMT"
     },
     {
       "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
@@ -164,12 +164,20 @@
       "publishedAt": "Tue, 21 Jul 2026 10:43:48 GMT"
     },
     {
-      "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-      "summary": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+      "title": "Row escalates in Ukraine over army chief's future",
+      "summary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 21:30:19 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 12:33:15 GMT"
+    },
+    {
+      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 12:48:37 GMT"
     },
     {
       "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
@@ -180,60 +188,76 @@
       "publishedAt": "Tue, 21 Jul 2026 02:16:05 GMT"
     },
     {
-      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
-      "summary": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 02:07:48 GMT"
-    },
-    {
-      "title": "Arizona’s primary elections: Which US races to watch and why they matter",
-      "summary": "From the governor’s race to Democratic divisions over Gaza, here’s what could shape Arizona elections on Tuesday.",
+      "title": "Clashes between police and people protesting Italy arrest death",
+      "summary": "Clashes between police and people protesting Italy arrest death",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss",
-      "publishedAt": "Tue, 21 Jul 2026 10:28:16 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/clashes-between-police-and-people-protesting-italy-arrest-death?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 13:36:46 +0000"
     },
     {
-      "title": "Lebanon’s Joseph Aoun to meet Trump: What to expect",
-      "summary": "The Lebanese president is seeking Washington's support for his agenda, including diplomacy with Israel.",
+      "title": "India tunnel collapse at a hydropower project kills 10 as 17 remain missing",
+      "summary": "Rescue teams have been struggling to reach the 17 people trapped because of hazardous conditions inside the tunnel.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/21/lebanons-joseph-aoun-to-meet-trump-what-to-expect?traffic_source=rss",
-      "publishedAt": "Tue, 21 Jul 2026 10:27:31 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/21/india-tunnel-collapse-at-a-hydropower-project-kills-10-as-17-remain-missing?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 13:32:04 +0000"
     },
     {
-      "title": "FIFA World Cup: Who scored the most goals, assists, saves and yellow cards?",
-      "summary": "FIFA’s biggest global showpiece saw 1,039 players from 48 nations play across 16 venues and score 308 goals.",
+      "title": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
+      "summary": "Israeli forces launch regular attacks on Gaza despite a US-backed 'ceasefire' agreed in October.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/21/who-scored-the-most-goals-kept-clean-sheets-made-assists-fifa-world-cup-yellow-cards-saves?traffic_source=rss",
-      "publishedAt": "Tue, 21 Jul 2026 10:25:18 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 13:26:40 +0000"
     },
     {
-      "title": "Can AI systems make moral decisions in war?",
-      "summary": "As more militaries adopt AI technology into their kill chain, Al Jazeera asks if they are capable of moral judgement.",
+      "title": "Trump’s new 50 percent Canada tariffs: What products are affected and why?",
+      "summary": "US leader imposes new sweeping tariffs on Canada, straining already tense ties with its second-largest trading partner.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/21/can-ai-systems-make-moral-decisions-in-war?traffic_source=rss",
-      "publishedAt": "Tue, 21 Jul 2026 10:21:08 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 13:25:37 +0000"
     },
     {
-      "title": "Australian MP interrupts tough interview to yell at dog",
-      "summary": "Australian politician Barnaby Joyce interrupted a live TV interview to shout at his dog.",
+      "title": "Bodycam shows Florida student tased and arrested by campus police",
+      "summary": "Bodycam shows Florida student tased and arrested by campus police",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/australian-mp-interrupts-tough-interview-to-yell-at-dog?traffic_source=rss",
-      "publishedAt": "Tue, 21 Jul 2026 10:19:06 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/bodycam-shows-florida-student-tased-and-arrested-by-campus-police?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 13:17:04 +0000"
     },
     {
-      "title": "Huge fire at Ukraine shopping centre after Russian drone strike",
-      "summary": "A fire engulfed a shopping centre in Ukraine's Sumy after Russian drone strikes hit the building.",
+      "title": "Baby trafficking ringleader jailed for 7 years",
+      "summary": "An Indonesian court has sentenced Lie Siu Luan to seven years in prison for leading a baby trafficking ring.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/huge-fire-at-ukraine-shopping-centre-after-russian-drone-strike?traffic_source=rss",
-      "publishedAt": "Tue, 21 Jul 2026 09:52:56 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/baby-trafficking-ringleader-jailed-for-7-years?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 12:59:28 +0000"
+    },
+    {
+      "title": "The best games of 2026 so far, picked by NPR's staff",
+      "summary": "Titans like Resident Evil Requiem and Crimson Desert dominated in the first half of the gaming year, with early-access sequels like Slay the Spire 2 and Subnautica 2 not far behind.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
+      "publishedAt": "Tue, 21 Jul 2026 09:00:00 -0400"
+    },
+    {
+      "title": "India's youth-led Cockroach movement vows to continue protest after police crackdown",
+      "summary": "The movement, which began as a satirical protest, has evolved into a nationwide challenge to Prime Minister Narendra Modi's government.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown",
+      "publishedAt": "Tue, 21 Jul 2026 08:00:56 -0400"
+    },
+    {
+      "title": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown",
+      "summary": "Iran-backed Houthis say they will blockade a waterway on the Red Sea. And, the FDA continues to investigate Taylor Farms lettuce as a source of the Cyclospora outbreak despite a retracted test.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora",
+      "publishedAt": "Tue, 21 Jul 2026 07:12:41 -0400"
     },
     {
       "title": "Trump imposes 50% tariffs on Canadian goods",
@@ -244,14 +268,6 @@
       "publishedAt": "Tue, 21 Jul 2026 06:31:34 -0400"
     },
     {
-      "title": "The best economic ideas from around the world — Planet Money Summer School is back",
-      "summary": "Our free economics course for your ears is on a quest for great economics ideas.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/sections/planet-money/2026/07/21/g-s1-134281/the-best-economic-ideas-from-around-the-world-planet-money-summer-school-is-back",
-      "publishedAt": "Tue, 21 Jul 2026 06:30:00 -0400"
-    },
-    {
       "title": "How soccer brings a Bhutanese community together in Harrisburg, Pa.",
       "summary": "Harrisburg is home to one of the nation's largest communities of Nepali-speaking Bhutanese refugees and their families. Through soccer, generations have found connection, belonging and a way to carry forward a shared history.",
       "source": "NPR",
@@ -260,28 +276,12 @@
       "publishedAt": "Tue, 21 Jul 2026 06:30:00 -0400"
     },
     {
-      "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
-      "summary": "The Houthis, a Shiite militia in Yemen, which is aligned with Iran, have announced a naval blockade of a key waterway, the Bab Al-Mandeb Strait.",
+      "title": "The best economic ideas from around the world — Planet Money Summer School is back",
+      "summary": "Our free economics course for your ears is on a quest for great economics ideas.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
-      "publishedAt": "Tue, 21 Jul 2026 06:21:43 -0400"
-    },
-    {
-      "title": "These men went to college in search of stable careers. They found it in nursing",
-      "summary": "Only about 1 in 8 nurses are men, but their share is growing. A strong job market for nurses and sustained efforts to recruit men into the field have made a difference, including in the South.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/21/nx-s1-5869813/nursing-men-jobs-male-nurses",
-      "publishedAt": "Tue, 21 Jul 2026 06:00:00 -0400"
-    },
-    {
-      "title": "A homeless man was charged with a felony for camping. He's one of the first",
-      "summary": "When Joseph Lamont Williams refused to leave the public park where he has lived for years, he was charged with a felony. Camping bans are on the rise as states seek to crack down on homelessness.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/21/nx-s1-5887358/tennessee-homeless-arrest-felony-camping-ban",
-      "publishedAt": "Tue, 21 Jul 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/sections/planet-money/2026/07/21/g-s1-134281/the-best-economic-ideas-from-around-the-world-planet-money-summer-school-is-back",
+      "publishedAt": "Tue, 21 Jul 2026 06:30:00 -0400"
     },
     {
       "title": "Healthy diet too expensive for one in three people globally, UN report finds",
@@ -320,14 +320,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 31,
-      "description": "mainly clear",
+      "tempC": 30,
+      "description": "clear sky",
       "high": 31,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 20,
+      "tempC": 23,
       "description": "partly cloudy",
       "high": 24,
       "low": 16
