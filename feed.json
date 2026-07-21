@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-20T21:57:54.645Z",
+  "updated": "2026-07-21T02:24:22.950Z",
   "news": [
     {
-      "title": "Andy Burnham İngiltere başbakanı oldu",
+      "title": "Oğuzhan Uğur tutuklandı",
+      "summary": "Ahbap Derneği'ne yönelik soruşturma kapsamında gözaltına alınan Oğuzhan Uğur'un da aralarında bulunduğu dokuz kişi \"hizmet nedeniyle güveni kötüye kullanma\" ve \"suçtan kaynaklanan malvarlığı değerlerini aklama\" suçlarından tutuklandı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c4g3zn1kdgpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 23:31:59 GMT"
+    },
+    {
+      "title": "Andy Burnham İngiltere başbakanı oldu, kabinede kimler var?",
       "summary": "Andy Burnham, Kral III. Charles ile yaptığı görüşmenin ardından İngiltere'nin 59'uncu ve son 10 yıldaki yedinci başbakanı olarak göreve başladı",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cgk41zke535o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 19:06:16 GMT"
+      "publishedAt": "Mon, 20 Jul 2026 22:21:08 GMT"
     },
     {
       "title": "ABD, İran'a yeni saldırılar başlattı: Trump'tan misilleme uyarısı",
@@ -18,20 +26,12 @@
       "publishedAt": "Mon, 20 Jul 2026 21:25:41 GMT"
     },
     {
-      "title": "İngiltere'nin yeni dışişleri bakanı Ed Miliband kimdir?",
-      "summary": "Eski İşçi Partisi lideri Ed Miliband, Andy Burnham hükümetinde Dışişleri Bakanlığı görevine getirilmesini “hayatının en büyük onuru” olarak nitelendirdi",
+      "title": "Andrew ve Tristan Tate, İngiltere'ye iadeleri için ABD'de mahkemeye çıktı",
+      "summary": "Tartışmalı sosyal medya ünlüsü Andrew Tate ve kardeşi Tristan Tate, tecavüz ve insan ticareti de dahil olmak üzere yeni suçlamalar nedeniyle İngiltere'ye iade sürecinin başlaması için Miami'de federal mahkemeye çıktı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cp3015ddwnqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 19:54:26 GMT"
-    },
-    {
-      "title": "DEM Parti heyeti Öcalan'la görüşmek için İmralı'ya gitti",
-      "summary": "DEM Parti İmralı Heyeti, PKK lideri Abdullah Öcalan'la görüşmek için İmralı adasına gitti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c9v4nz2e7nxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 14:59:36 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c8xnp8e8kv1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 20 Jul 2026 22:42:49 GMT"
     },
     {
       "title": "Beş yılda 16 şampiyonluk: İspanya futbolda nasıl bu kadar baskın hale geldi?",
@@ -50,46 +50,54 @@
       "publishedAt": "Mon, 20 Jul 2026 11:17:04 GMT"
     },
     {
+      "title": "Terörsüz Türkiye'de gözler yasal düzenlemede. Süreç yasası ne zaman çıkacak?",
+      "summary": "NTV'nin edindiği bilgiye göre, Terörsüz Türkiye sürecinde \"Çerçeve Yasa\" için 15 Ağustos günü öne çıkıyor. PKK, ilk silahlı terör eylemini 15 Ağustos 1984'te yapmıştı. Kanunun 15 Ağustos'ta çıkarılarak, \"Terörün başladığı tarihte, PKK sona ",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-21T05:12:45+03:00"
+    },
+    {
+      "title": "10 kişi belediye otobüsü şoförüne saldırdı. Camdan girip şoförü hastanelik ettiler",
+      "summary": "Adana'da, Büyükşehir Belediyesi'ne ait halk otobüsünün şoförü, yaklaşık 10 kişilik bir grubun saldırısına uğradı. Otobüsün camlarından içeri giren grup şoförü hastanelik etti. Polis saldırganları yakalamak için çalışma başlattı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-21T02:36:57+03:00"
+    },
+    {
+      "title": "10 kişi belediye otobüsü şoförüne saldırdı",
+      "summary": "Adana'da, Büyükşehir Belediyesi'ne ait halk otobüsünün şoförü, yaklaşık 10 kişilik bir grubun saldırısına uğradı. Otobüsün camlarından içeri giren grup şoförü hastanelik etti. Olay anı cep telefonu ile kaydedildi. Polis saldırganları yakala",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-21T02:33:48+03:00"
+    },
+    {
+      "title": "Sahipli köpeği zehirleyip direğe astılar",
+      "summary": "Hatay'da sahipli Belçika kurdu cinsi köpek, zehirlendikten sonra elektrik direğine asılarak telef edildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-21T01:30:14+03:00"
+    },
+    {
       "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Temmuz 2026",
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-21T00:30:00+03:00"
+      "publishedAt": "2026-07-21T05:00:00+03:00"
     },
     {
       "title": "Erdoğan’dan Cambridge Merkez Camisi mesajı",
       "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İngiltere Kralı 3. Charles'ın Cambridge Merkez Camisi'ne yaptığı ziyareti çok kıymetli bulduğunu belirterek, İslam karşıtlığı ve kültürel ırkçılığın küresel ölçekte tırmandığı bir dönemde Kral'ın ziyareti",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-20T23:02:38+03:00"
+      "publishedAt": "2026-07-21T02:22:31+03:00"
     },
     {
-      "title": "Bakan Gürlek'in talimatıyla 81 ilde ‘Terör Suçları Soruşturma Büroları’ kurulacak",
-      "summary": "Adalet Bakanı Akın Gürlek’in talimatıyla 81 ildeki 175 ağır ceza cumhuriyet başsavcılığına gönderilen yazıyla, il Cumhuriyet başsavcılıkları bünyesinde müstakil ‘Terör Suçları Soruşturma Büroları’ kurulması istendi.",
-      "source": "NTV",
+      "title": "Ankara'da büyük kesinti!",
+      "summary": "Ankara'da yaşayan binlerce vatandaşı ilgilendiren planlı su kesintisi uyarısı geldi. ASKİ'nin duyurusuna göre, 21 Temmuz Salı günü ana içme suyu iletim hattında yapılacak bakım ve onarım çalışmaları nedeniyle başkentin bazı ilçe ve mahallel",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-20T22:50:01+03:00"
-    },
-    {
-      "title": "MİT tarafından bulundu. Kırmızı bültenle aranan şüpheli Bodrum’da yakalandı",
-      "summary": "INTERPOL tarafından hakkında uyuşturucu ticareti suçundan kırmızı bültenle arama kaydı bulunan Mikail Kaan, Milli İstihbarat Teşkilatı (MİT) ve emniyetin düzenlediği ortak operasyonla Bodrum’da yakalandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-20T22:21:19+03:00"
-    },
-    {
-      "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Kıbrıs hiçbir zaman bir Rum adası olmayacaktır",
-      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Türkiye'nin yer almadığı, Kıbrıs Türkünün haklarının ve Doğu Akdeniz'deki meşru çıkarlarımızın yok sayıldığı hiçbir girişimin başarıya ulaşamayacağı bilinmelidir.\" dedi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-20T20:56:05+03:00"
-    },
-    {
-      "title": "Numan Kurtulmuş, Kılıçdaroğlu ile görüşecek",
-      "summary": "TBMM Başkanı Numan Kurtulmuş salı günü CHP Genel Başkanı Kemal Kılıçdaroğlu ile görüşecek.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-21T00:56:21+03:00"
+      "link": "https://www.haberturk.com/ankara-da-buyuk-kesinti-aski-21-temmuz-ankara-da-sular-ne-zaman-gelecek-hangi-ilcelerde-sular-kesilecek-3899832",
+      "publishedAt": "Mon, 20 Jul 2026 22:11:34 GMT"
     },
     {
       "title": "Çılgın Sayısal Loto sonuçları açıklandı!",
@@ -132,20 +140,12 @@
       "publishedAt": "Mon, 20 Jul 2026 21:31:03 GMT"
     },
     {
-      "title": "Asgari ücrete ara zam gelecek mi?",
-      "summary": "Temmuz 2026 itibarıyla milyonlarca çalışanı yakından ilgilendiren asgari ücret ara zammı gündemdeki yerini koruyor. Enflasyon verileri ve ekonomik gelişmeler doğrultusunda \"Asgari ücrete ara zam yapılacak mı?\", \"Temmuzda asgari ücret artaca",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/asgari-ucret-ara-zammi-yeni-2026-asgari-ucrete-yeni-model-mi-geliyor-ara-zam-gelecek-mi-net-asgari-ucret-ne-kadar-olacak-3899782",
-      "publishedAt": "Mon, 20 Jul 2026 21:30:48 GMT"
-    },
-    {
-      "title": "Trump imposes 50% tariff on Canadian imports",
-      "summary": "The duties take effect within 30 days and mark a major escalation in trade tensions between the North American neighbours.",
+      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 21:51:55 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 00:34:47 GMT"
     },
     {
       "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
@@ -153,7 +153,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 20 Jul 2026 21:09:31 GMT"
+      "publishedAt": "Tue, 21 Jul 2026 01:51:15 GMT"
     },
     {
       "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
@@ -188,52 +188,76 @@
       "publishedAt": "Mon, 20 Jul 2026 12:57:32 GMT"
     },
     {
-      "title": "Albanian protesters pelt lawmakers’ cars over resort projects",
-      "summary": "Protesters threw eggs at lawmakers' vehicles outside Albania's parliament, demanding changes to laws.",
+      "title": "Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny",
+      "summary": "Authorities detain ferry crew members after drug tests reveal violations in Guyana's worst marine disaster in decades.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/albanian-protesters-pelt-lawmakers-cars-over-resort-projects?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 21:19:41 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 01:47:30 +0000"
     },
     {
-      "title": "FIFA investigating on-pitch brawl after Spain vs Argentina World Cup final",
-      "summary": "Argentina's Paredes was seen shoving Spanish players, which led to an on-field melee, while Spain's Yamal prayed calmly.",
+      "title": "Why protests are growing in Ukraine over defence leadership and dismissals",
+      "summary": "Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/20/fifa-investigating-on-pitch-brawl-after-spain-vs-argentina-world-cup-final?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 21:12:22 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_protests-in-kyiv-over-defence-minister-dismissal-200726?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 01:27:56 +0000"
     },
     {
-      "title": "Trump rejects Mamdani threat to arrest Israel’s Netanyahu for war crimes",
-      "summary": "US president insists Netanyahu will not be arrested, despite ICC warrant.",
+      "title": "Tate brothers vow to fight extradition as they appear at court in Miami",
+      "summary": "Controversial ‘manosphere’ influencers Andrew and Tristan Tate appeared at a federal court hearing in Miami.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 21:06:42 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/tate-brothers-vow-to-fight-extradition-as-they-appear-at-court-in-miami?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 00:58:10 +0000"
     },
     {
-      "title": "King of Spain celebrates World Cup winners in Madrid",
-      "summary": "Spain’s World Cup-winning team received a royal reception from King Felipe VI in Madrid ahead of a victory parade.",
+      "title": "Trump imposes 50% US tariffs on some Canadian goods, citing discrimination",
+      "summary": "Tariffs apply to Canadian wine, hockey sticks, cement, and other products, sparking fears of escalating trade tensions.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/king-of-spain-celebrates-world-cup-winners-in-madrid?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 21:01:01 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 00:08:50 +0000"
     },
     {
-      "title": "Gaza residents weigh in on election of new Hamas leader",
-      "summary": "Gaza residents weigh in on election of new Hamas leader",
+      "title": "US attacks Iran for 10th consecutive night",
+      "summary": "Washington vows revenge for US military casualties, while Iran claims attacks on US sites across the region.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 20:53:29 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 00:06:33 +0000"
     },
     {
-      "title": "How will Zelenskyy handle the growing political crisis at home?",
-      "summary": "Ukraine strikes Russian oil sites after major missile attack, as President Zelenskyy faces crisis over sacked minister.",
+      "title": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
+      "summary": "Explosions reported in Iran's Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss",
-      "publishedAt": "Mon, 20 Jul 2026 20:50:31 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
+      "publishedAt": "Tue, 21 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "title": "FDA still focused on Taylor Farms lettuce as Cyclospora source despite retracted test",
+      "summary": "The FDA says lettuce distributed by Taylor Fresh Foods and Taylor Farms de Mexico is still linked to the multistate outbreak of cyclosporiasis. But the source may be difficult to definitively trace.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5901356/fda-focused-taylor-farms-lettuce-cyclospora-source-despite-retracted-test",
+      "publishedAt": "Mon, 20 Jul 2026 20:36:28 -0400"
+    },
+    {
+      "title": "At Mississippi funeral, Civil Rights leaders call for justice for Nolan Wells, 18",
+      "summary": "The parents of Nolan Wells, who was found dead on Horn Island in Mississippi, will hold a funeral for the 18-year-old on Monday. Wells was with friends for the Fourth of July and did not return home.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5897559/nolan-wells-sharpton-crump-funeral",
+      "publishedAt": "Mon, 20 Jul 2026 16:55:52 -0400"
+    },
+    {
+      "title": "World Cup: Spain's homecoming heroes",
+      "summary": "A nation celebrates as Spain's World Cup champions come home to a hero's welcome.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/20/nx-s1-5900868/world-cup-spains-homecoming-heroes",
+      "publishedAt": "Mon, 20 Jul 2026 16:50:42 -0400"
     },
     {
       "title": "10 things that wowed us at the 2026 World Cup",
@@ -258,30 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/20/nx-s1-5889515/india-gen-z-cockroach-party-protests",
       "publishedAt": "Mon, 20 Jul 2026 12:36:04 -0400"
-    },
-    {
-      "title": "Putin meets North Korean foreign minister in diplomatic push",
-      "summary": "The visit by North Korean Foreign Minister Choe Son Hui comes without an obvious occasion, such as a multilateral diplomatic event or state anniversary, and has raised speculation that she may be coordinating a possible visit to Russia by N",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
-      "publishedAt": "Mon, 20 Jul 2026 09:18:51 -0400"
-    },
-    {
-      "title": "3 U.S. personnel killed in Iran conflict. And, Hunter Biden opens up to NPR",
-      "summary": "Three U.S. service members have been killed since Friday amid rising tension between the U.S. and Iran. And, Hunter Biden talks to NPR's Newsmakers about addiction and public scrutiny.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/20/g-s1-134553/up-first-newsletter-iran-us-service-members-hunter-biden",
-      "publishedAt": "Mon, 20 Jul 2026 07:40:28 -0400"
-    },
-    {
-      "title": "At least 930 people have died in Congo's Ebola outbreak",
-      "summary": "Congo's health ministry said the deaths were recorded out of the 2,344 cases confirmed as of Saturday. Thirty-seven new deaths were recorded in the previous 24 hours in one of the highest totals.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
-      "publishedAt": "Mon, 20 Jul 2026 06:36:08 -0400"
     },
     {
       "title": "São Tomé and Príncipe heads to polls in tense presidential election",
@@ -316,17 +316,7 @@
       "publishedAt": "Thu, 16 Jul 2026 15:20:58 GMT"
     }
   ],
-  "sports": [
-    {
-      "league": "World Cup",
-      "home": "Spain",
-      "away": "Argentina",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-07-19"
-    }
-  ],
+  "sports": [],
   "weather": [
     {
       "place": "İstanbul",
@@ -337,10 +327,10 @@
     },
     {
       "place": "London",
-      "tempC": 20,
-      "description": "mainly clear",
-      "high": 26,
-      "low": 13
+      "tempC": 17,
+      "description": "clear sky",
+      "high": 25,
+      "low": 16
     }
   ],
   "facts": [
