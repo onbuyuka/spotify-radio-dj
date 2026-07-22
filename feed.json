@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T02:22:54.889Z",
+  "updated": "2026-07-22T05:46:50.204Z",
   "news": [
     {
       "title": "Kurtulmuş tura çıktı, çerçeve yasada hedef netleşti: 'Teklif Meclis kapanmadan yasalaşacak'",
@@ -10,20 +10,20 @@
       "publishedAt": "Tue, 21 Jul 2026 17:35:02 GMT"
     },
     {
+      "title": "İran Hürmüz Boğazı konusunda neden bu kadar büyük risk alıyor?",
+      "summary": "İran’ın liderlerinin önündeki seçeneklerin hiçbiri, ABD ile çatışma sürerken zafere giden net bir yol sunmuyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c9w0lxvkw5wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 02:34:18 GMT"
+    },
+    {
       "title": "Özgür Özel'den CHP'ye veda: 'Yeni partimizi kuruyoruz'",
       "summary": "Özgür Özel, kendisi dahil 83 milletvekilinin bulunduğu grup toplantısında Cumhuriyet Halk Partisi'ne veda konuşması yaptı ve \"Yeni partimizi kuruyoruz\" dedi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cm2glz2n6v5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 21 Jul 2026 15:42:22 GMT"
-    },
-    {
-      "title": "ABD Savunma Bakanı: 'İran savaşı şu ana kadar ABD'ye 37,5 milyar dolara mal oldu'",
-      "summary": "ABD Savunma Bakanı Pete Hegseth, İran ile savaşın şu ana kadar ABD'ye yaklaşık 37,5 milyar dolara (yaklaşık 1 trilyon 770 milyar TL) mal olduğunu söyledi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 23:03:50 GMT"
     },
     {
       "title": "Araştırma: Büyük insansı maymunlar huzuru korumak için öpüşüp sarılıyorlar",
@@ -42,19 +42,40 @@
       "publishedAt": "Tue, 21 Jul 2026 23:09:03 GMT"
     },
     {
-      "title": "NATO Zirvesi öncesi tutuklanan TEMA gönüllülerine tahliye",
-      "summary": "Ankara'da 7-8 Temmuz'da düzenlenen NATO Zirvesi öncesinde tutuklanan Doç. Dr. Emel Memiş dahil yedi TEMA Vakfı gönüllüsü ile Umut-Sen Sözcüsü Burcu Arıkan hakkında tahliye kararı verildi.",
+      "title": "ABD Savunma Bakanı: 'İran savaşı şu ana kadar ABD'ye 37,5 milyar dolara mal oldu'",
+      "summary": "ABD Savunma Bakanı Pete Hegseth, İran ile savaşın şu ana kadar ABD'ye yaklaşık 37,5 milyar dolara (yaklaşık 1 trilyon 770 milyar TL) mal olduğunu söyledi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cwyd855ee7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 22:02:52 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c935gy0rd2vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 04:33:51 GMT"
+    },
+    {
+      "title": "Kütahya'da yolcu otobüsü devrildi. 31 kişi yaralandı",
+      "summary": "Kütahya'da bariyerlere çarpan yolcu otobüsü devrildi. Kazada ilk belirlemelere göre 31 kişi yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-22T08:25:27+03:00"
+    },
+    {
+      "title": "Karabük'te kadın cinayeti. Tutku Burcu Köseoğlu'nu birlikte yaşadığı kişi öldürdü",
+      "summary": "Gece saatlerinde Karabük'ten bir kadın cinayeti haberi geldi. Tutku Burcu Köseoğlu'nu, birlikte yaşadığı kişi boğazını keserek öldürdü.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-22T06:54:00+03:00"
+    },
+    {
+      "title": "CHP, İstanbul’da 7 ilçe yönetimini görevden aldı",
+      "summary": "Cumhuriyet Halk Partisi (CHP) İstanbul İl Başkanı Gürsel Tekin, İstanbul’da 7 ilçe başkanı ve yönetiminin görevden alındığını duyurdu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-22T06:47:41+03:00"
     },
     {
       "title": "TBMM okul saldırılarını araştırıyor. Öğrenci ve velilere risk taraması",
-      "summary": "Kahramanmaraş ve Şanlıurfa okul saldırılarını araştırma komisyonu çalışmalarını sürdürüyor. Son olarak Aile ve Sosyal Hizmetler Bakanlığı, Sağlık Bakanlığı, Adalet Bakanlığı, Ulaştırma ve Altyapı Bakanlığı ile Gençlik ve Spor Bakanlığı yetk",
+      "summary": "Kahramanmaraş ve Şanlıurfa okul saldırılarını araştırma komisyonunun çalışma süresi bir ay daha uzatıldı. Son olarak Aile ve Sosyal Hizmetler Bakanlığı, Sağlık Bakanlığı, Adalet Bakanlığı, Ulaştırma ve Altyapı Bakanlığı ile Gençlik ve Spor ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-22T05:05:17+03:00"
+      "publishedAt": "2026-07-22T05:40:50+03:00"
     },
     {
       "title": "İstanbul'da yağmur bugün başlıyor, sıcaklık 8 derece düşecek! Trakya, Karadeniz ve İç Anadolu'da sel riski",
@@ -71,25 +92,20 @@
       "publishedAt": "2026-07-22T03:01:41+03:00"
     },
     {
-      "title": "Eskişehir’de TUSAŞ fabrikasında yangın",
-      "summary": "Eskişehir’deki TUSAŞ Motor Sanayii (TEI) tesislerinde çıkan yangın ekiplerin müdahalesiyle kontrol altına alındı. Savunma Sanayii Başkanı Haluk Görgün, olayda herhangi bir can kaybı yaşanmadığını vurgularken, tesis içinde soğutma çalışmalar",
-      "source": "NTV",
+      "title": "22 Temmuz deprem mi oldu?",
+      "summary": "AFAD ve Kandilli Rasathanesi tarafından paylaşılan son deprem verileri, 22 Temmuz 2026 Çarşamba günü de vatandaşlar tarafından yakından takip ediliyor. Gün içerisinde hissedilen sarsıntıların ardından \"Az önce deprem mi oldu?\", \"Deprem nere",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-22T02:09:39+03:00"
+      "link": "https://www.haberturk.com/gunun-depremleri-son-dakika-22-temmuz-deprem-mi-oldu-nerede-kac-buyuklugunde-afad-kandilli-son-depremler-3900136",
+      "publishedAt": "Wed, 22 Jul 2026 05:23:15 GMT"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Temmuz 2026",
-      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
-      "source": "NTV",
+      "title": "Hindistan'da \"Hamam Böceği Halk Partisi\" protestoları",
+      "summary": "Hindistan'da gençler tarafından kurulan \"Hamam Böceği Halk Partisi\" (Cockroach Janta Party) adlı siyasi hareketin başlattığı protestolar sürüyor. Binlerce kişinin düzenlediği protestoda, 118 polis yaralandı, yaklaşık 70 protestocu gözaltına",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-22T05:00:00+03:00"
-    },
-    {
-      "title": "Türk askerinin Somali'deki görev süresi 2 yıl daha uzatıldı",
-      "summary": "TBMM Genel Kurulu'nda, Türk Silahlı Kuvvetleri (TSK) unsurlarının Somali'nin terörizm ve diğer tehditlere karşı güvenliğinin sağlanması faaliyetlerine destek amacıyla bu ülkede 27 Temmuz 2026'dan itibaren 2 yıl süreyle daha görevlendirilmes",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-21T22:20:51+03:00"
+      "link": "https://www.haberturk.com/hindistan-da-hamam-bocegi-halk-partisi-protestolari-3900133",
+      "publishedAt": "Wed, 22 Jul 2026 04:41:10 GMT"
     },
     {
       "title": "Albayrak Hazır Beton talep toplam tarihleri",
@@ -124,116 +140,108 @@
       "publishedAt": "Tue, 21 Jul 2026 22:45:05 GMT"
     },
     {
-      "title": "600-700-800 bin sıralama ile hangi bölümlere girilir?",
-      "summary": "YKS sonuçlarının açıklanmasının ardından tercih maratonu gündeme geldi. Puan ve başarı sıralamalarını öğrenen adaylar, özellikle 600 bin, 700 bin, 800 bin, 1 milyon ve 2 milyon başarı sıralamasıyla hangi üniversite ve bölümlerin tercih edil",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/600-700-800-bin-siralama-ile-hangi-bolumlere-girilir-yks-1-milyon-siralama-ile-alim-yapan-bolumler-listesi-3899976",
-      "publishedAt": "Tue, 21 Jul 2026 21:59:34 GMT"
-    },
-    {
-      "title": "YÖK ATLAS hukuk taban puanları",
-      "summary": "YKS sonuçlarının açıklanmasının ardından hukuk fakültesinde eğitim almak isteyen adaylar için tercih süreci heyecanı başladı. Üniversitelerin hukuk bölümü taban puanları, başarı sıralamaları ve kontenjan bilgileri, tercih döneminde adayları",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/hukuk-taban-puanlari-2026-yks-hukuk-bolumu-guncel-siralama-kontenjan-ve-basari-puanlari-3899964",
-      "publishedAt": "Tue, 21 Jul 2026 21:58:06 GMT"
-    },
-    {
       "title": "Zelensky sacks Ukraine's top army commander after days of protests",
       "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 23:59:34 GMT"
+      "publishedAt": "Wed, 22 Jul 2026 05:37:43 GMT"
     },
     {
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
+      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "summary": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 18:07:34 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 03:05:08 GMT"
     },
     {
-      "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "title": "France passes law banning under-15s from social media",
+      "summary": "The law will require social media platforms in France to verify all users age from January.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 17:33:22 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 03:50:55 GMT"
     },
     {
-      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
+      "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+      "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 12:48:37 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 21 Jul 2026 22:26:19 GMT"
     },
     {
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
+      "summary": "Officials say the restaurant in South Korea used some 49,000 ants in various dishes over four years.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 16:10:56 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 03:32:56 GMT"
     },
     {
-      "title": "Israeli strikes in Gaza kill 12, including family of six, medics say",
-      "summary": "Firas al-Masri, his wife and their four children died in one attack, which the Israeli military says targeted a Hamas operative.",
+      "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
+      "summary": "The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 21 Jul 2026 15:54:11 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 22 Jul 2026 02:33:11 GMT"
     },
     {
-      "title": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak",
-      "summary": "US officials claim evidence points to lettuce grown in Mexico, which Mexico's Health Ministry disputes.",
+      "title": "Goats of football: Indian village holds tournament with an Indigenous twist",
+      "summary": "In a remote district surrounded by forests and hills, teams from tribal villages compete for football glory - and goats.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak?traffic_source=rss",
-      "publishedAt": "Wed, 22 Jul 2026 02:01:28 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/22/goats-of-football-indian-village-holds-tournament-with-an-indigenous-twist?traffic_source=rss",
+      "publishedAt": "Wed, 22 Jul 2026 05:19:05 +0000"
     },
     {
-      "title": "Desperate families search rubble weeks after Venezuela earthquakes",
-      "summary": "Families in Venezuela search through the rubble of their homes, weeks after the 7.2 and 7.5 magnitude earthquakes hit.",
+      "title": "US expands strikes on 11th straight night of attacks",
+      "summary": "The US military’s 11th consecutive night of strikes extended to Iranian provinces not previously hit.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/desperate-families-search-rubble-weeks-after-venezuela-earthquakes?traffic_source=rss",
-      "publishedAt": "Wed, 22 Jul 2026 01:45:35 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss",
+      "publishedAt": "Wed, 22 Jul 2026 05:05:25 +0000"
     },
     {
-      "title": "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon",
-      "summary": "Gavito: Israel will likely keep pushing limits in Lebanon, making a full withdrawal unlikely amid security concerns.",
+      "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
+      "summary": "US Defense Secretary Pete Hegseth gets into a heated exchange after being called a failed leader by Michigan Senator.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_gavito-cant-see-pilot-zones-working-in-lebanon-210726?traffic_source=rss",
-      "publishedAt": "Wed, 22 Jul 2026 01:21:29 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
+      "publishedAt": "Wed, 22 Jul 2026 05:02:51 +0000"
     },
     {
-      "title": "Leopard caught on camera storming into a store in Rajasthan, India",
-      "summary": "A leopard storms into a store in Rajasthan, India, attacking an employee and causing panic.",
+      "title": "Guyana ferry capsize death toll rises to 53 as survivors describe terror",
+      "summary": "A ferry capsized in Guyana over the weekend, killing at least 53 people.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/leopard-caught-on-camera-storming-into-a-store-in-rajasthan-india?traffic_source=rss",
-      "publishedAt": "Wed, 22 Jul 2026 01:17:06 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/guyana-ferry-capsize-death-toll-rises-to-53-as-survivors-describe-terror?traffic_source=rss",
+      "publishedAt": "Wed, 22 Jul 2026 04:47:35 +0000"
     },
     {
-      "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
-      "summary": "Trump threatens to bomb a suspected Iranian nuclear site called Pickaxe Mountain 'very heavily'.",
+      "title": "Mamdani: Netanyahu is a war criminal, but New York cannot arrest him",
+      "summary": "NYC Mayor Zohran Mamdani releases a video statement calling for Israeli PM Netanyahu to face trial for war crimes.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
-      "publishedAt": "Wed, 22 Jul 2026 00:00:15 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_new-yorks-mayor-calls-netanyahu-a-war-criminal-210726?traffic_source=rss",
+      "publishedAt": "Wed, 22 Jul 2026 04:07:58 +0000"
     },
     {
-      "title": "US attacks Iran for 11th consecutive night",
-      "summary": "Explosions reported in northwestern Iran's Tabriz, capital Tehran and across southern Iran.",
+      "title": "Palestine weekly: Ahead of elections, Israel doubles down on attacks",
+      "summary": "Gaza mourns as families are buried after Israeli attacks leave dozens dead, including children and displaced families.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
-      "publishedAt": "Tue, 21 Jul 2026 23:46:00 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss",
+      "publishedAt": "Wed, 22 Jul 2026 03:46:11 +0000"
+    },
+    {
+      "title": "Staying in a job for the health insurance? About 1 in 4 Americans do, a survey says",
+      "summary": "About 24% of U.S. employees stay in unwanted jobs just for health insurance, a report out Wednesday finds. Up significantly since 2021, the uptick in \"job lock\" is a concerning sign for the U.S. economy.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/22/nx-s1-5902333/health-insurance-jobs-gallup",
+      "publishedAt": "Wed, 22 Jul 2026 00:01:00 -0400"
     },
     {
       "title": "House votes to extend government funding, aiming to avoid an election year shutdown",
@@ -276,14 +284,6 @@
       "publishedAt": "Tue, 21 Jul 2026 14:00:52 -0400"
     },
     {
-      "title": "The best games of 2026 so far, picked by NPR's staff",
-      "summary": "Titans like Resident Evil Requiem and Crimson Desert dominated in the first half of the gaming year, with early-access sequels like Slay the Spire 2 and Subnautica 2 not far behind.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
-      "publishedAt": "Tue, 21 Jul 2026 09:00:00 -0400"
-    },
-    {
       "title": "Health worker monitored for Ebola in London hospital after working in DRC",
       "summary": "UK resident was evacuated from Democratic Republic of the Congo where there is an outbreak of the diseaseA humanitarian worker is being monitored at a specialist hospital in London after potential exposure to the Ebola virus.The UK resident",
       "source": "The Guardian",
@@ -320,17 +320,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 23,
-      "description": "clear sky",
-      "high": 31,
+      "tempC": 25,
+      "description": "mainly clear",
+      "high": 32,
       "low": 23
     },
     {
       "place": "London",
-      "tempC": 18,
-      "description": "mainly clear",
+      "tempC": 17,
+      "description": "partly cloudy",
       "high": 27,
-      "low": 18
+      "low": 17
     }
   ],
   "facts": [
