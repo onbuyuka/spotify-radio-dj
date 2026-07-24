@@ -1,13 +1,29 @@
 {
-  "updated": "2026-07-24T08:22:25.704Z",
+  "updated": "2026-07-24T11:01:27.297Z",
   "news": [
     {
-      "title": "Özgür Özel dahil 91 milletvekili CHP'den istifa ederek Yeni Parti'yi kurdu",
-      "summary": "Özel, 90 milletvekiliyle birlikte Yeni Parti'nin kuruluş evraklarını imzalayarak CHP'den den istifa etti. Yeni Parti'nin kuruluş dilekçesi bugün İçişleri Bakanlığı'na verilecek.",
+      "title": "Özgür Özel'den kuruluş sonrası ilk paylaşım: 'YENİ Parti'yi kuran, milletimizdir'",
+      "summary": "Özel, 90 milletvekiliyle birlikte Yeni Parti'nin kuruluş evraklarını imzalayarak CHP'den den istifa etti. Yeni Parti'nin kuruluş dilekçesi de İçişleri Bakanlığı'na verildi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c0jlnyg5v8po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 24 Jul 2026 08:10:07 GMT"
+    },
+    {
+      "title": "Yedi soruda Özgür Özel'in liderliğindeki 'Yeni Parti' hakkında bilinenler",
+      "summary": "Özgür Özel, 24 Temmuz Cuma günü Yeni Parti'nin kuruluş evraklarını imzalayarak Cumhuriyet Halk Partisi'nden istifa etti. 'Yeni Parti' ile ilgili merak edilen soruları ve yanıtları derledik.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c14103pz2y1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 08:35:57 GMT"
+    },
+    {
+      "title": "Fransa'da orman yangınlarından denizden kaçış, binlerce kişiye tahliye",
+      "summary": "İspanya hükümeti, orman yangınları nedeniyle Madrid ve komşu Avila'da ulusal acil durum ilan etti. Yangınlar, sıcak ve kuru hava koşullarında hızla yayılıyor. Başkentin çevresinde on bin kişi tahliye edildi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cdx71e1g114o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 10:05:47 GMT"
     },
     {
       "title": "Beş soruda Lozan Barış Antlaşması: Gizli maddeleri ve geçerlilik süresi var mı?",
@@ -18,6 +34,14 @@
       "publishedAt": "Fri, 24 Jul 2026 00:23:31 GMT"
     },
     {
+      "title": "Klopp Almanya'nın başına geçti, Pep İtalya'yı reddetti",
+      "summary": "Almanya Futbol Federasyonu (DFB) Cuma günü yaptığı açıklamada, eski Liverpool teknik direktörü Jurgen Klopp'un Almanya milli takımının başına getirildiğini duyurdu.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c3w01qvq0g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 10:13:49 GMT"
+    },
+    {
       "title": "ABD, Türkiye'nin de aralarında olduğu 60 ülkeye yeni gümrük vergileri getirdi",
       "summary": "ABD, zorunlu işçiliği durdurmadıkları gerekçesiyle, ithalatının büyük çoğunluğunu oluşturan 60 ticaret ortağına yeni gümrük vergileri uyguladı. Bu ülkeler arasında Türkiye de var.",
       "source": "BBC Türkçe",
@@ -26,134 +50,118 @@
       "publishedAt": "Fri, 24 Jul 2026 06:55:14 GMT"
     },
     {
-      "title": "Trump: Nükleer anlaşma için Suudiler İsrail'i tanımalı",
-      "summary": "ABD Başkanı Donald Trump, ülkesi ile Suudi Arabistan arasındaki tarihi nükleer anlaşmanın, Riyad'ın İsrail'i tanımasına bağlı olduğunu duyurdu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c9q9jvwdxnwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 19:08:58 GMT"
-    },
-    {
-      "title": "Aşırı sıcaklar ruh sağlığını olumsuz etkileyebilir, başa çıkma yolları neler?",
-      "summary": "Bir araştırmaya göre, aşırı sıcaklar ruh sağlığını olumsuz etkileyebilir ve gençler ile kadınlar en çok risk altında olan gruplar arasında yer alıyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cn4nm9kk4w8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 01:33:00 GMT"
-    },
-    {
-      "title": "Türkiye ekonomisini yılın kalanında neler bekliyor?",
-      "summary": "2026 boyunca faiz indirmesi beklenen Merkez Bankası, İran savaşının hemen ardından efektif politika faizini üç puan yükselterek koridorun üst bandına çıkardı. Koç Üniversitesi Öğretim Üyesi Prof. Dr. Selva Demiralp, Türkiye ekonomisini yılı",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cqlxdxwwze0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 01:44:19 GMT"
-    },
-    {
-      "title": "İşte Yeni Parti'nin logosu",
-      "summary": "Özgür Özel'in CHP'den istifa ederek kuruluş dilekçesini imzaladığı Yeni Parti'nin logosu ortaya çıktı.",
+      "title": "Yeni Parti'ye katılan 91 milletvekili belli oldu. CHP'de kalanlar da netleşti",
+      "summary": "CHP'den istifa eden 91 milletvekili Yeni Parti Kurucular Kurulu'na katıldı. Yeni Parti'de kalan 91 milletvekili ile CHP'de kalan 44 milletvekilinin isimleri belli oldu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-24T11:12:51+03:00"
+      "publishedAt": "2026-07-24T13:57:47+03:00"
     },
     {
-      "title": "Her markette satılıyor, ünlü markanın peynirinde çıktığı iddia ediliyor. Listeria bakterisi nedir, belirtileri nelerdir?",
-      "summary": "Türkiye genelinde hemen hemen her markette satılan ünlü peynir markasının peynirinde listeria bakterisi çıktığı iddia edildi. Peki, listeria bakterisi nedir, belirtileri nelerdir?",
+      "title": "Yeni Parti ilk toplantısını Anadolu Kulübü'nde yapacak. Anadolu Kulübü neden önemli?",
+      "summary": "Yeni Parti ilk önemli toplantısını Kızılay'daki Anadolu Kulübü'nde yapacak. Mustafa Kemal Atatürk'ün emriyle kurulan Anadolu Kulübü'nün sembolik bir önemi var.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-24T10:40:23+03:00"
+      "publishedAt": "2026-07-24T13:33:04+03:00"
     },
     {
-      "title": "İstanbul'da eski tribün liderine silahlı saldırı",
-      "summary": "Beşiktaş'ta taraftar oluşumu Çarşı'nın \"Deplasman Kartalları\" adı verilen grubunun eski liderlerinden Kemal Ulhanlı silahlı saldırıya uğradı.",
+      "title": "Fırtınada korku dolu an. Balıkçıları izindeki itfaiye amiri kurtardı",
+      "summary": "İstanbul'da dört amatör balıkçı fırtına esnasında Büyükçekmece Gölü'nde mahsur kaldı. Balıkçıları izin gününde itfaiye amiri kurtardı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-24T10:37:36+03:00"
+      "publishedAt": "2026-07-24T13:06:21+03:00"
     },
     {
-      "title": "Yavru Pomeranian köpekleri koltuğun altından çıktı",
-      "summary": "Kapıkule Sınır Kapısı'nda bir aracın arka koltuğunun altında yurda yasa dışı yollarla sokulmak istenen yavru köpekler ele geçirildi.",
+      "title": "Cumhurbaşkanı Erdoğan: Ayasofya'nın dirilişi mübarek olsun",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ayasofya-i Kebir Cami-i Şerifi'nin yeniden ibadete açılışının 6'ncı yıl dönümünü kutladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-24T09:44:49+03:00"
+      "publishedAt": "2026-07-24T13:04:17+03:00"
     },
     {
-      "title": "İstanbullular merakla bekliyordu, açıklama geldi. M7 metro hattı ne zaman açılacak?",
-      "summary": "İstanbul'da M7 Yıldız-Mahmutbey Metro Hattı'nın Mecidiyeköy istasyonundaki onarım çalışmaları devam ederken istasyonun yıl sonuna kadar açılacağı bildirildi. Öte yandan İstanbul Büyükşehir Belediyesi'nden (İBB) açıklamaya göre çalışmalar ne",
+      "title": "Kılıçdaroğlu'ndan CHP'deki istifalar sonrası ilk paylaşım",
+      "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, Özgür Özel ve beraberindeki 90 milletvekilinin partiden istifasının ardından bir paylaşım yaptı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-24T09:19:43+03:00"
+      "publishedAt": "2026-07-24T12:56:45+03:00"
     },
     {
-      "title": "Özgür Özel ve 90 milletvekili CHP'den istifa etti. Yeni Parti resmen kuruluyor",
-      "summary": "Özgür Özel ile beraberindeki 90 milletvekili, CHP'den istifa etti ve Yeni Parti'nin kuruluş dilekçesini imzalayarak İçişleri Bakanlığı'na teslim etti.",
+      "title": "İstanbul'da hareketli anlar. Elinde bıçakla ailesini rehin aldı",
+      "summary": "İstanbul'da madde bağımlısı olduğu ileri sürülen bir kişi elinde bıçakla ailesini rehin aldı. Saldırgan özel harekat polisleri tarafından etkisiz hale getirildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-24T11:16:17+03:00"
+      "publishedAt": "2026-07-24T12:04:41+03:00"
     },
     {
-      "title": "Cumhuriyet tarihinin en yüksek rekolte beklentisi",
-      "summary": "Türkiye'de tarım alanlarının yoğun yağış alması, rekolte beklentilerini yükseltti. Hububat hasadının Cumhuriyet tarihindeki en yüksek rekoltelere ulaştığını rakamlarla açıklayan Ulusal Hububat Konseyi Araştırma ve Danışma Kurulu Üyesi Prof.",
+      "title": "DGS 2026 sınav sonuçları ne zaman açıklanacak?",
+      "summary": "DGS sonuçları için adayların heyecanlı bekleyişi sürüyor. ÖSYM tarafından gerçekleştirilen Dikey Geçiş Sınavı’na katılan binlerce kişi, lisans programlarına geçiş sürecinde önemli bir aşama olan sonuç açıklama tarihini araştırıyor. Peki DGS",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/cumhuriyet-tarihinin-en-yuksek-rekolte-beklentisi-3900755",
-      "publishedAt": "Fri, 24 Jul 2026 07:50:15 GMT"
+      "link": "https://www.haberturk.com/dgs-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-2026-dgs-sonuc-sorgulama-giris-ekrani-3900812",
+      "publishedAt": "Fri, 24 Jul 2026 10:33:29 GMT"
     },
     {
-      "title": "Saklı Kanyon 5 ay sonra yine kurudu",
-      "summary": "Manisa'nın Şehzadeler ilçesinde bulunan Spil Dağı Milli Parkı sınırları içerisinde bulunan, kış ve ilkbaharda etkili olan yağışlarla suya kavuşan Saklı Kanyon, havaların ısınmasıyla 5 ay sonra yeniden kurudu. Olası orman yangınlarına karşı ",
+      "title": "12. Yargı Paketi maddeleri",
+      "summary": "Kamuoyunda uzun süredir gündemde yer alan 12. Yargı Paketi'nde kritik süreç tamamlandı. TBMM Genel Kurulu'nda kabul edilerek yasalaşan düzenlemenin ardından gözler Resmî Gazete'de yayımlanacağı tarihe çevrildi. Vatandaşlar ise \"12. Yargı Pa",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/sakli-kanyon-5-ay-sonra-yine-kurudu-3900748",
-      "publishedAt": "Fri, 24 Jul 2026 07:27:40 GMT"
+      "link": "https://www.haberturk.com/12-yargi-paketi-maddeleri-son-dakika-12-yargi-paketi-cikti-mi-yasalasti-mi-12-yargi-paketi-maddeleri-neler-ve-iceriginde-af-var-mi-3900805",
+      "publishedAt": "Fri, 24 Jul 2026 10:12:25 GMT"
     },
     {
-      "title": "14 günlük memur maaş farkları ne zaman yatacak?",
-      "summary": "Memur maaş farkları ödeme tarihleri, Temmuz dönemi maaş güncellemesinin ardından milyonlarca kamu çalışanının gündeminde yer alıyor. Polis, mühendis, hemşire ve diğer memurlar, oluşan 14 günlük maaş farklarının hesaplara ne zaman yatırılaca",
+      "title": "Adana'da \"kurbağa adamlar\" teyakkuzda",
+      "summary": "Adana'da Su Altı Grup Amirliği'nde görevli dalgıç polisler, yaz aylarında artış gösteren boğulma vakalarına karşı sulama kanalları başta olmak üzere birçok noktada hayat kurtarmaya çalışıyor",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/14-gunluk-maas-farki-odemeleri-hesaplara-yatmaya-basladi-polis-muhendis-hemsire-icin-memur-maas-farki-odeme-takvimi-3900745",
-      "publishedAt": "Fri, 24 Jul 2026 07:30:44 GMT"
+      "link": "https://www.haberturk.com/adana-da-kurbaga-adamlar-teyakkuzda-3900803",
+      "publishedAt": "Fri, 24 Jul 2026 10:10:05 GMT"
     },
     {
-      "title": "KPSS Lisans sınavı ne zaman?",
-      "summary": "Kamu personeli olma hedefiyle hazırlıklarını sürdüren lisans mezunları, KPSS sürecine dair detayları araştırmayı sürdürüyor. Sınav giriş belgelerinin yayımlanıp yayımlanmadığı ve sonuçların ne zaman açıklanacağı gibi başlıklar gündemin ilk ",
+      "title": "YKS tercihleri ne zaman yapılacak?",
+      "summary": "2026 YKS tercih süreci için geri sayım sürerken üniversite hayali kuran milyonlarca aday, tercih takvimi, kılavuz detayları ve sonuçların açıklanacağı tarihi yakından takip ediyor. 2 yıllık ön lisans ve 4 yıllık lisans programlarını kapsaya",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/2026-kpss-lisans-sinav-tarihleri-kpss-sinav-giris-belgesi-yayimlandi-mi-kpss-lisans-sonuclari-ne-zaman-aciklanacak-3900725",
-      "publishedAt": "Fri, 24 Jul 2026 06:52:47 GMT"
+      "link": "https://www.haberturk.com/2026-yks-tercih-donemi-basladi-mi-2-yillik-ve-4-yillik-universite-tercihleri-nereden-yapilacak-2026-yks-tercih-kilavuzu-sorgulama-ekrani-3900796",
+      "publishedAt": "Fri, 24 Jul 2026 09:54:32 GMT"
     },
     {
-      "title": "Cuma namazı nasıl kılınır?",
-      "summary": "Cuma namazı kaç rekat, nasıl kılınır ve hangi dualar okunur soruları, haftanın en önemli ibadetlerinden biri olan cuma günü öncesinde en çok araştırılan konular arasında yer alıyor. Müslümanlar için farz olan cuma namazı, hutbe ile birlikte",
+      "title": "Sevdan Bir Ateş konusu ve oyuncuları",
+      "summary": "Show TV'nin yeni sezon için hazırladığı iddialı yapımlardan Sevdan Bir Ateş, çekimlerin başlamasıyla birlikte televizyon izleyicisinin gündemine girdi. CNP Film imzasını taşıyan dizinin konusu, oyuncu kadrosu, çekim yerleri ve gerçek bir hi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/cuma-namazi-kac-rekat-cuma-namazi-nasil-kilinir-cuma-namazinda-hutbe-dinlemek-farz-mi-cuma-namazinda-hangi-dualar-okunur-3900705",
-      "publishedAt": "Fri, 24 Jul 2026 06:53:48 GMT"
+      "link": "https://www.haberturk.com/sevdan-bir-ates-konusu-ne-oyunculari-kimler-show-tv-yeni-dizisi-sevdan-bir-ates-nerede-cekiliyor-gercek-hikaye-mi-3900781",
+      "publishedAt": "Fri, 24 Jul 2026 08:53:38 GMT"
     },
     {
-      "title": "Sağlık Bakanlığı 26 bin 673 personel alımı yapıyor!",
-      "summary": "Sağlık Bakanlığı'nın 2026 yılı için duyurduğu 26 bin 673 personel alımı, sağlık sektöründe görev almak isteyen adayların gündeminde yer alıyor. Alım kapsamında başvuru tarihleri, kadro dağılımı ve branşlara ayrılacak kontenjanlar merak edil",
+      "title": "Filenin sultanları yarı final maçı ne zaman?",
+      "summary": "2026 FIVB Milletler Ligi’nde yarı finale yükselen A Milli Kadın Voleybol Takımı’nın rakibi belli oldu. Çeyrek final mücadelesinde Kanada ile karşı karşıya gelen Filenin Sultanları, güçlü rakibi karşısında sahadan 3-1’lik galibiyetle ayrılar",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/saglik-bakanligi-26-bin-673-personel-alimi-yapiyor-iste-basvuru-sartlari-tarihleri-ve-kadro-dagilimi-3900689",
-      "publishedAt": "Fri, 24 Jul 2026 05:56:12 GMT"
+      "link": "https://www.haberturk.com/filenin-sultanlari-yari-final-maci-turkiye-cin-voleybol-yari-final-maci-ne-zaman-saat-kacta-hangi-kanalda-3900773",
+      "publishedAt": "Fri, 24 Jul 2026 10:03:30 GMT"
     },
     {
-      "title": "US hits dozens of trading partners with new wave of tariffs",
+      "title": "Tens of thousands evacuated from French tourist spot as wildfires spread",
+      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 10:50:26 GMT"
+    },
+    {
+      "title": "US hits dozens of countries with new wave of tariffs",
       "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 07:12:13 GMT"
+      "publishedAt": "Fri, 24 Jul 2026 08:59:31 GMT"
     },
     {
-      "title": "Oil prices hit $100 for the first time since May",
-      "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 15:31:00 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 09:20:07 GMT"
     },
     {
       "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
@@ -164,124 +172,116 @@
       "publishedAt": "Thu, 23 Jul 2026 23:19:58 GMT"
     },
     {
-      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-      "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
+      "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 17:58:02 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 10:34:04 GMT"
     },
     {
-      "title": "France evacuates 20,000 as wildfires spread in south-west",
-      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement",
+      "summary": "The divorce, involving the chairman of one of South Korea's biggest companies, has gripped the nation.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 23 Jul 2026 19:17:42 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ckg68jky65eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 08:30:58 GMT"
     },
     {
-      "title": "India's 'cockroach' protesters and government to hold talks as stalemate continues",
-      "summary": "The meeting comes hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 06:30:34 GMT"
-    },
-    {
-      "title": "US attacks Iran as Houthis allow Chinese ships to pass: What’s the latest?",
-      "summary": "The number of tanker crossings in the Strait of Hormuz dropped to lowest levels in two months on Thursday.",
+      "title": "South African court pauses impeachment process against president",
+      "summary": "The 'Farmgate' scandal nearly cost President Cyril Ramaphosa the leadership of his African National Congress in 2022.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 07:59:01 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/24/south-african-court-pauses-impeachment-process-against-president?traffic_source=rss",
+      "publishedAt": "Fri, 24 Jul 2026 10:39:47 +0000"
     },
     {
-      "title": "Real Madrid legend Ancelotti rivals Barcelona great Guardiola for Italy job",
-      "summary": "Former Man City and Barca boss Pep Guardiola is not the clear candidate for Italian job, as Carlo Ancelotti approached.",
+      "title": "Andy Burnham’s Number 10 North changes the postcode, but not the politics",
+      "summary": "As Andy Burnham moves part of Downing Street to Manchester, Scotland and Wales are asking what it means for devolution.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/24/real-madrid-legend-ancelotti-rivals-barcelona-great-guardiola-for-italy-job?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 07:58:18 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/7/24/andy-burnhams-number-10-north-changes-the-postcode-but-not-the-politics?traffic_source=rss",
+      "publishedAt": "Fri, 24 Jul 2026 10:03:10 +0000"
     },
     {
-      "title": "Indian activist Wangchuk ends 26-day hunger strike",
-      "summary": "Indian activist Sonam Wangchuk has ended a 26-day hunger strike over leaked medical entrance exams",
+      "title": "Does this disappearing organ hold the secret of longevity?",
+      "summary": "Scientists are increasingly focused on the thymus, an immune gland that naturally becomes less active with age.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 07:08:21 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/24/does-this-disappearing-organ-hold-the-secret-of-longevity?traffic_source=rss",
+      "publishedAt": "Fri, 24 Jul 2026 10:00:50 +0000"
     },
     {
-      "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
-      "summary": "President Trump says damages will be paid for by Iranian money that the US has 'in its possession, and controls'.",
+      "title": "Israel’s illegal settlements are Europe’s credibility test",
+      "summary": "The EU has documented accelerating annexation. It must now use its collective power to confront it.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 06:48:07 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test?traffic_source=rss",
+      "publishedAt": "Fri, 24 Jul 2026 09:59:37 +0000"
     },
     {
-      "title": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
-      "summary": "Residents describe mounting hardship, as internet restrictions and road closures stretch into second month before polls.",
+      "title": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
+      "summary": "One Israeli was also killed near town of Tal in Nablus, according to Israel's Magen David Adom rescue services.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 06:01:39 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
+      "publishedAt": "Fri, 24 Jul 2026 09:35:39 +0000"
     },
     {
-      "title": "Mykhailo Drapatyi: Can new Ukraine army chief alter Russia war’s direction?",
-      "summary": "In 2014, a young Drapatyi became an icon for his daredevilry in Mariupol. Can he lead his military to victory?",
+      "title": "Germany appoint Klopp as ex-Liverpool coach sought to lift World Cup blues",
+      "summary": "Jurgen Klopp last coached in 2024 at Liverpool but was Red Bull's head of global football, leading Leipzig and New York.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/24/mykhailo-drapatyi-can-new-ukraine-army-chief-alter-russia-wars-direction?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 05:56:31 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/24/germany-appoint-klopp-as-ex-liverpool-coach-sought-to-lift-world-cup-blues?traffic_source=rss",
+      "publishedAt": "Fri, 24 Jul 2026 09:24:01 +0000"
     },
     {
-      "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on",
-      "summary": "Indian activist Sonam Wangchuk ended a 26-day hunger strike on Friday that helped galvanize a youth movement that's become one of India's largest protests in recent years, but demonstrators vowed to continue until the education minister res",
+      "title": "US allies hit with new tariffs object to Trump's forced labor claims",
+      "summary": "Australia and the European Union were among U.S. trade partners who condemned the tariffs.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/24/nx-s1-5906236/india-wangchuk-hunger-strike-cockroach-protesters",
-      "publishedAt": "Fri, 24 Jul 2026 01:56:15 -0400"
+      "link": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
+      "publishedAt": "Fri, 24 Jul 2026 06:31:08 -0400"
     },
     {
-      "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
-      "summary": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\"",
+      "title": "What animal is the deformed-but-adorable Jimothy? The quiz knows — do you?",
+      "summary": "Also: Ryan Gosling's regrets, Zohran Mamdani's exhortations and the Smithsonian's alleged wokeness.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
-      "publishedAt": "Fri, 24 Jul 2026 01:45:47 -0400"
+      "link": "https://www.npr.org/2026/07/24/g-s1-134821/jimothy-ai-uk-mamdani-strait-iran-news-quiz",
+      "publishedAt": "Fri, 24 Jul 2026 05:01:00 -0400"
     },
     {
-      "title": "Justice Dept. drops 'New York Times' subpoenas under pressure from judge",
-      "summary": "The Justice Department is dropping the subpoenas it filed demanding grand jury testimony and phone records from New York Times journalists after sharp questioning Thursday from a federal judge.",
+      "title": "Trump refuses to give up on tariffs - a pillar of his economic legacy",
+      "summary": "The administration timed a new set of tariffs on all of its largest trading partners to take effect at the same time the old, global tariff ended.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5905732/nyt-subpoenas-trump-air-force-one-plane-qatar-security",
-      "publishedAt": "Thu, 23 Jul 2026 23:31:19 -0400"
+      "link": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada",
+      "publishedAt": "Fri, 24 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Trump to impose double-digit tariffs on dozens of countries",
-      "summary": "The United States will slap taxes of 10% to 12.5% on imports from 60 countries accounting for 99% of U.S. imports, charging that they have inadequately enforced bans on goods produced by forced labor.",
+      "title": "West Virginia paid digital nomads to move there during COVID. Many are staying",
+      "summary": "Ascend West Virginia is one of dozens of relocation initiatives across the country offering cash and other incentives to move to states needing an economic boost. Here's how they're working out.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country",
-      "publishedAt": "Thu, 23 Jul 2026 18:06:50 -0400"
+      "link": "https://www.npr.org/2026/07/24/nx-s1-5869402/remote-work-west-virginia-cash-incentive",
+      "publishedAt": "Fri, 24 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "How to keep an ancient text interesting to students? Make it a summer blockbuster",
-      "summary": "English teachers are excited to have a new adaptation of Homer's The Odyssey to use to get students excited about the epic poem.",
+      "title": "Netflix viewers the world over are binge-watching South African series 'The Polygamist.' Here's why",
+      "summary": "Why is a Zulu-language drama taking the world by storm? The Polygamist mixes sex and scandal with a sharp portrait of modern South Africa.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5903075/odyssey-movie-english-teachers-school",
-      "publishedAt": "Thu, 23 Jul 2026 16:37:47 -0400"
+      "link": "https://www.npr.org/2026/07/24/nx-s1-5901949/netflix-south-african-series-the-polygamist",
+      "publishedAt": "Fri, 24 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Egyptian warrior princesses, ancient avocados, and more science news",
-      "summary": "Hannah Chin and Nate Rott of NPR's Short Wave podcast talk about the building blocks of birdsong, the evolutionary history of avocados and Egyptian warrior princesses.",
+      "title": "Video: Scientists watch orcas ram a sunfish so hard it explodes",
+      "summary": "Marine biologists off of Baja California recorded one orca teeing up another to smash a sunfish into pieces. Scientists say there could be a reason for this behavior — or it could be just for entertainment.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5897598/egyptian-warrior-princesses-ancient-avocados-and-more-science-news",
-      "publishedAt": "Thu, 23 Jul 2026 16:36:23 -0400"
+      "link": "https://www.npr.org/2026/07/24/nx-s1-5905327/orcas-ram-sunfish-hard-explodes",
+      "publishedAt": "Fri, 24 Jul 2026 05:00:00 -0400"
     },
     {
       "title": "Two Russian men jailed in Angola for terrorism and spying",
@@ -320,14 +320,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
-      "description": "partly cloudy",
+      "tempC": 26,
+      "description": "overcast",
       "high": 26,
       "low": 20
     },
     {
       "place": "London",
-      "tempC": 20,
+      "tempC": 25,
       "description": "clear sky",
       "high": 28,
       "low": 18
