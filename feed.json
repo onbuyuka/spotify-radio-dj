@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T22:02:36.479Z",
+  "updated": "2026-07-25T02:23:49.042Z",
   "news": [
     {
       "title": "Özel liderliğindeki Yeni Parti yönetimi belirlendi: Fezlekeli isimler PM dışında kaldı",
@@ -50,6 +50,27 @@
       "publishedAt": "Fri, 24 Jul 2026 14:57:32 GMT"
     },
     {
+      "title": "Boşanmak isteyen eşini uykusunda katletti",
+      "summary": "Adana'da boşanmak isteyen kadın, eşi tarafından uykusunda başına vurularak öldürüldü. Polis, olayın ardından kaçan zanlıyı 30 dakika içinde yakaladı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-25T05:20:11+03:00"
+    },
+    {
+      "title": "Minareler devrildi, çatılar uçtu",
+      "summary": "Kırıkkale'de kuvvetli fırtına nedeniyle iki caminin minaresi yıkıldı, bazı binaların çatıları ile araçlar hasar gördü.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-25T03:28:01+03:00"
+    },
+    {
+      "title": "Yolcu otobüsü şarampole devrildi. 40 kişi yaralandı",
+      "summary": "Bursa-Kars seferini yapan şehirlerarası yolcu otobüsü, yağmur nedeniyle kayganlaşan yolda kontrolden çıkarak şarampole devrildi. Kazada 40 kişi yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-25T02:05:13+03:00"
+    },
+    {
       "title": "Polisin ehliyet ve kimlik istediği alkollü sürücü, \"150 TL param var\" dedi",
       "summary": "Aksaray’da yasal sınırın 6 katı üzerinde alkollü sürücü, polisin kovalamacası sonucu yakalandı. Polisin ehliyet ve kimlik istediği sürücü, \"150 TL param var\" diye cevap verdi.",
       "source": "NTV",
@@ -61,35 +82,14 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-25T01:00:00+03:00"
+      "publishedAt": "2026-07-25T05:00:00+03:00"
     },
     {
       "title": "Bakan Gürlek: Haluk Levent tekneyle Yunan adalarına kaçacaktı",
       "summary": "Adalet Bakanı Akın Gürlek, ''Ahbap Derneği için deprem zamanı 245 milyon dolar para toplandığı belirlendi.'' dedi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-25T00:27:07+03:00"
-    },
-    {
-      "title": "Dışişleri Bakanı Fidan, Ukraynalı mevkidaşı Sybiha ile telefonda görüştü",
-      "summary": "Dışişleri Bakanı Hakan Fidan, Ukrayna Dışişleri Bakanı Andrii Sybiha ile telefon görüşmesinde, Rusya-Ukrayna Savaşı'ndaki son gelişmeleri ele aldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-24T21:50:45+03:00"
-    },
-    {
-      "title": "Gülistan Doku soruşturması. Eski valinin eşi ve bilişim şirketinin sahibi tutuklandı",
-      "summary": "Tunceli'de 5 Ocak 2020'den itibaren kendisinden haber alınamayan üniversite öğrencisi Gülistan Doku ile ilgili yürütülen soruşturmada gözaltına alınan eski Tunceli Valisi Tuncay Sonel'in eşi Handan Sonel ve bilişim şirketinin sahibi tutukla",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-24T23:54:56+03:00"
-    },
-    {
-      "title": "En düşük emekli aylığı düzenlemesi Meclis'ten geçti",
-      "summary": "En düşük emekli aylığının arttırılmasını da içeren yasa teklifi Meclis'te kabul edildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-24T21:06:15+03:00"
+      "publishedAt": "2026-07-25T04:48:06+03:00"
     },
     {
       "title": "Benzin ve motorine zam mı geldi?",
@@ -140,12 +140,12 @@
       "publishedAt": "Fri, 24 Jul 2026 21:38:08 GMT"
     },
     {
-      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
+      "title": "Firefighters struggle to contain Madrid wildfires, as more than 160,000 evacuated in France and Spain",
       "summary": "Authorities face the \"worst fire in the history of the region\", Madrid officials say, as French firefighters battle a blaze heading towards Bordeaux.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:47:16 GMT"
+      "publishedAt": "Sat, 25 Jul 2026 01:23:39 GMT"
     },
     {
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
@@ -153,7 +153,23 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 18:51:17 GMT"
+      "publishedAt": "Sat, 25 Jul 2026 00:06:53 GMT"
+    },
+    {
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 24 Jul 2026 23:01:06 GMT"
+    },
+    {
+      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "summary": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 25 Jul 2026 02:14:50 GMT"
     },
     {
       "title": "Trump vows to investigate EU over fining of US tech companies",
@@ -172,68 +188,60 @@
       "publishedAt": "Fri, 24 Jul 2026 18:13:02 GMT"
     },
     {
-      "title": "ICC top prosecutor removed over sexual misconduct allegations",
-      "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:02:30 GMT"
-    },
-    {
-      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 24 Jul 2026 13:33:06 GMT"
-    },
-    {
-      "title": "China, Philippine coastguard vessels clash in South China Sea",
-      "summary": "China, Philippine coastguard vessels clash in South China Sea.",
+      "title": "Sons of immigrant killed by ICE in Texas share grief, demand accountability",
+      "summary": "Lorenzo Salgado Araujo's sons tell lawmakers their father worked hard 'to protect and provide' for his family.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:29:10 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/25/sons-of-immigrant-killed-by-ice-in-texas-share-grief-demand-accountability?traffic_source=rss",
+      "publishedAt": "Sat, 25 Jul 2026 01:30:20 +0000"
     },
     {
-      "title": "Paramount agrees to pause Warner Bros deal while court case plays out",
-      "summary": "The delay, filed in court on Friday, can cost Paramount $1.7bn in fees if the deal is not closed by next June.",
+      "title": "Trump threatens EU will pay ‘big price’ after Brussels fines Google $1bn",
+      "summary": "EU accuses US tech giant of favouring its own services in search results, as Trump lashes out against bloc.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:27:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/25/trump-threatens-eu-will-pay-big-price-after-brussels-fines-google-1bn?traffic_source=rss",
+      "publishedAt": "Sat, 25 Jul 2026 01:09:01 +0000"
     },
     {
-      "title": "Iran’s Abbas Araghchi vows ‘we fear no one’",
-      "summary": "Iranian Foreign Minister Abbas Araghchi said Iran does not fear threats or 'succumb to pressures'.",
+      "title": "GLP-1s are changing US healthcare, should everyone be on them?",
+      "summary": "GLP-1 drugs, originally developed to treat diabetes and now widely used for obesity, are reshaping healthcare in the US.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:24:38 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/glp-1s-are-changing-us-healthcare-should-everyone-be-on-them?traffic_source=rss",
+      "publishedAt": "Sat, 25 Jul 2026 00:40:02 +0000"
     },
     {
-      "title": "Fury dominates Wach in Thailand boxing bout ahead of Joshua showdown",
-      "summary": "Tyson Fury forced his Polish opponent, Mariusz Wach, to retire in the fight at a Muay Thai stadium in Pattaya, Thailand.",
+      "title": "Saudi-led coalition strikes Houthi-controlled Hodeidah",
+      "summary": "The Saudi-led coalition strikes targeted Houthi-controlled Hodeidah governorate.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/24/fury-dominates-wach-in-thailand-boxing-bout-ahead-of-joshua-showdown?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 21:19:49 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/saudi-led-coalition-strikes-houthi-controlled-hodeidah?traffic_source=rss",
+      "publishedAt": "Sat, 25 Jul 2026 00:31:16 +0000"
     },
     {
-      "title": "Spanish police accuse tractor driver of sparking wildfire as blazes spread",
-      "summary": "The number of people forced to flee the heatwave-induced fires in Spain and France has now passed the 100,000 mark.",
+      "title": "UN rights chief Turk wins second term despite US and Israeli opposition",
+      "summary": "Austrian lawyer Volker Turk set to become first UN rights chief to complete two four-year terms since post was created.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/24/spanish-police-accuse-tractor-driver-of-sparking-wildfire-as-blazes-spread?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 20:51:52 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/25/un-rights-chief-turk-wins-second-term-despite-us-and-israeli-opposition?traffic_source=rss",
+      "publishedAt": "Sat, 25 Jul 2026 00:16:32 +0000"
     },
     {
-      "title": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
-      "summary": "Sebastia in the occupied West Bank and five Lebanese castles get emergency listing despite Israeli objections.",
+      "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+      "summary": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Tehran.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/24/unesco-places-occupied-west-bank-lebanon-sites-on-endangered-heritage-list?traffic_source=rss",
-      "publishedAt": "Fri, 24 Jul 2026 20:51:13 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+      "publishedAt": "Sat, 25 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Paramount says it will pause its Warner acquisition while legal challenges play out",
+      "summary": "A dozen states and the Writers Guild of America had challenged the merger.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/24/nx-s1-5906818/paramount-warner-bros-merger-pause-lawsuits",
+      "publishedAt": "Fri, 24 Jul 2026 18:26:21 -0400"
     },
     {
       "title": "Democrats approve new primary election calendar, putting South Carolina first",
@@ -253,7 +261,7 @@
     },
     {
       "title": "How The Illharmonic's mix of hip-hop and classical builds community, one show at a time",
-      "summary": "The Illharmonic Orchestra's performances blend hip-hop lyricism with classical instrumentation, and feature all-Black musical ensembles. The group's leaders speak with NPR's Juana Summers about how they build community around their high-ene",
+      "summary": "The Illharmonic Orchestra blends hip-hop and classical music during live performances. Its leaders tell NPR's Juana Summers how they build community with their shows, which feature all-Black musicians.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/07/24/nx-s1-5863498/the-illharmonic-orchestra-hip-hop-classical-music",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
       "publishedAt": "Fri, 24 Jul 2026 07:37:58 -0400"
-    },
-    {
-      "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
-      "summary": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
-      "publishedAt": "Fri, 24 Jul 2026 07:30:08 -0400"
     },
     {
       "title": "Two Russian men jailed in Angola for terrorism and spying",
@@ -320,16 +320,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 22,
+      "tempC": 21,
       "description": "partly cloudy",
-      "high": 22,
+      "high": 23,
       "low": 20
     },
     {
       "place": "London",
-      "tempC": 26,
-      "description": "overcast",
-      "high": 28,
+      "tempC": 20,
+      "description": "clear sky",
+      "high": 29,
       "low": 18
     }
   ],
