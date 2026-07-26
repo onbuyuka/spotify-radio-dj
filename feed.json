@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-26T15:59:29.724Z",
+  "updated": "2026-07-26T19:06:09.005Z",
   "news": [
     {
-      "title": "Filenin Sultanları Milletler Ligi'nde şampiyon oldu",
+      "title": "Filenin Sultanları şampiyon oldu",
       "summary": "A Milli Kadın Voleybol Takımı, 2026 FIVB Milletler Ligi (VNL) final maçında Brezilya'yı 3-1 mağlup ederek şampiyon oldu.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c23y5yjpzr0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 26 Jul 2026 13:41:22 GMT"
+    },
+    {
+      "title": "Berlin Onur Yürüyüşü'ne araçlı saldırının şüphelisi polis operasyonunda öldürüldü",
+      "summary": "Cumartesi gecesi Almanya'nın başkentinde düzenlenen bir Onur Yürüyüşü etkinliğinde bir şüphelinin aracıyla kalabalığın içine dalmasının ardından polis geniş çaplı bir arama başlattı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c39ejrjmex7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 17:54:44 GMT"
     },
     {
       "title": "ABD ve İran karşılıklı saldırıları durdurdu mu?",
@@ -26,14 +34,6 @@
       "publishedAt": "Sun, 26 Jul 2026 09:41:58 GMT"
     },
     {
-      "title": "Hindistan'da 'hamamböceği' protestosu eğitim bakanının istifasıyla sona erdi",
-      "summary": "Hindistan'da Eğitim Bakanı Dharmendra Pradhan'ın istifasının ardından, Hamamböceği Halk Partisi (CJP) beş haftadır süren protestosunu sona erdirdi. Protesto, son yıllarda Başbakan Narendra Modi hükümetine karşı halkın öfkesinin en görünür i",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c5y3greyj4po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 09:06:08 GMT"
-    },
-    {
       "title": "Gecenin bir yarısı neden sürekli uyanıyorum?",
       "summary": "Uzmanlara göre gece 03.00 civarında uyanmak uyku döngüsünün doğal bir parçası olsa da stres, hormonlar, sağlık sorunları ve yaşam tarzı yeniden uykuya dalmayı zorlaştırabiliyor",
       "source": "BBC Türkçe",
@@ -50,6 +50,27 @@
       "publishedAt": "Sat, 25 Jul 2026 10:48:21 GMT"
     },
     {
+      "title": "Mersin'den acı haber. Denize giren 6 kişiden 3’ü boğuldu, 1 çocuk kayıp",
+      "summary": "Mersin’in Tarsus ilçesinde denize giren ve dalgalarla açığa sürüklenen gruptan 3 kişi boğuldu, kayıp 1 çocuğun bulunması için çalışmalar sürdürülüyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-26T22:03:56+03:00"
+    },
+    {
+      "title": "Dışişleri Bakanı Fidan'dan İran diplomasisi",
+      "summary": "ABD ile İran arasındaki tırmanan gerilim, Ankara'nın yakın takibinde. Dışişleri Bakanı Hakan Fidan bu konuda telefon diplomasisi yürüttü.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-26T21:50:57+03:00"
+    },
+    {
+      "title": "Şile'de yasağa rağmen denize giren kişi boğuldu",
+      "summary": "Şile'de yoğun dalga ve akıntı nedeniyle alınan tedbirlere rağmen denize giren 3 kişiden 2'si kendi imkanlarıyla kıyıya çıkarken, suda kaybolan 1 kişiyi arama çalışmaları sürüyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-26T20:33:00+03:00"
+    },
+    {
       "title": "Binlerce yıllık gelenek kadın emeğiyle direniyor. Çırak yetişmiyor, sadece birkaç usta kaldı",
       "summary": "Manisa'nın Salihli ilçesinde kadınların binlerce yıllık ilkel yöntemlerle çömlek üretimi zamana direniyor. Çömlekler, gençlerin büyükşehirlere taşınması ve yeni çırak yetişmemesi nedeniyle son ustalarının ellerinde şekilleniyor.",
       "source": "NTV",
@@ -58,10 +79,10 @@
     },
     {
       "title": "CHP'nin yeni grup başkanı Faik Öztrak oldu",
-      "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun milletvekilleriyle yaptığı toplantıda Faik Öztrak, CHP'nin yeni grup başkanı seçildi.",
+      "summary": "CHP Grup Başkanlığına Tekirdağ Milletvekili Faik Öztrak, Grup Başkanvekilliklerine ise İzmir milletvekilleri Sevda Erdan Kılıç ile Rahmi Aşın Türeli seçildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-26T18:17:19+03:00"
+      "publishedAt": "2026-07-26T19:13:55+03:00"
     },
     {
       "title": "Ümmü nine yıllardır tuvalet ve banyoya hasret yaşıyor. Utandığı için misafir kabul etmiyor",
@@ -71,73 +92,52 @@
       "publishedAt": "2026-07-26T17:52:00+03:00"
     },
     {
-      "title": "İş yerinin önündeki papağanı kafesinden çaldılar",
-      "summary": "Mardin'in Kızıltepe ilçesinde, iki şüpheli, iş yerinin önündeki kaldırımda bulunan kafesteki papağanı çaldı. Şüphelilerden biri iş yeri sahibini oyalarken, diğeri papağanı bir süre sevdikten sonra alıp uzaklaştı.",
-      "source": "NTV",
+      "title": "Emekliye ÖTV'siz araç ne zaman yürürlüğe girecek?",
+      "summary": "Emeklilere ÖTV'siz araç düzenlemesine ilişkin gelişmeler milyonlarca SSK ve Bağ-kurlu tarafından yakından takip ediliyor. Son günlerde engellilere yönelik ÖTV istisnasında yapılan değişikliklerin Resmi Gazete'de yayımlanması ve üst limitin ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-26T17:19:12+03:00"
+      "link": "https://www.haberturk.com/emekliye-otv-siz-arac-sartlari-markalari-ve-modelleri-2026-emeklilere-otv-siz-arac-ne-zaman-yururluge-girecek-sartlari-neler-3901221",
+      "publishedAt": "Sun, 26 Jul 2026 18:54:28 GMT"
     },
     {
-      "title": "Kopan dev kayalar Karadeniz Sahil Yolu’nu kapattı",
-      "summary": "Rize'de etkili sağanak nedeniyle yamaçtan kopan kaya parçaları, Karadeniz Sahil Yolu'na düştü.",
-      "source": "NTV",
+      "title": "En düşük emekli maaşı ne kadar oldu?",
+      "summary": "En düşük emekli maaşına ilişkin milyonlarca emeklinin beklediği düzenlemede önemli bir gelişme yaşandı. En düşük emekli aylığının 23 bin 552 liraya yükseltilmesini öngören madde, TBMM Genel Kurulu'nda kabul edildi. Düzenlemenin yürürlüğe gi",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-26T17:10:31+03:00"
+      "link": "https://www.haberturk.com/en-dusuk-emekli-maasi-ne-kadar-oldu-en-dusuk-emekli-maasi-resmi-gazete-de-yayimlandi-mi-emekli-maas-farki-ne-kadar-yatacak-3901216",
+      "publishedAt": "Sun, 26 Jul 2026 18:53:34 GMT"
     },
     {
-      "title": "İstanbul Havalimanı'nda yürümekte zorlanan yolcu polisi alarma geçirdi. Gerçek hastanede ortaya çıktı",
-      "summary": "İstanbul Havalimanı'nda yürümekte zorlanan bir yolcunun midesinden 26 kapsül içerisine gizlenmiş uyuşturucu madde ele geçirildi.",
-      "source": "NTV",
+      "title": "12. Yargı Paketi maddeleri neler?",
+      "summary": "Kamuoyunda \"12. Yargı Paketi\" olarak bilinen Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Genel Kurulunda kabul edilerek yasalaştı. Düzenlemenin yasalaşmasının ardından gözler ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-26T16:53:37+03:00"
+      "link": "https://www.haberturk.com/12-yargi-paketi-son-dakika-12-yargi-paketi-ne-zaman-cikacak-maddeleri-neler-resmi-gazete-de-yayimlandi-mi-3901213",
+      "publishedAt": "Sun, 26 Jul 2026 18:55:38 GMT"
+    },
+    {
+      "title": "AGS - ÖABT soru ve cevap kitapçığı yayımlandı",
+      "summary": "2026 Akademi Giriş Sınavı (AGS) ve Öğretmenlik Alan Bilgisi Testi (ÖABT), 26 Temmuz Pazar günü ÖSYM tarafından gerçekleştirildi. Sabah oturumunda AGS, öğleden sonra ise ÖABT'ye katılan binlerce aday şimdi soru kitapçığı ve cevap anahtarının",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/ags-oabt-sinav-sorulari-ve-cevaplari-yayimlandi-mi-2026-oabt-ve-ags-soru-kitapcigi-ve-cevap-anahtari-nasil-sorgulanir-osym-ile-ags-sinavi-sorulari-pdf-sorgulama-ekrani-3901211",
+      "publishedAt": "Sun, 26 Jul 2026 18:56:55 GMT"
     },
     {
       "title": "Emeklilik Planı filmi konusu nedir?",
-      "summary": "Aksiyon ve komedi türünü bir araya getiren Emeklilik Planı, eski bir suikastçının geçmişiyle yeniden yüzleşmesini konu alıyor. Filmin yönetmen koltuğunda Tim Brown otururken, senaryosu da Tim Brown imzasını taşıyor. Başrollerde Nicolas Cage",
+      "summary": "Emeklilik Planı filmi, 26 Temmuz Pazar akşamı TRT 1 ekranlarında izleyici ile buluşmaya hazırlanıyor. Aksiyon ve komedi türünü bir araya getiren Emeklilik Planı, eski bir suikastçının geçmişiyle yeniden yüzleşmesini konu alıyor. Filmin yöne",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/emeklilik-plani-filmi-konusu-nedir-oyunculari-kimler-emeklilik-plani-ne-zaman-nerede-cekildi-3901206",
-      "publishedAt": "Sun, 26 Jul 2026 15:32:05 GMT"
+      "publishedAt": "Sun, 26 Jul 2026 15:53:47 GMT"
     },
     {
-      "title": "Fransa ve İspanya'da binlerce kişi tahliye edildi!",
-      "summary": "Fransa'nın güneybatısında şiddetini artıran yangınlar nedeniyle 22 Temmuz'dan bu yana yaklaşık 200 bin kişi tahliye edilirken, İspanya'nın Madrid ve Avila kentlerinde devam eden orman yangınlarında yaklaşık 60 bin kişi tahliye edildi",
+      "title": "Süper Loto sonuçları açıklandı!",
+      "summary": "Süper Loto çekiliş sonuçları, 26 Temmuz 2026 Pazar akşamı Milli Piyango Online tarafından gerçekleştirilen çekilişin ardından açıklandı. Büyük ikramiye hayali kuran binlerce talihli, kazandıran numaraları ve sonuç sorgulama ekranını araştır",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/orman-yanginlariyla-mucadele-fransa-ve-ispanya-da-binlerce-kisi-tahliye-edildi-3901131",
-      "publishedAt": "Sun, 26 Jul 2026 07:45:10 GMT"
-    },
-    {
-      "title": "26 Temmuz Resmi Gazete yayımlandı!",
-      "summary": "26 Temmuz 2026 tarihli Resmi Gazete yayımlandı. Günün ilk saatleriyle birlikte yürürlüğe giren kararlar, yönetmelikler, tebliğler ve ilanlar kamuoyunun gündemine taşındı. Vatandaşlar ile kamu kurumlarını ilgilendiren düzenlemelerin yer aldı",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/resmi-gazete-de-bugun-neler-var-iste-26-temmuz-2026-resmi-gazete-kararlari-3901100",
-      "publishedAt": "Sun, 26 Jul 2026 08:38:20 GMT"
-    },
-    {
-      "title": "İstanbul 26 Temmuz elektrik kesintisi!",
-      "summary": "İstanbul'da 26 Temmuz 2026 Pazar günü planlı elektrik kesintisi uygulanacak ilçeler, vatandaşların gündeminde yer alıyor. Bakım, onarım ve altyapı yenileme çalışmaları kapsamında gerçekleştirilecek kesintiler nedeniyle birçok mahallede elek",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/istanbul-26-temmuz-2026-pazar-elektrik-kesintisi-hangi-semtler-etkilenecek-istanbul-da-elektrikler-ne-zaman-saat-kacta-gelecek-3901096",
-      "publishedAt": "Sun, 26 Jul 2026 13:11:34 GMT"
-    },
-    {
-      "title": "Çılgın Sayısal Loto sonuçları açıklandı!",
-      "summary": "Çılgın Sayısal Loto'nun 25 Temmuz 2026 Cumartesi çekilişi sona erdi. Milli Piyango Online tarafından gerçekleştirilen çekiliş sonrasında kazandıran numaralar, Joker ve SüperStar sonuçları resmi olarak açıklandı. Büyük ikramiyenin hangi kupo",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/cilgin-sayisal-loto-sonuclari-sorgula-25-temmuz-cilgin-sayisal-loto-sonuclari-aciklandi-3901086",
-      "publishedAt": "Sun, 26 Jul 2026 13:12:24 GMT"
-    },
-    {
-      "title": "MasterChef kim kazandı?",
-      "summary": "MasterChef Türkiye 2026'da ana kadro heyecanı hız kesmeden devam ediyor. TV8 ekranlarında 25 Temmuz Cumartesi akşamı yayınlanan yeni bölümde yarışmacılar, ana kadroya adını yazdıran 8. isim olabilmek için şeflerin karşısına çıkıyor. Mehmet ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/masterchef-kim-kazandi-25-temmuz-cumartesi-masterchef-ana-kadroya-kim-girdi-8-onlugu-kim-aldi-3901073",
-      "publishedAt": "Sun, 26 Jul 2026 06:01:10 GMT"
+      "link": "https://www.haberturk.com/super-loto-sonuclari-aciklandi-26-temmuz-2026-pazar-mpi-super-loto-cekilis-sonucu-sorgulama-ekrani-3901205",
+      "publishedAt": "Sun, 26 Jul 2026 18:35:49 GMT"
     },
     {
       "title": "What we know so far about the Berlin Pride ramming attack",
@@ -145,7 +145,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 13:40:29 GMT"
+      "publishedAt": "Sun, 26 Jul 2026 17:45:30 GMT"
     },
     {
       "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
@@ -161,7 +161,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 15:50:41 GMT"
+      "publishedAt": "Sun, 26 Jul 2026 18:40:08 GMT"
     },
     {
       "title": "Trump takes swipes at press during White House Correspondents' Dinner",
@@ -188,52 +188,68 @@
       "publishedAt": "Sat, 25 Jul 2026 00:06:53 GMT"
     },
     {
-      "title": "Senator Whitehouse: Netanyahu a ‘walking provocation’ for Americans",
-      "summary": "Democratic lawmaker Sheldon Whitehouse says the US is turning into one of the world’s ‘worst-behaved countries’.",
+      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
+      "summary": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 15:26:57 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 18:17:22 +0000"
     },
     {
-      "title": "Lando Norris wins Hungarian Grand Prix for first F1 triumph in 2026",
-      "summary": "Defending champion Norris wins his first race of the year as Verstappen finishes second, and leader Antonelli third.",
+      "title": "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list",
+      "summary": "Al-Sharaa praises Trump's decision to remove Syria from terrorism list.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/26/lando-norris-wins-hungarian-grand-prix-for-first-f1-triumph-in-2026?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 15:04:12 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 18:08:48 +0000"
     },
     {
-      "title": "More than 360,000 evacuated as wildfires rage in France and Spain",
-      "summary": "French and Spanish authorities are struggling to contain the blazes, which are partly caused by successive heatwaves.",
+      "title": "Berlin police shoot dead suspect in car-ramming attack at Pride event",
+      "summary": "Abdul Ballout, a&nbsp;German citizen with Lebanese roots, accused of carrying out an 'Islamic terror attack'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/26/more-than-360000-evacuated-as-wildfires-rage-in-france-and-spain?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 14:49:41 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 17:51:37 +0000"
     },
     {
-      "title": "Israel carries out double tap strike in central Gaza",
-      "summary": "Israel carries out double tap strike in central Gaza",
+      "title": "Israel launches military incursion into Syria amid UN condemnation",
+      "summary": "The UN's Guterres condemned violations of Syria's sovereignty as he visited and called for sanctions to be lifted.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 14:47:02 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 17:40:15 +0000"
     },
     {
-      "title": "Tunisia grapples with five years of crisis since Saied’s power grab",
-      "summary": "Tunisians protest five years of President Kais Saied's rule amid economic crisis and political arrests.",
+      "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+      "summary": "Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 14:39:30 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 17:13:55 +0000"
     },
     {
-      "title": "Senegal’s Faye launches a new party, formalising his split with Sonko",
-      "summary": "Months of tensions between president and ex-ally culminate in split that will reshape Senegal's political landscape.",
+      "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
+      "summary": "Israel is violating agreements by shelling 'pilot villages', Lebanon's army asserts.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/26/senegals-faye-launches-a-new-party-formalising-his-split-with-sonko?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 14:22:03 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 16:49:59 +0000"
+    },
+    {
+      "title": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
+      "summary": "The route for the iconic cycling race's final stage was shortened because security and police were reassigned to assist with wildfires in southwest France.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
+      "publishedAt": "Sun, 26 Jul 2026 14:13:30 -0400"
+    },
+    {
+      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+      "summary": "The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+      "publishedAt": "Sun, 26 Jul 2026 13:16:06 -0400"
     },
     {
       "title": "Rage-giving, innovation and cuts: How public media has survived without federal funds",
@@ -260,28 +276,12 @@
       "publishedAt": "Sun, 26 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Meet the robots programmed by kids to speak their Indigenous languages",
-      "summary": "Many Native American languages are endangered. With the help of his mentor, a 12-year-old in Michigan hopes to help preserve his language through robotics.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
-      "publishedAt": "Sun, 26 Jul 2026 05:00:00 -0400"
-    },
-    {
       "title": "Climate change is now threatening a pillar of childhood: summer break",
       "summary": "When summer rolls around, many parents scramble to sign up their young kids for outdoor activities. But what do you do when extreme heat and wildfire smoke increasingly make the outdoors dangerous?",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
       "publishedAt": "Sun, 26 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "One dead, several injured after vehicle plows through crowd at Berlin Pride event",
-      "summary": "Germany's interior minister Alexander Dobrindt described the incident as a likely \"Islamic terror attack\", and named the suspect as Abdul Ballout, who was born in Germany and has Lebanese roots.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-      "publishedAt": "Sat, 25 Jul 2026 21:10:56 -0400"
     },
     {
       "title": "Two Russian men jailed in Angola for terrorism and spying",
@@ -320,17 +320,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 26,
-      "description": "mainly clear",
+      "tempC": 24,
+      "description": "clear sky",
       "high": 26,
       "low": 20
     },
     {
       "place": "London",
-      "tempC": 25,
+      "tempC": 23,
       "description": "partly cloudy",
       "high": 26,
-      "low": 18
+      "low": 19
     }
   ],
   "facts": [
