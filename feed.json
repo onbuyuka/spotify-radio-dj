@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T19:06:09.005Z",
+  "updated": "2026-07-26T21:56:53.243Z",
   "news": [
     {
       "title": "Filenin Sultanları şampiyon oldu",
@@ -50,11 +50,25 @@
       "publishedAt": "Sat, 25 Jul 2026 10:48:21 GMT"
     },
     {
-      "title": "Mersin'den acı haber. Denize giren 6 kişiden 3’ü boğuldu, 1 çocuk kayıp",
-      "summary": "Mersin’in Tarsus ilçesinde denize giren ve dalgalarla açığa sürüklenen gruptan 3 kişi boğuldu, kayıp 1 çocuğun bulunması için çalışmalar sürdürülüyor.",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 27 Temmuz 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 27 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-26T22:03:56+03:00"
+      "publishedAt": "2026-07-27T00:30:00+03:00"
+    },
+    {
+      "title": "Mezarlık ziyaretinde silahlı saldırı. 3 kişi öldü, 2 yaralı",
+      "summary": "Batman’da, mezarlık ziyareti yapan gruba silahlı saldırı gerçekleştirildi. Husumetlilerinin saldırısına uğrayan aileden baba, oğlu ve yeğeni öldü, 1’i ağır 2 kişi yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-27T00:16:05+03:00"
+    },
+    {
+      "title": "Mersin'den acı haber. Denize giren 5 kişilik aileden 3'ü boğuldu, 1 çocuk kayıp",
+      "summary": "Mersin'in Tarsus ilçesinde denize giren 5 kişilik aileden 3'ü boğuldu, 1'i hastaneye kaldırıldı, 1 çocuk ise kayboldu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-27T00:40:25+03:00"
     },
     {
       "title": "Dışişleri Bakanı Fidan'dan İran diplomasisi",
@@ -78,18 +92,20 @@
       "publishedAt": "2026-07-26T18:28:22+03:00"
     },
     {
-      "title": "CHP'nin yeni grup başkanı Faik Öztrak oldu",
-      "summary": "CHP Grup Başkanlığına Tekirdağ Milletvekili Faik Öztrak, Grup Başkanvekilliklerine ise İzmir milletvekilleri Sevda Erdan Kılıç ile Rahmi Aşın Türeli seçildi.",
-      "source": "NTV",
+      "title": "MasterChef'te önlük yarışı sürüyor",
+      "summary": "MasterChef Türkiye 2026'da ana kadro heyecanı tüm hızıyla devam ediyor. İlk etapları başarıyla geçen yarışmacılar, ana kadroya girebilmek için şeflerin karşısında bir kez daha hünerlerini sergiliyor. Hatırlanacağı gibi ana kadroya giren 8. ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-26T19:13:55+03:00"
+      "link": "https://www.haberturk.com/masterchef-kim-kazandi-26-temmuz-pazar-masterchef-ana-kadroya-kim-girdi-ana-kadroya-giren-9-yarismaci-kim-oldu-3901225",
+      "publishedAt": "Sun, 26 Jul 2026 21:20:14 GMT"
     },
     {
-      "title": "Ümmü nine yıllardır tuvalet ve banyoya hasret yaşıyor. Utandığı için misafir kabul etmiyor",
-      "summary": "Aydın'da tek başına yaşayan 75 yaşındaki Ümmü Şahin adlı kadının hayat şartları görenlerin yüreklerini dağlıyor. Yaşlı kadının, yıllardır tuvalet ve banyosuz evde yaşamak zorunda kaldığı öğrenildi.",
-      "source": "NTV",
+      "title": "Öğrenci affı çıktı mı?",
+      "summary": "Öğrenci affına ilişkin kanun teklifi, yeni haftada Türkiye Büyük Millet Meclisi (TBMM) Genel Kurulu'nun gündeminde yer alacak. Düzenleme ile yükseköğretim kurumlarıyla ilişiği kesilen öğrencilere yeniden üniversitelerine dönüş imkânı sağlan",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-26T17:52:00+03:00"
+      "link": "https://www.haberturk.com/ogrenci-affi-son-dakika-2026-ogrenci-affi-cikti-mi-ogrenci-affi-kimleri-kapsayacak-sartlari-neler-resmi-gazete-de-yayimlandi-mi-3901224",
+      "publishedAt": "Sun, 26 Jul 2026 21:05:35 GMT"
     },
     {
       "title": "Emekliye ÖTV'siz araç ne zaman yürürlüğe girecek?",
@@ -97,7 +113,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/emekliye-otv-siz-arac-sartlari-markalari-ve-modelleri-2026-emeklilere-otv-siz-arac-ne-zaman-yururluge-girecek-sartlari-neler-3901221",
-      "publishedAt": "Sun, 26 Jul 2026 18:54:28 GMT"
+      "publishedAt": "Sun, 26 Jul 2026 21:28:56 GMT"
     },
     {
       "title": "En düşük emekli maaşı ne kadar oldu?",
@@ -105,7 +121,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/en-dusuk-emekli-maasi-ne-kadar-oldu-en-dusuk-emekli-maasi-resmi-gazete-de-yayimlandi-mi-emekli-maas-farki-ne-kadar-yatacak-3901216",
-      "publishedAt": "Sun, 26 Jul 2026 18:53:34 GMT"
+      "publishedAt": "Sun, 26 Jul 2026 21:28:02 GMT"
     },
     {
       "title": "12. Yargı Paketi maddeleri neler?",
@@ -113,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/12-yargi-paketi-son-dakika-12-yargi-paketi-ne-zaman-cikacak-maddeleri-neler-resmi-gazete-de-yayimlandi-mi-3901213",
-      "publishedAt": "Sun, 26 Jul 2026 18:55:38 GMT"
+      "publishedAt": "Sun, 26 Jul 2026 21:31:36 GMT"
     },
     {
       "title": "AGS - ÖABT soru ve cevap kitapçığı yayımlandı",
@@ -121,39 +137,39 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/ags-oabt-sinav-sorulari-ve-cevaplari-yayimlandi-mi-2026-oabt-ve-ags-soru-kitapcigi-ve-cevap-anahtari-nasil-sorgulanir-osym-ile-ags-sinavi-sorulari-pdf-sorgulama-ekrani-3901211",
-      "publishedAt": "Sun, 26 Jul 2026 18:56:55 GMT"
+      "publishedAt": "Sun, 26 Jul 2026 21:33:03 GMT"
     },
     {
-      "title": "Emeklilik Planı filmi konusu nedir?",
-      "summary": "Emeklilik Planı filmi, 26 Temmuz Pazar akşamı TRT 1 ekranlarında izleyici ile buluşmaya hazırlanıyor. Aksiyon ve komedi türünü bir araya getiren Emeklilik Planı, eski bir suikastçının geçmişiyle yeniden yüzleşmesini konu alıyor. Filmin yöne",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/emeklilik-plani-filmi-konusu-nedir-oyunculari-kimler-emeklilik-plani-ne-zaman-nerede-cekildi-3901206",
-      "publishedAt": "Sun, 26 Jul 2026 15:53:47 GMT"
-    },
-    {
-      "title": "Süper Loto sonuçları açıklandı!",
-      "summary": "Süper Loto çekiliş sonuçları, 26 Temmuz 2026 Pazar akşamı Milli Piyango Online tarafından gerçekleştirilen çekilişin ardından açıklandı. Büyük ikramiye hayali kuran binlerce talihli, kazandıran numaraları ve sonuç sorgulama ekranını araştır",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/super-loto-sonuclari-aciklandi-26-temmuz-2026-pazar-mpi-super-loto-cekilis-sonucu-sorgulama-ekrani-3901205",
-      "publishedAt": "Sun, 26 Jul 2026 18:35:49 GMT"
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 19:21:26 GMT"
     },
     {
       "title": "What we know so far about the Berlin Pride ramming attack",
-      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 17:45:30 GMT"
+      "publishedAt": "Sun, 26 Jul 2026 20:34:23 GMT"
     },
     {
       "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 26 Jul 2026 10:26:05 GMT"
+      "publishedAt": "Sun, 26 Jul 2026 21:23:53 GMT"
+    },
+    {
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 26 Jul 2026 21:30:20 GMT"
     },
     {
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
@@ -172,68 +188,52 @@
       "publishedAt": "Sat, 25 Jul 2026 13:51:07 GMT"
     },
     {
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 17:44:46 GMT"
-    },
-    {
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 25 Jul 2026 00:06:53 GMT"
-    },
-    {
-      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
-      "summary": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.",
+      "title": "Israeli government nods to international stabilisation force in Gaza",
+      "summary": "The ISF, to be staffed by 'friendly countries', will operate in areas outside of Israel's military control.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 18:17:22 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 21:10:07 +0000"
     },
     {
-      "title": "Al-Sharaa praises Trump’s decision to remove Syria from terrorism list",
-      "summary": "Al-Sharaa praises Trump's decision to remove Syria from terrorism list.",
+      "title": "Palestinians hope international peace force can rebuild Gaza",
+      "summary": "Palestinians in Gaza cautiously welcome Israel’s approval for an international stabilisation force to enter the strip.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/al-sharaa-praises-trumps-decision-to-remove-syria-from-terrorism-list?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 18:08:48 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 21:01:18 +0000"
     },
     {
-      "title": "Berlin police shoot dead suspect in car-ramming attack at Pride event",
-      "summary": "Abdul Ballout, a&nbsp;German citizen with Lebanese roots, accused of carrying out an 'Islamic terror attack'.",
+      "title": "US and Iran hit pause on strikes for second day",
+      "summary": "The relative calm comes amid reports of renewed efforts to restore diplomatic talks.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 17:51:37 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 20:55:52 +0000"
     },
     {
-      "title": "Israel launches military incursion into Syria amid UN condemnation",
-      "summary": "The UN's Guterres condemned violations of Syria's sovereignty as he visited and called for sanctions to be lifted.",
+      "title": "Former President Hernandez returns to Honduras after Trump pardon",
+      "summary": "Trump called Hernandez's drug-trafficking trial a set-up by the Biden administration.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 17:40:15 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/26/former-president-hernandez-returns-to-honduras-after-trump-pardon?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 20:35:38 +0000"
     },
     {
-      "title": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
-      "summary": "Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.",
+      "title": "Houthis claim Saudi drone downed over northwestern Yemen",
+      "summary": "Iran-backed Houthi forces claim they shot down a Saudi reconnaissance drone over northwestern Yemen.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 17:13:55 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 20:19:34 +0000"
     },
     {
-      "title": "Israel obstructing takeover of pilot zones in Lebanon’s south: Military",
-      "summary": "Israel is violating agreements by shelling 'pilot villages', Lebanon's army asserts.",
+      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+      "summary": "Mediation efforts continue but uncertainty remains as risks of further disruptions in international waterways grow.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/26/israel-obstructing-takeover-of-pilot-zones-in-lebanons-south-military?traffic_source=rss",
-      "publishedAt": "Sun, 26 Jul 2026 16:49:59 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz?traffic_source=rss",
+      "publishedAt": "Sun, 26 Jul 2026 19:31:58 +0000"
     },
     {
       "title": "Tadej Pogačar of Slovenia wins the 2026 Tour de France, his fifth victory in the race",
@@ -320,15 +320,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 24,
+      "tempC": 22,
       "description": "clear sky",
-      "high": 26,
+      "high": 29,
       "low": 20
     },
     {
       "place": "London",
-      "tempC": 23,
-      "description": "partly cloudy",
+      "tempC": 20,
+      "description": "mainly clear",
       "high": 26,
       "low": 19
     }
