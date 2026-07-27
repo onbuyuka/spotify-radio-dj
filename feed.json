@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T16:55:42.693Z",
+  "updated": "2026-07-27T19:22:29.888Z",
   "news": [
     {
       "title": "Bahçeli'den Kılıçdaroğlu ve Özel'e çağrı: 'Siyasi mücadele şahsi hesaplaşmanın dışına çıkarılmalı'",
@@ -10,6 +10,14 @@
       "publishedAt": "Mon, 27 Jul 2026 15:10:13 GMT"
     },
     {
+      "title": "Trump'tan F-35 çıkışı: 'Kimse bana ne satıp satmamamız gerektiğini söyleyemez'",
+      "summary": "ABD Başkanı Donald Trump, İsrail Başbakanı Netanyahu'nun, ABD'nin Türkiye'ye F-35 satışına karşı çıkması konusunda, \"Kimse bana kime neyi satıp satmamamız gerektiğini söyleyemez\" dedi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c33y078x83zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 18:21:02 GMT"
+    },
+    {
       "title": "Irak'ın yeni başbakanı Türkiye'ye geliyor: Gündemdeki konular neler?",
       "summary": "Irak’ın yeni Başbakanı Ali Zeydi, göreve gelmesinin ardından üçüncü yurt dışını ziyaretini Türkiye’ye gerçekleştirecek. Ziyarette öne çıkması beklenen konuları inceledik.",
       "source": "BBC Türkçe",
@@ -18,20 +26,12 @@
       "publishedAt": "Mon, 27 Jul 2026 15:17:42 GMT"
     },
     {
-      "title": "Filenin Sultanları şampiyonluk sonrası Türkiye'ye döndü",
-      "summary": "2026 FIVB Milletler Ligi (VNL) şampiyonu olan A Milli Kadın Voleybol Takımı Türkiye'ye döndü.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c23y5yjpzr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 13:33:57 GMT"
-    },
-    {
-      "title": "Ahbap soruşturması: 13 kişi daha gözaltına alındı",
-      "summary": "Adalet Bakanı Akın Gürlek, Ahbap Derneği ile ilgili soruşturmanın dördüncü dalga operasyonunda İstanbul'da 13 kişinin gözaltına alındığını duyurdu.",
+      "title": "Ahbap Derneği'ne kayyum atandı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında Ahbap Derneği'ne kayyum atandı. Derneğin tüm mal varlığının idare yetkisi kayyum yönetimine devredildi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c934g0n55p9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 12:51:19 GMT"
+      "publishedAt": "Mon, 27 Jul 2026 17:45:37 GMT"
     },
     {
       "title": "Ölmek üzere olan babamın hayalini gerçekleştirmek için Atlantik Okyanusu'nu iki yüzen arabayla geçtik",
@@ -50,6 +50,13 @@
       "publishedAt": "Mon, 27 Jul 2026 09:58:20 GMT"
     },
     {
+      "title": "Ahbap Derneği'nde mal varlığı idaresi kayyuma devredildi",
+      "summary": "Ahbap Derneği'ne kayyum atandı. Derneğin tüm malvarlığı idare yetkisi yönetim kayyumuna devredildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-27T20:55:41+03:00"
+    },
+    {
       "title": "Ünlülerin uyuşturucu test sonuçları çıktı",
       "summary": "Ünlülere yönelik yürütülen uyuşturucu soruşturması kapsamında aralarında İlyas Yalçıntaş'ın da bulunduğu isimlerin test sonuçları belli oldu.",
       "source": "NTV",
@@ -64,11 +71,11 @@
       "publishedAt": "2026-07-27T17:51:43+03:00"
     },
     {
-      "title": "AK Parti Sözcüsü Ömer Çelik'ten terörsüz Türkiye mesajı. \"Süreçte mesele yeni başlıyor\"",
+      "title": "AK Parti Sözcüsü Ömer Çelik'ten terörsüz Türkiye mesajı. ''Şimdi geldiğimiz nokta daha kritik bir noktadır''",
       "summary": "AK Parti Sözcüsü Ömer Çelik, terörsüz Türkiye sürecinde yeni bir aşamaya geçildiğini belirterek, \"Süreçte mesele yeni başlıyor. Şimdi daha ince işçilik aşamasındayız.\" dedi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-27T16:55:33+03:00"
+      "publishedAt": "2026-07-27T20:12:22+03:00"
     },
     {
       "title": "Antalya'daki katliam gibi kazada yaşamını yitiren beş kişiye gözyaşlarıyla veda",
@@ -85,11 +92,12 @@
       "publishedAt": "2026-07-27T16:18:49+03:00"
     },
     {
-      "title": "Irak Başbakanı Zeydi Türkiye'ye geliyor",
-      "summary": "Irak Başbakanı Ali ez-Zeydi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine yarın Türkiye'ye geliyor.",
-      "source": "NTV",
+      "title": "Quick Sigorta halka arz ne zaman?",
+      "summary": "Quick Sigorta halka arzı için geri sayım başladı. Sermaye Piyasası Kurulu (SPK) onayının ardından yatırımcıların merakla beklediği talep toplama takvimi de netleşti. Şirket 76,60 TL halka arz fiyatıyla belirtilen tarihlerde talep toplayacak",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-27T16:36:00+03:00"
+      "link": "https://www.haberturk.com/quick-sigorta-halka-arz-tarihleri-2026-quick-sigorta-halka-arz-ne-zaman-kac-lot-verir-katilim-endeksine-uygun-mu-3901450",
+      "publishedAt": "Mon, 27 Jul 2026 17:58:52 GMT"
     },
     {
       "title": "Metgün Enerji halka arz sonuçları",
@@ -108,6 +116,22 @@
       "publishedAt": "Mon, 27 Jul 2026 15:40:45 GMT"
     },
     {
+      "title": "Çılgın Sayısal Loto sonuçları açıklandı",
+      "summary": "Çılgın Sayısal Loto çekiliş sonuçları 27 Temmuz 2026 Pazartesi günü erişime açıldı. Milli Piyango Online tarafından gerçekleştirilen çekilişin ardından kazandıran numaralar belli oldu. Büyük ikramiye için nefesler tutulurken, binlerce kişi ",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/cilgin-sayisal-loto-sonuclari-aciklandi-27-temmuz-2026-sayisal-loto-cekilis-sonucu-sorgulama-ekrani-3901437",
+      "publishedAt": "Mon, 27 Jul 2026 18:40:39 GMT"
+    },
+    {
+      "title": "On Numara sonuçları açıklandı",
+      "summary": "On Numara çekiliş sonuçları 27 Temmuz 2026 Pazartesi günü erişime açıldı. Milli Piyango Online üzerinden gerçekleştirilen çekilişin ardından kazandıran numaralar belli oldu. Şans oyunu tutkunları sonuçları sorgulama ekranı üzerinden biletle",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/son-dakika-on-numara-sonuclari-aciklandi-27-temmuz-2026-on-numara-cekilis-sonucu-sorgulama-ekrani-3901435",
+      "publishedAt": "Mon, 27 Jul 2026 19:11:36 GMT"
+    },
+    {
       "title": "Askerlik yerleri ne zaman açıklanacak?",
       "summary": "2026 Ağustos celp döneminde askere sevk edilecek yükümlüler için sınıflandırma sürecinde sona yaklaşıldı. Er, erbaş, yedek subay ve yedek astsubay adayları; birlik, statü ve sevk bilgilerini içeren sonuçların açıklanacağı tarihi yakından ta",
       "source": "Habertürk",
@@ -116,28 +140,12 @@
       "publishedAt": "Mon, 27 Jul 2026 14:44:26 GMT"
     },
     {
-      "title": "BİM aktüel kataloğu yayında!",
-      "summary": "BİM'in 28-29 Temmuz 2026 aktüel ürünler kataloğu alışveriş tutkunlarının gündemindeki yerini aldı. Haftanın yeni kampanyasında elektronikten mutfak eşyalarına, ev yaşamını kolaylaştıran ürünlerden yaz sezonuna yönelik ihtiyaçlara kadar birç",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bim-28-29-temmuz-aktuel-katalogu-yayinda-bim-de-bu-hafta-neler-var-hangi-urunler-indirimde-3901406",
-      "publishedAt": "Mon, 27 Jul 2026 13:11:23 GMT"
-    },
-    {
-      "title": "A101 Aldın Aldın kataloğu yayında!",
-      "summary": "A101 30 Temmuz 2026 aktüel ürünler kataloğu ile haftanın indirimlerini açıkladı. Perşembe günü satışa sunulacak kampanya kapsamında ev yaşamı, teknoloji, kamp ve kişisel bakım kategorilerinde onlarca ürün avantajlı fiyatlarla müşterilerle b",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/a101-30-temmuz-2026-bu-hafta-indirimleri-yeni-a101-aldin-aldin-aktuel-katalogu-ile-a101-de-bu-persembe-hangi-urunler-indirime-girecek-3901395",
-      "publishedAt": "Mon, 27 Jul 2026 12:33:28 GMT"
-    },
-    {
-      "title": "DGS sonuçları ne zaman açıklanacak?",
-      "summary": "İki yıllık ön lisans eğitimlerini dört yıllık lisans programlarına tamamlamak isteyen binlerce adayın katıldığı 2026 Dikey Geçiş Sınavı (DGS) tamamlandı. Sınav maratonunun sona ermesiyle birlikte adaylar bu kez sonuç takvimine odaklandı. ÖS",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/dgs-sonuclari-ne-zaman-aciklanacak-dikey-gecis-sinavi-dgs-sonuclari-nereden-nasil-sorgulanir-iste-dgs-sonuc-tarihi-3901365",
-      "publishedAt": "Mon, 27 Jul 2026 11:23:37 GMT"
+      "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+      "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 17:50:42 GMT"
     },
     {
       "title": "Devastating European wildfires in maps - and how they're being tackled",
@@ -146,22 +154,6 @@
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 27 Jul 2026 15:59:27 GMT"
-    },
-    {
-      "title": "Oil price dives as US and Iran pause attacks",
-      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 15:08:37 GMT"
-    },
-    {
-      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 12:33:31 GMT"
     },
     {
       "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
@@ -180,60 +172,76 @@
       "publishedAt": "Mon, 27 Jul 2026 13:31:57 GMT"
     },
     {
-      "title": "Carly Simon reveals Parkinson's diagnosis",
-      "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
+      "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
+      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 14:04:01 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 12:33:31 GMT"
     },
     {
-      "title": "Iran: Currently no negotiations with the US",
-      "summary": "Iranian Foreign Ministry Spokesperson, Esmaeil Baghaei, said on Monday that Iran is not seeking negotiations with US.",
-      "source": "Al Jazeera",
+      "title": "Shots fired at US consulate in Toronto for a second time this year",
+      "summary": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people were arrested in June after a similar attack.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 16:08:27 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 16:56:57 GMT"
     },
     {
-      "title": "Israeli raid sparks fire at UN Palestinian refugee centre",
-      "summary": "Israeli forces raided a United Nations Relief and Works Agency for Palestine Refugees training centre.",
+      "title": "Pakistan-administered Kashmir opens polls in violence-wracked vote",
+      "summary": "First of three rounds of voting held after weeks of protests during which dozens of people were killed.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 15:39:58 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 18:53:10 +0000"
     },
     {
-      "title": "Mapping Israeli settler violence in the West Bank",
-      "summary": "Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.",
+      "title": "Are the US and Iran heading towards a forever war?",
+      "summary": "Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 15:27:22 +0000"
+      "link": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 18:40:34 +0000"
     },
     {
-      "title": "How Israel uses settler-soldier terror to colonise the West Bank",
-      "summary": "Settler attacks are not isolated incidents. They are all part of a strategy to grab land and colonise.",
+      "title": "Lebanon’s displaced endure ‘exhaustion and despair’",
+      "summary": "UN High Commissioner for Human Rights Volker said that Lebanon's displaced endure ‘exhaustion and despair’.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/7/27/how-israel-uses-settler-soldier-terror-to-colonise-the-west-bank?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 15:27:09 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 18:28:06 +0000"
     },
     {
-      "title": "Why Venezuela is leaving the ICC",
-      "summary": "Venezuela is withdrawing from the International Criminal Court, accusing it of bias against the Global South.",
+      "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
+      "summary": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/why-venezuela-is-leaving-the-icc?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 15:22:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 17:58:27 +0000"
     },
     {
-      "title": "Why a new war in Yemen could be different for the Houthis",
-      "summary": "Recent developments strengthen anti-Houthi forces in Yemen as signs indicate that a re-eruption of the war is imminent.",
+      "title": "War on Iran: Phase II: Day 16",
+      "summary": "The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/27/why-a-new-war-in-yemen-could-be-different-for-the-houthis?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 15:20:32 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 17:57:43 +0000"
+    },
+    {
+      "title": "Burnham welcomes Zelenskyy as first international guest",
+      "summary": "Andy Burnham, Britain’s new prime minister, welcomed Ukrainian President Volodymyr Zelenskyy to the United Kingdom.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/burnham-welcomes-zelenskyy-as-first-international-guest?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 17:55:38 +0000"
+    },
+    {
+      "title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
+      "summary": "South Asia's leaders have long boasted about their demographic dividend. But the region's young people are turning it into a political reckoning.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
+      "publishedAt": "Mon, 27 Jul 2026 12:54:28 -0400"
     },
     {
       "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
@@ -245,7 +253,7 @@
     },
     {
       "title": "France continues to fight devastating wildfires, while progress is made in Spain",
-      "summary": "In southern France a wildfire in the region of Gironde is still active, while two major fires in central Spain are finally coming under control, ahead of the fourth heat wave of the summer.",
+      "summary": "In southern France, a wildfire in the region of Gironde is still active, while two major fires in central Spain are finally coming under control, ahead of the fourth heat wave of the summer.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
       "publishedAt": "Mon, 27 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Morning news brief",
-      "summary": "Three people were killed in a shooting at a Seattle food festival Sunday, U.S and Iran pause airstrikes, with less than 100 days left until Election Day, a look at how the midterms are shaping up.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5901889/morning-news-brief",
-      "publishedAt": "Mon, 27 Jul 2026 04:43:38 -0400"
     },
     {
       "title": "Uganda begins emergency food handouts after 19 die from hunger",
@@ -320,7 +320,7 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 27,
+      "tempC": 25,
       "description": "clear sky",
       "high": 29,
       "low": 20
@@ -329,7 +329,7 @@
       "place": "London",
       "tempC": 26,
       "description": "mainly clear",
-      "high": 26,
+      "high": 27,
       "low": 17
     }
   ],
