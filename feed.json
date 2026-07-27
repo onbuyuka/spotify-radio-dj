@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-27T19:22:29.888Z",
+  "updated": "2026-07-27T22:03:45.642Z",
   "news": [
+    {
+      "title": "Özel: '200'den fazla belediye Yeni Parti'ye geçecek'",
+      "summary": "CHP'den istifa ederek, Yeni Parti'yi kurduktan sonra ilk kez bir televizyon programına katılan Özel, gazetecilerin gündeme ilişkin sorularını yanıtladı. Özel, 200'ün üzerine belediyenin Yeni Parti'ye katılacağını açıkladı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c5y4gr0521po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 19:27:57 GMT"
+    },
     {
       "title": "Bahçeli'den Kılıçdaroğlu ve Özel'e çağrı: 'Siyasi mücadele şahsi hesaplaşmanın dışına çıkarılmalı'",
       "summary": "MHP lideri Devlet Bahçeli, Cumhuriyet Halk Partisi lideri Kemal Kılıçdaroğlu ve Yeni Parti lideri Özgür Özel'e iki parti arasındaki tartışmaları \"Türkiye'nin ana gündem maddesi haline getirmeme\" çağrısı yaptı.",
@@ -26,14 +34,6 @@
       "publishedAt": "Mon, 27 Jul 2026 15:17:42 GMT"
     },
     {
-      "title": "Ahbap Derneği'ne kayyum atandı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında Ahbap Derneği'ne kayyum atandı. Derneğin tüm mal varlığının idare yetkisi kayyum yönetimine devredildi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c934g0n55p9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 17:45:37 GMT"
-    },
-    {
       "title": "Ölmek üzere olan babamın hayalini gerçekleştirmek için Atlantik Okyanusu'nu iki yüzen arabayla geçtik",
       "summary": "İki genç İtalyan, ölmek üzere olan babalarının son hayalini gerçekleştirmek için yüzen arabalarla Atlantik Okyanusu'nu geçmeye çalıştı.",
       "source": "BBC Türkçe",
@@ -42,12 +42,33 @@
       "publishedAt": "Mon, 27 Jul 2026 04:24:47 GMT"
     },
     {
-      "title": "CHP'li 265 eski vekil Yeni Parti'ye destek için istifa etti",
-      "summary": "CHP'li 265 eski milletvekili, Yeni Parti'ye destek olmak için topluca CHP'den istifa etti.",
+      "title": "Ahbap Derneği'ne kayyum atandı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında Ahbap Derneği'ne kayyum atandı. Derneğin tüm mal varlığının idare yetkisi kayyum yönetimine devredildi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c5y0mvmqne2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 09:58:20 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c934g0n55p9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 17:45:37 GMT"
+    },
+    {
+      "title": "Özgür Özel: 200'ün üzerinde belediye başkanı Yeni Parti'ye geçecek",
+      "summary": "Yeni Parti Genel Başkanı Özgür Özel, 200'ün üzerinde belediye başkanının partiye katılacağını belirterek, \"Öyle bir sel geliyor ki, 'Dur' diyemiyoruz. Siyasi tarihte görülmemiş bir istek ve destek var.\" ifadelerini kullandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-28T00:30:53+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 28 Temmuz 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 28 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-28T01:00:00+03:00"
+    },
+    {
+      "title": "TUSAŞ Genel Müdürü Demiroğlu: Türkiye, NATO’nun gelecekteki güvenlik mimarisine stratejik katkı sağlıyor",
+      "summary": "Türk Havacılık ve Uzay Sanayii (TUSAŞ) Genel Müdürü Mehmet Demiroğlu, Türkiye'nin NATO’nun gelecekteki güvenlik mimarisine stratejik katkı sağladığını bildirdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-27T23:56:33+03:00"
     },
     {
       "title": "Ahbap Derneği'nde mal varlığı idaresi kayyuma devredildi",
@@ -71,89 +92,68 @@
       "publishedAt": "2026-07-27T17:51:43+03:00"
     },
     {
-      "title": "AK Parti Sözcüsü Ömer Çelik'ten terörsüz Türkiye mesajı. ''Şimdi geldiğimiz nokta daha kritik bir noktadır''",
-      "summary": "AK Parti Sözcüsü Ömer Çelik, terörsüz Türkiye sürecinde yeni bir aşamaya geçildiğini belirterek, \"Süreçte mesele yeni başlıyor. Şimdi daha ince işçilik aşamasındayız.\" dedi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-27T20:12:22+03:00"
-    },
-    {
-      "title": "Antalya'daki katliam gibi kazada yaşamını yitiren beş kişiye gözyaşlarıyla veda",
-      "summary": "Antalya'nın Manavgat ilçesinde uçuruma yuvarlanan araçta hayatını kaybeden aynı aileden beş kişi, Konya'da toprağa verildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-27T16:54:44+03:00"
-    },
-    {
-      "title": "Trafikte dehşet: Aracından inip kamyonet sürücüsüne saldırdı",
-      "summary": "Niğde'de trafikte çıkan tartışmada otomobilinden inen sürücü, tartıştığı kargo çalışanını aracının içinde darbetti. Darp anı trafikteki başka bir sürücünün kask kamerasına yansıdı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-27T16:18:49+03:00"
-    },
-    {
-      "title": "Quick Sigorta halka arz ne zaman?",
-      "summary": "Quick Sigorta halka arzı için geri sayım başladı. Sermaye Piyasası Kurulu (SPK) onayının ardından yatırımcıların merakla beklediği talep toplama takvimi de netleşti. Şirket 76,60 TL halka arz fiyatıyla belirtilen tarihlerde talep toplayacak",
+      "title": "MasterChef kim kazandı?",
+      "summary": "MasterChef Türkiye 2026'da ana kadro seçmeleri tüm heyecanıyla devam ediyor. İkinci grupta mücadele eden yarışmacılar, ana kadroya girebilmek için şeflerin karşısında son kez hünerlerini sergiledi. Somer Sivrioğlu, Mehmet Yalçınkaya ve Dani",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/quick-sigorta-halka-arz-tarihleri-2026-quick-sigorta-halka-arz-ne-zaman-kac-lot-verir-katilim-endeksine-uygun-mu-3901450",
-      "publishedAt": "Mon, 27 Jul 2026 17:58:52 GMT"
+      "link": "https://www.haberturk.com/masterchef-kim-kazandi-27-temmuz-pazartesi-masterchef-ana-kadroya-kim-girdi-ana-kadroya-giren-10-yarismaci-kim-oldu-3901457",
+      "publishedAt": "Mon, 27 Jul 2026 21:17:38 GMT"
     },
     {
-      "title": "Metgün Enerji halka arz sonuçları",
-      "summary": "Metgün Enerji halka arz sonuçları yatırımcılarla paylaşıldı. Hisseler, 20,00 TL sabit fiyatla yatırımcılara sunuldu. Şirketin halka arzında talepler 22-23-24 Temmuz 2026 tarihlerinde toplandı. Halka arzın tamamlanmasının ardından yatırımcıl",
+      "title": "Bewen Enerji halka arz ne zaman?",
+      "summary": "Bewen Enerji A.Ş.'nin halka arzı için yatırımcıların beklediği talep toplama takvimi netleşti. Halka arzda pay fiyatı 48,10 TL olarak belirlenirken, satış sabit fiyat yöntemiyle gerçekleştirilecek. Yenilenebilir enerji alanında faaliyet gös",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/metgun-enerji-halka-arz-sonuclari-aciklandi-mi-metgun-enerji-kac-lot-verdi-meten-borsada-ne-zaman-islem-gormeye-baslayacak-3901444",
-      "publishedAt": "Mon, 27 Jul 2026 16:06:20 GMT"
+      "link": "https://www.haberturk.com/bewen-enerji-halka-arz-ne-zaman-kac-lot-verir-hisse-fiyati-ne-kadar-bewen-enerji-katilim-endeksine-uygun-mu-3901451",
+      "publishedAt": "Mon, 27 Jul 2026 21:09:10 GMT"
     },
     {
-      "title": "Kıyametten Sonra filmi konusu ve oyuncuları",
-      "summary": "Kıyametten Sonra filmi, 27 Temmuz Pazartesi akşamı televizyon ekranlarında izleyici ile buluşmaya hazırlanıyor. Kıyametten Sonra (Survive), hayatta kalma mücadelesini merkezine alan sürükleyici bir bilim kurgu ve gerilim filmidir. Filmin yö",
+      "title": "Elazığ'da deprem!",
+      "summary": "Son depremler 27 Temmuz 2026 Pazartesi günü de vatandaşların en çok araştırdığı konular arasında yer alıyor. Gün içerisinde hissedilen sarsıntıların ardından \"Az önce deprem mi oldu?\", \"Deprem nerede meydana geldi?\", \"Kaç büyüklüğündeydi?\" ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/kiyametten-sonra-filmi-konusu-nedir-basrol-oyunculari-kimler-kiyametten-sonra-ne-zaman-cekildi-3901441",
-      "publishedAt": "Mon, 27 Jul 2026 15:40:45 GMT"
+      "link": "https://www.haberturk.com/son-dakika-deprem-mi-oldu-son-depremler-27-temmuz-2026-afad-kandilli-az-once-deprem-mi-oldu-nerede-ve-kac-siddetinde-3901261",
+      "publishedAt": "Mon, 27 Jul 2026 21:33:06 GMT"
     },
     {
-      "title": "Çılgın Sayısal Loto sonuçları açıklandı",
-      "summary": "Çılgın Sayısal Loto çekiliş sonuçları 27 Temmuz 2026 Pazartesi günü erişime açıldı. Milli Piyango Online tarafından gerçekleştirilen çekilişin ardından kazandıran numaralar belli oldu. Büyük ikramiye için nefesler tutulurken, binlerce kişi ",
+      "title": "En düşük emekli maaşı ne kadar oldu?",
+      "summary": "En düşük emekli maaşına ilişkin milyonlarca emeklinin beklediği düzenlemede önemli bir gelişme yaşandı. En düşük emekli aylığının 23 bin 552 liraya yükseltilmesini öngören madde, TBMM Genel Kurulu'nda kabul edildi. Düzenlemenin yürürlüğe gi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/cilgin-sayisal-loto-sonuclari-aciklandi-27-temmuz-2026-sayisal-loto-cekilis-sonucu-sorgulama-ekrani-3901437",
-      "publishedAt": "Mon, 27 Jul 2026 18:40:39 GMT"
+      "link": "https://www.haberturk.com/en-dusuk-emekli-maasi-ne-kadar-oldu-en-dusuk-emekli-maasi-resmi-gazete-de-yayimlandi-mi-emekli-maas-farki-ne-kadar-yatacak-3901216",
+      "publishedAt": "Mon, 27 Jul 2026 21:37:33 GMT"
     },
     {
-      "title": "On Numara sonuçları açıklandı",
-      "summary": "On Numara çekiliş sonuçları 27 Temmuz 2026 Pazartesi günü erişime açıldı. Milli Piyango Online üzerinden gerçekleştirilen çekilişin ardından kazandıran numaralar belli oldu. Şans oyunu tutkunları sonuçları sorgulama ekranı üzerinden biletle",
+      "title": "12. Yargı Paketi maddeleri neler?",
+      "summary": "Kamuoyunda \"12. Yargı Paketi\" olarak bilinen Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun Teklifi, TBMM Genel Kurulunda kabul edilerek yasalaştı. Düzenlemenin yasalaşmasının ardından gözler ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/son-dakika-on-numara-sonuclari-aciklandi-27-temmuz-2026-on-numara-cekilis-sonucu-sorgulama-ekrani-3901435",
-      "publishedAt": "Mon, 27 Jul 2026 19:11:36 GMT"
+      "link": "https://www.haberturk.com/12-yargi-paketi-son-dakika-12-yargi-paketi-ne-zaman-cikacak-maddeleri-neler-resmi-gazete-de-yayimlandi-mi-3901213",
+      "publishedAt": "Mon, 27 Jul 2026 21:32:34 GMT"
     },
     {
-      "title": "Askerlik yerleri ne zaman açıklanacak?",
-      "summary": "2026 Ağustos celp döneminde askere sevk edilecek yükümlüler için sınıflandırma sürecinde sona yaklaşıldı. Er, erbaş, yedek subay ve yedek astsubay adayları; birlik, statü ve sevk bilgilerini içeren sonuçların açıklanacağı tarihi yakından ta",
+      "title": "Emekli maaş zam farkları ne zaman yatacak?",
+      "summary": "Geçtiğimiz günlerde Temmuz faiz oranları ve son 6 ayın enflasyon rakamları açıklandıktan sonra hem emekli hem de memur maaşlarına düzenlemeler yapıldı. Milyonlarca emeklinin merak ettiği konuların başında ise en düşük emekli maaşının ne kad",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/askerlik-yerleri-sorgulama-e-devlet-ekrani-2026-agustos-donemi-askerlik-siniflandirma-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-3901422",
-      "publishedAt": "Mon, 27 Jul 2026 14:44:26 GMT"
+      "link": "https://www.haberturk.com/emekli-maasi-farki-odemeleri-ssk-bag-kur-emekli-maas-zam-farklari-hangi-tarihte-hesaplara-yatirilacak-en-dusuk-emekli-maasi-ne-kadar-oldu-3900998",
+      "publishedAt": "Mon, 27 Jul 2026 21:31:51 GMT"
     },
     {
-      "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+      "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
       "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 17:50:42 GMT"
+      "publishedAt": "Mon, 27 Jul 2026 20:34:55 GMT"
     },
     {
-      "title": "Devastating European wildfires in maps - and how they're being tackled",
-      "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+      "title": "Trump says Iran war talks taking place during lull in strikes",
+      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 15:59:27 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 21:10:56 GMT"
     },
     {
       "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
@@ -164,20 +164,20 @@
       "publishedAt": "Mon, 27 Jul 2026 16:33:05 GMT"
     },
     {
-      "title": "More than 600 US military service members injured since Iran War began in February",
-      "summary": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 27 Jul 2026 13:31:57 GMT"
-    },
-    {
       "title": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
       "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 27 Jul 2026 12:33:31 GMT"
+    },
+    {
+      "title": "US singer D4vd to go on trial for murder in death of teen",
+      "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 27 Jul 2026 21:37:59 GMT"
     },
     {
       "title": "Shots fired at US consulate in Toronto for a second time this year",
@@ -188,52 +188,76 @@
       "publishedAt": "Mon, 27 Jul 2026 16:56:57 GMT"
     },
     {
-      "title": "Pakistan-administered Kashmir opens polls in violence-wracked vote",
-      "summary": "First of three rounds of voting held after weeks of protests during which dozens of people were killed.",
+      "title": "Video shows man subdued after stabbing three women in Paris",
+      "summary": "Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 18:53:10 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 21:27:08 +0000"
     },
     {
-      "title": "Are the US and Iran heading towards a forever war?",
-      "summary": "Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.",
+      "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
+      "summary": "A lower court blocked the mail-in ballot restrictions, ruling Trump lacked authority to change state election rules.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 18:40:34 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 21:24:31 +0000"
     },
     {
-      "title": "Lebanon’s displaced endure ‘exhaustion and despair’",
-      "summary": "UN High Commissioner for Human Rights Volker said that Lebanon's displaced endure ‘exhaustion and despair’.",
+      "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
+      "summary": "UN chief Guterres labels settlements 'flagrant violation' of international law amid escalating violence.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/lebanons-displaced-endure-exhaustion-and?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 18:28:06 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 21:17:15 +0000"
     },
     {
-      "title": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
-      "summary": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
+      "title": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
+      "summary": "Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 17:58:27 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 21:08:21 +0000"
     },
     {
-      "title": "War on Iran: Phase II: Day 16",
-      "summary": "The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.",
+      "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+      "summary": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 17:57:43 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 21:04:09 +0000"
     },
     {
-      "title": "Burnham welcomes Zelenskyy as first international guest",
-      "summary": "Andy Burnham, Britain’s new prime minister, welcomed Ukrainian President Volodymyr Zelenskyy to the United Kingdom.",
+      "title": "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
+      "summary": "Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/burnham-welcomes-zelenskyy-as-first-international-guest?traffic_source=rss",
-      "publishedAt": "Mon, 27 Jul 2026 17:55:38 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss",
+      "publishedAt": "Mon, 27 Jul 2026 20:47:26 +0000"
+    },
+    {
+      "title": "Platner energized Maine's Democrats. Jackson's challenge will be to keep them engaged",
+      "summary": "Democrats have a new candidate for U.S. Senate in Maine: Troy Jackson. In one of the country's most closely-watched races, he'll have less than 100 days to make his case.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5902276/platner-energized-maines-democrats-jacksons-challenge-will-be-to-keep-them-engaged",
+      "publishedAt": "Mon, 27 Jul 2026 17:29:27 -0400"
+    },
+    {
+      "title": "Authors wary of content ownership despite court ruling on Anthropic case",
+      "summary": "The literary world is celebrating Anthropic's $1.5 billion settlement with authors. But AI firms may still train models on legally purchased books. What does that mean?",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5904606/authors-wary-of-content-ownership-despite-court-ruling-on-anthropic-case",
+      "publishedAt": "Mon, 27 Jul 2026 16:49:57 -0400"
+    },
+    {
+      "title": "Inside Joe Manchin's new quest to elect more Independents to Congress",
+      "summary": "The former West Virginia senator was a lifelong Democrat before deciding to register as an independent two years ago. He now wants to create similar pathways for other politicians in both parties.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/27/nx-s1-5906367/joe-manchin-independent-candidates-congress",
+      "publishedAt": "Mon, 27 Jul 2026 15:55:05 -0400"
     },
     {
       "title": "The 'cockroach' in the machine: How Gen Z is rattling South Asia's elites",
@@ -258,30 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
       "publishedAt": "Mon, 27 Jul 2026 06:50:09 -0400"
-    },
-    {
-      "title": "In Memphis, an 'anti-crime' task force quietly turned into an ICE crackdown",
-      "summary": "The influx of federal agents into the city last fall led to widespread immigration arrests – a majority without criminal convictions. President Trump has said he wants to replicate it elsewhere.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force",
-      "publishedAt": "Mon, 27 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Kalshi attacks a Wisconsin law banning election bets as 'voter suppression'",
-      "summary": "The spat between the leading prediction market company and a key battleground state could be a glimpse into the next major fight between states and the fast-growing industry.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
-      "publishedAt": "Mon, 27 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Baltimore will turn 911 into more than just an emergency number",
-      "summary": "Baltimore is rethinking what it means to call 911, and who responds. Callers who don't need police will get help finding social services and healthcare before they actually fall into crisis.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
-      "publishedAt": "Mon, 27 Jul 2026 05:00:00 -0400"
     },
     {
       "title": "Uganda begins emergency food handouts after 19 die from hunger",
@@ -322,13 +322,13 @@
       "place": "İstanbul",
       "tempC": 25,
       "description": "clear sky",
-      "high": 29,
-      "low": 20
+      "high": 31,
+      "low": 23
     },
     {
       "place": "London",
-      "tempC": 26,
-      "description": "mainly clear",
+      "tempC": 23,
+      "description": "clear sky",
       "high": 27,
       "low": 17
     }
