@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-28T13:58:46.985Z",
+  "updated": "2026-07-28T16:38:45.956Z",
   "news": [
     {
-      "title": "Japonya'da 7.1'lik depremde çöken alışveriş merkezinde ölüler var",
-      "summary": "Japonya'nın güneyindeki Kumamoto'daki 7.1 büyüklüğünde depremde çöken bir alışveriş merkezinde çok sayıda ölü olabileceğinden endile ediliyor.",
+      "title": "Çerçeve yasa için geri sayım: 'Gelecek hafta yasalaşabilir'",
+      "summary": "AKP'nin \"Terörsüz Türkiye\" adını verdiği süreç kapsamında hazırlanan çerçeve yasa teklifinde çalışmalar son aşamaya geldi. İktidar partisi, yasa teklifi taslağını hafta sonuna kadar tamamlamayı, ardından teklif Meclis'e sunulmadan önce siya",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ckg4rndrw57o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 16:19:00 GMT"
+    },
+    {
+      "title": "Trump-Netanyahu görüşmesi başladı",
+      "summary": "İsrail Başbakanı Binyamin Netanyahu, 28 Şubat'ta İran'a ortak saldırı başlatmalarından bu yana ABD Başkanı Donald Trump ile ilk kez yüz yüze görüşüyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c36d58wrxy2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 16:27:33 GMT"
+    },
+    {
+      "title": "Japonya'da 7.1'lik depremde bir alışveriş merkezinde 'ölüler' var",
+      "summary": "Japonya'nın güneyindeki Kumamoto'daki 7.1 büyüklüğünde depremde çökme yaşanan bir alışveriş merkezinde ölüler olduğu bildirildi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c5yd84778d8o?at_medium=RSS&at_campaign=rss",
@@ -18,12 +34,12 @@
       "publishedAt": "Tue, 28 Jul 2026 09:51:20 GMT"
     },
     {
-      "title": "AB süreci tıkanan Türkiye Avrupa ile ikili ilişkilere odaklanıyor",
-      "summary": "Avrupa Birliği'ne katılım süreci tıkanan ve birliğin yeni savunma girişimlerinin dışında bırakılan Türkiye, Avrupa ülkeleriyle ikili ilişkilerini derinleştirme stratejisine yönelmiş görünüyor. BBC'nin medya izleme servisi BBC Monitoring, Tü",
+      "title": "Zidane Fransa'nın başına geçti, ilk maçı Türkiye ile",
+      "summary": "Fransa Futbol Federasyonu (FFF), Didier Deschamps'ın ayrılmasının ardından, Zinedine Zidane'ın Fransa milli takımı teknik direktörlüğüne getirildiğini resmen duyurdu.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cn8ng0d0q6wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 02:46:43 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c3w01qvq0g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 14:25:49 GMT"
     },
     {
       "title": "BM Genel Sekreteri Guterres Kıbrıs'ta: Yeni bir 'Annan Planı' çıkabilir mi?",
@@ -31,23 +47,14 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cj4k5l7pgdxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 07:55:15 GMT"
+      "publishedAt": "Tue, 28 Jul 2026 14:10:56 GMT"
     },
     {
-      "title": "Zidane Fransa'nın başına geçti, ilk maçı Türkiye ile",
-      "summary": "Fransa Futbol Federasyonu (FFF), Didier Deschamps'ın ayrılmasının ardından, Zinedine Zidane'ın Fransa milli takımı teknik direktörlüğüne getirildiğini resmen duyurdu.",
-      "source": "BBC Türkçe",
+      "title": "Cumhurbaşkanı Erdoğan, Irak Başbakanı Zeydi'yi resmi törenle karşıladı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'yi ziyaret eden Irak Başbakanı Ali ez-Zeydi'yi resmi törenle karşıladı.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c3w01qvq0g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 10:05:01 GMT"
-    },
-    {
-      "title": "Fransa'da orman yangınları: 'İkinci Dünya Savaşı'ndan bu yana en kötüsü'",
-      "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, Bordeaux kentine yaklaşan orman yangınlarının \"İkinci Dünya Savaşı'ndan bu yana en kötü yangın\" olduğunu söyledi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cdx71e1g114o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 08:13:53 GMT"
+      "publishedAt": "2026-07-28T17:41:52+03:00"
     },
     {
       "title": "D-100'ü savaş alanına çeviren kaza. Ulaşım 1,5 saat durdu",
@@ -68,7 +75,7 @@
       "summary": "Yeni Parti'nin kurulmasıyla birlikte Meclis'teki oturma düzeni de değişti. \"Ana muhalefet\" konumunu kaybederek beşinci sıraya gerileyen CHP, DEM Parti ve MHP arasına oturdu. CHP sıralarına ise Yeni Partili vekiller geçti.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-28T16:13:26+03:00"
+      "publishedAt": "2026-07-28T16:47:04+03:00"
     },
     {
       "title": "Aliağa'da gemi söküm tesisinde korkutan yangın",
@@ -85,11 +92,28 @@
       "publishedAt": "2026-07-28T15:45:49+03:00"
     },
     {
-      "title": "Bursa'da şişme botla denize açılmıştı: Panik anları ortaya çıktı",
-      "summary": "Bursa'nın Mudanya ilçesinde şişme botuyla denize açılan ve sonrasında panikleyen çocuk, iskele görevlisinin dikkati sayesiyle kurtarıldı. O anlara ait görüntüler ortaya çıktı.",
-      "source": "NTV",
+      "title": "Albayrak ne zaman borsada işlem görecek?",
+      "summary": "Albayrak Hazır Beton Sanayi ve Ticaret A.Ş.'nin halka arz sürecinin tamamlanmasının ardından yatırımcıların gözü Borsa İstanbul'da işlem göreceği tarihe çevrildi. 22-23 Temmuz 2026 tarihlerinde talep toplayan şirketin halka arz sonuçları ge",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-28T15:22:26+03:00"
+      "link": "https://www.haberturk.com/albayrak-hazir-beton-ne-zaman-borsada-islem-gorecek-albtn-albayrak-hazir-beton-kac-lot-verdi-3901734",
+      "publishedAt": "Tue, 28 Jul 2026 16:11:54 GMT"
+    },
+    {
+      "title": "Arıcı: Ölüm Kovanı filmi konusu ve oyuncuları",
+      "summary": "Aksiyon ve gerilim türündeki Arıcı: Ölüm Kovanı (The Beekeeper), yüksek temposu ve sürükleyici hikâyesiyle dikkat çeken yapımlar arasında yer alıyor. Filmin yönetmen koltuğunda David Ayer otururken, senaryosunu Kurt Wimmer kaleme aldı. Başr",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/arici-olum-kovani-filmi-konusu-nedir-oyunculari-kimler-arici-olum-kovani-ne-zaman-cekildi-vizyon-tarihi-ne-zaman-3901727",
+      "publishedAt": "Tue, 28 Jul 2026 15:38:35 GMT"
+    },
+    {
+      "title": "Trabzon'da 850 metrelik dağ kızağı hizmete başladı",
+      "summary": "Trabzon'un Yomra ilçesinde inşa edilen 850 metrelik dağ kızağı tesisi, törenle hizmete başladı. Açılışta konuşan Büyükşehir Belediye Başkanı Ahmet Metin Genç, Trabzon'un son yıllarda turizmle öne çıktığını belirterek, \"Gelişen turizm, şehri",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/trabzon-da-850-metrelik-dag-kizagi-hizmete-basladi-3901721",
+      "publishedAt": "Tue, 28 Jul 2026 15:36:17 GMT"
     },
     {
       "title": "Midtjylland-Beşiktaş maçı ne zaman?",
@@ -116,28 +140,20 @@
       "publishedAt": "Tue, 28 Jul 2026 11:33:00 GMT"
     },
     {
-      "title": "Kademeli emeklilik ne zaman çıkacak?",
-      "summary": "Kademeli emeklilik düzenlemesine ilişkin son gelişmeler, EYT kapsamı dışında kalan milyonlarca çalışanın gündemindeki yerini koruyor. Özellikle 1999 sonrası sigorta girişi bulunan kişiler, TBMM'de sunulan kanun tekliflerine ve Çalışma ve So",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/kademeli-erken-emeklilik-ne-zaman-cikacak-sartlari-neler-eyt-kapsami-disinda-kalanlar-dikkat-3901628",
-      "publishedAt": "Tue, 28 Jul 2026 10:37:33 GMT"
+      "title": "Gironde wildfires flare up as French region braces for new 40C heatwave",
+      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 16:14:03 GMT"
     },
     {
-      "title": "MTV 2. taksit ödemeleri ne zaman bitiyor?",
-      "summary": "2026 yılı Motorlu Taşıtlar Vergisi’nin ikinci taksit ödemelerinde son gün yaklaşırken araç sahipleri işlemlerini tamamlamaya yöneldi. Yılın ilk taksiti Ocak ayında ödenirken ikinci taksit için Temmuz döneminde başlayan süreçte geri sayım sü",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/mtv-borc-sorgulama-ekrani-temmuz-2026-motorlu-tasitlar-vergisi-mtv-2-taksit-odemeleri-ne-zaman-hangi-gun-bitiyor-mtv-taksit-odemesi-nasil-yapilir-3901624",
-      "publishedAt": "Tue, 28 Jul 2026 10:28:51 GMT"
-    },
-    {
-      "title": "ŞOK 29 Temmuz aktüel kataloğu",
-      "summary": "ŞOK’un 29 Temmuz-4 Ağustos 2026 tarihleri arasında geçerli olacak Haftanın Fırsatları kataloğu tüketicilerle buluştu. Çarşamba gününden itibaren mağazalarda ve ŞOK’un internet sitesi üzerinden satışa çıkacak kampanyalı ürünler arasında klim",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/yarin-satista-sok-29-temmuz-2026-aktuel-katalogu-sok-carsamba-firsat-urunleri-neler-sok-markete-klima-speaker-tv-ve-daha-fazlasi-geliyor-3901615",
-      "publishedAt": "Tue, 28 Jul 2026 13:30:21 GMT"
+      "title": "Uefa reacts with fury to Infantino World Cup plan",
+      "summary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 15:36:29 GMT"
     },
     {
       "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
@@ -164,28 +180,52 @@
       "publishedAt": "Tue, 28 Jul 2026 11:50:59 GMT"
     },
     {
-      "title": "Zidane confirmed as France head coach",
-      "summary": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
+      "title": "'A narcissist': Victim's family hits out at Kohberger for challenging murder conviction",
+      "summary": "The man accused of killing four students in Idaho is taking back his plea, which was made to avoid the death penalty.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 09:03:49 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 28 Jul 2026 12:27:48 GMT"
     },
     {
-      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
-      "source": "BBC World",
+      "title": "Is Netanyahu’s Trump card losing its power in Israel?",
+      "summary": "As US ties fray, Netanyahu's claim to unrivalled influence in Washington is under growing scrutiny.",
+      "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 09:45:10 GMT"
+      "link": "https://www.aljazeera.com/news/2026/7/28/is-netanyahus-trump-card-losing-its-power-in-israel?traffic_source=rss",
+      "publishedAt": "Tue, 28 Jul 2026 15:39:42 +0000"
     },
     {
-      "title": "Ariana Grande sues hackers who leaked music and videos",
-      "summary": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.",
-      "source": "BBC World",
+      "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
+      "summary": "Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be compensated from frozen Iranian funds.",
+      "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 28 Jul 2026 08:37:12 GMT"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss",
+      "publishedAt": "Tue, 28 Jul 2026 15:28:33 +0000"
+    },
+    {
+      "title": "Trump expresses frustration with Netanyahu before White House meeting",
+      "summary": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
+      "publishedAt": "Tue, 28 Jul 2026 15:21:43 +0000"
+    },
+    {
+      "title": "German investigators find apparent motive after Berlin Pride attack",
+      "summary": "Prosecutors say they uncover video of accused Berlin Pride attacker pledging allegiance to ISIL (ISIS).",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/7/28/german-investigators-find-apparent-motive-after-berlin-pride-attack?traffic_source=rss",
+      "publishedAt": "Tue, 28 Jul 2026 15:20:43 +0000"
+    },
+    {
+      "title": "FIFA World Cup: For India, qualification is still just a distant dream",
+      "summary": "India failed to qualify for next year's Asian Cup, making a FIFA World Cup 2030 or 2034 appearance unlikely.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/sports/2026/7/28/fifa-world-cup-for-india-football-qualification-is-still-just-a-distant-dream?traffic_source=rss",
+      "publishedAt": "Tue, 28 Jul 2026 14:45:14 +0000"
     },
     {
       "title": "Iraqi PM visits Turkiye to boost ties despite complex challenges",
@@ -196,44 +236,20 @@
       "publishedAt": "Tue, 28 Jul 2026 13:55:52 +0000"
     },
     {
-      "title": "France and Spain brace for heatwave that could worsen raging wildfires",
-      "summary": "Both countries expect to see temperatures soar into Wednesday, which could cause the blazes to spread.",
-      "source": "Al Jazeera",
+      "title": "Photos: Spain and France's battle record wildfires",
+      "summary": "Hundreds of thousands of people have been forced from their homes as powerful wildfires sweep across Spain and France, revealing the growing scale of a climate crisis already reshaping the continent.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/28/france-and-spain-brace-for-heatwave-that-could-worsen-raging-wildfires?traffic_source=rss",
-      "publishedAt": "Tue, 28 Jul 2026 13:39:23 +0000"
+      "link": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
+      "publishedAt": "Tue, 28 Jul 2026 11:24:07 -0400"
     },
     {
-      "title": "Roberto Mancini to be named Italy head coach for second time, source says",
-      "summary": "Mancini coached the national side in 2018-2023 and reportedly returns to the job with Italy having missed the World Cup.",
-      "source": "Al Jazeera",
+      "title": "'Ricochet' explores how the right to bear arms expands -- while gun laws contract",
+      "summary": "The New York Times reporter Mike McIntire says gun companies and the NRA are broadening the scope of the Second Amendment, socializing kids to appreciate guns and marketing a new brand of masculinity.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/28/mancini-to-become-italy-head-coach-for-second-time-source-says?traffic_source=rss",
-      "publishedAt": "Tue, 28 Jul 2026 13:19:48 +0000"
-    },
-    {
-      "title": "Israeli soldier runs marathon around Gaza outpost",
-      "summary": "An Israeli soldier filmed himself running a marathon around a military outpost in Gaza.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
-      "publishedAt": "Tue, 28 Jul 2026 13:18:48 +0000"
-    },
-    {
-      "title": "Tate brothers face at least two more weeks in US jail as bail bid reviewed",
-      "summary": "The conditions faced by the brothers in prison in Miami are a far cry from the luxury lifestyle they once flaunted.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/28/tate-brothers-face-at-least-two-more-weeks-in-us-jail-as-bail-bid-reviewed?traffic_source=rss",
-      "publishedAt": "Tue, 28 Jul 2026 13:17:24 +0000"
-    },
-    {
-      "title": "Trump says ‘good chance’ of progress in Iran talks. What we know",
-      "summary": "Negotiators are trying to break the deadlock over transit fees and management of the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss",
-      "publishedAt": "Tue, 28 Jul 2026 13:06:02 +0000"
+      "link": "https://www.npr.org/2026/07/28/nx-s1-5910517/ricochet-explores-how-the-right-to-bear-arms-expands-while-gun-laws-contract",
+      "publishedAt": "Tue, 28 Jul 2026 11:08:04 -0400"
     },
     {
       "title": "Here are the 13 books that made the Booker Prize longlist",
@@ -244,8 +260,8 @@
       "publishedAt": "Tue, 28 Jul 2026 09:05:31 -0400"
     },
     {
-      "title": "A strong earthquake shakes part of southern Japan but no tsunami detected",
-      "summary": "The quake shook Kumamoto, on Japan's southern main island of Kyushu, late Tuesday afternoon local time, causing damage and injuries.",
+      "title": "A 7.1 quake hits Japan's Kyushu, trapping people in a collapsed shopping mall",
+      "summary": "The quake shook Japan's southern main island of Kyushu late Tuesday afternoon local time, causing damage and injuries.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
       "publishedAt": "Tue, 28 Jul 2026 06:30:00 -0400"
-    },
-    {
-      "title": "Yes, it's possible to save money while paying off credit card debt. Here's how",
-      "summary": "In fact, experts recommend it because it can keep you off the hamster wheel of debt. Here's how to find the money in your budget to put toward savings and credit card payments.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/28/nx-s1-5866642/yes-its-possible-to-save-money-while-paying-off-credit-card-debt-heres-how",
-      "publishedAt": "Tue, 28 Jul 2026 05:02:00 -0400"
-    },
-    {
-      "title": "Trump shattered ethics norms. Will voters trust Democrats to fix them?",
-      "summary": "Democrats are making the case that now is the time to tackle anti-corruption reforms — to serve as a check on Donald Trump and to overhaul a system voters say is co-opted against their interests.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/28/nx-s1-5869808/family-trump-profit-corruption-voters-ethics-democrats",
-      "publishedAt": "Tue, 28 Jul 2026 05:00:00 -0400"
     },
     {
       "title": "Uganda begins emergency food handouts after 19 die from hunger",
@@ -320,16 +320,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 29,
-      "description": "clear sky",
+      "tempC": 26,
+      "description": "mainly clear",
       "high": 31,
       "low": 23
     },
     {
       "place": "London",
-      "tempC": 28,
+      "tempC": 30,
       "description": "mainly clear",
-      "high": 29,
+      "high": 30,
       "low": 19
     }
   ],
