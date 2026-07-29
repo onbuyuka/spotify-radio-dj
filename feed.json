@@ -1,13 +1,21 @@
 {
-  "updated": "2026-07-29T16:18:55.277Z",
+  "updated": "2026-07-29T19:10:28.120Z",
   "news": [
+    {
+      "title": "Davutoğlu, Gelecek Partisi'ni feshettiklerini açıkladı",
+      "summary": "Ahmet Davutoğlu, genel başkanı olduğu Gelecek Partisi'nin siyasi faaliyetlerini sonlandırma kararı aldıklarını açıkladı. Davutoğlu kararı \"ahlaki bir mesafe koyma kararı\" olarak niteledi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cy07w8dey5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 19:08:25 GMT"
+    },
     {
       "title": "Muğla'daki yangın nedeniyle 202 kişi evlerinden tahliye edildi",
       "summary": "Muğla Valiliği, Seydikemer ilçesinde başlayan yangının henüz kontrol altına alınamadığını ve 202 kişinin evlerinden tahliye edildiğini açıkladı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cd7w7pg8g71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 12:17:57 GMT"
+      "publishedAt": "Wed, 29 Jul 2026 17:24:10 GMT"
     },
     {
       "title": "Üsküdar Belediye Başkanı Sinem Dedetaş gözaltına alındı",
@@ -15,7 +23,7 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/ckg4rdn5ydgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 07:26:44 GMT"
+      "publishedAt": "Wed, 29 Jul 2026 18:44:35 GMT"
     },
     {
       "title": "BM Genel Sekreteri'nin Kıbrıs ziyaretinden 'koşullu 5+1 konferansı' sonucu çıktı",
@@ -34,20 +42,33 @@
       "publishedAt": "Wed, 29 Jul 2026 03:29:30 GMT"
     },
     {
-      "title": "FIFA'dan Dünya Kupası planına destek verecek ülkelere 40 milyon dolar teklifi",
-      "summary": "FIFA Başkanı Gianni Infantino, 211 ülke federasyonuna bir mektup göndererek, Dünya Kupası'nı özel yatırımcılara açmayı öngören tartışmalı planına destek vermeleri halinde 40 milyon dolar alacaklarını bildirdi. UEFA yönetimi, Dünya Kupası'nı",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c3w046g8106o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 14:44:16 GMT"
-    },
-    {
       "title": "Fenerbahçe, Şampiyonlar Ligi ön elemesinde Gornik Zabrze deplasmanında",
       "summary": "Fenerbahçe, Şampiyonlar Ligi ikinci ön eleme turu ilk maçında Polonya ligi temsilcilerinden Gornik Zabrze karşısında deplasmanda rövanşa maçına çıkacak.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cn7nreynp3yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 29 Jul 2026 09:45:59 GMT"
+    },
+    {
+      "title": "Fed faizi sabit tuttu",
+      "summary": "ABD Merkez Bankası, politika faizini beklentiler dahilinde yüzde 3,5-3,75 aralığında sabit tuttu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-29T21:22:05+03:00"
+    },
+    {
+      "title": "Gelecek Partisi feshedildi",
+      "summary": "Gelecek Partisi Genel Başkanı Ahmet Davutoğlu, partinin siyasi faaliyetlerini sonlandırma kararı aldıklarını bildirdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-29T21:32:31+03:00"
+    },
+    {
+      "title": "CHP seçmen verilerini hukuka aykırı ele geçirdiği iddiasıyla 2 şüpheli hakkında soruşturma",
+      "summary": "CHP Genel Merkezi'nin seçmen verilerini hukuka aykırı olarak ele geçirdiği iddia edilen şüpheliler Çetin Fındık ile İsmail Yekta Deger hakkında soruşturma başlatıldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-29T20:49:23+03:00"
     },
     {
       "title": "Futbolda yeni sezon öncesi kritik toplantı: Sanal devriyeler artacak",
@@ -71,25 +92,28 @@
       "publishedAt": "2026-07-29T16:18:52+03:00"
     },
     {
-      "title": "Ahbap soruşturmasında 5 ünlü isim daha ifadeye çağrıldı. Aralarında Eda Ece ve Kerem Bürsin de var",
-      "summary": "Ahbap Derneği'ne yönelik soruşturma kapsamında Berna Laçin, Eda Ece, Farah Zeynep Abdullah, İrem Helvacıoğlu ve Kerem Bürsin de savcılık tarafından ifadeye çağrıldı.",
-      "source": "NTV",
+      "title": "FED faiz kararını açıkladı",
+      "summary": "ABD Merkez Bankası (FED), piyasaların merakla beklediği Temmuz 2026 faiz kararını duyurdu. Küresel piyasalarda yakından takip edilen toplantının ardından politika faizine ilişkin karar kamuoyuyla paylaşıldı. Karar öncesinde yatırımcılar, en",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-29T16:35:41+03:00"
+      "link": "https://www.haberturk.com/son-dakika-fed-faiz-karari-aciklandi-2026-temmuz-fed-faiz-karari-ne-oldu-faizler-dustu-mu-sabit-mi-kaldi-3902004",
+      "publishedAt": "Wed, 29 Jul 2026 18:19:40 GMT"
     },
     {
-      "title": "Mobil DOA cihazları geliyor. Bakkal, büfe ve marketler de sisteme dahil olacak",
-      "summary": "Depozitosu Olan Ambalajlar (DOA) makineleri mobil oluyor. Elde taşınabilen mobil cihazlar sayesinde büyük makinelere gerek kalmadan bakkal ve büfe gibi yerlerde de iade yapılabilecek.",
-      "source": "NTV",
+      "title": "MasterChef Eren Kaşıkçı kimdir, öldü mü?",
+      "summary": "MasterChef Türkiye'nin 2021 sezonu şampiyonu Eren Kaşıkçı'dan gelen acı haber sevenlerini yasa boğdu. Eren Kaşıkçı'nın İstanbul Kilyos'taki evinde hayatını kaybettiği öğrenildi. Yakınlarının haber alamaması üzerine yapılan ihbar sonrası ola",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-29T15:52:57+03:00"
+      "link": "https://www.haberturk.com/masterchef-eren-oldu-mu-neden-oldu-masterchef-eren-kasikci-kimdir-kac-yasindaydi-nereliydi-evli-miydi-cocugu-var-miydi-3901997",
+      "publishedAt": "Wed, 29 Jul 2026 16:58:27 GMT"
     },
     {
-      "title": "Rus turist sosyal medyada paylaşmıştı. Sahildeki taciz şüphelisine gözaltı",
-      "summary": "İstanbul'da sahilde yürüyüş yapan turiste sarkıntılık yaptığı iddia edilen bir şüpheli gözaltına alındı.",
-      "source": "NTV",
+      "title": "Kabine Toplantısı kararları açıklandı!",
+      "summary": "Cumhurbaşkanlığı Kabinesi, 29 Temmuz Çarşamba günü Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Beştepe'de toplandı. Toplantıda ekonomi, güvenlik, dış politika ve \"Terörsüz Türkiye\" sürecine ilişkin kritik başlıklar ele alındı. Kabine'n",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-29T15:16:14+03:00"
+      "link": "https://www.haberturk.com/son-dakika-kabine-toplantisi-kararlari-aciklandi-29-temmuz-2026-kabine-toplantisi-kararlari-ve-sonuclari-nelerdir-3901991",
+      "publishedAt": "Wed, 29 Jul 2026 17:36:45 GMT"
     },
     {
       "title": "Borsada düşüş sürüyor",
@@ -97,47 +121,47 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/borsa-neden-dustu-29-temmuz-2026-borsa-istanbul-bist-100-endeksi-ile-borsa-neden-dusuyor-3901990",
-      "publishedAt": "Wed, 29 Jul 2026 15:44:02 GMT"
+      "publishedAt": "Wed, 29 Jul 2026 16:13:59 GMT"
     },
     {
-      "title": "İlk kazık çakıldı",
-      "summary": "Kadıköy'de 7 bin kişinin aynı anda namaz kılabileceği Kadıköy Rıhtım Camisi'nin yapımına ilk kazığın çakılmasıyla başlandı.",
+      "title": "Çılgın Sayısal Loto sonuçları açıklandı",
+      "summary": "Çılgın Sayısal Loto çekilişi 29 Temmuz 2026 Çarşamba günü gerçekleştirildi ve sonuçlar belli oldu. Milli Piyango Online tarafından yapılan çekilişin ardından kazandıran numaralar resmi sonuç ekranında yayımlandı. Çekilişe katılanlar Sayısal",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/kadikoy-rihtim-camisi-nin-yapimina-basladi-3901937",
-      "publishedAt": "Wed, 29 Jul 2026 12:40:28 GMT"
+      "link": "https://www.haberturk.com/son-dakika-cilgin-sayisal-loto-sonuclari-aciklandi-29-temmuz-2026-sayisal-loto-cekilis-sonucu-sorgulama-ekrani-3901989",
+      "publishedAt": "Wed, 29 Jul 2026 18:37:51 GMT"
     },
     {
-      "title": "Üreticiden \"plastik malç uygulaması\" önerisi",
-      "summary": "Erzincan'da bir üretici, sebze tarlasında uyguladığı plastik malç sistemi sayesinde işçilik ve zirai ilaç kullanımını azaltarak verim ve kaliteyi artırmayı hedefliyor. Türkiye'deki çiftçilere de uygulamayı tavsiye eden üretici Sinan Bulut, ",
+      "title": "Şans Topu sonuçları açıklandı",
+      "summary": "Şans Topu çekilişi 29 Temmuz 2026 Çarşamba günü gerçekleştirildi ve sonuçlar belli oldu. Haftanın merakla beklenen çekilişinin ardından binlerce kişi kazandıran numaraları araştırmaya başladı. Milli Piyango Online tarafından canlı gerçekleş",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ureticiden-plastik-malc-uygulamasi-onerisi-3901909",
-      "publishedAt": "Wed, 29 Jul 2026 10:48:38 GMT"
+      "link": "https://www.haberturk.com/son-dakika-sans-topu-sonuclari-aciklandi-29-temmuz-2026-sans-topu-cekilis-sonucu-sorgulama-ekrani-3901984",
+      "publishedAt": "Wed, 29 Jul 2026 17:22:49 GMT"
     },
     {
-      "title": "Ciğerlerimiz yanıyor",
-      "summary": "Antalya'nın turizm ilçesi Kaş'ta dün çıkan orman yangınına havadan ve karadan müdahale bugün de devam ediyor. Muğla'nın Seydikemer ilçesinde sabah saatlerinde çıkan orman yangınına müdahale sürerken Fethiye-Antalya yolu trafiğe kapatıldı. A",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/antalya-nin-kas-ilcesindeki-orman-yanginina-mudahale-suruyor-3901801",
-      "publishedAt": "Wed, 29 Jul 2026 14:32:52 GMT"
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 18:41:31 GMT"
     },
     {
-      "title": "KPSS ön lisans başvuru takvimi 2026",
-      "summary": "2026 KPSS süreci devam ederken gözler ön lisans başvurularına çevrildi. ÖSYM takvimine göre KPSS lisans başvuruları 1-13 Temmuz 2026 tarihleri arasında alınmaya başlandı. Ön lisans mezunları ise başvuru sürecinin başlamasını beklerken, sına",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/kpss-on-lisans-basvurulari-ne-zaman-2026-kpss-on-lisans-basvurulari-ne-zaman-basliyor-kpss-basvuru-ucreti-ne-kadar-3901757",
-      "publishedAt": "Tue, 28 Jul 2026 22:34:54 GMT"
+      "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+      "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 16:23:41 GMT"
     },
     {
-      "title": "FED faiz kararı ne zaman açıklanacak?",
-      "summary": "Küresel piyasalarda gözler ABD Merkez Bankası'nın (FED) temmuz ayında açıklayacağı faiz kararına çevrildi. Altın, dolar, kripto para ve borsa yatırımcıları başta olmak üzere milyonlarca kişi FED'in atacağı adımı yakından takip ediyor. Özell",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/fed-toplantisi-tarihi-2026-fed-faiz-karari-ne-zaman-aciklanacak-temmuz-2026-fed-faiz-toplantisi-saat-kacta-3901752",
-      "publishedAt": "Tue, 28 Jul 2026 21:19:05 GMT"
+      "title": "France fire crews face searing heat in battle to contain flames",
+      "summary": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 16:49:41 GMT"
     },
     {
       "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
@@ -148,36 +172,12 @@
       "publishedAt": "Wed, 29 Jul 2026 11:47:05 GMT"
     },
     {
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 13:48:41 GMT"
-    },
-    {
-      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-      "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 14:27:13 GMT"
-    },
-    {
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
       "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 15:40:24 GMT"
-    },
-    {
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-      "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 10:23:29 GMT"
+      "publishedAt": "Wed, 29 Jul 2026 17:58:42 GMT"
     },
     {
       "title": "Four women accuse Jared Leto of criminal sexual conduct",
@@ -185,58 +185,66 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 05:00:07 GMT"
+      "publishedAt": "Wed, 29 Jul 2026 17:04:42 GMT"
     },
     {
-      "title": "Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors",
-      "summary": "Sepp Blatter, FIFA chief for 17 years until 2015, has blasted new proposal that moves 'people's game' further from fans.",
+      "title": "Hindus take holy dip in India’s rivers on sacred holiday",
+      "summary": "Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/29/ex-fifa-chief-blatter-blasts-plan-to-sell-stake-in-world-cup-to-investors?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 15:46:20 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss",
+      "publishedAt": "Wed, 29 Jul 2026 18:49:33 +0000"
     },
     {
-      "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
-      "summary": "US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.",
+      "title": "Bordeaux wildfire battle continues amid extreme heat",
+      "summary": "Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 15:43:05 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
+      "publishedAt": "Wed, 29 Jul 2026 18:42:11 +0000"
     },
     {
-      "title": "Why Saudi Arabia holds the key to Palestinian statehood",
-      "summary": "Riyadh’s position in the Arab and Islamic worlds bears significant weight in the prospect of normalisation with Israel.",
+      "title": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
+      "summary": "Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 14:39:57 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
+      "publishedAt": "Wed, 29 Jul 2026 18:34:09 +0000"
     },
     {
-      "title": "Indian student in Russia says he’s been wrongly charged over Bihar protests",
-      "summary": "An Indian student from Bihar says he has been charged over ‘Cockroach’ protests despite being in Russia.",
+      "title": "US Fed holds interest rates steady citing ‘elevated’ inflation",
+      "summary": "Elevated inflation partly reflects supply shocks that have increased prices, including of energy, the Fed said.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/29-07-sv-india-student-arrests-in?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 14:33:24 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/7/29/us-fed-holds-interest-rates-steady-citing-elevated-inflation?traffic_source=rss",
+      "publishedAt": "Wed, 29 Jul 2026 18:07:55 +0000"
     },
     {
-      "title": "US and Israeli leaders expected ‘swift outcome’ in Iran",
-      "summary": "New details are emerging of how US and Israeli officials believed the war on Iran would be straightforward and short.",
+      "title": "Libya electricity blackout protests expose country’s failing grid",
+      "summary": "Libyans protest severe power cuts, demanding an end to corruption and grid decay.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 14:27:45 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/7/29/libya-electricity-blackout-protests-expose-countrys-failing-grid?traffic_source=rss",
+      "publishedAt": "Wed, 29 Jul 2026 18:07:19 +0000"
     },
     {
-      "title": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-      "summary": "'There is no ceasefire' say Palestinians in Gaza after new Israeli strikes",
+      "title": "Fire erupts on ships at Egypt’s Damietta port",
+      "summary": "Oil ministry says no injuries in incident affecting two vessels, with port operations expected to resume overnight.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 14:09:09 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/29/fire-erupts-on-ships-at-egypts-damietta-port?traffic_source=rss",
+      "publishedAt": "Wed, 29 Jul 2026 18:01:57 +0000"
     },
     {
-      "title": "'Odyssey' translator Emily Wilson says Nolan should have hired a scriptwriter",
+      "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
+      "summary": "The author and translator of Taiwan Travelogue, the winner of the 2026 International Booker Prize, discuss identity and history amid the debate over Taiwan's colonial ties to Japan and escalating geopolitical pressure from China.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
+      "publishedAt": "Wed, 29 Jul 2026 12:55:54 -0400"
+    },
+    {
+      "title": "'Odyssey' translator Emily Wilson says Nolan shouldn't have written the movie himself",
       "summary": "The renowned classics scholar caused a stir when her critical review of Christopher Nolan's The Odyssey went viral. Wilson explains her reaction to the film and why she's translating the poem again.",
       "source": "NPR",
       "lang": "en",
@@ -276,14 +284,6 @@
       "publishedAt": "Wed, 29 Jul 2026 05:07:03 -0400"
     },
     {
-      "title": "'Machines are collaborators' at this new museum of AI art",
-      "summary": "\"What is beyond reality?\" asks artist Refik Anadol. His latest projects include Dataland, an immersive AI art museum in Los Angeles, and an installation at the Smithsonian in Washington, D.C.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
-      "publishedAt": "Wed, 29 Jul 2026 05:00:00 -0400"
-    },
-    {
       "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
       "summary": "Potential toxic substance detected in several of 15 elephants found dead in Kenya’s Amboseli national parkOfficials are investigating the deaths of 15 elephants over the past month in Kenya’s Amboseli national park.The Kenya Wildlife Servic",
       "source": "The Guardian",
@@ -320,14 +320,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
+      "tempC": 23,
       "description": "clear sky",
       "high": 29,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 34,
+      "tempC": 30,
       "description": "clear sky",
       "high": 34,
       "low": 20
