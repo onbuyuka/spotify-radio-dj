@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T21:57:56.497Z",
+  "updated": "2026-07-30T02:04:17.995Z",
   "news": [
     {
       "title": "Davutoğlu, Gelecek Partisi'ni feshettiklerini açıkladı",
@@ -50,11 +50,18 @@
       "publishedAt": "Wed, 29 Jul 2026 20:17:50 GMT"
     },
     {
-      "title": "Türkiye’nin dört bir yanında yangın. Rüzgar mücadeleyi zorlaştırıyor",
-      "summary": "Türkiye'de çarşamba günü 9 ilde yangın çıktı. Yangınlarla mücadele Antalya, Muğla ve İzmir gibi illerde rüzgarın etkisiyle sürüyor.",
+      "title": "Ağaca çarptı, ikiye bölündü",
+      "summary": "Sakarya'nın Erenler ilçesinde ağaca çarpıp kağıt gibi ikiye bölünen otomobilin sürücüsü yaralandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-30T00:55:21+03:00"
+      "publishedAt": "2026-07-30T03:12:10+03:00"
+    },
+    {
+      "title": "Türkiye’nin dört bir yanında yangın. Rüzgar mücadeleyi zorlaştırıyor",
+      "summary": "Türkiye'de çarşamba günü 9 ilde yangın çıktı. Alevlerle mücadele Antalya, Muğla, Balıkesir ve İzmir'de sürüyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-30T03:56:01+03:00"
     },
     {
       "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 30 Temmuz 2026",
@@ -68,7 +75,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Temmuz 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kada",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-30T00:30:00+03:00"
+      "publishedAt": "2026-07-30T05:00:00+03:00"
     },
     {
       "title": "Dışişleri Bakanı Fidan, Hamas heyetiyle görüştü",
@@ -85,11 +92,12 @@
       "publishedAt": "2026-07-29T21:22:05+03:00"
     },
     {
-      "title": "Gelecek Partisi feshedildi",
-      "summary": "Gelecek Partisi Genel Başkanı Ahmet Davutoğlu, partinin siyasi faaliyetlerini sonlandırma kararı aldıklarını bildirdi.",
-      "source": "NTV",
+      "title": "Askerlik yerleri ne zaman açıklanacak?",
+      "summary": "2026 Ağustos celbi askerlik yerleri için bekleyiş sona eriyor. Milli Savunma Bakanlığı Ağustos askerlik yerlerinin belli olacağı tarihi açıkladı. Yükümlüler askerlik yerlerini e-Devlet sistemi üzerinden kolayca sorgulayabilecek. Binlerce as",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-29T21:32:31+03:00"
+      "link": "https://www.haberturk.com/agustos-askerlik-yerleri-sorgulama-ekrani-2026-agustos-celbi-askerlik-yerleri-aciklandi-mi-ne-zaman-aciklanacak-3902009",
+      "publishedAt": "Wed, 29 Jul 2026 22:53:06 GMT"
     },
     {
       "title": "YKS tercih sonuç tarihi",
@@ -132,14 +140,6 @@
       "publishedAt": "Wed, 29 Jul 2026 21:39:12 GMT"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı",
-      "summary": "Çılgın Sayısal Loto çekilişi 29 Temmuz 2026 Çarşamba günü gerçekleştirildi ve sonuçlar belli oldu. Milli Piyango Online tarafından yapılan çekilişin ardından kazandıran numaralar resmi sonuç ekranında yayımlandı. Çekilişe katılanlar Sayısal",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/son-dakika-cilgin-sayisal-loto-sonuclari-aciklandi-29-temmuz-2026-sayisal-loto-cekilis-sonucu-sorgulama-ekrani-3901989",
-      "publishedAt": "Wed, 29 Jul 2026 21:39:52 GMT"
-    },
-    {
       "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
       "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
       "source": "BBC World",
@@ -148,12 +148,12 @@
       "publishedAt": "Wed, 29 Jul 2026 18:41:31 GMT"
     },
     {
-      "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-      "summary": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+      "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+      "summary": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 16:23:41 GMT"
+      "publishedAt": "Thu, 30 Jul 2026 01:53:25 GMT"
     },
     {
       "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
@@ -172,68 +172,76 @@
       "publishedAt": "Wed, 29 Jul 2026 16:49:41 GMT"
     },
     {
-      "title": "Four women accuse Jared Leto of criminal sexual conduct",
-      "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "title": "Salman Rushdie attacker convicted of terror offences",
+      "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 21:36:06 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 29 Jul 2026 22:15:33 GMT"
     },
     {
-      "title": "Fifa opens disciplinary proceedings against Argentina",
-      "summary": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 29 Jul 2026 17:21:57 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 30 Jul 2026 00:41:28 GMT"
     },
     {
-      "title": "Myanmar court sentences activists to 37 years over election protest",
-      "summary": "Nine activists face prison terms of up to 37 years for protesting the military-backed December elections.",
+      "title": "After a deadly raid, a displaced Nigerian mother finds a lifeline in sewing",
+      "summary": "After losing her husband and two children, Safiya now fears losing the fragile future she rebuilt.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/29/myanmar-court-sentences-activists-to-37-years-over-election-protest?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 21:29:33 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/30/after-a-deadly-raid-a-displaced-nigerian-mother-finds-a-lifeline-in-sewing?traffic_source=rss",
+      "publishedAt": "Thu, 30 Jul 2026 01:56:57 +0000"
     },
     {
-      "title": "FIFA charges Argentina after World Cup final brawl with Spain",
-      "summary": "FIFA hits Argentina with World Cup charges for scuffle after final with Spain and 'Malvinas' banner after England game.",
+      "title": "Japan turns to Canadian crude as Asia feels Hormuz supply pinch",
+      "summary": "Uncertainty over crude oil supplies via the Strait of Hormuz is pushing Asian states towards Canada's TMX crude oil.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/29/fifa-charges-argentina-after-world-cup-final-brawl-with-spain?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 21:20:42 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/30/japan-turns-to-canadian-crude-as-asia-feels-hormuz-supply-pinch?traffic_source=rss",
+      "publishedAt": "Thu, 30 Jul 2026 01:42:30 +0000"
     },
     {
-      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
-      "summary": "”It’s our turn.” President Donald Trump says the US will hit Iran “very hard” following an attack on US forces in Jordan",
+      "title": "Trump pushes fighter jet sale to Turkiye despite Israeli opposition",
+      "summary": "US President Donald Trump has again signalled support for selling F-35 fighter jets to Turkiye.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 21:18:24 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-pushes-fighter-jet-sale-to-turkiye-despite-israeli-opposition?traffic_source=rss",
+      "publishedAt": "Thu, 30 Jul 2026 01:04:42 +0000"
     },
     {
-      "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
-      "summary": "US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases",
+      "title": "Trump cuts WHO off from Gavi vaccine alliance funding",
+      "summary": "Decision follows long-running feud between Trump and UN group.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 20:31:10 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/30/trump-cuts-who-off-from-gavi-vaccine-alliance?traffic_source=rss",
+      "publishedAt": "Thu, 30 Jul 2026 00:26:49 +0000"
     },
     {
-      "title": "Trump’s attorney general pick faces possible Republican roadblock",
-      "summary": "Todd Blanche, Trump's former defence lawyer, has faced scrutiny over his alleged loyalty to the US president.",
+      "title": "Russian ballistic missile strikes on Kyiv come after Zelenskyy’s warning",
+      "summary": "Returning from the US, Zelenskyy says Ukraine's safety depends on allies’ willingness to provide anti-missile defences.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/29/trumps-attorney-general-pick-faces-possible-republican-roadblock?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 20:11:54 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/30/russia-ballistic-missile-strikes-on-kyiv-come-after-zelenskyys-warning?traffic_source=rss",
+      "publishedAt": "Thu, 30 Jul 2026 00:23:13 +0000"
     },
     {
-      "title": "Algeria elects first-ever woman speaker of parliament",
-      "summary": "Khalida Boufedeche of the National Liberation Front has become the first-ever woman speaker of Algeria’s parliament.",
+      "title": "Iran war live: US launches ‘powerful’ strikes after IRGC attack on Jordan",
+      "summary": "Threat comes as Iranian media report that four Iranians were killed in joint US-Saudi attacks in Iraq.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/algeria-elects-first-ever-woman-speaker-of-parliament?traffic_source=rss",
-      "publishedAt": "Wed, 29 Jul 2026 20:09:26 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+      "publishedAt": "Thu, 30 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Animal spillover? Lab leak? What the science says about the origins of COVID-19",
+      "summary": "The release of Dr. Anthony Fauci's pandemic diaries has rekindled the debate over the origins of SARS-CoV-2. Here's how scientists have weighed in.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin",
+      "publishedAt": "Wed, 29 Jul 2026 19:02:53 -0400"
     },
     {
       "title": "The Trump administration's move to end subsidies for Medicare drug plans could cost consumers",
@@ -242,6 +250,14 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
       "publishedAt": "Wed, 29 Jul 2026 16:58:03 -0400"
+    },
+    {
+      "title": "Oregon is on track for its worst wildfire season yet",
+      "summary": "Wildfires in central and eastern Oregon are prompting evacuations and forcing ranchers to scramble to move cattle and find feed as public range land burns. More than a million acres have burned so far. Most fires have little or no containme",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet",
+      "publishedAt": "Wed, 29 Jul 2026 16:28:44 -0400"
     },
     {
       "title": "'Taiwan Travelogue' rethinks history, colonialism, and identity",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
       "publishedAt": "Wed, 29 Jul 2026 10:21:07 -0400"
-    },
-    {
-      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
-      "summary": "The U.S. and Iran have resumed fighting after Iran attacked U.S. forces in the Middle East yesterday. And, a Senate committee will question Anthony Fauci about the COVID-19 pandemic.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
-      "publishedAt": "Wed, 29 Jul 2026 07:00:47 -0400"
-    },
-    {
-      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
-      "summary": "A school district in upstate New York is pausing plans to deploy an AI-powered, humanoid robot in the classroom after state education officials, teachers and local residents raised concerns.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
-      "publishedAt": "Wed, 29 Jul 2026 05:24:52 -0400"
     },
     {
       "title": "Kenya investigating unexpected deaths of 15 elephants in national park",
@@ -320,16 +320,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 22,
-      "description": "clear sky",
+      "tempC": 21,
+      "description": "mainly clear",
       "high": 27,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 26,
+      "tempC": 22,
       "description": "clear sky",
-      "high": 34,
+      "high": 27,
       "low": 20
     }
   ],
