@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-31T11:27:23.579Z",
+  "updated": "2026-07-31T13:57:27.646Z",
   "news": [
+    {
+      "title": "İspanya'nın Afrika'daki toprağı Ceuta'ya bir günde 60 bin göçmen girdi",
+      "summary": "İspanya'nın Afrika'daki toprağı Ceuta'ya (Sebte) son 24 saatte 60 bin göçmenin giriş yaptığı bildirildi. İspanya sınır güvenliğini güçlendirmek amacıyla Fas'a komşu toprağına asker konuşlandıracağını açıklamıştı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cz97klj5x98o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 13:17:59 GMT"
+    },
+    {
+      "title": "Yeni Parti'nin yol haritası: İlk kurultay ekimde, Doğu ve Güneydoğu için özel heyet",
+      "summary": "Yeni Parti Genel Başkan Yardımcısı Ensar Aytekin, partinin ilk kurultayının Ekim ayında yapılmasının öngörüldüğünü, Doğu ve Güneydoğu bölgelerindeki örgütlenme için özel heyet oluşturulacağını söyledi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cqx72dgnw28o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 11:18:55 GMT"
+    },
     {
       "title": "Gelecek Partisi kapanıyor: 'Derin hayal kırıklığı Davutoğlu'nu fesih kararına götürdü'",
       "summary": "Yakın çevresine göre Davutoğlu'nun kararının arkasında sonuçsuz kalan ittifak arayışlarının yanı sıra yıllardır inşa etmeye çalıştığı \"muhafazakâr reformcu yeni merkez\" projesinin hayata geçirilemeyeceğini görmesinden kaynaklı \"derin hayal ",
@@ -10,28 +26,12 @@
       "publishedAt": "Fri, 31 Jul 2026 03:33:51 GMT"
     },
     {
-      "title": "İspanya'nın Afrika'daki toprağı Ceuta'ya bir günde 49 bin göçmen girdi",
-      "summary": "İspanya'nın Afrika'daki toprağı Ceuta'ya (Sebte) son 24 saatte 49 bin göçmenin girdiği tahmin ediliyor. İspanya sınır güvenliğini güçlendirmek amacıyla Fas'a komşu toprağına asker konuşlandıracağını açıklamıştı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cz97klj5x98o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 08:46:43 GMT"
-    },
-    {
-      "title": "Hamas, Gazze'de Barış Kurulu ile silah bırakma konusunda anlaştı, planın detayları neler?",
-      "summary": "ABD Başkanı Donald Trump, Barış Kurulu'nun Hamas ve Gazze'deki diğer silahlı grupların \"tamamen silah bırakması\" konusunda anlaşmaya vardığını açıkladı. Hamas'tan üst düzey bir yetkili BBC'ye, planı kabul ettiklerini söyledi. Yetkiliye göre",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c70gx2gke5ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 08:03:40 GMT"
-    },
-    {
-      "title": "Cem Küçük gözaltına alındı",
+      "title": "Cem Küçük adliyeye sevk edildi",
       "summary": "TV yorumcusu Cem Küçük, İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında, İstanbul İl Jandarma Komutanlığı güçleri tarafından gözaltına alındı. Soruşturmada Küçük'e, \"halkı yanıltıcı bilgiyi alenen yayma\" ve \"şant",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cwyqe433j9no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 03:17:14 GMT"
+      "publishedAt": "Fri, 31 Jul 2026 13:31:52 GMT"
     },
     {
       "title": "Kitap seçimleriniz sizinle ilgili neler söylüyor?",
@@ -50,6 +50,13 @@
       "publishedAt": "Fri, 31 Jul 2026 08:06:31 GMT"
     },
     {
+      "title": "Aydın Çine'deki orman yangınında acı tablo",
+      "summary": "Aydın'ın Çine ilçesinde dün başlayan ve 24 saati geride bırakan orman yangınlarına havadan ve karadan müdahale devam ederken yanan alanlar görüntülendi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-31T16:42:27+03:00"
+    },
+    {
       "title": "Kağıthane'de korku dolu anlar. Mutfağı artık balkon oldu",
       "summary": "İstanbul Kağıthane'de kentsel dönüşüm kapsamında yenilenen bir binanın inşaatında çalışan iş makinesi yan binanın balkonunu yıktı.",
       "source": "NTV",
@@ -65,10 +72,10 @@
     },
     {
       "title": "Bakanlık firmaları isim isim paylaştı. Tantuniden tek tırnaklı eti çıktı",
-      "summary": "Gıda ürünlerinde taklit ve tağşiş yapan firmaların ifşa edildiği liste yenilendi. Bir Listede bir işletmenin tantunisinde tek tırnaklı tespit edildiği yer aldı.",
+      "summary": "Gıda ürünlerinde taklit ve tağşiş yapan firmaların ifşa edildiği liste yenilendi. Listede bir işletmenin tantunisinde tek tırnaklı tespit edildiği yer aldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-07-31T13:01:14+03:00"
+      "publishedAt": "2026-07-31T15:18:17+03:00"
     },
     {
       "title": "Türknet çöktü mü? Türknet'te internet neden yok, ne zaman gelecek? Türknet'ten açıklama",
@@ -83,13 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-31T12:35:36+03:00"
-    },
-    {
-      "title": "Gömeç yangınının nedeni belli oldu. İki şüpheli tutuklandı",
-      "summary": "Balıkesir Gömeç'te başlayıp Ayvalık'a sıçrayan orman yangınında 3'üncü gün geride kaldı. Kaynak yaparken yangın çıkardıkları belirlenen iki kişi tutuklandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-31T12:25:45+03:00"
     },
     {
       "title": "Erzurum'un yöresel lezzetleri rölyef oldu",
@@ -121,7 +121,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/emekli-maas-farki-odeme-tarihi-2026-en-dusuk-emekli-maasi-resmi-gazete-de-yayimlandi-mi-3552-tl-en-dusuk-emekli-maasi-zam-farki-ne-zaman-yatacak-3902272",
-      "publishedAt": "Fri, 31 Jul 2026 10:15:04 GMT"
+      "publishedAt": "Fri, 31 Jul 2026 12:57:10 GMT"
     },
     {
       "title": "Motorine zam mı geldi?",
@@ -129,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/motorine-zam-var-mi-mazota-ne-kadar-zam-gelecek-iste-30-temmuz-istanbul-izmir-ankara-guncel-akaryakit-fiyatlari-3902266",
-      "publishedAt": "Fri, 31 Jul 2026 10:14:54 GMT"
+      "publishedAt": "Fri, 31 Jul 2026 12:48:17 GMT"
     },
     {
       "title": "Cuma hutbesi konusu",
@@ -140,20 +140,12 @@
       "publishedAt": "Fri, 31 Jul 2026 10:14:38 GMT"
     },
     {
-      "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
-      "summary": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
+      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "summary": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 11:14:29 GMT"
-    },
-    {
-      "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "summary": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 07:03:29 GMT"
+      "publishedAt": "Fri, 31 Jul 2026 13:04:04 GMT"
     },
     {
       "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
@@ -188,52 +180,76 @@
       "publishedAt": "Fri, 31 Jul 2026 08:21:37 GMT"
     },
     {
-      "title": "Palestinians in Gaza are sceptical about the latest peace plan",
-      "summary": "Palestinians in Gaza are sceptical of the latest peace plan, questioning whether it will bring lasting change.",
-      "source": "Al Jazeera",
+      "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "summary": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 10:47:57 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 05:21:18 GMT"
     },
     {
-      "title": "Spain PM to visit Ceuta after 19 migrants die breaching border from Morocco",
-      "summary": "Tens of thousands reportedly cross from Morocco to Ceuta as France says it will tighten its borders with Spain.",
+      "title": "Russia appears to infiltrate first ‘fortress city’ as Ukraine changes guard",
+      "summary": "Reports emerge from the front that Russia has infiltrated most of Kostiantynivka as it tries to regain the offensive.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/31/spain-pm-to-visit-ceuta-after-19-migrants-die-breaching-border-from-morocco?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 10:40:11 +0000"
+      "link": "https://www.aljazeera.com/features/2026/7/31/russia-appears-to-infiltrate-first-fortress-city-as-ukraine-changes-guard?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 13:14:29 +0000"
     },
     {
-      "title": "Italy World Cup winner and AC Milan legend Franco Baresi dies aged 66",
-      "summary": "Franco Baresi, who won the World Cup with Italy and was regarded as one of football's finest defenders, dies aged 66.",
+      "title": "FIFA World Cup plan: Infantino tackles UEFA and global game – all to know",
+      "summary": "Al Jazeera looks at the growing global opposition to FIFA President Gianni Infantino's private investment plan.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/31/italy-and-ac-milan-legend-franco-baresi-dies-aged-66?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 09:55:24 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-infantino-and-uefa-divided-on-world-cup-investment-plan-what-next?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 13:06:07 +0000"
     },
     {
-      "title": "AFC backs UEFA and CONCACAF who plan boycott over FIFA World Cup proposals",
-      "summary": "FIFA face global mutiny as Asian Football Confederation stand with Europe and North America after their boycott threats.",
+      "title": "Palestinians in Gaza react to latest ceasefire deal",
+      "summary": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/31/afc-joins-uefa-and-concacaf-in-threat-to-boycott-fifa-over-world-cup-plans?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 09:52:57 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 12:59:48 +0000"
     },
     {
-      "title": "FIFA World Cup plan fallout: Infantino’s senior adviser Cordeiro resigns",
-      "summary": "Pressure is growing on FIFA and its President Gianni Infantino following proposals for private investment in World Cups.",
+      "title": "The waiting game: Gaza’s CT scan shortage causing worries and worse",
+      "summary": "Gaza suffering from health crisis caused by a shortage of CT scan machines, leading to worsening medical issues for many.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/31/infantinos-senior-adviser-cordeiro-resigns-over-fifa-world-cup-plan?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 09:50:41 +0000"
+      "link": "https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 12:55:32 +0000"
     },
     {
-      "title": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
-      "summary": "Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal.",
+      "title": "Approval for China’s mega embassy in London was lawful, UK court rules",
+      "summary": "The 20,000-square-metre site in London is set to become the largest embassy complex in the UK by area.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 09:33:37 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/31/approval-for-chinas-mega-embassy-in-london-was-lawful-uk-court-rules?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 12:38:15 +0000"
+    },
+    {
+      "title": "Inside Barcelona’s most sweltering neighbourhood: El Raval",
+      "summary": "Densely packed apartments, low incomes, lack of tree cover and poor housing put migrant heart of the capital at risk.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/features/2026/7/31/inside-barcelonas-most-sweltering-neighbourhood-el-raval?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 12:24:09 +0000"
+    },
+    {
+      "title": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
+      "summary": "Nebraska's Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs, said roughly 200 people will lose health coverage on Aug. 1.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
+      "publishedAt": "Fri, 31 Jul 2026 09:22:40 -0400"
+    },
+    {
+      "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
+      "summary": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
+      "publishedAt": "Fri, 31 Jul 2026 07:30:26 -0400"
     },
     {
       "title": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
@@ -252,22 +268,6 @@
       "publishedAt": "Fri, 31 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
-      "summary": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
-      "publishedAt": "Fri, 31 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "One Big Beautiful Bill cut healthcare funds. Now, Republicans have to sell the costs",
-      "summary": "Blanketing the airwaves with ads about healthcare, Republican candidates who voted to cut federal funding in the One Big Beautiful Bill Act are positioning themselves as advocates for lower costs.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5870960/republican-ads-healthcare-medicaid-2026-midterms",
-      "publishedAt": "Fri, 31 Jul 2026 05:00:00 -0400"
-    },
-    {
       "title": "450K borrowers say they were ripped off. Their student loans are being erased",
       "summary": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years.",
       "source": "NPR",
@@ -276,20 +276,28 @@
       "publishedAt": "Fri, 31 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "Morning news brief",
-      "summary": "President Trump says he may pull Todd Blanche's nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pace.",
+      "title": "Trump's noncitizen voter data remains a mystery. But the claims raise midterm fears",
+      "summary": "Trump officials say they found 250,000 noncitizens on voter rolls in just four states. Those states don't know where the numbers came from, and some worry what the claims may portend for the midterms.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5901900/morning-news-brief",
-      "publishedAt": "Fri, 31 Jul 2026 04:49:30 -0400"
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5906708/trump-claim-noncitizens-midterms-election-interference-voter-rolls",
+      "publishedAt": "Fri, 31 Jul 2026 05:00:00 -0400"
     },
     {
-      "title": "At least 24 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
-      "summary": "Some drowned and others got caught up in crush, official says, as incident prompts criticism by other EU nationsEurope live – latest updatesAt least 24 people have died trying to reach the Spanish enclave of Ceuta after more than 40,000 mig",
+      "title": "At least 41 people die as thousands cross to Spanish enclave of Ceuta from Morocco",
+      "summary": "Pedro Sánchez decries ‘violation of territorial integrity’ as other EU countries criticise Madrid over incidentEurope live – latest updatesAt least 41 people have died trying to reach the Spanish enclave of Ceuta after as many as 50,000 mig",
       "source": "The Guardian",
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths",
-      "publishedAt": "Fri, 31 Jul 2026 11:06:51 GMT"
+      "publishedAt": "Fri, 31 Jul 2026 13:16:56 GMT"
+    },
+    {
+      "title": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
+      "summary": "During her first visit to Ghana, Dame Sarah Mullally expressed regret and said the controversial fund symbolises the Christian belief in repentanceAt a former British castle where thousands of enslaved Africans were held before being shippe",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
+      "publishedAt": "Fri, 31 Jul 2026 11:38:46 GMT"
     },
     {
       "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
@@ -306,28 +314,20 @@
       "lang": "en",
       "link": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
       "publishedAt": "Thu, 30 Jul 2026 22:48:02 GMT"
-    },
-    {
-      "title": "Fifteen elephant deaths in Kenya may be due to cyanide poisoning",
-      "summary": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife ServiceThe recent deaths of 15 elephants near a park in southern Kenya were likely caused by the animals ingesting pesticides used on ",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
-      "publishedAt": "Thu, 30 Jul 2026 12:46:50 GMT"
     }
   ],
   "sports": [],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 27,
+      "tempC": 26,
       "description": "mainly clear",
       "high": 27,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 23,
+      "tempC": 25,
       "description": "clear sky",
       "high": 26,
       "low": 17
