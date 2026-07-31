@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-31T19:19:57.598Z",
+  "updated": "2026-07-31T22:02:25.513Z",
   "news": [
+    {
+      "title": "Üsküdar Belediye Başkanı Sinem Dedetaş dahil dört kişi tutuklandı",
+      "summary": "İstanbul Anadolu Cumhuriyet Başsavcılığı'nca yürütülen soruşturma kapsamında gözaltına alınan Üsküdar Belediye Başkanı Sinem Dedetaş'ın da aralarında bulunduğu dört kişi tutuklandı",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ckg4rdn5ydgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 20:27:49 GMT"
+    },
+    {
+      "title": "Gazze barış anlaşmasının yol haritasında neler var?",
+      "summary": "Hamas’ın ağır silahlarını aşamalı olarak bırakmasını ve İsrail’in Gazze’den kademeli biçimde çekilmesini öngören plan, savaşın sona ermesi yönünde önemli bir adım olarak değerlendiriliyor",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c998mmz22jpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 19:48:10 GMT"
+    },
+    {
+      "title": "Cem Küçük 'halkı yanıltıcı bilgiyi alenen yayma' suçlamasıyla tutuklandı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında gözaltına alınan TV yorumcusu Cem Küçük tutuklandı",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cwyqe433j9no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 21:11:16 GMT"
+    },
     {
       "title": "Cemil Tugay AKP'ye geçecek mi, CHP'den istifası sonrası neler söyledi?",
       "summary": "18 Haziran'da CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay, 24 Temmuz'da kurulan Yeni Parti'ye katılmadı. Cemil Tugay'ın AKP'ye geçeceği iddia edildi. Tugay ise bu iddiaları yalanlıyor.",
@@ -8,30 +32,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c5ydplgpp89o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 31 Jul 2026 14:21:26 GMT"
-    },
-    {
-      "title": "Yeni Parti'nin yol haritası: İlk kurultay ekimde, Doğu ve Güneydoğu için özel heyet",
-      "summary": "Yeni Parti Genel Başkan Yardımcısı Ensar Aytekin, partinin ilk kurultayının Ekim ayında yapılmasının öngörüldüğünü, Doğu ve Güneydoğu bölgelerindeki örgütlenme için özel heyet oluşturulacağını söyledi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cqx72dgnw28o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 11:18:55 GMT"
-    },
-    {
-      "title": "İspanya'nın Afrika'daki toprağı Ceuta'ya bir günde 60 bin göçmen girdi; en az 57 kişi hayatını kaybetti",
-      "summary": "İspanya'nın Afrika'daki toprağı Ceuta'ya (Sebte) son 24 saatte 60 bin göçmenin giriş yaptığı bildirildi. İspanya sınır güvenliğini güçlendirmek amacıyla Fas'a komşu toprağına asker konuşlandıracağını açıklamıştı",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cz97klj5x98o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 18:15:29 GMT"
-    },
-    {
-      "title": "Cem Küçük hakkında tutuklama talebi",
-      "summary": "TV yorumcusu Cem Küçük, İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında, İstanbul İl Jandarma Komutanlığı güçleri tarafından gözaltına alındı. Soruşturmada Küçük'e, \"halkı yanıltıcı bilgiyi alenen yayma\" ve \"şant",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cwyqe433j9no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 16:10:40 GMT"
     },
     {
       "title": "Kitap seçimleriniz sizinle ilgili neler söylüyor?",
@@ -42,12 +42,26 @@
       "publishedAt": "Fri, 31 Jul 2026 04:45:27 GMT"
     },
     {
-      "title": "Hamas, Gazze'de Barış Kurulu ile silah bırakma konusunda anlaştı, planın detayları neler?",
-      "summary": "ABD Başkanı Donald Trump, Barış Kurulu'nun Hamas ve Gazze'deki diğer silahlı grupların \"tamamen silah bırakması\" konusunda anlaşmaya vardığını açıkladı. Hamas anlaşma kapsamında ağır silahlarını teslim etmesinin, İsrail'in \"her türlü saldır",
+      "title": "İspanya'nın Afrika'daki toprağı Ceuta'ya bir günde 60 bin göçmen girdi; en az 57 kişi hayatını kaybetti",
+      "summary": "İspanya'nın Afrika'daki toprağı Ceuta'ya (Sebte) son 24 saatte 60 bin göçmenin giriş yaptığı bildirildi. İspanya sınır güvenliğini güçlendirmek amacıyla Fas'a komşu toprağına asker konuşlandıracağını açıklamıştı",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c70gx2gke5ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 14:36:12 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cz97klj5x98o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 31 Jul 2026 18:15:29 GMT"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 01 Ağustos 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 01 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-01T01:00:00+03:00"
+    },
+    {
+      "title": "Dışişleri Bakanı Fidan, Suudi mevkidaşı Bin Ferhan ile telefonda görüştü",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan ile telefon görüşmesi gerçekleştirdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-07-31T22:27:31+03:00"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan: Geçmişteki gibi gençleri kirli oyunlarına alet edemezler",
@@ -78,18 +92,20 @@
       "publishedAt": "2026-07-31T13:40:51+03:00"
     },
     {
-      "title": "Bakanlık firmaları isim isim paylaştı. Tantuniden tek tırnaklı eti çıktı",
-      "summary": "Gıda ürünlerinde taklit ve tağşiş yapan firmaların ifşa edildiği liste yenilendi. Listede bir işletmenin tantunisinde tek tırnaklı tespit edildiği yer aldı.",
-      "source": "NTV",
+      "title": "ATA AÖF bütünleme ne zaman, saat kaçta?",
+      "summary": "Atatürk Üniversitesi Açık ve Uzaktan Öğretim Fakültesi (ATA AÖF) yaz okulu ve bütünleme sınavları öncesinde öğrencilerin heyecanlı bekleyişi sürüyor. Binlerce öğrenci, bütünleme sınavının yapılacağı tarih, sınav saatleri ve sınav giriş belg",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-31T15:18:17+03:00"
+      "link": "https://www.haberturk.com/ata-aof-butunleme-ne-zaman-saat-kacta-ata-aof-butunleme-giris-yerleri-nasil-ogrenilir-3902534",
+      "publishedAt": "Fri, 31 Jul 2026 20:59:37 GMT"
     },
     {
-      "title": "Türknet çöktü mü? Türknet'te internet neden yok, ne zaman gelecek? Türknet'ten açıklama",
-      "summary": "Türkiye'de birçok kişinin kullandığı internet servisi sağlayıcısı Türknet'e öğle saatlerinden itibaren erişim sorunları yaşanıyor. Kullanıcılar modemlerinde internet ışığının yanmaması ve internet kesintisi gibi sorunlarla karşılaştığını bi",
-      "source": "NTV",
+      "title": "MasterChef ana kadroya kim girdi?",
+      "summary": "MasterChef Türkiye 2026'da ana kadro heyecanı tüm hızıyla devam ediyor. TV8 ekranlarında yayınlanan yarışmanın 31 Temmuz 2026 tarihli yeni bölümünde ana kadroya girecek 13. yarışmacı belli oldu. Üçüncü grubun üçüncü yarışmacısının belirlend",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-07-31T13:57:29+03:00"
+      "link": "https://www.haberturk.com/masterchef-kim-kazandi-31-temmuz-2026-masterchef-ana-kadroya-kim-girdi-ana-kadroya-giren-13-yarismaci-kim-oldu-3902532",
+      "publishedAt": "Fri, 31 Jul 2026 21:11:58 GMT"
     },
     {
       "title": "Kademeli emeklilik tablosu",
@@ -97,15 +113,15 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/kademeli-emeklilik-cikacak-mi-2026-kademeli-emeklilik-sartlari-neler-erken-emeklilik-kimleri-kapsayacak-3902529",
-      "publishedAt": "Fri, 31 Jul 2026 18:41:51 GMT"
+      "publishedAt": "Fri, 31 Jul 2026 21:26:00 GMT"
     },
     {
-      "title": "12. Yargı Paketi Resmi Gazete'de yayımlandı mı?",
+      "title": "12. Yargı Paketi Resmi Gazete'de yayımlandı",
       "summary": "12. Yargı Paketi Resmi Gazete'de yayımlanarak yürürlüğe girdi. TBMM Genel Kurulu'nda kabul edilen \"Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun\", yargı sistemine ilişkin önemli değişiklikler",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/12-yargi-paketi-iban-magdurlari-son-dakika-12-yargi-paketi-resmi-gazete-de-yayimlandi-mi-maddeleri-neler-3902525",
-      "publishedAt": "Fri, 31 Jul 2026 18:46:59 GMT"
+      "publishedAt": "Fri, 31 Jul 2026 21:20:12 GMT"
     },
     {
       "title": "On Numara sonuçları açıklandı",
@@ -113,23 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/son-dakika-on-numara-sonuclari-aciklandi-31-temmuz-2026-on-numara-cekilis-sonucu-sorgulama-ekrani-3902522",
-      "publishedAt": "Fri, 31 Jul 2026 17:08:32 GMT"
-    },
-    {
-      "title": "Quick Sigorta halka arz sonuçları açıklandı mı?",
-      "summary": "Quick Sigorta A.Ş.'nin halka arzında talep toplama süreci tamamlandı. 29, 30 ve 31 Temmuz 2026 tarihlerinde yatırımcılardan talep toplayan şirketin halka arz sonuçları için geri sayım başladı. Halka arza katılan yatırımcılar, sonuçların ne ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/quick-sigorta-halka-arz-sonuclari-aciklandi-mi-kac-lot-verir-quick-sigorta-ne-zaman-islem-gorecek-3902521",
-      "publishedAt": "Fri, 31 Jul 2026 17:38:58 GMT"
-    },
-    {
-      "title": "Bewen Enerji halka arz ertelendi mi?",
-      "summary": "Bewen Enerji A.Ş.'nin halka arz sürecine ilişkin önemli bir gelişme yaşandı. Şirket, 29-30-31 Temmuz 2026 tarihlerinde gerçekleştirilmesi planlanan talep toplama sürecinin ertelendiğini duyurdu. Yapılan açıklamada, mevcut piyasa koşullarını",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bewen-enerji-halka-arz-ertelendi-mi-bewen-enerji-talep-toplama-tarihleri-neden-ertelendi-yeni-tarih-ne-zaman-3902512",
-      "publishedAt": "Fri, 31 Jul 2026 16:24:28 GMT"
+      "publishedAt": "Fri, 31 Jul 2026 21:26:28 GMT"
     },
     {
       "title": "Son Şans filmi konusu",
@@ -137,11 +137,11 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/son-sans-last-looks-filmi-konusu-nedir-oyunculari-kimler-son-sans-ne-zaman-cekildi-3902509",
-      "publishedAt": "Fri, 31 Jul 2026 18:47:28 GMT"
+      "publishedAt": "Fri, 31 Jul 2026 21:20:52 GMT"
     },
     {
       "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "summary": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Spain.",
+      "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
@@ -156,12 +156,12 @@
       "publishedAt": "Fri, 31 Jul 2026 15:18:31 GMT"
     },
     {
-      "title": "Two bodies located and search ongoing after avalanche hits Nirmal Purja's team",
-      "summary": "Two bodies have been recovered from Pakistan's Broad Peak and seven spotted by drones - though their condition remains unclear.",
+      "title": "Body of US climber the latest recovered after Pakistan avalanche",
+      "summary": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 16:41:59 GMT"
+      "publishedAt": "Fri, 31 Jul 2026 20:22:46 GMT"
     },
     {
       "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
@@ -188,52 +188,68 @@
       "publishedAt": "Fri, 31 Jul 2026 08:21:37 GMT"
     },
     {
-      "title": "World reacts with cautious optimism to Hamas disarmament agreement",
-      "summary": "Deal for Hamas to disarm in stages in return for Israeli withdrawal has been announced, but implementation will be key.",
+      "title": "Children face higher threat of US deportation as legal support deal expires",
+      "summary": "Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/31/world-reacts-with-cautious-optimism-to-hamas-disarmament-agreement?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 18:51:50 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 21:11:57 +0000"
     },
     {
-      "title": "Trump says Hamas disarmament deal will be complex to deliver",
-      "summary": "Trump said Israel strongly supports an agreement for the complete disarmament of Hamas",
+      "title": "Cambridge students on why they protested at graduation ceremony",
+      "summary": "Several Cambridge students protested during their graduation ceremonies",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/trump-says-hamas-disarmament-deal-will-be-complex-to-deliver?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 18:44:33 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 20:58:14 +0000"
     },
     {
-      "title": "Syrian lawyer takes on ex-Assad official in landmark trial",
-      "summary": "Syrian lawyer takes on ex-Assad official in landmark trial",
+      "title": "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN",
+      "summary": "UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/syrian-lawyer-takes-on-ex-assad-official-in-landmark-trial?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 18:11:15 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 20:38:56 +0000"
     },
     {
-      "title": "Why is Israel arming illegal settlers?",
-      "summary": "As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.",
+      "title": "Venezuela government and opposition to hold talks aimed at path to election",
+      "summary": "Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Corina Machado left out of proceedings.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 18:02:14 +0000"
+      "link": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 20:28:39 +0000"
     },
     {
-      "title": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
-      "summary": "New York is one of many states with cases against Kalshi and others in dispute with Trump gov't on who gets to regulate.",
+      "title": "At least 25 people killed, dozens injured in Algeria bus crash",
+      "summary": "At least 25 people have been killed and dozens others injured in a bus crash in Algeria.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 17:52:23 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 20:12:32 +0000"
     },
     {
-      "title": "FIFA COO Lamour says staff deceived over Infantino’s World Cup plan",
-      "summary": "Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino's World Cup sell-off plan.",
+      "title": "Does FIFA need private investment?",
+      "summary": "The world football body is facing growing backlash after its proposal to sell a stake in its top events.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 17:38:04 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 20:07:00 +0000"
+    },
+    {
+      "title": "Climate adaptation at its limits, says one scientist",
+      "summary": "A climate scientist says Earth is \"passing the limits of adaptation\" when it comes to withstanding the effects of climate change.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5913376/climate-adaptation-at-its-limits-says-one-scientist",
+      "publishedAt": "Fri, 31 Jul 2026 16:28:46 -0400"
+    },
+    {
+      "title": "Drone delivery helps in Rwanda, but only so much",
+      "summary": "A U.S. company in Rwanda has been providing medical supplies via drone. But even state-of-the-art technology can't overcome a weak health care infrastructure.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5867626/drone-delivery-helps-in-rwanda-but-only-so-much",
+      "publishedAt": "Fri, 31 Jul 2026 16:28:41 -0400"
     },
     {
       "title": "Google pauses AI satellite images, after fears of deepfakes in the sky",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
       "publishedAt": "Fri, 31 Jul 2026 07:30:26 -0400"
-    },
-    {
-      "title": "Who's driving a bookmobile full of Epstein files? The quiz knows!",
-      "summary": "Plus: scandalous Senate drama, Grammys drama and Homeric drama.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/31/g-s1-136290/epstein-trump-fauci-grammys-bts-news-quiz",
-      "publishedAt": "Fri, 31 Jul 2026 05:01:00 -0400"
-    },
-    {
-      "title": "450K borrowers say they were ripped off. Their student loans are being erased",
-      "summary": "The borrowers say they were defrauded by their colleges, but the class-action lawsuit to erase their federal student loans has been tangled up in courts for years.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5910885/student-loans-colleges-fraud-borrower-defense-education-department-trump",
-      "publishedAt": "Fri, 31 Jul 2026 05:00:00 -0400"
     },
     {
       "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
@@ -320,15 +320,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 23,
+      "tempC": 22,
       "description": "mainly clear",
-      "high": 27,
-      "low": 21
+      "high": 28,
+      "low": 22
     },
     {
       "place": "London",
-      "tempC": 25,
-      "description": "mainly clear",
+      "tempC": 22,
+      "description": "overcast",
       "high": 26,
       "low": 17
     }
