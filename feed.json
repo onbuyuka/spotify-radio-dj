@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-01T13:12:55.677Z",
+  "updated": "2026-08-01T15:58:40.453Z",
   "news": [
+    {
+      "title": "İtalya'nın 'İspanya ile Schengen'i askıya alma' kararı ne anlama geliyor?",
+      "summary": "İspanya'nın Kuzey Afrika'daki toprağı Ceuta'ya Fas'tan on binlerce kişinin geçmesinin ardından İtalya'nın İspanya ile \"Schengen serbest dolaşım rejimini geçici olarak askıya alma\" kararı tartışmalara neden oldu. Bu tedbirin Ceuta vakasında ",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cg4dx7zqzy9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 13:58:10 GMT"
+    },
     {
       "title": "İran ABD ile barıştansa düşük yoğunluklu bir savaşı mı tercih ediyor?",
       "summary": "İlk bakışta İran'ın bu hafta başlarında Ürdün'deki bir ABD üssüne düzenlediği sürpriz füze saldırısını açıklamak zor görünebilir. İran, çatışmayı dikkatli bir şekilde yöneterek ABD üzerinde baskıyı sürdürebileceğine ve topyekün bir savaştan",
@@ -18,12 +26,12 @@
       "publishedAt": "Sat, 01 Aug 2026 11:52:02 GMT"
     },
     {
-      "title": "FIFA, UEFA'nın boykot resti sonrası Dünya Kupası 'yatırım planlarını' geri çekti",
-      "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA) Başkanı Gianni Infantino, Dünya Kupası dahil uluslararası turnuvalardaki hisselerin özel yatırımcılara satılmasını öngören ve \"futbolun satılması\" eleştirilerine hedef olan planı, yaşanan kr",
+      "title": "İstanbul'da üç belediye başkanı daha AKP'ye katıldı",
+      "summary": "İstanbul'da 31 Mart 2024 yerel seçimlerinde CHP'den seçilen Tuzla Belediye Başkanı Eren Ali Bingöl, Çekmeköy Belediye Başkanı Orhan Çerkez ve Şile Belediye Başkanvekili Sacit Terzi AKP'ye katıldı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c3w046g8106o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 08:10:32 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cvgv3264gj7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 01 Aug 2026 15:53:58 GMT"
     },
     {
       "title": "Süt dışında kemiklere yarayacak beş yiyecek",
@@ -42,12 +50,25 @@
       "publishedAt": "Sat, 01 Aug 2026 08:20:33 GMT"
     },
     {
-      "title": "Üsküdar Belediye Başkanı Sinem Dedetaş dahil dört kişi tutuklandı",
-      "summary": "İstanbul Anadolu Cumhuriyet Başsavcılığı'nca yürütülen soruşturma kapsamında gözaltına alınan Üsküdar Belediye Başkanı Sinem Dedetaş'ın da aralarında bulunduğu dört kişi tutuklandı",
-      "source": "BBC Türkçe",
+      "title": "Süreç yasasında sona doğru. Kurtulmuş: Gelecek hafta Meclis'e gelecek",
+      "summary": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecine ilişkin yasa teklifinin gelecek hafta partilerin ortak teklifiyle Meclis'e gelmesinin beklendiğini söyledi.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ckg4rdn5ydgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 10:06:38 GMT"
+      "publishedAt": "2026-08-01T18:57:51+03:00"
+    },
+    {
+      "title": "Üç belediye başkanı AK Parti'ye katıldı | Cumhurbaşkanı Erdoğan: AK Parti bir Türkiye kitabıdır",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti'nin 11 milyonu aşkın üye sayısıyla Türkiye'nin birinci partisi olduğunu dile getirerek \"AK Parti Türkiye kitabıdır.\" dedi. AK Parti'ye geçen İstanbul Tuzla, Çekmeköy ve Şile belediye başkanlarına",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-01T17:36:12+03:00"
+    },
+    {
+      "title": "Üsküdar Belediye Başkanı Sinem Dedetaş görevden uzaklaştırıldı",
+      "summary": "Üsküdar Belediyesi'ne yönelik yolsuzluk suçlamalı soruşturmada tutuklanan Sinem Dedetaş, görevden uzaklaştırıldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-01T18:24:41+03:00"
     },
     {
       "title": "Antrenmanda boynunun üzerine düşmüştü. Milli sporcu entübe edildi",
@@ -71,25 +92,20 @@
       "publishedAt": "2026-08-01T15:26:41+03:00"
     },
     {
-      "title": "İstanbullular dikkat! Bugün başladı, 14 gün boyunca bu yollar kapalı olacak",
-      "summary": "İstanbul'da, Yenikapı'da gerçekleştirilecek 5. İstanbul Festivali kapsamında bazı yollar 14 gün boyunca trafiğe kapalı olacak.",
-      "source": "NTV",
+      "title": "Hobbit 2: Smaug'un Çorak Toprakları filmi konusu",
+      "summary": "Fantastik sinemanın en sevilen yapımları arasında yer alan Hobbit 2: Smaug'un Çorak Toprakları (The Hobbit: The Desolation of Smaug), TRT 1 ekranlarında yeniden izleyiciyle buluşuyor. Yönetmen koltuğunda Oscar ödüllü usta yönetmen Peter Jac",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-01T14:58:36+03:00"
+      "link": "https://www.haberturk.com/hobbit-2-smaug-un-corak-topraklari-filmi-konusu-nedir-oyunculari-kimler-hobbit-2-smaug-un-corak-topraklari-ne-zaman-cekildi-3902676",
+      "publishedAt": "Sat, 01 Aug 2026 15:39:13 GMT"
     },
     {
-      "title": "Bakan Uraloğlu açıkladı. İstanbul Havalimanı'nda 4'üncü pist için geri sayım başladı",
-      "summary": "İstanbul Havalimanı'nın 4. ana pistinde çalışmaların son aşamasına gelindi. Pistte teknik testlerin ardından yılın son çeyreğinde uçuşların başlaması hedefleniyor.",
-      "source": "NTV",
+      "title": "Sarıkamış'ın 2. sünnet şöleni etkinliklerle başladı",
+      "summary": "Kars'ın Sarıkamış Belediyesi tarafından düzenlenen \"Geleneksel 2. Sünnet Şöleni ve Halk Konserleri\" etkinliği başladı. Sarıkamış Belediye Başkanı Serdar Kılıç, \"Yaklaşık 200 çocuğumuzun sevincine ortak olduk. İki gün boyunca çocuklarımız iç",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-01T14:19:23+03:00"
-    },
-    {
-      "title": "İstanbul'da milyonları etkileyecek karar çıktı. Kadıköy'de 13 İETT hattının son durağı değişti, bazı hatlar kaldırıldı",
-      "summary": "Kadıköy Meydanı Yayalaştırma Projesi kapsamında, otobüs peronları kaldırılıyor. 13 İETT hattının son durağı değişirken, bazı hatlar baştan ele alındı. Bazı hatların ise kaldırılması kararlaştırıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-01T14:21:21+03:00"
+      "link": "https://www.haberturk.com/sarikamis-in-2-sunnet-soleni-etkinliklerle-basladi-3902669",
+      "publishedAt": "Sat, 01 Aug 2026 14:52:10 GMT"
     },
     {
       "title": "ABB, Kızılay'a serinletme sistemi kurdu",
@@ -121,23 +137,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/masterchef-kim-kazandi-31-temmuz-2026-masterchef-ana-kadroya-kim-girdi-ana-kadroya-giren-13-yarismaci-kim-oldu-3902532",
-      "publishedAt": "Sat, 01 Aug 2026 07:13:57 GMT"
-    },
-    {
-      "title": "Kademeli emeklilik tablosu",
-      "summary": "Kademeli emeklilik düzenlemesi, gündemi meşgul etmeye devam ediyor. Emeklilikte Yaşa Takılanlar (EYT) düzenlemesinin ardından emeklilik hakkı elde edemeyen milyonlarca sigortalı çalışan, kademeli emeklilikle ilgili son gelişmeleri yakından ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/kademeli-emeklilik-cikacak-mi-2026-kademeli-emeklilik-sartlari-neler-erken-emeklilik-kimleri-kapsayacak-3902529",
-      "publishedAt": "Fri, 31 Jul 2026 21:26:00 GMT"
-    },
-    {
-      "title": "12. Yargı Paketi Resmi Gazete'de yayımlandı",
-      "summary": "12. Yargı Paketi Resmi Gazete'de yayımlanarak yürürlüğe girdi. TBMM Genel Kurulu'nda kabul edilen \"Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun\", yargı sistemine ilişkin önemli değişiklikler",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/12-yargi-paketi-iban-magdurlari-son-dakika-12-yargi-paketi-resmi-gazete-de-yayimlandi-mi-maddeleri-neler-3902525",
-      "publishedAt": "Sat, 01 Aug 2026 07:13:24 GMT"
+      "publishedAt": "Sat, 01 Aug 2026 14:34:38 GMT"
     },
     {
       "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
@@ -145,7 +145,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 12:43:21 GMT"
+      "publishedAt": "Sat, 01 Aug 2026 15:46:08 GMT"
     },
     {
       "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
@@ -165,11 +165,11 @@
     },
     {
       "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "summary": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 13:02:04 GMT"
+      "publishedAt": "Sat, 01 Aug 2026 15:25:30 GMT"
     },
     {
       "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
@@ -177,7 +177,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 01 Aug 2026 11:52:29 GMT"
+      "publishedAt": "Sat, 01 Aug 2026 13:35:39 GMT"
     },
     {
       "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
@@ -188,52 +188,52 @@
       "publishedAt": "Sat, 01 Aug 2026 02:21:29 GMT"
     },
     {
-      "title": "Iran warns against ‘fire of war’ amid US strike threats on energy sites",
-      "summary": "Iranian media say retaliation plan ready after US media suggest potential imminent attacks against civilian sites.",
+      "title": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
+      "summary": "Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
-      "publishedAt": "Sat, 01 Aug 2026 12:44:54 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
+      "publishedAt": "Sat, 01 Aug 2026 15:34:15 +0000"
     },
     {
-      "title": "Sde Teiman walkout lays bare an Israeli military running out of trust",
-      "summary": "Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.",
+      "title": "India cracks down on protesters accused of ‘abusing’ Modi",
+      "summary": "Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss",
-      "publishedAt": "Sat, 01 Aug 2026 12:40:36 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss",
+      "publishedAt": "Sat, 01 Aug 2026 14:28:20 +0000"
     },
     {
-      "title": "FIFA World Cup crisis: Who could replace Infantino as president?",
-      "summary": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?",
+      "title": "Israeli strike destroys Gaza hospital warehouse",
+      "summary": "Israeli strike destroys medical supplies warehouse at Gaza's Al-Aqsa Martyrs Hospital, staff say.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
-      "publishedAt": "Sat, 01 Aug 2026 11:58:23 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+      "publishedAt": "Sat, 01 Aug 2026 14:07:36 +0000"
     },
     {
-      "title": "Vanishing forests: Why is the Philippines failing at reforestation?",
-      "summary": "101 East investigates how the Philippines’ ambitious regreening programme is failing the nation’s forests.",
+      "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
+      "summary": "Backlash to FIFA's private investment plan for World Cups and events was huge; now football reacts to U-turn's fallout.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss",
-      "publishedAt": "Sat, 01 Aug 2026 11:30:00 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
+      "publishedAt": "Sat, 01 Aug 2026 13:59:19 +0000"
     },
     {
-      "title": "Spain says migrants in Ceuta have returned to Morocco",
-      "summary": "Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.",
+      "title": "Is Spain being punished?",
+      "summary": "In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss",
-      "publishedAt": "Sat, 01 Aug 2026 11:29:41 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss",
+      "publishedAt": "Sat, 01 Aug 2026 13:50:36 +0000"
     },
     {
-      "title": "Trump mimics sound of Patriot missile interceptions",
-      "summary": "US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.",
+      "title": "Children run marathon to spotlight Gaza’s growing orphan crises",
+      "summary": "Children run marathon to spotlight Gaza's growing orphan crisis",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss",
-      "publishedAt": "Sat, 01 Aug 2026 11:21:32 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss",
+      "publishedAt": "Sat, 01 Aug 2026 13:46:33 +0000"
     },
     {
       "title": "Opinion: Remembering Margo Howard",
@@ -260,19 +260,19 @@
       "publishedAt": "Sat, 01 Aug 2026 07:00:00 -0400"
     },
     {
-      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
-      "summary": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
-      "publishedAt": "Sat, 01 Aug 2026 06:00:00 -0400"
-    },
-    {
       "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
       "summary": "Thousands of unaccompanied immigrant children are set to lose legal representation. The federal contract that pays for legal access expired Friday.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration",
+      "publishedAt": "Sat, 01 Aug 2026 06:00:00 -0400"
+    },
+    {
+      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
+      "summary": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
       "publishedAt": "Sat, 01 Aug 2026 06:00:00 -0400"
     },
     {
@@ -285,11 +285,11 @@
     },
     {
       "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
-      "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north AfricaEurope live – latest updatesSpain’s prime minister, Pedro Sánchez, has called for an urgent meeting of EU interior ministers",
+      "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north AfricaSpain’s prime minister, Pedro Sánchez, has called for an urgent meeting of EU interior ministers after what he called some m",
       "source": "The Guardian",
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
-      "publishedAt": "Sat, 01 Aug 2026 12:35:04 GMT"
+      "publishedAt": "Sat, 01 Aug 2026 15:05:05 GMT"
     },
     {
       "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
@@ -320,15 +320,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 28,
-      "description": "mainly clear",
+      "tempC": 25,
+      "description": "partly cloudy",
       "high": 28,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 25,
-      "description": "mainly clear",
+      "tempC": 26,
+      "description": "partly cloudy",
       "high": 26,
       "low": 16
     }
