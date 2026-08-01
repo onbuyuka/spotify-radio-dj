@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T22:02:25.513Z",
+  "updated": "2026-08-01T02:30:38.504Z",
   "news": [
     {
       "title": "Üsküdar Belediye Başkanı Sinem Dedetaş dahil dört kişi tutuklandı",
@@ -50,11 +50,18 @@
       "publishedAt": "Fri, 31 Jul 2026 18:15:29 GMT"
     },
     {
+      "title": "Gaziantep'te Narko Kapan operasyonu. 416 kişi tutuklandı",
+      "summary": "Gaziantep merkezli 14 ilde düzenlenen Narko Kapan operasyonunda gözaltına alınan 450 şüpheliden 416'sı tutuklandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-01T02:24:39+03:00"
+    },
+    {
       "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 01 Ağustos 2026",
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 01 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-01T01:00:00+03:00"
+      "publishedAt": "2026-08-01T05:00:00+03:00"
     },
     {
       "title": "Dışişleri Bakanı Fidan, Suudi mevkidaşı Bin Ferhan ile telefonda görüştü",
@@ -83,13 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-07-31T14:18:14+03:00"
-    },
-    {
-      "title": "Gülistan Doku soruşturmasında yeni tutuklamalar",
-      "summary": "Gülistan Doku soruşturması kapsamında düzenlenen son operasyonlarda gözaltına alınan beş şüpheli tutuklandı. Bu tutuklamalarla birlikte tutuklu sayısı 25'e yükseldi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-07-31T13:40:51+03:00"
     },
     {
       "title": "ATA AÖF bütünleme ne zaman, saat kaçta?",
@@ -164,12 +164,12 @@
       "publishedAt": "Fri, 31 Jul 2026 20:22:46 GMT"
     },
     {
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
       "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 31 Jul 2026 10:32:17 GMT"
+      "publishedAt": "Sat, 01 Aug 2026 02:21:29 GMT"
     },
     {
       "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
@@ -188,52 +188,68 @@
       "publishedAt": "Fri, 31 Jul 2026 08:21:37 GMT"
     },
     {
-      "title": "Children face higher threat of US deportation as legal support deal expires",
-      "summary": "Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.",
+      "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+      "summary": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 21:11:57 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+      "publishedAt": "Sat, 01 Aug 2026 02:06:00 +0000"
     },
     {
-      "title": "Cambridge students on why they protested at graduation ceremony",
-      "summary": "Several Cambridge students protested during their graduation ceremonies",
+      "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+      "summary": "The jet went down on Friday near the Miramar airbase in San Diego.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/cambridge-students-on-why-they-protested-at-graduation-ceremony?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 20:58:14 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
+      "publishedAt": "Sat, 01 Aug 2026 01:55:27 +0000"
     },
     {
-      "title": "Powerful El Nino to intensify heat on ‘a planet already on fire’: UN",
-      "summary": "UN chief Guterres calls for halt to new fossil fuels as El Nino induces heatwaves, floods, and drought worldwide",
+      "title": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
+      "summary": "How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/31/powerful-el-nino-to-intensify-heat-on-a-planet-already-on-fire-un?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 20:38:56 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
+      "publishedAt": "Sat, 01 Aug 2026 01:10:58 +0000"
     },
     {
-      "title": "Venezuela government and opposition to hold talks aimed at path to election",
-      "summary": "Talks to be led by former lawmaker Dinorah Figuera as opposition figure Maria Corina Machado left out of proceedings.",
+      "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+      "summary": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/7/31/venezuela-govt-and-opposition-to-hold-talks-aimed-at-path-to-elections?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 20:28:39 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
+      "publishedAt": "Sat, 01 Aug 2026 00:48:37 +0000"
     },
     {
-      "title": "At least 25 people killed, dozens injured in Algeria bus crash",
-      "summary": "At least 25 people have been killed and dozens others injured in a bus crash in Algeria.",
+      "title": "Trump administration to dismiss Reflecting Pool charges against David Hearn",
+      "summary": "US Attorney Jeanine Pirro, a Trump appointee, acknowledges that the peeling sealant is result of 'botched installation'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/at-least-25-people-killed-dozens-injured-in-algeria-bus-crash?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 20:12:32 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/1/trump-administration-to-dismiss-reflecting-pool-charges-against-david-hearn?traffic_source=rss",
+      "publishedAt": "Sat, 01 Aug 2026 00:02:37 +0000"
     },
     {
-      "title": "Does FIFA need private investment?",
-      "summary": "The world football body is facing growing backlash after its proposal to sell a stake in its top events.",
+      "title": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
+      "summary": "An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any 'mad' US strikes.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/31/does-fifa-need-private-investment?traffic_source=rss",
-      "publishedAt": "Fri, 31 Jul 2026 20:07:00 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+      "publishedAt": "Fri, 31 Jul 2026 23:59:40 +0000"
+    },
+    {
+      "title": "FIFA scraps controversial deal to sell stakes in World Cup to private investors",
+      "summary": "FIFA abandoned a plan to create a commercial venture and then sell stakes to minority investors, just days after unveiling it. The plan drew sharp condemnation — and a boycott from European nations.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5915820/fifa-world-cup-gianni-infantino",
+      "publishedAt": "Fri, 31 Jul 2026 22:08:51 -0400"
+    },
+    {
+      "title": "Prosecutors move to dismiss Reflecting Pool vandalism case, saying 'botched installation' to blame",
+      "summary": "The government had accused David Hearn of ripping a piece of sealant after a $14-million renovation. Hearn has repeatedly said that he simply touched the water in the pool out of curiosity last month.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/07/31/nx-s1-5915828/reflecting-pool-david-hearn-dismiss",
+      "publishedAt": "Fri, 31 Jul 2026 19:24:36 -0400"
     },
     {
       "title": "Climate adaptation at its limits, says one scientist",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/07/31/g-s1-136442/extreme-heat-air-conditioning-keeping-cool",
       "publishedAt": "Fri, 31 Jul 2026 10:44:47 -0400"
-    },
-    {
-      "title": "In Nebraska, Americans begin to lose Medicaid under Trump's work rules",
-      "summary": "Nebraska's Medicaid director, in an exclusive interview with nonprofit news organization Tradeoffs, said roughly 200 people will lose health coverage on Aug. 1.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/31/nx-s1-5913947/medicaid-trump-work-requirements-big-beautiful-bill-nebraska",
-      "publishedAt": "Fri, 31 Jul 2026 09:22:40 -0400"
-    },
-    {
-      "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit",
-      "summary": "President Trump says a deal has been reached for Hamas to completely disarm and Israeli forces to withdraw from Gaza. And, the U.S. economy slowed some, but Americans continued to spend.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
-      "publishedAt": "Fri, 31 Jul 2026 07:30:26 -0400"
     },
     {
       "title": "At least 57 people die as tens of thousands cross to Spanish enclave of Ceuta from Morocco",
@@ -321,14 +321,14 @@
     {
       "place": "İstanbul",
       "tempC": 22,
-      "description": "mainly clear",
+      "description": "partly cloudy",
       "high": 28,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 22,
-      "description": "overcast",
+      "tempC": 18,
+      "description": "clear sky",
       "high": 26,
       "low": 17
     }
