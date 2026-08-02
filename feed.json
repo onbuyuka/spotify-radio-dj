@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-02T15:57:57.831Z",
+  "updated": "2026-08-02T19:04:59.004Z",
   "news": [
+    {
+      "title": "Etimesgut Belediye Başkanı Erdal Beşikçioğlu dahil 44 kişi hakkında tutuklama talebi",
+      "summary": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında gözaltına alınan Etimesgut Belediye Başkanı Erdal Beşikçioğlu'nun da yer aldığı 55 kişiden 44'ünün tutuklanması talep edildi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cq5630yz169o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 02 Aug 2026 16:39:29 GMT"
+    },
     {
       "title": "Trump, hızla bir anlaşma yapılması şartıyla İran'a saldırıları durdurduğunu söyledi",
       "summary": "Donald Trump bir \"anlaşma çerçevesi\" üzerinde uzlaşıldığını, bunun Hürmüz Boğazı'nın yeniden açılmasını ve İran'ın nükleer tehdidinin sona ermesini içereceğini söyledi.",
@@ -8,14 +16,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cn8n2zx45v7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 02 Aug 2026 08:11:36 GMT"
-    },
-    {
-      "title": "Etimesgut Belediye Başkanı Erdal Beşikçioğlu dahil 55 kişi adliyeye sevk edildi",
-      "summary": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında gözaltına alınan Etimesgut Belediye Başkanı Erdal Beşikçioğlu'nun da yer aldığı 55 kişi adliyeye sevk edildi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cq5630yz169o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 08:35:08 GMT"
     },
     {
       "title": "Suudi Arabistan'da idam sırasını bekleyen umutsuz mahkumlar BBC'yi arıyor",
@@ -50,6 +50,41 @@
       "publishedAt": "Sun, 02 Aug 2026 09:50:28 GMT"
     },
     {
+      "title": "Samsun’da özel halk otobüsü devrildi. 21 kişi yaralandı",
+      "summary": "Samsun’un Çarşamba ilçesinde özel halk otobüsünün yoldan çıkarak devrilmesi sonucu 21 kişi yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-02T22:02:41+03:00"
+    },
+    {
+      "title": "Ertuğrul Özkök hakkında Cumhurbaşkanına hakaret soruşturması",
+      "summary": "Katıldığı bir programdaki söylemleri nedeniyle gazeteci Ertuğrul Özkök hakkında Cumhurbaşkanı'na hakaret suçundan soruşturma başlatıldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-02T21:47:46+03:00"
+    },
+    {
+      "title": "Yasağa rağmen inat etti. Jandarma dakikalarca ikna etmeye çalıştı",
+      "summary": "Tekirdağ'ın Süleymanpaşa ilçesinde alkollü olduğu iddia edilen bir kişi, denize girme yasağına rağmen gece denize girmeye çalıştı. Jandarma ekiplerinin uzun süren ikna çabası sonucu vatandaş kıyıdan uzaklaştırıldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-02T21:10:24+03:00"
+    },
+    {
+      "title": "Tekirdağ'da su kaynakları denetimi. 4 işletmeye 4,8 milyon liralık atık su cezası",
+      "summary": "Tekirdağ'da atıklarıyla su kaynaklarını kirlettikleri belirlenen 4 işletmeye toplam 4 milyon 824 bin 987 lira ceza uygulandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-02T20:46:21+03:00"
+    },
+    {
+      "title": "Formulaz renkli görüntülere sahne oldu. Tahta arabalarla yarıştılar",
+      "summary": "Rize'nin Ardeşen ilçesinde \"16. Geleneksel Red Bull Formulaz Tahta Araba Yarışları\" gerçekleştirildi. 80 yarışmacının mücadelesi renkli görüntülere sahne oldu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-02T20:18:37+03:00"
+    },
+    {
       "title": "TBMM Dilekçe Komisyonu'na ilginç talepler. \"İstanbul kışlık, Ankara yazlık başkent olsun\"",
       "summary": "Türkiye Büyük Millet Meclisi dilekçe Komisyonu'na geçtiğimiz ay bin 610 başvuru geldi. Yapılan başvurularda \"seçimlerde vatandaşlara yaşadıkları ilin milletvekili sayısı kadar oy hakkı verilmesi, İstanbul'un kışlık, Ankara'nın yazlık başken",
       "source": "NTV",
@@ -57,39 +92,20 @@
       "publishedAt": "2026-08-02T18:25:28+03:00"
     },
     {
-      "title": "DEM Parti heyeti İmralı'ya gitti",
-      "summary": "DEM Parti İmralı Heyeti, terör örgütü PKK elebaşı Abdullah Öcalan ile İmralı Adası'nda görüştü.",
-      "source": "NTV",
+      "title": "Şans Topu sonuçları açıklandı!",
+      "summary": "Şans Topu'nda haftanın merakla beklenen çekilişi 2 Ağustos 2026 Pazar akşamı tamamlandı. Noter ile gerçekleştirilen çekilişin ardından kazandıran numaralar belli olurken, binlerce oyunsever sonuç ekranına yöneldi. Milli Piyango Online üzeri",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-02T17:58:46+03:00"
+      "link": "https://www.haberturk.com/sans-topu-sonuclari-aciklandi-son-dakika-2-agustos-2026-pazar-sans-topu-cekilis-sonucu-sorgula-3902829",
+      "publishedAt": "Sun, 02 Aug 2026 17:31:19 GMT"
     },
     {
-      "title": "Çanakkale'de ormanlık alanda yangın çıktı. Köylere çok yakın bir bölge",
-      "summary": "Çanakkale'nin Bayramiç ilçesinde köylere yakın bir bölgede ormanlık alanda çıkan yangına havadan ve karadan müdahale ediliyor.",
-      "source": "NTV",
+      "title": "Tarım ve Orman Bakanlığı personel alımı son gün ne zaman?",
+      "summary": "Tarım ve Orman Bakanlığı'nın 2026 yılı sözleşmeli personel alımı ilanı sonrası başvuru süreci hız kesmeden devam ediyor. Toplam 1.874 kişilik kontenjan için başvurusunu tamamlamak isteyen adaylar, son başvuru tarihini kaçırmamak adına takvi",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-02T17:29:19+03:00"
-    },
-    {
-      "title": "Bakan Memişoğlu: Anne sütü, hayata atılan en sağlıklı adım",
-      "summary": "Sağlık Bakanı Kemal Memişoğlu, 334 Emzirme Polikliniğinde ve Aile Sağlığı Merkezlerinde sundukları emzirme danışmanlığı hizmetiyle sadece 2025 yılında 300 bini aşkın vatandaşa emzirme eğitimi verdiklerini belirtti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-02T16:16:15+03:00"
-    },
-    {
-      "title": "İstanbul'da bu gece bazı yollar trafiğe kapatılacak: 3-5 Ağustos kapalı yollar ve alternatif güzergahlar",
-      "summary": "15 Temmuz Şehitler Köprüsü’nde gerçekleştirilecek ‘Asırlık Gece’ belgeseli çekimleri nedeniyle 3-5 Ağustos tarihleri arasında gece saatlerinde bazı yollar trafiğe kapatılacak. Düzenleme kapsamında kapatılacak olan yollar ve sürücülerin yönl",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-02T16:05:57+03:00"
-    },
-    {
-      "title": "Bakan Güler'den KKTC mesajı: \"Askeri hazırlık durumumuz titizlikle güncellenmektedir\"",
-      "summary": "Milli Savunma Bakanı Yaşar Güler; Kıbrıs adasındaki gelişmelere ilişkin, Türk Silahlı Kuvvetleri'nin (TSK) askeri hazırlık durumunun güncellendiğini açıkladı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-02T15:05:52+03:00"
+      "link": "https://www.haberturk.com/tarim-ve-orman-bakanligi-personel-alimi-son-gun-ne-zaman-sartlari-neler-basvuru-nasil-yapilir-3902825",
+      "publishedAt": "Sun, 02 Aug 2026 16:49:24 GMT"
     },
     {
       "title": "Kademeli erken emeklilik ne zaman çıkacak?",
@@ -124,28 +140,12 @@
       "publishedAt": "Sat, 01 Aug 2026 22:44:38 GMT"
     },
     {
-      "title": "ALES/2 ne zaman, saat kaçta?",
-      "summary": "Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı (ALES/2) için geri sayım başladı. ÖSYM tarafından yayımlanan takvime göre sınav giriş belgeleri adayların erişimine açıldı. Adaylar, sınava girecekleri bina ve salon bilgilerini AİS siste",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/ales-tarihi-2026-ales2-ne-zaman-saat-kacta-ales-sinav-giris-belgesi-nasil-alinir-2026-ales-kac-soru-kac-dakika-surecek-3902699",
-      "publishedAt": "Sun, 02 Aug 2026 09:11:56 GMT"
-    },
-    {
-      "title": "MasterChef'te önlük yarışı sürüyor",
-      "summary": "MasterChef Türkiye 2026'da ana kadro heyecanı tüm hızıyla devam ediyor. Üçüncü grupta mücadele eden yarışmacılar, ana kadroya giren 14. isim olabilmek için şeflerin karşısına çıktı. Bir önceki bölümde başarılı performansıyla Ayşe, ana kadro",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/masterchef-kim-kazandi-1-agustos-2026-cumartesi-masterchef-ana-kadroya-kim-girdi-ana-kadroya-giren-14-yarismaci-kim-oldu-3902696",
-      "publishedAt": "Sun, 02 Aug 2026 13:17:34 GMT"
-    },
-    {
-      "title": "Helicopters fighting Greece wildfires collide in mid-air",
-      "summary": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
+      "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 02 Aug 2026 15:21:56 GMT"
+      "publishedAt": "Sun, 02 Aug 2026 18:04:44 GMT"
     },
     {
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -180,7 +180,7 @@
       "publishedAt": "Sun, 02 Aug 2026 15:48:00 GMT"
     },
     {
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "title": "Five dead and 41 missing after Indonesia ferry catches fire",
       "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
       "source": "BBC World",
       "lang": "en",
@@ -188,52 +188,60 @@
       "publishedAt": "Sun, 02 Aug 2026 11:49:40 GMT"
     },
     {
-      "title": "Israeli settlers shoot Palestinian child during farm raid",
-      "summary": "CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.",
+      "title": "Two helicopters collide mid-air while tackling wildfires in Greece",
+      "summary": "Footage has emerged showing the moment two firefighting helicopters collided mid-air while fighting wildfires in Greece.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
-      "publishedAt": "Sun, 02 Aug 2026 15:36:28 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/aje-onl-nf_two-helicopters-crash-mid-air-wildfires-in-greece-020826?traffic_source=rss",
+      "publishedAt": "Sun, 02 Aug 2026 18:38:47 +0000"
     },
     {
-      "title": "How to end the ‘Hormuz war’",
-      "summary": "The least bad option for the US is to let the MoU Article 5 play out.",
+      "title": "Ukrainian drone attacks kill eight in response to Russian missiles",
+      "summary": "Ukrainian strikes target Russian oil hubs and high-rises as Zelenskyy warns of critical Patriot interceptor shortages.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss",
-      "publishedAt": "Sun, 02 Aug 2026 15:33:20 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles?traffic_source=rss",
+      "publishedAt": "Sun, 02 Aug 2026 18:37:23 +0000"
     },
     {
-      "title": "Ukrainian farmers use temporary storage to revive grain exports",
-      "summary": "Russian attacks disrupt Black Sea exports, forcing Ukrainian farmers to use temporary grain storage.",
+      "title": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
+      "summary": "Former US hostage John Limbert says Washington ‘can’t bomb and assassinate its way to a better relationship’ with Iran.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ukrainian-farmers-use-temporary-storage-to-revive-grain-exports?traffic_source=rss",
-      "publishedAt": "Sun, 02 Aug 2026 15:14:26 +0000"
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
+      "publishedAt": "Sun, 02 Aug 2026 18:28:13 +0000"
     },
     {
-      "title": "Heatwave forces nuclear shutdown in Hungary",
-      "summary": "Hungary says a heatwave has forced the shutdown of its largest nuclear plant as low Danube levels disrupt cooling.",
+      "title": "Republican senator says former son-in-law should resign from US Congress",
+      "summary": "Senator Bernie Moreno has broken silence around domestic abuse allegations involving Representative Max Miller.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/08-02-2026-hungary-nuclear-plant-sv?traffic_source=rss",
-      "publishedAt": "Sun, 02 Aug 2026 14:44:34 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/2/republican-senator-says-former-son-in-law-should-resign-from-us-congress?traffic_source=rss",
+      "publishedAt": "Sun, 02 Aug 2026 18:27:41 +0000"
     },
     {
-      "title": "Tanks, troops and space",
-      "summary": "Andrius Kubilius on the lessons from Ukraine and why drones and space are transforming Europe's security strategy.",
+      "title": "Fetus found among the ruins of a deadly Israeli strike on Gaza",
+      "summary": "Residents searching through the rubble of an Israeli strike in western Gaza City recovered the body of an unborn baby.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/2/tanks-troops-and-space?traffic_source=rss",
-      "publishedAt": "Sun, 02 Aug 2026 14:34:21 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/fetus-found-among-the-ruins-of-a-deadly-israeli-strike-on-gaza?traffic_source=rss",
+      "publishedAt": "Sun, 02 Aug 2026 17:57:01 +0000"
     },
     {
-      "title": "CIA whistleblower John Kiriakou on accountability and CIA’s history",
-      "summary": "Marc Lamont Hill speaks to CIA whistleblower John Kiriakou about the agency and US intelligence today.",
+      "title": "Migrant deaths in Ceuta rise to 72 after border surge from Morocco",
+      "summary": "Five more bodies have been found along Ceuta's coastline as enclave recovers from unprecedented border influx.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/upfront/2026/8/2/cia-whistleblower-john-kiriakou-on-accountability-and-cias-history?traffic_source=rss",
-      "publishedAt": "Sun, 02 Aug 2026 14:20:36 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss",
+      "publishedAt": "Sun, 02 Aug 2026 17:15:56 +0000"
+    },
+    {
+      "title": "Capital One says it closed Trump Organization accounts over money-laundering concerns",
+      "summary": "The bank is asking a judge to permanently dismiss a lawsuit from Trump-affiliated businesses, arguing a monthslong internal review — not the Jan. 6 riot — explains why hundreds of accounts were shut down in 2021.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
+      "publishedAt": "Sun, 02 Aug 2026 14:31:34 -0400"
     },
     {
       "title": "Thousands of people under evacuation order from wildfires in Spokane, Wash.",
@@ -276,14 +284,6 @@
       "publishedAt": "Sun, 02 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "Idaho fast food restaurant shooting leaves 3 dead, city spokesman says",
-      "summary": "Police who responded to the shooting found the body of the suspected gunman in an area near the restaurant.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
-      "publishedAt": "Sun, 02 Aug 2026 04:01:27 -0400"
-    },
-    {
       "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
       "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospectsFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating tha",
       "source": "The Guardian",
@@ -320,15 +320,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 26,
-      "description": "mainly clear",
+      "tempC": 24,
+      "description": "clear sky",
       "high": 28,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 27,
-      "description": "partly cloudy",
+      "tempC": 24,
+      "description": "overcast",
       "high": 27,
       "low": 17
     }
