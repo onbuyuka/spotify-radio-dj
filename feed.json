@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T19:26:18.103Z",
+  "updated": "2026-08-03T22:05:57.038Z",
   "news": [
     {
       "title": "Çerçeve yasa teklifi Meclis'te AKP'li milletvekillerinin imzasına açıldı",
@@ -8,6 +8,14 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c74gj9em7llo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 03 Aug 2026 15:20:50 GMT"
+    },
+    {
+      "title": "Karadeniz'de 13 Türk mürettebatın bulunduğu gemiye saldırı",
+      "summary": "Denizcilik Genel Müdürlüğü tarafından yapılan bir açıklamaya göre Samsun'a giden NADEZHDA adlı Türk mürettebatlı Ro-Ro gemisi Karadeniz'de drone saldırısına uğradı. Gemide 13'ü Türk vatandaşı olmak üzere toplam 22 mürettebatın bulunduğu bil",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cm2ge1y9g4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 19:52:24 GMT"
     },
     {
       "title": "Cem Küçük soruşturması kapsamında TV programcısı Tahir Sarıkaya gözaltına alındı",
@@ -26,14 +34,6 @@
       "publishedAt": "Mon, 03 Aug 2026 16:46:17 GMT"
     },
     {
-      "title": "15 Temmuz paylaşımı nedeniyle tutuklanan Nasuh Mahruki'ye hapis istemi",
-      "summary": "Sosyal medya hesabından yaptığı 15 Temmuz darbe girişimine ilişkin paylaşım nedeniyle tutuklanan Arama Kurtarma Derneği (AKUT) kurucularından Nasuh Mahruki'ye istenen ceza belli oldu",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cjwx3ngn3z4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 15:04:32 GMT"
-    },
-    {
       "title": "Bağırsakları dışarıda olan bebek anne karnında ameliyatla tedavi edildi",
       "summary": "Bir bebekteki doğum kusuru, ABD'de henüz anne karnındayken geçirdiği bir ameliyatla giderildi.",
       "source": "BBC Türkçe",
@@ -42,19 +42,26 @@
       "publishedAt": "Mon, 03 Aug 2026 13:03:36 GMT"
     },
     {
-      "title": "Öcalan: 'Cumhuriyet'in kuruluşu kadar önemli bir demokratikleşme sürecinin başlangıcındayız'",
-      "summary": "Abdullah Öcalan, PKK'lıların topluma kazandırılmasıyla ilgili çıkarılması beklenen çerçeve yasa hakkında, \"En az Cumhuriyet'in kuruluşu kadar önemli olacak bir demokratikleşme sürecinin başlangıcındayız\" dedi.",
+      "title": "15 Temmuz paylaşımı nedeniyle tutuklanan Nasuh Mahruki'ye hapis istemi",
+      "summary": "Sosyal medya hesabından yaptığı 15 Temmuz darbe girişimine ilişkin paylaşım nedeniyle tutuklanan Arama Kurtarma Derneği (AKUT) kurucularından Nasuh Mahruki'ye istenen ceza belli oldu",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c0ejzvd2gzvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 09:11:26 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cjwx3ngn3z4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 15:04:32 GMT"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Ağustos 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 04 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-04T01:00:00+03:00"
     },
     {
       "title": "Cem Küçük soruşturması. Gazeteci Tahir Sarıkaya gözaltına alındı",
       "summary": "Cem Küçük soruşturması kapsamında gazeteci Tahir Sarıkaya gözaltına alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-03T22:04:50+03:00"
+      "publishedAt": "2026-08-03T23:31:45+03:00"
     },
     {
       "title": "Bakan Fidan, İngiliz mevkidaşı ile görüştü",
@@ -85,11 +92,20 @@
       "publishedAt": "2026-08-03T15:52:34+03:00"
     },
     {
-      "title": "İstanbul'da yönetim tablosu değişti. AK Partili belediye sayısı CHP'yi geçti",
-      "summary": "Cumhuriyet Halk Partisi (CHP) 31 Mart 2024 yerel seçimlerinde İstanbul'da Büyükşehir Belediyesi ile 39 belediyeden 26'sını kazanmıştı. Ancak tutuklamalar, kayyum atamaları ve transferlerle bu tablo değişti.",
-      "source": "NTV",
+      "title": "Sigaraya zam mı geldi?",
+      "summary": "Sigara fiyatlarına yönelik zam haberlerine bir yenisi daha eklendi. Türkiye Tekel Bayileri Yardımlaşma Derneği (TBYD) Başkanı Erol Dündar, sosyal medya hesabından yaptığı paylaşımla bir sigara grubunda fiyat artışına gidildiğini duyurdu. Aç",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-03T15:49:34+03:00"
+      "link": "https://www.haberturk.com/sigaraya-zam-mi-geldi-3-agustos-pazartesi-en-ucuz-ve-en-pahali-sigara-fiyati-ne-kadar-oldu-hangi-sigara-grubuna-zam-geldi-3903122",
+      "publishedAt": "Mon, 03 Aug 2026 21:34:08 GMT"
+    },
+    {
+      "title": "MasterChef kim elendi?",
+      "summary": "MasterChef Türkiye 2026'da ana kadro heyecanı tüm hızıyla devam ediyor. Üçüncü grubun son şans mücadelesinde yarışmacılar, yedek kadroya girebilmek için son kez tezgâh başına geçti. Gecenin Hatırlanacağı gibi son olarak Gül, ana kadroya yed",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/masterchef-kim-elendi-3-agustos-2026-masterchef-te-ana-kadroya-yedeklerden-kim-girdi-3903091",
+      "publishedAt": "Mon, 03 Aug 2026 21:24:23 GMT"
     },
     {
       "title": "İlk Evim konut kredisi ne zaman çıkacak?",
@@ -97,23 +113,23 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/ilk-evim-120-faizli-konut-kredisi-cikti-mi-ilk-kez-ev-alacaklara-ozel-konut-kredisi-ne-zaman-cikacak-ilk-evim-kredisi-sartlari-neler-3903089",
-      "publishedAt": "Mon, 03 Aug 2026 18:47:31 GMT"
+      "publishedAt": "Mon, 03 Aug 2026 21:34:48 GMT"
     },
     {
-      "title": "LPG'ye zam mı gelecek?",
-      "summary": "Akaryakıt fiyatlarında yeni hafta öncesi dikkat çeken bir gelişme yaşandı. Benzin Otogaz (LPG) için zam beklentisi gündeme geldi. Sektör kaynaklarından edinilen bilgilere göre LPG fiyatlarına litre başına 2,42 TL zam yapılması bekleniyor. S",
+      "title": "Fenerbahçe - Sturm Graz maçı ne zaman?",
+      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi 3. ön eleme turunda Avusturya temsilcisi Sturm Graz ile kritik bir mücadeleye çıkacak. Sarı-lacivertliler, taraftarı önünde avantajlı bir skor alarak rövanş öncesinde önemli bir adım atmayı hedefliyor. Devl",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/fenerbahce-sturm-graz-maci-ne-zaman-saat-kacta-uefa-sampiyonlar-ligi-3-on-eleme-turu-fenerbahce-sturm-graz-maci-hangi-kanalda-3903084",
+      "publishedAt": "Mon, 03 Aug 2026 21:12:33 GMT"
+    },
+    {
+      "title": "LPG'ye zam mı geldi?",
+      "summary": "Akaryakıt fiyatlarında yeni hafta öncesi dikkat çeken bir gelişme yaşandı. Benzin Otogaz (LPG) için zam geldi. LPG fiyatlarına litre başına 2,42 TL zam yapıldı. Söz konusu fiyat artışının 4 Ağustos Salı günü gece yarısından itibaren pompaya",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/lpg-ye-zam-mi-geliyor-benzine-ve-motorine-indirim-ya-da-zam-var-mi-3-agustos-pazartesi-istanbul-izmir-ankara-guncel-akaryakit-fiyatlari-3903083",
-      "publishedAt": "Mon, 03 Aug 2026 18:47:02 GMT"
-    },
-    {
-      "title": "Quick Sigorta halka arz sonuçları",
-      "summary": "29-30-31 Temmuz tarihlerinde talep toplayan Quick Sigorta halka arz sonuçları açıklandı. Halka arz kapsamında toplam 48 milyon 312 bin 950 adet payın dağıtımı tamamlandı. Gözler şimdi QUICK hisselerinin Borsa İstanbul'da işlem görmeye başla",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/quick-sigorta-halka-arz-sonuclari-aciklandi-mi-quick-sigorta-kac-lot-verdi-quick-borsada-ne-zaman-islem-gorecek-3903079",
-      "publishedAt": "Mon, 03 Aug 2026 18:46:34 GMT"
+      "publishedAt": "Mon, 03 Aug 2026 21:38:44 GMT"
     },
     {
       "title": "Çılgın Sayısal Loto sonuçları açıklandı",
@@ -121,23 +137,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/son-dakika-cilgin-sayisal-loto-sonuclari-aciklandi-3-agustos-2026-sayisal-loto-cekilis-sonucu-sorgulama-ekrani-3903077",
-      "publishedAt": "Mon, 03 Aug 2026 18:37:59 GMT"
-    },
-    {
-      "title": "On Numara sonuçları açıklandı",
-      "summary": "Milli Piyango Online tarafından gerçekleştirilen On Numara çekilişinin sonuçları belli oldu. 3 Ağustos 2026 Pazartesi günü yapılan çekilişin ardından talihli numaralar araştırılmaya başlandı. Büyük ikramiyeyi kazanıp kazanmadığını öğrenmek ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/son-dakika-on-numara-sonuclari-aciklandi-3-agustos-2026-on-numara-cekilis-sonucu-sorgulama-ekrani-3903075",
-      "publishedAt": "Mon, 03 Aug 2026 18:46:13 GMT"
-    },
-    {
-      "title": "Ölümü Gör filmi konusu ve oyuncuları",
-      "summary": "Ölümü Gör filmi, dram ve komedi türünü bir araya getiren dikkat çekici yapımlardan biri olarak izleyicilerin ilgisini çekmeye devam ediyor. Filmin yönetmen koltuğunda Bora Onur otururken, senaryosu da Bora Onur'un imzasını taşıyor. Başrolle",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/olumu-gor-filmi-konusu-nedir-oyunculari-kimler-olumu-gor-ne-zaman-nerede-cekildi-3903071",
-      "publishedAt": "Mon, 03 Aug 2026 15:34:07 GMT"
+      "publishedAt": "Mon, 03 Aug 2026 21:39:04 GMT"
     },
     {
       "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
@@ -148,20 +148,12 @@
       "publishedAt": "Mon, 03 Aug 2026 18:04:30 GMT"
     },
     {
-      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-      "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 16:27:43 GMT"
-    },
-    {
       "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
       "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 17:41:27 GMT"
+      "publishedAt": "Mon, 03 Aug 2026 19:42:55 GMT"
     },
     {
       "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
@@ -172,68 +164,92 @@
       "publishedAt": "Mon, 03 Aug 2026 15:57:27 GMT"
     },
     {
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 03:32:21 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 16:27:43 GMT"
     },
     {
-      "title": "Russian anti-war politician says he has fled the country",
-      "summary": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
+      "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
+      "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 15:41:08 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 20:05:46 GMT"
     },
     {
-      "title": "US announces first two deaths from cyclospora outbreak",
-      "summary": "Authorities in the Midwestern state of Michigan say that two people who died had underlying conditions.",
-      "source": "Al Jazeera",
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
-      "publishedAt": "Mon, 03 Aug 2026 18:35:09 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 21:43:10 GMT"
     },
     {
-      "title": "Can Netanyahu survive Israel’s most consequential election?",
-      "summary": "Israelis head to the polls in October for the country's first election since the war on Gaza began.",
+      "title": "Migrants await asylum in Ceuta amid hunger and thirst",
+      "summary": "Migrants rushed to receive water and beverages in Ceuta, Spain, where many have spent days on a beach awaiting asylum.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
-      "publishedAt": "Mon, 03 Aug 2026 18:16:00 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_migrants-await-asylum-in-ceuta-amid-hunger-thirst-030826?traffic_source=rss",
+      "publishedAt": "Mon, 03 Aug 2026 21:17:21 +0000"
     },
     {
-      "title": "Israel top court hears challenge to UNRWA ban",
-      "summary": "Israel's highest court heard a constitutional challenge to legislation banning UNRWA's operations in Israel.",
+      "title": "Will Israel withdraw from Gaza if Hamas disarms?",
+      "summary": "Israel says it has doubts about the Palestinian group laying down its weapons.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss",
-      "publishedAt": "Mon, 03 Aug 2026 18:13:43 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
+      "publishedAt": "Mon, 03 Aug 2026 21:05:11 +0000"
     },
     {
-      "title": "Drone slams into Russian beach, killing at least 7 people",
-      "summary": "Video shows the moment a drone struck a crowded beach near the Russian Black Sea resort of Gelendzhik.",
+      "title": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
+      "summary": "Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/drone-slams-into-russian-beach-killing-at-least-7-people?traffic_source=rss",
-      "publishedAt": "Mon, 03 Aug 2026 18:05:23 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
+      "publishedAt": "Mon, 03 Aug 2026 20:58:19 +0000"
     },
     {
-      "title": "Republicans say they will back Blanche after US Justice Department order",
-      "summary": "Two Republican senators say they will end their opposition after order cancelling controversial $1.8bn fund.",
+      "title": "Hundreds of migrant minors stranded in Ceuta after border crisis",
+      "summary": "Spanish law mandates protection for unaccompanied minors, but many in Ceuta lack food and shelter.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss",
-      "publishedAt": "Mon, 03 Aug 2026 17:39:38 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/3/hundreds-of-migrant-minors-stranded-in-ceuta-after-border-crisis?traffic_source=rss",
+      "publishedAt": "Mon, 03 Aug 2026 20:24:02 +0000"
     },
     {
-      "title": "Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US",
-      "summary": "US president demands 'Total Surrender' amid escalating naval blockade in the crucial Strait of Hormuz.",
+      "title": "Survivors reach port after deadly Indonesia ferry fire",
+      "summary": "Survivors reach port after deadly Indonesia ferry fire",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
-      "publishedAt": "Mon, 03 Aug 2026 17:38:01 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/survivors-reach-port-after-deadly-indonesia-ferry-fire?traffic_source=rss",
+      "publishedAt": "Mon, 03 Aug 2026 19:55:36 +0000"
+    },
+    {
+      "title": "Clergy members arrested while protesting at Senate office",
+      "summary": "Clergy members were arrested while protesting the Iran war and voting rights concerns at the Senate office.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/clergy-members-arrested-while-protesting-at-senate-office?traffic_source=rss",
+      "publishedAt": "Mon, 03 Aug 2026 19:53:59 +0000"
+    },
+    {
+      "title": "House Ethics panel recommends censure for Chuck Edwards after harassment allegations",
+      "summary": "After a months-long investigation, the ethics committee recommended censure for Edwards because of \"persistent unprofessional and inappropriate conduct towards two young female staffers.\"",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
+      "publishedAt": "Mon, 03 Aug 2026 17:17:49 -0400"
+    },
+    {
+      "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
+      "summary": "Prosecutors dropped their case against David Hearn on Friday, blaming Reflecting Pool damage on a \"botched installation\" rather than vandalism. That has implications for other people who were charged.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
+      "publishedAt": "Mon, 03 Aug 2026 15:33:05 -0400"
     },
     {
       "title": "With U.S. doors shutting, Cubans turn to Brazil for asylum",
@@ -252,36 +268,20 @@
       "publishedAt": "Mon, 03 Aug 2026 14:45:00 -0400"
     },
     {
+      "title": "Two people in Michigan have died after becoming ill with cyclosporiasis",
+      "summary": "They are the first reported deaths linked to a massive outbreak of the intestinal illness that began in May.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/03/g-s1-137048/michigan-cyclosporiasis-deaths-cyclospora-outbreak",
+      "publishedAt": "Mon, 03 Aug 2026 13:46:16 -0400"
+    },
+    {
       "title": "Washington wildfires destroy homes, force thousands to evacuate",
       "summary": "Spokane Mayor Lisa Brown says nearly half of the city's neighborhoods have either been evacuated or are at risk as the fires remain uncontained.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
       "publishedAt": "Mon, 03 Aug 2026 10:28:44 -0400"
-    },
-    {
-      "title": "U.S. men's national team coach Mauricio Pochettino will stay through 2030 World Cup",
-      "summary": "Pochettino came on in 2024 to right the ship ahead of this year's World Cup, in which he led the team to a record three wins and helped ignite enthusiasm in millions of fans before a round of 16 exit.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
-      "publishedAt": "Mon, 03 Aug 2026 10:05:24 -0400"
-    },
-    {
-      "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
-      "summary": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-      "publishedAt": "Mon, 03 Aug 2026 07:57:06 -0400"
-    },
-    {
-      "title": "What would it take to get peptides on the shelf?",
-      "summary": "An FDA advisory panel recently voted to green-light some popular peptides. The decision brought enormous attention to the market for these products — and concerns about the unregulated supply.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
-      "publishedAt": "Mon, 03 Aug 2026 07:00:00 -0400"
     },
     {
       "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
@@ -320,15 +320,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 24,
+      "tempC": 23,
       "description": "mainly clear",
-      "high": 30,
+      "high": 32,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 26,
-      "description": "partly cloudy",
+      "tempC": 23,
+      "description": "clear sky",
       "high": 31,
       "low": 19
     }
