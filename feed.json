@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-04T02:10:38.568Z",
+  "updated": "2026-08-04T05:44:18.481Z",
   "news": [
     {
-      "title": "Rusya: Ukrayna'nın Karadeniz'deki bir plaja saldırısında yedi kişi öldü",
-      "summary": "Rusya'nın Karadeniz kıyısındaki bir tatil bölgesine yapılan drone saldırısında, aralarında üç çocuğun da bulunduğu yedi kişinin öldüğü açıklandı. Rus yetkililer Ukrayna'yı \"sivillere yönelik kasıtlı bir saldırı\" düzenlemekle suçladı.",
+      "title": "Rusya yaralı askerlerini cepheye nasıl geri gönderiyor?",
+      "summary": "Açık kaynaklardan elde edilebilen mahkeme kayıtları, komutanların yaralı askerleri yasal olarak zorunlu tıbbi değerlendirmelere göndermek yerine, tekrar savaşa geri gönderdiklerine dair iddiaları ortaya koyuyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm2ge1y9g4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 23:12:24 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cedj6yq8njdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 00:27:49 GMT"
     },
     {
       "title": "Deniz Göktaş cezaevindeki ilk ayını anlattı: 'Kötü hissettiğim tek bir an bile olmadı'",
@@ -18,6 +18,14 @@
       "publishedAt": "Tue, 04 Aug 2026 02:01:23 GMT"
     },
     {
+      "title": "Rusya: Ukrayna'nın Karadeniz'deki bir plaja saldırısında yedi kişi öldü",
+      "summary": "Rusya'nın Karadeniz kıyısındaki bir tatil bölgesine yapılan drone saldırısında, aralarında üç çocuğun da bulunduğu yedi kişinin öldüğü açıklandı. Rus yetkililer Ukrayna'yı \"sivillere yönelik kasıtlı bir saldırı\" düzenlemekle suçladı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cm2ge1y9g4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 23:12:24 GMT"
+    },
+    {
       "title": "Programcı Tahir Sarıkaya, Cem Küçük soruşturması kapsamında gözaltında",
       "summary": "TV yorumcusu Cem Küçük tutuklandığı İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında TV programcısı Tahir Sarıkaya da gözaltına alındı.",
       "source": "BBC Türkçe",
@@ -26,28 +34,48 @@
       "publishedAt": "Mon, 03 Aug 2026 19:21:13 GMT"
     },
     {
-      "title": "Rusya yaralı askerlerini cepheye nasıl geri gönderiyor?",
-      "summary": "Açık kaynaklardan elde edilebilen mahkeme kayıtları, komutanların yaralı askerleri yasal olarak zorunlu tıbbi değerlendirmelere göndermek yerine, tekrar savaşa geri gönderdiklerine dair iddiaları ortaya koyuyor.",
+      "title": "Ariana Grande'nin sağlığıyla ilgili endişeler neden gündeme geldi?",
+      "summary": "33 yaşındaki Amerikalı şarkıcı, temsilcisinin açıklamasına göre, gelecek ay sona erecek dünya turnesinin ardından \"gözlerden uzak kalacak\".",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cedj6yq8njdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 00:27:49 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c8rnv7m744yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 00:37:41 GMT"
     },
     {
-      "title": "Bağırsakları dışarıda olan bebek anne karnında ameliyatla tedavi edildi",
-      "summary": "Bir bebekteki doğum kusuru, ABD'de henüz anne karnındayken geçirdiği bir ameliyatla giderildi.",
+      "title": "Şehit yakını ile gazi aylıklarına artış teklifi neler içeriyor?",
+      "summary": "AKP ve MHP ortak bir açıklamayla, çerçeve yasa ile eş zamanlı olarak şehit yakınları ve gazilerin haklarına yönelik düzenlemeleri içeren bir kanun teklifinin meclise sunulduğunu duyurdu.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c23573e8y7mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 13:03:36 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cdx7rlzrxqko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 02:47:33 GMT"
     },
     {
-      "title": "Çerçeve yasa teklifi Meclis'te AKP'li milletvekillerinin imzasına açıldı",
-      "summary": "AKP milletvekillerinin imzasına açılan çerçeve yasa teklifinin, 4 Ağustos Salı günü saat 17.00'ye kadar imzalanması ve daha sonra da TBMM Başkanlığı'na sunulması planlanıyor.",
-      "source": "BBC Türkçe",
+      "title": "Tarih belli oldu. İstanbul yılın en sıcak gününü yaşayacak",
+      "summary": "İstanbul'da sıcak hava etkisini artıracak. Poyraz etkisiyle rahat bir yaz geçiren İstanbullular, yılın en sıcak günlerini yaşayacak.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c74gj9em7llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 15:20:50 GMT"
+      "publishedAt": "2026-08-04T08:32:14+03:00"
+    },
+    {
+      "title": "Resmi Gazete'de bugün (4 Ağustos 2026 Resmi Gazete kararları)",
+      "summary": "Resmi Gazete'de 4 Ağustos 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 4 Ağustos 2026 tarihli ve 33330 Sayılı Resmi Gazete ayrıntıları.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-04T08:09:03+03:00"
+    },
+    {
+      "title": "Menderes Belediyesi'ne operasyon. Başkan İlkay Çiçek dahil 13 kişi gözaltında",
+      "summary": "İzmir'de Menderes Belediyesi'ne operasyon düzenşendi. Belediye Başkanı İlkay Çiçek dahil 13 kişi gözaltına alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-04T08:33:54+03:00"
+    },
+    {
+      "title": "Kılıçdaroğlu CHP, Özel Yeni Parti grup toplantısında konuşacak",
+      "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, göreve dönmesinin ardından ilk kez Meclis'te kürsüye çıkacak. Özgür Özel de Yeni Parti'nin açık olarak gerçekleştirilecek ilk grup toplantısında konuşacak.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-04T07:22:42+03:00"
     },
     {
       "title": "Otomobil seyir halinde alev aldı, sürücü yaralı kurtuldu",
@@ -62,34 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-08-04T02:05:35+03:00"
-    },
-    {
-      "title": "Kumsalda güneşlenen kadına cinsel taciz iddiası. Şahıs gözaltına alındı",
-      "summary": "Samsun'un Atakum ilçesinde sahilde güneşlenen genç kadına yönelik cinsel tacizde bulunduğu iddia edilen şahıs, polis ekiplerince gözaltına alındı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-04T01:47:51+03:00"
-    },
-    {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Ağustos 2026",
-      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 04 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-04T05:00:00+03:00"
-    },
-    {
-      "title": "Cem Küçük soruşturması. Gazeteci Tahir Sarıkaya gözaltına alındı",
-      "summary": "Cem Küçük soruşturması kapsamında gazeteci Tahir Sarıkaya gözaltına alındı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-03T23:31:45+03:00"
-    },
-    {
-      "title": "Bakan Fidan, İngiliz mevkidaşı ile görüştü",
-      "summary": "Dışişleri Bakanı Hakan Fidan, İngiltere Dışişleri Bakanı Ed Miliband ile görüşerek yeni görevinden dolayı tebrik etti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-03T17:51:40+03:00"
     },
     {
       "title": "Sigaraya zam mı geldi?",
@@ -140,12 +140,20 @@
       "publishedAt": "Mon, 03 Aug 2026 21:38:44 GMT"
     },
     {
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 21:43:10 GMT"
+    },
+    {
       "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
       "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 18:04:30 GMT"
+      "publishedAt": "Tue, 04 Aug 2026 03:37:14 GMT"
     },
     {
       "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
@@ -156,84 +164,76 @@
       "publishedAt": "Mon, 03 Aug 2026 19:42:55 GMT"
     },
     {
-      "title": "Threat to oil tankers in Middle East worst since start of Iran war, analysts say",
-      "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "summary": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\".",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 15:57:27 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 23:25:14 GMT"
     },
     {
-      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-      "summary": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+      "title": "France wildfires reveal hundreds of WW2 shells in village",
+      "summary": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 16:27:43 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 04:22:12 GMT"
     },
     {
-      "title": "US reports first two deaths linked to 'explosive diarrhoea' outbreak",
-      "summary": "The illness caused by parasitic infection that spreads through contaminated food or water is not generally life-threatening, health officials say.",
+      "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
+      "summary": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 20:05:46 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 03 Aug 2026 23:14:12 GMT"
     },
     {
-      "title": "EU calls for stronger borders after Ceuta migrant crossings",
-      "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 03 Aug 2026 21:43:10 GMT"
-    },
-    {
-      "title": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
-      "summary": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
+      "title": "Why are the Washington wildfires so severe? Spokane fires explained",
+      "summary": "Why Spokane's wildfires spread so fast, what caused them and why Washington is facing a major fire crisis.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
-      "publishedAt": "Tue, 04 Aug 2026 01:43:51 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
+      "publishedAt": "Tue, 04 Aug 2026 05:03:44 +0000"
     },
     {
-      "title": "Trump administration sued by 25 states over new tariffs on trading partners",
-      "summary": "The states claim the new levies are a pretext to re-impose tariffs that were ruled illegal by the US Supreme Court.",
+      "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
+      "summary": "Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/4/trump-administration-sued-by-25-states-over-new-tariffs-on-trading-partners?traffic_source=rss",
-      "publishedAt": "Tue, 04 Aug 2026 00:29:48 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
+      "publishedAt": "Tue, 04 Aug 2026 04:22:28 +0000"
     },
     {
-      "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
-      "summary": "US president says talks with Iran are under way, warning the negotiations are Tehran's 'last chance' to secure a deal.",
+      "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+      "summary": "Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
-      "publishedAt": "Tue, 04 Aug 2026 00:00:00 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+      "publishedAt": "Tue, 04 Aug 2026 03:58:09 +0000"
     },
     {
-      "title": "Two workers who died in quake-hit Japan mall were sent in to get cash",
-      "summary": "A Japanese company has admitted that two workers, who died in a shopping mall explosion following powerful earthquake.",
+      "title": "Pochettino agrees to coach men’s US Soccer through 2030 World Cup",
+      "summary": "Mauricio Pochettino has agreed to extend his tenure as coach of the United States men’s soccer team.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/two-workers-who-died-in-quake-hit-japan-mall-were-sent-in-to-get-cash?traffic_source=rss",
-      "publishedAt": "Mon, 03 Aug 2026 23:52:02 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss",
+      "publishedAt": "Tue, 04 Aug 2026 03:32:48 +0000"
     },
     {
-      "title": "Death toll from Venezuela earthquakes passes 6,000",
-      "summary": "National Assembly President Jorge Rodriguez says 6,125 people confirmed dead as government response faces scrutiny.",
+      "title": "Salvadoran man dies in ICE custody at New Jersey detention centre",
+      "summary": "Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/3/death-toll-from-venezuela-earthquakes-passes-6000?traffic_source=rss",
-      "publishedAt": "Mon, 03 Aug 2026 23:20:37 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss",
+      "publishedAt": "Tue, 04 Aug 2026 03:14:29 +0000"
     },
     {
-      "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
-      "summary": "Low-income US households are hit hardest, spending more than 10 percent of monthly income on petrol as prices rise.",
+      "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+      "summary": "Benchmark S&P 500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/8/3/petrol-prices-strain-us-households-as-oil-giants-chevron-exxon-profits-soar?traffic_source=rss",
-      "publishedAt": "Mon, 03 Aug 2026 23:02:07 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+      "publishedAt": "Tue, 04 Aug 2026 02:56:26 +0000"
     },
     {
       "title": "These are some of the last pristine ocean ecosystems. Now, they're losing protections",
@@ -252,8 +252,8 @@
       "publishedAt": "Mon, 03 Aug 2026 17:17:49 -0400"
     },
     {
-      "title": "Ripple effects: After Hearn, three others have their Reflecting Pool charges dropped",
-      "summary": "Prosecutors dropped their case against David Hearn on Friday, blaming Reflecting Pool damage on a \"botched installation\" rather than vandalism. That has implications for other people who were charged.",
+      "title": "Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request",
+      "summary": "Federal prosecutors moved to drop their case against David Hearn, blaming Reflecting Pool damage on a \"botched installation\" rather than vandalism. That has implications for others who were charged.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
@@ -320,17 +320,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 22,
+      "tempC": 24,
       "description": "clear sky",
       "high": 32,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 22,
+      "tempC": 20,
       "description": "clear sky",
       "high": 29,
-      "low": 21
+      "low": 20
     }
   ],
   "facts": [
