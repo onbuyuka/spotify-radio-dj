@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T16:38:58.705Z",
+  "updated": "2026-08-05T19:25:06.162Z",
   "news": [
     {
       "title": "Çerçeve yasa teklifi Meclis'te: Kimleri kapsıyor, hangi koşullar aranacak?",
@@ -10,20 +10,20 @@
       "publishedAt": "Wed, 05 Aug 2026 16:09:48 GMT"
     },
     {
-      "title": "Bahçeli: 'Öcalan umuda, Ahmetler göreve, Demirtaş evine dönmeli'",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, PKK lideri Abdullah Öcalan'ın \"umut hakkından faydalanması\" yönündeki çağrısını yineledi ve \"Ben yine aynı şeyi söylüyorum. Selahattin Demirtaş evine, Ahmetler görevine, Öcalan umut hakkına kavuşmalıdır\" de",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cj031j239e0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 09:07:14 GMT"
-    },
-    {
       "title": "Çerçeve yasaya siyasi partilerin tepkileri ne oldu?",
       "summary": "5 Ağustos Çarşamba günü TBMM Başkanlığı'na sunulan yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifi ile ilgili siyasi partilerden açıklamalar gelmeye devam ediyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cwylxpkr49zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 05 Aug 2026 14:44:09 GMT"
+    },
+    {
+      "title": "Yeni Parti Manisa İl Başkanı İlksen Özalper gözaltına alındı",
+      "summary": "Yeni Parti Manisa İl Başkanı İlksen Özalper, Ankara Cumhuriyet Başsavcılığı tarafından yürütülen çıkar amaçlı suç örgütü ve rüşvet soruşturması kapsamında gözaltına alındı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c5y3jk10g1do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 18:59:18 GMT"
     },
     {
       "title": "Trabzonspor, Mohamed Salah için stadyumda imza töreni düzenleyecek",
@@ -42,12 +42,26 @@
       "publishedAt": "Wed, 05 Aug 2026 09:56:27 GMT"
     },
     {
-      "title": "Trabzonspor yolundaki Salah yedeklikten zirveye nasıl çıktı?",
-      "summary": "Trabzonspor, Mısır milli takımının da formasını giyen dünyaca ünlü futbolcu Mohamed Salah'ın Çarşamba günü Trabzon'a ulaşmasının planlandığını duyurdu.",
+      "title": "Bahçeli: 'Öcalan umuda, Ahmetler göreve, Demirtaş evine dönmeli'",
+      "summary": "MHP Genel Başkanı Devlet Bahçeli, PKK lideri Abdullah Öcalan'ın \"umut hakkından faydalanması\" yönündeki çağrısını yineledi ve \"Ben yine aynı şeyi söylüyorum. Selahattin Demirtaş evine, Ahmetler görevine, Öcalan umut hakkına kavuşmalıdır\" de",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cp3rxlkkv7ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 21:12:36 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cj031j239e0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 09:07:14 GMT"
+    },
+    {
+      "title": "Nilda Müge’nin öldürüldüğü silahlı saldırı kamerada",
+      "summary": "Şişli'de eczaneden ilaç alan kardeşini beklediği sırada silahla vurulan 26 yaşındaki Nilda Müge Şahin'in, eski erkek arkadaşı Nazir Ilgın (35) tarafından öldürüldüğü anların güvenlik kamerası görüntüleri ortaya çıktı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-05T20:39:48+03:00"
+    },
+    {
+      "title": "Yeni Parti Manisa İl Başkanı İlksen Özalper gözaltına alındı",
+      "summary": "Yeni Parti Manisa İl Başkanı İlksen Özalper, Manisa Büyükşehir Belediyesi Başkan Danışmanı Demirhan ve iki kişinin tutuklandığı rüşvet soruşturması kapsamında gözaltına alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-05T19:42:40+03:00"
     },
     {
       "title": "Menderes Belediyesi soruşturması. Firari başkan yardımcısı yakalandı",
@@ -78,18 +92,20 @@
       "publishedAt": "2026-08-05T16:14:27+03:00"
     },
     {
-      "title": "Çerçeve yasa teklifi Meclis'te | AK Parti Sözcüsü Çelik: İki yıllık sürecin en önemli aşamasına gelinmiş oldu",
-      "summary": "Terörsüz Türkiye süreci için hazırlanan yasal düzenleme tamamlandı. Çerçeve yasa teklifi Meclis'e sunuldu. AK Parti Sözcüsü Ömer Çelik, \"İki yıllık sürecin en önemli aşamasına gelinmiş oldu.\" dedi.",
-      "source": "NTV",
+      "title": "Çılgın Sayısal Loto sonuçları açıklandı",
+      "summary": "5 Ağustos 2026 Çarşamba günü gerçekleştirilen Çılgın Sayısal Loto çekilişinin ardından sonuçlar belli oldu. Milli Piyango Online tarafından noter huzurunda düzenlenen çekilişte kazandıran numaralar açıklandı. Büyük ikramiye hayali kuran bin",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-05T17:11:58+03:00"
+      "link": "https://www.haberturk.com/son-dakika-cilgin-sayisal-loto-sonuclari-aciklandi-5-agustos-2026-carsamba-sayisal-loto-sonuc-sorgulama-ekrani-buyuk-ikramiye-devretti-3903611",
+      "publishedAt": "Wed, 05 Aug 2026 19:15:13 GMT"
     },
     {
-      "title": "Önce tasfiye sonra suçlara erteleme. 10 maddede süreç yasası. Ne zaman yürürlüğe girecek, kimleri kapsıyor?",
-      "summary": "Terörsüz Türkiye süreci için hazırlanan çerçeve yasa teklifi, terör örgütü PKK'nın tasfiyesiyle yürürlüğe girecek ceza erteleme ilkesine dayanıyor. Yasa teklifi, 1 Haziran 2005 öncesi müebbet hapis ve ağırlaştırılmış müebbet cezası gerektir",
-      "source": "NTV",
+      "title": "Şans Topu sonuçları açıklandı",
+      "summary": "5 Ağustos 2026 Çarşamba günü gerçekleştirilen Şans Topu çekilişinin ardından sonuçlar belli oldu. Milli Piyango Online tarafından noter huzurunda canlı yayında yapılan çekilişin ardından talihli numaralar açıklandı. Şans oyunu severler, büy",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-05T16:09:22+03:00"
+      "link": "https://www.haberturk.com/sans-topu-sonuclari-aciklandi-5-agustos-2026-carsamba-sans-topu-sonuc-sorgulama-ekrani-3903610",
+      "publishedAt": "Wed, 05 Aug 2026 19:07:13 GMT"
     },
     {
       "title": "Kirli Para filminin konusu ve oyuncuları",
@@ -124,20 +140,12 @@
       "publishedAt": "Wed, 05 Aug 2026 11:33:21 GMT"
     },
     {
-      "title": "40 yıl sonra kadın emeğiyle lavanta bahçesine dönüştü",
-      "summary": "Mardin'in Midyat ilçesinde yaklaşık 40 yıldır atıl durumda bulunan 15 dönümlük arazi, Çok Amaçlı Toplum Merkezi (ÇATOM) bünyesindeki kurslara katılan kadınların emeğiyle lavanta bahçesine dönüştürüldü. Midyat ÇATOM Yöneticisi Gülten Erol, \"",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/40-yil-sonra-kadin-emegiyle-lavanta-bahcesine-donustu-3903538",
-      "publishedAt": "Wed, 05 Aug 2026 11:20:29 GMT"
-    },
-    {
-      "title": "Okulların açılış tatili",
-      "summary": "Yaz tatilinin son haftalarına girilirken, milyonlarca öğrenci ve velinin gözü 2026-2027 eğitim öğretim yılı başlangıç tarihine çevrildi. Yeni döneme hazırlıklarını sürdüren aileler, okulların açılacağı günü ve eğitim takvimindeki önemli tar",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/okullar-ne-zaman-aciliyor-meb-2026-2027-takvimi-ile-okullarin-acilis-tarihi-belli-oldu-yaz-tatili-ne-zaman-bitiyor-3903536",
-      "publishedAt": "Wed, 05 Aug 2026 11:13:57 GMT"
+      "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+      "summary": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 18:19:51 GMT"
     },
     {
       "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
@@ -154,14 +162,6 @@
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 05 Aug 2026 16:06:30 GMT"
-    },
-    {
-      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-      "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 12:26:26 GMT"
     },
     {
       "title": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
@@ -188,52 +188,68 @@
       "publishedAt": "Wed, 05 Aug 2026 12:33:43 GMT"
     },
     {
-      "title": "Pope Leo XIV to visit Peru, Argentina and Uruguay in November",
-      "summary": "The pontiff’s first Latin America trip will take him back to Peru, where he spent decades as a missionary and bishop.",
+      "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
+      "summary": "Authorities are screening 5,000 refugees as rights groups warn they remain at risk of persecution in Myanmar.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 16:05:58 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 18:40:06 +0000"
     },
     {
-      "title": "Puerto Rican cities hit with water rationing measures during record drought",
-      "summary": "Governor Jenniffer Gonzalez says she does not know how long the rationing measures will remain in place.",
+      "title": "US law enforcement reports deadly mass shooting in North Carolina",
+      "summary": "This is a breaking news story.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/5/puerto-rican-cities-hit-with-water-rationing-measures-during-record-drought?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 16:02:58 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 18:25:07 +0000"
     },
     {
-      "title": "Arab officials call for action over Jerusalem tensions",
-      "summary": "Arab officials call for action over Jerusalem tensions",
+      "title": "Is the conflict between Russia and Ukraine deepening?",
+      "summary": "The war sees a surge in attacks by both sides with little diplomatic movement.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/arab-officials-call-for-action-over-jerusalem-tensions?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 15:59:52 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 18:16:03 +0000"
     },
     {
-      "title": "Top Arab, Muslim diplomats launch plan to protect Jerusalem religious sites",
-      "summary": "Foreign ministers warn Christian and Islamic holy sites 'threatened' by Israel 'as never before'.",
+      "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
+      "summary": "Eight Palestinian people injured after Israeli forces enter homes, shops in Qalandiya, issuing demolition threats.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/5/arab-and-muslim-ministers-launch-plan-to-protect-jerusalem-religious-sites?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 15:50:06 +0000"
+      "link": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 17:41:24 +0000"
     },
     {
-      "title": "UK tribunal confirms professor’s anti-Zionism is legally protected belief",
-      "summary": "David Miller has told Al Jazeera the ruling is a victory that will encourage others to speak out against Zionism.",
+      "title": "El-Sayed wins Michigan Democratic Senate primary",
+      "summary": "Abdul El-Sayed won Michigan's Democratic primary for US Senate, narrowly defeating Rep. Haley Stevens.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/5/uk-tribunal-confirms-professors-anti-zionism-is-legally-protected-belief?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 15:22:39 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 17:40:03 +0000"
     },
     {
-      "title": "War on Iran: US-Iran deal edges closer",
-      "summary": "A deal between the US and Iran could be signed within 48 hours, according to US officials.",
+      "title": "Puntland forces seize government-held camp in Somalia’s Galkayo",
+      "summary": "Puntland says it has taken control of Galkayo camp as rival federal-aligned forces retreat following intense clashes.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 15:12:34 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/5/puntland-forces-seize-government-held-camp-in-somalias-galkayo?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 17:38:33 +0000"
+    },
+    {
+      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
+      "summary": "New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump's conflicts of interest and whether he's exploiting the power of the presidency for self-enrichment.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
+      "publishedAt": "Wed, 05 Aug 2026 13:41:17 -0400"
+    },
+    {
+      "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+      "summary": "A judge has granted the Justice Department's bid to drop a landmark case against leaders of the Oath Keepers, as former prosecutors warn about the dangers of denying the violence of Jan. 6.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
+      "publishedAt": "Wed, 05 Aug 2026 13:14:46 -0400"
     },
     {
       "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
       "publishedAt": "Wed, 05 Aug 2026 07:54:57 -0400"
-    },
-    {
-      "title": "Russian missile and drone barrage in Ukrainian capital region kills 17",
-      "summary": "Russian missile and drone strikes on Kyiv and the surrounding region killed 17 people and wounded 44 others overnight into Wednesday, Ukraine's President Volodymyr Zelenskyy said.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
-      "publishedAt": "Wed, 05 Aug 2026 06:15:44 -0400"
-    },
-    {
-      "title": "Progressives see biggest win yet in Michigan while Trump flexes power over GOP",
-      "summary": "Progressives notched major wins in Michigan while voters in Missouri and Washington rejected insurgent Democrats. Meanwhile, Trump continued to flex his influence over the Republican Party.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
-      "publishedAt": "Wed, 05 Aug 2026 06:08:28 -0400"
     },
     {
       "title": "El Niño could push 50m people into acute hunger before end of next year",
@@ -320,14 +320,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 26,
+      "tempC": 24,
       "description": "partly cloudy",
       "high": 31,
       "low": 23
     },
     {
       "place": "London",
-      "tempC": 25,
+      "tempC": 22,
       "description": "mainly clear",
       "high": 25,
       "low": 19
