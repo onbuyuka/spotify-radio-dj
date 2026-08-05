@@ -1,6 +1,22 @@
 {
-  "updated": "2026-08-05T02:09:50.567Z",
+  "updated": "2026-08-05T05:43:08.004Z",
   "news": [
+    {
+      "title": "Çerçeve yasa teklifi bugün Meclis başkanlığına sunuluyor",
+      "summary": "Yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifi bugün Meclis Başkanlığı'na sunuluyor. Öncesinde AKP grubu saat 10.00'da basına kapalı toplanacak.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cm2gemqqr9mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 02:54:56 GMT"
+    },
+    {
+      "title": "Hürmüz'ün açılabileceğine dair umutlarla petrol fiyatları düştü",
+      "summary": "ABD Başkanı Donald Trump, İran savaşında kilit konumda olan Hürmüz Boğazı'nın \"çok yakında\" yeniden açılmadığı takdirde İran'ın \"çok sert bir şekilde vurulacağı\" uyarısını yaptı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ckg9kg3j8v7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 03:41:33 GMT"
+    },
     {
       "title": "Özgür Özel ve Veli Ağbaba hakkında fezleke düzenlendi",
       "summary": "Ankara Cumhuriyet Başsavcılığı tarafından yapılan iki ayrı açıklamaya göre, Yeni Parti Genel Başkanı Özgür Özel ile Malatya Milletvekili Veli Ağbaba hakkında \"zincirleme şekilde rüşvet almak\" iddiasıyla fezleke düzenlendi.",
@@ -8,14 +24,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c629511kx9eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 04 Aug 2026 19:28:36 GMT"
-    },
-    {
-      "title": "12 maddelik çerçeve yasa teklifinde neler yer alacak?",
-      "summary": "İktidarın \"Terörsüz Türkiye\", DEM Parti'nin ise \"Barış ve Demokratik Toplum\" olarak adlandırdığı yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifine son şekli verildi. \"Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendi",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm2gwj9jwreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 18:34:18 GMT"
     },
     {
       "title": "Ukraynalı seyyar satıcı 'insan safarisi' saldırısının hedefi oldu",
@@ -26,14 +34,6 @@
       "publishedAt": "Tue, 04 Aug 2026 22:31:23 GMT"
     },
     {
-      "title": "Orman yangınlarıyla mücadelede teknoloji itfaiyecilerin yerini alabilir mi?",
-      "summary": "Yangınları izlemek için teknoloji kullanılıyor ancak yangınları söndürmek için hâlâ itfaiyecilere ihtiyaç duyuluyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c87n4z2v2z8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 01:55:55 GMT"
-    },
-    {
       "title": "Trabzonspor yolundaki Salah yedeklikten zirveye nasıl çıktı?",
       "summary": "Trabzonspor, Mısır milli takımının da formasını giyen dünyaca ünlü futbolcu Mohamed Salah'ın Çarşamba günü Trabzon'a ulaşmasının planlandığını duyurdu.",
       "source": "BBC Türkçe",
@@ -42,12 +42,40 @@
       "publishedAt": "Tue, 04 Aug 2026 21:12:36 GMT"
     },
     {
-      "title": "YAŞ kararları açıklandı: Türk Hava Kuvvetleri'de ilk kadın general",
-      "summary": "YAŞ'ta alınan kararlarla görev süresi dolan Hava Kuvvetleri Komutanı Orgeneral Ziya Cemal Kadıoğlu'nun yerine Orgeneral Rafet Dalkıran atandı. Deniz Kuvvetleri Komutanı Oramiral Ercüment Tatlıoğlu'nun görev süresi ise bir yıl uzatıldı.",
+      "title": "12 maddelik çerçeve yasa teklifinde neler yer alacak?",
+      "summary": "İktidarın \"Terörsüz Türkiye\", DEM Parti'nin ise \"Barış ve Demokratik Toplum\" olarak adlandırdığı yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifine son şekli verildi. \"Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendi",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cr493dqdzw0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 12:38:10 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cm2gwj9jwreo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 18:34:18 GMT"
+    },
+    {
+      "title": "İzmir'deki yolsuzluk soruşturmasında yeni gelişme. Veli Ağbaba'nın ağabeyi dahil iki kişi gözaltında",
+      "summary": "İzmir Büyükşehir Belediyesi'ne yönelik yolsuzluk soruşturması kapsamında Yeni Parti Malatya Milletvekili Veli Ağbaba'nın ağabeyi dahil iki şüpheli gözaltına alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-05T08:34:34+03:00"
+    },
+    {
+      "title": "Küçükçekmece'de D-100'de feci kaza. Üç kişi öldü, yaralılar var",
+      "summary": "İstanbul Küçükçekmece'de bir otomobil, İETT otobüsüne çarptı. Kazada üç kişi öldü, yaralılar olduğu bildirildi. D-100'de trafik yan yola verildi. Bölgede yoğun trafik yaşanıyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-05T08:21:52+03:00"
+    },
+    {
+      "title": "Ankara'da ablasını öldüren ağabey yakalandı. 1 kişi tutuklandı, 5 kişi gözaltında",
+      "summary": "Ankara'nın Çankaya ilçesinde ablasını öldüren ağabey Kırıkkale'de yakalandı. Gülay Akgün Mutlu’nun öldürülmesiyle ilgili yürütülen soruşturmada 5 şüpheli gözaltına alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-05T07:02:52+03:00"
+    },
+    {
+      "title": "Ehliyetsiz ve alkollü yakalandı. \"Bomba gibiyim\"",
+      "summary": "Tekirdağ'da polis çevirmesinde durdurulan sürücü ehliyetsiz ve alkollü çıktı. Ceza kesilen ve aracı çekilen sürücünün rahat tavırları dikkat çekerken, muhabirin sorusuna \"Bomba gibiyim\" cevabını verdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-05T05:27:20+03:00"
     },
     {
       "title": "Kahramanmaraş'taki okul saldırısı. Erdoğan hayatını kaybeden öğrencilerin ailelerini kabul etti",
@@ -64,32 +92,20 @@
       "publishedAt": "2026-08-05T04:20:00+03:00"
     },
     {
-      "title": "Okul Saldırıları Komisyonu toplandı. \"Çocuklarda dip dalga geliyor\" uyarısı",
-      "summary": "Şanlıurfa ve Kahramanmaraş'daki okul saldırılarına yönelik kurulan Meclis Araştırma Komisyonunun son toplantısını yaptı. Çocuk Haklarından sorumlu kamu denetçisi Dr. Fatma Benli Yalçın'ın \"çocuklarda dip dalga geliyor\" tespiti dikkat çekti.",
-      "source": "NTV",
+      "title": "Canlı altın fiyatları",
+      "summary": "Altın fiyatları 5 Ağustos 2026 Çarşamba günü yatırımcıların ve vatandaşların gündemindeki yerini koruyor. Küresel piyasalarda ABD dolarındaki zayıflama ve petrol fiyatlarındaki geri çekilmenin etkisiyle ons altın yükselişini sürdürürken, gö",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-05T04:09:45+03:00"
+      "link": "https://www.haberturk.com/canli-altin-fiyatlari-5-agustos-2026-gram-altin-ve-ceyrek-altin-fiyati-ne-kadar-oldu-altin-yukselecek-mi-3903429",
+      "publishedAt": "Wed, 05 Aug 2026 05:11:40 GMT"
     },
     {
-      "title": "Bakan Bayraktar: 8 milyon evin doğal gaz ihtiyacı Sakarya Gaz Sahamızdan sağlanacak",
-      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, \"Bugün 4 milyon hanenin doğal gaz ihtiyacı, evin doğal gaz ihtiyacı şu anda Sakarya Gaz Sahasından geliyor. Şimdi hedefimiz ikinci fazda bu senenin sonunda bu rakamı 8 milyona çıkarmak\" ",
-      "source": "NTV",
+      "title": "Son dakika deprem listesi",
+      "summary": "AFAD ile Kandilli Rasathanesi'nin anlık deprem verileri, 5 Ağustos 2026 Çarşamba günü de vatandaşlar tarafından yakından takip ediliyor. Gün içerisinde farklı bölgelerde meydana gelen sarsıntıların ardından \"Az önce deprem mi oldu?\", \"Son d",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-05T02:20:06+03:00"
-    },
-    {
-      "title": "Yüksek Askeri Şura (YAŞ) kararları Resmi Gazete'de",
-      "summary": "Yüksek Askeri Şura (YAŞ) kararları, Resmi Gazete'de yayımlandı. 30 Ağustos'tan geçerli olmak üzere 19 general, 6 amiral ve 69 albay bir üst rütbeye terfi edildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-05T02:05:35+03:00"
-    },
-    {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Ağustos 2026",
-      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-05T05:00:00+03:00"
+      "link": "https://www.haberturk.com/son-dakika-depremler-listesi-5-agustos-2026-afad-kandilli-az-once-deprem-mi-oldu-ve-nerede-3903425",
+      "publishedAt": "Wed, 05 Aug 2026 05:01:45 GMT"
     },
     {
       "title": "Atama kararları Resmi Gazete'de",
@@ -121,47 +137,31 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/masterchef-kim-kazandi-4-agustos-2026-masterchef-ana-kadroya-kim-girdi-ana-kadroya-giren-16-yarismaci-kim-oldu-3903376",
-      "publishedAt": "Tue, 04 Aug 2026 21:16:38 GMT"
-    },
-    {
-      "title": "LGS tercih sonuçları nasıl sorgulanır?",
-      "summary": "2026 LGS tercih sonuçları için geri sayım sürüyor. Liselere Geçiş Sistemi (LGS) kapsamında tercihlerini tamamlayan binlerce öğrenci ve veli, yerleştirme sonuçlarının açıklanacağı tarihi bekliyor. Milli Eğitim Bakanlığı, LGS tercih sonuçları",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/lgs-tercih-sonuclari-sorgulama-ekrani-2026-2026-lgs-tercih-yerlestirme-sonuclari-nasil-nereden-ogrenilir-3903368",
-      "publishedAt": "Tue, 04 Aug 2026 22:34:31 GMT"
-    },
-    {
-      "title": "LGS tercih sonuçları ne zaman açıklanacak?",
-      "summary": "Liselere Geçiş Sistemi (LGS) kapsamında tercih heyecanı 13-24 Temmuz tarihleri arasında tamamlandı. Milli Eğitim Bakanlığı tarafından yayımlanan tercih takvimine göre öğrenciler, e-Okul sistemi üzerinden tercih işlemlerini belirlenen tarihl",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/lgs-tercih-sonuc-tarihi-2026-lgs-tercih-sonuclari-aciklandi-mi-2026-lgs-tercih-yerlestirme-sonuclari-ne-zaman-aciklanacak-erken-aciklanir-mi-3903365",
-      "publishedAt": "Tue, 04 Aug 2026 22:33:53 GMT"
+      "publishedAt": "Wed, 05 Aug 2026 05:27:43 GMT"
     },
     {
       "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 04 Aug 2026 17:26:06 GMT"
     },
     {
-      "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+      "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
       "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 01:05:21 GMT"
+      "publishedAt": "Wed, 05 Aug 2026 03:44:30 GMT"
     },
     {
-      "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
-      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
+      "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
+      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 01:35:29 GMT"
+      "publishedAt": "Wed, 05 Aug 2026 05:08:43 GMT"
     },
     {
       "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
@@ -188,52 +188,60 @@
       "publishedAt": "Tue, 04 Aug 2026 11:19:01 GMT"
     },
     {
-      "title": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
-      "summary": "Loaded pistol and rifle among items found in suspect's pocket, car and home following arrest, police say.",
+      "title": "Bangladesh Truth Seeker",
+      "summary": "Amid political upheaval in Bangladesh, a journalist debunks fake news in a fight for his nation’s democratic future.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 01:29:01 +0000"
+      "link": "https://www.aljazeera.com/video/witness/2026/8/5/bangladesh-truth-seeker?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 05:00:00 +0000"
     },
     {
-      "title": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
-      "summary": "The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.",
+      "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
+      "summary": "At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 01:21:16 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 04:38:00 +0000"
     },
     {
-      "title": "Ukrainian man chased by exploding drone recounts his terror",
-      "summary": "A Ukrainian man has relived the moment a suspected Russian drone chased him before it blew up.",
+      "title": "Has a US court just set the grounds for another January 6 insurrection?",
+      "summary": "A US judge has begrudgingly dismissed the last prosecution cases tied to the January 6 insurrection on Capitol Hill.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/ukrainian-man-chased-by-exploding-drone-recounts-his-terror?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 00:56:23 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 04:37:43 +0000"
     },
     {
-      "title": "Iran war live: Tehran-Oman talks on Hormuz ‘positive’; ship hit in Red Sea",
-      "summary": "Iran says talks with Oman are proceeding 'positively' as US officials say a deal could be possible soon.",
+      "title": "Bolivia sends troops to stop Brazilian gang violence along border",
+      "summary": "Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 00:00:00 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 03:58:12 +0000"
     },
     {
-      "title": "US revokes visa of Brazilian ambassador amid deepening diplomatic spat",
-      "summary": "An official has indicated that the visa revocation does not mean Brazil's ambassador will be expelled from the US.",
+      "title": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
+      "summary": "The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/4/us-revokes-visa-of-brazilian-ambassador-amid-deepening-diplomatic-spat?traffic_source=rss",
-      "publishedAt": "Tue, 04 Aug 2026 23:41:27 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 03:48:21 +0000"
     },
     {
-      "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
-      "summary": "Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.",
+      "title": "Protesters demand answers from ICE after second man dies at Delaney Hall",
+      "summary": "Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
-      "publishedAt": "Tue, 04 Aug 2026 23:27:13 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 03:33:21 +0000"
+    },
+    {
+      "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
+      "summary": "For their commissioner of the future, MLS owners chose a soccer native. Berg's team is seen as one of MLS's best-run franchises, and he has embraced rule changes designed to modernize the league.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
+      "publishedAt": "Wed, 05 Aug 2026 00:00:00 -0400"
     },
     {
       "title": "Authorities arrested a man with ammo and apparently monitoring security at Trump golf course near LA",
@@ -276,12 +284,12 @@
       "publishedAt": "Tue, 04 Aug 2026 15:40:02 -0400"
     },
     {
-      "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
-      "summary": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced.",
-      "source": "NPR",
+      "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
+      "summary": "People hope to see friends or relatives among those still returning as death toll from mass crossing nears 100Hundreds of people have gathered in the northern Moroccan town of Fnideq, near the border with Spain’s Ceuta, flashing photos of t",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
-      "publishedAt": "Tue, 04 Aug 2026 14:01:04 -0400"
+      "link": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
+      "publishedAt": "Wed, 05 Aug 2026 04:00:08 GMT"
     },
     {
       "title": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
@@ -306,21 +314,13 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
       "publishedAt": "Mon, 03 Aug 2026 14:13:01 GMT"
-    },
-    {
-      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-      "summary": "People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospectsFour days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating tha",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-      "publishedAt": "Sun, 02 Aug 2026 13:11:56 GMT"
     }
   ],
   "sports": [],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 24,
+      "tempC": 25,
       "description": "clear sky",
       "high": 32,
       "low": 23
@@ -328,7 +328,7 @@
     {
       "place": "London",
       "tempC": 19,
-      "description": "clear sky",
+      "description": "partly cloudy",
       "high": 25,
       "low": 19
     }
