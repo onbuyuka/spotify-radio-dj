@@ -1,13 +1,21 @@
 {
-  "updated": "2026-08-05T05:43:08.004Z",
+  "updated": "2026-08-05T08:30:30.877Z",
   "news": [
+    {
+      "title": "SpaceX roketinin bir parçasının Ay'a çarptığı tahmin ediliyor",
+      "summary": "Bir SpaceX roketinin uzayda bırakılmış bir parçasının, saatte yaklaşık 8.690 km hızla ilerleyerek Ay'a çarptığı tahmin ediliyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/clye022zj38o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 07:53:40 GMT"
+    },
     {
       "title": "Çerçeve yasa teklifi bugün Meclis başkanlığına sunuluyor",
       "summary": "Yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifi bugün Meclis Başkanlığı'na sunuluyor. Öncesinde AKP grubu saat 10.00'da basına kapalı toplanacak.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cm2gemqqr9mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 02:54:56 GMT"
+      "publishedAt": "Wed, 05 Aug 2026 07:52:58 GMT"
     },
     {
       "title": "Hürmüz'ün açılabileceğine dair umutlarla petrol fiyatları düştü",
@@ -16,14 +24,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/ckg9kg3j8v7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 05 Aug 2026 03:41:33 GMT"
-    },
-    {
-      "title": "Özgür Özel ve Veli Ağbaba hakkında fezleke düzenlendi",
-      "summary": "Ankara Cumhuriyet Başsavcılığı tarafından yapılan iki ayrı açıklamaya göre, Yeni Parti Genel Başkanı Özgür Özel ile Malatya Milletvekili Veli Ağbaba hakkında \"zincirleme şekilde rüşvet almak\" iddiasıyla fezleke düzenlendi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c629511kx9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 19:28:36 GMT"
     },
     {
       "title": "Ukraynalı seyyar satıcı 'insan safarisi' saldırısının hedefi oldu",
@@ -42,54 +42,62 @@
       "publishedAt": "Tue, 04 Aug 2026 21:12:36 GMT"
     },
     {
-      "title": "12 maddelik çerçeve yasa teklifinde neler yer alacak?",
-      "summary": "İktidarın \"Terörsüz Türkiye\", DEM Parti'nin ise \"Barış ve Demokratik Toplum\" olarak adlandırdığı yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifine son şekli verildi. \"Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendi",
+      "title": "Özgür Özel ve Veli Ağbaba hakkında fezleke düzenlendi",
+      "summary": "Ankara Cumhuriyet Başsavcılığı tarafından yapılan iki ayrı açıklamaya göre, Yeni Parti Genel Başkanı Özgür Özel ile Malatya Milletvekili Veli Ağbaba hakkında \"zincirleme şekilde rüşvet almak\" iddiasıyla fezleke düzenlendi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm2gwj9jwreo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 18:34:18 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c629511kx9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 19:28:36 GMT"
     },
     {
-      "title": "İzmir'deki yolsuzluk soruşturmasında yeni gelişme. Veli Ağbaba'nın ağabeyi dahil iki kişi gözaltında",
-      "summary": "İzmir Büyükşehir Belediyesi'ne yönelik yolsuzluk soruşturması kapsamında Yeni Parti Malatya Milletvekili Veli Ağbaba'nın ağabeyi dahil iki şüpheli gözaltına alındı.",
+      "title": "34 yıl sonra gelen mucize: İkiz kızlarıyla Anıtkabir’i ziyaret ettiler",
+      "summary": "Adıyaman'da yaşayan Abuzer (71) ve Zeynep Yıldırım (59) çifti, evlerini satıp tüp bebek tedavisi ile 34 yıl sonra ikiz çocuk sahibi oldu. Şimdilerde 6 yaşında olan ikizler Tekbir Gül ve Havva Gül, anne ve babalarıyla birlikte hayalini kurdu",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-05T08:34:34+03:00"
+      "publishedAt": "2026-08-05T11:14:53+03:00"
     },
     {
-      "title": "Küçükçekmece'de D-100'de feci kaza. Üç kişi öldü, yaralılar var",
-      "summary": "İstanbul Küçükçekmece'de bir otomobil, İETT otobüsüne çarptı. Kazada üç kişi öldü, yaralılar olduğu bildirildi. D-100'de trafik yan yola verildi. Bölgede yoğun trafik yaşanıyor.",
+      "title": "Avcılar Belediyesi'ne operasyon. 12 şüpheli gözaltına alındı",
+      "summary": "İstanbul'da CHP'li Avcılar Belediyesi'ne yönelik ihaleye fesat karıştırma iddialarına yönelik soruşturmada 4 ilde düzenlenen operasyonda 12 şüpheli gözaltına alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-05T08:21:52+03:00"
+      "publishedAt": "2026-08-05T11:29:39+03:00"
     },
     {
-      "title": "Ankara'da ablasını öldüren ağabey yakalandı. 1 kişi tutuklandı, 5 kişi gözaltında",
-      "summary": "Ankara'nın Çankaya ilçesinde ablasını öldüren ağabey Kırıkkale'de yakalandı. Gülay Akgün Mutlu’nun öldürülmesiyle ilgili yürütülen soruşturmada 5 şüpheli gözaltına alındı.",
+      "title": "Bahçeli'den çerçeve yasa açıklaması: Bin yıllık kardeşliğimiz tescillendi",
+      "summary": "MHP Genel Başkanı Devlet Bahçeli, çerçeve yasaya atılan imzalarla bin yıllık kardeşliğin tescillendiğini söyledi. MHP lideri, \"Selahattin Demirtaş evine, Ahmetler görevine, Öcalan umut hakkına kavuşmalıdır.\" diye konuştu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-05T07:02:52+03:00"
+      "publishedAt": "2026-08-05T10:58:24+03:00"
     },
     {
-      "title": "Ehliyetsiz ve alkollü yakalandı. \"Bomba gibiyim\"",
-      "summary": "Tekirdağ'da polis çevirmesinde durdurulan sürücü ehliyetsiz ve alkollü çıktı. Ceza kesilen ve aracı çekilen sürücünün rahat tavırları dikkat çekerken, muhabirin sorusuna \"Bomba gibiyim\" cevabını verdi.",
+      "title": "Ünlülere uyuşturucu soruşturmasında fuhuş bağlantısı izi. WhatsApp mesajları ortaya çıktı gözaltına alındı",
+      "summary": "Ünlü isimlere uyuşturucu soruşturması kapsamında daha önce gözaltına alınıp serbest bırakılan Koray B., cep telefonundaki WhatsApp mesajları üzerine yeniden gözaltına alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-05T05:27:20+03:00"
+      "publishedAt": "2026-08-05T10:36:43+03:00"
     },
     {
-      "title": "Kahramanmaraş'taki okul saldırısı. Erdoğan hayatını kaybeden öğrencilerin ailelerini kabul etti",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kahramanmaraş'taki okul saldırısında hayatını kaybeden öğrencilerin aileleriyle bir araya geldi.",
+      "title": "Terörsüz Türkiye sürecinde yeni aşamaya geçildi. Bugüne nasıl gelindi? İşte gün gün yaşananlar",
+      "summary": "Terörsüz Türkiye sürecine ilişkin hazırlanan çerçeve yasa bugün Meclis'e sunulacak. Çerçeve yasayla birlikte süreçte yeni bir aşamaya geçildi. Peki terörsüz Türkiye sürecinde bugüne kadar neler yaşandı?",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-05T04:56:01+03:00"
+      "publishedAt": "2026-08-05T10:16:32+03:00"
     },
     {
-      "title": "Son dakika Kahramanmaraş'ta deprem mi oldu? Az önce deprem Kahramanmaraş'ta nerede oldu? Kahramanmaraş deprem Kandilli ve AFAD son depremler listesi 05 Ağustos 2026",
-      "summary": "Son dakika Kahramanmaraş deprem haberleri.. Kahramanmaraş'ta deprem mi oldu? Az önce deprem Kahramanmaraş'ta nerede oldu? Kahramanmaraş Kandilli ve AFAD son depremler.. 05 Ağustos 2026 Kahramanmaraş deprem son dakika haberleri haberin detay",
+      "title": "Kayıp köpeğini barınakta buldu, aldığı haberle yıkıldı",
+      "summary": "İstanbul Esenyurt'ta bir iş yeri sahibi, kaybolan köpeğinin izine bir barınakta rastladı. Köpeğini teslim almak için barınağa giden vatandaş, hayvanının öldüğünü öğrendi. Köpeğin sahibi ile barınak görevlileri arasında tartışma çıktı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-05T04:20:00+03:00"
+      "publishedAt": "2026-08-05T09:17:42+03:00"
+    },
+    {
+      "title": "Kocaeli, Kayseri ve Mersin taban puanları",
+      "summary": "Kocaeli, Kayseri ve Mersin LGS taban puanları ile liselerin boş kontenjanları, Milli Eğitim Bakanlığı'nın (MEB) LGS yerleştirme sonuçlarını açıklamasının ardından öğrenciler ve veliler tarafından yoğun şekilde araştırılıyor. Nakil döneminde",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/lgs-meb-kayseri-mersin-ve-kocaeli-lise-taban-puanlari-ile-yuzdelik-dilimleri-aciklandi-mi-3903461",
+      "publishedAt": "Wed, 05 Aug 2026 07:30:21 GMT"
     },
     {
       "title": "Canlı altın fiyatları",
@@ -116,36 +124,20 @@
       "publishedAt": "Tue, 04 Aug 2026 22:03:16 GMT"
     },
     {
+      "title": "Lise kayıt tarihleri",
+      "summary": "2026 LGS yerleştirme sonuçlarının açıklanmasının ardından gözler lise kayıt takvimine çevrildi. Yerleştirildiği okula kayıt yaptıracak öğrenciler ile nakil başvurusu yapmayı planlayan adaylar, kayıt sürecinin ayrıntılarını araştırıyor. Mill",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/lise-kayit-tarihleri-2026-2027-lise-kayitlari-ne-zaman-baslayacak-kayit-icin-gerekli-evraklar-neler-3903386",
+      "publishedAt": "Wed, 05 Aug 2026 07:06:09 GMT"
+    },
+    {
       "title": "İstanbul'da sular ne zaman gelecek?",
       "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ), 5 Ağustos'ta gerçekleştirilecek çalışmalar nedeniyle kentin birçok ilçesinde planlı su kesintisi uygulanacağını duyurdu. Arnavutköy, Büyükçekmece, Çatalca, Eyüpsultan, Avcılar, Başakşehir, Esenyur",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/5-agustos-istanbul-su-kesintisi-istanbul-da-sular-ne-zaman-gelecek-saat-kacta-iski-su-kesintisi-olan-ilceler-ve-mahalleler-3903384",
       "publishedAt": "Tue, 04 Aug 2026 21:37:16 GMT"
-    },
-    {
-      "title": "Süper Loto sonuçları açıklandı!",
-      "summary": "Süper Loto'da haftanın merakla beklenen çekilişi 4 Ağustos 2026 Salı günü gerçekleştirildi. Milli Piyango Online üzerinden canlı yayınlanan çekilişin ardından kazandıran numaralar belli oldu. Büyük ikramiye hayali kuran binlerce kişi, çekil",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/son-dakika-super-loto-sonuclari-aciklandi-4-agustos-2026-sali-super-loto-cekilis-sonucu-sorgulama-ekrani-3903378",
-      "publishedAt": "Tue, 04 Aug 2026 21:17:19 GMT"
-    },
-    {
-      "title": "MasterChef ana kadroya kim girdi?",
-      "summary": "MasterChef Türkiye 2026'da ana kadro heyecanı hız kesmeden devam ediyor. Son bölümde üçüncü grubun yedek yarışmacıları belirlenirken, gözler şimdi dördüncü ve son grubun ilk mücadelesine çevrildi. Yarışmacılar, ana kadroya doğrudan girebilm",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/masterchef-kim-kazandi-4-agustos-2026-masterchef-ana-kadroya-kim-girdi-ana-kadroya-giren-16-yarismaci-kim-oldu-3903376",
-      "publishedAt": "Wed, 05 Aug 2026 05:27:43 GMT"
-    },
-    {
-      "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 17:26:06 GMT"
     },
     {
       "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
@@ -156,20 +148,12 @@
       "publishedAt": "Wed, 05 Aug 2026 03:44:30 GMT"
     },
     {
-      "title": "Russian ballistic missile strike on Kyiv kills at least 14, officials say",
-      "summary": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" the region around the city.",
+      "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 05 Aug 2026 05:08:43 GMT"
-    },
-    {
-      "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 21:45:20 GMT"
+      "publishedAt": "Wed, 05 Aug 2026 08:29:40 GMT"
     },
     {
       "title": "Armed man arrested near Trump's golf course ahead of president's visit",
@@ -180,60 +164,84 @@
       "publishedAt": "Wed, 05 Aug 2026 00:19:04 GMT"
     },
     {
-      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
-      "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
+      "title": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+      "summary": "People have filed complaints against Starbucks for allegedly making light of the deadly Gwangju Uprising.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 04 Aug 2026 11:19:01 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 07:04:45 GMT"
     },
     {
-      "title": "Bangladesh Truth Seeker",
-      "summary": "Amid political upheaval in Bangladesh, a journalist debunks fake news in a fight for his nation’s democratic future.",
-      "source": "Al Jazeera",
+      "title": "Afghan boxer appears in court in connection with death of Scottish woman",
+      "summary": "Sharif Ahmadzai, 26, is being held in connection with the death of Elisabeth Jane Ross from Edinburgh.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/witness/2026/8/5/bangladesh-truth-seeker?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 05:00:00 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 05 Aug 2026 08:28:32 GMT"
     },
     {
-      "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
-      "summary": "At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.",
-      "source": "Al Jazeera",
+      "title": "Arrests in Egypt after people allegedly impersonate judges",
+      "summary": "Egyptian authorities say the alleged scam involved fabricated scenes in court as part of a plot to defraud people.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 04:38:00 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 04 Aug 2026 19:25:00 GMT"
     },
     {
-      "title": "Has a US court just set the grounds for another January 6 insurrection?",
-      "summary": "A US judge has begrudgingly dismissed the last prosecution cases tied to the January 6 insurrection on Capitol Hill.",
+      "title": "Massive fire at chemical factory forces evacuations in Brazil",
+      "summary": "Massive fire at chemical factory forces evacuations in Brazil",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 04:37:43 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/massive-fire-at-chemical-factory-forces-evacuations-in-brazil?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 08:09:39 +0000"
     },
     {
-      "title": "Bolivia sends troops to stop Brazilian gang violence along border",
-      "summary": "Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.",
+      "title": "As Spain grieves, recurrent heatwaves stir fears of more wildfires",
+      "summary": "After more than a dozen people died in recent forest fires, residents and experts try to prevent further tragedies.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 03:58:12 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/5/as-spain-grieves-recurrent-heatwaves-stir-fears-of-more-wildfires?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 07:55:34 +0000"
     },
     {
-      "title": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
-      "summary": "The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.",
+      "title": "Why the Trump administration is helping support Japan’s weakening yen",
+      "summary": "Washington and Tokyo's rare coordinated intervention aims to avoid spillover to global financial system.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 03:48:21 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/8/5/why-the-trump-administration-is-helping-support-japans-weakening-yen?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 07:06:05 +0000"
     },
     {
-      "title": "Protesters demand answers from ICE after second man dies at Delaney Hall",
-      "summary": "Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.",
+      "title": "Pakistan and Uganda athletes ‘missing’ after Commonwealth Games",
+      "summary": "UK police looking into reports of 'missing' athletes who didn't return home after Commonwealth Games closing ceremony.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss",
-      "publishedAt": "Wed, 05 Aug 2026 03:33:21 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/5/pakistan-and-uganda-athletes-missing-after-commonwealth-games?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 06:54:14 +0000"
+    },
+    {
+      "title": "Nigeria cannot build safe schools in unsafe communities",
+      "summary": "The Safe Schools Initiative will keep falling short until the lack of security beyond school grounds is confronted.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 06:44:23 +0000"
+    },
+    {
+      "title": "Alcaraz withdraws from Cincinnati event as doubts grow over US Open defence",
+      "summary": "Seven-time Grand Slam winner Carlos Alcaraz was expected to defend his ATP Masters 1000 ​title in Cincinnati.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/sports/2026/8/5/alcaraz-withdraws-from-cincinnati-event-as-doubts-grow-over-us-open-defence?traffic_source=rss",
+      "publishedAt": "Wed, 05 Aug 2026 06:42:23 +0000"
+    },
+    {
+      "title": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
+      "summary": "Rates are now as bad as the 1970s, with thousands of miners sick and dying. Mining experts blame toxic silica dust, now more common in mines.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
+      "publishedAt": "Wed, 05 Aug 2026 04:01:00 -0400"
     },
     {
       "title": "MLS named LAFC co-owner Larry Berg as its next commissioner. Here's what to know",
@@ -276,12 +284,20 @@
       "publishedAt": "Tue, 04 Aug 2026 16:16:26 -0400"
     },
     {
-      "title": "House Ethics Committee will investigate Ohio Republican Max Miller",
-      "summary": "The committee said it was reviewing allegations that Miller \"may have engaged in domestic violence.\" Miller has denied the allegations, which have swirled around his bid for a third term in Congress.",
-      "source": "NPR",
+      "title": "El Niño could push 50m people into acute hunger before end of next year",
+      "summary": "UN forecasters warn of worsening conditions in 45 countries currently experiencing severe food insecurityAbout 50 million people are likely to be pushed into acute hunger before the end of next year by the rapidly developing El Niño weather",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation",
-      "publishedAt": "Tue, 04 Aug 2026 15:40:02 -0400"
+      "link": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
+      "publishedAt": "Wed, 05 Aug 2026 08:00:13 GMT"
+    },
+    {
+      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+      "summary": "In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the groundGood morning. Last week, an estimated 72,000 migrants began crossing into a tiny Spanish enclave",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+      "publishedAt": "Wed, 05 Aug 2026 05:54:54 GMT"
     },
     {
       "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
@@ -298,37 +314,21 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
       "publishedAt": "Mon, 03 Aug 2026 17:44:01 GMT"
-    },
-    {
-      "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
-      "summary": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries.Lucy Hough speaks to the Gu",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
-      "publishedAt": "Mon, 03 Aug 2026 16:05:20 GMT"
-    },
-    {
-      "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
-      "summary": "Juan Jesús Vivas says influx seen as ‘at least encouraged or permitted’ by Rabat, as Spain demands EU solidarityExplainer: why is Ceuta a migration flashpoint?A growing chorus of voices has accused Morocco of helping to fuel the crisis in C",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
-      "publishedAt": "Mon, 03 Aug 2026 14:13:01 GMT"
     }
   ],
   "sports": [],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
+      "tempC": 30,
       "description": "clear sky",
       "high": 32,
       "low": 23
     },
     {
       "place": "London",
-      "tempC": 19,
-      "description": "partly cloudy",
+      "tempC": 21,
+      "description": "overcast",
       "high": 25,
       "low": 19
     }
