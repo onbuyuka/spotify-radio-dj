@@ -1,22 +1,6 @@
 {
-  "updated": "2026-08-07T07:10:04.263Z",
+  "updated": "2026-08-07T09:58:45.099Z",
   "news": [
-    {
-      "title": "AFP ve Reuters: Türkiye, Suudi Arabistan ve Pakistan bugün üçlü savunma anlaşması imzalıyor",
-      "summary": "Uluslararası haber ajanslarına konuşan farklı kaynaklar, Suudi Arabistan, Türkiye ve Pakistan'ın Cuma günü üçlü bir ortak savunma anlaşması imzalayacağını kaydediyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c62vn5wzz59o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 00:31:34 GMT"
-    },
-    {
-      "title": "Çerçeve yasa teklifi Meclis komisyonuna geliyor: Kimleri kapsıyor, hangi koşullar aranacak?",
-      "summary": "İktidarın \"Terörsüz Türkiye\", DEM Parti'nin ise \"Barış ve Demokratik Toplum\" olarak adlandırdığı yeni çözüm sürecinin hukuki altyapısını oluşturmak amacıyla hazırlanan 12 maddelik \"Millî Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesin",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cdrvng02zn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 06:25:29 GMT"
-    },
     {
       "title": "Sokak hayvanları düzenlemesinin ikinci yılı: Sahada neler yaşandı, taraflar ne diyor?",
       "summary": "Hayvanları Koruma Kanunu hakkında yapılan ve bazı hayvanseverler tarafından \"katliam yasası\" olarak anılan düzenlemenin yürürlüğe girmesi üzerinden iki yıl geçti. BBC Türkçe sahadaki durumu araştırdı, aktivistlerle ve belediyelerle konuştu.",
@@ -26,12 +10,20 @@
       "publishedAt": "Thu, 06 Aug 2026 23:59:36 GMT"
     },
     {
-      "title": "Türkiye Gazze Barış Anlaşması'nın yeni aşamasında nasıl bir diplomasi izliyor?",
-      "summary": "Türkiye, diğer arabulucular Katar ve Mısır ile birlikte İsrail’in Gazze’de giderek artan saldırılarına dikkat çekiyor ve bu tırmanmanın 30 Temmuz’da açıklanan barış planı yol haritasını sabote etmek amaçlı olduğunu kaydediyor. Ağustos ayınd",
+      "title": "Türkiye, Suudi Arabistan ve Pakistan 'bugün üçlü savunma anlaşması imzalıyor'",
+      "summary": "Anadolu Ajansı ve diğer uluslararası haber ajanslarına konuşan farklı kaynaklar, Suudi Arabistan, Türkiye ve Pakistan'ın Cuma günü üçlü bir ortak savunma anlaşması imzalayacağını kaydediyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c74g12d9z2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 00:57:02 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c62vn5wzz59o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 07 Aug 2026 07:20:59 GMT"
+    },
+    {
+      "title": "Tayland'da okul saldırısı: 14 yaşındaki öğrenci ailesini ve öğretmenlerini öldürdü",
+      "summary": "Tayland'da 14 yaşında bir çocuk önce evdeki büyükanne ve büyükbabasını sonra okulundaki öğretmenleri öldürdü.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c74gwnxjk0go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 07 Aug 2026 09:50:27 GMT"
     },
     {
       "title": "Bilimde 'dönüm noktası': Yapay zeka ile sıfırdan virüs üretildi",
@@ -42,54 +34,62 @@
       "publishedAt": "Fri, 07 Aug 2026 02:25:02 GMT"
     },
     {
-      "title": "Meta'ya çocuk güvenliği davasında yarım milyar dolar ceza",
-      "summary": "New Mexico eyaletinde bir yargıç, Instagram, Facebook ve WhatsApp'ın ana şirketi olan şirketin çocuklara verdiği zararlar nedeniyle 567 milyon dolar daha tazminat ödemesine karar verdi.",
+      "title": "'Altı yaşında regl olmaya başladım ve doktorlar nedenini bilmiyordu'",
+      "summary": "Erken ergenlik, çocuklarda cinsel özelliklerin erken gelişimini tetikliyor ve kız çocuklarını orantısız bir şekilde etkiliyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c9v4xnl10vno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 03:09:14 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cq56qx3xxd4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 07 Aug 2026 09:31:56 GMT"
     },
     {
-      "title": "Kuşadası Belediyesi'ne yeni operasyon. Yeni Partili milletvekilinin kızı ve damadı da gözaltında",
-      "summary": "Kuşadası Belediyesi'ne yönelik yeni bir operasyon düzenlendi. Operasyonda 15 kişi gözaltına alındı.",
-      "source": "NTV",
+      "title": "Türkiye Gazze Barış Anlaşması'nın yeni aşamasında nasıl bir diplomasi izliyor?",
+      "summary": "Türkiye, diğer arabulucular Katar ve Mısır ile birlikte İsrail’in Gazze’de giderek artan saldırılarına dikkat çekiyor ve bu tırmanmanın 30 Temmuz’da açıklanan barış planı yol haritasını sabote etmek amaçlı olduğunu kaydediyor. Ağustos ayınd",
+      "source": "BBC Türkçe",
       "lang": "tr",
-      "publishedAt": "2026-08-07T09:56:46+03:00"
+      "link": "https://www.bbc.com/turkce/articles/c74g12d9z2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 07 Aug 2026 00:57:02 GMT"
     },
     {
-      "title": "Terörsüz Türkiye sürecinde şimdi ne olacak? İşte çerçeve yasanın 5 aşamalı yol haritası",
-      "summary": "Terörsüz Türkiye sürecinde çerçeve yasa adımı atıldı. Hafta sonu Meclis'e gelmesi beklenen yasanın çıkmasıyla beş aşamalık bir yol haritası işlemeye başlayacak.",
+      "title": "Holding patronuna bahis suçlaması. Tüm malvarlığına el konuldu",
+      "summary": "Yasa dışı bahis gelirini sahibi olduğu holdinge ait ödeme sistemi üzerinden akladığı öne sürülen Emrullah Canpolat ile 22 şüpheliye örgüt suçlaması yöneltildi. Malvarlıklarına el konulan şüpheliler, hapis cezasıyla yargılanacak.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-07T09:23:50+03:00"
+      "publishedAt": "2026-08-07T12:47:03+03:00"
     },
     {
-      "title": "Ankara'da değnekçilere operasyon",
-      "summary": "Ankara'da bazı cadde ve işletmelerin önünde korsan otoparkçılık yapanlara yönelik operasyonda 10 şüpheli gözaltına alındı.",
+      "title": "İntihar mektubundan isimleri çıktı, milyarlık vurgun deşifre oldu",
+      "summary": "Elazığ'da tefecilere borçlandığını öne sürerek yaşamına son veren kişinin geride bıraktığı mektuptan yola çıkarak başlatılan operasyonda altı şüpheli tutuklandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-07T08:07:07+03:00"
+      "publishedAt": "2026-08-07T12:53:13+03:00"
     },
     {
-      "title": "Yeni aldığı motosikletle ilk gezisi sonu oldu",
-      "summary": "Çerkezköy'de yeni satın aldığı motosikletle gezintiye çıkan 22 yaşındaki genç, park halindeki araca çarptığı kazada hayatını kaybetti.",
+      "title": "Nilda Müge Şahin cinayetinde yeni ayrıntı. \"Gördük ama emin olamadık\"",
+      "summary": "Şişli'de Nazir Ilgın isimli saldırgan tarafından öldürülen Nilda Müge Şahin cinayetinde yeni bir ayrıntı ortaya çıktı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-07T04:44:17+03:00"
+      "publishedAt": "2026-08-07T12:09:11+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 07 Ağustos 2026",
-      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 07 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
+      "title": "FETÖ'nün suikast timindeki Burkay Karatepe silahları gömdüğü yeri söyledi, ekipler harekete geçti",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik suikast timinde yer alan firari FETÖ'cü Burkay Karatepe'nin darbe girişimi gecesi Marmaris'te silah gömdüğünü ileri sürdüğü noktalarda arama tarama çalışması başlatıldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-07T10:00:00+03:00"
+      "publishedAt": "2026-08-07T11:47:47+03:00"
     },
     {
-      "title": "Eğitim uçağı sert iniş yaptı. Öğrenci pilot yaralandı",
-      "summary": "Çatalca'da eğitim uçuşunda sert iniş yapan uçak kaza kırıma uğradı. Öğrenci pilot Baran B. hafif yaralandı.",
+      "title": "Ahbap Derneği yönetimine kayyum atandı. Fesih süreci başladı",
+      "summary": "Asliye hukuk mahkemesi, Ahbap Derneği'nin feshi için açılan davada yönetim kayyumu atanmasına hükmetti. Bu, derneğin fesih sürecinin başladığı anlamına geliyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-06T20:18:31+03:00"
+      "publishedAt": "2026-08-07T12:42:02+03:00"
+    },
+    {
+      "title": "Terör örgütü DAEŞ'e 30 şehirde operasyon",
+      "summary": "Terör örgütü DAEŞ'e yönelik 30 şehirde operasyon düzenlendi. Operasyonlarda 104 şüpheli gözaltına alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-07T11:22:53+03:00"
     },
     {
       "title": "AÖL sonuçları ne zaman açıklanacak?",
@@ -145,7 +145,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 00:54:03 GMT"
+      "publishedAt": "Fri, 07 Aug 2026 09:22:03 GMT"
     },
     {
       "title": "Trump again tries to limit US birthright citizenship with new executive orders",
@@ -180,12 +180,44 @@
       "publishedAt": "Thu, 06 Aug 2026 18:53:51 GMT"
     },
     {
-      "title": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
+      "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 06 Aug 2026 17:36:07 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 07 Aug 2026 08:32:57 GMT"
+    },
+    {
+      "title": "Several killed after student opens fire inside Thailand school",
+      "summary": "At least eight people were killed and 15 others injured after a student opened fire inside a school in Thailand.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/several-killed-after-student-opens-fire-inside-thailand-school?traffic_source=rss",
+      "publishedAt": "Fri, 07 Aug 2026 09:13:48 +0000"
+    },
+    {
+      "title": "The other classroom: Returning to sacred knowledge",
+      "summary": "Why doctors, lawyers and other professionals are turning to Darul Qasim in Chicago to rediscover Islamic scholarship.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/7/the-other-classroom-returning-to-sacred-knowledge?traffic_source=rss",
+      "publishedAt": "Fri, 07 Aug 2026 08:41:06 +0000"
+    },
+    {
+      "title": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
+      "summary": "CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA's Gianni Infantino.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/sports/2026/8/7/africa-backs-infantino-as-caf-unanimously-votes-if-fifa-presidents-favour?traffic_source=rss",
+      "publishedAt": "Fri, 07 Aug 2026 07:44:06 +0000"
+    },
+    {
+      "title": "Earthquake strikes as doctors perform surgery",
+      "summary": "A viral video shows medical staff protecting a patient as an earthquake struck Japan during surgery.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/earthquake-strikes-as-doctors-perform-surgery?traffic_source=rss",
+      "publishedAt": "Fri, 07 Aug 2026 07:43:05 +0000"
     },
     {
       "title": "‘Still searching for truth’: Daughter of Sikh activist killed 30 years ago",
@@ -204,84 +236,52 @@
       "publishedAt": "Fri, 07 Aug 2026 05:49:22 +0000"
     },
     {
-      "title": "Mexico deploys troops to secure avocado region after US halts imports",
-      "summary": "Mexico deployed more than 1,500 troops to its main avocado-producing state after the US suspended export inspections.",
-      "source": "Al Jazeera",
+      "title": "When tragedy strikes, America's wildland firefighters ask, was it 'somebody that we loved?'",
+      "summary": "Deaths and close calls while fighting wildfires have strained an already on-edge workforce. They've also raised questions about policies and priorities amid an intense wildfire season.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/mexico-deploys-troops-to-secure-avocado-region-after-us-halts-imports?traffic_source=rss",
-      "publishedAt": "Fri, 07 Aug 2026 05:25:56 +0000"
+      "link": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
+      "publishedAt": "Fri, 07 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "Record-high heat soars through South Korea",
-      "summary": "A record-high heatwave is sweeping through the Korean Peninsula, sending temperatures skyrocketing, reaching 42.5C.",
-      "source": "Al Jazeera",
+      "title": "Besieged Sudanese city faces relentless drone strikes and risk of mass atrocities, U.N. warns",
+      "summary": "Hundreds of thousands of civilians in el-Obeid are being battered by relentless drone strikes and face critical water shortages and a worsening cholera outbreak, while women and girls are reporting high rates of sexual violence.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/record-high-heat-soars-through-south-korea?traffic_source=rss",
-      "publishedAt": "Fri, 07 Aug 2026 05:00:48 +0000"
+      "link": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
+      "publishedAt": "Fri, 07 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
-      "summary": "Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.",
-      "source": "Al Jazeera",
+      "title": "Who or what is 'taking a step back from visibility'? The quiz knows",
+      "summary": "Plus, if you know what \"TMZ\" stands for, you'll get at least on question right this week!",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
-      "publishedAt": "Fri, 07 Aug 2026 04:43:43 +0000"
+      "link": "https://www.npr.org/2026/08/07/g-s1-137559/space-book-reflecting-pool-tmz-vaccine-news-quiz",
+      "publishedAt": "Fri, 07 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "At least six killed, 15 wounded in Thailand school shooting, police say",
-      "summary": "Authorities say suspected gunman also found dead after shooting at a school northwest of Bangkok.",
-      "source": "Al Jazeera",
+      "title": "Amid cost of living stress, many parents are supporting children well into adulthood",
+      "summary": "Polls show most Americans think young adults today have it harder financially than past generations. A majority of parents help their grown children with expenses, even if it hurts their own finances.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/7/one-killed-four-injured-in-thailand-school-shooting-officials-say?traffic_source=rss",
-      "publishedAt": "Fri, 07 Aug 2026 04:23:52 +0000"
+      "link": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
+      "publishedAt": "Fri, 07 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "Student shoots multiple people at a high school in Thailand, authorities say",
-      "summary": "The shooter was a student and deaths and injuries were reported.",
+      "title": "Morning news brief",
+      "summary": "Trump issues new orders to limit birthright citizenship, Iran shares details of an agreement with Oman to reopen Strait of Hormuz, Trump under pressure to find a breakthrough with Iran.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/07/nx-s1-5921269/morning-news-brief",
+      "publishedAt": "Fri, 07 Aug 2026 04:41:55 -0400"
+    },
+    {
+      "title": "Student kills at least 6 in a shooting at a high school in Thailand, authorities say",
+      "summary": "Authorities said the motive was still being investigated.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/08/07/nx-s1-5924583/student-shoots-multiple-people-at-a-high-school-in-thailand-authorities-say",
       "publishedAt": "Fri, 07 Aug 2026 01:34:15 -0400"
-    },
-    {
-      "title": "Court orders Instagram and Facebook's Meta to pay $567M to address kids' mental health online",
-      "summary": "Judge Bryan Biedscheid said in a ruling late Thursday that the bulk of the money will be used for treatment services for young people.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online",
-      "publishedAt": "Fri, 07 Aug 2026 01:26:31 -0400"
-    },
-    {
-      "title": "Trump signs 2 immigration actions to curb 'birth tourism,' limit birthright citizenship",
-      "summary": "Additional details weren't provided, but Trump said he thought his latest actions would be constitutional.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/06/g-s1-137686/trump-birthright-citizenship-immigration-curb",
-      "publishedAt": "Thu, 06 Aug 2026 18:06:35 -0400"
-    },
-    {
-      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-      "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
-      "publishedAt": "Thu, 06 Aug 2026 16:58:56 -0400"
-    },
-    {
-      "title": "A look at 'Operation Country Roads,' West Virginia's ICE operation",
-      "summary": "Earlier this year ICE arrested 600 immigrants over a two week period. Most migrants had no criminal records and, since then, West Virginia has decided to not hold ICE detainees in their jails. A look at West Virginia post Operation Country ",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/06/nx-s1-5863509/a-look-at-west-virginia-after-last-years-massive-ice-operation",
-      "publishedAt": "Thu, 06 Aug 2026 16:40:52 -0400"
-    },
-    {
-      "title": "Sticky or slippery? Snails can change their slime to meet the moment",
-      "summary": "Snails are slimy. But there's more to that goo of theirs than meets the eye. It's a fact that may help inspire the creation of new materials.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/06/nx-s1-5920383/snail-slime-mucus-inspire-new-materials",
-      "publishedAt": "Thu, 06 Aug 2026 14:26:45 -0400"
     },
     {
       "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
@@ -320,14 +320,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 27,
-      "description": "partly cloudy",
+      "tempC": 30,
+      "description": "mainly clear",
       "high": 30,
       "low": 23
     },
     {
       "place": "London",
-      "tempC": 16,
+      "tempC": 19,
       "description": "clear sky",
       "high": 25,
       "low": 14
