@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T21:35:53.318Z",
+  "updated": "2026-08-08T01:18:30.837Z",
   "news": [
     {
       "title": "Mekke Savunma Anlaşması Türkiye'nin bölgedeki konumunu nasıl etkileyecek?",
@@ -50,6 +50,27 @@
       "publishedAt": "Fri, 07 Aug 2026 15:27:05 GMT"
     },
     {
+      "title": "Kahvehaneye silahlı saldırı. 3 kişi yaralandı",
+      "summary": "Adana'da yüzünü kapüşonuyla kapatan kimliği belirsiz şüpheli gece yarısı girdiği kahvehanede rastgele ateş açtı. 3 kişi vuruldu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-08T02:54:24+03:00"
+    },
+    {
+      "title": "Denize düşen amatör balıkçı boğuldu",
+      "summary": "İstanbul'da balık tutarken çıktığı kayalıkta dengesini kaybederek denize düşen 74 yaşındaki Ahmet D. yaşamını yitirdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-08T02:05:49+03:00"
+    },
+    {
+      "title": "Bakan Göktaş: 193 binin üzerinde çocuğu ailesinin yanında takip ediyoruz",
+      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, 193 bin çocuğun ailelerinin yanında takip edildiğini açıkladı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-08T00:39:06+03:00"
+    },
+    {
       "title": "Bakan Gürlek: 40 yıllık terör belasından kurtulma arifesindeyiz",
       "summary": "Adalet Bakanı Akın Gürlek, Terörsüz Türkiye Sürecine ilişkin açıklamalarda bulundu. Iğdır'da konuşan Bakan Gürlek, provokasyonlara rağmen sağduyulu davranan bölge halkına teşekkür etti. Adalet Bakanı Gürlek, faili meçhul cinayetlerle ilgili",
       "source": "NTV",
@@ -61,7 +82,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 08 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-08T00:30:00+03:00"
+      "publishedAt": "2026-08-08T04:00:00+03:00"
     },
     {
       "title": "Mekke Ortak Savunma Anlaşması dünya basınında. \"Üç bölgesel güç işbirliğini pekiştirdi\"",
@@ -71,25 +92,20 @@
       "publishedAt": "2026-08-07T23:58:16+03:00"
     },
     {
-      "title": "Sakarya’da denizde İHA bulundu",
-      "summary": "Sakarya’nın Kocaali ilçesinde kıyıdan yaklaşık 500 metre açıkta insansız hava aracı (İHA) bulundu. İHA, incelenmek üzere Sahil Güvenlik Komutanlığı'na götürüldü.",
-      "source": "NTV",
+      "title": "Emekli maaş farkı ödeme tarihi",
+      "summary": "Milyonlarca emeklinin beklediği maaş farkı ödemeleriyle ilgili Sosyal Güvenlik Kurumu'ndan (SGK) açıklama geldi. En düşük emekli aylığının 23 bin 552 TL'ye yükseltilmesinin ardından gözler zam farklarının hesaplara yatırılacağı tarihe çevri",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-07T23:30:56+03:00"
+      "link": "https://www.haberturk.com/emekli-zam-farki-sgk-odeme-takvimi-2026-emekli-maas-farklari-ne-zaman-yatacak-en-dusuk-emekli-maasi-zam-farklari-yatti-mi-3904141",
+      "publishedAt": "Fri, 07 Aug 2026 21:25:14 GMT"
     },
     {
-      "title": "İstanbul'dan Tekirdağ'a hafta sonu akını: Kilometrelerce araç kuyruğu oluştu",
-      "summary": "Hafta sonunu Tekirdağ ile Trakya'daki turizm bölgelerinde geçirmek isteyenler, İstanbul-Tekirdağ kara yolunda yoğun trafik oluşturdu.",
-      "source": "NTV",
+      "title": "LGS 1. nakil sonuç tarihi",
+      "summary": "LGS yerleştirme sonuçlarının ardından gözler 1. nakil sürecine çevrildi. İstediği liseye yerleşemeyen ya da tercihlerini değiştirmek isteyen öğrenciler, 5-7 Ağustos 2026 tarihleri arasında nakil başvurularını e-Okul sistemi üzerinden tamaml",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-07T22:25:15+03:00"
-    },
-    {
-      "title": "MHP Genel Başkanı Bahçeli, nikah şahidi oldu",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, partisinin Ankara İl Başkanı Alparslan Doğan'ın oğlu Enes Doğan ile Zehra Çelik'in düğün töreninde nikah şahitliği yaptı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-07T22:21:54+03:00"
+      "link": "https://www.haberturk.com/lgs-1-nakil-sonuclari-ne-zaman-aciklanacak-2026-lgs-1-nakil-sonuc-tarihi-belli-oldu-3904138",
+      "publishedAt": "Fri, 07 Aug 2026 22:44:28 GMT"
     },
     {
       "title": "Kapeks Kimya halka arz oluyor",
@@ -108,44 +124,28 @@
       "publishedAt": "Fri, 07 Aug 2026 21:17:21 GMT"
     },
     {
-      "title": "Emeklilere ÖTV'siz araç çıkacak mı?",
-      "summary": "Emeklilere ÖTV'siz araç alınmasına yönelik düzenleme 2026 yılında da milyonlarca vatandaşın gündemindeki yerini koruyor. Bu nedenle Türkiye Büyük Millet Meclisi'ne (TBMM) sunulan kanun tekliflerine ilişkin gelişmeler yakından takip edilirke",
+      "title": "BEDAŞ ilçe ilçe kesinti programını açıkladı",
+      "summary": "Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), 8 Ağustos Cumartesi günü İstanbul'un birçok ilçesinde planlı elektrik kesintisi uygulanacağını duyurdu. Şebeke bakım, onarım ve yatırım çalışmaları kapsamında gerçekleştirilecek kesintilerin bazı bölg",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/emekliye-otvsiz-arac-marka-ve-modelleri-2026-emeklilere-otvsiz-arac-cikacak-mi-sartlari-neler-3903737",
-      "publishedAt": "Fri, 07 Aug 2026 21:19:54 GMT"
+      "link": "https://www.haberturk.com/istanbul-genelinde-9-saate-varan-elektrik-kesintisi-yasanacak-8-agustos-cumartesi-iste-ilce-ilce-kesinti-listesi-3904116",
+      "publishedAt": "Fri, 07 Aug 2026 21:50:16 GMT"
     },
     {
-      "title": "Motorine indirim mi geldi?",
-      "summary": "Akaryakıt fiyatlarında araç sahiplerini sevindirecek yeni bir gelişme yaşandı. Motorinin litresine ortalama 1 lira indirim geldi. İndirimli fiyatlar bugün itibarıyla pompaya yansıdı. Benzin ve LPG fiyatlarında ise şu an için herhangi bir de",
+      "title": "On Numara sonuçları açıklandı",
+      "summary": "Milli Piyango Online tarafından gerçekleştirilen On Numara çekilişinin sonuçları belli oldu. 7 Ağustos 2026 Cuma günü yapılan çekilişin ardından büyük ikramiyeyi kazanıp kazanmadığını öğrenmek isteyenler On Numara sonuç sorgulama ekranına y",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/motorine-indirim-mi-geliyor-mazota-ne-kadar-indirim-gelecek-4-agustos-2026-istanbul-izmir-ankara-akaryakit-fiyatlari-3903358",
-      "publishedAt": "Fri, 07 Aug 2026 21:22:07 GMT"
+      "link": "https://www.haberturk.com/son-dakika-on-numara-sonuclari-aciklandi-7-agustos-2026-on-numara-cekilis-sonucu-sorgulama-ekrani-3904113",
+      "publishedAt": "Fri, 07 Aug 2026 21:27:49 GMT"
     },
     {
-      "title": "Emekli maaş farkı ödeme tarihi belli oldu",
-      "summary": "Milyonlarca emeklinin beklediği maaş farkı ödemeleriyle ilgili Sosyal Güvenlik Kurumu'ndan (SGK) açıklama geldi. En düşük emekli aylığının 23 bin 552 TL'ye yükseltilmesinin ardından gözler zam farklarının hesaplara yatırılacağı tarihe çevri",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/emekli-zam-farki-sgk-odeme-takvimi-2026-emekli-maas-farklari-ne-zaman-yatacak-en-dusuk-emekli-maasi-zam-farklari-yatti-mi-3904141",
-      "publishedAt": "Fri, 07 Aug 2026 19:07:22 GMT"
-    },
-    {
-      "title": "Türker Vangölü Enerji halka arz oluyor",
-      "summary": "SPK onayının ardından Türker Vangölü Enerji Yatırım A.Ş.'nin halka arz süreci yatırımcıların gündemindeki yerini aldı. Şirket, halka arzda ek satış hariç toplam 65 milyon lot payı yatırımcılarla buluşturacak. Sabit fiyatla talep toplama yön",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/turker-vangolu-enerji-halka-arz-ne-zaman-kac-lot-verir-turker-veyas-katilim-endeksine-uygun-mu-hangi-bankalarda-var-3904133",
-      "publishedAt": "Fri, 07 Aug 2026 19:04:00 GMT"
-    },
-    {
-      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
-      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta.",
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from Morocco into the neighbouring Spanish exclave of Ceuta.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 07 Aug 2026 20:33:23 GMT"
+      "publishedAt": "Fri, 07 Aug 2026 22:13:55 GMT"
     },
     {
       "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
@@ -188,52 +188,52 @@
       "publishedAt": "Fri, 07 Aug 2026 20:40:56 GMT"
     },
     {
-      "title": "US appeals court halts White House ballroom construction",
-      "summary": "A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.",
+      "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
+      "summary": "New president, who replaces leftist Gustavo Petro, continues rightward political shift in Latin America.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
-      "publishedAt": "Fri, 07 Aug 2026 21:18:20 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
+      "publishedAt": "Sat, 08 Aug 2026 00:31:52 +0000"
     },
     {
-      "title": "South Koreans beat the heat with ‘silent disco’ pool party",
-      "summary": "South Koreans in Seoul cooled off with a silent disco pool party during a record-breaking heat wave.",
+      "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+      "summary": "War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
-      "publishedAt": "Fri, 07 Aug 2026 21:12:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
+      "publishedAt": "Sat, 08 Aug 2026 00:24:42 +0000"
     },
     {
-      "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-      "summary": "New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.",
+      "title": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
+      "summary": "Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-      "publishedAt": "Fri, 07 Aug 2026 21:02:31 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss",
+      "publishedAt": "Sat, 08 Aug 2026 00:13:53 +0000"
     },
     {
-      "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
-      "summary": "The Bundibugyo epidemic, ​the world's second-largest, has been described as the ⁠fastest-spreading on record.",
+      "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+      "summary": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss",
-      "publishedAt": "Fri, 07 Aug 2026 20:41:46 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+      "publishedAt": "Sat, 08 Aug 2026 00:06:22 +0000"
     },
     {
-      "title": "Can diplomacy end the conflict in Libya?",
-      "summary": "The country has been divided since 2014, with rival governments in the east and west.",
+      "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+      "summary": "Saudi crown prince, Turkish president and Pakistani prime minister sign a joint defence agreement in Mecca.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
-      "publishedAt": "Fri, 07 Aug 2026 20:39:26 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
+      "publishedAt": "Sat, 08 Aug 2026 00:00:00 +0000"
     },
     {
-      "title": "US appeals court upholds injunction pausing Trump’s White House ballroom",
-      "summary": "The two-judge majority underscored that the president needed congressional authority to move forward with his plans.",
+      "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
+      "summary": "US president has clashed with Federal Reserve members over his bid to rapidly slash interest rates despite inflation.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss",
-      "publishedAt": "Fri, 07 Aug 2026 20:27:56 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
+      "publishedAt": "Fri, 07 Aug 2026 23:40:16 +0000"
     },
     {
       "title": "Trump renews push to fire Fed Governor Lisa Cook",
@@ -284,6 +284,14 @@
       "publishedAt": "Fri, 07 Aug 2026 10:12:59 -0400"
     },
     {
+      "title": "Spain to introduce temporary border checks on visitors from Italy",
+      "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to CeutaSpain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush ",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+      "publishedAt": "Fri, 07 Aug 2026 21:44:38 GMT"
+    },
+    {
       "title": "Judge approves Trump effort to end South Sudan TPS protections",
       "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and SyriansTemporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal judge",
       "source": "The Guardian",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
       "publishedAt": "Thu, 06 Aug 2026 15:41:29 GMT"
-    },
-    {
-      "title": "Top Ugandan footballer killed by robbers armed with paving stones",
-      "summary": "David Owori, who played for the national team, died in hospital after he tried to stop robbers taking his phoneThe Ugandan football community is in mourning after the death of a player who was fatally injured during a robbery in the capital",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
-      "publishedAt": "Thu, 06 Aug 2026 14:30:32 GMT"
     }
   ],
   "sports": [],
@@ -327,10 +327,10 @@
     },
     {
       "place": "London",
-      "tempC": 21,
+      "tempC": 19,
       "description": "clear sky",
-      "high": 26,
-      "low": 14
+      "high": 28,
+      "low": 16
     }
   ],
   "facts": [
