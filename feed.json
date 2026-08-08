@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T01:18:30.837Z",
+  "updated": "2026-08-08T04:09:23.482Z",
   "news": [
     {
       "title": "Mekke Savunma Anlaşması Türkiye'nin bölgedeki konumunu nasıl etkileyecek?",
@@ -50,6 +50,13 @@
       "publishedAt": "Fri, 07 Aug 2026 15:27:05 GMT"
     },
     {
+      "title": "Kolombiya'da Trump destekli yeni cumhurbaşkanı göreve başladı",
+      "summary": "Kolombiya'da 2'nci tur cumhurbaşkanı seçimini kazanan Trump destekli sağcı Abelardo de la Espriella yemin ederek göreve başladı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-08T05:41:05+03:00"
+    },
+    {
       "title": "Kahvehaneye silahlı saldırı. 3 kişi yaralandı",
       "summary": "Adana'da yüzünü kapüşonuyla kapatan kimliği belirsiz şüpheli gece yarısı girdiği kahvehanede rastgele ateş açtı. 3 kişi vuruldu.",
       "source": "NTV",
@@ -82,14 +89,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 08 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-08T04:00:00+03:00"
-    },
-    {
-      "title": "Mekke Ortak Savunma Anlaşması dünya basınında. \"Üç bölgesel güç işbirliğini pekiştirdi\"",
-      "summary": "Türkiye, Suudi Arabistan ve Pakistan tarafından imzalanan Mekke Ortak Savunma Anlaşması uluslararası basında geniş yer buldu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-07T23:58:16+03:00"
+      "publishedAt": "2026-08-08T07:00:00+03:00"
     },
     {
       "title": "Emekli maaş farkı ödeme tarihi",
@@ -188,52 +188,60 @@
       "publishedAt": "Fri, 07 Aug 2026 20:40:56 GMT"
     },
     {
-      "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
-      "summary": "New president, who replaces leftist Gustavo Petro, continues rightward political shift in Latin America.",
+      "title": "US Senate passes Russia sanctions that could hurt India and China",
+      "summary": "The US Senate approved its strongest move against Russia under Trump.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
-      "publishedAt": "Sat, 08 Aug 2026 00:31:52 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+      "publishedAt": "Sat, 08 Aug 2026 03:20:41 +0000"
     },
     {
-      "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-      "summary": "War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.",
+      "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+      "summary": "Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
-      "publishedAt": "Sat, 08 Aug 2026 00:24:42 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
+      "publishedAt": "Sat, 08 Aug 2026 02:54:02 +0000"
     },
     {
-      "title": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
-      "summary": "Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs.",
+      "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
+      "summary": "Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss",
-      "publishedAt": "Sat, 08 Aug 2026 00:13:53 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
+      "publishedAt": "Sat, 08 Aug 2026 02:08:28 +0000"
     },
     {
-      "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-      "summary": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
+      "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
+      "summary": "Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
-      "publishedAt": "Sat, 08 Aug 2026 00:06:22 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
+      "publishedAt": "Sat, 08 Aug 2026 01:29:14 +0000"
     },
     {
-      "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
-      "summary": "Saudi crown prince, Turkish president and Pakistani prime minister sign a joint defence agreement in Mecca.",
+      "title": "Trump shifts blame to Republicans for waning support from public",
+      "summary": "Republican senators are using the summer recess to avoid politically difficult votes.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
-      "publishedAt": "Sat, 08 Aug 2026 00:00:00 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
+      "publishedAt": "Sat, 08 Aug 2026 01:28:39 +0000"
     },
     {
-      "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
-      "summary": "US president has clashed with Federal Reserve members over his bid to rapidly slash interest rates despite inflation.",
+      "title": "Colombia’s new president takes office vowing to ‘crush’ narco-terrorism",
+      "summary": "Right-wing politician Abelardo De La Espriella takes office after narrowly winning June’s presidential runoff.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
-      "publishedAt": "Fri, 07 Aug 2026 23:40:16 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
+      "publishedAt": "Sat, 08 Aug 2026 01:15:53 +0000"
+    },
+    {
+      "title": "Women in Maine may choose the victor in this year's Senate race",
+      "summary": "The race between Susan Collins and Troy Jackson is one of the nation's most high-profile Senate contests this year -- and may ultimately be decided by an especially powerful voting bloc: Maine women.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
+      "publishedAt": "Fri, 07 Aug 2026 16:24:38 -0400"
     },
     {
       "title": "Trump renews push to fire Fed Governor Lisa Cook",
@@ -276,14 +284,6 @@
       "publishedAt": "Fri, 07 Aug 2026 11:41:45 -0400"
     },
     {
-      "title": "Blanche's path to confirmation appears clear after winning key Republican's support",
-      "summary": "A key Republican senator, Bill Cassidy of Louisiana, said he would back Todd Blanche's nomination as attorney general, smoothing the path for his ultimate confirmation by the Senate.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
-      "publishedAt": "Fri, 07 Aug 2026 10:12:59 -0400"
-    },
-    {
       "title": "Spain to introduce temporary border checks on visitors from Italy",
       "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to CeutaSpain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush ",
       "source": "The Guardian",
@@ -323,11 +323,11 @@
       "tempC": 24,
       "description": "partly cloudy",
       "high": 31,
-      "low": 24
+      "low": 23
     },
     {
       "place": "London",
-      "tempC": 19,
+      "tempC": 17,
       "description": "clear sky",
       "high": 28,
       "low": 16
