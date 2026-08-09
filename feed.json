@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T04:15:37.038Z",
+  "updated": "2026-08-09T06:51:10.875Z",
   "news": [
     {
       "title": "Çerçeve yasa teklifi Adalet Komisyonu'nda kabul edildi: Maddeler neler?",
@@ -50,6 +50,20 @@
       "publishedAt": "Sat, 08 Aug 2026 10:27:15 GMT"
     },
     {
+      "title": "Meteoroloji saat saat uyardı. İstanbul'a sağanak geliyor, kuvvetli rüzgara dikkat",
+      "summary": "Yüksek sıcaklık ve nemin bunalttığı İstanbul'da bugün sağanak yağış bekleniyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-09T08:41:51+03:00"
+    },
+    {
+      "title": "Resmi Gazete'de bugün (9 Ağustos 2026 Resmi Gazete kararları)",
+      "summary": "Resmi Gazete'de 9 Ağustos 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 9 Ağustos 2026 tarihli ve 33335 Sayılı Resmi Gazete ayrıntıları.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-09T09:23:41+03:00"
+    },
+    {
       "title": "Yangın sırasında 13'üncü kattan düşerek hayatını kaybetti",
       "summary": "Kayseri’de bir binanın 13'üncü katından yangın çıktı. Evin sahibi, balkondan düşerek hayatını kaybetti.",
       "source": "NTV",
@@ -76,20 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-08-09T04:11:10+03:00"
-    },
-    {
-      "title": "Son dakika Gaziantep'te deprem mi oldu? Az önce deprem Gaziantep'te nerede oldu? Gaziantep deprem Kandilli ve AFAD son depremler listesi 09 Ağustos 2026",
-      "summary": "Son dakika Gaziantep deprem haberleri.. Gaziantep'te deprem mi oldu? Az önce deprem Gaziantep'te nerede oldu? Gaziantep Kandilli ve AFAD son depremler.. 09 Ağustos 2026 Gaziantep deprem son dakika haberleri haberin detayında... Artçı deprem",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-09T04:10:00+03:00"
-    },
-    {
-      "title": "Cinsel istismar şüphelisine hastane bahçesinde infaz",
-      "summary": "Şanlıurfa'da çocuğa cinsel istismar şüphesiyle gözaltına alınan M.A., sağlık kontrolü için götürüldüğü hastanenin bahçesinde mağdurun babası ve ağabeyinin silahlı saldırısında hayatını kaybetti. Seken kurşunlar nedeniyle bir çocuk da ağır y",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-09T02:19:28+03:00"
     },
     {
       "title": "Emekli maaş farkı ödeme tarihi",
@@ -132,12 +132,28 @@
       "publishedAt": "Sat, 08 Aug 2026 21:08:59 GMT"
     },
     {
-      "title": "\"12. Van Denizi Su Sporları Festivali\" başladı",
-      "summary": "Van Gölü'nü tanıtmak ve turizme kazandırmak amacıyla düzenlenen \"12. Van Denizi Su Sporları Festivali\" renkli görüntülerle başladı. Van Gölü'nü sporla, gençlikle ve kültürle buluşturan geleneği yaşattıklarını belirten Van Vali Yardımcısı Me",
+      "title": "Bu manzara mantık sınırlarını zorluyor!",
+      "summary": "Polonya'nın kuzeybatısında yer alan ve görünümüyle yerçekimine meydan okuyan yaklaşık 400 çam ağacı, bilim insanlarını onlarca yıldır şaşırtmaya devam ediyor. Polonya eğri orman gizemi, 1930'lu yıllarda dikilen bu ağaçların gövdelerindeki 9",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/12-van-denizi-su-sporlari-festivali-basladi-3904240",
-      "publishedAt": "Sat, 08 Aug 2026 12:36:33 GMT"
+      "link": "https://www.haberturk.com/bu-manzara-mantik-sinirlarini-zorluyor-bilim-insanlarini-sasirtan-durum-polonya-daki-egri-ormanda-400-agac-neden-ayni-yone-bukuldu-3903049",
+      "publishedAt": "Sun, 09 Aug 2026 05:30:34 GMT"
+    },
+    {
+      "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+      "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 23:43:44 GMT"
+    },
+    {
+      "title": "Hundreds arrested over French wildfires, but who is to blame?",
+      "summary": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 08 Aug 2026 23:59:23 GMT"
     },
     {
       "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
@@ -146,6 +162,14 @@
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 08 Aug 2026 19:18:57 GMT"
+    },
+    {
+      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "summary": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 04:32:06 GMT"
     },
     {
       "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
@@ -164,76 +188,52 @@
       "publishedAt": "Sat, 08 Aug 2026 17:58:42 GMT"
     },
     {
-      "title": "Messi's father Jorge dies aged 68 after illness",
-      "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 15:51:11 GMT"
-    },
-    {
-      "title": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
-      "summary": "The Queen of Pop worked with Orbit several times over the years, most notably on her genre-bending, Grammy Award-winning album Ray of Light.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 17:23:31 GMT"
-    },
-    {
-      "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "summary": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 08 Aug 2026 15:59:37 GMT"
-    },
-    {
-      "title": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
-      "summary": "Utah wildfire suppression efforts continued, with containment standing at 24 percent.",
+      "title": "Wildfire forces thousands of evacuations in Western Canada",
+      "summary": "A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss",
-      "publishedAt": "Sun, 09 Aug 2026 03:09:27 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss",
+      "publishedAt": "Sun, 09 Aug 2026 06:10:08 +0000"
     },
     {
-      "title": "Israeli settler attacks rise as West Bank residents lose land",
-      "summary": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
+      "title": "Lionel Messi returns to Argentina after father Jorge’s death",
+      "summary": "Football star Lionel Messi returned to Argentina with his family on Saturday, a day after his father died.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
-      "publishedAt": "Sun, 09 Aug 2026 01:43:04 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss",
+      "publishedAt": "Sun, 09 Aug 2026 05:18:37 +0000"
     },
     {
-      "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
-      "summary": "Andras Baka, a strong advocate for judicial independence, becomes governing party's pick for Hungary's next president.",
+      "title": "Iran issues new demands as Pezeshkian seeks deal",
+      "summary": "Senior Iranian security official sets broader conditions for reopening Hormuz.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/9/hungary-nominates-former-supreme-court-chief-andras-baka-for-presidency?traffic_source=rss",
-      "publishedAt": "Sun, 09 Aug 2026 00:41:01 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
+      "publishedAt": "Sun, 09 Aug 2026 05:06:02 +0000"
     },
     {
-      "title": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
-      "summary": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
+      "title": "‘Very painful’: Joe Biden’s cancer has spread, son Hunter says",
+      "summary": "Joe Biden’s son, Hunter Biden, says his father’s prostate cancer has “metastasised into his bones and further”.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "publishedAt": "Sun, 09 Aug 2026 00:00:00 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-clip-biden-cancer-us?traffic_source=rss",
+      "publishedAt": "Sun, 09 Aug 2026 05:01:54 +0000"
     },
     {
-      "title": "Turkiye says Mecca defence pact not aimed at Iran",
-      "summary": "Turkiye says the Mecca defence pact with Saudi Arabia and Pakistan does not target Iran.",
+      "title": "Car bomb hits Colombia highway day after new president sworn in",
+      "summary": "A car bomb destroyed a toll booth on a highway in Colombia a day after President Abelardo de la Espriella was sworn in.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
-      "publishedAt": "Sat, 08 Aug 2026 23:59:15 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-colombia-car-bomb-sv-mp4?traffic_source=rss",
+      "publishedAt": "Sun, 09 Aug 2026 04:32:32 +0000"
     },
     {
-      "title": "Vance says US ‘destroyed’ Iran’s nuclear programme",
-      "summary": "US Vice President JD Vance claims Washington has “destroyed” Iran’s nuclear programme and degraded its military.",
+      "title": "Iran seeks way out of ‘neither war nor peace’ stalemate with US",
+      "summary": "Iran President Pezeshkian said he hopes talks with Oman can end the “neither war nor peace” state of relations with US.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
-      "publishedAt": "Sat, 08 Aug 2026 23:27:55 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
+      "publishedAt": "Sun, 09 Aug 2026 04:12:39 +0000"
     },
     {
       "title": "Solar eclipse to occur next week. Here is what to know",
@@ -320,15 +320,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
+      "tempC": 26,
       "description": "partly cloudy",
       "high": 29,
       "low": 25
     },
     {
       "place": "London",
-      "tempC": 19,
-      "description": "clear sky",
+      "tempC": 20,
+      "description": "overcast",
       "high": 32,
       "low": 19
     }
