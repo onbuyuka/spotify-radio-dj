@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T01:23:53.270Z",
+  "updated": "2026-08-09T04:15:37.038Z",
   "news": [
     {
       "title": "Çerçeve yasa teklifi Adalet Komisyonu'nda kabul edildi: Maddeler neler?",
@@ -50,6 +50,27 @@
       "publishedAt": "Sat, 08 Aug 2026 10:27:15 GMT"
     },
     {
+      "title": "Yangın sırasında 13'üncü kattan düşerek hayatını kaybetti",
+      "summary": "Kayseri’de bir binanın 13'üncü katından yangın çıktı. Evin sahibi, balkondan düşerek hayatını kaybetti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-09T04:59:29+03:00"
+    },
+    {
+      "title": "Karadeniz'de insansız deniz aracı bulundu",
+      "summary": "Hopa açıklarında insansız deniz aracı olduğu değerlendirilen bir cisim bulundu. Patlayıcı taşıma ihtimali nedeniyle cisim SAS komandoları tarafından imha edilecek.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-09T04:52:17+03:00"
+    },
+    {
+      "title": "Balkon çöktü, 5 katlı bina boşaltıldı",
+      "summary": "İstanbul'da 5 katlı binanın balkonunda çökme meydana geldi. Tahliye edilen bina mühürlendi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-09T04:26:23+03:00"
+    },
+    {
       "title": "Antalya'daki orman yangını kontrol altına alındı",
       "summary": "Gazipaşa'da ormanlık alanda yangın çıktı. Alevlerin yayılması durduruldu, tedbir amaçlı kapatılan Antalya-Mersin karayolunda ulaşım kontrollü olarak sağlanıyor.",
       "source": "NTV",
@@ -69,27 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-08-09T02:19:28+03:00"
-    },
-    {
-      "title": "Tarım işçisi çocuk boğuldu, kardeşi yaşam savaşı veriyor",
-      "summary": "Ordu'da mevsimlik tarım işçisi iki kardeş ırmağa girdi. Akıntıya kapılan 17 yaşındaki Ersin Ö. hayatını kaybetti, 14 yaşındaki kardeşinin durumu kritik.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-09T01:34:33+03:00"
-    },
-    {
-      "title": "İYİ Parti Grup Başkanvekili Çömez hakkında soruşturma başlatıldı",
-      "summary": "İYİ Parti Grup Başkanvekili Turhan Çömez hakkında \"halkı yanıltıcı bilgiyi alenen yayma\" suçundan re'sen soruşturma başlatıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-09T00:39:07+03:00"
-    },
-    {
-      "title": "Emniyet Genel Müdürlüğüne 6 bin 250 kadro ihdas edildi",
-      "summary": "Emniyet Genel Müdürlüğüne (EGM) 6 bin 250 kadro ihdas edildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-09T00:34:08+03:00"
     },
     {
       "title": "Emekli maaş farkı ödeme tarihi",
@@ -188,6 +188,22 @@
       "publishedAt": "Sat, 08 Aug 2026 15:59:37 GMT"
     },
     {
+      "title": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
+      "summary": "Utah wildfire suppression efforts continued, with containment standing at 24 percent.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss",
+      "publishedAt": "Sun, 09 Aug 2026 03:09:27 +0000"
+    },
+    {
+      "title": "Israeli settler attacks rise as West Bank residents lose land",
+      "summary": "Palestinians near Bethlehem describe daily settler attacks as violence rises across the West Bank.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/09-08-reported-nour-odeh-bethlehem?traffic_source=rss",
+      "publishedAt": "Sun, 09 Aug 2026 01:43:04 +0000"
+    },
+    {
       "title": "Hungary nominates former Supreme Court chief Andras Baka for presidency",
       "summary": "Andras Baka, a strong advocate for judicial independence, becomes governing party's pick for Hungary's next president.",
       "source": "Al Jazeera",
@@ -196,7 +212,7 @@
       "publishedAt": "Sun, 09 Aug 2026 00:41:01 +0000"
     },
     {
-      "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+      "title": "Iran war live: Pezeshkian seeks end to ‘no war, no peace’ amid Hormuz talks",
       "summary": "IRGC sets conditions to reopen Strait of Hormuz as US seeks commitments to end attacks on ships in the waterway.",
       "source": "Al Jazeera",
       "lang": "en",
@@ -218,22 +234,6 @@
       "lang": "en",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
       "publishedAt": "Sat, 08 Aug 2026 23:27:55 +0000"
-    },
-    {
-      "title": "Four killed in helicopter crash in Brazil’s Rio de Janeiro",
-      "summary": "Three Colombian tourists are among the victims of Saturday's crash on mountainside forest of Tijuca National Park.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/8/four-killed-in-helicopter-crash-in-brazils-rio-de-janeiro?traffic_source=rss",
-      "publishedAt": "Sat, 08 Aug 2026 23:19:28 +0000"
-    },
-    {
-      "title": "Crews recover 19 bodies from rubble of destroyed Gaza building",
-      "summary": "More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts hindered by lack of heavy machinery.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/8/crews-recover-19-bodies-from-rubble-of-destroyed-gaza-building?traffic_source=rss",
-      "publishedAt": "Sat, 08 Aug 2026 23:09:30 +0000"
     },
     {
       "title": "Solar eclipse to occur next week. Here is what to know",
@@ -327,7 +327,7 @@
     },
     {
       "place": "London",
-      "tempC": 21,
+      "tempC": 19,
       "description": "clear sky",
       "high": 32,
       "low": 19
