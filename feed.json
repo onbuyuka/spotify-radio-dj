@@ -1,21 +1,13 @@
 {
-  "updated": "2026-08-10T10:13:58.913Z",
+  "updated": "2026-08-10T12:59:58.240Z",
   "news": [
     {
       "title": "Çerçeve yasa TBMM Genel Kurulu'nda görüşülüyor",
-      "summary": "\"Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi\" TBMM Genel Kurulu'nda bugün görüşülüyor. MHP Başkan Yardımcısı Feti Yıldız, teklifin genel kuruldan nitelikli çoğunluk ile geçmesini beklediklerini söyledi",
+      "summary": "\"Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi\" TBMM Genel Kurulu'nda bugün görüşülüyor. MHP Başkan Yardımcısı Feti Yıldız, teklifin genel kuruldan nitelikli çoğunluk ile geçmesini beklediklerini söyledi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cwym8yv19rxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 09:44:15 GMT"
-    },
-    {
-      "title": "Manisa Kula'daki yangın 300'den fazla personelin müdahalesiyle kontrol altına alındı",
-      "summary": "Türkiye'nin farklı noktalarında orman yangınları ile mücadele devam ederken Manisa Valiliği, Kula'daki yangına 300'den fazla personel ve 16 hava aracıyla müdahale edildiğini duyurdu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cd7w7pg8g71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 01:19:03 GMT"
+      "publishedAt": "Mon, 10 Aug 2026 12:27:29 GMT"
     },
     {
       "title": "Mansur Yavaş'tan 'çerçeve yasa' açıklaması: 'Demokratikleşme tek bir mesele üzerinden konuşulamaz'",
@@ -34,6 +26,14 @@
       "publishedAt": "Mon, 10 Aug 2026 00:30:55 GMT"
     },
     {
+      "title": "'Kuzey Kore tarafından kaçırıldım ve ABD'li bir askerle evlenmeye zorlandım'",
+      "summary": "Kuzey Kore tarafından 19 yaşında kaçırılan Hitomi Soga, 24 yıl boyunca ülkede alıkonuldu ve ABD’li bir firari asker ile evlenmeye zorlandı",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ckgdlrel58vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 10:45:53 GMT"
+    },
+    {
       "title": "Avrupa Atletizm Şampiyonası bugün İngiltere'de başlıyor: Türkiye'den rekor katılım",
       "summary": "Avrupa Atletizm Şampiyonası bugün İngiltere'de başlıyor. İki yılda bir düzenlenen şampiyonaya bu sene Türkiye'den rekor sayıda sporcu katılıyor.",
       "source": "BBC Türkçe",
@@ -42,12 +42,40 @@
       "publishedAt": "Mon, 10 Aug 2026 04:23:13 GMT"
     },
     {
-      "title": "İngiltere'de Banksy'nin eserleri kamuya 150 bin sterline mal oldu",
-      "summary": "Sokak sanatçısı Banksy'nin İngiltere'deki üç eseri, şimdiye kadar temizlik çalışmaları ve güvenlik önlemleri nedeniyle vergi mükelleflerine yaklaşık 150 bin sterline mal oldu. Faturanın daha da artması bekleniyor.",
+      "title": "Manisa Kula'daki yangın 300'den fazla personelin müdahalesiyle kontrol altına alındı",
+      "summary": "Türkiye'nin farklı noktalarında orman yangınları ile mücadele devam ederken Manisa Valiliği, Kula'daki yangına 300'den fazla personel ve 16 hava aracıyla müdahale edildiğini duyurdu.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c70gnpr94djo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 04:22:52 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cd7w7pg8g71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 01:19:03 GMT"
+    },
+    {
+      "title": "Sürü halinde suya girdiler, Kelkit Çayı’nı yüzerek geçtiler",
+      "summary": "Gümüşhane’nin Şiran ilçesine bağlı Seydibaba Köyü’nde yüzlerce büyükbaş hayvanın Kelkit Çayı’nı yüzerek geçişi, izleyenlere adeta belgesel sahnelerini aratmayan görüntüler oluşturdu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T15:39:07+03:00"
+    },
+    {
+      "title": "100 bin TL maaş verecek. İlan üstüne ilan verdi, çalışan bulamadı",
+      "summary": "Artvin’in önemli turizm merkezlerinden Şavşat Karagöl’de tesis işletmeciliği yapan Atıf Çiçek, yaz sezonunda artan yoğunluk nedeniyle aşçı arayışına girdi. Çiçek, 100 bin TL maaş teklif ederek çeşitli platformlarda ilan vermesine rağmen çal",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T14:14:49+03:00"
+    },
+    {
+      "title": "AK Parti Üsküdar Belediyesi seçimini yargıya taşıdı",
+      "summary": "AK Parti, Üsküdar Belediye Meclisi'nde 5 Ağustos'ta gerçekleştirilen başkanvekili seçimine iki ayrı suç duyurusunda bulunduklarını açıkladı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T14:01:50+03:00"
+    },
+    {
+      "title": "İletişim Başkanlığı'ndan “Sevr’in yıl dönümünde Meclis’e getirildi” iddiasına yalanlama",
+      "summary": "Dezenformasyonla Mücadele Merkezi, \"Çerçeve Yasa'nın\" Sevr Antlaşması’nın yıl dönümünde kasıtlı olarak gündeme alındığı iddiasını yalanladı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T13:56:34+03:00"
     },
     {
       "title": "Samsun'da sağanak etkili oldu: Araçlar yollarda mahsur kaldı",
@@ -64,32 +92,12 @@
       "publishedAt": "2026-08-10T13:01:26+03:00"
     },
     {
-      "title": "Kalp krizi geçiren vatandaşı kurtarmak için ekipler seferber oldu",
-      "summary": "Kayseri'nin Develi ilçesinde yolda yürürken kalp krizi geçirerek yere yığılan vatandaşı kurtarmak için sağlık ekipleri zamanla yarıştı.",
-      "source": "NTV",
+      "title": "Etna Yanardağı'nda patlama",
+      "summary": "İtalya'nın Sicilya bölgesindeki Katanya kentinde bulunan Etna Yanardağı'nın, Voragine zirve kraterinde 6 Ağustos akşamı başlayan yoğun aktivite devam ediyor",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-10T12:12:13+03:00"
-    },
-    {
-      "title": "UltrAslan liderinin evinden servet çıktı. Sebahattin Şirin'in evinde 8.5 saat süren arama",
-      "summary": "UltrAslan tribün lideri Sebahattin (Muzaffer) Şirin'in gözaltına alınmasının ardından şüphelinin evinde 8,5 buçuk saat süren arama yapıldı. Aramada yüklü miktarda para ve ruhsatsız silah bulundu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-10T12:07:49+03:00"
-    },
-    {
-      "title": "İzmir ve Muğla’da göçmen kaçakçılığı operasyonu: 4 tutuklama",
-      "summary": "Jandarma ve Sahil Güvenlik ekiplerinin ortak operasyonunda 9 göçmen kaçakçılığı organizatörü ile 132 düzensiz göçmen yakalandı. Şüphelilerden 4’ü tutuklandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-10T12:01:40+03:00"
-    },
-    {
-      "title": "6 şişe satıp günlük 400 TL kazanıyorlar. Akşam ezanına kadar durup eve gidiyorlar",
-      "summary": "Eskişehir'de ortaokula geçen iki arkadaş, yaz tatilini boş geçirmemek ve okul harçlıklarını çıkarmak amacıyla sokakta limonata satmaya başladı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-10T11:54:31+03:00"
+      "link": "https://www.haberturk.com/italya-daki-etna-yanardagi-nda-patlama-kul-bulutu-ucuslari-aksatti-3904590",
+      "publishedAt": "Mon, 10 Aug 2026 11:19:56 GMT"
     },
     {
       "title": "YKS tercihleri ne zaman bitiyor?",
@@ -132,20 +140,20 @@
       "publishedAt": "Mon, 10 Aug 2026 09:28:38 GMT"
     },
     {
-      "title": "Banka banka promosyon kampanyaları",
-      "summary": "Ağustos ayı itibarıyla emekli promosyon kampanyaları yeniden güncellenirken, milyonlarca emekli en yüksek ödemeyi yapan bankaları araştırıyor. Kamu ve özel bankalar, emekli maaşını taşıyan müşterilerine nakit promosyonun yanı sıra ek kampan",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/emekli-promosyon-kampanyalari-2026-agustos-en-yuksek-emekli-promosyonunu-hangi-banka-veriyor-iste-banka-banka-guncel-promosyonlar-3904427",
-      "publishedAt": "Mon, 10 Aug 2026 09:28:47 GMT"
-    },
-    {
-      "title": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
-      "summary": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+      "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "summary": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 10:03:58 GMT"
+      "publishedAt": "Mon, 10 Aug 2026 12:54:13 GMT"
+    },
+    {
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 23:05:29 GMT"
     },
     {
       "title": "China evacuates one million from homes as massive storm arrives",
@@ -164,92 +172,92 @@
       "publishedAt": "Mon, 10 Aug 2026 09:51:07 GMT"
     },
     {
-      "title": "'Body in suitcase' found in Australia turns out to be lifelike doll",
-      "summary": "Forensics revealed that the 'realistic' looking body was in fact not human.",
+      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 05:16:40 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 12:23:21 GMT"
     },
     {
-      "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "title": "World's oceans hit record-high July temperatures",
+      "summary": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 09:33:25 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 10:24:46 GMT"
     },
     {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 21:25:04 GMT"
-    },
-    {
-      "title": "Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare",
-      "summary": "World No. 2 Elena Rybakina rallies to beat unseeded Liudmila Samsonova while stars Naomi Osaka, Coco Gauff progress.",
+      "title": "Taiwan holds military drills to prepare for invasion by China",
+      "summary": "Taiwan holds military drills to prepare for invasion by China",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 09:25:13 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 12:09:08 +0000"
     },
     {
-      "title": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
-      "summary": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+      "title": "Former MP opens fire in Thailand’s second shooting within days",
+      "summary": "A second shooting has occurred in Thailand within days after a former MP opened fire outside a government office.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 09:20:12 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/former-mp-opens-fire-in-thailands-second-shooting-within-days?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 12:00:29 +0000"
     },
     {
-      "title": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
-      "summary": "They carry ammunition, can conduct kamikaze missions and have shown they can capture enemy positions.",
+      "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
+      "summary": "Al Jazeera is given rare access to one of Ukraine's long-range drone units tasked with targeting Russia.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 09:09:08 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 11:51:28 +0000"
     },
     {
-      "title": "China evacuates a million from homes as Typhoon Dolphin arrives",
-      "summary": "China evacuates a million from homes as Typhoon Dolphin arrives",
+      "title": "UEFA Super Cup – PSG vs Aston Villa: Prediction, start time, how to watch",
+      "summary": "As Champions League and Europa League winners face off, here is everything to know on the venue, history and more.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 08:44:34 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/10/uefa-super-cup-psg-vs-aston-villa-prediction-start-time-how-to-watch?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 11:28:23 +0000"
     },
     {
-      "title": "Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup",
-      "summary": "Outsiders Malawi qualify for their first FIFA World Cup, while defending champions Nigeria are eliminated by Cameroon.",
+      "title": "Protesters rally in India’s Jharkhand over alleged exam irregularities",
+      "summary": "Demonstrators in Ranchi demand an overhaul of ‌the state's examination system.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 08:39:25 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 11:23:48 +0000"
     },
     {
-      "title": "Pakistan-administered Kashmir votes in reduced third phase amid unrest",
-      "summary": "Voting postponed in seven of 11 Poonch division constituencies as boycott calls and violence mar the region's elections.",
+      "title": "Remembering Anas, Mohammed and Gaza’s other slain journalists",
+      "summary": "Our colleagues in Gaza have taken the journalism profession to an unseen level. In doing so, they've paid a heavy price.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 08:05:05 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 11:17:16 +0000"
     },
     {
-      "title": "Voters are sick of the two-party system. A new poll shows they're open to big changes",
-      "summary": "A new poll shows support for moving the U.S. toward proportional representation, a system that elects multiple representatives in a single district in rough proportion to a party's vote share.",
+      "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
+      "summary": "Days of heavy monsoon rain has caused rivers, including the Brahmaputra, to overflow, inundating communities, disrupting livelihoods and damaging infrastructure.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-      "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
+      "publishedAt": "Mon, 10 Aug 2026 08:39:05 -0400"
     },
     {
-      "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-      "summary": "Lindell, of \"MyPillow,\" plays up his ties to Trump, who endorsed him for Tuesday's primary. But the state Republican convention backed one of his opponents.",
+      "title": "Decades of abuse revealed at Michigan art school. And, the Iran war's impact on midterms",
+      "summary": "A new report has revealed decades of alleged abuse at an elite art school. NPR spoke with one of the victims. And, Iran is playing the long game with negotiations, which could impact midterms.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-      "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/08/10/g-s1-138013/up-first-newsletter-epstein-interlochen-center-for-the-arts-trump-iran-midterms-wildfires",
+      "publishedAt": "Mon, 10 Aug 2026 07:42:58 -0400"
+    },
+    {
+      "title": "Some disabled people want to advance their careers. They say Medicaid rules stop them",
+      "summary": "Medicaid will have new work requirements next year. But some people with disabilities, who already work, say they'd like to work more, but risk losing their Medicaid coverage if they earn too much.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
+      "publishedAt": "Mon, 10 Aug 2026 07:00:00 -0400"
     },
     {
       "title": "An arts school where Epstein allegedly preyed on students reveals decades of abuse",
@@ -268,19 +276,11 @@
       "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "Who really needs testosterone?",
-      "summary": "The military plans to start screening service members for low testosterone, and social media is overflowing with claims about testosterone therapy. But who actually needs it?",
+      "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
+      "summary": "Lindell, of \"MyPillow,\" plays up his ties to Trump, who endorsed him for Tuesday's primary. But the state Republican convention backed one of his opponents.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
-      "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400"
-    },
-    {
-      "title": "The FAA wants to reboot the nation's airspace. This airline shows how it might work",
-      "summary": "When Alaska Airlines wanted to optimize its operations, it turned to a small startup called Air Space Intelligence. Now the FAA has hired the company for a major reboot of the entire U.S. airspace.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
       "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400"
     },
     {
@@ -327,8 +327,8 @@
     },
     {
       "place": "London",
-      "tempC": 23,
-      "description": "mainly clear",
+      "tempC": 25,
+      "description": "overcast",
       "high": 27,
       "low": 19
     }
