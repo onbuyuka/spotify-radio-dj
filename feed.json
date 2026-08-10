@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T04:26:58.731Z",
+  "updated": "2026-08-10T07:25:45.940Z",
   "news": [
     {
       "title": "Manisa Kula'daki yangın 300'den fazla personelin müdahalesiyle kontrol altına alındı",
@@ -8,14 +8,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cd7w7pg8g71o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 10 Aug 2026 01:19:03 GMT"
-    },
-    {
-      "title": "Avrupa Atletizm Şampiyonası bugün İngiltere'de başlıyor: Türkiye'den rekor katılım",
-      "summary": "Avrupa Atletizm Şampiyonası bugün İngiltere'de başlıyor. İki yılda bir düzenlenen şampiyonaya bu sene Türkiye'den rekor sayıda sporcu katılıyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cjd49v7nl77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 04:23:13 GMT"
     },
     {
       "title": "Mansur Yavaş'tan 'çerçeve yasa' açıklaması: 'Demokratikleşme tek bir mesele üzerinden konuşulamaz'",
@@ -42,6 +34,14 @@
       "publishedAt": "Mon, 10 Aug 2026 00:30:55 GMT"
     },
     {
+      "title": "Avrupa Atletizm Şampiyonası bugün İngiltere'de başlıyor: Türkiye'den rekor katılım",
+      "summary": "Avrupa Atletizm Şampiyonası bugün İngiltere'de başlıyor. İki yılda bir düzenlenen şampiyonaya bu sene Türkiye'den rekor sayıda sporcu katılıyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cjd49v7nl77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 04:23:13 GMT"
+    },
+    {
       "title": "Afrika'daki aşırı sıcaklara develer bile dayanamıyor",
       "summary": "Çobanlar ve uzmanlar BBC'ye Afrika'daki develerin aşırı sıcaklar nedeniyle çektiği sıkıntıları anlattı.",
       "source": "BBC Türkçe",
@@ -50,46 +50,46 @@
       "publishedAt": "Mon, 10 Aug 2026 02:30:34 GMT"
     },
     {
+      "title": "Adalet Bakanı Gürlek, Muhsin Yazıcıoğlu'nun ailesiyle görüşecek",
+      "summary": "Adalet Bakanı Akın Gürlek, bugün merhum Büyük Birlik Partisi (BBP) Genel Başkanı Muhsin Yazıcıoğlu’nun ailesini Adalet Bakanlığı’nda kabul edecek.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T10:18:32+03:00"
+    },
+    {
+      "title": "Denizde can pazarı: Dalgalara kapılan 2 kişi kurtarıldı, 14 yaşındaki çocuk boğuldu",
+      "summary": "Hatay'ın Samandağ ilçesinde ‘denize girmeyin' uyarısına aldırış etmeyen 3 kişinin dalgalara kapılarak verdikleri mücadele kameraya yansıdı. Şahıslardan 2'si ekipler tarafından kurtarılırken, denizde kaybolan 14 yaşındaki çocuğun cansız bede",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T08:30:43+03:00"
+    },
+    {
+      "title": "Resmi Gazete'de bugün (10 Ağustos 2026 Resmi Gazete kararları)",
+      "summary": "Resmi Gazete'de 10 Ağustos 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 10 Ağustos 2026 tarihli ve 33336 Sayılı Resmi Gazete ayrıntıları.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T08:23:43+03:00"
+    },
+    {
+      "title": "30 il için Meteoroloji'den uyarı geldi. Gök gürültülü sağanak, aşırı sıcak ve nem bunaltacak (Bu hafta hava nasıl olacak?)",
+      "summary": "Yurt genelinde yeni haftada aşırı sıcaklıklarla birlikte yüksek nem de etkili olmaya devam edecek. 30 kentte ise gök gürültülü sağanak yağış bekleniyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T09:07:21+03:00"
+    },
+    {
+      "title": "Meclis'te kritik pazartesi. Terörsüz Türkiye teklifi Genel Kurul'da",
+      "summary": "Terörsüz Türkiye süreci için hazırlanan ve Meclis Adalet Komisyonu'nda 17.5 saat süren mesainin ardından kabul edilen Çerçeve Yasa teklifi, bugün Genel Kurul gündemine geliyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T08:02:20+03:00"
+    },
+    {
       "title": "Telefondaki tartışma kanlı bitti. 77 yaşındaki adam iki genci katletti",
       "summary": "Afyonkarahisar'da 77 yaşındaki S.Y., oğluyla telefonda tartıştıktan sonra evlerinin önüne giden iki genci silahla vurarak öldürdü.",
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-08-10T04:03:58+03:00"
-    },
-    {
-      "title": "Oteldeki havuz bakımı 15 kişiyi hastanelik etti",
-      "summary": "Bodrum'da bir otelde havuz bakımı sırasında sızan gazın zehirlediği 15 kişi hastaneye kaldırıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-10T02:23:47+03:00"
-    },
-    {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Ağustos 2026",
-      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-10T07:00:00+03:00"
-    },
-    {
-      "title": "Şehit aileleri ve gazilere yeni haklar. Düzenleme TBMM'de kabul edildi",
-      "summary": "Şehit aileleri ve gazilerin haklarına yönelik düzenlemeleri içeren kanun teklifi TBMM Genel Kurulu'nda kabul edildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-10T00:49:16+03:00"
-    },
-    {
-      "title": "15 Temmuz Şehitler Köprüsü'ne Mekke Anlaşması'na özel ışıklandırma",
-      "summary": "İstanbul'un simge yapılarından 15 Temmuz Şehitler Köprüsü Mekke Ortak Savunma Anlaşması kapsamında ülke bayraklarının renkleriyle aydınlatıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-10T00:17:10+03:00"
-    },
-    {
-      "title": "Kemal Kılıçdaroğlu'ndan Terörsüz Türkiye'ye destek mesajı",
-      "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, Terörsüz Türkiye sürecine dair \"Bu süreç bir bölünme süreci değil, tam tersine yaraları sarma, kardeşliği güçlendirme sürecidir.\" dedi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-09T22:45:48+03:00"
     },
     {
       "title": "YKS tercihleri ne zaman bitiyor?",
@@ -188,6 +188,38 @@
       "publishedAt": "Mon, 10 Aug 2026 03:33:51 GMT"
     },
     {
+      "title": "Solar eclipse tracker: What time will it hit your location on August 12?",
+      "summary": "On August 12, nearly one billion people could see a partial solar eclipse, with 15 million in its path of totality.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 07:10:32 +0000"
+    },
+    {
+      "title": "What’s driving unrest in Pakistan-administered Kashmir?",
+      "summary": "What's driving unrest in Pakistan-administered Kashmir?",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 06:26:04 +0000"
+    },
+    {
+      "title": "Wildfires bear down on homes in Canada’s Okanagan region",
+      "summary": "A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 04:49:42 +0000"
+    },
+    {
+      "title": "Trump names Will Scharf as White House counsel ahead of midterms",
+      "summary": "Trump has named White House Staff Secretary Will Scharf as White House counsel, starting from September 1.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 04:00:21 +0000"
+    },
+    {
       "title": "Brazilian player falls into tunnel celebrating goal",
       "summary": "Footage shows Brazilian player Jacy Maranhão falling into the players’ tunnel after jumping over advertising boards.",
       "source": "Al Jazeera",
@@ -202,38 +234,6 @@
       "lang": "en",
       "link": "https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss",
       "publishedAt": "Mon, 10 Aug 2026 03:48:19 +0000"
-    },
-    {
-      "title": "Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz",
-      "summary": "Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 03:24:38 +0000"
-    },
-    {
-      "title": "Clashes in Iraq’s Kut city during protests over power shortages",
-      "summary": "Protests over power shortages escalated in Kut, Iraq, as demonstrators demanded more electricity amid soaring heat.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_kut-protests-escalate-over-iraqs-electricity-crisis-090826?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 03:03:59 +0000"
-    },
-    {
-      "title": "Israel confirms death of Palestinian detainee, nearly two years late",
-      "summary": "The family of Ihab Diab disputes Israeli claims of health issues, alleging torture was behind his prison death.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/10/israel-confirms-death-of-palestinian-detainee-nearly-two-years-late?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 02:59:45 +0000"
-    },
-    {
-      "title": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
-      "summary": "Malaysia's government says Anwar, 79, is undergoing medical examinations and a procedure advised by his specialists.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/10/malaysian-pm-anwar-ibrahim-undergoes-medical-procedure?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 02:48:51 +0000"
     },
     {
       "title": "The view from the proving grounds for next-generation nuclear reactors, Atomic City, Idaho",
@@ -320,7 +320,7 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 24,
+      "tempC": 27,
       "description": "partly cloudy",
       "high": 29,
       "low": 24
@@ -328,9 +328,9 @@
     {
       "place": "London",
       "tempC": 20,
-      "description": "overcast",
+      "description": "clear sky",
       "high": 27,
-      "low": 20
+      "low": 19
     }
   ],
   "facts": [
