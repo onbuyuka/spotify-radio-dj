@@ -1,29 +1,29 @@
 {
-  "updated": "2026-08-10T12:59:58.240Z",
+  "updated": "2026-08-10T15:57:36.645Z",
   "news": [
+    {
+      "title": "Türkiye, Pakistan ve Suudi Arabistan arasındaki anlaşma bölgede nasıl yorumlandı?",
+      "summary": "Türkiye, Suudi Arabistan ve Pakistan, 7 Ağustos'ta ortak savunma anlaşması imzaladı. Türkiye ve Pakistan'dan yapılan açıklamada, anlaşmanın hiçbir ülkeyi hedef almadığı ve bölgedeki tüm ülkelerin katılımına açık olduğu vurgulandı. Peki anla",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cr4910593rpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:10:08 GMT"
+    },
     {
       "title": "Çerçeve yasa TBMM Genel Kurulu'nda görüşülüyor",
       "summary": "\"Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun Teklifi\" TBMM Genel Kurulu'nda bugün görüşülüyor. MHP Başkan Yardımcısı Feti Yıldız, teklifin genel kuruldan nitelikli çoğunluk ile geçmesini beklediklerini söyledi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cwym8yv19rxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 12:27:29 GMT"
+      "publishedAt": "Mon, 10 Aug 2026 14:27:14 GMT"
     },
     {
-      "title": "Mansur Yavaş'tan 'çerçeve yasa' açıklaması: 'Demokratikleşme tek bir mesele üzerinden konuşulamaz'",
+      "title": "Yavaş'tan 'çerçeve yasa' açıklaması: 'Demokratikleşme tek mesele üzerinden konuşulamaz'",
       "summary": "TBMM Başkanlığı'na sunulan yeni çözüm sürecinin hukuki zeminini oluşturacak çerçeve yasa teklifi ile ilgili siyasi partilerden açıklamalar gelmeye devam ediyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cwylxpkr49zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 10 Aug 2026 00:12:36 GMT"
-    },
-    {
-      "title": "Gazi ve şehit yakınlarının haklarına yönelik yasa TBMM'de kabul edildi",
-      "summary": "AKP ve MHP'nin, çözüm sürecine dair çerçeve yasa ile eşzamanlı olarak TBMM'ye sunduğu, şehit yakınları ve gazilerin haklarına yönelik düzenlemeleri içeren kanun teklifi Meclis'te kabul edilerek yasalaştı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cdx7rlzrxqko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 00:30:55 GMT"
     },
     {
       "title": "'Kuzey Kore tarafından kaçırıldım ve ABD'li bir askerle evlenmeye zorlandım'",
@@ -42,12 +42,47 @@
       "publishedAt": "Mon, 10 Aug 2026 04:23:13 GMT"
     },
     {
-      "title": "Manisa Kula'daki yangın 300'den fazla personelin müdahalesiyle kontrol altına alındı",
-      "summary": "Türkiye'nin farklı noktalarında orman yangınları ile mücadele devam ederken Manisa Valiliği, Kula'daki yangına 300'den fazla personel ve 16 hava aracıyla müdahale edildiğini duyurdu.",
+      "title": "Etimesgut Belediyesi'nde Erdal Beşikçioğlu yerine yine CHP'nin adayı seçildi",
+      "summary": "Ankara'da yürütülen soruşturma kapsamında tutuklanan ve görevden uzaklaştırılan Etimesgut Belediye Başkanı Erdal Beşikçioğlu'nun yerine yine CHP'nin adayı Seda Dilber seçildi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cd7w7pg8g71o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 01:19:03 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cq5630yz169o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:56:28 GMT"
+    },
+    {
+      "title": "Etimesgut Belediyesi'nde başkan vekili belli oldu",
+      "summary": "Etimesgut Belediyesi'nde başkan vekilliği seçimini CHP adayı Seda Dilber kazandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T18:19:38+03:00"
+    },
+    {
+      "title": "Koreli fenomeni Taksim'de taciz etmişti. Şüpheli yakalandı",
+      "summary": "Taksim'de canlı yayın sırasında Güney Koreli yayıncıyı taciz eden şüpheli yakalandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T16:46:40+03:00"
+    },
+    {
+      "title": "FETÖ'nün suikast timindeki Burkay Karatepe'nin ablası adliyede",
+      "summary": "15 Temmuz darbe girişiminde Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik suikast timinde yer alan firari FETÖ'cü Burkay Karatepe'nin ablası Ayşe Alanur Karatepe, adliyeye sevk edildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T16:35:56+03:00"
+    },
+    {
+      "title": "Kırıkkale'de dilencinin üzerinden 25 bin 190 lira çıktı",
+      "summary": "Kırıkkale'de zabıta ekiplerince yakalanan dilencinin üzerinden 25 bin 190 lira çıktı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T16:08:41+03:00"
+    },
+    {
+      "title": "Gazeteci Burhan Can Terzi gözaltına alındı",
+      "summary": "Spor muhabiri Burhan Can Terzi, halkı yanıltıcı bilgiyi alenen yayma suçundan gözaltına alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-10T16:01:10+03:00"
     },
     {
       "title": "Sürü halinde suya girdiler, Kelkit Çayı’nı yüzerek geçtiler",
@@ -57,39 +92,12 @@
       "publishedAt": "2026-08-10T15:39:07+03:00"
     },
     {
-      "title": "100 bin TL maaş verecek. İlan üstüne ilan verdi, çalışan bulamadı",
-      "summary": "Artvin’in önemli turizm merkezlerinden Şavşat Karagöl’de tesis işletmeciliği yapan Atıf Çiçek, yaz sezonunda artan yoğunluk nedeniyle aşçı arayışına girdi. Çiçek, 100 bin TL maaş teklif ederek çeşitli platformlarda ilan vermesine rağmen çal",
-      "source": "NTV",
+      "title": "Bana Masal Anlatma filminin konusu ve oyuncuları",
+      "summary": "Bana Masal Anlatma filmi, romantik komedi türündeki yapısıyla TRT 1 ekranlarında izleyicilerle buluşmaya hazırlanıyor. Burak Aksak'ın yönetmenliğini ve senaristliğini üstlendiği film, sıradan bir mahallede yaşayan Rıza'nın hayatının Ayperi ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-10T14:14:49+03:00"
-    },
-    {
-      "title": "AK Parti Üsküdar Belediyesi seçimini yargıya taşıdı",
-      "summary": "AK Parti, Üsküdar Belediye Meclisi'nde 5 Ağustos'ta gerçekleştirilen başkanvekili seçimine iki ayrı suç duyurusunda bulunduklarını açıkladı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-10T14:01:50+03:00"
-    },
-    {
-      "title": "İletişim Başkanlığı'ndan “Sevr’in yıl dönümünde Meclis’e getirildi” iddiasına yalanlama",
-      "summary": "Dezenformasyonla Mücadele Merkezi, \"Çerçeve Yasa'nın\" Sevr Antlaşması’nın yıl dönümünde kasıtlı olarak gündeme alındığı iddiasını yalanladı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-10T13:56:34+03:00"
-    },
-    {
-      "title": "Samsun'da sağanak etkili oldu: Araçlar yollarda mahsur kaldı",
-      "summary": "Samsun'da etkili olan sağanak yağmur nedeniyle kent genelindeki bazı cadde ve yollarda su birikintileri oluştu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-10T13:10:33+03:00"
-    },
-    {
-      "title": "Ankara'da soğan torbaları içinden 150 kilo uyuşturucu ele geçirildi",
-      "summary": "Ankara'nın Haymana ilçesinde soğan yüklü bir TIR'da yapılan aramada, torbalar içine zulalanmış yaklaşık 150 kilogram metamfetamin ele geçirildi",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-10T13:01:26+03:00"
+      "link": "https://www.haberturk.com/bana-masal-anlatma-filminin-konusu-nedir-bana-masal-anlatma-oyunculari-kimler-ne-zaman-nerede-cekildi-3904668",
+      "publishedAt": "Mon, 10 Aug 2026 15:36:43 GMT"
     },
     {
       "title": "Etna Yanardağı'nda patlama",
@@ -121,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/masterchef-kim-elendi-9-agustos-pazar-2026-masterchef-te-ana-kadroya-yedeklerden-kim-girdi-3904432",
-      "publishedAt": "Mon, 10 Aug 2026 09:29:02 GMT"
+      "publishedAt": "Mon, 10 Aug 2026 13:24:51 GMT"
     },
     {
       "title": "Teknika Plast halka arz tarihleri",
@@ -132,52 +140,12 @@
       "publishedAt": "Sun, 09 Aug 2026 22:42:47 GMT"
     },
     {
-      "title": "Sturm Graz Fenerbahçe maçı ne zaman?",
-      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi 3. eleme turunda Sturm Graz karşısında aldığı avantajlı sonucun ardından gözünü rövanş mücadelesine çevirdi. İlk maçı 2-0'lık skorla kazanan temsilcimiz tur kapsını araladı. Sarı-lacivertliler, Avusturya de",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/sturm-graz-fenerbahce-maci-ne-zaman-saat-kacta-sampiyonlar-ligi-sturm-graz-fenerbahce-rovans-maci-hangi-kanalda-3904428",
-      "publishedAt": "Mon, 10 Aug 2026 09:28:38 GMT"
-    },
-    {
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "summary": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
+      "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 12:54:13 GMT"
-    },
-    {
-      "title": "Evidence that South African special forces murdered top detective shared with BBC",
-      "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 09 Aug 2026 23:05:29 GMT"
-    },
-    {
-      "title": "China evacuates one million from homes as massive storm arrives",
-      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 07:23:54 GMT"
-    },
-    {
-      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
-      "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 09:51:07 GMT"
-    },
-    {
-      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-      "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 10 Aug 2026 12:23:21 GMT"
+      "publishedAt": "Mon, 10 Aug 2026 14:34:25 GMT"
     },
     {
       "title": "World's oceans hit record-high July temperatures",
@@ -188,52 +156,92 @@
       "publishedAt": "Mon, 10 Aug 2026 10:24:46 GMT"
     },
     {
-      "title": "Taiwan holds military drills to prepare for invasion by China",
-      "summary": "Taiwan holds military drills to prepare for invasion by China",
-      "source": "Al Jazeera",
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "summary": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/taiwan-holds-military-drills-to-prepare-for-invasion-by-china?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 12:09:08 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:43:08 GMT"
     },
     {
-      "title": "Former MP opens fire in Thailand’s second shooting within days",
-      "summary": "A second shooting has occurred in Thailand within days after a former MP opened fire outside a government office.",
-      "source": "Al Jazeera",
+      "title": "Evidence that South African special forces murdered top detective shared with BBC",
+      "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/former-mp-opens-fire-in-thailands-second-shooting-within-days?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 12:00:29 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 09 Aug 2026 23:05:29 GMT"
     },
     {
-      "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
-      "summary": "Al Jazeera is given rare access to one of Ukraine's long-range drone units tasked with targeting Russia.",
-      "source": "Al Jazeera",
+      "title": "Former Thai MP allegedly kills official and confesses on YouTube",
+      "summary": "Chalong Riewrang called a YouTube livestream to say he had shot a government official.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 11:51:28 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 15:21:27 GMT"
     },
     {
-      "title": "UEFA Super Cup – PSG vs Aston Villa: Prediction, start time, how to watch",
-      "summary": "As Champions League and Europa League winners face off, here is everything to know on the venue, history and more.",
-      "source": "Al Jazeera",
+      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/10/uefa-super-cup-psg-vs-aston-villa-prediction-start-time-how-to-watch?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 11:28:23 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 10 Aug 2026 12:23:21 GMT"
     },
     {
-      "title": "Protesters rally in India’s Jharkhand over alleged exam irregularities",
-      "summary": "Demonstrators in Ranchi demand an overhaul of ‌the state's examination system.",
+      "title": "Earthquake with 7.4 magnitude hits Colombia, killing at least 20",
+      "summary": "Emergency teams are still assessing the impact of the quake that was felt across the region.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/10/protesters-rally-in-indias-jharkhand-over-alleged-exam-irregularities?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 11:23:48 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/10/7-4-magnitude-earthquake-hits-colombia-killing-at-least-20?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:57:08 +0000"
     },
     {
-      "title": "Remembering Anas, Mohammed and Gaza’s other slain journalists",
-      "summary": "Our colleagues in Gaza have taken the journalism profession to an unseen level. In doing so, they've paid a heavy price.",
+      "title": "Indian police attack protesters seeking action over ‘exam irregularities’",
+      "summary": "Indian police attack protesters seeking action over ‘exam irregularities’ in Jharkhand.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss",
-      "publishedAt": "Mon, 10 Aug 2026 11:17:16 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/indian-police-attack-protesters-seeking-action-over-exam?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:52:32 +0000"
+    },
+    {
+      "title": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+      "summary": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:18:52 +0000"
+    },
+    {
+      "title": "How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed",
+      "summary": "After his Senate primary win in Michigan, the Egyptian American doctor faced a coordinated digital smear campaign.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/10/how-the-us-far-right-weaponised-inshallah-against-abdul-el-sayed?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:13:00 +0000"
+    },
+    {
+      "title": "War on Iran: Phase II: Day 30",
+      "summary": "Donald Trump says the US is only ‘semi-negotiating’ with Iran.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/war-on-iran-phase-ii-day-30?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:07:04 +0000"
+    },
+    {
+      "title": "Record 230 people reach UK on single boat after crossing English Channel",
+      "summary": "The government has accused people smugglers of 'cramming' migrants onto 'unseaworthy vessels' and putting lives at risk.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/10/record-230-people-reach-uk-on-single-boat-after-crossing-english-channel?traffic_source=rss",
+      "publishedAt": "Mon, 10 Aug 2026 14:02:38 +0000"
+    },
+    {
+      "title": "Does spending money make you feel bad? Read this comic",
+      "summary": "If spending — or not spending — money makes you feel shame or regret, you might be grappling with financial guilt. Financial planner Lauryn Williams breaks down three types and how to deal.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/10/nx-s1-5860936/does-spending-money-make-you-feel-bad-read-this-comic",
+      "publishedAt": "Mon, 10 Aug 2026 10:20:35 -0400"
     },
     {
       "title": "Flood death toll in India's Assam reaches 100 as thousands lose their homes",
@@ -276,14 +284,6 @@
       "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "Mike Lindell touts Trump ties in race for governor of Minnesota, where Trump has lost",
-      "summary": "Lindell, of \"MyPillow,\" plays up his ties to Trump, who endorsed him for Tuesday's primary. But the state Republican convention backed one of his opponents.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-      "publishedAt": "Mon, 10 Aug 2026 05:00:00 -0400"
-    },
-    {
       "title": "Spain to introduce temporary border checks on visitors from Italy",
       "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to CeutaSpain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush ",
       "source": "The Guardian",
@@ -320,14 +320,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 29,
-      "description": "mainly clear",
+      "tempC": 26,
+      "description": "partly cloudy",
       "high": 29,
       "low": 24
     },
     {
       "place": "London",
-      "tempC": 25,
+      "tempC": 27,
       "description": "overcast",
       "high": 27,
       "low": 19
