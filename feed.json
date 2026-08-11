@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-11T09:57:28.939Z",
+  "updated": "2026-08-11T12:56:11.699Z",
   "news": [
+    {
+      "title": "ABD basını: Trump, Türkiye'de yemek konteynırında uçak değiştirdi",
+      "summary": "ABD medyası, Donald Trump'ın, Türkiye'deki NATO zirvesinden ayrılırken olası bir İran tehdidine karşılık uçağını gizlilik içerisinde değiştirdiğine dair yeni detayları haber yaptı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ceqewvj141eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 10:53:10 GMT"
+    },
     {
       "title": "Esad, Suriye'de gıyabında idama mahkum edildi",
       "summary": "Suriye'de bir mahkeme, ülkenin eski Devlet Başkanı Beşar Esad'ı \"savaş suçları\" ve \"insanlığa karşı suçlar\" işlediği gerekçesiyle gıyabında idama mahkum etti.",
@@ -18,14 +26,6 @@
       "publishedAt": "Tue, 11 Aug 2026 07:54:37 GMT"
     },
     {
-      "title": "İran'ın Hürmüz Boğazı'nı açmak için Trump'tan altı talebi",
-      "summary": "İran ve Umman'ın, stratejik öneme sahip Hürmüz Boğazı'ndan geçişi yönetecek yeni bir düzenleme konusundaki görüşmelerin 'olumlu' geçtiği ve ileri aşamada olduğuna dair açıklamaları, gemi trafiğinin yeniden başlaması umutlarını artırdı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cvgx3mej8elo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 02:45:41 GMT"
-    },
-    {
       "title": "Trump Infantino'yu savundu: 'Görevden alınması korkunç bir hata olur'",
       "summary": "ABD Başkanı Donald Trump, FIFA Başkanı Gianni Infantino'nun görevden alınmasının \"korkunç bir hata\" olacağını savundu",
       "source": "BBC Türkçe",
@@ -34,12 +34,12 @@
       "publishedAt": "Tue, 11 Aug 2026 08:54:58 GMT"
     },
     {
-      "title": "Avrupa Atletizm Şampiyonası'nda ilk gün: İki Türk atlet finalde",
-      "summary": "10 Ağustos'ta İngiltere'de başlayan Avrupa Atletizm Şampiyonası'nın ilk gününde Tuğba Danışmaz üç adım atlamada Tuğba Yenigün ise 3.000 metre engelde finale yükselmeyi başardı.",
+      "title": "Perseid meteor yağmuru Türkiye'de nasıl izlenebilir?",
+      "summary": "Meteor yağmurunu izlemek için en uygun zaman, yoğunluğun zirveye ulaştığı geceler olacak. Bu yıl en iyi gözlem zamanı, 12 ve 13 Ağustos'ta gece yarısı ile gün doğumu arasındaki erken saatler.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cjd49v7nl77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 05:07:52 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c935ye3z010o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 11 Aug 2026 11:07:27 GMT"
     },
     {
       "title": "'Çerçeve yasa' Meclis'ten geçti",
@@ -50,11 +50,39 @@
       "publishedAt": "Tue, 11 Aug 2026 07:51:28 GMT"
     },
     {
-      "title": "Çerçeve yasa Meclis'ten geçti. İlk adım Bakan Çiftçi'den geldi",
-      "summary": "Terörsüz Türkiye süreci için hazırlanan yasal düzenlemenin Meclis'ten geçmesinin ardından ilk adım İçişleri Bakanı Mustafa Çiftçi'den geldi.",
+      "title": "Tutuklu Şile Belediye Başkanı Özgür Kabadayı için istenen ceza belli oldu",
+      "summary": "Rüşvet soruşturması kapsamında tutuklanan ve görevden uzaklaştırılan Şile Belediye Başkanı Özgür Kabadayı hakkında 92 yıla kadar hapis talebiyle iddianame hazırlandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-11T12:54:06+03:00"
+      "publishedAt": "2026-08-11T15:20:06+03:00"
+    },
+    {
+      "title": "Süreç yasası Meclis'ten geçti. Ömer Çelik: 467 kabul kararı dünyaya net bir mesaj",
+      "summary": "AK Parti Sözcüsü Ömer Çelik, Terörsüz Türkiye yasasının Meclis'te 467 oyla kabul edilmesinin dünyaya net bir mesaj olduğunu söyledi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-11T15:18:56+03:00"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Eren Bülbül ve Ferhat Gedik'i andı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Eren Bülbül ve Jandarma Astsubay Ferhat Gedik'i şehadetlerinin 9'uncu yılında andı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-11T14:30:33+03:00"
+    },
+    {
+      "title": "Filistin Devlet Başkanı Mahmud Abbas Türkiye'ye geliyor",
+      "summary": "Filistin Devlet Başkanı Mahmud Abbas, Türkiye'ye resmi bir ziyaret gerçekleştirecek.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-11T14:20:54+03:00"
+    },
+    {
+      "title": "Çerçeve yasa Meclis'ten geçti. İlk adım Bakan Çiftçi'den geldi",
+      "summary": "İçişleri Bakanlığı'nda, \"Terörsüz Türkiye Süreci\" için yarın kritik bir toplantı düzenlenecek. Toplantıda çerçeve yasanın uygulanması için yol haritası netleştirilecek.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-11T14:13:46+03:00"
     },
     {
       "title": "KYK burs başvuruları 2026-2027: GSB KYK burs başvuruları ne zaman başlayacak?",
@@ -62,34 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-08-11T12:43:39+03:00"
-    },
-    {
-      "title": "Gözaltındaki ultrAslan lideri Sebahattin Şirin adliyeye sevk edildi",
-      "summary": "Spor suçları soruşturması kapsamında gözaltına alınan Galatasaray taraftar grubu ultrAslan'ın lideri Sebahattin Şirin, adliyeye sevk edildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-11T12:49:32+03:00"
-    },
-    {
-      "title": "Eren Bülbül'ün acısı dokuz yıldır taze",
-      "summary": "Trabzon'un Maçka ilçesinde PKK'lı teröristlerce öldürülen Eren Bülbül, mezarı başında düzenlenen törenle anıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-11T12:32:00+03:00"
-    },
-    {
-      "title": "İstanbul'da yaşandı: İşte meteorun düşme anı",
-      "summary": "İstanbul'da dün gece atmosfere giren gök taşı, gökyüzünü aydınlattı",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-11T12:22:55+03:00"
-    },
-    {
-      "title": "İstanbul'a gök taşı düştü",
-      "summary": "İstanbul'da dün gece bir gök taşı giren, gökyüzünü aydınlattı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-11T12:23:47+03:00"
     },
     {
       "title": "Çerçeve Yasa maddeleri ve içeriği",
@@ -140,12 +140,12 @@
       "publishedAt": "Tue, 11 Aug 2026 07:31:58 GMT"
     },
     {
-      "title": "Trump hidden in catering truck in secret plane swap over Iran threat, reports say",
-      "summary": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+      "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 08:57:26 GMT"
+      "publishedAt": "Tue, 11 Aug 2026 09:58:45 GMT"
     },
     {
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
@@ -161,7 +161,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 11 Aug 2026 09:42:48 GMT"
+      "publishedAt": "Tue, 11 Aug 2026 10:43:07 GMT"
     },
     {
       "title": "At least 132 killed in Colombia's largest earthquake in years",
@@ -188,60 +188,84 @@
       "publishedAt": "Tue, 11 Aug 2026 07:55:22 GMT"
     },
     {
-      "title": "Israeli settler violence is ‘clear state terrorism’",
-      "summary": "Israeli settler violence is ‘clear state terrorism’",
+      "title": "Philippines sailors say they will work despite wartime risks",
+      "summary": "Philippines sailors say they will work despite wartime risks",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/israeli-settler-violence-is-clear-state?traffic_source=rss",
-      "publishedAt": "Tue, 11 Aug 2026 09:30:17 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/philippines-sailors-say-they-will-work-despite-wartime-risks-2?traffic_source=rss",
+      "publishedAt": "Tue, 11 Aug 2026 12:40:11 +0000"
     },
     {
-      "title": "Rescue efforts intensify as quake devastates western Colombia towns",
-      "summary": "Rescue teams rush to find survivors as western Colombia grapples with deadly earthquake devastation.",
+      "title": "Late snow blankets parts of southern Africa as winter nears its end",
+      "summary": "Late-season snow hits South Africa and Lesotho as the Northern Hemisphere swelters in heat and wildfires.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/gallery/2026/8/11/rescue-efforts-intensify-as-quake-devastates-western-colombia-towns?traffic_source=rss",
-      "publishedAt": "Tue, 11 Aug 2026 08:47:34 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/late-snow-blankets-parts-of-southern-africa-as-winter-nears-its-end?traffic_source=rss",
+      "publishedAt": "Tue, 11 Aug 2026 12:36:37 +0000"
     },
     {
-      "title": "Swiatek to face Svitolina in Canadian Open semifinal",
-      "summary": "Former world no 1 Iga Swiatek cruised past Diana Shnaider to set up a clash with Elina Svitolina in Toronto.",
+      "title": "Hockey World Cup 2026: Full match schedule, groups, India vs Pakistan",
+      "summary": "Pools, format, match schedule, timings, India vs Pakistan history and more before 2026 FIH Hockey World Cup.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/11/swiatek-to-face-svitolina-in-canadian-open-semifinals-toronto?traffic_source=rss",
-      "publishedAt": "Tue, 11 Aug 2026 08:47:07 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/11/hockey-world-cup-2026-full-match-schedule-groups-india-vs-pakistan?traffic_source=rss",
+      "publishedAt": "Tue, 11 Aug 2026 12:31:49 +0000"
     },
     {
-      "title": "What to know about the US primaries in Connecticut, Vermont, and Alabama",
-      "summary": "Four redrawn Alabama districts will hold special elections for US House nominees on Tuesday.",
+      "title": "Iran, US set new conditions during Hormuz talks: What does this mean?",
+      "summary": "Oil prices surge as talks stall over competing demands, hampering prospects for reopening crucial strait.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/11/what-to-know-about-the-us-primaries-in-connecticut-vermont-and-alabama?traffic_source=rss",
-      "publishedAt": "Tue, 11 Aug 2026 08:39:14 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean?traffic_source=rss",
+      "publishedAt": "Tue, 11 Aug 2026 12:27:15 +0000"
     },
     {
-      "title": "‘My father is in RSS’: India’s Gen Z confronts Modi-loving parents at home",
-      "summary": "Families divided as children of BJP supporters demand education reforms and reject politics of hate.",
+      "title": "Final phase of voting in Pakistan-administered Kashmir, despite security fe",
+      "summary": "Final phase of voting in Pakistan-administered Kashmir, despite security fears",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/11/my-father-is-in-rss-indias-gen-z-confronts-modi-loving-parents-at-home?traffic_source=rss",
-      "publishedAt": "Tue, 11 Aug 2026 08:34:26 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/final-phase-of-voting-in-pakistan-administered-kashmir-despite-security-fe?traffic_source=rss",
+      "publishedAt": "Tue, 11 Aug 2026 12:08:08 +0000"
     },
     {
-      "title": "Bashar al-Assad, Atef Najib sentenced to death in landmark Syria trial",
-      "summary": "The former Syrian leader convicted of premeditated murder, torture and crimes against humanity.",
+      "title": "What to watch in Wisconsin’s high-stakes primary",
+      "summary": "US Democrats face another test after Michigan as voters choose nominees for governor and Congress.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/11/bashar-al-assad-atef-najib-sentenced-to-death-in-landmark-syria-trial?traffic_source=rss",
-      "publishedAt": "Tue, 11 Aug 2026 08:27:57 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/11/what-to-watch-in-wisconsins-high-stakes-primary?traffic_source=rss",
+      "publishedAt": "Tue, 11 Aug 2026 12:05:54 +0000"
     },
     {
-      "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
-      "summary": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it's time to vote and there are concerns confusion will dampen voter turnout.",
+      "title": "1 year in, National Guard became a part of D.C. life. And, deadly quake hits Colombia",
+      "summary": "Today marks one year since the National Guard was deployed to the nation's capital. Here's what has happened since. And, a 7.4 magnitude earthquake leaves more than 100 people dead in Colombia.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
-      "publishedAt": "Tue, 11 Aug 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
+      "publishedAt": "Tue, 11 Aug 2026 07:11:14 -0400"
+    },
+    {
+      "title": "The secret economics inside the new Planet Money board game",
+      "summary": "From Nobel Prize-winning research to the Laffer Curve, Scabby the Rat, Veblen's peacock, and more — the economic ideas and inside jokes hiding throughout Planet Money's new board game.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
+      "publishedAt": "Tue, 11 Aug 2026 06:30:00 -0400"
+    },
+    {
+      "title": "Former Syrian President Assad sentenced to death in absentia",
+      "summary": "A Syrian court sentenced Assad along with his brother to death in absentia for crimes against humanity and war crimes during Syria's 14-year conflict that left about half a million people dead.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
+      "publishedAt": "Tue, 11 Aug 2026 06:07:14 -0400"
+    },
+    {
+      "title": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
+      "summary": "New research from the March of Dimes says more than half of U.S. counties have no labor and delivery hospitals. One Black midwife tries to make a difference for moms in Alabama.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
+      "publishedAt": "Tue, 11 Aug 2026 06:00:00 -0400"
     },
     {
       "title": "A year in, thousands of armed troops have quietly become a fixture of D.C. life",
@@ -252,36 +276,12 @@
       "publishedAt": "Tue, 11 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "In Minnesota and Wisconsin, competitive primaries will again test power of progressive candidates",
-      "summary": "A week after the Michigan primary, tests of progressive power will play out in the Midwest, raising questions of whether far left candidates can win come November or if the GOP can pick up moderates.",
+      "title": "Alabama holds second primary Tuesday, leading to confusion, concerns about low turnout",
+      "summary": "After Alabama redrew its congressional maps in May, voters in several districts saw their primaries pushed to August. Now, it's time to vote and there are concerns confusion will dampen voter turnout.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
+      "link": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
       "publishedAt": "Tue, 11 Aug 2026 05:00:00 -0400"
-    },
-    {
-      "title": "The school year begins in LA with one big change: limited screen time",
-      "summary": "As educators in the nation's second-largest district prepare for the new limits on classroom screen time, some teachers say it will be a difficult adjustment.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
-      "publishedAt": "Tue, 11 Aug 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Morning news brief",
-      "summary": "Voters in six states head to the polls Tuesday for high-profile primaries, Trump signals his strategy with Iran is shifting, 7.4 magnitude earthquake kills at least 111 people in Colombia.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief",
-      "publishedAt": "Tue, 11 Aug 2026 04:32:41 -0400"
-    },
-    {
-      "title": "Turkey's parliament approves a pardon-like bill for thousands of PKK militants",
-      "summary": "Turkey's parliament approved legislation that would introduce a conditional pardon for thousands of Kurdish militants in a bid to advance the government's peace initiative with their insurgent group.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
-      "publishedAt": "Tue, 11 Aug 2026 02:03:49 -0400"
     },
     {
       "title": "Spain to introduce temporary border checks on visitors from Italy",
@@ -327,7 +327,7 @@
     },
     {
       "place": "London",
-      "tempC": 22,
+      "tempC": 25,
       "description": "clear sky",
       "high": 25,
       "low": 17
