@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T18:57:42.020Z",
+  "updated": "2026-08-12T21:41:33.708Z",
   "news": [
     {
       "title": "Trump'ın iki kabine üyesi, Ankara'da gizlice indiği yem uçakta kaldı",
@@ -10,6 +10,14 @@
       "publishedAt": "Wed, 12 Aug 2026 18:54:57 GMT"
     },
     {
+      "title": "Ekrem İmamoğlu CHP'den istifa etti: 'Yeni bir yol açıyoruz'",
+      "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye (İBB) Başkanı Ekrem İmamoğlu, CHP'den istifa ettiğini duyurdu.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c4g30k8n5g8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 19:53:48 GMT"
+    },
+    {
       "title": "Mısır neden Mekke Anlaşması'nda yok?",
       "summary": "Türkiye, Suudi Arabistan ve Pakistan'ın Mekke'de imzaladığı Ortak Savunma Anlaşması'na Mısır'ın neden katılmadığı tartışma konusu. Arap basını, Kahire'nin bölgedeki çatışmalara çekilme riski sebebiyle imza atmadığını yazdı.",
       "source": "BBC Türkçe",
@@ -18,20 +26,12 @@
       "publishedAt": "Wed, 12 Aug 2026 12:14:16 GMT"
     },
     {
-      "title": "Avrupa'da son 27 yılın en önemli güneş tutulması izleniyor",
+      "title": "Avrupa'da son 27 yılın en önemli güneş tutulması",
       "summary": "Avrupa'nın çeşitli bölgelerinde milyonlarca kişinin izlediği ve 1999'dan bu yana gerçekleşen en önemli güneş tutulması başladı. Bazı bölgelerde tam tutulma, bazılarında ise kısmi tutulma olacak.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cgq5ev1ze2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 12 Aug 2026 18:01:29 GMT"
-    },
-    {
-      "title": "Özgür Özel'den çerçeve yasa açıklaması: Endişeyi de çözüm iradesini de ortaya koyduk",
-      "summary": "Yeni Parti Genel Başkanı Özgür Özel, çerçeve yasa oylamasında partinin aldığı \"hibrit\" tutumla ilgili olarak \"vicdanının rahat\" olduğunu söyledi. Yasanın geçmesiyle ilgili Cumhurbaşkanı Erdoğan'ın ismini anmadan \"Ben 'adam yine kazandı' diy",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cr49p6y27lno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 12 Aug 2026 10:01:37 GMT"
+      "publishedAt": "Wed, 12 Aug 2026 19:33:34 GMT"
     },
     {
       "title": "'Yanlış yerde olan Etna Yanardağı değil, havaalanı'",
@@ -48,6 +48,27 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c2elpv8wve8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 12 Aug 2026 14:43:04 GMT"
+    },
+    {
+      "title": "Dışişleri Bakanı Fidan Libya'da. \"Buradaki yapıcı rolümüzü sürdüreceğiz\"",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Libya'nın doğusu ile batısı arasındaki müzakereler hakkındaki izlenimlerinin olumlu olduğunu ve birleşmeye yönelik büyük destek gördüğünü belirtti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-13T00:33:13+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 13 Ağustos 2026",
+      "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 13 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-13T00:30:00+03:00"
+    },
+    {
+      "title": "Gökyüzünde görsel şölen. Perseid meteor yağmuru başladı",
+      "summary": "Gökyüzündeki görsel şölen Perseid meteor yağmurunun en yoğun şekilde gözlemlenebileceği dönem başladı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-13T00:38:15+03:00"
     },
     {
       "title": "Son dakika Elazığ'da deprem mi oldu? Az önce deprem Elazığ'da nerede oldu? Elazığ deprem Kandilli ve AFAD son depremler listesi 12 Ağustos 2026",
@@ -71,97 +92,52 @@
       "publishedAt": "2026-08-12T20:08:20+03:00"
     },
     {
-      "title": "Nilda Müge Şahin cinayetinde yeni görüntüler",
-      "summary": "İstanbul'da Nilda Müge Şahin isimli kadının katil zanlısı Nazir Ilgın yakalandı. Cinayete ilişkin ortaya çıkan yeni görüntülerde şüpheli Nazir Ilgın'ın motosikletle gelip Nilda Müge Şahin'e ateş edip kaçtığı anlar yer aldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-12T17:30:20+03:00"
-    },
-    {
-      "title": "Giresun'da anne ile iki kızı sel sularına kapıldı. Kardeşlerin cansız bedeni bulundu",
-      "summary": "Giresun'da derenin taşması sonucu bir anne ile iki kızı suya kapıldı. Kız kardeşlerin cansız bedenine ulaşılırken, anneyi arama çalışmaları devam ediyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-12T20:46:47+03:00"
-    },
-    {
-      "title": "Nilda Müge Şahin'in katil zanlısı kadının toprağa verildiği mezarlıkta yakalandı",
-      "summary": "İstanbul'da Nilda Müge Şahin isimli kadının katil zanlısı Nazir Ilgın yakalandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-12T21:12:20+03:00"
-    },
-    {
-      "title": "PSG - Aston Villa maçı canlı izle",
-      "summary": "UEFA Süper Kupa finalinde Paris Saint-Germain ile Aston Villa karşı karşıya geliyor. Şampiyonlar Ligi'nin son şampiyonu PSG ile UEFA Avrupa Ligi kupasını kazanan Aston Villa, sezonun ilk büyük Avrupa kupası için sahaya çıkacak. Futbolseverl",
+      "title": "DGS sonuçları ne zaman açıklanacak?",
+      "summary": "DGS sonuçları için heyecanlı bekleyiş sürüyor. 19 Temmuz 2026 tarihinde gerçekleştirilen Dikey Geçiş Sınavı'nın ardından DGS sonuçları için gözler ÖSYM'den gelecek son dakika açıklamalarına çevrildi . Ön lisans eğitimlerini lisans programla",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/psg-aston-villa-maci-trt-1-canli-izle-ekrani-psg-aston-villa-super-kupa-final-maci-izle-3905192",
-      "publishedAt": "Wed, 12 Aug 2026 18:41:21 GMT"
+      "link": "https://www.haberturk.com/dgs-sonuclari-aciklandi-mi-2026-dgs-sonuclari-ne-zaman-saat-kacta-aciklanacak-erken-aciklanir-mi-3905193",
+      "publishedAt": "Wed, 12 Aug 2026 21:27:00 GMT"
     },
     {
-      "title": "Banka banka promosyon kampanyaları",
-      "summary": "Ağustos 2026 itibarıyla emekli promosyon kampanyalarında bankalar arasındaki rekabet devam ediyor. Emekli maaşını başka bankaya taşımayı düşünen SSK ve Bağ-kurlular, bankaların sunduğu nakit promosyonların yanı sıra ek ödeme fırsatlarını da",
+      "title": "MasterChef'te ilk düello",
+      "summary": "MasterChef Türkiye'de haftanın ikinci dokunulmazlık oyunu için heyecan başladı. Kırmızı takımın haftanın ilk dokunulmazlık oyununu kazanmasının ardından gözler yeni bölümde oynanan mücadeleye çevrildi. İlk dokunulmazlığı kaybeden takımda ya",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/banka-banka-emekli-promosyon-kampanyalari-agustos-2026-en-yuksek-emekli-promosyonu-hangi-banka-veriyor-hangi-banka-ne-kadar-oduyor-3905183",
-      "publishedAt": "Wed, 12 Aug 2026 18:43:07 GMT"
+      "link": "https://www.haberturk.com/masterchef-dokunulmazlik-oyunu-kim-kazandi-12-agustos-2026-masterchef-eleme-adayi-kim-oldu-bireysel-dokunulmazligi-kim-aldi-3905185",
+      "publishedAt": "Wed, 12 Aug 2026 21:16:59 GMT"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı",
-      "summary": "Çılgın Sayısal Loto çekilişinde haftanın merakla beklenen sonuçları belli oldu. Çekilişin tamamlanmasıyla birlikte kupon sahipleri kazandıran numaraları araştırmaya başladı. 12 Ağustos 2026 Çarşamba günü gerçekleştirilen çekilişte çıkan num",
+      "title": "UEFA ülke puanı sıralaması",
+      "summary": "UEFA ülke puanı sıralamasında Türkiye'nin son durumu, Fenerbahçe ve Beşiktaş'ın Avrupa kupalarındaki kritik karşılaşmaları nedeniyle yeniden gündeme geldi. Temsilcilerimizin alacağı sonuçlar Türkiye'nin Avrupa sıralamasındaki yerini doğruda",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/cilgin-sayisal-loto-sonuclari-aciklandi-12-agustos-2026-sayisal-loto-cekilis-sonucu-sorgulama-ekrani-3905180",
-      "publishedAt": "Wed, 12 Aug 2026 18:38:06 GMT"
+      "link": "https://www.haberturk.com/uefa-ulke-puani-siralamasi-11-agustos-2026-turkiye-uefa-ulke-puaninda-kacinci-sirada-kac-puani-var-3904915",
+      "publishedAt": "Wed, 12 Aug 2026 21:25:29 GMT"
     },
     {
-      "title": "Şans Topu sonuçları açıklandı",
-      "summary": "Şans Topu çekilişinde heyecan haftanın ilk çekilişi ile başladı. 12 Ağustos 2026 Çarşamba günü yapılan Şans Topu'nda sonuçlar, çekilişin tamamlanmasının ardından sorgulanmaya başladı. 5+1 bilen talihlilerin olup olmadığı ve büyük ikramiyeni",
+      "title": "Kademeli emeklilik ne zaman çıkacak?",
+      "summary": "Kademeli emeklilik düzenlemesi, milyonlarca çalışanın gündemindeki yerini koruyor. Özellikle EYT kapsamı dışında kalan sigortalılar, yeni bir kademeli emeklilik yasası çıkıp çıkmayacağını ve erken emeklilik şartlarında değişiklik olup olmay",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/sans-topu-sonuclari-aciklandi-12-agustos-2026-carsamba-sans-topu-sonuc-sorgulama-ekrani-3905178",
-      "publishedAt": "Wed, 12 Aug 2026 18:43:57 GMT"
+      "link": "https://www.haberturk.com/kademeli-emeklilik-tablosu-son-durum-2026-kademeli-emeklilik-cikacak-mi-erken-emeklilik-sartlari-neler-3904426",
+      "publishedAt": "Wed, 12 Aug 2026 21:23:13 GMT"
     },
     {
-      "title": "Çitlekçi halka arz sonuçları açıklandı mı?",
-      "summary": "Çitlekçi Gıda talep toplama sürecinin tamamlanmasının ardından yatırımcıların gözü halka arz sonuçlarının açıklanacağı tarihe çevrildi. 10-11-12 Ağustos 2026 tarihlerinde gerçekleştirilen talep toplama işlemlerine katılan yatırımcılar, hesa",
+      "title": "Tekirdağ ve Kırklareli'de deniz yasağı",
+      "summary": "Karadeniz kıyısında bulunan Tekirdağ'ın Saray ile Kırklareli'nin Vize ilçesinde bugün denize girmek yasaklandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/citlekci-halka-arz-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-kac-lot-verir-citas-ne-zaman-islem-gorecek-3905172",
-      "publishedAt": "Wed, 12 Aug 2026 16:10:57 GMT"
+      "link": "https://www.haberturk.com/tekirdag-ve-kirklareli-de-deniz-yasagi-3905218",
+      "publishedAt": "Wed, 12 Aug 2026 21:19:37 GMT"
     },
     {
-      "title": "Tehlikeli İhtiyar filminin konusu",
-      "summary": "Tehlikeli İhtiyar filmi, 12 Ağustos Çarşamba akşamı Show TV ekranlarında izleyiciyle buluşacak. Filmin başrolünde usta oyuncu Christoph Waltz yer alırken Lucy Liu ve Cooper Hoffman da kadroda bulunuyor. Yapım, yaşlanan bir kiralık katilin y",
+      "title": "PSG-Aston Villa Süper Kupa finali kaç kaç bitti?",
+      "summary": "UEFA Süper Kupa finalinde Paris Saint-Germain ile Aston Villa karşı karşıya geldi. Şampiyonlar Ligi'nin son şampiyonu PSG ile UEFA Avrupa Ligi kupasını kazanan Aston Villa, sezonun ilk büyük Avrupa kupası için sahaya çıktı. Futbolseverler d",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/tv-de-ilk-kez-tehlikeli-ihtiyar-old-guy-filmi-konusu-nedir-tehlikeli-ihtiyar-oyunculari-kimler-ne-zaman-cekildi-3905164",
-      "publishedAt": "Wed, 12 Aug 2026 18:01:50 GMT"
-    },
-    {
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 12 Aug 2026 16:34:01 GMT"
-    },
-    {
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 12 Aug 2026 16:14:08 GMT"
-    },
-    {
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 12 Aug 2026 11:28:02 GMT"
+      "link": "https://www.haberturk.com/psg-aston-villa-super-kupa-finali-kac-kac-bitti-super-kupa-da-golleri-kim-atti-3905192",
+      "publishedAt": "Wed, 12 Aug 2026 21:06:21 GMT"
     },
     {
       "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
@@ -172,6 +148,38 @@
       "publishedAt": "Wed, 12 Aug 2026 17:47:01 GMT"
     },
     {
+      "title": "Israeli settlers besieging Palestinian families in West Bank village",
+      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 16:14:08 GMT"
+    },
+    {
+      "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+      "summary": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to comply.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 20:57:13 GMT"
+    },
+    {
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 20:57:47 GMT"
+    },
+    {
+      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 12 Aug 2026 20:56:11 GMT"
+    },
+    {
       "title": "LA Lakers to be sold in record $12.5bn deal",
       "summary": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority stake in the NBA franchise.",
       "source": "BBC World",
@@ -180,60 +188,76 @@
       "publishedAt": "Wed, 12 Aug 2026 16:11:04 GMT"
     },
     {
-      "title": "US inflation eases as food and fuel costs cool",
-      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 12 Aug 2026 17:03:05 GMT"
-    },
-    {
-      "title": "Paramount Skydance mulls CNN sale amid antitrust merger challenge",
-      "summary": "Paramount’s legal officer hints at CNN sale as 12 states, led by California, file lawsuit to block merger with WBD.",
+      "title": "Morocco says working to prevent potential new Ceuta crossings surge",
+      "summary": "Morocco Interior Ministry says it has increased security along its borders with the Spanish exclaves Ceuta and Melilla.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/8/12/paramount-skydance-mulls-cnn-sale-amid-antitrust-merger-challenge?traffic_source=rss",
-      "publishedAt": "Wed, 12 Aug 2026 18:23:59 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/12/morocco-says-working-to-prevent-potential-new-ceuta-crossings-surge?traffic_source=rss",
+      "publishedAt": "Wed, 12 Aug 2026 21:07:12 +0000"
     },
     {
-      "title": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
-      "summary": "Outbreak to eclipse West Africa's Ebola outbreak of 2014 to 2016 if it continues at current pace, WHO chief says.",
+      "title": "11-year-old boy shot by Israeli forces in Gaza",
+      "summary": "The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/12/dr-congo-ebola-outbreak-set-to-become-deadliest-on-record-who-warns?traffic_source=rss",
-      "publishedAt": "Wed, 12 Aug 2026 18:23:25 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
+      "publishedAt": "Wed, 12 Aug 2026 21:06:12 +0000"
     },
     {
-      "title": "Lebanese families demand release of detainees held by Israel",
-      "summary": "Lebanese families rallied in Beirut demanding answers about relatives detained by Israel.",
+      "title": "Drone attacks on energy infrastructure deepen Libya’s energy crisis",
+      "summary": "Repeated drone strikes on oil and power infrastructure are deepening Libya's energy crisis.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/lebanese-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
-      "publishedAt": "Wed, 12 Aug 2026 18:15:03 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drone-attacks-on-energy-infrastructure-deepen-libyas-energy-crisis?traffic_source=rss",
+      "publishedAt": "Wed, 12 Aug 2026 20:59:52 +0000"
     },
     {
-      "title": "Mount Etna eruption disrupts travel at Italy’s Catania airport",
-      "summary": "Hundreds of passengers have been left stranded at Italy’s Catania airport after Mount Etna erupted.",
+      "title": "Israeli air strike kills one in northern Gaza",
+      "summary": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/mount-etna-eruption-disrupts-travel-at-italys-catania-airport?traffic_source=rss",
-      "publishedAt": "Wed, 12 Aug 2026 18:13:00 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
+      "publishedAt": "Wed, 12 Aug 2026 20:58:42 +0000"
     },
     {
-      "title": "White House construction project to cost almost $1bn",
-      "summary": "The White House defended reports it planned to spend nearly $1bn on controversial construction projects.",
+      "title": "Deadly India landslide kills at least seven in Mumbai",
+      "summary": "Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss",
-      "publishedAt": "Wed, 12 Aug 2026 17:23:45 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss",
+      "publishedAt": "Wed, 12 Aug 2026 20:58:24 +0000"
     },
     {
-      "title": "Drought exposes Nazi-era warship wrecks beneath the Danube",
-      "summary": "Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels",
+      "title": "Can Syria deliver transitional justice?",
+      "summary": "A court has sentenced ousted former leader Bashar al-Assad and others to death in absentia.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss",
-      "publishedAt": "Wed, 12 Aug 2026 16:58:16 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
+      "publishedAt": "Wed, 12 Aug 2026 20:53:26 +0000"
+    },
+    {
+      "title": "Trump sued over service selling faster access to Truth Social posts",
+      "summary": "The federal lawsuit alleges that the service from the president's media company violates the Constitution. Meanwhile, Trump Media executives say they have signed up more than 10 customers.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5929391/trump-truth-social-api-lawsuit",
+      "publishedAt": "Wed, 12 Aug 2026 16:33:10 -0400"
+    },
+    {
+      "title": "Controversial group wins $158M-contract to represent unaccompanied immigrant children",
+      "summary": "Utah-based Our Rescue was founded by activist Tim Ballard. It was previously known as Operation Underground Railroad and it says it helps law enforcement perform sting operations and rescues human trafficking survivors.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue",
+      "publishedAt": "Wed, 12 Aug 2026 16:19:40 -0400"
+    },
+    {
+      "title": "White House press secretary leaving",
+      "summary": "Karoline Leavitt will continue to be an outside adviser, Trump said",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "publishedAt": "Wed, 12 Aug 2026 16:05:54 -0400"
     },
     {
       "title": "Has the U.S. lost its dominance to China?",
@@ -258,30 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
       "publishedAt": "Wed, 12 Aug 2026 09:38:58 -0400"
-    },
-    {
-      "title": "His wedding guests gave $6k to fund a health startup. Now it's won a $3 million prize",
-      "summary": "Dr. Raj Panjabi founded Last Mile Health to bring healthcare to people living in remote areas. The group is the 2026 recipient of the Conrad N. Hilton Humanitarian Prize.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/12/g-s1-138180/hilton-humanitarian-prize-last-mile-health-liberia-raj-panjabi",
-      "publishedAt": "Wed, 12 Aug 2026 09:00:19 -0400"
-    },
-    {
-      "title": "Zhu Rongji, who drove China's 1990s economic reforms, has died at 97",
-      "summary": "Zhu was renowned for reforms that sought to transition China from the post-Maoist years to a more global market-oriented financial system, without ceding party control over the economy.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/12/1196705508/zhu-rongji-china-former-premier-dead",
-      "publishedAt": "Wed, 12 Aug 2026 08:36:30 -0400"
-    },
-    {
-      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
-      "summary": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
-      "publishedAt": "Wed, 12 Aug 2026 07:25:11 -0400"
     },
     {
       "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
@@ -321,13 +321,13 @@
     {
       "place": "İstanbul",
       "tempC": 24,
-      "description": "partly cloudy",
-      "high": 31,
-      "low": 23
+      "description": "mainly clear",
+      "high": 30,
+      "low": 24
     },
     {
       "place": "London",
-      "tempC": 29,
+      "tempC": 26,
       "description": "clear sky",
       "high": 32,
       "low": 18
