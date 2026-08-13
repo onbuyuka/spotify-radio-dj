@@ -1,9 +1,9 @@
 {
-  "updated": "2026-08-13T13:02:00.834Z",
+  "updated": "2026-08-13T15:56:01.397Z",
   "news": [
     {
-      "title": "Türkiye, Suudi Arabistan liderliğindeki Kızıldeniz İttifakı'na askeri katılım gösterecek mi?",
-      "summary": "Türkiye, dünyanın en önemli su yollarından biri olan Kızıldeniz’de seyrüsefer güvenliğinin korunması amacıyla Suudi Arabistan tarafından oluşturulan Çokuluslu Deniz Savunma Koalisyonu kapsamında çalışmalara katıldığını açıkladı. Suudi Arabi",
+      "title": "Türkiye, Suudi liderliğindeki Kızıldeniz İttifakı'na askeri katılım gösterecek mi?",
+      "summary": "Türkiye, dünyanın en önemli su yollarından biri olan Kızıldeniz’de seyrüsefer güvenliğinin korunması amacıyla Suudi Arabistan tarafından oluşturulan Çokuluslu Deniz Savunma Koalisyonu kapsamında çalışmalara katıldığını açıkladı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cy9w2zn183yo?at_medium=RSS&at_campaign=rss",
@@ -18,20 +18,20 @@
       "publishedAt": "Thu, 13 Aug 2026 09:38:57 GMT"
     },
     {
+      "title": "Balıkesir Edremit'te yerleşim yerlerini tehdit eden yangın kontrol altına alındı",
+      "summary": "Orman Genel Müdürlüğü, Balıkesir'in Edremit ilçesinde yerleşim yerlerini tehdit eden yangının kontrol altına alındığını duyurdu.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cd7w7pg8g71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 13 Aug 2026 15:40:30 GMT"
+    },
+    {
       "title": "Bülent Arınç'ın gözünden AKP'nin 25 yılı: 'Sistemi düzeltin, ehliyete, liyakate, istişareye önem verin'",
       "summary": "Adalet ve Kalkınma Partisi'nin kurucularından, eski Başbakan Yardımcısı Bülent Arınç BBC Türkçe'nin sorularını yanıtladı. Arınç, kurucusu olduğu partiyi savunurken \"kuruluş ilkelerine dönme\" çağrısı yaptı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cre42v0vppzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 13 Aug 2026 03:03:24 GMT"
-    },
-    {
-      "title": "Çerçeve yasa sonrası Erdoğan ile İmralı heyeti arasında ilk görüşme",
-      "summary": "DEM Parti İmralı heyeti üyeleri Pervin Buldan ve Mithat Sancar, bugün Cumhurbaşkanı Recep Tayyip Erdoğan ile Beştepe'de biraraya gelecek.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c75g9yg34llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 13 Aug 2026 12:32:59 GMT"
     },
     {
       "title": "Japon şirketleri yapay zekâyı kullanmakta neden yavaş davranıyor?",
@@ -42,12 +42,40 @@
       "publishedAt": "Thu, 13 Aug 2026 12:17:33 GMT"
     },
     {
-      "title": "Süleymancılar cemaatinin lideri Alihan Kuriş örgüt suçlamasıyla gözaltında",
-      "summary": "Ankara Cumhuriyet Başsavcılığı, örgüt kurma ve örgüte üye olma gibi suçlamalarla aralarında Alihan Kuriş'in de bulunduğu 30 şüphelinin gözaltına alındığını duyurdu.",
+      "title": "Motorinde ÖTV sıfırlandı, pompaya ne kadar yansıyacak?",
+      "summary": "Motorinde uygulanan Özel Tüketim Vergisi (ÖTV) ay sonuna kadar sıfırlandı. Vergi eylül ayından itibaren kademeli olarak geri gelecek.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cjejpp92gw8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 13 Aug 2026 06:22:17 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c0qv2x4pk7jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 13 Aug 2026 13:08:18 GMT"
+    },
+    {
+      "title": "İDO ve BUDO'dan sefer iptalleri",
+      "summary": "Bursa Deniz Otobüsleri (BUDO) ve İstanbul Deniz Otobüsleri'nin (İDO) bazı seferleri olumsuz hava koşulları nedeniyle iptal edildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-13T17:29:14+03:00"
+    },
+    {
+      "title": "İstanbul'da E-5'te kaza. İki şerit kapandı, trafik duruyor",
+      "summary": "İstanbul Küçükçekmece'de hafif ticari araç bariyere çarparak kaza yaptı. Kaza sonrası karayolunda iki şerit trafiğe kapandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-13T18:00:57+03:00"
+    },
+    {
+      "title": "Silivri'de tarla yangını kontrol altına alındı",
+      "summary": "Silivri'de yerleşim alanına yakın noktadaki otluk alanda yangın çıktı. TEM Otoyolu çift yönlü trafiğe kapatılırken, alevler havadan ve karadan müdahale ile bir süre sonra kontrol altına alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-13T17:59:30+03:00"
+    },
+    {
+      "title": "HBO Max, Amazon Prime, Disney+ ve Netflix'e ceza",
+      "summary": "Radyo ve Televizyon Üst Kurulu, dört dijital platforma üst sınırdan ceza verdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-13T16:11:36+03:00"
     },
     {
       "title": "Korkunç kaza anı: Motosiklet sürücüsü metrelerce havaya fırladı",
@@ -64,32 +92,12 @@
       "publishedAt": "2026-08-13T15:26:02+03:00"
     },
     {
-      "title": "Bakan Gürlek: Türkiye Cumhuriyeti bir hukuk devletidir",
-      "summary": "Adalet Bakanı Akın Gürlek, hukukun herkes için işlediğini ifade edip \"Kimse dokunulmaz değildir. Türkiye Cumhuriyeti bir hukuk devletidir.\" dedi.",
-      "source": "NTV",
+      "title": "Beşiktaş-Hradec Kralove maçı saat kaçta?",
+      "summary": "Beşiktaş, UEFA Avrupa Ligi 3. eleme turu rövanş maçında Hradec Kralove karşı karşıya geliyor. Siyah-beyazlı ekip, deplasmanda oynanan ilk karşılaşmayı 1-0 kazanarak tur için önemli bir avantaj yakaladı. Tüpraş Stadyumu'nda oynanacak rövanş ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-13T15:02:40+03:00"
-    },
-    {
-      "title": "Balıkesir'de orman yangını. Alevler yerleşim yerine yaklaştı",
-      "summary": "Balıkesir'in Edremit ilçesinde yerleşim yerine yakın bir arazide başlayıp ormana sıçrayan yangın söndürülmeye çalışılıyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-13T15:24:17+03:00"
-    },
-    {
-      "title": "Ankara'da hazırlıklar tamamlandı. AK Parti mitingi için 100 bin kişiye davetiye gönderildi",
-      "summary": "AK Parti'nin 25'inci yıl mitingi yarın Ankara'da gerçekleşecek. Büyük katılımla gerçekleşmesi beklenen mitinge 100 bin kişi davet edildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-13T14:49:32+03:00"
-    },
-    {
-      "title": "20 yıl sonra memleket ziyareti felaketle bitti",
-      "summary": "Memleketlerine yaptırdıkları yeni evi görmek için Giresun'a giden anne ile iki kızı, akıntıya kapılarak yaşamını yitirdi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-13T14:33:03+03:00"
+      "link": "https://www.haberturk.com/besiktas-hradec-kralove-maci-ne-zaman-saat-kacta-besiktas-hradec-kralove-maci-hangi-kanalda-sifresiz-mi-3905426",
+      "publishedAt": "Thu, 13 Aug 2026 15:29:39 GMT"
     },
     {
       "title": "Fatih'te tarihi caddelerin çehresi yenileniyor",
@@ -121,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/son-dakika-karar-resmi-gazete-de-motorine-indirimi-mi-geldi-akaryakit-otv-tutari-ne-kadar-oldu-motorin-fiyati-dusecek-mi-3905220",
-      "publishedAt": "Thu, 13 Aug 2026 11:54:17 GMT"
+      "publishedAt": "Thu, 13 Aug 2026 13:38:49 GMT"
     },
     {
       "title": "LGS 2.nakil sonuçları ne zaman açıklanacak?",
@@ -132,12 +140,20 @@
       "publishedAt": "Wed, 12 Aug 2026 22:56:26 GMT"
     },
     {
-      "title": "DGS sonuçları ne zaman açıklanacak?",
-      "summary": "DGS sonuçları için heyecanlı bekleyiş sürüyor. 19 Temmuz 2026 tarihinde gerçekleştirilen Dikey Geçiş Sınavı'nın ardından DGS sonuçları için gözler ÖSYM'den gelecek son dakika açıklamalarına çevrildi . Ön lisans eğitimlerini lisans programla",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/dgs-sonuclari-aciklandi-mi-2026-dgs-sonuclari-ne-zaman-saat-kacta-aciklanacak-erken-aciklanir-mi-3905193",
-      "publishedAt": "Thu, 13 Aug 2026 03:20:08 GMT"
+      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 13 Aug 2026 15:40:31 GMT"
+    },
+    {
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 13 Aug 2026 15:05:12 GMT"
     },
     {
       "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
@@ -148,22 +164,6 @@
       "publishedAt": "Thu, 13 Aug 2026 04:55:58 GMT"
     },
     {
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 13 Aug 2026 11:05:03 GMT"
-    },
-    {
-      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-      "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 13 Aug 2026 08:12:53 GMT"
-    },
-    {
       "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
       "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
       "source": "BBC World",
@@ -172,12 +172,12 @@
       "publishedAt": "Thu, 13 Aug 2026 01:31:21 GMT"
     },
     {
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "title": "Person fined after using foghorn to wake sleeping polar bear",
+      "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 13 Aug 2026 01:19:23 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 13 Aug 2026 15:30:57 GMT"
     },
     {
       "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
@@ -188,52 +188,68 @@
       "publishedAt": "Thu, 13 Aug 2026 11:10:31 GMT"
     },
     {
-      "title": "Falling Danube flow forces shutdown of Romania’s sole nuclear plant",
-      "summary": "Romania had tried to avert a total shutdown of the plant, which usually generates a fifth of the country's electricity.",
+      "title": "Turkiye’s AK Party turns 25: A journey of change and renewal",
+      "summary": "In a quarter-century, the party has strengthened democracy, driven development and elevated Turkiye’s global standing.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/13/falling-danube-flow-forces-shutdown-of-romanias-sole-nuclear-plant?traffic_source=rss",
-      "publishedAt": "Thu, 13 Aug 2026 12:30:08 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss",
+      "publishedAt": "Thu, 13 Aug 2026 15:07:42 +0000"
     },
     {
-      "title": "Infantino’s FIFA fate must go to an election, says Africa football chief",
-      "summary": "CAF have given under-fire Gianni Infantino their backing, and now say the FIFA president must stand in March's election.",
+      "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
+      "summary": "Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/13/infantinos-fifa-fate-must-go-to-an-election-says-african-football-chief?traffic_source=rss",
-      "publishedAt": "Thu, 13 Aug 2026 12:19:02 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
+      "publishedAt": "Thu, 13 Aug 2026 14:59:42 +0000"
     },
     {
-      "title": "Five charts that explain the high cost of living in the UK",
-      "summary": "UK Prime Minister Andy Burnham is on a nationwide tour to listen to the ‘financial concerns’ of the people.",
+      "title": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
+      "summary": "The 27-year-old Israeli player has used his platform to defend Israel amid the genocide in Gaza.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/13/five-charts-that-explain-the-high-cost-of-living-in-the-uk?traffic_source=rss",
-      "publishedAt": "Thu, 13 Aug 2026 11:57:23 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss",
+      "publishedAt": "Thu, 13 Aug 2026 14:41:58 +0000"
     },
     {
-      "title": "US-Iran talks in deadlock – what’s the latest?",
-      "summary": "The US and Iran continue their standoff in the Strait of Hormuz as mediators try to coax talks.",
+      "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
+      "summary": "Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
-      "publishedAt": "Thu, 13 Aug 2026 11:56:40 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss",
+      "publishedAt": "Thu, 13 Aug 2026 14:29:58 +0000"
     },
     {
-      "title": "Colombia earthquake response tests new far-right government",
-      "summary": "Disaster tests President Abelardo de la Espriella and his government as it scrambles to find survivors and provide aid.",
+      "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
+      "summary": "Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/13/colombia-earthquake-response-tests-new-far-right-government?traffic_source=rss",
-      "publishedAt": "Thu, 13 Aug 2026 11:39:46 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
+      "publishedAt": "Thu, 13 Aug 2026 14:29:20 +0000"
     },
     {
-      "title": "More than 135 million people in Europe face temperatures over 35C",
-      "summary": "Europe is the fastest-warming continent in the world and in some places is ill-equipped to deal with hot weather.",
+      "title": "Ebola outbreak caused by new ‘animal transmission’: What that means",
+      "summary": "More than 2,000 people have died after contracting the latest strain of the Ebola virus.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/13/more-than-135-million-people-in-europe-set-for-temperatures-over-35c?traffic_source=rss",
-      "publishedAt": "Thu, 13 Aug 2026 11:38:39 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/13/ebola-outbreak-caused-by-new-animal-transmission-what-that-means?traffic_source=rss",
+      "publishedAt": "Thu, 13 Aug 2026 14:16:44 +0000"
+    },
+    {
+      "title": "By sky and sea, Ukraine's drone strikes challenge Russia's grip on Crimea",
+      "summary": "Russia maintained an iron grip on Crimea since seizing it from Ukraine in 2014. Many Russian civilians go there to enjoy the beaches. But now Ukraine is hitting Crimea hard, upending daily life.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+      "publishedAt": "Thu, 13 Aug 2026 11:18:27 -0400"
+    },
+    {
+      "title": "Taiwan briefly slows its mobile internet to text-only speed as part of defense drill",
+      "summary": "The drills come amid rising tensions with China, which frequently sends military planes and ships towards Taiwan.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/13/g-s1-138581/taiwan-briefly-slows-its-mobile-internet-to-text-only-speed-as-part-of-defense-drill",
+      "publishedAt": "Thu, 13 Aug 2026 09:18:43 -0400"
     },
     {
       "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
@@ -252,6 +268,14 @@
       "publishedAt": "Thu, 13 Aug 2026 07:18:53 -0400"
     },
     {
+      "title": "Primary voters send mixed signals about what they want from the Democratic Party",
+      "summary": "Primary results this month in Michigan, Minnesota and Wisconsin paint a muddled picture of just how far to the left Democratic voters want their candidates to be come this fall's midterm elections.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/13/nx-s1-5929473/primary-voters-send-mixed-signals-about-what-they-want-from-the-democratic-party",
+      "publishedAt": "Thu, 13 Aug 2026 06:59:33 -0400"
+    },
+    {
       "title": "U.S. ambassador calls settler siege of Palestinian homes a 'horrific act of terror'",
       "summary": "The U.S. Ambassador to Israel Mike Huckabee condemned the actions of Jewish settlers who are besieging the home of an American Palestinian family in the Israeli-occupied West Bank.",
       "source": "NPR",
@@ -260,28 +284,20 @@
       "publishedAt": "Thu, 13 Aug 2026 05:58:40 -0400"
     },
     {
-      "title": "These swing voters in Nevada say they are not dismissing socialist candidates",
-      "summary": "In online focus groups, 10 of 12 Biden-to-Trump voters said they wouldn't automatically think negatively of a politician who identifies with socialism.",
-      "source": "NPR",
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "summary": "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest everThe Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the ",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/13/nx-s1-5929406/nevada-economy-socialism-focus-groups",
-      "publishedAt": "Thu, 13 Aug 2026 05:00:00 -0400"
+      "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+      "publishedAt": "Thu, 13 Aug 2026 15:17:13 GMT"
     },
     {
-      "title": "Sailors and their families have lives on pause, uncertain if they'll return to Mideast",
-      "summary": "Sailors and family members who were evacuated from U.S. bases in the Middle East months ago are waiting for the military to figure out what will happen to the lives they left behind.",
-      "source": "NPR",
+      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
+      "summary": "Disciplinary proceedings under way after security concerns raised over reported visits to official residenceFrance has opened disciplinary proceedings against its ambassador to Central African Republic over allegations of misconduct, after ",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/13/nx-s1-5929463/evacuation-bahrain-troops-iran-war",
-      "publishedAt": "Thu, 13 Aug 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Morning news brief",
-      "summary": "Primary results reveal divide among Democratic Party, new inflation report could give the Fed more time to bring inflation under control, rescues teams race to find survivors of Colombia earthquake.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/13/nx-s1-5927061/morning-news-brief",
-      "publishedAt": "Thu, 13 Aug 2026 04:44:44 -0400"
+      "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
+      "publishedAt": "Thu, 13 Aug 2026 14:21:52 GMT"
     },
     {
       "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
@@ -298,36 +314,20 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
       "publishedAt": "Wed, 12 Aug 2026 12:21:08 GMT"
-    },
-    {
-      "title": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
-      "summary": "South African scientist’s breakthrough research shows soil fungus could be used in fight against devastating crop pestHearing about fields full of dead caterpillars enveloped in a mysterious white substance intrigued the South African scien",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
-      "publishedAt": "Wed, 12 Aug 2026 11:00:27 GMT"
-    },
-    {
-      "title": "Spain to introduce temporary border checks on visitors from Italy",
-      "summary": "Move comes in response to Rome imposing similar measures after mass migration rush to CeutaSpain has announced it will introduce temporary border checks on visitors from Italy in response to Rome imposing similar measures after a mass rush ",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-      "publishedAt": "Fri, 07 Aug 2026 21:44:38 GMT"
     }
   ],
   "sports": [],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 28,
-      "description": "partly cloudy",
+      "tempC": 26,
+      "description": "mainly clear",
       "high": 29,
-      "low": 23
+      "low": 24
     },
     {
       "place": "London",
-      "tempC": 34,
+      "tempC": 35,
       "description": "clear sky",
       "high": 36,
       "low": 20
