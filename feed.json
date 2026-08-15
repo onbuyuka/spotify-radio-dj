@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T15:16:59.164Z",
+  "updated": "2026-08-15T18:23:44.972Z",
   "news": [
     {
       "title": "Taliban'ın iktidarının beşinci yılında Batı'nın Afganistan'da hâlâ etkisi var mı?",
@@ -50,6 +50,13 @@
       "publishedAt": "Sat, 15 Aug 2026 13:18:50 GMT"
     },
     {
+      "title": "Kurtulmuş: Terörsüz Türkiye hedefi ilk adım",
+      "summary": "TBMM Başkanı Numan Kurtulmuş, terörsüz Türkiye hedefinin bölgenin geleceği açısından ilk adım olduğunu söyledi. Kurtulmuş, “40 yılı aşkın süredir devam eden bu süreci artık geride bırakıyoruz.” dedi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-15T20:46:24+03:00"
+    },
+    {
       "title": "Bakü'de yakalanan suç örgütü şüphelisi Türkiye'ye getirildi",
       "summary": "İçişleri Bakanı Mustafa Çiftçi, Türkiye ve Azerbaycan polisinin ortak çalışması sonucu yeni nesil suç örgütleriyle bağlantılı olduğu belirtilen bir şüphelinin Bakü'de yakalandığını bildirdi.",
       "source": "NTV",
@@ -83,13 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-08-15T16:41:35+03:00"
-    },
-    {
-      "title": "14 yıllık cinayetteki sır DNA ile çözüldü. Cani koca parçalara ayırıp yol kenarına atmış",
-      "summary": "Aydın'ın Söke ilçesinde 14 yıl önce kaybolan Gülizar Aydın'ın cesedinin parçalarak ayrılmış şekilde kara yolu üzerinde bulundu. Katil zanlısı eş Selami Aydın, tutuklandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-15T14:00:46+03:00"
     },
     {
       "title": "Benzin ve motorine zam geldi",
@@ -132,12 +132,12 @@
       "publishedAt": "Sat, 15 Aug 2026 04:32:47 GMT"
     },
     {
-      "title": "Fethiye’de anne-oğul faciası",
-      "summary": "Muğla’nın Fethiye ilçesinde Volkan Sütçü, birlikte yaşadığı annesi Fatma Sütçü’yü tabancayla başından vurarak öldürdü. Ardından aynı silahla kendisini vuran Sütçü, kaldırıldığı hastanede hayatını kaybetti",
+      "title": "Köpek kavgası cinayetle bitti",
+      "summary": "Kırıkkale’nin Keskin ilçesinde köpek kavgası nedeniyle çıkan tartışmada tabancayla vurulan 20 yaşındaki çoban Emre Sırça, tedavi gördüğü hastanede yaşamını yitirdi. Olayla ilgili gözaltına alınan 4 şüpheliden 2’si tutuklandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/mugla-fethiyede-annesini-olduren-volkan-sutcu-yasamina-son-verdi-3905857",
-      "publishedAt": "Sat, 15 Aug 2026 15:03:52 GMT"
+      "link": "https://www.haberturk.com/kirikkale-keskinde-silahla-vurulan-coban-hastanede-hayatini-kaybetti-3905884",
+      "publishedAt": "Sat, 15 Aug 2026 18:08:06 GMT"
     },
     {
       "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
@@ -149,11 +149,11 @@
     },
     {
       "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 13:38:53 GMT"
+      "publishedAt": "Sat, 15 Aug 2026 16:02:49 GMT"
     },
     {
       "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -188,52 +188,68 @@
       "publishedAt": "Sat, 15 Aug 2026 13:41:09 GMT"
     },
     {
-      "title": "The next Yemen war might be different",
-      "summary": "Drones are no longer the advantage for only one side.",
+      "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
+      "summary": "Cleanup crews are responding along 12 kilometres of Omani coastline following an oil spill from the grounded tanker.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 14:32:07 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 18:11:12 +0000"
     },
     {
-      "title": "Afghans mark five years of Taliban rule",
-      "summary": "Afghans have gathered in Kabul to mark five years since the Taliban returned to power.",
+      "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
+      "summary": "The USS Washington's movement comes amid reports of dire conditions on the USS Lincoln amid the ongoing Iran war.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 13:12:51 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 17:49:42 +0000"
     },
     {
-      "title": "Black professor at centre of Cambridge plagiarism row found dead",
-      "summary": "Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.",
+      "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
+      "summary": "The 26-year-old, who has signed a five-year deal, cost the Italian champions about $40m, according to media reports.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 13:11:31 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 17:48:32 +0000"
     },
     {
-      "title": "Vienna woman sues city for discrimination over toilet fees",
-      "summary": "An Austrian activist in Vienna is challenging the city over public toilet fees.",
+      "title": "Tropical Storm Lala expected to strengthen as it nears Hawaii",
+      "summary": "Authorities warn residents to take precautions as storm expected to bring rain and strong winds to the island chain.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 13:01:31 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 17:27:57 +0000"
     },
     {
-      "title": "Five wounded in shooting at Virginia State University, multiple suspects",
-      "summary": "Police found the gunshot victims near the US university's halls of residence.",
+      "title": "UK PM Burnham reacts to death of former Cambridge professor",
+      "summary": "Jason Arday was found dead on Friday, just days after resigning amid intense scrutiny over his academic work.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 12:57:08 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 17:19:12 +0000"
     },
     {
-      "title": "Five years on, how will Taliban deal with armed opposition?",
-      "summary": "The United Nations says armed groups opposed to the government remain active.",
+      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+      "summary": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 12:44:30 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 16:39:52 +0000"
+    },
+    {
+      "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
+      "summary": "The White House memorandum is thin on details, but it aims to give private businesses the ability to sabotage or spy on certain foreign actors.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
+      "publishedAt": "Sat, 15 Aug 2026 13:25:34 -0400"
+    },
+    {
+      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+      "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+      "publishedAt": "Sat, 15 Aug 2026 13:04:43 -0400"
     },
     {
       "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
@@ -268,20 +284,12 @@
       "publishedAt": "Sat, 15 Aug 2026 04:29:20 -0400"
     },
     {
-      "title": "How Americans deceive ourselves about slavery",
-      "summary": "Clint Smith's How the Word Is Passed explores how slavery is — and isn't — taught. And Above Ground includes poems to his children about what their ancestors endured and escaped. He spoke with Fresh Air in 2021 and 2023.",
-      "source": "NPR",
+      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "summary": "Border security tightened after social media posts call for another mass crossing into Spain’s north African territoryMoroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened ",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
-      "publishedAt": "Fri, 14 Aug 2026 14:13:00 -0400"
-    },
-    {
-      "title": "As speed cameras spread to more states, so does the backlash from drivers",
-      "summary": "Millions of drivers across the country are encountering speed cameras for the first time, or will soon. Some don't like it, but advocates say there's clear evidence that cameras make roads safer.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
-      "publishedAt": "Fri, 14 Aug 2026 12:54:58 -0400"
+      "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "publishedAt": "Sat, 15 Aug 2026 18:08:21 GMT"
     },
     {
       "title": "American missionary kidnapped in Niger freed after nine months",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
       "publishedAt": "Thu, 13 Aug 2026 14:21:52 GMT"
-    },
-    {
-      "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-      "summary": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continuesAs Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections.Hak",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-      "publishedAt": "Thu, 13 Aug 2026 04:00:49 GMT"
     }
   ],
   "sports": [
@@ -321,7 +321,27 @@
       "league": "Süper Lig",
       "home": "Konyaspor",
       "away": "Rizespor",
-      "status": "upcoming",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "date": "2026-08-15"
+    },
+    {
+      "league": "Süper Lig",
+      "home": "Kasımpaşa",
+      "away": "Trabzonspor",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "date": "2026-08-15"
+    },
+    {
+      "league": "La Liga",
+      "home": "Deportivo Alavés",
+      "away": "Getafe",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
       "date": "2026-08-15"
     },
     {
@@ -332,23 +352,9 @@
       "date": "2026-08-15"
     },
     {
-      "league": "Süper Lig",
-      "home": "Kasımpaşa",
-      "away": "Trabzonspor",
-      "status": "upcoming",
-      "date": "2026-08-15"
-    },
-    {
       "league": "La Liga",
       "home": "Sevilla",
       "away": "Rayo Vallecano",
-      "status": "upcoming",
-      "date": "2026-08-15"
-    },
-    {
-      "league": "La Liga",
-      "home": "Deportivo Alavés",
-      "away": "Getafe",
       "status": "upcoming",
       "date": "2026-08-15"
     },
@@ -365,15 +371,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
+      "tempC": 23,
       "description": "mainly clear",
       "high": 27,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 27,
-      "description": "overcast",
+      "tempC": 26,
+      "description": "partly cloudy",
       "high": 28,
       "low": 21
     }
