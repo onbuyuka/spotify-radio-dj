@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T09:22:09.806Z",
+  "updated": "2026-08-15T12:30:50.497Z",
   "news": [
     {
       "title": "Abdullah Gül anlatıyor: Adalet ve Kalkınma Partisi nasıl kuruldu?",
@@ -8,6 +8,14 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/ckgv5l43xpno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 14 Aug 2026 20:21:10 GMT"
+    },
+    {
+      "title": "Ayşe Böhürler ile AKP'nin 25 yılı: 'Kendimizle yüzleşen bir partiyiz, esneme kabiliyetimiz var'",
+      "summary": "Adalet ve Kalkınma Partisi'nin kurucularından, hali hazırda Kayseri milletvekili olan Ayşe Böhürler, BBC Türkçe'nin sorularını yanıtladı. Böhürler, seçmen kitlesindeki değişimi gördüklerini söylüyor, AK Parti'nin \"esneme kabiliyeti\" olduğun",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/crk5v8yj3e5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 10:05:51 GMT"
     },
     {
       "title": "Endonezya'daki 7,7 büyüklüğündeki depremde en az 38 kişi hayatını kaybetti",
@@ -26,14 +34,6 @@
       "publishedAt": "Sat, 15 Aug 2026 07:10:14 GMT"
     },
     {
-      "title": "Güney Kore küresel sağlık turizmi merkezlerinden biri haline geliyor",
-      "summary": "Güney Kore'ye gidenler, uygun fiyatlar, hızlı sonuçlar ve İngilizce dil desteği sebebiyle seyahat programlarına giderek artan bir şekilde kapsamlı sağlık kontrollerini ekliyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/czxqpz12dl2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 07:06:54 GMT"
-    },
-    {
       "title": "Akşam yemeği vakti neden önemli, en doğru saat ne?",
       "summary": "Önemli olan sadece ne yediğiniz değil. Vücut saatiniz de besinleri nasıl metabolize ettiğinizde önemli bir rol oynuyor.",
       "source": "BBC Türkçe",
@@ -48,6 +48,20 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c79gyqqz1pwo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 14 Aug 2026 12:31:07 GMT"
+    },
+    {
+      "title": "14 yıllık cinayetteki sır DNA ile çözüldü. Cani koca parçalara ayırıp yol kenarına atmış",
+      "summary": "Aydın'ın Söke ilçesinde 14 yıl önce kaybolan Gülizar Aydın'ın cesedinin parçalarak ayrılmış şekilde kara yolu üzerinde bulundu. Katil zanlısı eş Selami Aydın, tutuklandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-15T14:00:46+03:00"
+    },
+    {
+      "title": "1 saatlik yol 35 dakikaya düşecek",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Çamlıhemşin Tüneli ile Ayder Yaylası arasında kalan kesimde çalışmaların sürdüğünü; seyahat süresinin 35 dakikaya düşeceğini söyledi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-15T12:36:38+03:00"
     },
     {
       "title": "YÖK Başkanı açıkladı. Üniversite affından 500 bin öğrenci yararlanabilir",
@@ -71,25 +85,11 @@
       "publishedAt": "2026-08-15T11:42:09+03:00"
     },
     {
-      "title": "Manisa'da dolum tesisinde patlama",
-      "summary": "Manisa'da bir sanayi sitesindeki dolum tesisinde patlama meydana geldi. Ekiplerin müdahalesiyle yangın söndürüldü.",
+      "title": "Manisa'da dolum tesisinde patlama. 2 ölü",
+      "summary": "Manisa'da bir sanayi sitesindeki dolum tesisinde patlama meydana geldi. Kazada 2 kişi ağır yaralanırken 2 kişi de hayatını kaybetti.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-15T11:35:58+03:00"
-    },
-    {
-      "title": "Yaren Leylek gidecek. Adem amcayı şimdiden hasret sardı",
-      "summary": "Yavrularını erken uçuran Yaren leyleğin göç hazırlığı başladı. Adem amca ise gelecek baharda yeniden dönmesini hem sevinç hem de endişeyle bekleyecek.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-15T11:47:07+03:00"
-    },
-    {
-      "title": "Mersin Limanı’nda 13 milyon liralık kokain operasyonu",
-      "summary": "Mersin Limanı’na gelen konteynerin soğutucu motorunda 3 kilo 490 gram kokain ele geçirildi. Mezitli’deki operasyonda ise 122 kilo 300 gram esrar bulundu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-15T10:56:04+03:00"
+      "publishedAt": "2026-08-15T14:37:35+03:00"
     },
     {
       "title": "Benzin ve motorine zam geldi",
@@ -97,7 +97,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/son-dakika-benzin-ve-motorine-zam-geldi-benzin-ve-motorine-ne-kadar-zam-geldi-litre-fiyati-kac-tl-oldu-iste-14-agustos-2026-istanbul-ankara-izmir-akaryakit-fiyatlari-3905543",
-      "publishedAt": "Sat, 15 Aug 2026 09:15:57 GMT"
+      "publishedAt": "Sat, 15 Aug 2026 12:20:18 GMT"
     },
     {
       "title": "LGS 2. nakil sonuçları açıklandı!",
@@ -105,7 +105,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/lgs-2-nakil-sonuclari-2026-sorgulama-ekrani-meb-lgs-2-nakil-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-saat-kacta-lise-3-tercih-sonucu-nereden-ogrenilir-3905511",
-      "publishedAt": "Sat, 15 Aug 2026 09:16:50 GMT"
+      "publishedAt": "Sat, 15 Aug 2026 12:20:08 GMT"
     },
     {
       "title": "ÖTV düzenlemesi Resmi Gazete'de",
@@ -113,7 +113,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/son-dakika-karar-resmi-gazete-de-motorine-indirimi-mi-geldi-akaryakit-otv-tutari-ne-kadar-oldu-motorin-fiyati-dusecek-mi-3905220",
-      "publishedAt": "Sat, 15 Aug 2026 09:15:08 GMT"
+      "publishedAt": "Sat, 15 Aug 2026 12:19:50 GMT"
     },
     {
       "title": "Milyonlarca kişi kullanıyor ama hikayesini bilen az!",
@@ -121,7 +121,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/cebindeki-cikolata-erimeseydi-mutfaginizdaki-o-cihaz-hic-olmayacakti-iste-mikrodalga-firinin-sasirtan-kesif-hikayesi-3903831",
-      "publishedAt": "Sat, 15 Aug 2026 05:34:19 GMT"
+      "publishedAt": "Sat, 15 Aug 2026 11:56:45 GMT"
     },
     {
       "title": "Ağrı kesiciler ağrıyan yeri nasıl buluyor?",
@@ -132,28 +132,20 @@
       "publishedAt": "Sat, 15 Aug 2026 04:32:47 GMT"
     },
     {
-      "title": "2 örgüte operasyon: 7 tutuklama",
-      "summary": "Ankara Cumhuriyet Başsavcılığı, kamuoyunda yeni nesil suç örgütleri olarak adlandırılan \"Daltonlar\" ve \"Baygaralar\" adına hareket ettiği tespit edilen 10 şüpheliden 7'sinin tutuklandığını, \"adli süreçteki çocukların\" içinde bulunduğu 3 şüph",
+      "title": "Polis aracının camını kırıp, ekiplere saldırdı",
+      "summary": "Şanlıurfa'nın Haliliye ilçesinde bir saldırgan, polis aracının camını kırarak içindeki polis ekiplerine bıçakla saldırmaya çalıştı. Olay yerinden kaçan saldıran 2 km'lik kovalamaca sonunda yakalandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/daltonlar-ve-baygaralara-operasyon-7-tutuklama-3905804",
-      "publishedAt": "Sat, 15 Aug 2026 09:15:23 GMT"
+      "link": "https://www.haberturk.com/sanliurfa-da-polis-aracinin-camini-bicakla-kirip-ekiplere-saldirdi-3905827",
+      "publishedAt": "Sat, 15 Aug 2026 11:32:15 GMT"
     },
     {
-      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
       "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 15 Aug 2026 08:52:55 GMT"
-    },
-    {
-      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
-      "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 18:54:58 GMT"
+      "publishedAt": "Sat, 15 Aug 2026 11:48:58 GMT"
     },
     {
       "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
@@ -172,68 +164,84 @@
       "publishedAt": "Fri, 14 Aug 2026 17:36:27 GMT"
     },
     {
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "title": "Nine killed in Israeli strikes on southern Lebanon, authorities say",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 17:03:17 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 12:25:11 GMT"
     },
     {
-      "title": "France's top court blocks social media ban for under-15s",
-      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+      "title": "South Korea proposes talks to officially end war with North",
+      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 14 Aug 2026 16:35:06 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 09:35:23 GMT"
     },
     {
-      "title": "Venus Williams hits 13-game tennis losing streak with Cincinnati Open exit",
-      "summary": "Seven-time Grand Slam winner Venus Williams defeated 6-2, 6-2 by Emiliana Arango in the first round of Cincinnati Open.",
-      "source": "Al Jazeera",
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/15/venus-williams-hits-13-game-tennis-losing-streak-with-cincinnati-open-exit?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 08:32:07 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 15 Aug 2026 10:56:22 GMT"
     },
     {
-      "title": "The women India’s biggest river project forgot",
-      "summary": "As the Ken-Betwa dam displaces thousands, legal protections on compensation are being ignored.",
+      "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+      "summary": "Taiwan has long prepared for a Chinese military invasion but wars in Iran and Ukraine expose new potential threats.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/longform/2026/8/15/the-women-indias-biggest-river-project-forgot?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 08:22:09 +0000"
+      "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 11:30:00 +0000"
     },
     {
-      "title": "Arteta assures Arsenal fans over contract before Man City clash",
-      "summary": "Mikel Arteta, who ended Arsenal's 22-year wait for a Premier League title, says contract negotiations will be resolved.",
+      "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+      "summary": "The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/15/arteta-assures-arsenal-fans-over-contract-ahead-of-man-city-clash?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 07:44:35 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 11:27:11 +0000"
     },
     {
-      "title": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
-      "summary": "Andrew Giuliani, son of ex-New York Mayor Rudy Giuliani, tells critics of FIFA's Gianni Infantino 'it's just politics'.",
+      "title": "Aftermath of deadly Indonesia earthquake",
+      "summary": "Dozens of people have been killed after a 7.7-magnitude earthquake off Indonesia’s Flores Island.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 07:27:59 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 11:19:56 +0000"
     },
     {
-      "title": "A Syrian intervention in Lebanon would be too costly for Damascus",
-      "summary": "Despite pressure from the US to intervene against Hezbollah, the Syrian government is unlikely to do so.",
+      "title": "Japanese minister visits shrine to war dead, angering China, South Korea",
+      "summary": "Defence Minister Koizumi's visit to Yasukuni Shrine comes on the 81st anniversary of Japan's surrender in WWII.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/8/15/a-syrian-intervention-in-lebanon-would-be-too-costly-for-damascus?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 07:27:32 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 11:09:27 +0000"
     },
     {
-      "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
-      "summary": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
+      "title": "What the Taliban achieved and failed to achieve in five years",
+      "summary": "The Taliban government brought security and stability but is facing increasing alienation of the general population.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 07:18:13 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 11:07:05 +0000"
+    },
+    {
+      "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
+      "summary": "The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five-year deal.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
+      "publishedAt": "Sat, 15 Aug 2026 10:48:41 +0000"
+    },
+    {
+      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+      "summary": "Homero Calderón's detention by ICE spotlights the massive backlog in the U.S. immigration system.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
+      "publishedAt": "Sat, 15 Aug 2026 06:10:00 -0400"
     },
     {
       "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
@@ -252,8 +260,8 @@
       "publishedAt": "Sat, 15 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 20",
-      "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 20 people, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 38",
+      "summary": "A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/08/14/nx-s1-5927506/speed-cameras-ticket-backlash",
       "publishedAt": "Fri, 14 Aug 2026 12:54:58 -0400"
-    },
-    {
-      "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-      "summary": "Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-      "publishedAt": "Fri, 14 Aug 2026 12:37:54 -0400"
     },
     {
       "title": "American missionary kidnapped in Niger freed after nine months",
@@ -366,15 +366,15 @@
     {
       "place": "İstanbul",
       "tempC": 27,
-      "description": "mainly clear",
+      "description": "partly cloudy",
       "high": 27,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 24,
-      "description": "partly cloudy",
-      "high": 28,
+      "tempC": 27,
+      "description": "overcast",
+      "high": 27,
       "low": 21
     }
   ],
