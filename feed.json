@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T01:06:07.764Z",
+  "updated": "2026-08-16T03:44:37.711Z",
   "news": [
     {
       "title": "Taliban'ın iktidarının beşinci yılında Batı'nın Afganistan'da hâlâ etkisi var mı?",
@@ -50,6 +50,20 @@
       "publishedAt": "Sat, 15 Aug 2026 13:18:50 GMT"
     },
     {
+      "title": "Akrabalarıyla damadının evini basan başkan gözaltına alındı",
+      "summary": "20 kişilik grupla evini bastığı damadını darp ettiği öne sürülen İYİ Parti Kızıltepe İlçe Başkanı Fahrettin Cevheroğlu gözaltına alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-16T06:33:38+03:00"
+    },
+    {
+      "title": "Kırmızı ışık ihlali kazaya neden oldu. 1’i ağır 5 yaralı",
+      "summary": "Bursa'da kırmızı ışıkta geçtiği öne sürülen otomobil, kavşaktan geçen iki otomobile çarptı. Kazada 1’i ağır, 5 kişi yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-16T05:46:46+03:00"
+    },
+    {
       "title": "Uzman çavuş feci şekilde can verdi",
       "summary": "Hakkari'de anahtarını unuttuğu evine girmek için itfaiye aracının merdiveniyle balkona ulaşmaya çalışan uzman çavuş sıkışarak hayatını kaybetti.",
       "source": "NTV",
@@ -68,7 +82,7 @@
       "summary": "Son depremler... Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 16 Ağustos 2026 deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu? Son deprem büyüklüğü ne kad",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-16T04:00:00+03:00"
+      "publishedAt": "2026-08-16T06:30:00+03:00"
     },
     {
       "title": "Geminbeli Tüneli'nin kış gelmeden hizmete açılması planlanıyor",
@@ -78,26 +92,12 @@
       "publishedAt": "2026-08-15T23:28:10+03:00"
     },
     {
-      "title": "Muğla'nın Marmaris ilçesinde çıkan orman yangınına müdahale ediliyor.",
-      "summary": "Muğla'nın Marmaris ilçesinde çıkan orman yangınına müdahale ediliyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-15T23:14:29+03:00"
-    },
-    {
-      "title": "Alihan Kuriş soruşturması. 66 milyar lirayı aşan para trafiği tespit edildi",
-      "summary": "Ankara Cumhuriyet Başsavcılığı'nın \"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında hazırlanan MASAK raporunda, örgütle bağlantılı şirketlerde 66 milyar lirayı aşan para trafiği tespit edildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-16T03:58:16+03:00"
-    },
-    {
       "title": "Benzin ve motorine zam geldi",
       "summary": "Döviz kurlarındaki dalgalanmalar, brent petrol fiyatlarındaki yükseliş ve ÖTV düzenlemeleri akaryakıt fiyatlarını doğrudan etkiliyor. LPG, motorin ve benzin fiyatları ile ilgili değişiklikler araç sahipleri tarafından yakından takip ediliyo",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/son-dakika-benzin-ve-motorine-zam-geldi-benzin-ve-motorine-ne-kadar-zam-geldi-litre-fiyati-kac-tl-oldu-iste-14-agustos-2026-istanbul-ankara-izmir-akaryakit-fiyatlari-3905543",
-      "publishedAt": "Sat, 15 Aug 2026 20:22:13 GMT"
+      "publishedAt": "Sun, 16 Aug 2026 03:08:01 GMT"
     },
     {
       "title": "LGS 2. nakil sonuçları açıklandı!",
@@ -188,6 +188,38 @@
       "publishedAt": "Sat, 15 Aug 2026 19:34:22 GMT"
     },
     {
+      "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+      "summary": "Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+      "publishedAt": "Sun, 16 Aug 2026 02:26:54 +0000"
+    },
+    {
+      "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+      "summary": "Riders say the switch is helping them cut fuel and maintenance costs.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+      "publishedAt": "Sun, 16 Aug 2026 01:43:57 +0000"
+    },
+    {
+      "title": "Army drops roses on Syrian crowds in a far cry from war",
+      "summary": "Syrian army helicopters dropped roses on crowds at Damascus Citadel’s Summer Syria festival.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
+      "publishedAt": "Sun, 16 Aug 2026 00:50:12 +0000"
+    },
+    {
+      "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
+      "summary": "Hamas chief Khalil al-Hayya to meet Egyptian intelligence chief Hassan Rashad in Cairo amid ongoing Gaza tensions.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
+      "publishedAt": "Sun, 16 Aug 2026 00:44:59 +0000"
+    },
+    {
       "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
       "summary": "Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.",
       "source": "Al Jazeera",
@@ -202,38 +234,6 @@
       "lang": "en",
       "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
       "publishedAt": "Sat, 15 Aug 2026 23:27:10 +0000"
-    },
-    {
-      "title": "At least five reported dead amid flooding in US state of Indiana",
-      "summary": "Indiana's state governor says that US government has promised assistance after a week of heavy rainfall.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 23:19:34 +0000"
-    },
-    {
-      "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-      "summary": "Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 23:04:47 +0000"
-    },
-    {
-      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
-      "summary": "South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 22:22:46 +0000"
-    },
-    {
-      "title": "Why is the latest Ebola outbreak worsening?",
-      "summary": "Virus spreading in DRC faster than containment efforts.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
-      "publishedAt": "Sat, 15 Aug 2026 22:00:42 +0000"
     },
     {
       "title": "Are robotaxis finally here?",
@@ -392,7 +392,7 @@
       "league": "La Liga",
       "home": "Deportivo Alavés",
       "away": "Getafe",
-      "homeScore": 0,
+      "homeScore": 3,
       "awayScore": 0,
       "status": "FT",
       "date": "2026-08-15"
@@ -408,10 +408,10 @@
     },
     {
       "place": "London",
-      "tempC": 21,
+      "tempC": 20,
       "description": "partly cloudy",
       "high": 27,
-      "low": 20
+      "low": 19
     }
   ],
   "facts": [
