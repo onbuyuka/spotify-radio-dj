@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T03:40:44.628Z",
+  "updated": "2026-08-18T06:37:32.421Z",
   "news": [
     {
       "title": "'Çerçeve yasa' Resmi Gazete'de yayımlandı, Erdoğan teşekkür etti",
@@ -10,12 +10,28 @@
       "publishedAt": "Tue, 18 Aug 2026 03:28:23 GMT"
     },
     {
+      "title": "2026 - YKS yerleştirme sonuçları açıklandı",
+      "summary": "2026 Yükseköğretim Kurumları Sınavı (2026-YKS) yerleştirme sonuçları açıklandı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ce97e40j1zdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 05:53:59 GMT"
+    },
+    {
       "title": "Trump İran konusunda 'engel çıkarırsa' Umman'ı bombalamakla tehdit etti",
       "summary": "İran, ABD-İran savaşının başlangıcındaki bir askeri operasyon sırasında iki savaş uçağının Katar hava savunma sistemleri tarafından vurulmasının ardından esir alındığını söylediği üç pilotun serbest bırakılmasını istedi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cdx7740dv4ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 17 Aug 2026 15:38:06 GMT"
+    },
+    {
+      "title": "Tupac Shakur cinayeti davası: Rapçinin vurulduğu gece 'kıyamet koptu'",
+      "summary": "Tupac Shakur'un cinayet davasının ilk gününde savcılar, eski çete lideri Duane \"Keffe D\" Davis'i, efsanevi rapçiyi öldüren silahlı saldırıyı planlamadan önce intikam peşinde olan bir isim olarak gösterdi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c30451lp1n9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 04:04:08 GMT"
     },
     {
       "title": "Z kuşağı neden alkolün yerine kaygı ilaçlarını koydu?",
@@ -26,14 +42,6 @@
       "publishedAt": "Tue, 18 Aug 2026 03:31:28 GMT"
     },
     {
-      "title": "İzmir'de Menderes Belediyesi AKP'ye geçti; CHP - Yeni Parti birbirini suçladı",
-      "summary": "Hakkındaki yolsuzluk soruşturması nedeniyle tutuklanan Menderes Belediye Başkanı İlkay Çiçek'in görevden uzaklaştırılmasının ardından yapılan belediye başkan vekili seçimini AKP'nin adayı Asuman Şen kazandı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c98v038jjj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 12:57:14 GMT"
-    },
-    {
       "title": "Cumhurbaşkanı Erdoğan, Trump ve İngiltere Başbakanı Burnham ile görüştü",
       "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ve İngiltere Başbakanı Andy Burnham ile telefonda görüştü.",
       "source": "BBC Türkçe",
@@ -42,54 +50,70 @@
       "publishedAt": "Mon, 17 Aug 2026 22:25:37 GMT"
     },
     {
-      "title": "Süleymancılar cemaatinin tutuklanan lideri Alihan Kuriş ifadesinde neler söyledi?",
-      "summary": "Süleymancılar olarak bilinen cemaatin liderliğini yapan Kuriş'e \"çıkar amaçlı suç örgütü yöneticiliği, nitelikli dolandırıcılık, Vergi Usul Kanunu'na muhalefet ve suçtan kaynaklanan malvarlığı değerlerini aklama\" suçlamaları yöneltiliyor. B",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c62v4q8d639o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 13:42:51 GMT"
-    },
-    {
-      "title": "YKS yerleştirme sonuçları açıklandı",
-      "summary": "Yükseköğretim Kurumları Sınavı (YKS) yerleştirme sonuçları açıklandı.",
+      "title": "İki sıcak hava dalgası aynı anda geliyor. İstanbul'da hava sıcaklığı tavan yapacak",
+      "summary": "İstanbul hem Afrika hem de Basra kökenli sıcak hava dalgasının etkisi altına girecek, hava sıcaklığı 35 dereceyi aşacak.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-18T06:03:50+03:00"
+      "publishedAt": "2026-08-18T08:44:59+03:00"
     },
     {
-      "title": "10 üniversiteye yeni rektör atandı",
-      "summary": "Bazı bakanlıklar ve kamu kurumlarına ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+      "title": "İstanbul'a yeni metro hattı geliyor. Trafiği yoğun 2 ilçe birbirine bağlanacak",
+      "summary": "İstanbul'a yeni metro hattı geliyor. Ümraniye, Kavacık ve Beykoz hattından geçecek raylı sistem projesini Ulaştırma ve Altyapı Bakanlığı üstlendi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-18T02:51:41+03:00"
+      "publishedAt": "2026-08-18T09:14:09+03:00"
     },
     {
-      "title": "9 ülkeye yeni büyükelçi atandı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla yapılan büyükelçi atamalarına ilişkin kararlar, Resmi Gazete'de yayımlandı.",
+      "title": "Devlet Bahçeli: Terörsüz Türkiye gelecek Türk asırlarının müjdesidir",
+      "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Terörsüz Türkiye; yalnızca güvenlik politikalarının başarısı değil, ekonomik refahın, diplomatik etkinliğin ve bölgesel istikrarın da stratejik anahtarıdır.\" dedi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-18T01:59:29+03:00"
+      "publishedAt": "2026-08-18T08:23:09+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Ağustos 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar",
+      "title": "YKS tercih sonuçları 2026 açıklandı: Son dakika ÖSYM YKS yerleştirme sonucu sorgulama ekranı",
+      "summary": "YKS tercih sonuçları son dakika ÖSYM tarafından açıklandı. Adaylar, ykssonuc.osym.gov.tr adresinden T.C. kimlik numarası ve şifreleriyle birlikte sonuç sorgulama ekranına erişim sağlayabilirler. Herhangi bir üniversiteye yerleşemeyen adayla",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-18T06:30:00+03:00"
+      "publishedAt": "2026-08-18T07:36:51+03:00"
     },
     {
-      "title": "Dört suç örgütüne mali soruşturma. 818 şüphelinin mal varlığına el konuldu",
-      "summary": "Adalet Bakanı Akın Gürlek, dört yeni nesil suç örgütüne yönelik mali soruşturmada 818 şüphelinin mal varlıklarına el konulduğunu açıkladı.",
+      "title": "10 üniversiteye rektör atandı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın imzasıyla yayımlanan kararla 10 üniversiteye rektör ataması yapıldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-18T00:35:59+03:00"
+      "publishedAt": "2026-08-18T09:35:25+03:00"
     },
     {
-      "title": "İBB davasında ikinci celse",
-      "summary": "İstanbul Büyükşehir Belediye Başkanı'yken tutuklanıp görevden alınan Ekrem İmamoğlu dahil 414 kişinin yargılandığı İBB davası bugün devam etti.",
+      "title": "9 ülkeye büyükelçi atandı",
+      "summary": "Büyükelçi atama kararları Resmi Gazete'de yayımlandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-17T20:09:09+03:00"
+      "publishedAt": "2026-08-18T07:46:47+03:00"
+    },
+    {
+      "title": "YKS tercih sonuçları açıklandı",
+      "summary": "Son dakika haberi: YKS tercih sonuçları açıklandı! ÖSYM kılavuzu doğrultusunda Yükseköğretim Kurumları Sınavı (2026 YKS) tercih işlemleri 29 Temmuz-10 Ağustos tarihleri arasında alınmıştı. Sürecin tamamlanmasının ardından adaylar tercih son",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/yks-tercih-sonuclari-aciklandi-2026-yks-yerlestirme-sonucu-nasil-sorgulanir-tyt-ayt-ydt-yks-tercih-sonuclari-sorgulama-osym-ekrani-3906338",
+      "publishedAt": "Tue, 18 Aug 2026 05:59:20 GMT"
+    },
+    {
+      "title": "18 Ağustos son depremler listesi",
+      "summary": "Son dakika deprem haberleri... Türkiye’nin topraklarının tamamına yakını fay hattı üzerinde yer alıyor. Bu sebeple gün içinde küçük büyük birçok deprem meydana geliyor. İrili ufaklı tüm sarsıntılar Kandilli Rasathanesi ve AFAD tarafından ka",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/son-dakika-depremleri-az-once-deprem-mi-oldu-nerede-ve-kac-buyuklugunde-18-agustos-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3906335",
+      "publishedAt": "Tue, 18 Aug 2026 04:52:22 GMT"
+    },
+    {
+      "title": "KYK yurt başvuruları başladı mı?",
+      "summary": "Yükseköğretim Kurumları Sınavı (2026-YKS) tercih sonuçları açıklandı. Böylece binlerce aday hangi üniversiteye yerleştiklerini öğrendi. Yaşadıkları ilden farklı bir şehirde üniversite kazanan öğrenciler ise barınma ihtiyaçlarını karşılamanı",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/kyk-yurt-basvurulari-basladi-mi-ne-zaman-baslayacak-gsb-ile-2026-2027-kyk-yurt-basvuru-ekrani-erisime-acildi-mi-3906331",
+      "publishedAt": "Tue, 18 Aug 2026 05:44:45 GMT"
     },
     {
       "title": "Bayram Ali Ersoy kimdir?",
@@ -116,44 +140,28 @@
       "publishedAt": "Mon, 17 Aug 2026 21:53:18 GMT"
     },
     {
-      "title": "Fenerbahçe-Lyon maçı ne zaman?",
-      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi play-off turunda Fransız temsilcisi Lyon ile karşı karşıya gelecek. Fenerbahçe Şükrü Saracoğlu Spor Kompleksi'nde oynanacak mücadele öncesinde, Fenerbahçe-Lyon maçının tarihi, maç saati ve karşılaşmanın şif",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/fenerbahce-lyon-maci-ne-zaman-saat-kacta-sampiyonlar-ligi-fenerbahce-lyon-maci-hangi-kanalda-sifresiz-mi-3906282",
-      "publishedAt": "Mon, 17 Aug 2026 21:22:34 GMT"
-    },
-    {
-      "title": "1.20 faizli İlk Evim konut kredisi şartları",
-      "summary": "İlk kez ev sahibi olmak isteyen vatandaşların beklediği düşük faizli konut kredisi gündemdeki yerini koruyor. Kamuoyunda 1.20 faizli İlk Evim konut kredisi olarak bilinen destekle ilgili başvuru tarihi ve kapsam merak ediliyor. Özellikle da",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/120-faizli-konut-kredisi-basvuru-takvimi-2026-120-faizli-ilk-evim-konut-kredisi-cikti-mi-sartlari-neler-3906279",
-      "publishedAt": "Mon, 17 Aug 2026 21:20:40 GMT"
-    },
-    {
-      "title": "Emekli promosyon kampanyaları güncellendi",
-      "summary": "Emekli promosyon kampanyalarında rekabet her geçen gün artıyor. Bankalar, maaşını 3 yıl boyunca kendilerinden alma taahhüdü veren emeklilere nakit promosyonların yanı sıra farklı ek avantajlar sunuyor. Ağustos 2026 itibarıyla bazı bankalard",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/emekli-promosyon-kampanyalari-agustos-2026-en-yuksek-emekli-promosyonu-hangi-bankada-hangi-banka-ne-kadar-veriyor-3906276",
-      "publishedAt": "Mon, 17 Aug 2026 21:19:40 GMT"
-    },
-    {
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+      "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+      "summary": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 19:25:05 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 05:00:04 GMT"
     },
     {
       "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
-      "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer, \"We'll take care of it,\" an officer testified.",
+      "summary": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 18 Aug 2026 02:06:04 GMT"
+      "publishedAt": "Tue, 18 Aug 2026 05:24:15 GMT"
+    },
+    {
+      "title": "Inside secret police warehouse as Germany targets small boats gangs",
+      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 18 Aug 2026 05:02:58 GMT"
     },
     {
       "title": "Russia warns UK over supplying drones to Ukraine",
@@ -161,10 +169,10 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 18 Aug 2026 01:16:41 GMT"
+      "publishedAt": "Tue, 18 Aug 2026 04:59:25 GMT"
     },
     {
-      "title": "BBC breaks down Trump's latest shift on North and South Korea",
+      "title": "Watch: Why has Trump shifted on North Korea?",
       "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
       "source": "BBC World",
       "lang": "en",
@@ -180,12 +188,36 @@
       "publishedAt": "Mon, 17 Aug 2026 21:34:26 GMT"
     },
     {
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-      "source": "BBC World",
+      "title": "Trump says N Korea’s Kim has responded to his request for a conversation",
+      "summary": "US president says conversations with Kim Jong Un at a 'positive' stage and slams Seoul for refusing to join war on Iran.",
+      "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 17 Aug 2026 16:17:34 GMT"
+      "link": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
+      "publishedAt": "Tue, 18 Aug 2026 05:44:05 +0000"
+    },
+    {
+      "title": "Can Trump limit birthright citizenship? Legal experts are doubtful",
+      "summary": "Trump’s new order targeting ‘birth tourism’ faces an uphill legal battle after an earlier Supreme Court defeat.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/can-trump-limit-birthright-citizenship-legal-experts-are-doubtful?traffic_source=rss",
+      "publishedAt": "Tue, 18 Aug 2026 05:23:54 +0000"
+    },
+    {
+      "title": "A hero’s welcome as Cameroon parades its first Women’s AFCON title",
+      "summary": "Cameroon’s women’s football team received a hero’s welcome in Yaounde after winning its first Women’s Africa Cup",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/a-heros-welcome-as-cameroon-parades-its-first-womens-afcon-title?traffic_source=rss",
+      "publishedAt": "Tue, 18 Aug 2026 05:07:07 +0000"
+    },
+    {
+      "title": "Hichilema wins second term as president of copper-rich Zambia",
+      "summary": "Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-zambia-elections-sv?traffic_source=rss",
+      "publishedAt": "Tue, 18 Aug 2026 04:07:13 +0000"
     },
     {
       "title": "Thousands mourn Jason Arday in London, blaming ‘racist’ press for his death",
@@ -196,7 +228,7 @@
       "publishedAt": "Tue, 18 Aug 2026 03:17:58 +0000"
     },
     {
-      "title": "Two killed as gunman opens fire at Philippines high school, official says",
+      "title": "Two students killed in Philippine school shooting",
       "summary": "Mayor Khymer Adan Olaso says the casualties in Zamboanga were both students and included the gunman.",
       "source": "Al Jazeera",
       "lang": "en",
@@ -204,36 +236,20 @@
       "publishedAt": "Tue, 18 Aug 2026 02:51:22 +0000"
     },
     {
-      "title": "Trump says talking to North Korea’s Kim makes the south safer",
-      "summary": "US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’",
-      "source": "Al Jazeera",
+      "title": "A dispute about fact vs. fiction at the trial over Tupac Shakur's 1996 killing",
+      "summary": "A prosecutor said that while few have been willing to speak about the 1996 killing of Tupac Shakur, Duane \"Keffe D\" Davis is the \"one person who has a hard time being silent.\"",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
-      "publishedAt": "Tue, 18 Aug 2026 01:58:11 +0000"
+      "link": "https://www.npr.org/2026/08/18/g-s1-139061/tupac-shakur-killing-trial",
+      "publishedAt": "Tue, 18 Aug 2026 01:56:44 -0400"
     },
     {
-      "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
-      "summary": "At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.",
-      "source": "Al Jazeera",
+      "title": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
+      "summary": "The Palestinian American whose home in the occupied West Bank has been besieged by Israeli settlers traveled to his property on Monday to join other family members who have been defending it.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss",
-      "publishedAt": "Tue, 18 Aug 2026 01:54:01 +0000"
-    },
-    {
-      "title": "Vigil held in central London for late Cambridge professor Jason Arday",
-      "summary": "Thousands mourned Jason Arday in central London, and voiced anger over the Cambridge professor’s media treatment.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
-      "publishedAt": "Tue, 18 Aug 2026 01:26:31 +0000"
-    },
-    {
-      "title": "Zambia’s Hichilema wins second term as president",
-      "summary": "Official results show Hichilema receiving about 60 percent of votes, compared with ⁠38 percent for his main challenger.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
-      "publishedAt": "Tue, 18 Aug 2026 01:17:50 +0000"
+      "link": "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank",
+      "publishedAt": "Tue, 18 Aug 2026 01:51:50 -0400"
     },
     {
       "title": "Part of a key firearms law lapsed following a federal court decision. What happens now?",
@@ -242,6 +258,14 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
       "publishedAt": "Mon, 17 Aug 2026 18:37:58 -0400"
+    },
+    {
+      "title": "Palestinian family in West Bank fear settler violence will rob them of home",
+      "summary": "The family of a Palestinian-American man remain holed up in his West Bank home for more than a week, after Israeli settlers laid siege to the house and the Israeli army then turned it into a closed military area.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/17/nx-s1-5933860/palestinian-american-family-in-west-bank-fear-settler-violence-will-rob-them-of-home",
+      "publishedAt": "Mon, 17 Aug 2026 17:27:58 -0400"
     },
     {
       "title": "Former federal prosecutor is suing DOJ for 'unlawful and retaliatory' firing",
@@ -258,30 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
       "publishedAt": "Mon, 17 Aug 2026 15:53:37 -0400"
-    },
-    {
-      "title": "DHS defends investigating agency critics and giving them warning notices",
-      "summary": "Federal officials acknowledged that ICE special agents tracked a New York man to his house, the airport and a hotel to question him about a critical email he sent to the former head of ICE in January.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5934692/dhs-free-speech-investigations",
-      "publishedAt": "Mon, 17 Aug 2026 09:31:13 -0400"
-    },
-    {
-      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-      "summary": "The USS Washington is on its way to the Middle East to relieve the USS Lincoln amid concerns about conditions aboard. And, Jared Kushner is expected to meet with Prime Minister Netanyahu to move Gaza talks forward.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
-      "publishedAt": "Mon, 17 Aug 2026 07:48:21 -0400"
-    },
-    {
-      "title": "Sen. Mark Kelly says USS Lincoln sailors 'can't get basic needs met'",
-      "summary": "NPR's Sacha Pfeiffer talks with Democratic Sen. Mark Kelly of Arizona about conditions aboard the USS Lincoln and his calls for an investigation into sailors' treatment.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/17/nx-s1-5933015/mark-kelly-navy-lincoln-sailors-investigation",
-      "publishedAt": "Mon, 17 Aug 2026 06:49:59 -0400"
     },
     {
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
@@ -339,8 +339,8 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 18,
-      "description": "mainly clear",
+      "tempC": 23,
+      "description": "clear sky",
       "high": 28,
       "low": 18
     },
@@ -348,7 +348,7 @@
       "place": "London",
       "tempC": 20,
       "description": "overcast",
-      "high": 25,
+      "high": 26,
       "low": 20
     }
   ],
