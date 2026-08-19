@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T15:27:18.145Z",
+  "updated": "2026-08-19T18:29:38.266Z",
   "news": [
     {
       "title": "Financial Times: İran, Avrupa'daki ABD hedeflerini vurmayı değerlendirdi",
@@ -8,6 +8,14 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c0rdl1v0pljo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 19 Aug 2026 11:32:02 GMT"
+    },
+    {
+      "title": "Moderna mRNA kanser aşısında başarı açıkladı, şirketin değeri ikiye katlandı",
+      "summary": "ABD'li tıp şirketleri Moderna ve Merck, hastaların tümörlerine özel geliştirilen bir melanoma (cilt kanseri) aşısının geniş çaplı deneylerinin başarılı olduğunu ve hastalarda kanserin tekrar ortaya çıkmasını büyük oranda engellediğini duyur",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cr49yq17929o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 19 Aug 2026 17:03:49 GMT"
     },
     {
       "title": "Hind Receb'in öldürülmesi: İsrail'den iki Gazze saldırısıyla ilgili cezai soruşturma",
@@ -26,14 +34,6 @@
       "publishedAt": "Wed, 19 Aug 2026 07:02:11 GMT"
     },
     {
-      "title": "Ukrayna'da popüler eski savunma bakanından genel seçim çağrısı",
-      "summary": "Ukrayna'nın popüler eski savunma bakanı Mykhailo Fedorov, ülkede süren savaşa rağmen genel seçim yapılması çağrısında bulundu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c79gpel84zzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 12:09:01 GMT"
-    },
-    {
       "title": "Fransa'da yüzlerce kadın bir kamu görevlisini 'idrar kaçırmaları' için kendilerine ilaç vermekle suçluyor",
       "summary": "200'den fazla kadın, Christian Nègre'nin iş görüşmelerinde idrar kaçırmalarına yol açmak için kendilerine ilaç verdiğini iddia ediyor.",
       "source": "BBC Türkçe",
@@ -50,11 +50,32 @@
       "publishedAt": "Wed, 19 Aug 2026 06:28:33 GMT"
     },
     {
-      "title": "İstanbul Adalar'da peş peşe depremler",
-      "summary": "Marmara Denizi’nde birkaç saat arayla en büyüğü 2.6 olmak üzere peş peşe depremler meydana geldi.",
+      "title": "Son dakika Hakkari'de deprem mi oldu? Az önce deprem Hakkari'de nerede oldu? Hakkari deprem Kandilli ve AFAD son depremler listesi 19 Ağustos 2026",
+      "summary": "Son dakika Hakkari deprem haberleri.. Hakkari'de deprem mi oldu? Az önce deprem Hakkari'de nerede oldu? Hakkari Kandilli ve AFAD son depremler.. 19 Ağustos 2026 Hakkari deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu H",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-19T18:26:25+03:00"
+      "publishedAt": "2026-08-19T21:00:00+03:00"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan Dünya İnsani Yardım Günü mesajı. \"Örnek olmayı sürdürüyoruz\"",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Dünya İnsani Yardım Günü dolayısıyla paylaşım yaptı. Türkiye'nin milli gelirine göre en fazla insani yardım yapan ülke olduğunu söyledi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-19T20:19:44+03:00"
+    },
+    {
+      "title": "Ahmet Haluk Dursun vefatının 7’nci yılında anıldı",
+      "summary": "Ahmet Haluk Dursun vefatının 7’nci yılında anıldı. Törene Kültür ve Turizm Bakanı Mehmet Nuri Ersoy da katıldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-19T19:06:49+03:00"
+    },
+    {
+      "title": "İstanbul Adalar'da peş peşe depremler",
+      "summary": "Marmara Denizi’nde birkaç saat arayla en büyüğü 3.2 olmak üzere peş peşe depremler meydana geldi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-19T19:16:32+03:00"
     },
     {
       "title": "Bakan Ersoy, Birol Altınkılıç’ın cenazesine katıldı",
@@ -71,25 +92,44 @@
       "publishedAt": "2026-08-19T16:52:04+03:00"
     },
     {
-      "title": "TIR yola boya dökmüştü: Araçların mora boyadığı anlar",
-      "summary": "Afyonkarahisar'da tırın taşıdığı mor boya dorsesinden dökülünce, arkasından gelen araçların mor renge boyadığı anların görüntüsü ortaya çıktı.",
-      "source": "NTV",
+      "title": "Emekliye ÖTV'siz araç listesi",
+      "summary": "Emekliye ÖTV'siz araç düzenlemesi, otomobil sahibi olmak isteyenlerin gündemindeki yerini koruyor. TBMM'ye sunulan kanun teklifinin kapsamı ve hangi emeklilerin bu haktan yararlanabileceği merak ediliyor. Düzenlemenin yasalaşıp yasalaşmadığ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-19T16:39:07+03:00"
+      "link": "https://www.haberturk.com/emekliye-otv-siz-arac-son-dakika-emeklilere-otv-siz-arac-sartlari-neler-meclis-te-kabul-edildi-mi-3906779",
+      "publishedAt": "Wed, 19 Aug 2026 17:58:09 GMT"
     },
     {
-      "title": "Yeni Parti Gaziantep İl Başkanı Erhan Deniz Güngen hakkında soruşturma",
-      "summary": "Yeni Parti Gaziantep İl Başkanı Erhan Deniz Güngen hakkında \"halkı yanıltıcı bilgiyi alenen yayma\" suçlamasıyla resen soruşturma başlatıldı.",
-      "source": "NTV",
+      "title": "Uçuş Planı filminin konusu nedir?",
+      "summary": "Uçuş Planı filmi, gerilim ve gizem türündeki hikâyesiyle televizyon ekranlarında yeniden izleyici karşısına çıkıyor. Başrolünde Oscar ödüllü oyuncu Jodie Foster'ın yer aldığı yapım, bir uçak yolculuğu sırasında yaşanan gizemli kayboluşu kon",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-19T16:46:27+03:00"
+      "link": "https://www.haberturk.com/ucus-plani-filmi-konusu-nedir-oyunculari-kimler-ucus-plani-filmi-ne-zaman-cekildi-3906771",
+      "publishedAt": "Wed, 19 Aug 2026 16:36:35 GMT"
     },
     {
-      "title": "Türk iş insanı kaçırıldı mı? Günlerdir haber yok, arabası Facebook'ta satışa çıkarıldı",
-      "summary": "Adana'da yaşayan bir iş insanı, iddiaya göre inşaat malzemeleri götürmek için gittiği Fildişi Sahili'nde kaçırıldı.",
-      "source": "NTV",
+      "title": "Şans Topu sonuçları açıklandı",
+      "summary": "Şans Topu'nda heyecan haftanın ilk çekilişi ile başladı. 19 Ağustos 2026 Çarşamba günü gerçekleştirilen çekilişin ardından kupon sahipleri kazandıran numaraları gündemine aldı. Büyük ikramiyenin hangi kupona isabet ettiği ve 5+1 bilen olup ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-19T16:03:09+03:00"
+      "link": "https://www.haberturk.com/son-dakika-sans-topu-sonuclari-aciklandi-19-agustos-2026-sans-topu-cekilis-sonucu-sorgulama-ekrani-3906767",
+      "publishedAt": "Wed, 19 Aug 2026 18:09:39 GMT"
+    },
+    {
+      "title": "İstanbul hissedilen peş peşe depremler",
+      "summary": "İstanbul'da yaşayan kent sakinleri bugün hissedilen sarsıntıların ardından deprem olup olmadığını araştırmaya başladı. Gün içerisinde meydana gelen depremler sonrası AFAD ve Kandilli Rasathanesi tarafından paylaşılan veriler yakından takip ",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/istanbul-da-deprem-mi-oldu-kac-buyuklugunde-nerede-19-agustos-2026-afad-ve-kandilli-son-depremler-listesi-3906758",
+      "publishedAt": "Wed, 19 Aug 2026 18:01:56 GMT"
+    },
+    {
+      "title": "Gram altın ne kadar oldu?",
+      "summary": "ABD Hazine Bakanlığı'nın uzun vadeli tahviller için geri alım operasyonlarını artırma kararı, küresel piyasalarda hareketliliğe neden oldu. Kararın ardından ABD'nin uzun vadeli tahvil faizleri gerilerken dolar endeksinde de düşüş görüldü. B",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/altin-neden-yukseliyor-gram-altin-yukselecek-mi-19-agustos-2026-cumhuriyet-ceyrek-altin-ve-gram-altin-ne-kadar-3906753",
+      "publishedAt": "Wed, 19 Aug 2026 18:00:41 GMT"
     },
     {
       "title": "AJet'ten yurt dışı indirimli bilet kampanyası!",
@@ -97,55 +137,15 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/ajet-yurt-disi-indirimli-bilet-kampanyasi-2026-1-euroya-seyahat-firsati-ajet-ucuz-ucak-bileti-nasil-alinir-kampanya-sartlari-neler-ne-zaman-ve-nerelerde-gecerli-3906719",
-      "publishedAt": "Wed, 19 Aug 2026 13:25:27 GMT"
+      "publishedAt": "Wed, 19 Aug 2026 16:52:14 GMT"
     },
     {
-      "title": "Mevlid Kandili ne zaman?",
-      "summary": "‘’Mevlid Kandili ne zaman idrak edilecek?’’ sorusu gündemde en çok araştırılanlardan biri oldu. İslam dünyasında önemli günlerden biri olan Mevlid Kandili, alemlere rahmet olarak gönderilen Hz. Muhammed’in (s.a.v.) dünyaya gelişinin yıl dön",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/mevlid-kandili-ne-zaman-idrak-edilecek-hangi-gune-denk-geliyor-diyanet-dini-gunler-takvimi-ile-2026-mevlid-kandili-tarihi-3906677",
-      "publishedAt": "Wed, 19 Aug 2026 13:25:20 GMT"
-    },
-    {
-      "title": "Ankara'da okul servis ücretlerine zam geldi!",
-      "summary": "2026-2027 eğitim öğretim yılının başlamasına oldukça kısa süre kaldı. Milli Eğitim Bakanlığı’nın (MEB) takvimine göre bu yıl okullar 14 Eylül Pazartesi günü açılacak. Geri sayım sürerken yeni eğitim öğretim döneminde geçerli olacak okul ser",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/ankara-okul-servis-ucretleri-2026-2027-ankarada-zamli-okul-servis-ucretleri-ne-kadar-oldu-kac-tl-iste-kilometreye-gore-yeni-ucret-tarifesi-3906672",
-      "publishedAt": "Wed, 19 Aug 2026 09:56:33 GMT"
-    },
-    {
-      "title": "Okullara 30 bin güvenlik alımı ne zaman?",
-      "summary": "2026-2027 eğitim öğretim yılı öncesinde okullardaki güvenlik önlemlerinin artırılması için yeni bir istihdam hazırlığı gündemde. Bu kapsamda 81 ildeki okullarda toplam 30 bin güvenlik görevlisinin görevlendirilmesi planlanıyor. Söz konusu a",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/okullara-30-bin-guvenlik-alimi-basvuru-takvimi-2026-iskur-ile-okullara-30-bin-guvenlik-gorevlisi-alimi-basvurulari-ne-zaman-baslayacak-sartlari-neler-3906652",
-      "publishedAt": "Wed, 19 Aug 2026 09:06:44 GMT"
-    },
-    {
-      "title": "Sağlık Bakanlığı personel alımında son durum",
-      "summary": "Eleman temininde güçlük çekilen yerlerde ve hizmet dallarında sağlık hizmetlerinin etkili ve verimli bir şekilde yürütülebilmesi amacıyla Sağlık Bakanlığı bünyesine 26 bin 673 sözleşmeli sözleşmeli sağlık personeli alınacağı duyurulmuştu. A",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/saglik-bakanligi-personel-alimi-son-durum-2026-saglik-bakanligi-26-bin-673-personel-alimi-basvurulari-ne-zaman-baslayacak-sartlari-neler-3906621",
-      "publishedAt": "Wed, 19 Aug 2026 07:43:22 GMT"
-    },
-    {
-      "title": "19 Ağustos Çarşamba maç takvimi",
-      "summary": "19 Ağustos 2026 bugünkü maçlar futbolseverler tarafından merak ediliyor. Bu kapsamda ‘’Bugün hangi maçlar var, kimin maçı var?’’ sorularına yanıt aranıyor. UEFA Şampiyonlar Ligi’nde play-off turu heyecanı devam ediyor. Avrupa futbolunun kul",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/19-agustos-2026-mac-programi-bugun-hangi-maclar-var-kimin-maci-var-saat-kacta-ve-hangi-kanalda-canli-yayinlanacak-3906586",
-      "publishedAt": "Wed, 19 Aug 2026 09:28:46 GMT"
-    },
-    {
-      "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
-      "summary": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
+      "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 13:53:51 GMT"
+      "publishedAt": "Wed, 19 Aug 2026 15:33:32 GMT"
     },
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election",
@@ -153,15 +153,15 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 11:00:21 GMT"
+      "publishedAt": "Wed, 19 Aug 2026 17:23:42 GMT"
     },
     {
-      "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
-      "summary": "The US president says the two sides are finalising documents to avert import taxes targeting a range of Canadian goods.",
+      "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+      "summary": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 03:56:35 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 19 Aug 2026 17:16:28 GMT"
     },
     {
       "title": "South Korea shortens war games with US, citing Washington request",
@@ -169,7 +169,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 14:16:27 GMT"
+      "publishedAt": "Wed, 19 Aug 2026 17:39:49 GMT"
     },
     {
       "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
@@ -177,7 +177,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 12:47:53 GMT"
+      "publishedAt": "Wed, 19 Aug 2026 16:31:48 GMT"
     },
     {
       "title": "Six tourists and pilot killed in Kenya helicopter crash",
@@ -188,56 +188,88 @@
       "publishedAt": "Wed, 19 Aug 2026 13:00:09 GMT"
     },
     {
-      "title": "Palestinian refugee and two relatives drown off English coast",
-      "summary": "A girl is taken to hospital in critical condition in what PM Burnham calls a 'terrible family tragedy'.",
+      "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
+      "summary": "Canada official condemns Israel's 'invasion' of Lebanon, calls for sovereignty as aid pledged to the crisis-hit nation.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss",
-      "publishedAt": "Wed, 19 Aug 2026 14:52:39 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion?traffic_source=rss",
+      "publishedAt": "Wed, 19 Aug 2026 18:08:09 +0000"
     },
     {
-      "title": "Israel numbers Palestinian detainee foreheads: What we know",
-      "summary": "Palestinian news outlets reported a man with the number ‘44’ written on his forehead following a raid in Qabatiya.",
+      "title": "Kennedy Center board says it won’t try to immediately restore Trump’s name",
+      "summary": "Opponents argue the venue seems 'intent on defying' a court order to remove the president's name from the building.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss",
-      "publishedAt": "Wed, 19 Aug 2026 14:48:55 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss",
+      "publishedAt": "Wed, 19 Aug 2026 18:06:55 +0000"
     },
     {
-      "title": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
-      "summary": "The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.",
+      "title": "Brazil bus crash kills at least 23 and injures five in Parana state",
+      "summary": "The bus was travelling to hospitals near Curitiba when the accident occurred.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss",
-      "publishedAt": "Wed, 19 Aug 2026 14:44:09 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/19/brazil-bus-crash-kills-at-least-23-and-injures-five-in-parana-state?traffic_source=rss",
+      "publishedAt": "Wed, 19 Aug 2026 17:54:37 +0000"
     },
     {
-      "title": "Premier League 2026-27 form guide: Title race, prediction, players to watch",
-      "summary": "Will Arsenal repeat, could Man Utd win, what about Liverpool? Breaking down the top clubs’ chances for 2026-27 season.",
+      "title": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
+      "summary": "NATO says it will 'do what is necessary' amid media report Iran considered strikes against US targets in Europe.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/19/premier-league-2026-27-form-guide-title-race-prediction-players-to-watch?traffic_source=rss",
-      "publishedAt": "Wed, 19 Aug 2026 14:37:13 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
+      "publishedAt": "Wed, 19 Aug 2026 17:50:50 +0000"
     },
     {
-      "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
-      "summary": "Jose Mourinho is back for a second spell at Real Madrid who, he says, didn't need Barcelona's new signing Rodri.",
+      "title": "US Department of Justice defends prosecution of Comey over seashell post",
+      "summary": "The ex-FBI chief faces accusations of transmitting threats and exploiting controversy to market his upcoming novel.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
-      "publishedAt": "Wed, 19 Aug 2026 13:24:34 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/19/us-department-of-justice-defends-prosecution-of-comey-over-seashell-post?traffic_source=rss",
+      "publishedAt": "Wed, 19 Aug 2026 17:50:26 +0000"
     },
     {
-      "title": "Israeli forces mark Palestinians with numbers amid mass arrests",
-      "summary": "Palestinian detainees were marked with numbers during a mass Israeli arrest campaign in Qabatiya.",
+      "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
+      "summary": "US President Donald Trump claimed North Korean leader Kim Jong Un had responded positively to his proposal for talks.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
-      "publishedAt": "Wed, 19 Aug 2026 13:20:08 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss",
+      "publishedAt": "Wed, 19 Aug 2026 17:32:36 +0000"
     },
     {
-      "title": "Real-world study of Oregon's nonmedical psilocybin program shows promise",
-      "summary": "Oregon was the first state to establish a legalized and regulated psilocybin industry. Since then, thousands have tried magic mushrooms. Here is the first data from the state's real life experiment.",
+      "title": "In new filings, Kennedy Center says it won't try to put Trump's name on facade until Sept. 8",
+      "summary": "Lawyers for Rep. Joyce Beatty asked a judge to rule speedily on the complex's renovation and entrance tarp. The National Symphony Orchestra also announced its new season, away from the Kennedy Center.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
+      "publishedAt": "Wed, 19 Aug 2026 14:01:03 -0400"
+    },
+    {
+      "title": "Why Aitana's 'Superestrella' is the surprise Latin hit song of the summer",
+      "summary": "There's a reason why the escapist hit from singer Aitana has swept most of the Spanish-language world.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937925/aitana-superestrella-song-of-the-summer",
+      "publishedAt": "Wed, 19 Aug 2026 13:03:41 -0400"
+    },
+    {
+      "title": "Why does the U.S. military seem stymied in the war with Iran?",
+      "summary": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+      "publishedAt": "Wed, 19 Aug 2026 12:18:35 -0400"
+    },
+    {
+      "title": "This high-speed star is whipping around the black hole in the middle of our galaxy",
+      "summary": "Researchers have identified a speed demon at the heart of the Milky Way. This fast-moving star may yield insights into the black hole parked at the center of our galaxy.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
+      "publishedAt": "Wed, 19 Aug 2026 11:38:57 -0400"
+    },
+    {
+      "title": "A real-world study of Oregon's nonmedical psilocybin program shows promise",
+      "summary": "Oregon was the first state to establish a legalized and regulated psilocybin industry. Since then, thousands have tried magic mushrooms. Here is the latest data from the state's real-life experiment.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/08/19/nx-s1-5936443/oregon-psilocybin-ptsd-depression-anxiety",
@@ -250,38 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/08/19/g-s1-139174/trouville-sur-mer-france-normandy-monet-beach",
       "publishedAt": "Wed, 19 Aug 2026 10:19:20 -0400"
-    },
-    {
-      "title": "U.S. delays 50% tariff on Canadian imports. And, takeaways from Florida's primaries",
-      "summary": "President Trump has announced that the U.S. is delaying a 50% tariff on Canadian imports after reaching a deal. And, how progressive Democrats fared in Florida's primary elections yesterday.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
-      "publishedAt": "Wed, 19 Aug 2026 07:14:31 -0400"
-    },
-    {
-      "title": "How India's blocking of a film exposing real-life police abuses backfired",
-      "summary": "When Indian authorities scrubbed the biopic of activist Jaswant Singh Khalra, local villagers and activists turned its censorship into a grassroots movement.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/19/g-s1-138787/how-indias-blocking-of-a-film-exposing-real-life-police-abuses-backfired",
-      "publishedAt": "Wed, 19 Aug 2026 06:02:00 -0400"
-    },
-    {
-      "title": "Striking hospital employees sound alarm over workplace violence",
-      "summary": "In addition to pay, striking hospital workers say patient violence is an issue. Hospital workers are seven times more likely to be injured at work due to violent acts than the general working population.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5930385/nurses-strike-hospital-workplace-violence-patient-attacks",
-      "publishedAt": "Wed, 19 Aug 2026 06:00:00 -0400"
-    },
-    {
-      "title": "Congo's Ebola outbreak reaches 5,000 cases as it outpaces response efforts",
-      "summary": "Government data showed the outbreak had so far recorded 5,021 cases, including 2,378 deaths. The outbreak has infected and killed more people at a greater speed than any other outbreak in history.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/19/g-s1-139164/congo-ebola-outbreak",
-      "publishedAt": "Wed, 19 Aug 2026 05:29:40 -0400"
     },
     {
       "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
@@ -328,16 +328,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 26,
+      "tempC": 23,
       "description": "mainly clear",
       "high": 29,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 24,
-      "description": "partly cloudy",
-      "high": 24,
+      "tempC": 23,
+      "description": "clear sky",
+      "high": 25,
       "low": 17
     }
   ],
