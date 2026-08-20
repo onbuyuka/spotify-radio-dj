@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T06:39:35.473Z",
+  "updated": "2026-08-20T09:30:44.633Z",
   "news": [
     {
       "title": "Suriye Dışişleri Bakanı: İsrail'in vurduğu üste Türk askeri varlığı planı yok",
@@ -18,20 +18,20 @@
       "publishedAt": "Thu, 20 Aug 2026 03:51:07 GMT"
     },
     {
+      "title": "Prens Harry ve Meghan bu ayın sonunda İngiltere'ye dönüyor",
+      "summary": "Çiftin çocukları, 7 yaşındaki Prens Archie ve 5 yaşındaki Prenses Lilibet, Eylül ayında okula başlamak üzere kayıt yaptırdılar.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c4gv1vwgegzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 07:07:42 GMT"
+    },
+    {
       "title": "Hind Receb'in öldürülmesi: İsrail'den iki Gazze saldırısıyla ilgili cezai soruşturma",
       "summary": "İsrail ordusu, altı yaşındaki Hind Receb'in Gazze'de öldürülmesiyle ilgili olarak cezai soruşturma başlatılması emrini verdi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c4g6182g28jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 19 Aug 2026 13:46:19 GMT"
-    },
-    {
-      "title": "Trump'ın Kuzey Kore açıklamalarının ardından; Güney Kore ile ABD'nin savaş tatbikatının süresi kısalıyor",
-      "summary": "Güney Kore Savunma Bakanlığı, ABD ile her yıl düzenlenen ortak askeri tatbikatların Washington'ın talebi üzerine altı gün kısaltılacağını duyurdu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cj4k710ydx9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 18:51:22 GMT"
     },
     {
       "title": "Fobiler: Bize muhtemelen zarar vermeyecek şeylerden neden bu kadar korkuyoruz?",
@@ -42,54 +42,70 @@
       "publishedAt": "Thu, 20 Aug 2026 06:00:30 GMT"
     },
     {
-      "title": "Financial Times: İran, Avrupa'daki ABD hedeflerini vurmayı değerlendirdi",
-      "summary": "İngiltere merkezli Financial Times gazetesi, ismini vermediği iki kaynağa dayanarak, savaşın tırmanması halinde İran'ın Avrupa'daki Amerikan askeri varlıklarını vurmayı değerlendirdiğini yazdı.",
+      "title": "Trump'ın Kuzey Kore açıklamalarının ardından; Güney Kore ile ABD'nin savaş tatbikatının süresi kısalıyor",
+      "summary": "Güney Kore Savunma Bakanlığı, ABD ile her yıl düzenlenen ortak askeri tatbikatların Washington'ın talebi üzerine altı gün kısaltılacağını duyurdu.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c0rdl1v0pljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 19 Aug 2026 20:48:18 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cj4k710ydx9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 19 Aug 2026 18:51:22 GMT"
     },
     {
-      "title": "Termometrelere Afrika-Basra ayarı. Önümüzdeki 10 güne dikkat! Rekor kırılacak",
-      "summary": "Yurdu etkisi altına alan Afrika ve Basra kökenli sıcak hava dalgası etkisini göstermeye başladı. Önümüzdeki 10 gün boyunca termometreler 40 dereceyi ve üstünü görecek.",
+      "title": "Furkan Vakfı soruşturmasında yeni ayrıntı. İşte Alpaslan Kuytul hakkındaki kritik ifade",
+      "summary": "Furkan Vakfı'na yönelik başlatılan soruşturmada vakfın eski görevlisi Koray Sarısaçlı, Alparslan Kuytul'un talimatıyla şiddet gördüğünü, ailesiyle tehdit edildiğini iddia etti.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-20T09:17:55+03:00"
+      "publishedAt": "2026-08-20T12:20:01+03:00"
     },
     {
-      "title": "İstanbul'da geceden sabaha deprem hareketliliği. Adalar çevresindeki depremler ne anlama geliyor?",
-      "summary": "İstanbul Adalar açıklarında iki gündür mikro depremler meydana geliyor. Jeolog Prof. Dr. Okan Tüysüz, depremlerin bu bölgedeki fayın aktif olduğuna işaret ettiğini anlattı.",
+      "title": "MSB'den İsrail'in İdlib saldırısına ilişkin açıklama: Üste Türk askeri var mıydı?",
+      "summary": "Milli Savunma Bakanlığı, İsrail'in Suriye'ye yönelik saldırılarının kabul edilemez olduğunu bildirdi. Bakanlık, saldırı sırasında hava üssünde Türk askeri olmadığını açıkladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-20T08:59:24+03:00"
+      "publishedAt": "2026-08-20T12:20:16+03:00"
     },
     {
-      "title": "Aracın üzerinde bulduğu çantadaki parayı polise teslim etti",
-      "summary": "Bursa'da Yasin Akduman, park halindeki bir aracın kaputunda bulduğu ve içerisinde yaklaşık 30 bin TL bulunan çantayı polise teslim etti.",
+      "title": "İstanbul'da tramvay raydan çıktı",
+      "summary": "İstanbul Fındıklı'da tramvay raydan çıktı. Olay yerine itfaiye ve sağlık ekipleri sevk edildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-20T06:00:29+03:00"
+      "publishedAt": "2026-08-20T11:52:24+03:00"
     },
     {
-      "title": "AK Parti'den 25. kuruluş yıl dönümü için video",
-      "summary": "AK Parti’nin 25. kuruluş yıl dönümü kapsamında hazırlanan yeni video çalışması, resmi sosyal medya hesaplarından yayımlandı.",
+      "title": "Yüksek ses ve müziğe geçit yok: 3 araç trafikten men edildi",
+      "summary": "Başakşehir’de drone destekli trafik denetiminde 229 araç ve 289 kişi sorgulandı. Gürültü ve çeşitli trafik ihlalleri nedeniyle 43 araca 248 bin 688 lira ceza kesilirken, 3 araç trafikten men edildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-20T05:56:07+03:00"
+      "publishedAt": "2026-08-20T11:20:02+03:00"
     },
     {
-      "title": "CHP, Menderes Belediyesi seçimine itiraz edecek",
-      "summary": "Cumhuriyet Halk Partisi, Menderes Belediyesi seçimini yargıya taşımaya hazırlanıyor.",
+      "title": "İstanbul'da ilçe ilçe fiyatlar belli oldu, üniversitelilerin yurt telaşı başladı",
+      "summary": "YKS yerleştirme sonuçlarının açıklanmasının ardından üniversiteli gençlerin kayıt heyecanına barınma telaşı eklendi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-20T04:41:33+03:00"
+      "publishedAt": "2026-08-20T11:14:48+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Ağustos 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar",
+      "title": "Müjdeyi verdi, bu yıl bolluk yaşanacak. Fiyatlar uygun olacak",
+      "summary": "Eskişehir'de uzun yıllardır balıkçılık yapan Selahattin Arslanbenzer, bu yıl palamut balığında yaşanacak bolluğun müjdesini vererek, vatandaşların uygun fiyata balık yiyebileceğini söyledi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-20T09:30:00+03:00"
+      "publishedAt": "2026-08-20T10:40:56+03:00"
+    },
+    {
+      "title": "Türkiye’nin nüfusu kaç oldu?",
+      "summary": "Türkiye İstatistik Kurumu (TÜİK), üçer aylık dönemler için üretilen dönemlik nüfus istatistiklerini açıkladı. Böylece güncel Türkiye nüfusu belli oldu. 2025 yılı sonunda 86 milyon 92 bin 168 olarak kaydedilen ülke nüfusu, 2026 yılının ilk 6",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/turkiye-nufusu-2026-son-dakika-turkiyenin-nufusu-kac-oldu-turkiye-de-kac-milyon-erkek-ve-kadin-var-3906900",
+      "publishedAt": "Thu, 20 Aug 2026 09:20:32 GMT"
+    },
+    {
+      "title": "PMYO parkur sınavı ne zaman yapılacak?",
+      "summary": "25. Dönem PMYO giriş sınavı aday belirleme ön başvuru sonuçları 14 Ağustos'ta açıklanmış, böylece giriş sınavı aşamalarına katılmaya hak kazanan adaylar belli olmuştu. Belirtilen süre içerisinde başvuru ücretini ödeyen binlerce aday, şimdi ",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/pmyo-parkur-sinavi-tarihi-2026-polis-akademisi-25-donem-pmyo-parkur-sinavi-ne-zaman-yapilacak-fiziki-yeterlilik-sinav-tarihi-belli-oldu-mu-3906880",
+      "publishedAt": "Thu, 20 Aug 2026 08:22:20 GMT"
     },
     {
       "title": "Motorine/benzine zam ya da indirim var mı?",
@@ -97,7 +113,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/akaryakit-fiyatlari-20-agustos-2026-motorine-ve-benzine-zam-ya-da-indirim-var-mi-litresi-ne-kadar-istanbul-ankara-izmir-benzin-motorin-ve-lpg-fiyatlari-3906833",
-      "publishedAt": "Thu, 20 Aug 2026 06:01:07 GMT"
+      "publishedAt": "Thu, 20 Aug 2026 07:11:12 GMT"
     },
     {
       "title": "Bugün hangi maçlar var?",
@@ -108,12 +124,12 @@
       "publishedAt": "Thu, 20 Aug 2026 05:28:36 GMT"
     },
     {
-      "title": "Reyting sonuçları açıklandı mı?",
-      "summary": "Dünün reyting sonuçları 19 Ağustos 2026 listesi araştırılmaya başlandı. Dün akşam televizyon kanallarında birbirinden farklı yapımlar yer aldı. ATV’de Var Mısın Yok Musun ve TV8’de MasterChef Türkiye yarışmaları yeni bölümleriyle izleyici k",
+      "title": "Dünün reyting sonuçları açıklandı!",
+      "summary": "Dünün reyting sonuçları 19 Ağustos 2026 listesi araştırılmaya başlandı. Dün akşam televizyon kanallarında birbirinden farklı yapımlar yer aldı. Star TV’de Doğanın Kanunu dizisi ile ATV’de Var Mısın Yok Musun ve TV8’de MasterChef Türkiye yar",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/reyting-sonuclari-ab-total-siralamasi-19-agustos-2026-var-misin-yok-musun-masterchef-turkiye-reytinglerde-kacinci-oldu-hangi-yapim-zirveye-yerlesti-3906830",
-      "publishedAt": "Thu, 20 Aug 2026 04:48:19 GMT"
+      "publishedAt": "Thu, 20 Aug 2026 07:14:27 GMT"
     },
     {
       "title": "Trabzonspor-Ferencvaros maçı ne zaman?",
@@ -124,28 +140,12 @@
       "publishedAt": "Wed, 19 Aug 2026 21:12:10 GMT"
     },
     {
-      "title": "MasterChef dokunulmazlık oyunu kim kazandı?",
-      "summary": "MasterChef Türkiye'de haftanın ilk takım oyunu için heyecan başladı. Yeni bölümde yarışmacılar, mangal konseptiyle hazırlayacakları tabaklarla şeflerin karşısına çıktı. Mavi ve kırmızı takım en iyi yemekleri hazırlayarak dokunulmazlığı kaza",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/masterchef-dokunulmazlik-oyunu-kim-kazandi-19-agustos-masterchef-eleme-adayi-kim-oldu-bireysel-dokunulmazligi-kim-aldi-3906782",
-      "publishedAt": "Thu, 20 Aug 2026 03:32:10 GMT"
-    },
-    {
-      "title": "Emekliye ÖTV'siz araç listesi",
-      "summary": "Emekliye ÖTV'siz araç düzenlemesi, otomobil sahibi olmak isteyenlerin gündemindeki yerini koruyor. TBMM'ye sunulan kanun teklifinin kapsamı ve hangi emeklilerin bu haktan yararlanabileceği merak ediliyor. Düzenlemenin yasalaşıp yasalaşmadığ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/emekliye-otv-siz-arac-son-dakika-emeklilere-otv-siz-arac-sartlari-neler-meclis-te-kabul-edildi-mi-3906779",
-      "publishedAt": "Thu, 20 Aug 2026 03:27:35 GMT"
-    },
-    {
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 05:10:09 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 09:14:56 GMT"
     },
     {
       "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
@@ -156,132 +156,132 @@
       "publishedAt": "Thu, 20 Aug 2026 06:08:02 GMT"
     },
     {
-      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 05:25:23 GMT"
-    },
-    {
-      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "title": "Trump vows tougher economic measures on Iran and supporting countries",
       "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 03:22:57 GMT"
+      "publishedAt": "Thu, 20 Aug 2026 09:13:18 GMT"
     },
     {
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "summary": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "summary": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 02:05:20 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 07:08:35 GMT"
     },
     {
-      "title": "Former Liberian vice president charged in drug-trafficking probe",
-      "summary": "Jewel Howard-Taylor faces charges of illegally facilitating, importing and selling drugs, alongside money laundering.",
+      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 03:09:24 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 07:33:11 GMT"
     },
     {
-      "title": "Australian anger as Israel drops World Central Kitchen deaths case",
-      "summary": "Australia has summoned the Israeli ambassador in anger over the country’s decision not to pursue criminal proceedings.",
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "summary": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 05:45:53 GMT"
+    },
+    {
+      "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
+      "summary": "Most ships are trying to mask identities while trying to cross the strait. But more seem scared of Iran than of the US.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/australian-anger-as-israel-drops-world-central-kitchen-deaths-case?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 05:43:01 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 08:43:17 +0000"
     },
     {
-      "title": "Exclusive: Pentagon sends ‘political loyalty’ survey to US allies",
-      "summary": "In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.",
+      "title": "Max Verstappen signs new F1 contract with Red Bull until 2030",
+      "summary": "Four-time F1 World Drivers' Champion's new deal puts to rest rumours that he would exit the team at the end of 2028.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 05:06:23 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/20/verstappen-signs-new-red-bull-contract-until-2030?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 08:27:55 +0000"
     },
     {
-      "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
-      "summary": "Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
+      "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
+      "summary": "Heatwaves are squeezing growth and productivity while the Iran war drives up Europe's energy costs.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 04:59:22 +0000"
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 08:24:04 +0000"
     },
     {
-      "title": "Trump vows ‘economic warfare’ on countries helping Iran",
-      "summary": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
+      "title": "Video shows Russian missile strike on Ukrainian capital",
+      "summary": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 04:31:10 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 08:18:15 +0000"
     },
     {
-      "title": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
-      "summary": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
+      "title": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
+      "summary": "Far-right Israeli minister Itamar Ben-Gvir has praised the destruction of 10,000 Palestinian homes in Israel.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 02:50:17 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 08:16:47 +0000"
     },
     {
-      "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
-      "summary": "Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.",
+      "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 02:16:17 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 07:50:07 +0000"
     },
     {
-      "title": "Prince Harry and Meghan are returning to the U.K. with their children",
-      "summary": "Prince Harry and his wife, Meghan, have decided to return to the United Kingdom for an extended stay starting this fall, but they won't resume their roles as working members of the royal family.",
+      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
+      "summary": "One of the most famous dishes across West Africa is Jollof Rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5939320/harry-meghan-return-uk",
-      "publishedAt": "Thu, 20 Aug 2026 02:17:42 -0400"
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
+      "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics",
-      "summary": "Israel's military on Wednesday announced its first criminal investigations into troop conduct in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics.",
+      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
+      "summary": "Many people don't pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5939310/israeli-military-criminal-probes",
-      "publishedAt": "Thu, 20 Aug 2026 01:50:53 -0400"
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+      "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "California passes toughest wildfire rules in the U.S. for home landscaping",
-      "summary": "California has adopted the toughest new rules in the country that require homeowners to manage the plants around their houses. Fire experts say it helps protect houses from burning, but public pushback has been strong.",
+      "title": "Here's how the system to report problems in ICE detention has failed immigrants",
+      "summary": "Critics say it is the reason why more detainees are risking their lives to protest inhumane conditions and legal rights violations, in the form of widespread hunger strikes.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937926/california-wildfire-rules-zone-zero-vegetation",
-      "publishedAt": "Wed, 19 Aug 2026 19:19:12 -0400"
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
+      "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "Experts raise alarms over Census Bureau report Trump is touting on noncitizen voting",
-      "summary": "A Trump-aligned think tank has ties to a highly unusual Census Bureau report that the president is using to renew false claims of widespread voting by non-U.S. citizens in 2020, NPR has learned.",
+      "title": "Disabled adults learn and work in their communities. That right is under threat",
+      "summary": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5938799/trump-census-bureau-noncitizen-voting",
-      "publishedAt": "Wed, 19 Aug 2026 17:27:51 -0400"
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
+      "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "Whistleblower Arturo Béjar leads testimony in landmark trial against Meta",
-      "summary": "The former Meta employee testified that the company culture prioritized user numbers over child safety measures.",
+      "title": "Privacy advocates call on Maryland to investigate data brokers",
+      "summary": "Maryland has one of the strictest data privacy laws in the country. But privacy advocates allege data brokers are violating the law by selling data to police and federal immigration agencies.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5936648/meta-trial-arturo-bejar-whistleblower-testimony",
-      "publishedAt": "Wed, 19 Aug 2026 17:20:15 -0400"
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
+      "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400"
     },
     {
-      "title": "The U.S. debt tops a record-shattering $40 trillion. Yes, with a T",
-      "summary": "The federal debt reached $40 trillion as the government adds red ink at a rapid rate. That's leading nervous investors to demand higher interest rates — pushing up borrowing costs for everyone else.",
+      "title": "Morning news brief",
+      "summary": "Gulf countries react to protracted Iran war, U.S. debt tops $40 trillion, U.S. oil companies sign first deals with Venezuela.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
-      "publishedAt": "Wed, 19 Aug 2026 16:09:39 -0400"
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5931261/morning-news-brief",
+      "publishedAt": "Thu, 20 Aug 2026 04:52:29 -0400"
     },
     {
       "title": "More than 100 dead after goldmine collapses in Central African Republic",
@@ -337,16 +337,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
+      "tempC": 29,
       "description": "mainly clear",
       "high": 30,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 17,
-      "description": "overcast",
-      "high": 22,
+      "tempC": 18,
+      "description": "partly cloudy",
+      "high": 21,
       "low": 16
     }
   ],
