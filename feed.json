@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T18:33:50.803Z",
+  "updated": "2026-08-20T21:24:27.757Z",
   "news": [
     {
       "title": "İsrail medyası Ebu Zuhur Hava Üssü saldırısını nasıl yorumladı?",
@@ -8,6 +8,14 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cevmrjxz484o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 20 Aug 2026 18:00:42 GMT"
+    },
+    {
+      "title": "İngiltere, Fransa, Almanya, İtalya ve Kanada'dan İsrail'in Batı Şeria'daki yerleşim projesine kınama",
+      "summary": "Avrupa ülkeleri ve Kanada, İsrail'in işgal altındaki Batı Şeria'nın stratejik açıdan hayati önem taşıyan bir bölgesinde yerleşim yerlerini genişletme planları konusunda baskıyı artırıyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ceqe4x22en5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 19:31:26 GMT"
     },
     {
       "title": "Türkiye ve Yunanistan'dan karşılıklı adımlar: Ege Denizi'nde gerilim neden arttı?",
@@ -26,14 +34,6 @@
       "publishedAt": "Thu, 20 Aug 2026 17:12:30 GMT"
     },
     {
-      "title": "Pervin Buldan: 'Öcalan silahsızlanma ve siyasallaşma kurulunda yer alacak'",
-      "summary": "DEM Parti İmralı heyeti üyesi ve Van Milletvekili Pervin Buldan, PKK lideri Abdullah Öcalan'ın \"Silahsızlanma ve Siyasallaşma\" adıyla kurulması planlanan alt kurulda yer alacağını söyledi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c5y0n1dg4zqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 13:00:05 GMT"
-    },
-    {
       "title": "Göç sezonu başladı, İstanbul'da neden bir haftada 100'den fazla leylek öldü?",
       "summary": "Ağustos ayında göç sezonu başladığında İstanbul'dan her yıl ortalama bir milyon leylek geçiyor. Bu yıl göç başladığından beri Küçükçekmece Gölü'nün kuzeyindeki Tahtakale bölgesinde 100'ü aşkın leylek hayatını kaybetti. En az sekiz yaralı le",
       "source": "BBC Türkçe",
@@ -42,19 +42,33 @@
       "publishedAt": "Thu, 20 Aug 2026 16:18:50 GMT"
     },
     {
-      "title": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye'nin ilk maçı yarın",
-      "summary": "Avrupa Kadınlar Voleybol Şampiyonası yarın başlıyor. Son şampiyon Türkiye'nin ilk maçı Cuma günü İstanbul'da Letonya karşısına çıkacak.",
+      "title": "Pervin Buldan: 'Öcalan silahsızlanma ve siyasallaşma kurulunda yer alacak'",
+      "summary": "DEM Parti İmralı heyeti üyesi ve Van Milletvekili Pervin Buldan, PKK lideri Abdullah Öcalan'ın \"Silahsızlanma ve Siyasallaşma\" adıyla kurulması planlanan alt kurulda yer alacağını söyledi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 12:12:15 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c5y0n1dg4zqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 13:00:05 GMT"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 21 Ağustos 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 21 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-21T00:00:00+03:00"
+    },
+    {
+      "title": "Arif Ahmet Denizolgun’un naaşı yeniden defnedildi. Hazırlanacak rapor bekleniyor",
+      "summary": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun’un fethi kabir işlemi tamamlandı. Mezardan çıkarılan örnekler yeniden kabrine konulurken, yapılacak incelemenin ardından hazırlanacak rapor bekleniyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-20T22:53:31+03:00"
     },
     {
       "title": "Çiğli Belediye Başkanı'nın makam aracına silahlı saldırı. Saldırgan böyle yakalandı",
       "summary": "İzmir'de Çiğli Belediye Başkanı Onur Emrah Yıldız'ın park halindeki makam aracına silahlı saldırı düzenlendi. Şüpheli güvenlik görevlilerince yakalandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-20T20:18:07+03:00"
+      "publishedAt": "2026-08-20T22:19:43+03:00"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan dev teknoloji hamlesini duyurdu. 550 doktora öğrencisi eğitilecek",
@@ -78,18 +92,36 @@
       "publishedAt": "2026-08-20T15:53:05+03:00"
     },
     {
-      "title": "Drift atan ehliyetsiz sürücüye 220 bin lira ceza",
-      "summary": "Esenyurt’ta drift atarak araç kullandığı tespit edilen ehliyetsiz sürücü yakalandı. Araç sahibi ve ehliyetsiz araç kullandığı belirlenen kişiye toplam 220 bin lira ceza yazıldı.",
-      "source": "NTV",
+      "title": "Kauno Zalgiris-Beşiktaş rövanş maçı ne zaman?",
+      "summary": "Beşiktaş, UEFA Avrupa Ligi play-off turu ilk maçında Litvanya temsilcisi Kauno Zalgiris'i konuk etti. Taraftarlar karşılaşma sonrasında Beşiktaş - Kauno Zalgiris maçının kaç kaç bittiğini, gollerin kimin attığını araştırmaya başladı. Peki B",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-20T15:52:50+03:00"
+      "link": "https://www.haberturk.com/besiktas-kauno-zalgiris-maci-kac-kac-bitti-golleri-kim-atti-kauno-zalgiris-besiktas-rovans-maci-ne-zaman-3907000",
+      "publishedAt": "Thu, 20 Aug 2026 19:04:58 GMT"
     },
     {
-      "title": "CHP'de gündem disiplin dosyaları. \"İstifa etmiyoruz\"",
-      "summary": "Cumhuriyet Halk Partisi (CHP) Yüksek Disiplin Kurulu'nda (YDK) disiplin dosyaları ele alındı. Bazı isimlerin istifa etmeyeceğini bildirdiği, toplantıda bu kişilerin dosyalarının ayrıldığı öğrenildi.",
-      "source": "NTV",
+      "title": "Motorine/benzine zam ya da indirim var mı?",
+      "summary": "Uluslararası petrol piyasasındaki hareketlilik ve döviz kurunda yaşanan dalgalanma, akaryakıt pompa fiyatlarını doğrudan etkiliyor. Bu sebeple araç sahipleri, akaryakıt istasyonlarına gitmeden önce ‘’Benzine ve motorine zam yada indirim var",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-20T15:51:50+03:00"
+      "link": "https://www.haberturk.com/akaryakit-fiyatlari-20-agustos-2026-motorine-ve-benzine-zam-ya-da-indirim-var-mi-litresi-ne-kadar-istanbul-ankara-izmir-benzin-motorin-ve-lpg-fiyatlari-3906833",
+      "publishedAt": "Thu, 20 Aug 2026 21:10:20 GMT"
+    },
+    {
+      "title": "Türksat 4A kanal frekansları",
+      "summary": "Türksat 4A frekansları ve Türksat uydu ayarları, televizyon ve uydu alıcısında kanal kurulumu yapmak, eksik kanalları bulmak ve kanal listesini güncellemek isteyen kullanıcılar için önem taşıyor. Kurulum sırasında frekans, polarizasyon, sem",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/turksat-4a-kanal-frekanslari-2026-show-tv-trt-1-atv-kanal-d-star-tv-now-tv-tv8-turksat-4a-frekans-bilgileri-ve-uydu-ayarlari-3906222",
+      "publishedAt": "Thu, 20 Aug 2026 21:08:40 GMT"
+    },
+    {
+      "title": "Türkiye – Letonya voleybol maçı ne zaman?",
+      "summary": "A Milli Kadın Voleybol Takımı, Avrupa şampiyonluğunu korumak için yeniden sahneye çıkmaya hazırlanıyor. Son Avrupa şampiyonu unvanıyla turnuvaya katılacak olan Filenin Sultanları, kendi evinde oynayacağı karşılaşmalarla taraftarının karşısı",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/turkiye-letonya-voleybol-maci-ne-zaman-saat-kacta-hangi-kanalda-iste-filenin-sultanlari-rakipleri-ve-mac-programi-3907024",
+      "publishedAt": "Thu, 20 Aug 2026 20:51:33 GMT"
     },
     {
       "title": "Asgari ücrete ara zam var mı?",
@@ -97,47 +129,31 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/asgari-ucret-ara-zam-son-dakika-2026-asgari-ucrete-ara-zam-var-mi-2026-asgari-ucret-ara-zammi-olacak-mi-3907021",
-      "publishedAt": "Thu, 20 Aug 2026 18:10:09 GMT"
+      "publishedAt": "Thu, 20 Aug 2026 19:06:07 GMT"
     },
     {
-      "title": "UEFA ülke puanı sıralaması",
-      "summary": "Türkiye'nin UEFA ülke puanı sıralamasındaki mücadelesi 20 Ağustos Perşembe günü oynanacak kritik karşılaşmalarla devam ediyor. Avrupa kupalarında yoluna devam eden Fenerbahçe, Beşiktaş ve Trabzonspor'un alacağı sonuçlar Türkiye'nin sıralama",
+      "title": "MasterChef kim kazandı?",
+      "summary": "MasterChef Türkiye'de heyecan yeni bölümde oynanan dokunulmazlık oyunuyla devam etti. Yarışmacılar, düello şeklinde gerçekleştirilen oyunda zeytinyağlılar konseptiyle en iyi tabağı hazırlamak için mücadele etti. Şeflerin değerlendirmeleri s",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/uefa-ulke-puani-siralamasi-degisti-20-agustos-2026-uefa-ulke-puani-siralamasinda-turkiye-nin-kac-puani-var-kacinci-sirada-3907005",
-      "publishedAt": "Thu, 20 Aug 2026 16:59:02 GMT"
+      "link": "https://www.haberturk.com/masterchef-dokunulmazlik-oyunu-kim-kazandi-20-agustos-persembe-masterchef-eleme-adayi-kim-oldu-3907015",
+      "publishedAt": "Thu, 20 Aug 2026 20:17:04 GMT"
     },
     {
-      "title": "Trabzonspor-Ferencvaros maçı izle",
-      "summary": "Trabzonspor, UEFA Avrupa Ligi play-off turu ilk maçında Macaristan temsilcisi Ferencvaros'u sahasında ağırlıyor. Avrupa arenasında yoluna devam etmek isteyen Trabzonspor, ilk karşılaşmada taraftarının desteğiyle avantajlı bir skor elde etme",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/trabzonspor-ferencvaros-maci-canli-izle-sifresiz-trabzonspor-ferencvaros-maci-hangi-kanalda-uefa-avrupa-ligi-play-off-turu-ts-maci-3907001",
-      "publishedAt": "Thu, 20 Aug 2026 16:54:33 GMT"
+      "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+      "summary": "US Treasury Secretary Scott Bessent says allies will need to decide whether they \"are with us or against us\".",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 19:52:48 GMT"
     },
     {
-      "title": "Beşiktaş - Kauno Zalgiris maçı izle",
-      "summary": "Beşiktaş, UEFA Avrupa Ligi play-off turu ilk maçında Litvanya temsilcisi Kauno Zalgiris'i konuk edecek. Taraftarlar karşılaşma öncesinde Beşiktaş - Kauno Zalgiris maçının canlı yayın bilgisi, başlama saatini ve takımların sahaya çıkacağı mu",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/besiktas-kauno-zalgiris-maci-ne-zaman-saat-kacta-hangi-kanalda-avrupa-ligi-besiktas-kauno-zalgiris-maci-canli-izle-sifresiz-3907000",
-      "publishedAt": "Thu, 20 Aug 2026 18:15:50 GMT"
-    },
-    {
-      "title": "ATV uydu frekans ayarı bilgisi",
-      "summary": "ATV uydu frekans bilgileri, gündemi meşgul etmeye devam ediyor. Bu akşam ekranlara gelecek Trabzonspor - Ferencvaros maçı öncesinde maçı canlı izlemek isteyenler ATV frekans ayarlarını kontrol ediyor. ATV'nin yeni uydu frekans bilgileriyle ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/atv-uydu-frekans-ayarlari-2026-turksat-4a-yeni-atv-frekans-ayari-nasil-yapilir-trabzonspor-ferencvaros-maci-sifresiz-nasil-izlenir-3906994",
-      "publishedAt": "Thu, 20 Aug 2026 18:11:59 GMT"
-    },
-    {
-      "title": "13. Yargı Paketi ne zaman çıkacak?",
-      "summary": "13. Yargı Paketi son dakika gelişmeleri yakından takip ediliyor. Süresiz nafaka uygulaması Anayasa Mahkemesi tarafından 4 Haziran'da iptal edildi. Gözler ise yeni nafaka düzenlemesini içeren 13. Yargı Paketi’ne çevrildi. Bu kapsamda ‘’13. Y",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/13-yargi-paketi-son-dakika-meclise-geliyor-13-yargi-paketi-ne-zaman-cikacak-maddeleri-neler-suresiz-nafaka-kalkiyor-mu-yeni-nafaka-duzenlemesi-nasil-olacak-3906963",
-      "publishedAt": "Thu, 20 Aug 2026 12:49:38 GMT"
+      "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 18:55:14 GMT"
     },
     {
       "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
@@ -148,28 +164,20 @@
       "publishedAt": "Thu, 20 Aug 2026 17:14:55 GMT"
     },
     {
-      "title": "Trump vows tougher economic measures on Iran and supporting countries",
-      "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
+      "title": "Dozens dead after boat capsizes in north-western Nigeria",
+      "summary": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 09:13:18 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 20:27:36 GMT"
     },
     {
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 06:08:02 GMT"
-    },
-    {
-      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
-      "summary": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
+      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+      "summary": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 16:53:20 GMT"
+      "publishedAt": "Thu, 20 Aug 2026 20:08:29 GMT"
     },
     {
       "title": "Assad officer extradited to Syria on war crimes charges for first time",
@@ -180,60 +188,68 @@
       "publishedAt": "Thu, 20 Aug 2026 12:38:35 GMT"
     },
     {
-      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
-      "summary": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 07:08:35 GMT"
-    },
-    {
-      "title": "First group of US deportees, out of an expected 1,200, arrive in Liberia",
-      "summary": "Liberia is part of a growing list of partners under US President Donald Trump to accept third-country deportations.",
+      "title": "US pummels Cuban economy with new sanctions on mining, construction",
+      "summary": "US economic restrictions have strained the island's already fragile economy, prompting blackouts and medical shortages.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 18:22:58 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 20:37:25 +0000"
     },
     {
-      "title": "The road to el-Obeid, Sudan’s besieged city sheltering thousands",
-      "summary": "Al Jazeera’s AlMigdad Alruhaid travelled along one of the main supply roads to Sudan’s besieged city of el-Obeid.",
+      "title": "Landslide at illegal gold mine kills 13 people in Colombia",
+      "summary": "At least 13 people have been killed and seven others injured in an unlicensed gold mine in southwest Colombia.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 18:16:55 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 20:36:51 +0000"
     },
     {
-      "title": "Russian paramilitaries in Mali kill nine, including children: HRW",
-      "summary": "Human Rights Watch alleges that the killings by Africa Corps troops took place in the presence of Malian soldiers.",
+      "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
+      "summary": "A protest organised by hundreds of Tibetans in New Delhi led many exiles to shave their heads.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 18:13:49 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 20:32:13 +0000"
     },
     {
-      "title": "Carlos Alcaraz confirms US Open return after four-month injury layoff",
-      "summary": "Spanish tennis star had missed the French Open, ‌Wimbledon and the hard-court events in Toronto and ​Cincinnati.",
+      "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
+      "summary": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/20/carlos-alcaraz-confirms-us-open-return-after-four-month-injury-layoff?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 18:06:14 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 20:28:44 +0000"
     },
     {
-      "title": "Bangladesh elects ruling party veteran Alamgir as president",
-      "summary": "Bangladesh elects Mirza Fakhrul Islam Alamgir by parliamentary vote, filling vacancy after Shahabuddin's resignation.",
+      "title": "Four railway workers killed by express train at station in Japan",
+      "summary": "Four railway workers spraying herbicide on tracks north of Tokyo were killed by an express train.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 17:35:34 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 20:27:27 +0000"
     },
     {
-      "title": "Humanoid robots take centre stage in China-US tech race",
-      "summary": "Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.",
+      "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
+      "summary": "WHO says vaccines for Ebola virus disease being allocated to DRC amid largest outbreak that has killed nearly 2,500.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 17:17:47 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 20:10:42 +0000"
+    },
+    {
+      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system",
+      "summary": "From state and local food-safety response to the federal health agencies that fund that work, a record-breaking year for cyclosporiasis cases runs up against the Trump administration's cuts last year.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+      "publishedAt": "Thu, 20 Aug 2026 15:54:19 -0400"
+    },
+    {
+      "title": "The Iran war and tariffs are costing farmers. Will Republicans pay in November?",
+      "summary": "In some tight midterm races, how farmers frustrated with the war and rising costs vote could make a difference.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
+      "publishedAt": "Thu, 20 Aug 2026 15:22:20 -0400"
     },
     {
       "title": "Three things to know about the $40 trillion federal debt",
@@ -268,28 +284,12 @@
       "publishedAt": "Thu, 20 Aug 2026 07:30:18 -0400"
     },
     {
-      "title": "North Korea fires a suspected missile toward the sea, Japan says",
-      "summary": "The suspected launch on Thursday comes a day after North Korea shrugged off a U.S. decision to scale back military drills with South Korea in an apparent bid to resume diplomacy.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-      "publishedAt": "Thu, 20 Aug 2026 05:24:45 -0400"
-    },
-    {
-      "title": "They grew up with disability rights. Now, they're fighting to keep them",
-      "summary": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
-      "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400"
-    },
-    {
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
-      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will rec",
+      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown Twenty deportees from the United States arrived in Liberia on Thursday, as part of a new agreement that will see the west African c",
       "source": "The Guardian",
       "lang": "en",
       "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
-      "publishedAt": "Thu, 20 Aug 2026 15:42:39 GMT"
+      "publishedAt": "Thu, 20 Aug 2026 19:57:59 GMT"
     },
     {
       "title": "More than 100 dead after goldmine collapses in Central African Republic",
@@ -321,7 +321,9 @@
       "league": "La Liga",
       "home": "Rayo Vallecano",
       "away": "Deportivo Alavés",
-      "status": "upcoming",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
       "date": "2026-08-20"
     },
     {
@@ -337,14 +339,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 24,
+      "tempC": 23,
       "description": "partly cloudy",
-      "high": 31,
-      "low": 21
+      "high": 29,
+      "low": 22
     },
     {
       "place": "London",
-      "tempC": 19,
+      "tempC": 17,
       "description": "overcast",
       "high": 23,
       "low": 16
