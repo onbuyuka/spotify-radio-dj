@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-20T15:29:57.783Z",
+  "updated": "2026-08-20T18:33:50.803Z",
   "news": [
+    {
+      "title": "İsrail medyası Ebu Zuhur Hava Üssü saldırısını nasıl yorumladı?",
+      "summary": "İsrail'de sağ çizgideki medya, İsrail'in Türkiye sınırına yakın bir Suriye hava üssünü vurmasının ardından Türkiye ile gerilimin tırmanma ihtimaline karşı uyarıda bulundu.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cevmrjxz484o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 18:00:42 GMT"
+    },
     {
       "title": "Türkiye ve Yunanistan'dan karşılıklı adımlar: Ege Denizi'nde gerilim neden arttı?",
       "summary": "Nisan ve mayıs aylarında silahlanma ve askeri girişimler nedeniyle gerilen Türk-Yunan ilişkileri, şimdi de tarafların Ege Denizi'nde ekoloji ve enerji alanlarında yeni mekansal alanlar ilan etmesi nedeniyle tırmanma işareti veriyor.",
@@ -8,6 +16,14 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/ce97lk57zjro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 20 Aug 2026 14:02:42 GMT"
+    },
+    {
+      "title": "İBB davasında ikinci celse: Duruşmalarda neler yaşandı?",
+      "summary": "Görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun yargılandığı davanın 17 Ağustos'ta başlayan ikinci celsesi sürüyor. Savunmalardan öne çıkanları aktarıyoruz.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cwyr0ee0k00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 17:12:30 GMT"
     },
     {
       "title": "Pervin Buldan: 'Öcalan silahsızlanma ve siyasallaşma kurulunda yer alacak'",
@@ -18,28 +34,12 @@
       "publishedAt": "Thu, 20 Aug 2026 13:00:05 GMT"
     },
     {
-      "title": "MSB: Ebu Zuhur Hava Üssü'nde Türk askeri yoktu",
-      "summary": "Milli Savunma Bakanlığı (MSB), İsrail'in saldırı düzenlediği Suriye'deki Ebu Zuhur Hava Üssü'nde Türk askeri varlığı bulunmadığını açıkladı. MSB'nin haftalık basın toplantısındaki değerlendirmede İsrail'e \"pervasız saldırılarına son vermesi",
+      "title": "Göç sezonu başladı, İstanbul'da neden bir haftada 100'den fazla leylek öldü?",
+      "summary": "Ağustos ayında göç sezonu başladığında İstanbul'dan her yıl ortalama bir milyon leylek geçiyor. Bu yıl göç başladığından beri Küçükçekmece Gölü'nün kuzeyindeki Tahtakale bölgesinde 100'ü aşkın leylek hayatını kaybetti. En az sekiz yaralı le",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ce97lel228do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 12:44:42 GMT"
-    },
-    {
-      "title": "İsrail Savunma Bakanı Katz: 'Erdoğan Türkiye'yi Suriye'de tehlikeli maceralara sürüklüyor'",
-      "summary": "İsrail'in Suriye'nin kuzeyinde bir hava üssünü \"Türkiye'den yığınak\" iddiasıyla vurmasının ardından İsrail Savunma Bakanı Israel Katz, sosyal medya hesabından Türkçe yaptığı paylaşımda “Erdoğan Türkiye’yi Suriye’de tehlikeli maceralara sürü",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c9d8zz1w729o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 10:10:09 GMT"
-    },
-    {
-      "title": "Trump'ın 'insan yazıcı' lakaplı asistanı Natalie Harp neden konuşuluyor?",
-      "summary": "Demokrat Senatör Jon Ossoff, yaptığı bir konuşmada Trump'ın bir yardımcısının kendisine ne kadar yakın olduğuna dikkat çekti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cyvlrrgvy3no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 11:30:22 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c78gp8wy101o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 16:18:50 GMT"
     },
     {
       "title": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye'nin ilk maçı yarın",
@@ -50,11 +50,18 @@
       "publishedAt": "Thu, 20 Aug 2026 12:12:15 GMT"
     },
     {
+      "title": "Çiğli Belediye Başkanı'nın makam aracına silahlı saldırı. Saldırgan böyle yakalandı",
+      "summary": "İzmir'de Çiğli Belediye Başkanı Onur Emrah Yıldız'ın park halindeki makam aracına silahlı saldırı düzenlendi. Şüpheli güvenlik görevlilerince yakalandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-20T20:18:07+03:00"
+    },
+    {
       "title": "Cumhurbaşkanı Erdoğan dev teknoloji hamlesini duyurdu. 550 doktora öğrencisi eğitilecek",
       "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Stratejik Teknoloji İnsan Kaynağı Programı'nı açıkladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-20T18:29:08+03:00"
+      "publishedAt": "2026-08-20T19:48:37+03:00"
     },
     {
       "title": "Bilim Kurulu üyelerinden \"Büyük deprem mi geliyor?\" sorusuna yanıt",
@@ -85,11 +92,36 @@
       "publishedAt": "2026-08-20T15:51:50+03:00"
     },
     {
-      "title": "Tartıştığı kadını canlı yayında bıçaklamıştı. TikTok fenomeni \"Karagül\" tahliye edildi",
-      "summary": "Bursa'da sokakta tartıştığı kadını canlı yayında bıçakla yaralayan \"Karagül\" lakaplı sosyal medya fenomeni Merve A. tahliye edildi.",
-      "source": "NTV",
+      "title": "Asgari ücrete ara zam var mı?",
+      "summary": "Temmuz ayında memur ve emekli maaş zamlarının netleşmesinin ardından milyonlarca özel sektör çalışanının gözü asgari ücrete çevrildi. Yılın ikinci yarısında asgari ücrete ara zam yapılıp yapılmayacağı en çok araştırılan konular arasında yer",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-20T15:33:57+03:00"
+      "link": "https://www.haberturk.com/asgari-ucret-ara-zam-son-dakika-2026-asgari-ucrete-ara-zam-var-mi-2026-asgari-ucret-ara-zammi-olacak-mi-3907021",
+      "publishedAt": "Thu, 20 Aug 2026 18:10:09 GMT"
+    },
+    {
+      "title": "UEFA ülke puanı sıralaması",
+      "summary": "Türkiye'nin UEFA ülke puanı sıralamasındaki mücadelesi 20 Ağustos Perşembe günü oynanacak kritik karşılaşmalarla devam ediyor. Avrupa kupalarında yoluna devam eden Fenerbahçe, Beşiktaş ve Trabzonspor'un alacağı sonuçlar Türkiye'nin sıralama",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/uefa-ulke-puani-siralamasi-degisti-20-agustos-2026-uefa-ulke-puani-siralamasinda-turkiye-nin-kac-puani-var-kacinci-sirada-3907005",
+      "publishedAt": "Thu, 20 Aug 2026 16:59:02 GMT"
+    },
+    {
+      "title": "Trabzonspor-Ferencvaros maçı izle",
+      "summary": "Trabzonspor, UEFA Avrupa Ligi play-off turu ilk maçında Macaristan temsilcisi Ferencvaros'u sahasında ağırlıyor. Avrupa arenasında yoluna devam etmek isteyen Trabzonspor, ilk karşılaşmada taraftarının desteğiyle avantajlı bir skor elde etme",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/trabzonspor-ferencvaros-maci-canli-izle-sifresiz-trabzonspor-ferencvaros-maci-hangi-kanalda-uefa-avrupa-ligi-play-off-turu-ts-maci-3907001",
+      "publishedAt": "Thu, 20 Aug 2026 16:54:33 GMT"
+    },
+    {
+      "title": "Beşiktaş - Kauno Zalgiris maçı izle",
+      "summary": "Beşiktaş, UEFA Avrupa Ligi play-off turu ilk maçında Litvanya temsilcisi Kauno Zalgiris'i konuk edecek. Taraftarlar karşılaşma öncesinde Beşiktaş - Kauno Zalgiris maçının canlı yayın bilgisi, başlama saatini ve takımların sahaya çıkacağı mu",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/besiktas-kauno-zalgiris-maci-ne-zaman-saat-kacta-hangi-kanalda-avrupa-ligi-besiktas-kauno-zalgiris-maci-canli-izle-sifresiz-3907000",
+      "publishedAt": "Thu, 20 Aug 2026 18:15:50 GMT"
     },
     {
       "title": "ATV uydu frekans ayarı bilgisi",
@@ -97,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/atv-uydu-frekans-ayarlari-2026-turksat-4a-yeni-atv-frekans-ayari-nasil-yapilir-trabzonspor-ferencvaros-maci-sifresiz-nasil-izlenir-3906994",
-      "publishedAt": "Thu, 20 Aug 2026 15:13:28 GMT"
+      "publishedAt": "Thu, 20 Aug 2026 18:11:59 GMT"
     },
     {
       "title": "13. Yargı Paketi ne zaman çıkacak?",
@@ -108,44 +140,12 @@
       "publishedAt": "Thu, 20 Aug 2026 12:49:38 GMT"
     },
     {
-      "title": "İBB yurt başvurusu nasıl yapılır?",
-      "summary": "İBB yurt başvurusu 2026-2027 eğitim dönemi için başladı. İstanbul Büyükşehir Belediyesi (İBB) tarafından yapılan açıklama ile yükseköğrenim öğrenci yurtları için başvuru tarihleri yanı sıra başvuru şartları ve ücreti gibi detaylar da belli ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/ibb-yurt-basvurusu-nasil-ve-nereden-yapilir-sartlari-neler-ibb-yurt-basvurulari-ne-zaman-sona-eriyor-2026-2027-ibb-yurt-basvuru-ekrani-3906945",
-      "publishedAt": "Thu, 20 Aug 2026 12:09:07 GMT"
-    },
-    {
-      "title": "YKS ek tercih tarihleri açıklandı mı?",
-      "summary": "YKS ek tercih tarihleri 2026 takvimi için araştırmalar sıklaştı. 2026 YKS yerleştirme sonuçlarının açıklanmasının ardından ek tercih süreci için geri sayım başladı. İlk yerleştirmelerde herhangi bir programa kayıt hakkı kazanamayan adaylar,",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/yks-ek-tercih-tarihleri-2026-takvimi-osym-yks-ek-tercih-kilavuzu-yayinlandi-mi-universite-ek-tercih-tarihleri-ne-zaman-belli-olacak-3906936",
-      "publishedAt": "Thu, 20 Aug 2026 11:32:52 GMT"
-    },
-    {
-      "title": "Türkiye’nin nüfusu kaç oldu?",
-      "summary": "Türkiye İstatistik Kurumu (TÜİK), üçer aylık dönemler için üretilen dönemlik nüfus istatistiklerini açıkladı. Böylece güncel Türkiye nüfusu belli oldu. 2025 yılı sonunda 86 milyon 92 bin 168 olarak kaydedilen ülke nüfusu, 2026 yılının ilk 6",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/turkiye-nufusu-2026-son-dakika-turkiyenin-nufusu-kac-oldu-turkiye-de-kac-milyon-erkek-ve-kadin-var-3906900",
-      "publishedAt": "Thu, 20 Aug 2026 09:23:34 GMT"
-    },
-    {
-      "title": "PMYO parkur sınavı ne zaman yapılacak?",
-      "summary": "25. Dönem PMYO giriş sınavı aday belirleme ön başvuru sonuçları 14 Ağustos'ta açıklanmış, böylece giriş sınavı aşamalarına katılmaya hak kazanan adaylar belli olmuştu. Belirtilen süre içerisinde başvuru ücretini ödeyen binlerce aday, şimdi ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/pmyo-parkur-sinavi-tarihi-2026-polis-akademisi-25-donem-pmyo-parkur-sinavi-ne-zaman-yapilacak-fiziki-yeterlilik-sinav-tarihi-belli-oldu-mu-3906880",
-      "publishedAt": "Thu, 20 Aug 2026 10:57:51 GMT"
-    },
-    {
-      "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 13:56:25 GMT"
+      "publishedAt": "Thu, 20 Aug 2026 17:14:55 GMT"
     },
     {
       "title": "Trump vows tougher economic measures on Iran and supporting countries",
@@ -164,12 +164,12 @@
       "publishedAt": "Thu, 20 Aug 2026 06:08:02 GMT"
     },
     {
-      "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-      "summary": "Clément Vandenkerckhove was quietly brought into Prince Laurent's family at a town hall ceremony.",
+      "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+      "summary": "Alessandro Rapinese issues the prohibition for the historic city centre after an encounter with a cyclist last month.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 20 Aug 2026 10:14:47 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 20 Aug 2026 16:53:20 GMT"
     },
     {
       "title": "Assad officer extradited to Syria on war crimes charges for first time",
@@ -188,52 +188,68 @@
       "publishedAt": "Thu, 20 Aug 2026 07:08:35 GMT"
     },
     {
-      "title": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
-      "summary": "From Bruno Fernandes's future to a Champions League return, all to know about Manchester United before the new season.",
+      "title": "First group of US deportees, out of an expected 1,200, arrive in Liberia",
+      "summary": "Liberia is part of a growing list of partners under US President Donald Trump to accept third-country deportations.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 15:00:43 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 18:22:58 +0000"
     },
     {
-      "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
-      "summary": "Iran's deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.",
+      "title": "The road to el-Obeid, Sudan’s besieged city sheltering thousands",
+      "summary": "Al Jazeera’s AlMigdad Alruhaid travelled along one of the main supply roads to Sudan’s besieged city of el-Obeid.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 14:55:47 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/the-road-to-el-obeid-sudans-besieged-city-sheltering-thousands?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 18:16:55 +0000"
     },
     {
-      "title": "Governments brace for historic El Nino impacts on global weather extremes",
-      "summary": "Sri Lanka earmarks $14m to fight severe drought, offering families 75 litres of water every two-three days.",
+      "title": "Russian paramilitaries in Mali kill nine, including children: HRW",
+      "summary": "Human Rights Watch alleges that the killings by Africa Corps troops took place in the presence of Malian soldiers.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 14:45:55 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/20/russian-paramilitaries-in-mali-kill-nine-including-children-hrw?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 18:13:49 +0000"
     },
     {
-      "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
-      "summary": "Iran's foreign minister has dismissed Trump’s latest threats, calling them a “diversion\" from America’s own crisis.\"",
+      "title": "Carlos Alcaraz confirms US Open return after four-month injury layoff",
+      "summary": "Spanish tennis star had missed the French Open, ‌Wimbledon and the hard-court events in Toronto and ​Cincinnati.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 14:40:51 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/20/carlos-alcaraz-confirms-us-open-return-after-four-month-injury-layoff?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 18:06:14 +0000"
     },
     {
-      "title": "USS Washington arrives in Middle East after aircraft carrier outcry",
-      "summary": "Vessel expected to replace USS Lincoln after reports of dire conditions on board raised questions over US war planning.",
+      "title": "Bangladesh elects ruling party veteran Alamgir as president",
+      "summary": "Bangladesh elects Mirza Fakhrul Islam Alamgir by parliamentary vote, filling vacancy after Shahabuddin's resignation.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 14:36:35 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 17:35:34 +0000"
     },
     {
-      "title": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
-      "summary": "Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.",
+      "title": "Humanoid robots take centre stage in China-US tech race",
+      "summary": "Humanoid robots are at the forefront of China’s race for technological supremacy at Beijing’s World Robot Conference.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss",
-      "publishedAt": "Thu, 20 Aug 2026 14:10:01 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
+      "publishedAt": "Thu, 20 Aug 2026 17:17:47 +0000"
+    },
+    {
+      "title": "Three things to know about the $40 trillion federal debt",
+      "summary": "The U.S. federal debt hit a record $40 trillion this week. The debt has doubled since 2017, and just paying interest on the accumulated debt now costs the government more than $1 trillion a year.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5939473/40-trillion-federal-debt",
+      "publishedAt": "Thu, 20 Aug 2026 12:50:41 -0400"
+    },
+    {
+      "title": "What to know about Dr. Heidi Overton, Trump's pick to lead the FDA",
+      "summary": "Dr. Heidi Overton is currently working as a White House policy aide. If confirmed, she would lead an agency of 18,000 staffers who study and regulate food, drugs, medical devices, tobacco and more.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5939549/heidi-overton-fda-commissioner-trump-senate-nomination",
+      "publishedAt": "Thu, 20 Aug 2026 12:49:11 -0400"
     },
     {
       "title": "D.C.'s IndyCar race will zoom past museums. Some worry it could harm the art inside",
@@ -260,28 +276,20 @@
       "publishedAt": "Thu, 20 Aug 2026 05:24:45 -0400"
     },
     {
-      "title": "The bond market is signaling trouble ahead. This is why you should pay attention",
-      "summary": "Many people don't pay attention to bond markets, but they should — especially now. This is why they matter and why the drop in bond prices is signaling investor concerns about the U.S. economy.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-      "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Which country makes the best jollof rice? D.C. foodies put it to a blind test",
-      "summary": "One of the most famous dishes across West Africa is jollof rice — fragrant rice cooked down with spices, tomatoes and meat. But which version is best? A traveling festival aims to find out.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5936436/which-country-makes-the-best-jollof-rice-d-c-foodies-put-it-to-a-blind-test",
-      "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400"
-    },
-    {
       "title": "They grew up with disability rights. Now, they're fighting to keep them",
       "summary": "Siblings Cody and Kaleigh Brendle have grown up with the right to community integration. Now, they worry those protections for people with disabilities like them are being eroded.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/08/20/nx-s1-5891791/disability-rights-community-living-integration-trump",
       "publishedAt": "Thu, 20 Aug 2026 05:00:00 -0400"
+    },
+    {
+      "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+      "summary": "Agreement is among largest third-country deportations driven by Trump administration’s immigration crackdown The United States sent 20 deportees to Liberia, who arrived on Thursday as part of 1,200 migrants that the African country will rec",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+      "publishedAt": "Thu, 20 Aug 2026 15:42:39 GMT"
     },
     {
       "title": "More than 100 dead after goldmine collapses in Central African Republic",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
       "publishedAt": "Wed, 19 Aug 2026 14:33:24 GMT"
-    },
-    {
-      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-      "summary": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in historyThe Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at lea",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-      "publishedAt": "Mon, 17 Aug 2026 14:07:31 GMT"
     }
   ],
   "sports": [
@@ -337,15 +337,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 27,
-      "description": "clear sky",
-      "high": 30,
+      "tempC": 24,
+      "description": "partly cloudy",
+      "high": 31,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 23,
-      "description": "partly cloudy",
+      "tempC": 19,
+      "description": "overcast",
       "high": 23,
       "low": 16
     }
