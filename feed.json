@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T15:29:03.992Z",
+  "updated": "2026-08-21T18:31:54.394Z",
   "news": [
     {
       "title": "AKP'nin 25. yılı: Çeyrek asırda Türkiye'de neler değişti?",
@@ -18,12 +18,20 @@
       "publishedAt": "Fri, 21 Aug 2026 14:03:56 GMT"
     },
     {
-      "title": "ABD'nin İsrail Büyükelçisi Huckabee: 'Türkiye'nin Suriye'de daha güneye ilerlemesi tehdit olarak algılandı'",
-      "summary": "ABD'nin İsrail Büyükelçisi Mike Huckabee, İsrail, Suriye ve Türkiye gerilimiyle ilgili İsrail'in Türkiye'nin Suriye'de daha güneye ilerlemesini tehdit olarak değerlendirdiğini söyledi. Huckabee İsrail, Suriye ve Türkiye arasında çatışmayı ö",
+      "title": "Netanyahu'dan Erdoğan'a: 'İsrail'e karşı saldırganlığını Suriye'ye taşımaya çalışıyor, buna göz yummayız'",
+      "summary": "İsrail Başbakanı Binyamin Netanyahu, Cumhurbaşkanı Recep Tayyip Erdoğan'ın \"İsrail'e karşı saldırganlığını Suriye'ye taşımaya çalıştığını\" ve buna göz yummayacaklarını söyledi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cx2l73w850no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 10:40:24 GMT"
+      "link": "https://www.bbc.com/turkce/articles/clyqd9rggzro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 16:00:59 GMT"
+    },
+    {
+      "title": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye 3-0 Letonya",
+      "summary": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye İstanbul'daki ilk maçını Letonya karşısında set vermeden kazandı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 17:33:46 GMT"
     },
     {
       "title": "Lindsay Clancy davasının gündeme taşıdığı doğum sonrası psikoz nedir?",
@@ -34,20 +42,33 @@
       "publishedAt": "Fri, 21 Aug 2026 13:25:32 GMT"
     },
     {
-      "title": "Garantili 50 bin sterlini mi, %50 ihtimalle 1 milyon sterlin mi tercih edersiniz?",
-      "summary": "Yorumcular, İngilizler arasında yapılan son bir anketin onların mali konularda aşırı temkinli olduklarını gösterdiğini öne sürdüler; ancak BBC ekonomi editörü durumun bu kadar basit olmadığını belirtiyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cp870vgq7vpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 09:28:16 GMT"
-    },
-    {
       "title": "SDG, Kürt güçlerin Şam yönetimine entegrasyonunun tamamlandığını duyurdu",
       "summary": "Suriye Demokratik Güçleri (SDG) Genel Komutanı Mazlum Abdi, Kürt yönetiminin Şam yönetimi ile entegrasyonunun tamamlandığını duyurdu. Abdi, 20 Ağustos'ta yaptığı açıklamada, \"Askeri, güvenlik ve idari kurumlarımızı devlet yapılarının kuruml",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/clyx48edgrgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 21 Aug 2026 08:39:22 GMT"
+    },
+    {
+      "title": "Bakan Memişoğlu’ndan İzmir’e ikinci şehir hastanesi müjdesi",
+      "summary": "Sağlık Bakanı Kemal Memişoğlu, İzmir Dikili Devlet Hastanesi'nin açılışına katıldı. Memişoğlu, kente ikinci şehir hastanesinin de müjdesini verdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-21T20:27:12+03:00"
+    },
+    {
+      "title": "İsrail'in E1 planına ortak kınama: ''İki devletli çözümü tehdit ediyor''",
+      "summary": "Türkiye ve 7 ülke, İsrail’in işgal altındaki Filistin topraklarındaki yasa dışı yerleşim faaliyetlerini ve E1 planını kınayarak, uluslararası topluma acil önlem ve yaptırım çağrısı yaptı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-21T19:13:37+03:00"
+    },
+    {
+      "title": "AK Parti Sözcüsü Çelik'ten İsrail'e tepki: Soykırım ve katliam Netanyahu'nun kimlik kartı olmuştur",
+      "summary": "AK Parti Sözcüsü Ömer Çelik, İsrail Başbakanlık Ofisi'nin Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik açıklamasına tepki gösterdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-21T20:45:01+03:00"
     },
     {
       "title": "Türkiye dahil 11 ülkeden İsrail’in Suriye saldırılarına ortak kınama",
@@ -71,25 +92,36 @@
       "publishedAt": "2026-08-21T16:59:00+03:00"
     },
     {
-      "title": "Aydın-Muğla yolunda peş peşe iki kaza",
-      "summary": "Aydın-Muğla kara yolunda peş peşe meydana gelen iki kazada ulaşım aksarken, tıra çarpan otomobilde sıkışan baba ve kızı ağır yaralandı.",
-      "source": "NTV",
+      "title": "Türksat 4A frekans ayarları",
+      "summary": "Türksat 4A üzerinden televizyon kanallarını takip eden izleyiciler, kanal listesindeki değişikliklerin ardından yeni uydu frekans ayarlarını araştırmaya başladı. Bazı televizyon ve uydu alıcılarında kanalların eski frekans bilgileriyle bulu",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-21T13:53:08+03:00"
+      "link": "https://www.haberturk.com/turksat-4a-yeni-uydu-frekans-ayarlari-2026-turksat-4a-frekans-ayari-nasil-yapilir-show-tv-trt-1-atv-star-tv-kanal-d-tv8-tv100-now-tv-frekans-bilgileri-3907248",
+      "publishedAt": "Fri, 21 Aug 2026 17:46:57 GMT"
     },
     {
-      "title": "Yalova'da katledilen sekiz aylık hamile Sultan'ın bebeği yaşama tutundu",
-      "summary": "Yalova'da eşi tarafından öldürülen sekiz aylık hamile Sultan Pelit Demir'in karnındaki bebek operasyonla alındı. Bebeğin sağlık durumu iyi.",
-      "source": "NTV",
+      "title": "On Numara sonuçları",
+      "summary": "On Numara çekiliş sonuçları 21 Ağustos 2026 Cuma günü gerçekleştirilen çekilişin ardından belli oldu. Haftanın son On Numara çekilişinde kuponlarını dolduranlar, kazandıran numaraları öğrenmek için On Numara sonuç sorgulama ekranına yöneldi",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-21T13:45:28+03:00"
+      "link": "https://www.haberturk.com/son-dakika-on-numara-sonuclari-aciklandi-21-agustos-2026-on-numara-cekilis-sonucu-sorgulama-ekrani-3907245",
+      "publishedAt": "Fri, 21 Aug 2026 17:10:06 GMT"
     },
     {
-      "title": "Türk şehitlikleri tek haritada. 48 ülkedeki 172 şehitlik bilgi notları ve görsellerle yer aldı",
-      "summary": "Milli Savunma Bakanlığı (MSB) Harita Genel Müdürlüğü, dünyanın farklı ülkelerinde şehit olan Türk askerleri için özel bir harita hazırladı.",
-      "source": "NTV",
+      "title": "Motorine zam mı geliyor?",
+      "summary": "Akaryakıt fiyatlarında yaşanan hareketlilik araç sahiplerinin gündemindeki yerini koruyor. Brent petrol fiyatlarındaki yükseliş ve piyasalardaki gelişmeler, pompa fiyatlarına yeni bir zam beklentisini beraberinde getirdi. Özellikle motorin ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-21T14:05:17+03:00"
+      "link": "https://www.haberturk.com/motorine-zam-var-mi-benzine-zam-gelecek-mi-21-agustos-cuma-istanbul-izmir-ankara-benzin-motorin-lpg-fiyati-ne-kadar-3907242",
+      "publishedAt": "Fri, 21 Aug 2026 16:05:59 GMT"
+    },
+    {
+      "title": "Erzurumspor-Galatasaray maçı hangi kanalda?",
+      "summary": "Trendyol Süper Lig’de ikinci hafta heyecanı Erzurumspor FK ile Galatasaray arasında oynanacak mücadeleyle devam ediyor. Sezona istediği başlangıcı yapamayan iki takım, Erzurum’da 3 puan mücadelesi verecek. Galatasaray deplasmanda kazanarak ",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/erzurumspor-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-erzurumspor-galatasaray-maci-canli-izle-bilgisi-3907236",
+      "publishedAt": "Fri, 21 Aug 2026 18:18:05 GMT"
     },
     {
       "title": "KPSS Lise sınavı ne zaman?",
@@ -108,38 +140,6 @@
       "publishedAt": "Fri, 21 Aug 2026 12:15:28 GMT"
     },
     {
-      "title": "2027 Ramazan Bayramı ne zaman?",
-      "summary": "2027 yılında Ramazan Bayramı'nın hangi tarihlere denk geldiği şimdiden merak konusu oldu. Bu kapsamda ‘’2027 Ramazan Bayramı ne zaman?’’ sorusunun yanıtı araştırılmaya başlandı. Diyanet dini günler takvimine göre Ramazan ayı, 2027 yılında 8",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/2027-ramazan-bayrami-ne-zaman-bayramin-1-gunu-hangi-gune-denk-geliyor-arefe-gunu-ne-zaman-idrak-edilecek-3907148",
-      "publishedAt": "Fri, 21 Aug 2026 09:05:07 GMT"
-    },
-    {
-      "title": "Esra Erol ne zaman başlıyor?",
-      "summary": "ATV ekranlarında yayınlanan gündüz kuşağı programı Esra Erol'da yeni sezon için geri sayım devam ediyor. Her bölümüyle dikkat çeken program, yaz sezonunun ardından ekranlara dönmek için gün sayıyor. Programın sıkı takipçileri ise ‘’Esra Ero",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/esra-erol-ne-zaman-basliyor-ilk-bolum-hangi-gun-ekrana-gelecek-esra-erolda-yeni-sezon-tarihi-belli-oldu-3907135",
-      "publishedAt": "Fri, 21 Aug 2026 11:04:57 GMT"
-    },
-    {
-      "title": "Kumulları kazıp çöplük yaptılar: 5 yıldızlı otelin 'Kaplumbağa Dostu' sertifikası iptal edildi",
-      "summary": "Antalya'nın Manavgat ilçesinde 5 yıldızlı bir otelin, deniz kaplumbağalarını korumaya yönelik kriterlere uymadığı gerekçesiyle “Kaplumbağa Dostu Turizm Sertifikası” iptal edildi. Denizyaka kumsalındaki otelin yasak olmasına rağmen kumulları",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/son-dakika-haberler-kumullari-kazip-copluk-yaptilar-5-yildizli-otelin-kaplumbaga-dostu-sertifikasi-iptal-edildi-antalya-haberleri-3907132",
-      "publishedAt": "Fri, 21 Aug 2026 08:38:00 GMT"
-    },
-    {
-      "title": "Erzurumspor-Galatasaray maçı ne zaman?",
-      "summary": "Trendyol Süper Lig’de 2. hafta heyecanı başlıyor. Futbolseverlerin merakla beklediği Erzurumspor FK - Galatasaray karşılaşması, haftanın açılış mücadelesi olacak. Ligin ilk haftasında Çorum FK ile 2-2 berabere kalarak sezona istediği başlan",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/erzurumspor-galatasaray-maci-canli-yayin-kanali-ve-muhtemel-11leri-erzurumspor-fk-galatasaray-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-3907123",
-      "publishedAt": "Fri, 21 Aug 2026 11:04:00 GMT"
-    },
-    {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "source": "BBC World",
@@ -148,12 +148,12 @@
       "publishedAt": "Fri, 21 Aug 2026 05:00:57 GMT"
     },
     {
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "title": "Russian double-tap drone strikes kill 14 in Ukrainian mall, officials say",
+      "summary": "Another 121 people were injured when the shopping centre was hit, according to the regional head.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 13:07:00 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 18:23:11 GMT"
     },
     {
       "title": "Hong Kong's Tiananmen activists guilty in national security trial",
@@ -164,12 +164,20 @@
       "publishedAt": "Fri, 21 Aug 2026 05:47:32 GMT"
     },
     {
-      "title": "Several injured after sword attack at Swedish school",
-      "summary": "Police say one man has been arrested, while several other local schools have been locked down.",
+      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 15:58:57 GMT"
+    },
+    {
+      "title": "Two teenagers seriously injured after sword attack at Swedish school",
+      "summary": "Police say one man has been arrested, while several other local schools were locked down.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 15:26:24 GMT"
+      "publishedAt": "Fri, 21 Aug 2026 16:32:37 GMT"
     },
     {
       "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
@@ -180,60 +188,60 @@
       "publishedAt": "Fri, 21 Aug 2026 13:44:43 GMT"
     },
     {
-      "title": "Five missing after fire in Swiss Alpine town",
-      "summary": "Eight others were injured, local police say, with the cause of the fire still being investigated.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 13:10:39 GMT"
-    },
-    {
-      "title": "Russian expert warns of impending social crisis as Ukraine death toll rises",
-      "summary": "Putin's forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.",
+      "title": "How is drought hitting UK farming?",
+      "summary": "After months of heatwaves and unusually dry weather, officials say as much as two-thirds of England is in drought.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
-      "publishedAt": "Fri, 21 Aug 2026 15:13:31 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/how-is-drought-hitting-uk-farming?traffic_source=rss",
+      "publishedAt": "Fri, 21 Aug 2026 17:52:08 +0000"
     },
     {
-      "title": "Iraq’s solar villages show how to build an energy transition that lasts",
-      "summary": "Decentralised power can give communities the means to sustain themselves rather than wait for change to come from above.",
+      "title": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
+      "summary": "England defender Ezri Konsa joins Arsenal from Aston Villa in a deal understood to be worth £51m ($69m).",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/8/21/iraqs-solar-villages-show-how-to-build-an-energy-transition-that-lasts?traffic_source=rss",
-      "publishedAt": "Fri, 21 Aug 2026 14:50:08 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence?traffic_source=rss",
+      "publishedAt": "Fri, 21 Aug 2026 17:38:06 +0000"
     },
     {
-      "title": "Fury says fight with Joshua looks unlikely with venue yet to be agreed",
-      "summary": "The all-British, much anticipated boxing showdown between Fury and Joshua was scheduled for November.",
+      "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+      "summary": "Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss",
-      "publishedAt": "Fri, 21 Aug 2026 14:38:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+      "publishedAt": "Fri, 21 Aug 2026 17:29:17 +0000"
     },
     {
-      "title": "Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL",
-      "summary": "Enzo Maresca replaced Pep Guardiola between seasons but says Man City may need patience before more trophies arrive.",
+      "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
+      "summary": "Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss",
-      "publishedAt": "Fri, 21 Aug 2026 14:36:24 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents?traffic_source=rss",
+      "publishedAt": "Fri, 21 Aug 2026 17:17:55 +0000"
     },
     {
-      "title": "Djibouti Football Federation accused of misusing funds from FIFA",
-      "summary": "FIFA and CAF provides more than $1m a year to Djibouti's federation, which faces corruption allegations over misuse.",
+      "title": "Migrants clash with French police as they attempt to cross the Channel",
+      "summary": "French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
-      "publishedAt": "Fri, 21 Aug 2026 14:18:23 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss",
+      "publishedAt": "Fri, 21 Aug 2026 16:58:28 +0000"
     },
     {
-      "title": "War on Iran: The US could focus on economically isolating Iran",
-      "summary": "The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.",
+      "title": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
+      "summary": "Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
-      "publishedAt": "Fri, 21 Aug 2026 13:59:28 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
+      "publishedAt": "Fri, 21 Aug 2026 16:53:57 +0000"
+    },
+    {
+      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
+      "summary": "Joyce Beatty, a Democratic representative from Ohio, asked a federal judge to stop the Kennedy Center trustees from putting President Trump's name up in three places at the arts complex.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
+      "publishedAt": "Fri, 21 Aug 2026 12:40:59 -0400"
     },
     {
       "title": "Top Iran official says US focus on economic warfare shows it has failed militarily",
@@ -265,14 +273,6 @@
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/08/21/nx-s1-5920407/colorado-wild-horses-federal-government-roundup",
-      "publishedAt": "Fri, 21 Aug 2026 05:00:00 -0400"
-    },
-    {
-      "title": "As Trump courts Kim, Pyongyang ups price while Seoul fears being sidelined",
-      "summary": "Experts warn Trump's transactional approach to alliance will erode political trust",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
       "publishedAt": "Fri, 21 Aug 2026 05:00:00 -0400"
     },
     {
@@ -351,16 +351,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 27,
-      "description": "clear sky",
+      "tempC": 24,
+      "description": "mainly clear",
       "high": 29,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 21,
-      "description": "overcast",
-      "high": 21,
+      "tempC": 19,
+      "description": "partly cloudy",
+      "high": 22,
       "low": 15
     }
   ],
