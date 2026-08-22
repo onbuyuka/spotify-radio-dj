@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T01:02:03.217Z",
+  "updated": "2026-08-22T03:38:41.954Z",
   "news": [
     {
       "title": "AKP'nin 25. yılı: Çeyrek asırda Türkiye'de neler değişti?",
@@ -50,6 +50,13 @@
       "publishedAt": "Fri, 21 Aug 2026 08:39:22 GMT"
     },
     {
+      "title": "Kayseri’de \"huzur\" uygulaması. 75 aranan şahıs yakalandı",
+      "summary": "Kayseri’de polis ekipleri tarafından yapılan huzur-asayiş uygulamalarında 24 bin şahıs sorgulanırken, 75 aranan şahıs yakalandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-22T05:57:50+03:00"
+    },
+    {
       "title": "Yabancı uyruklu kadın evinde ölü bulundu",
       "summary": "Kayseri'de yakınlarının haber alamadığı 61 yaşındaki yabancı uyruklu kadın, evinde ölü bulundu.",
       "source": "NTV",
@@ -68,7 +75,7 @@
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-22T04:00:00+03:00"
+      "publishedAt": "2026-08-22T06:30:00+03:00"
     },
     {
       "title": "Narin cinayetinin ikinci yılı. Mezarı başında anıldı",
@@ -83,13 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-08-21T22:45:00+03:00"
-    },
-    {
-      "title": "Fenomen Ceyda Yakova'nın öldüğü kaza kask kamerasında",
-      "summary": "Fenomen Ceyda Yakova'nın hayatını kaybettiği kaza kask kamerasına yansıdı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-21T21:42:54+03:00"
     },
     {
       "title": "KYK burs başvuru takvimi",
@@ -140,6 +140,22 @@
       "publishedAt": "Fri, 21 Aug 2026 21:17:27 GMT"
     },
     {
+      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
+      "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 00:40:47 GMT"
+    },
+    {
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 21 Aug 2026 22:36:12 GMT"
+    },
+    {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "source": "BBC World",
@@ -148,12 +164,12 @@
       "publishedAt": "Fri, 21 Aug 2026 05:00:57 GMT"
     },
     {
-      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
+      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 19:49:56 GMT"
+      "publishedAt": "Sat, 22 Aug 2026 03:17:29 GMT"
     },
     {
       "title": "One killed in sword attack at Swedish school",
@@ -164,14 +180,6 @@
       "publishedAt": "Fri, 21 Aug 2026 21:03:24 GMT"
     },
     {
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 05:47:32 GMT"
-    },
-    {
       "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
       "source": "BBC World",
@@ -180,12 +188,28 @@
       "publishedAt": "Fri, 21 Aug 2026 15:58:57 GMT"
     },
     {
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
-      "source": "BBC World",
+      "title": "Peru rescues people trapped by landslides on highway for nearly a week",
+      "summary": "Peru rescues people trapped by landslides on highway for nearly a week.",
+      "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 22:45:01 GMT"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss",
+      "publishedAt": "Sat, 22 Aug 2026 02:09:58 +0000"
+    },
+    {
+      "title": "Palestinian-British girl, 6, dies days after family drowned off UK coast",
+      "summary": "Saja el-Khawas's death follows that of her mother, father and sister on Tuesday, all of whom drowned.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/22/palestinian-british-girl-6-dies-days-after-family-drowned-off-uk-coast?traffic_source=rss",
+      "publishedAt": "Sat, 22 Aug 2026 01:42:33 +0000"
+    },
+    {
+      "title": "Iranian president says time to end war with US from ‘position of strength’",
+      "summary": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+      "publishedAt": "Sat, 22 Aug 2026 00:59:37 +0000"
     },
     {
       "title": "California lawmaker overcomes pro-Israel spending to win special election",
@@ -210,30 +234,6 @@
       "lang": "en",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
       "publishedAt": "Sat, 22 Aug 2026 00:06:48 +0000"
-    },
-    {
-      "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
-      "summary": "US president says Iran 'would love to make a deal, but they’re not ready to make the right deal in my opinion'.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
-      "publishedAt": "Sat, 22 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Myanmar military bombing kills 14 at Buddhist monastery, opposition reports",
-      "summary": "More than 100 people were in the monastery for a religious retreat, according to a local resident.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/21/myanmar-military-bombing-kills-14-at-buddhist-monastery-opposition-reports?traffic_source=rss",
-      "publishedAt": "Fri, 21 Aug 2026 23:52:28 +0000"
-    },
-    {
-      "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
-      "summary": "Editor-in-chief Erik Slavin has suggested his firing was retaliation for speaking out about editorial independence.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
-      "publishedAt": "Fri, 21 Aug 2026 23:51:40 +0000"
     },
     {
       "title": "Supreme Court allows Trump's ballroom construction to continue for now",
@@ -412,8 +412,8 @@
     },
     {
       "place": "London",
-      "tempC": 15,
-      "description": "clear sky",
+      "tempC": 14,
+      "description": "mainly clear",
       "high": 21,
       "low": 13
     }
