@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T12:32:06.865Z",
+  "updated": "2026-08-22T15:17:05.565Z",
   "news": [
     {
       "title": "Tom Barrack, İsrail'in Suriye saldırısının arka planına dair neler söyledi?",
@@ -26,20 +26,20 @@
       "publishedAt": "Sat, 22 Aug 2026 07:29:08 GMT"
     },
     {
-      "title": "'Kadın olmak için en iyi ülke': Vikinglerden yönetimde kadın hakimiyetine İzlanda",
-      "summary": "Dünya Ekonomik Forumu'nun her yıl hazırladığı Küresel Cinsiyet Eşitsizliği Endeksi'ne göre cinsiyet uçurumunu en iyi kapatan ülke İzlanda. 16 yıldır listenin başında geliyor. Peki ülke bunu nasıl başardı, bugün ne durumda?",
+      "title": "'Uyuşturucuya her an ulaşabiliyorlar': Çocuk yıldızlar nasıl madde bağımlısı oluyor?",
+      "summary": "Uzmanlar BBC'ye, çocuk yaşta yıldız olmanın getirdiği baskıların, oyuncuları madde bağımlılığı sorunları açısından alışılmadık derecede yüksek risk altına sokabileceğini söyledi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cpw94v1jey2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 07:41:16 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c0rdrg1dwn9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 13:51:27 GMT"
     },
     {
-      "title": "Buzullar eridikçe dev balinalar Grönland sularına ilerliyor",
-      "summary": "İklim değişikliği nedeniyle eriyen deniz buzları, bölgeyi dev balinaların \"beslenme çılgınlığı\" yaşaması için uygun hale getirdi.",
+      "title": "Hull City Man United galibiyetiyle Premier Lig’e döndü",
+      "summary": "Hull City, yaklaşık on yıl aradan sonra döndüğü Premier Lig’e, kupayı 13 kez müzesine götürmüş olan Manchester United galibiyetiyle başladı. Hull’daki gündüz maçında sarı siyahlı taraftarlar 2-0’ın sevincini yaşadı. Acun Ilıcalı'nın sahibi ",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c4gd1dmej8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 07:56:50 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cx2j2lxlpdqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 13:26:44 GMT"
     },
     {
       "title": "AKP'nin 25. yılı: Çeyrek asırda Türkiye'de neler değişti?",
@@ -50,6 +50,41 @@
       "publishedAt": "Fri, 21 Aug 2026 10:41:04 GMT"
     },
     {
+      "title": "İstanbul'da pazar planı yapanlar dikkat! Üç ilçede yollar trafiğe kapanacak",
+      "summary": "İstanbul'da yarın gerçekleşecek bisiklet turu nedeniyle üç ilçede bazı yollar trafiğe kapatılacak.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-22T16:47:00+03:00"
+    },
+    {
+      "title": "ASELSAN Genel Müdürü Akyol açıkladı. Yıl sonunda hedef 30 milyar dolar",
+      "summary": "ASELSAN Genel Müdürü Ahmet Akyol, yıl sonunda şirketin bakiye siparişlerinin 30 milyar dolara ulaşabileceğini söyledi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-22T16:35:47+03:00"
+    },
+    {
+      "title": "Tırdan dökülen boya araçların rengini değiştirmişti. O yol için çözüm bulundu",
+      "summary": "Afyonkarahisar'da tırdan yola dökülen boya, günlerce süren yıkamayla çıkmayınca 5 kilometrelik yol iş makineleriyle kazındı. Olay nedeniyle iki firmaya 20,9 milyon lira ceza kesildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-22T16:16:56+03:00"
+    },
+    {
+      "title": "Alparslan Kuytul soruşturmasında FETÖ tespiti: Dokuz isim belirlendi",
+      "summary": "Alparslan Kuytul Suç Örgütü'ne yönelik soruşturmada, örgütün üst yönetiminde bulunan bazı isimlerin Fetullahçı Terör Örgütü'yle (FETÖ) bağlantısı tespit edildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-22T16:16:13+03:00"
+    },
+    {
+      "title": "Bıçaklı saldırıya uğrayan Yeni Partili milletvekili İstanbul'a sevk edildi",
+      "summary": "Gaziantep'te bıçaklı saldırıda yaralanan Yeni Parti Milletvekili Melih Meriç, ambulans uçakla İstanbul'a sevk edildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-22T15:48:30+03:00"
+    },
+    {
       "title": "Giresun'da \"helikopter düştü\" ihbarı ekipleri harekete geçirdi",
       "summary": "Giresun'da yüksek gerilim hatlarıyla ilgili çalışma yapan bir helikopterin düştüğü öne sürüldü. Ekipler bölgede arama çalışması başlattı.",
       "source": "NTV",
@@ -57,39 +92,12 @@
       "publishedAt": "2026-08-22T15:05:21+03:00"
     },
     {
-      "title": "Alihan Kuriş örgütüne ikinci dalga operasyon",
-      "summary": "Alihan Kuriş suç örgütüne yönelik ikinci dalga operasyon yapıldı. İstanbul dahil üç şehirde 12 şüpheli gözaltına alındı, bir şüpheli aranıyor.",
-      "source": "NTV",
+      "title": "Eski Köye Yeni Adet konusu ve oyuncuları",
+      "summary": "Eski Köye Yeni Adet filmi 22 Ağustos 2026 Cumartesi akşamı televizyon ekranlarında izleyicilerin karşısına çıkıyor. Gülistan Acer ve Ferit Karahan'ın yazıp yönettiği Eski Köye Yeni Adet filmi konusu ve oyuncuları merak ediliyor. 2018 yılınd",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-22T14:36:03+03:00"
-    },
-    {
-      "title": "Tatilcilerin uğrak noktası Çınarcık'ta denize girmek yasaklandı",
-      "summary": "Yalova'nın Çınarcık ilçesinde yapılan deniz suyu analizlerinin ardından denize girmek yasaklandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-22T13:56:11+03:00"
-    },
-    {
-      "title": "Türkiye'nin nüfusunda köklü değişim: İbre tersine döndü",
-      "summary": "Türkiye'nin nüfusu artarken bir yandan da yaş yapısında dönüşüm gerçekleşiyor. Yaşlıların toplam nüfus içindeki oranı rekor seviyeye ulaştı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-22T13:40:55+03:00"
-    },
-    {
-      "title": "İstanbul Havalimanı Avrupa'nın zirvesindeki yerini korudu",
-      "summary": "İstanbul Havalimanı, 10-16 Ağustos döneminde günlük ortalama bin 665 uçuşla Avrupa'nın en yoğun havalimanı oldu. Antalya Havalimanı da 9'uncu sırada yer aldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-22T13:36:41+03:00"
-    },
-    {
-      "title": "Eski bakan İdris Naim Şahin'e tahsisli araçta FETÖ izi",
-      "summary": "Eski İçişleri Bakanı İdris Naim Şahin'e tahsisli araçla Alihan Kuriş soruşturmasının iki kilit ismini Muğla'ya kaçıran Mehmet Ö.'nün FETÖ'den adli işlem kaydı olduğu ortaya çıktı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-22T12:56:08+03:00"
+      "link": "https://www.haberturk.com/eski-koye-yeni-adet-konusu-nedir-oyunculari-kimler-eski-koye-yeni-adet-filmi-nerede-cekildi-hangi-sehirde-3907402",
+      "publishedAt": "Sat, 22 Aug 2026 14:34:25 GMT"
     },
     {
       "title": "KYK burs başvuru takvimi",
@@ -105,7 +113,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/masterchef-dokunulmazlik-oyunu-kim-kazandi-21-agustos-2026-masterchef-eleme-adayi-kim-oldu-bireysel-dokunulmazligi-kim-aldi-3907265",
-      "publishedAt": "Sat, 22 Aug 2026 09:54:51 GMT"
+      "publishedAt": "Sat, 22 Aug 2026 13:39:26 GMT"
     },
     {
       "title": "1.20 faizli İlk Evim konut kredisi başvuru tarihleri",
@@ -129,15 +137,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/kademeli-emeklilik-tablosu-son-durum-2026-kademeli-emeklilik-cikacak-mi-erken-emeklilik-sartlari-neler-3907257",
-      "publishedAt": "Sat, 22 Aug 2026 09:54:31 GMT"
-    },
-    {
-      "title": "Türksat 4A frekans ayarları",
-      "summary": "Türksat 4A üzerinden televizyon kanallarını takip eden izleyiciler, kanal listesindeki değişikliklerin ardından yeni uydu frekans ayarlarını araştırmaya başladı. Bazı televizyon ve uydu alıcılarında kanalların eski frekans bilgileriyle bulu",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/turksat-4a-yeni-uydu-frekans-ayarlari-2026-turksat-4a-frekans-ayari-nasil-yapilir-show-tv-trt-1-atv-star-tv-kanal-d-tv8-tv100-now-tv-frekans-bilgileri-3907248",
-      "publishedAt": "Sat, 22 Aug 2026 09:54:11 GMT"
+      "publishedAt": "Sat, 22 Aug 2026 13:39:08 GMT"
     },
     {
       "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
@@ -156,6 +156,14 @@
       "publishedAt": "Fri, 21 Aug 2026 22:36:12 GMT"
     },
     {
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 13:48:06 GMT"
+    },
+    {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "source": "BBC World",
@@ -164,12 +172,12 @@
       "publishedAt": "Fri, 21 Aug 2026 05:00:57 GMT"
     },
     {
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
-      "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 10:01:22 GMT"
+      "publishedAt": "Sat, 22 Aug 2026 13:13:16 GMT"
     },
     {
       "title": "One killed in sword attack at Swedish school",
@@ -180,60 +188,52 @@
       "publishedAt": "Fri, 21 Aug 2026 21:03:24 GMT"
     },
     {
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
-      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 08:40:49 GMT"
-    },
-    {
-      "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-      "summary": "Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.",
+      "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+      "summary": "Syria condemns attack in southwest as a 'flagrant violation of sovereignty' and a 'blatant breach of international law'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
-      "publishedAt": "Sat, 22 Aug 2026 12:09:09 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
+      "publishedAt": "Sat, 22 Aug 2026 14:37:40 +0000"
     },
     {
-      "title": "Hundreds of children take part in swimming class on Gaza’s shore",
-      "summary": "On Gaza’s shore, 1,300 Palestinian children joined a swimming class to cope with the trauma of Israel’s genocidal war.",
+      "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+      "summary": "Iran says production is ongoing, but details will not be revealed during war conditions.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
-      "publishedAt": "Sat, 22 Aug 2026 11:58:55 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
+      "publishedAt": "Sat, 22 Aug 2026 14:19:06 +0000"
     },
     {
-      "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
-      "summary": "Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt's 100m record in Beijing, says state media.",
+      "title": "Man Utd humiliated at Hull to open Premier League account",
+      "summary": "Manchester United lose 2-0 at newly promoted Hull City to open their Premier League campaign.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
-      "publishedAt": "Sat, 22 Aug 2026 11:30:51 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
+      "publishedAt": "Sat, 22 Aug 2026 13:54:02 +0000"
     },
     {
-      "title": "Ebola continues to spread in the DRC as 16,000 vaccine doses arrive",
-      "summary": "Health authorities are warning that ‘approximately one person has been dying from Ebola every thirty minutes’.",
+      "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
+      "summary": "Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/ebola-continues-to-spread-in-the-drc-as-16000-vaccine-doses-arrive?traffic_source=rss",
-      "publishedAt": "Sat, 22 Aug 2026 11:15:39 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
+      "publishedAt": "Sat, 22 Aug 2026 13:44:02 +0000"
     },
     {
-      "title": "More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo",
-      "summary": "The doses are the first of 70,000 allocated for Kinshasa as experts warn of the virus's exponential spread.",
+      "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
+      "summary": "Fires between January and July burned more than 200,000 hectares of land, says the government.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/22/more-than-16000-doses-of-ervebo-vaccine-arrive-in-ebola-hit-dr-congo?traffic_source=rss",
-      "publishedAt": "Sat, 22 Aug 2026 10:13:56 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
+      "publishedAt": "Sat, 22 Aug 2026 13:35:57 +0000"
     },
     {
-      "title": "Pakistan’s PTI seeks contempt action over jailed Imran Khan’s hospital move",
-      "summary": "Party launches legal action after authorities take ex-PM to ⁠state hospital for check-up ⁠before returning him to jail.",
+      "title": "Is Trump making Latin America great again?",
+      "summary": "A right-wing wave is sweeping through the region and that is not good news.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/22/pakistans-pti-seeks-contempt-action-over-jailed-imran-khans-hospital?traffic_source=rss",
-      "publishedAt": "Sat, 22 Aug 2026 10:13:48 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
+      "publishedAt": "Sat, 22 Aug 2026 13:23:56 +0000"
     },
     {
       "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
@@ -327,6 +327,24 @@
       "date": "2026-08-22"
     },
     {
+      "league": "Premier League",
+      "home": "Everton",
+      "away": "Crystal Palace",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FT",
+      "date": "2026-08-22"
+    },
+    {
+      "league": "Premier League",
+      "home": "Ipswich Town",
+      "away": "Sunderland",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "date": "2026-08-22"
+    },
+    {
       "league": "Süper Lig",
       "home": "Fenerbahçe",
       "away": "Konyaspor",
@@ -344,20 +362,6 @@
       "league": "Süper Lig",
       "home": "Çorum",
       "away": "Kasımpaşa",
-      "status": "upcoming",
-      "date": "2026-08-22"
-    },
-    {
-      "league": "Premier League",
-      "home": "Everton",
-      "away": "Crystal Palace",
-      "status": "upcoming",
-      "date": "2026-08-22"
-    },
-    {
-      "league": "Premier League",
-      "home": "Ipswich Town",
-      "away": "Sunderland",
       "status": "upcoming",
       "date": "2026-08-22"
     },
@@ -407,15 +411,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 29,
+      "tempC": 27,
       "description": "mainly clear",
       "high": 30,
       "low": 23
     },
     {
       "place": "London",
-      "tempC": 20,
-      "description": "mainly clear",
+      "tempC": 22,
+      "description": "partly cloudy",
       "high": 22,
       "low": 13
     }
