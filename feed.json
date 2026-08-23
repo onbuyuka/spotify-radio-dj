@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-23T06:35:09.116Z",
+  "updated": "2026-08-23T09:24:24.860Z",
   "news": [
+    {
+      "title": "Trump: 'Kanada ABD eyaleti olmadan eyalet avantajlarını istiyor'",
+      "summary": "Ticaret görüşmelerinin son anda çıkmaza girmesinin ardından, 20 milyar dolarlık Kanada ithalatına %50 oranında yeni bir vergi getiriliyor. Cuma gecesi sona ermesi planlanan müzakerelerin askıya alındığını duyuran Kanada Başbakanı Mark Carne",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c5ydyklrng7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 08:47:58 GMT"
+    },
+    {
+      "title": "Hürmüz, Panama Kanalı'nda süper güçler arasındaki anlaşmazlığı nasıl körüklüyor?",
+      "summary": "Küresel deniz ticaretinin yaklaşık %5'ini, ancak ABD konteyner trafiğinin neredeyse %40'ını oluşturan stratejik su yolu Panama Kanalı konusunda ABD ve Çin tekrar karşı karşıya geldi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cy5dxkzk1y9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 07:30:30 GMT"
+    },
+    {
+      "title": "Rusya'nın tek savaş karşıtı partisinin seçime katılmasına önce izin, sonra yasak",
+      "summary": "Son birkaç ayda savaş karşıtı Yabloko Partisi, en popüler politikacılarına yönelik benzeri görülmemiş baskılarla karşı karşıya kaldı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c5yvnkn6zn7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 07:45:33 GMT"
+    },
+    {
+      "title": "'Annemi aşığıymış gibi dolandıran kişiyle yüzleşmek için kıtalar aştım'",
+      "summary": "Nijerya'nın 'Yahoo Boys'ları, telefonlarını ve zekalarını kullanarak bazı kurbanları binlerce dolar vermeye ikna eden genç erkekler.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ce34r56epqko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 07:58:30 GMT"
+    },
+    {
+      "title": "'Herkesin yaşayabileceği şekilde inşa edilmiş': Japonya'nın metropollerinde yaşamı kolaylaştıran tasarımlar",
+      "summary": "Japonya'nın iyi tasarlanan şehirleri kentsel yaşamın gündelik sıkıntılarını ortadan kaldırıyor. Ülkenin en yoğun şehirlerinden bazılarının neden bu kadar kolay yaşanabilir hissettirdiğini, kent sakinleri ve şehir planlama uzmanlarıyla konuş",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c1k1xjmndxxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 08:19:37 GMT"
+    },
     {
       "title": "Tom Barrack, İsrail'in Suriye saldırısının arka planına dair neler söyledi?",
       "summary": "ABD'nin Suriye ve Irak Özel Temsilcisi Tom Barrack, İsrail'in Suriye'deki Ebu Zuhur hava üssüne düzenlediği saldırının arka planıyla ilgili önemli açıklamalarda bulundu. 21 Ağustos'ta Amerikan PBS News yayınına ve X'te içerik üreticisi Mari",
@@ -10,86 +50,46 @@
       "publishedAt": "Sat, 22 Aug 2026 12:13:04 GMT"
     },
     {
-      "title": "Trump'ın %50 gümrük vergisi yürürlüğe girdi: Kanada'dan bire bir karşılık tehdidi",
-      "summary": "Ticaret görüşmelerinin son anda çıkmaza girmesinin ardından, 20 milyar dolarlık Kanada ithalatına %50 oranında yeni bir vergi getiriliyor. Cuma gecesi sona ermesi planlanan müzakerelerin askıya alındığını duyuran Kanada Başbakanı Mark Carne",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c5ydyklrng7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 08:58:56 GMT"
-    },
-    {
-      "title": "Gazze'de kaybolan binlerce kişiye ne oldu?",
-      "summary": "Ateşkes ilan edilmesinin üzerinden on ay geçmesine rağmen, Gazze'de binlerce Filistinlinin hala kayıp olduğu bildiriliyor. Gazze'nin her yanındaki kayıplar arasında 21 yaşındaki Down sendromlu Ahmed de var. BBC Ahmed'in ailesiyle konuştu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c0kmlke37dxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 07:29:08 GMT"
-    },
-    {
-      "title": "'Uyuşturucuya her an ulaşabiliyorlar': Çocuk yıldızlar nasıl madde bağımlısı oluyor?",
-      "summary": "Uzmanlar BBC'ye, çocuk yaşta yıldız olmanın getirdiği baskıların, oyuncuları madde bağımlılığı sorunları açısından alışılmadık derecede yüksek risk altına sokabileceğini söyledi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c0rdrg1dwn9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 16:33:06 GMT"
-    },
-    {
-      "title": "Hull City Man United galibiyetiyle Premier Lig’e döndü",
-      "summary": "Hull City, yaklaşık on yıl aradan sonra döndüğü Premier Lig’e, kupayı 13 kez müzesine götürmüş olan Manchester United galibiyetiyle başladı. Hull’daki gündüz maçında sarı siyahlı taraftarlar 2-0’ın sevincini yaşadı. Acun Ilıcalı'nın sahibi ",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cx2j2lxlpdqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 13:26:44 GMT"
-    },
-    {
-      "title": "AKP'nin 25. yılı: Çeyrek asırda Türkiye'de neler değişti?",
-      "summary": "AKP çeyrek asırlık bir dönemi geride bıraktı. Peki Türkiye'de bu dönemde nasıl bir değişim yaşandı. 10 maddede inceledik.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cpw9lwwd29po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 21 Aug 2026 10:41:04 GMT"
-    },
-    {
-      "title": "Ayağına taş takıldı, hayatı değişti. Doğadan topladı, 10 yılda sayısı 15 bin oldu",
-      "summary": "Hatay'da yaşayan Sedat Çam, 10 yıl önce zayıflamak için spor yaptığı esnada ayağının takıldığı taştan esinlenerek başladığı taş koleksiyonculuğunu ticarete dönüştürdü ve 15 bin taşa sahip oldu.",
+      "title": "İzmir ve Muğla’da göçmen kaçakçılığı operasyonu",
+      "summary": "İçişleri Bakanlığı, İzmir ve Muğla'da 9 göçmen kaçakçılığı organizatörü ile 132 düzensiz göçmen yakalandığını duyurdu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-23T09:17:05+03:00"
+      "publishedAt": "2026-08-23T12:21:52+03:00"
     },
     {
-      "title": "Darıca sahilinde cesetleri bulunan 3 kardeşin sır ölümü. Kahreden ayrıntı ortaya çıktı",
-      "summary": "Kocaeli'nin Darıca ilçesinde sahilde cansız bedenleri bulunan 3 kardeşin ölümüne ilişkin soruşturma sürerken kahreden ayrıntı ortaya çıktı.",
+      "title": "TEKNOFEST Mavi Vatan’da final heyecanı: Halatlar şampiyonluk için çekildi",
+      "summary": "\"TEKNOFEST Mavi Vatan\"da Deniz Kuvvetleri Komutanlığı tarafından düzenlenen Gemicilik Yarışmaları kapsamında Halat Çekme Yarışması'nın finali gerçekleştirildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-23T09:29:39+03:00"
+      "publishedAt": "2026-08-23T12:05:53+03:00"
     },
     {
-      "title": "Alkollü elektrikli skuter sürücüsüne 25 bin lira ceza kesildi",
-      "summary": "Eskişehir’in Tepebaşı ilçesinde yapılan trafik denetiminde alkollü olduğu belirlenen elektrikli skuter sürücüsüne 25 bin lira ceza kesildi.",
+      "title": "Erzurum Kültür Yolu Festivali’nde ünlü şeflerden lezzet turu",
+      "summary": "Erzurum Kültür Yolu Festivali kapsamında kente gelen ünlü şefler, 39 lezzet durağını ziyaret ederek cağ kebabı, su böreği ve kadayıf dolması gibi yöresel tatları deneyimledi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-23T08:53:48+03:00"
+      "publishedAt": "2026-08-23T11:42:59+03:00"
     },
     {
-      "title": "Van’da acı olay: Akıntıya kapılan çocuğunu kurtardı, kendisi boğuldu",
-      "summary": "Van’ın Muradiye ilçesinde piknik sırasında Bendimahi Çayı’na düşüp, akıntıya kapılan 5 yaşındaki çocuğunu suya girerek kurtaran baba Rıdvan Çetinkaya (34), boğuldu",
+      "title": "MYK ve PM toplanıyor. CHP'de kongre tarihleri belirlenecek",
+      "summary": "CHP'de çarşamba günü Merkez Yönetim Kurulu (MYK) ve Parti Meclisi (PM) toplanıyor. Toplantıların gündemleri ise kurultay takvimi, kongre tarihleri, ayrılıklar ve yol haritası olacak.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-23T08:41:58+03:00"
+      "publishedAt": "2026-08-23T11:39:01+03:00"
     },
     {
-      "title": "Rus yüzücü karaya çıkmamıştı. 38. Boğaziçi Kıtalararası Yüzme Yarışı'nda yeni önlemler",
-      "summary": "38. Boğaziçi Kıtalararası Yüzme Yarışı'nda 2 bin 500 yüzücü yarışacak. Geçen sene Rus yüzücü Nikolai Svechnikov'un denizde kaybolmasının ardından bu sene önlemler artırıldı.",
+      "title": "2026 Mevlid Kandili ne zaman? Mevlid Kandili hangi gün, ne zaman idrak edilecek?",
+      "summary": "İslam dünyası için önemli geceler arasında yer alan Mevlid Kandili'nin 2026 yılında hangi gün idrak edileceği merak ediliyor. Peki Mevlid Kandili ne zaman, hangi gün idrak edilecek ve en yakın kandil hangisi?",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-23T08:33:16+03:00"
+      "publishedAt": "2026-08-23T11:30:59+03:00"
     },
     {
-      "title": "Terörsüz Türkiye'de önemli hafta. Takip ve Tespit Kurulu toplanıyor",
-      "summary": "Terörsüz Türkiye sürecinde önemli bir haftaya giriliyor. Milli Dayanışma yasasında belirtilen, takip ve koordinasyonla görevli kurul yarın ilk toplantısını yapacak.",
+      "title": "TEKNOFEST Mavi Vatan'da halat çekme heyecanı",
+      "summary": "TEKNOFEST Mavi Vatan'daki Gemicilik Yarışmaları kapsamında düzenlenen halat çekme finalinde Harp Filosu Komutanlığı, Deniz Astsubay MYO Komutanlığı'nı yenerek şampiyon oldu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-23T07:29:51+03:00"
+      "publishedAt": "2026-08-23T11:24:47+03:00"
     },
     {
       "title": "Yarın kandil mi, ne kandili?",
@@ -140,8 +140,8 @@
       "publishedAt": "Sat, 22 Aug 2026 21:24:59 GMT"
     },
     {
-      "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
-      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
@@ -156,12 +156,20 @@
       "publishedAt": "Sat, 22 Aug 2026 20:02:46 GMT"
     },
     {
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 13:13:16 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 08:47:47 GMT"
+    },
+    {
+      "title": "Girl, 17, killed in Swedish sword attack, police say",
+      "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 01:34:15 GMT"
     },
     {
       "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
@@ -172,68 +180,68 @@
       "publishedAt": "Sat, 22 Aug 2026 14:35:11 GMT"
     },
     {
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 22 Aug 2026 21:42:42 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 22 Aug 2026 19:03:03 GMT"
     },
     {
-      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 03:44:19 GMT"
-    },
-    {
-      "title": "Kazakhstan parliamentary elections begin: What’s at stake?",
-      "summary": "The Central Asian country heads to the polls on August 23.",
+      "title": "Israeli wounded in occupied West Bank stabbing",
+      "summary": "Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss",
-      "publishedAt": "Sun, 23 Aug 2026 05:55:10 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
+      "publishedAt": "Sun, 23 Aug 2026 08:38:01 +0000"
     },
     {
-      "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
-      "summary": "Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.",
+      "title": "Flooding across Caracas, Venezuela, after heavy rains",
+      "summary": "Flooding across Caracas, Venezuela, after heavy rains",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
-      "publishedAt": "Sun, 23 Aug 2026 05:10:05 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/flooding-across-caracas-venezuela-after-heavy-rains?traffic_source=rss",
+      "publishedAt": "Sun, 23 Aug 2026 08:08:27 +0000"
     },
     {
-      "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
-      "summary": "Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.",
+      "title": "Photos: Russia celebrates National Flag Day amid war and tensions with the West",
+      "summary": "Participants in St Petersburg honour Russia’s tricolour with patriotic events and ribbon distributions across the city.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
-      "publishedAt": "Sun, 23 Aug 2026 03:42:22 +0000"
+      "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-russia-celebrates-national-flag-day-amid-war-and-tensions-with-the-west?traffic_source=rss",
+      "publishedAt": "Sun, 23 Aug 2026 08:07:54 +0000"
     },
     {
-      "title": "In rural Chad, solar kiosks bring healthcare closer",
-      "summary": "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.",
+      "title": "DR Congo, M23 rebels agree on roadmap for peace talks",
+      "summary": "Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
-      "publishedAt": "Sun, 23 Aug 2026 03:21:03 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks?traffic_source=rss",
+      "publishedAt": "Sun, 23 Aug 2026 08:03:41 +0000"
     },
     {
-      "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
-      "summary": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.",
+      "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
+      "summary": "Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
-      "publishedAt": "Sun, 23 Aug 2026 03:16:19 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
+      "publishedAt": "Sun, 23 Aug 2026 07:38:42 +0000"
     },
     {
-      "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
-      "summary": "Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.",
+      "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
+      "summary": "FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
-      "publishedAt": "Sun, 23 Aug 2026 02:34:49 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
+      "publishedAt": "Sun, 23 Aug 2026 07:22:37 +0000"
+    },
+    {
+      "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+      "summary": "The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
+      "publishedAt": "Sun, 23 Aug 2026 05:00:00 -0400"
     },
     {
       "title": "Trump administration's 75-country visa ban was illegal, judge rules",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
       "publishedAt": "Fri, 21 Aug 2026 18:16:46 -0400"
-    },
-    {
-      "title": "Supreme Court allows Trump's ballroom construction to continue for now",
-      "summary": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-      "publishedAt": "Fri, 21 Aug 2026 14:47:48 -0400"
     },
     {
       "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -405,17 +405,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 25,
-      "description": "mainly clear",
+      "tempC": 29,
+      "description": "clear sky",
       "high": 31,
       "low": 20
     },
     {
       "place": "London",
-      "tempC": 15,
-      "description": "overcast",
-      "high": 23,
-      "low": 15
+      "tempC": 17,
+      "description": "partly cloudy",
+      "high": 24,
+      "low": 14
     }
   ],
   "facts": [
