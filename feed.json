@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T01:06:46.763Z",
+  "updated": "2026-08-23T03:47:28.394Z",
   "news": [
     {
       "title": "Tom Barrack, İsrail'in Suriye saldırısının arka planına dair neler söyledi?",
@@ -50,6 +50,27 @@
       "publishedAt": "Fri, 21 Aug 2026 10:41:04 GMT"
     },
     {
+      "title": "Küçükçekmece'de kuyumcu dükkanına silahlı saldırı",
+      "summary": "Küçükçekmece'de taksi ile gelen bir şüpheli, kuyumcu dükkanına silahla ateş açarak kaçtı. Polis ekipleri kaçan şüpheliyi yakalayarak gözaltına aldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-23T06:12:33+03:00"
+    },
+    {
+      "title": "Aydın'da minibüs tarlaya uçtu. 1 kişi öldü, 2 yaralı",
+      "summary": "Aydın'da sürücüsünün direksiyon hakimiyetini kaybettiği minibüs bariyerleri aşarak yol kenarındaki tarlaya uçarken, kazada 1 kişi öldü, 2 kişi de yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-23T04:36:12+03:00"
+    },
+    {
+      "title": "Afrika ve Basra sıcağı tüm yurtta etkili. Sıcak hava ne zaman sona erecek?",
+      "summary": "Afrika ve Basra'dan gelen sıcak hava yurdun büyük bölümünde etkili oluyor. Peki sıcak hava ne zaman etkisini kaybedecek?",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-23T04:22:52+03:00"
+    },
+    {
       "title": "Tartışmada silahlar çekildi. Yoldan geçen baba ve oğlu yaralandı",
       "summary": "Bursa’da iki grup arasında çıkan tartışmada tüfekle ateş açıldı. Tüfekten çıkan saçmalar, baba ve 4 yaşındaki oğluna isabet etti.",
       "source": "NTV",
@@ -61,7 +82,7 @@
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 23 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-23T04:00:00+03:00"
+      "publishedAt": "2026-08-23T06:30:00+03:00"
     },
     {
       "title": "İstanbul'da pazar planı yapanlar dikkat! Bazı yollar trafiğe kapanacak",
@@ -69,27 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-08-23T01:22:52+03:00"
-    },
-    {
-      "title": "ASELSAN Genel Müdürü Akyol açıkladı. Yıl sonunda hedef 30 milyar dolar",
-      "summary": "ASELSAN Genel Müdürü Ahmet Akyol, yıl sonunda şirketin bakiye siparişlerinin 30 milyar dolara ulaşabileceğini söyledi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-22T16:35:47+03:00"
-    },
-    {
-      "title": "Tırdan dökülen boya araçların rengini değiştirmişti. O yol için çözüm bulundu",
-      "summary": "Afyonkarahisar'da tırdan yola dökülen boya, günlerce süren yıkamayla çıkmayınca 5 kilometrelik yol iş makineleriyle kazındı. Olay nedeniyle iki firmaya 20,9 milyon lira ceza kesildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-22T16:16:56+03:00"
-    },
-    {
-      "title": "Alparslan Kuytul soruşturması. 44 isim için tutuklama talep edildi",
-      "summary": "Alparslan Kuytul Suç Örgütü'ne yönelik soruşturmada, örgütün üst yönetiminde bulunan bazı isimlerin FETÖ bağlantısı tespit edildi. Soruşturmada 44 kişi için tutuklama istendi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-23T01:36:59+03:00"
     },
     {
       "title": "Yarın kandil mi, ne kandili?",
@@ -188,6 +188,38 @@
       "publishedAt": "Fri, 21 Aug 2026 22:36:12 GMT"
     },
     {
+      "title": "In rural Chad, solar kiosks bring healthcare closer",
+      "summary": "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
+      "publishedAt": "Sun, 23 Aug 2026 03:21:03 +0000"
+    },
+    {
+      "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
+      "summary": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
+      "publishedAt": "Sun, 23 Aug 2026 03:16:19 +0000"
+    },
+    {
+      "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+      "summary": "Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
+      "publishedAt": "Sun, 23 Aug 2026 02:34:49 +0000"
+    },
+    {
+      "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
+      "summary": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
+      "publishedAt": "Sun, 23 Aug 2026 01:51:47 +0000"
+    },
+    {
       "title": "Iran war live: Tehran warns neighbours against joining US economic war",
       "summary": "Official says any state joining US would be considered an enemy and Tehran would target their interests in retaliation.",
       "source": "Al Jazeera",
@@ -202,38 +234,6 @@
       "lang": "en",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
       "publishedAt": "Sat, 22 Aug 2026 23:56:32 +0000"
-    },
-    {
-      "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
-      "summary": "The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-      "publishedAt": "Sat, 22 Aug 2026 23:26:15 +0000"
-    },
-    {
-      "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
-      "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
-      "publishedAt": "Sat, 22 Aug 2026 22:29:07 +0000"
-    },
-    {
-      "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
-      "summary": "Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham's opener.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
-      "publishedAt": "Sat, 22 Aug 2026 21:55:06 +0000"
-    },
-    {
-      "title": "Open-air cinema brings movie nights back to Khartoum",
-      "summary": "Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-      "publishedAt": "Sat, 22 Aug 2026 21:27:22 +0000"
     },
     {
       "title": "Trump administration's 75-country visa ban was illegal, judge rules",
@@ -412,7 +412,7 @@
     },
     {
       "place": "London",
-      "tempC": 17,
+      "tempC": 15,
       "description": "mainly clear",
       "high": 24,
       "low": 15
