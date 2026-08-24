@@ -1,53 +1,74 @@
 {
-  "updated": "2026-08-24T12:42:07.350Z",
+  "updated": "2026-08-24T15:35:57.042Z",
   "news": [
     {
-      "title": "PKK'nın silah bırakmasını takip edecek kurul ilk kez toplanıyor",
-      "summary": "İktidarın \"Terörsüz Türkiye\" olarak adlandırdığı yeni çözüm sürecinin ilk yasal düzenlemesi kapsamında oluşturulan Takip ve Değerlendirme Kurulu, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın başkanlığında bugün ilk toplantısını yapacak.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ckg8w7z1wr8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 09:43:17 GMT"
-    },
-    {
-      "title": "Boşanma, akıllı telefonlar ve kısıtlamalar: BBC, Taliban'ın Afganistan'ı nasıl yönettiğine tanıklık etti",
-      "summary": "Taliban'ın Afganistan'da iktidara geri dönüşünün üzerinden beş yıl geçti. BBC, iki yıl süren görüşmeler sonrası, grubun ülkeyi yeniden şekillendirme sürecinde üst düzey isimleri takip etti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cq6d6ep2n86o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 02:34:07 GMT"
-    },
-    {
-      "title": "İngiltere'den Ukrayna'ya uzun menzilli füze teknolojisi transferi",
-      "summary": "İngiltere Başbakanı Andy Burnham, ilk yurtdışı ziyaretini bugün Ukrayna'ya yapıyor. Burnham bu ziyarette İngiltere'nin uzun menzilli roket teknolojisini de Kiev'e teslim edecek.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cz0z7mk5dngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 08:07:53 GMT"
-    },
-    {
-      "title": "Ev hapsi kaldırılan Balçova Belediye Başkanı Onur Yiğit görevine iade edildi",
-      "summary": "İçişleri Bakanlığı ev hapsi kaldırılan İzmir Balçova Belediye Başkanı Onur Yiğit görevine iade etti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c4gypv5n1rvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 09:57:37 GMT"
-    },
-    {
-      "title": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye, Macaristan ile karşılaşacak",
-      "summary": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye ikinci maçında karşı karşıya geldiği Slovenya'yı 3-1 yendi. Filenin Sultanları turnuvadaki üçüncü maçını Pazartesi günü Macaristan ile oynayacak.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 09:27:48 GMT"
-    },
-    {
-      "title": "Aziz İhsan Aktaş davasında karar bekleniyor",
-      "summary": "Kamuoyunda \"Aziz İhsan Aktaş\" ismiyle anılan davada kararın bugünkü duruşmada açıklanması bekleniyor. Davada altısı görevinden uzaklaştırılan yedi belediye başkanının da aralarında bulunduğu 200 sanık bulunuyor.",
+      "title": "Aziz İhsan Aktaş davasında karar: Tüm sanıklara 'örgüt' suçlamasından beraat",
+      "summary": "Kamuoyunda \"Aziz İhsan Aktaş\" ismiyle anılan davada mahkeme, Aktaş dahil tüm sanıkların, 'örgüt kurma', 'örgüte üye olma' ve 'örgüte yardım etme' suçlarından beraatine karar verdi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cp8rl3wg477o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 04:58:37 GMT"
+      "publishedAt": "Mon, 24 Aug 2026 13:37:46 GMT"
+    },
+    {
+      "title": "Merkez Bankası repo ihalelerine neden yeniden başladı, bu hamle ne anlama geliyor?",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) 1 Mart'tan bu yana ara verdiği haftalık repo ihalelerine yeniden başladı. Bankanın son adımını BBC Türkçe'ye değerlendiren ekonomistler haftalık repo ihalelerin başlamasını bir gevşeme sinyali ol",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c9w4j878z1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 15:00:45 GMT"
+    },
+    {
+      "title": "Doruk Madencilik işçileri yeniden eylemde: İşçiler ne istiyor, şirket ne diyor?",
+      "summary": "Yıldızlar SSS Holding bünyesindeki Doruk Madencilik ve Eti Gümüş işçilerinin alacaklarının ödenmesi talebiyle Ankara'da başlattıkları eylem 15'inci gününe girdi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cj3d5xelmkpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 12:40:33 GMT"
+    },
+    {
+      "title": "İdris Naim Şahin'e ait iki aracın daha 'şüpheli faaliyetlerde' kullanıldığı açıklandı",
+      "summary": "Adalet Bakanlığı kaynakları, eski İçişleri Bakanı İdris Naim Şahin'e ait iki diğer aracın da şüpheli faaliyetlerde kullanıldığı bilgisini paylaştı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c158gv7epgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 13:13:18 GMT"
+    },
+    {
+      "title": "GTA 6 sızıntıları yılın en büyük oyunu için ne anlama geliyor?",
+      "summary": "Grand Theft Auto (GTA) 6, neredeyse bir haftadır sızdırılan görüntüleriyle gündemde. Oyunun geliştiricisi Rockstar Games henüz resmi açıklama yapmadı. Rockstar'ın sahibi Take Two Interactive şirketi ise görüntüleri sızdırılan hesapların bil",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c9v98e7430no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 14:16:01 GMT"
+    },
+    {
+      "title": "PKK'nın silah bırakmasını takip edecek kurul ilk kez toplandı",
+      "summary": "İktidarın \"Terörsüz Türkiye\" olarak adlandırdığı yeni çözüm sürecinin ilk yasal düzenlemesi kapsamında oluşturulan Takip ve Değerlendirme Kurulu, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın başkanlığında bugün ilk toplantısını yapıyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ckg8w7z1wr8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 14:34:39 GMT"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan Brezilya Devlet Başkanı ile görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Brezilya Devlet Başkanı Lula da Silva ile bir telefon görüşmesi gerçekleştirdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-24T16:35:05+03:00"
+    },
+    {
+      "title": "Kandil namazı kılınışı 2026: Berat Kandili namazı nasıl kılınır, kaç rekat? Diyanet kandil namazı kılınışı",
+      "summary": "İslam aleminde mübarek gecelerden olan Mevlid Kandili'nin manevi ikliminden faydalanmak isteyen Müslümanlar, bu özel zaman dilimlerini nafile namazlar ve ibadetlerle ihya etmeyi sürdürüyor. İslam kaynaklarında doğrudan tek bir kandil namazı",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-24T16:31:49+03:00"
+    },
+    {
+      "title": "Mevlid Kandili 2026: Mevlid Kandili'nde ne yapılır, ibadetleri nelerdir? (Mevlid Kandili duası okunuşu)",
+      "summary": "İslam alemi, bu gece Peygamber Efendimiz Hz. Muhammed’in (s.a.v.) dünyaya teşrif ettiği mübarek Mevlid Kandili'ni idrak etmenin huzurunu yaşayacak. Hicri takvime göre Rebiülevvel ayının 12. gecesine denk gelen bu mübarek gün, duaların ve ib",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-24T15:56:03+03:00"
     },
     {
       "title": "İçişleri Bakanlığı 71 ilde uyuşturucu operasyonu düzenledi. Toplamda 807 şüpheli tutuklandı",
@@ -57,11 +78,11 @@
       "publishedAt": "2026-08-24T15:24:23+03:00"
     },
     {
-      "title": "İzmir'de orman yangını. Ekipler müdahale ediyor",
-      "summary": "İzmir'in Kiraz ilçesinde orman yangını çıktı. Yangına karadan ve havadan müdahale sürüyor.",
+      "title": "İzmir Kiraz'daki orman yangını kontrol altında",
+      "summary": "İzmir'in Kiraz ilçesinde çıkan orman yangını ekiplerin müdahalesiyle kontrol altına alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-24T15:08:17+03:00"
+      "publishedAt": "2026-08-24T16:46:36+03:00"
     },
     {
       "title": "Kuriş soruşturması. İdris Naim Şahin adına tahsisli 2 aracın daha kullanıldığı ortaya çıktı",
@@ -71,25 +92,12 @@
       "publishedAt": "2026-08-24T14:47:54+03:00"
     },
     {
-      "title": "İstanbul'da yankesicilik örgütüne operasyon",
-      "summary": "İstanbul'un çeşitli ilçelerinde yankesicilik yapan örgüte yönelik 35 adrese düzenlenen operasyonlarda 26 şüpheli yakalandı.",
-      "source": "NTV",
+      "title": "PMYO parkur sınavı giriş yerleri ve tarihleri!",
+      "summary": "2026 yılı 25. Dönem PMYO müracaat kabul, ön sağlık kontrolü ve fiziki yeterlilik sınavı merkezleri ile sınav tarihleri belli oldu. Polis Akademisi Başkanlığı'ndan yapılan duyuru ile PMYO sınav giriş belgesi sorgulama ekranı erişime açıldı. ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-24T14:04:02+03:00"
-    },
-    {
-      "title": "Kocaeli'de üç kardeşin sır ölümü. Kahreden olayda iki ihtimal üzerinde duruluyor",
-      "summary": "Kocaeli'nin Darıca ilçesinde sahilde cansız bedenleri bulunan üç kardeşin ölümüne ilişkin soruşturma çok yönlü sürüyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-24T13:54:34+03:00"
-    },
-    {
-      "title": "Burdur'da Türk bayrağına saldırı. Av tüfeği ile ateş ettiler",
-      "summary": "Burdur'da yamaç paraşütçülerinin atlayış yaptığı Avşar Tepe'de bulunan Türk bayrağına av tüfeği ile ateş edilmesine ilişkin soruşturma başlatıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-24T14:57:11+03:00"
+      "link": "https://www.haberturk.com/pmyo-sinav-giris-belgesi-sorgulama-ekrani-2026-25-donem-pmyo-sinav-yerleri-ve-tarihleri-aciklandi-pmyo-muracaat-kabul-on-saglik-kontrolu-ve-fiziki-parkur-sinavlari-ne-zaman-3907760",
+      "publishedAt": "Mon, 24 Aug 2026 12:55:20 GMT"
     },
     {
       "title": "YKS ek tercihler ne zaman?",
@@ -97,7 +105,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/yks-ek-tercihler-ne-zaman-baslayacak-universite-2-tercih-kilavuzu-yayinlandi-mi-2026-2027-yks-ek-tercihleri-nasil-yapilir-kac-tercih-hakki-var-3907745",
-      "publishedAt": "Mon, 24 Aug 2026 12:02:15 GMT"
+      "publishedAt": "Mon, 24 Aug 2026 12:53:45 GMT"
     },
     {
       "title": "Türkiye-Macaristan voleybol maçı ne zaman?",
@@ -105,7 +113,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/turkiye-macaristan-maci-canli-izle-turkiye-macaristan-voleybol-maci-ne-zaman-saat-kacta-hangi-kanalda-filenin-sultanlari-voleybol-maci-canli-izle-kanali-3907706",
-      "publishedAt": "Mon, 24 Aug 2026 11:50:48 GMT"
+      "publishedAt": "Mon, 24 Aug 2026 15:16:21 GMT"
     },
     {
       "title": "ABD'de binlerce kişiye tahliye emri verildi",
@@ -121,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/mevlid-kandili-namazi-ne-zaman-kilinir-yatsi-namazi-ne-zaman-saat-kacta-kilinacak-nasil-kilinir-24-agustos-istanbul-ankara-izmir-ve-il-il-yatsi-namazi-saatleri-3907679",
-      "publishedAt": "Mon, 24 Aug 2026 12:02:59 GMT"
+      "publishedAt": "Mon, 24 Aug 2026 15:19:30 GMT"
     },
     {
       "title": "Mevlid Kandili’nde neler yapılır?",
@@ -129,15 +137,15 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/mevlid-kandilinde-ne-yapilir-2026-mevlid-kandili-gecesi-yapilacaklar-nelerdir-mevlid-kandili-gecesi-yapilmasi-gerekenler-3907669",
-      "publishedAt": "Mon, 24 Aug 2026 11:13:46 GMT"
+      "publishedAt": "Mon, 24 Aug 2026 12:56:28 GMT"
     },
     {
-      "title": "Mevlid Kandili duası okunuşu ve anlamı",
-      "summary": "Peygamber Efendimiz Hz. Muhammed'in (s.a.v.) dünyaya gelişinin yıl dönümü olarak kabul edilen Mevlid Kandili, 24 Ağustos Pazartesi bugün idrak edilecek. Rebiülevvel ayının 12. gecesine denk gelen bu mübarek gecede Mevlid Kandili duaları ile",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/mevlid-kandili-duasi-turkce-okunusu-ve-kandil-duasi-anlami-mevlid-kandili-gecesi-okunan-uzun-ve-kisa-dua-arapca-yazili-3907650",
-      "publishedAt": "Mon, 24 Aug 2026 11:51:21 GMT"
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 13:35:07 GMT"
     },
     {
       "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
@@ -148,12 +156,12 @@
       "publishedAt": "Mon, 24 Aug 2026 10:40:22 GMT"
     },
     {
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 10:39:23 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 13:56:22 GMT"
     },
     {
       "title": "King of Norway's health has worsened, palace says",
@@ -172,68 +180,60 @@
       "publishedAt": "Mon, 24 Aug 2026 05:01:17 GMT"
     },
     {
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
-      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "summary": "The former police officer, whose crime reignited the debate about US police brutality, was undergoing treatment for cancer.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 11:17:28 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 13:14:10 GMT"
     },
     {
-      "title": "Four arrested over suspected poisoning of elephants in Kenya",
-      "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 11:08:27 GMT"
-    },
-    {
-      "title": "Activists occupy UK aircraft parts factory over Israel links",
-      "summary": "Pro-Palestine activists from the ‘People Against Genocide’ group occupied a Martin-Baker factory in the UK.",
+      "title": "Samuel Eto’o urges support for embattled FIFA President Gianni Infantino",
+      "summary": "Former star striker, now head of Cameroon's FA, backs Infantino despite mounting pressure on him to resign.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/activists-occupy-uk-aircraft-parts-factory-over-israel-links?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 12:07:44 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/24/samuel-etoo-urges-support-for-embattled-fifa-president-gianni-infantino?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 15:15:55 +0000"
     },
     {
-      "title": "Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud",
-      "summary": "Kanter was ejected from the Indiana-Chicago WNBA game after he was confronted by Sky guard Natasha Cloud on court.",
+      "title": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
+      "summary": "Israeli settler attacks, aided by military, increasingly fit the definition of a pogrom.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/24/former-nba-player-enes-kanter-ejected-after-confrontation-with-wnbas-cloud?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 12:04:46 +0000"
+      "link": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 15:02:34 +0000"
     },
     {
-      "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-      "summary": "Israel has threatened Palestinian groups against launching 'kites, drones, and balloons' from the war-torn enclave.",
+      "title": "Houses set on fire as fresh violence erupts in India’s Manipur",
+      "summary": "Several houses were set ablaze in India’s Manipur state, followed by gunfire between two groups.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 11:57:26 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/houses-set-on-fire-as-fresh-violence-erupts-in-indias-manipur?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 14:48:53 +0000"
     },
     {
-      "title": "Cambuur fans suffer burns as fireworks set off during Dutch league match",
-      "summary": "Game resumed despite injuries to home fans, but it would have been abandoned if a player or match official had been hit.",
+      "title": "Algeria’s schools put Shakespeare before Molière in break from France",
+      "summary": "Algerian primary schools will begin teaching English before French for the first time, signalling a drift from France.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/24/cambuur-fans-suffer-burns-as-fireworks-set-off-during-dutch-league-match?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 11:54:30 +0000"
+      "link": "https://www.aljazeera.com/features/2026/8/24/algerias-schools-put-shakespeare-before-molire-in-break-from-france?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 13:48:46 +0000"
     },
     {
-      "title": "Photos: Towering landfill collapse kills 30 in Guinea’s capital, Conakry",
-      "summary": "A landfill collapse in Conakry kills 30, injures six, and destroys homes after heavy rains in Guinea's capital.",
+      "title": "Rain and flooding from Typhoon Narra hits China and Vietnam",
+      "summary": "Rain and flooding from Typhoon Narra hits China and Vietnam",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/gallery/2026/8/24/photos-towering-landfill-collapse-kills-30-in-guineas-capital-conakry?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 11:38:43 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/rain-and-flooding-from-typhoon-narra-hits-china-and-vietnam?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 13:14:48 +0000"
     },
     {
-      "title": "India used pellets, grenades on Gen Z protests: What Amnesty report reveals",
-      "summary": "Security forces used tear gas, pellet guns and electric shock devices against student protesters, Amnesty inquiry found.",
+      "title": "‘Barrel bomb mufti’ sentenced to life in Syria",
+      "summary": "‘Barrel bomb mufti’ sentenced to life in Syria",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/8/24/india-used-pellets-grenades-on-gen-z-protests-what-amnesty-report-reveals?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 10:53:21 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/barrel-bomb-mufti-sentenced-to-life-in-syria?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 13:02:44 +0000"
     },
     {
       "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
@@ -284,6 +284,14 @@
       "publishedAt": "Mon, 24 Aug 2026 04:46:05 -0400"
     },
     {
+      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
+      "summary": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older peopleAn armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a mosq",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
+      "publishedAt": "Mon, 24 Aug 2026 14:19:14 GMT"
+    },
+    {
       "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
       "summary": "West African country reports 46 suspected cases in outbreak declared in July, amid fears virus may be spreading undetectedMore than half of the mpox cases reported in Guinea-Bissau have been among children, local authorities have said, almo",
       "source": "The Guardian",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
       "publishedAt": "Thu, 20 Aug 2026 19:57:59 GMT"
-    },
-    {
-      "title": "More than 100 dead after goldmine collapses in Central African Republic",
-      "summary": "The collapse was caused by a landslide, while local officials say the death toll is likely to rise as recovery efforts continueMore than 100 people have died after an artisanal goldmine at a small village in western Central African Republic",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
-      "publishedAt": "Thu, 20 Aug 2026 00:14:17 GMT"
     }
   ],
   "sports": [
@@ -417,15 +417,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 30,
+      "tempC": 27,
       "description": "mainly clear",
       "high": 30,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 21,
-      "description": "overcast",
+      "tempC": 22,
+      "description": "clear sky",
       "high": 22,
       "low": 14
     }
