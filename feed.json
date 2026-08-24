@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T03:51:40.230Z",
+  "updated": "2026-08-24T06:51:16.857Z",
   "news": [
     {
       "title": "Boşanma, akıllı telefonlar ve kısıtlamalar: BBC, Taliban'ın Afganistan'ı nasıl yönettiğine tanıklık etti",
@@ -10,6 +10,22 @@
       "publishedAt": "Mon, 24 Aug 2026 02:34:07 GMT"
     },
     {
+      "title": "Aziz İhsan Aktaş davasında karar bekleniyor",
+      "summary": "Kamuoyunda \"Aziz İhsan Aktaş\" ismiyle anılan davada kararın bugünkü duruşmada açıklanması bekleniyor. Davada altısı görevinden uzaklaştırılan yedi belediye başkanının da aralarında bulunduğu 200 sanık bulunuyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cp8rl3wg477o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 04:58:37 GMT"
+    },
+    {
+      "title": "Suriye devlet medyası İsrail ile Ürdün'de görüşüldüğünü yazdı",
+      "summary": "Suriye'de devlete ait Sana haber ajansı, geçiş dönemi yönetiminin Dışişleri Bakanı Esad Şeybani'nin Ürdün'de İsrail istihbaratı Mossad'ın başkanı Roman Gofman ile 23 Ağustos pazar günü görüştüğünü duyurdu. Şeybani, İsrail'in Suriye toprakla",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c0qvq4j3lj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 04:22:12 GMT"
+    },
+    {
       "title": "İran Mekke paktına ancak 'kurucu ortak' olarak katılabileceğini açıkladı",
       "summary": "İran'da Düzenin Maslahatını Koruma Komitesi Genel Sekreteri Tümgeneral Muhsin Rızai, ülkesinin Mekke paktına ancak prensipleri belirleyen bir \"kurucu ortak\" olarak katılabileceğini söyledi. Rızai, İran ve Mısır'ın bu tür düzenlemelerin dışı",
       "source": "BBC Türkçe",
@@ -18,12 +34,12 @@
       "publishedAt": "Sun, 23 Aug 2026 21:23:02 GMT"
     },
     {
-      "title": "Suriye: 'Mekanizma, İsrail işgalini kalıcı hale getirmek yerine güvenlik anlaşmasının önünü açmalı'",
-      "summary": "Suriye'de geçiş dönemi yönetiminin Dışişleri Bakanı Esad Şeybani, İsrail'in Suriye topraklarından çekilmesini öngören bir güvenlik anlaşması konusunda müzakerelerin yakında yeniden başlamasını beklediğini söyledi. Reuters haber ajansında 23",
+      "title": "Kalın bacaklar daha uzun yaşamanıza yardımcı olabilir mi?",
+      "summary": "Giderek artan sayıda kanıt, bacakların üst kısmının kalınlığı ile uzun ömür arasında bir bağlantı olduğunu gösteriyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c0qvq4j3lj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 16:38:05 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cewr7g1g522o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 04:53:55 GMT"
     },
     {
       "title": "Türkiye'nin milli uçak gemisi projesiyle ilgili neler biliniyor?",
@@ -34,62 +50,70 @@
       "publishedAt": "Sun, 23 Aug 2026 13:46:31 GMT"
     },
     {
-      "title": "'Annemi aşığıymış gibi dolandıran kişiyle yüzleşmek için kıtalar aştım'",
-      "summary": "Nijerya'nın 'Yahoo Boys'ları, telefonlarını ve zekalarını kullanarak bazı kurbanları binlerce dolar vermeye ikna eden genç erkekler.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ce34r56epqko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 07:58:30 GMT"
-    },
-    {
-      "title": "Trump: 'Kanada ABD eyaleti olmadan eyalet avantajlarını istiyor'",
-      "summary": "Ticaret görüşmelerinin son anda çıkmaza girmesinin ardından, 20 milyar dolarlık Kanada ithalatına %50 oranında yeni bir vergi getiriliyor. Cuma gecesi sona ermesi planlanan müzakerelerin askıya alındığını duyuran Kanada Başbakanı Mark Carne",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c5ydyklrng7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 08:47:58 GMT"
-    },
-    {
-      "title": "Ankara'daki yangın 8 saatte söndürüldü. Yangının çıkış anı kamerada",
-      "summary": "Ankara’nın Mamak ilçesinde ekiplerin yaklaşık 8 saat süren çalışmasıyla kontrol altına aldığı yangının çıkış anına ilişkin cep telefonu kamerası ile çekilen görüntüler ortaya çıktı.",
+      "title": "Nem bunaltıyor, sıcak hava yakıyor. İstanbul'da hava ne zaman serinleyecek?",
+      "summary": "İstanbul başta olmak üzere yurdumuzun tamamına yakın bölümü hem Afrika hem Basra kökenli sıcak hava dalgalarının etkisi altında kalmaya devam ediyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-24T04:08:40+03:00"
+      "publishedAt": "2026-08-24T09:48:15+03:00"
     },
     {
-      "title": "Baba-oğul arasında sigara parası kavgası. Birbirlerini bıçakla yaraladılar",
-      "summary": "Kayseri’nin merkez Melikgazi ilçesinde baba ve oğlu \"sigara parası\" nedeniyle birbirlerini yaraladı.",
+      "title": "Bursa'da üç noktada orman yangın. Uludağ'ın etekleri yanıyor",
+      "summary": "Bursa'nın Kestel ve Yıldırım ilçelerinde üç farklı alanda orman yangını çıktı. Alevlere karadan ve havadan müdahale ediliyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-24T04:02:23+03:00"
+      "publishedAt": "2026-08-24T09:46:31+03:00"
     },
     {
-      "title": "İki kişi kimyasaldan zehirlendi: Acil servis geçici olarak kapatıldı",
-      "summary": "Ankara'nın Sincan ilçesinde 2 kişinin kimyasaldan zehirlenmesinin ardından acil servis tedbir amaçlı geçici olarak kapatıldı.",
+      "title": "Doktor Özlem Gültekin'in ölümü. 10 bin dolara gizli görüntülerini satmaya çalıştılar iddiası",
+      "summary": "İzmirli doktor Özlem Gültekin'in ölümüyle ilgili şüpheler artıyor. Son olarak ünlü doktorun gizli görüntülerinin 10 bin dolara eski eşine satılmaya çalışıldığı iddia edildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-24T03:51:19+03:00"
+      "publishedAt": "2026-08-24T09:45:54+03:00"
     },
     {
-      "title": "TEM'de motosikletlilere müdahale. Barikat kuruldu, 58 sürücü yakalandı",
-      "summary": "İstanbul TEM otoyolunda, polisi gören motosikletliler ters yönde hareket ederek kaçmaya çalışsalar da, polis araçlarıyla kurulan barikatı aşamadılar. 58 sürücüsü gözaltına alındı.",
+      "title": "Mevlid Kandili mesajları ve sözleri 2026: En güzel, resimli, kısa ve anlamlı Mevlid Kandili mesajları",
+      "summary": "Peygamber Efendimiz Hz. Muhammed’in (s.a.v.) dünyayı şereflendirdiği gün olan Mevlid Kandili’nin manevi coşkusu tüm İslam aleminde yaşanıyor. Bu mübarek gecede sevdiklerinin, akrabalarının ve dostlarının kandilini tebrik etmek isteyenler, W",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-24T03:38:54+03:00"
+      "publishedAt": "2026-08-24T09:21:43+03:00"
     },
     {
-      "title": "Nikah masasından tribüne geldiler. Gelin ve damat maç sonu sahada çiftetelli oynadı",
-      "summary": "Bursa'da düğün günü final maçına denk gelen Yakup Birol ile Merve Çetinkaya, gelinlik ve damatlıklarıyla tribündeki yerini alarak takımlarına destek verdi.",
+      "title": "Bugün kandil mi, ne kandili? 24 Ağustos Mevlid Kandili mi? (2026 Diyanet kandil takvimi)",
+      "summary": "Bugün kandil mi? Sorusunun yanıtı, sosyal medyada kullanıcılarının dijital platformlar ve WhatsApp üzerinden yapılan kandil paylaşımları nedeniyle 24 Ağustos Pazartesi gününün ne kandili olduğu merak ediliyor. Yılın üçüncü kandilini idrak e",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-24T02:52:47+03:00"
+      "publishedAt": "2026-08-24T08:41:57+03:00"
     },
     {
-      "title": "Mehmet Uçum'dan süreç yasası mesajı. \"Devlet şarta bağlı yeniden başlama imkanı verdi\"",
-      "summary": "Cumhurbaşkanı Başdanışmanı ve Cumhurbaşkanlığı Hukuk Politikaları Kurulu Başkanvekili Mehmet Uçum, Terörsüz Türkiye sürecine dair önemli mesajlar verdi.",
+      "title": "Resmi Gazete'de bugün (24 Ağustos 2026 Resmi Gazete kararları)",
+      "summary": "Resmi Gazete'de 24 Ağustos 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 24 Ağustos 2026 tarihli ve 33350 Sayılı Resmi Gazete ayrıntıları.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-24T02:27:54+03:00"
+      "publishedAt": "2026-08-24T08:10:23+03:00"
+    },
+    {
+      "title": "KYK yurt başvurusu başladı mı?",
+      "summary": "KYK yurt başvuruları için bekleyiş sürüyor. Üniversite kayıtları 24 Ağustos Pazartesi günü itibarıyla başladı. 2026-2027 eğitim öğretim yılında üniversiteye yeni başlayacak ya da üniversite eğitimine devam eden öğrenciler ise yurt başvuru s",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/kyk-yurt-basvurusu-basladi-mi-nasil-ve-nereden-yapilacak-2026-gsb-kyk-yurt-basvuru-ekrani-acildi-mi-ne-zaman-acilacak-3907633",
+      "publishedAt": "Mon, 24 Aug 2026 05:58:53 GMT"
+    },
+    {
+      "title": "Bugün hangi maçlar var?",
+      "summary": "Bugün futbolseverleri heyecan dolu bir maç programı bekliyor. Trendyol Süper Lig, Trendyol 1. Lig, İngiltere Premier Lig, İspanya La Liga, İtalya Serie A, Portekiz Süper Ligi, Rusya Premier Ligi ve Suudi Arabistan Pro Ligi’nde birbirinden k",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/24-agustos-2026-bugunku-mac-programi-bugun-hangi-maclar-var-kimin-maci-var-saat-kacta-ve-hangi-kanalda-3907626",
+      "publishedAt": "Mon, 24 Aug 2026 04:50:44 GMT"
+    },
+    {
+      "title": "Reytinglerde hangi yapım zirvede?",
+      "summary": "Dün akşam kuşağında birbirinden güzel yapımlar ekrana geldi. Kanal D’de Daha 17 dizisi ile ATV’de Kim Milyoner Olmak İster? ve TV8’de MasterChef Türkiye yarışmaları yeni bölümleriyle izleyici karşısına çıktı. TRT 1’de 2026 CEV Kadınlar Vole",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/reyting-sonuclari-23-agustos-2026-daha-17-slovenya-turkiye-maci-kim-milyoner-olmak-ister-masterchef-dunun-reyting-sonuclari-ile-abc1-ab-ve-totalde-kim-birinci-oldu-3907619",
+      "publishedAt": "Mon, 24 Aug 2026 04:32:32 GMT"
     },
     {
       "title": "Emekli promosyon kampanyaları yenilendi",
@@ -105,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/masterchef-kim-elendi-23-agustos-2026-pazar-masterchef-kim-gitti-hangi-yarismaci-veda-etti-3907573",
-      "publishedAt": "Sun, 23 Aug 2026 21:41:18 GMT"
+      "publishedAt": "Mon, 24 Aug 2026 03:39:07 GMT"
     },
     {
       "title": "Lyon - Fenerbahçe maçı ne zaman?",
@@ -116,36 +140,12 @@
       "publishedAt": "Sun, 23 Aug 2026 22:03:21 GMT"
     },
     {
-      "title": "Üniversite kayıt tarihleri",
-      "summary": "YKS yerleştirme sonuçlarının açıklanmasının ardından üniversite kayıtları için heyecanlı bekleyiş sona eriyor. Bir yükseköğretim programına yerleşen yüz binlerce aday, kayıt işlemlerinin nasıl yapılacağını araştırmaya başladı. Üniversite ka",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/universite-kayit-tarihleri-2026-2027-universite-kayitlari-basladi-mi-ne-zaman-basliyor-kayit-icin-gerekli-olan-belgeler-neler-3907570",
-      "publishedAt": "Sun, 23 Aug 2026 21:22:03 GMT"
-    },
-    {
-      "title": "KPSS sınav yerleri açıklandı mı?",
-      "summary": "2026 KPSS Lisans sınavı için hazırlıklarını sürdüren adaylar, sınav giriş belgelerinin erişime açılacağı tarihi araştırıyor. ÖSYM tarafından sınav giriş belgesinin yayımlanıp yayımlanmadığı ve belgenin ne zaman açıklanacağı merak ediliyor. ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/kpss-sinav-giris-belgesi-yayimlandi-mi-ne-zaman-aciklanacak-kpss-lisans-sinavi-ne-zaman-3907564",
-      "publishedAt": "Sun, 23 Aug 2026 21:22:56 GMT"
-    },
-    {
-      "title": "Süper Loto sonuçları",
-      "summary": "Süper Loto çekilişinde heyecanlı bekleyiş sona erdi. 23 Ağustos 2026 Pazar günü gerçekleştirilen Süper Loto çekilişinin ardından gözler kazandıran numaralara çevrildi. Çekiliş sonucunu öğrenmek isteyenler, Süper Loto sonuçları için sorgulam",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/super-loto-sonuclari-aciklandi-23-agustos-2026-pazar-devretti-super-loto-cekilis-sonucu-sorgulama-ekrani-tikla-ogren-3907563",
-      "publishedAt": "Sun, 23 Aug 2026 21:23:50 GMT"
-    },
-    {
-      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+      "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+      "summary": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 23:07:10 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 05:00:22 GMT"
     },
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -161,7 +161,23 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 02:05:04 GMT"
+      "publishedAt": "Mon, 24 Aug 2026 06:13:32 GMT"
+    },
+    {
+      "title": "China probes use of formaldehyde to keep cabbages fresh",
+      "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 05:40:48 GMT"
+    },
+    {
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 03:55:35 GMT"
     },
     {
       "title": "Guinea rubbish landfill collapse kills 30",
@@ -172,68 +188,60 @@
       "publishedAt": "Sun, 23 Aug 2026 18:17:37 GMT"
     },
     {
-      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
-      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 03:27:11 GMT"
-    },
-    {
-      "title": "France links sharp rise in drownings to heatwaves",
-      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 17:39:33 GMT"
-    },
-    {
-      "title": "Human-caused Nevada wildfire forces 42,000 people to evacuate",
-      "summary": "A fast-moving wildfire near Reno, Nevada, has forced 42,000 people to evacuate and put another 45,000 on alert.",
+      "title": "Pakistan’s army chief Munir returns to Iran: Can he break US war deadlock?",
+      "summary": "Pakistan says it can offer a channel between Tehran and Washington, but analysts differ over how much influence it has.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 02:55:39 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 06:30:37 +0000"
     },
     {
-      "title": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
-      "summary": "As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.",
+      "title": "Salah scores two goals, has two disallowed in first start for Trabzonspor",
+      "summary": "Salah started his first game for the Turkish Super Lig side, whom he joined on a free transfer earlier this month.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 02:09:40 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 06:18:32 +0000"
     },
     {
-      "title": "Ebola cases in DRC hit 5,515 as Pope Leo urges global action to save lives",
-      "summary": "Case fatality rate climbs to nearly 48 percent in DRC, meaning almost one in two people infected with Ebola are dying.",
+      "title": "Ceferin won’t challenge Infantino for FIFA presidency but tells him to quit",
+      "summary": "European football chief doesn't want to lose credibility over FIFA job but says Infantino will face a challenger.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/24/ebola-cases-in-drc-top-5515-as-pope-leo-urges-global-action-to-save-lives?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 02:02:28 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 06:09:24 +0000"
     },
     {
-      "title": "India crushes cockroach dissent as ‘Fix Schools’ campaign riles Modi",
-      "summary": "The Cockroach Janta Party’s ‘Fix the Schools’ campaign in India is facing pushback from BJP leaders and supporters.",
+      "title": "Gauff, Fils win Cincinnati tennis titles in run-up to US Open",
+      "summary": "Gauff beat Pegula for her second Cincinnati Open trophy and Fils overcame Tiafoe for his first Masters 1000 title.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/india-crushes-cockroach-dissent-as-fix-schools-campaign-riles-modi?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 01:51:40 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/24/gauff-fils-win-cincinnati-tennis-titles-in-run-up-to-us-open?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 06:08:15 +0000"
     },
     {
-      "title": "Large forest fire burns close to residential areas in Ankara",
-      "summary": "A large forest fire is threatening homes near residential areas of Mamak on the outskirts of the Turkish capital.",
+      "title": "Maradona’s ‘Hand of God’ ball from Mexico sells for $3.35m",
+      "summary": "Maradona’s 1986 World Cup ball sold for $3.35m. He used his hand to score against England, dubbing it the ‘Hand of God’.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 00:30:00 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-mardona-ball-sold-clip?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 04:19:46 +0000"
     },
     {
-      "title": "Tokayev allies head for landslide victory in Kazakhstan elections",
-      "summary": "Exit polls give Kazakhstan’s pro-Tokayev Adilet party about 70 percent of the vote in the parliamentary elections.",
+      "title": "Climbers escape rockfall crossing ‘Death Pass’ on Mont Blanc",
+      "summary": "Footage filmed by a climber on Mont Blanc shows rocks cascading down the Goûter Couloir, known as ‘Death Pass’. The clim",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-kazakh-elections-sv-mp4?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 00:12:21 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/climbers-escape-rockfall-crossing-death-pass-on-mont-blanc?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 04:18:16 +0000"
+    },
+    {
+      "title": "Thousands forced to evacuate parts of Reno, Nevada, as new wildfire rages",
+      "summary": "Officials say the fire, which has now burned more than 15,000 acres and is zero percent contained, was human caused. Nearly 90,000 people have been told to evacuate or prepare to leave.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/23/g-s1-139729/thousands-forced-to-evacuate-parts-of-reno-nevada-as-new-wildfire-rages",
+      "publishedAt": "Sun, 23 Aug 2026 23:47:04 -0400"
     },
     {
       "title": "Learning to live in a post-American world",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
       "publishedAt": "Sun, 23 Aug 2026 08:48:05 -0400"
-    },
-    {
-      "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
-      "summary": "The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
-      "publishedAt": "Sun, 23 Aug 2026 05:00:00 -0400"
     },
     {
       "title": "Landslide at waste mound in Guinea capital kills 30, government says",
@@ -417,7 +417,7 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 22,
+      "tempC": 26,
       "description": "partly cloudy",
       "high": 30,
       "low": 22
@@ -425,7 +425,7 @@
     {
       "place": "London",
       "tempC": 15,
-      "description": "clear sky",
+      "description": "mainly clear",
       "high": 22,
       "low": 14
     }
