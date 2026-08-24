@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-24T01:04:44.587Z",
+  "updated": "2026-08-24T03:51:40.230Z",
   "news": [
+    {
+      "title": "Boşanma, akıllı telefonlar ve kısıtlamalar: BBC, Taliban'ın Afganistan'ı nasıl yönettiğine tanıklık etti",
+      "summary": "Taliban'ın Afganistan'da iktidara geri dönüşünün üzerinden beş yıl geçti. BBC, iki yıl süren görüşmeler sonrası, grubun ülkeyi yeniden şekillendirme sürecinde üst düzey isimleri takip etti.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cq6d6ep2n86o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 02:34:07 GMT"
+    },
     {
       "title": "İran Mekke paktına ancak 'kurucu ortak' olarak katılabileceğini açıkladı",
       "summary": "İran'da Düzenin Maslahatını Koruma Komitesi Genel Sekreteri Tümgeneral Muhsin Rızai, ülkesinin Mekke paktına ancak prensipleri belirleyen bir \"kurucu ortak\" olarak katılabileceğini söyledi. Rızai, İran ve Mısır'ın bu tür düzenlemelerin dışı",
@@ -26,14 +34,6 @@
       "publishedAt": "Sun, 23 Aug 2026 13:46:31 GMT"
     },
     {
-      "title": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye, Slovenya'yı 3-1 yendi",
-      "summary": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye ikinci maçında karşı karşıya geldiği Slovenya'yı 3-1 yendi. Filenin Sultanları turnuvadaki üçüncü maçını Pazartesi günü Macaristan ile oynayacak.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 21:33:50 GMT"
-    },
-    {
       "title": "'Annemi aşığıymış gibi dolandıran kişiyle yüzleşmek için kıtalar aştım'",
       "summary": "Nijerya'nın 'Yahoo Boys'ları, telefonlarını ve zekalarını kullanarak bazı kurbanları binlerce dolar vermeye ikna eden genç erkekler.",
       "source": "BBC Türkçe",
@@ -48,6 +48,13 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c5ydyklrng7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sun, 23 Aug 2026 08:47:58 GMT"
+    },
+    {
+      "title": "Ankara'daki yangın 8 saatte söndürüldü. Yangının çıkış anı kamerada",
+      "summary": "Ankara’nın Mamak ilçesinde ekiplerin yaklaşık 8 saat süren çalışmasıyla kontrol altına aldığı yangının çıkış anına ilişkin cep telefonu kamerası ile çekilen görüntüler ortaya çıktı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-24T04:08:40+03:00"
     },
     {
       "title": "Baba-oğul arasında sigara parası kavgası. Birbirlerini bıçakla yaraladılar",
@@ -83,13 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-08-24T02:27:54+03:00"
-    },
-    {
-      "title": "Ankara'da ağaçlık alanda yangın. Bir kişi gözaltına alındı",
-      "summary": "Ankara'nın Mamak ilçesinde ağaçlık alanda yangın çıktı. Ankara Valiliği, yangına neden olduğu belirlenen bir kişinin gözaltına alındığını açıkladı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-24T02:10:55+03:00"
     },
     {
       "title": "Emekli promosyon kampanyaları yenilendi",
@@ -140,12 +140,12 @@
       "publishedAt": "Sun, 23 Aug 2026 21:23:50 GMT"
     },
     {
-      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 12:56:43 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 23 Aug 2026 23:07:10 GMT"
     },
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -156,6 +156,14 @@
       "publishedAt": "Sun, 23 Aug 2026 19:11:30 GMT"
     },
     {
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "summary": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 02:05:04 GMT"
+    },
+    {
       "title": "Guinea rubbish landfill collapse kills 30",
       "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
       "source": "BBC World",
@@ -164,12 +172,12 @@
       "publishedAt": "Sun, 23 Aug 2026 18:17:37 GMT"
     },
     {
-      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-      "summary": "Representatives met in Switzerland to work out next steps to resolve the conflict.",
+      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 12:52:08 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 03:27:11 GMT"
     },
     {
       "title": "France links sharp rise in drownings to heatwaves",
@@ -180,12 +188,36 @@
       "publishedAt": "Sun, 23 Aug 2026 17:39:33 GMT"
     },
     {
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-      "source": "BBC World",
+      "title": "Human-caused Nevada wildfire forces 42,000 people to evacuate",
+      "summary": "A fast-moving wildfire near Reno, Nevada, has forced 42,000 people to evacuate and put another 45,000 on alert.",
+      "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 23 Aug 2026 11:50:59 GMT"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/08-24-26-nevada-forest-fire-sv?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 02:55:39 +0000"
+    },
+    {
+      "title": "Can Kenya’s AI ambitions coexist with Naivasha’s water needs?",
+      "summary": "As Kenya courts data-centre investment, communities fear growing pressure on an already stressed water system.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/economy/2026/8/24/can-kenyas-ai-ambitions-coexist-with-naivashas-water-needs?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 02:09:40 +0000"
+    },
+    {
+      "title": "Ebola cases in DRC hit 5,515 as Pope Leo urges global action to save lives",
+      "summary": "Case fatality rate climbs to nearly 48 percent in DRC, meaning almost one in two people infected with Ebola are dying.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/8/24/ebola-cases-in-drc-top-5515-as-pope-leo-urges-global-action-to-save-lives?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 02:02:28 +0000"
+    },
+    {
+      "title": "India crushes cockroach dissent as ‘Fix Schools’ campaign riles Modi",
+      "summary": "The Cockroach Janta Party’s ‘Fix the Schools’ campaign in India is facing pushback from BJP leaders and supporters.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/india-crushes-cockroach-dissent-as-fix-schools-campaign-riles-modi?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 01:51:40 +0000"
     },
     {
       "title": "Large forest fire burns close to residential areas in Ankara",
@@ -204,36 +236,12 @@
       "publishedAt": "Mon, 24 Aug 2026 00:12:21 +0000"
     },
     {
-      "title": "Iran war live: Iranian parliament advances plans for Hormuz service fees",
-      "summary": "Draft law says ships of countries permitted to pass through the Strait of Hormuz will pay for Tehran's services.",
-      "source": "Al Jazeera",
+      "title": "Learning to live in a post-American world",
+      "summary": "In a recent article for Foregin Affairs, Mark Leonard makes that argument that America's leading role in the world order is fading. He discusses his argument with NPR's Danielle Kurtzleben.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
-      "summary": "Barcelona ‌begin their La Liga title ⁠defence ⁠and bid for a third successive crown with a 5-0 ⁠victory at Elche.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
-      "publishedAt": "Sun, 23 Aug 2026 21:45:05 +0000"
-    },
-    {
-      "title": "Will Donald Trump’s new sanctions against Iran work?",
-      "summary": "The US president says he will impose 'crushing measures' on Tehran.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
-      "publishedAt": "Sun, 23 Aug 2026 21:34:53 +0000"
-    },
-    {
-      "title": "Serbia requests international assistance to battle wildfires",
-      "summary": "Serbia requested assistance from the European Union and Russia to help bring intense wildfires under control.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss",
-      "publishedAt": "Sun, 23 Aug 2026 21:27:57 +0000"
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5939846/learning-to-live-in-a-post-american-world",
+      "publishedAt": "Sun, 23 Aug 2026 17:21:23 -0400"
     },
     {
       "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
@@ -274,14 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
       "publishedAt": "Sun, 23 Aug 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Trump administration's 75-country visa ban was illegal, judge rules",
-      "summary": "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
-      "publishedAt": "Sat, 22 Aug 2026 16:53:19 -0400"
     },
     {
       "title": "Landslide at waste mound in Guinea capital kills 30, government says",
@@ -418,16 +418,16 @@
     {
       "place": "İstanbul",
       "tempC": 22,
-      "description": "mainly clear",
+      "description": "partly cloudy",
       "high": 30,
       "low": 22
     },
     {
       "place": "London",
-      "tempC": 17,
+      "tempC": 15,
       "description": "clear sky",
       "high": 22,
-      "low": 15
+      "low": 14
     }
   ],
   "facts": [
