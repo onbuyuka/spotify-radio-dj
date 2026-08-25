@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-24T21:25:07.122Z",
+  "updated": "2026-08-25T01:03:54.239Z",
   "news": [
+    {
+      "title": "ABD, Suriye'yi 'teröre destek veren ülkeler' listesinden çıkardı",
+      "summary": "ABD, Suriye'yi 47 yıl sonra \"Teröre destek veren ülkeler\" listesinden çıkararak Şam ile ilişkilerinde tarihi bir adım attı. ABD Dışişleri Bakanlığı da, iki yıl önce Suriye'de Beşar Esad yönetimini deviren İslamcı militan örgüt Heyet Tahrir ",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cj9xlynzy2xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 23:25:35 GMT"
+    },
     {
       "title": "AİHM Kavala kararını açıklayacak",
       "summary": "Avrupa İnsan Hakları Mahkemesi (AİHM), dokuz yıldır tutuklu olan Osman Kavala'nın ikinci başvurusuna ilişkin kararını salı günü açıklayacak.",
@@ -34,14 +42,6 @@
       "publishedAt": "Mon, 24 Aug 2026 18:05:18 GMT"
     },
     {
-      "title": "GTA 6 sızıntıları yılın en büyük oyunu için ne anlama geliyor?",
-      "summary": "Grand Theft Auto (GTA) 6, neredeyse bir haftadır sızdırılan görüntüleriyle gündemde. Oyunun geliştiricisi Rockstar Games henüz resmi açıklama yapmadı. Rockstar'ın sahibi Take Two Interactive şirketi ise görüntüleri sızdırılan hesapların bil",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c9v98e7430no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 14:16:01 GMT"
-    },
-    {
       "title": "Merkez Bankası repo ihalelerine neden yeniden başladı, bu hamle ne anlama geliyor?",
       "summary": "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) 1 Mart'tan bu yana ara verdiği haftalık repo ihalelerine yeniden başladı. Bankanın son adımını BBC Türkçe'ye değerlendiren ekonomistler haftalık repo ihalelerin başlamasını bir gevşeme sinyali ol",
       "source": "BBC Türkçe",
@@ -54,7 +54,7 @@
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-25T00:00:00+03:00"
+      "publishedAt": "2026-08-25T04:00:00+03:00"
     },
     {
       "title": "Toprak kayması nedeniyle 5 katlı bina tahliye edildi",
@@ -92,6 +92,30 @@
       "publishedAt": "2026-08-24T18:48:19+03:00"
     },
     {
+      "title": "MasterChef kaptanlık oyunu kim kazandı?",
+      "summary": "MasterChef Türkiye'de haftanın yeni bölümüyle birlikte kaptanlık oyunu heyecanı yaşandı. Eleme gecesinde Gül'ün vedasının ardından yedeklerden Emre ana kadroya dahil oldu. Yarışmacılar bu kez mavi takım kaptanı olabilmek için tezgah başına ",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/masterchef-kaptanlik-oyunu-kim-kazandi-24-agustos-2026-masterchef-takimlar-nasil-olustu-mavi-ve-kirmizi-takim-kaptani-kim-oldu-3907828",
+      "publishedAt": "Mon, 24 Aug 2026 21:35:20 GMT"
+    },
+    {
+      "title": "Kademeli emeklilik çıkacak mı?",
+      "summary": "Kademeli emeklilik düzenlemesi, emeklilik yaşını bekleyen milyonlarca çalışanın gündemindeki yerini koruyor. Özellikle 8 Eylül 1999 sonrası sigorta girişi bulunan çalışanlar, mevcut emeklilik şartlarının değişip değişmeyeceğini araştırıyor.",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/kademeli-emeklilik-son-dakika-2026-kademeli-emeklilik-cikacak-mi-erken-emeklilik-sartlari-neler-3907824",
+      "publishedAt": "Mon, 24 Aug 2026 22:41:16 GMT"
+    },
+    {
+      "title": "Benzine zam mı geldi?",
+      "summary": "Akaryakıt fiyatlarında hareketlilik devam ederken araç sahiplerini ilgilendiren yeni bir zam haberi gündeme geldi. Motorinin litre fiyatına yapılan 2 lira 92 kuruşluk artışın ardından bu kez benzinin fiyatında değişiklik yapıldı. Benzinin l",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/benzine-zam-mi-geldi-benzine-ne-kadar-zam-geldi-25-agustos-2026-istanbul-izmir-ankara-guncel-akaryakit-fiyatlari-ile-benzin-mazot-lpg-ne-kadar-3907806",
+      "publishedAt": "Mon, 24 Aug 2026 21:19:48 GMT"
+    },
+    {
       "title": "Mevlid Kandili namazı ne zaman, saat kaçta kılınır?",
       "summary": "Hz. Muhammed’in (s.a.v.) doğum günü olan Mevlid Kandili, 24 Ağustos Pazartesi günü idrak edilecek. Bu sebeple Mevlid Kandili yatsı namazı saatleri gündemde en çok araştırılan konulardan biri oldu. ‘’Mevlid Kandili namazı ne zaman, saat kaçt",
       "source": "Habertürk",
@@ -116,36 +140,12 @@
       "publishedAt": "Mon, 24 Aug 2026 21:06:33 GMT"
     },
     {
-      "title": "Bugün kandil mi, ne kandili?",
-      "summary": "Mevlid Kandili tarihi 2026 yaklaşırken ‘’Bugün kandil mi?’’ sorusu gündemde en çok araştırılan konulardan biri oldu. İslam alemi için büyük bir öneme sahip olan Mevlid Kandili, iki cihan güneşi alemlere rahmet olarak gönderilen Hz. Muhammed",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/yarin-kandil-mi-ne-kandili-2026-mevlid-kandili-ne-zaman-hangi-gun-ayin-kacinda-mevlid-kandili-tarihi-2026-diyanet-dini-gunler-takvimi-ile-belli-oldu-3907439",
-      "publishedAt": "Mon, 24 Aug 2026 21:08:30 GMT"
-    },
-    {
-      "title": "En güzel ve resimli Mevlid Kandili mesajları",
-      "summary": "Hz. Muhammed'i doğum günü olarak kabul edilen Mevlid Kandili bu yıl 24 Ağustos Pazartesi günü idrak edilecek. Bu kapsamda Mevlid Kandili mesajları resimli ve yeni alternatifler araştırılmaya başlandı. Bu mübarek gecede sevdiklerine en içten",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/mevlid-kandili-mesajlari-2026-en-guzel-duali-hadisli-kisa-uzun-resimli-mevlid-kandili-mesajlari-ve-sozleri-ile-hayirli-kandiller-dileyin-3907424",
-      "publishedAt": "Mon, 24 Aug 2026 21:05:47 GMT"
-    },
-    {
-      "title": "MasterChef kaptanlık oyunu kim kazandı?",
-      "summary": "MasterChef Türkiye'de haftanın yeni bölümüyle birlikte kaptanlık oyunu heyecanı yaşandı. Eleme gecesinde Gül'ün vedasının ardından yedeklerden Emre ana kadroya dahil oldu. Yarışmacılar bu kez mavi takım kaptanı olabilmek için tezgah başına ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/masterchef-kaptanlik-oyunu-kim-kazandi-24-agustos-2026-masterchef-takimlar-nasil-olustu-mavi-ve-kirmizi-takim-kaptani-kim-oldu-3907828",
-      "publishedAt": "Mon, 24 Aug 2026 20:40:47 GMT"
-    },
-    {
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 19:12:35 GMT"
+      "publishedAt": "Mon, 24 Aug 2026 23:48:25 GMT"
     },
     {
       "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
@@ -156,20 +156,20 @@
       "publishedAt": "Mon, 24 Aug 2026 17:29:59 GMT"
     },
     {
-      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+      "title": "US removes Syria from list of state sponsors of terrorism",
+      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 10:40:22 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 25 Aug 2026 00:17:25 GMT"
     },
     {
-      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "title": "Moment tornado tears through southern France",
+      "summary": "The tornado has injured more than 40 people and destroyed homes in villages.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 13:56:22 GMT"
+      "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 25 Aug 2026 00:16:35 GMT"
     },
     {
       "title": "King of Norway's health has worsened, palace says",
@@ -180,60 +180,76 @@
       "publishedAt": "Mon, 24 Aug 2026 08:31:55 GMT"
     },
     {
-      "title": "Outrage in Nepal over rape and murder of three-year-old girl",
-      "summary": "There have been protests since the girl was found dead last week, three days after she went missing.",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 24 Aug 2026 17:24:25 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 24 Aug 2026 13:56:22 GMT"
     },
     {
-      "title": "What’s behind domestic political pressure on Ukraine’s president?",
-      "summary": "Zelenskyy rejects call from sacked minister for wartime elections.",
+      "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
+      "summary": "Tunisia's Ben Guerdane reels from violent protests after a boat carrying 15 people sinks, killing at least 12.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 20:54:38 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
+      "publishedAt": "Tue, 25 Aug 2026 00:18:42 +0000"
     },
     {
-      "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-      "summary": "Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.",
+      "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+      "summary": "US tells countries to choose between Washington and Tehran, warns Iran's trade partners they will face consequences.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 20:48:21 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+      "publishedAt": "Tue, 25 Aug 2026 00:00:00 +0000"
     },
     {
-      "title": "Ceasefire monitoring mission arrives in Democratic Republic of Congo",
-      "summary": "Fighting persists in the mineral-rich region despite ceasefire agreements.",
+      "title": "How US sanctions on Iran ripple through global markets and consumers",
+      "summary": "New sanctions hit Iran's aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 20:48:09 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 22:46:02 +0000"
     },
     {
-      "title": "Ambush in South Sudan kills peacekeeping troops",
-      "summary": "Armed men injured three additional peacekeepers as fears grow of the country relapsing into civil war.",
+      "title": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
+      "summary": "Mail balloting has long been a favourite target of US President Donald Trump.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 20:47:24 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 22:40:04 +0000"
     },
     {
-      "title": "Displaced Palestinian builds mud shelter as tents offer little relief",
-      "summary": "A displaced Palestinian has built a traditional mud-brick house as an alternative to tents.",
+      "title": "US removes Syria from ‘state sponsor of terrorism’ list",
+      "summary": "Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a 'terrorist' organisation.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 20:45:51 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 22:32:26 +0000"
     },
     {
-      "title": "Violence flares in Haiti as gang attack kills 30 people",
-      "summary": "Island nation grapples with violence as it seeks to hold first elections in more than a decade.",
+      "title": "Hakeem Jeffries, Jared Kushner meeting sparks speculation amid US midterms",
+      "summary": "Private meeting between Jeffries and Kushner fuels discussions amid contentious US midterm battle.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
-      "publishedAt": "Mon, 24 Aug 2026 20:23:39 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss",
+      "publishedAt": "Mon, 24 Aug 2026 22:19:08 +0000"
+    },
+    {
+      "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+      "summary": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+      "publishedAt": "Mon, 24 Aug 2026 18:22:13 -0400"
+    },
+    {
+      "title": "Penn State bust put focus on cocaine but on most campuses the big risk is alcohol",
+      "summary": "A drug bust involving an alleged cocaine ring at Penn State has drawn attention to drug use on college campuses, but research shows the big risk to students is alcohol.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/24/nx-s1-5942987/cocaine-use-is-down-but-alcohol-is-still-being-abused-by-young-adults",
+      "publishedAt": "Mon, 24 Aug 2026 17:17:31 -0400"
     },
     {
       "title": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
       "publishedAt": "Mon, 24 Aug 2026 05:36:13 -0400"
-    },
-    {
-      "title": "In candid interviews, National Guard members speak out about D.C. deployment",
-      "summary": "As President Trump's deployment of the National Guard to Washington, D.C., enters its second year, three guard members who served many months on the mission share their reactions with NPR.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/24/nx-s1-5939973/national-guard-members-washington-dc-deployment",
-      "publishedAt": "Mon, 24 Aug 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Sean Grayson, former deputy convicted of killing Sonya Massey, dies in prison, lawyer says",
-      "summary": "Sean Grayson, a former Illinois sheriff's deputy whose fatal shooting of Sonya Massey inside her home became a flashpoint over police use of force, died Sunday while serving a 20-year prison sentence.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/24/g-s1-139734/sonya-massey-convicted-deputy",
-      "publishedAt": "Mon, 24 Aug 2026 04:53:36 -0400"
     },
     {
       "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
@@ -317,6 +317,13 @@
     }
   ],
   "sports": [
+    {
+      "league": "La Liga",
+      "home": "Valencia",
+      "away": "Real Betis",
+      "status": "upcoming",
+      "date": "2026-08-25"
+    },
     {
       "league": "Süper Lig",
       "home": "Kocaelispor",
@@ -370,76 +377,22 @@
       "awayScore": 1,
       "status": "FT",
       "date": "2026-08-24"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Göztepe",
-      "away": "Gençlerbirliği",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-08-23"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Alanyaspor",
-      "away": "Beşiktaş",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-08-23"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Trabzonspor",
-      "away": "İstanbul Başakşehir",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-08-23"
-    },
-    {
-      "league": "Premier League",
-      "home": "Manchester City",
-      "away": "Bournemouth",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-08-23"
-    },
-    {
-      "league": "Premier League",
-      "home": "Brighton and Hove Albion",
-      "away": "Aston Villa",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-08-23"
-    },
-    {
-      "league": "Premier League",
-      "home": "Newcastle United",
-      "away": "Liverpool",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-08-23"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
       "tempC": 24,
-      "description": "partly cloudy",
-      "high": 32,
+      "description": "mainly clear",
+      "high": 31,
       "low": 23
     },
     {
       "place": "London",
-      "tempC": 18,
+      "tempC": 17,
       "description": "partly cloudy",
-      "high": 22,
-      "low": 14
+      "high": 25,
+      "low": 16
     }
   ],
   "facts": [
