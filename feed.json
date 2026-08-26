@@ -1,67 +1,88 @@
 {
-  "updated": "2026-08-26T12:44:15.205Z",
+  "updated": "2026-08-26T16:15:26.835Z",
   "news": [
     {
-      "title": "Nepal ve Tibet'te heyelan ve sel: Yüzlerce kişi kayıp",
-      "summary": "Nepal ve Çin'in Tibet bölgesinde meydana gelen heyelan ve sellerde yüzlerce kişi kayboldu.",
+      "title": "Nepal ve Tibet'te sel felaketi: En az 95 ölü, turistler dahil yüzlerce kayıp var",
+      "summary": "Nepal ve Çin'in Tibet bölgesinde meydana gelen heyelan ve sellerde yüzlerce kişi kayboldu. Nepal polisi tarafından doğrulanan son verilere göre kayıp turist sayısı 579'a çıktı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c1583l5q711o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 12:39:08 GMT"
+      "publishedAt": "Wed, 26 Aug 2026 16:03:58 GMT"
     },
     {
-      "title": "Mazlum Abdi, Şam'da SDG'nin feshedildiğini duyurdu",
-      "summary": "Mazlum Abdi, Suriye Demokratik Güçleri'nin (SDG) \"bağımsız bir askeri güç\" olarak varlığına son verildiğini duyurdu. \"Bugün Suriye Demokratik Güçleri'nin misyonunun sona erdiğini duyuruyor ve bağımsız bir askeri güç olarak feshedildiklerini",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cn0j3l55g13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 10:35:16 GMT"
-    },
-    {
-      "title": "CIA başkanı neden Moskova'yı ziyaret etti, Kremlin ne dedi?",
+      "title": "CIA başkanı neden Moskova'yı ziyaret etti, Trump ve Kremlin ne dedi?",
       "summary": "John Ratcliffe salı günü Moskova'ya nadir görülen ve kamuoyuna önceden duyurulmayan bir ziyaret gerçekleştirdi. Peki neden?",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c39mldg84xxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 12:35:52 GMT"
+      "publishedAt": "Wed, 26 Aug 2026 15:29:27 GMT"
     },
     {
-      "title": "Pakistan'da yenidoğan ünitesindeki yangında 14 bebek hayatını kaybetti",
+      "title": "Meta sosyal medya bağımlılığı davasında 18 milyar dolar ödemeyi kabul etti",
+      "summary": "Sosyal medya devi Meta, Facebook ve Instagram'ın çocuklarda bağımlılık yaratmasıyla ilgili suçlandığı davada, ABD'nin 50'den fazla eyalet ve bölgesine 18 milyar dolara kadar ödeme yapmayı kabul etti.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c1j14r9jrkyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 15:41:26 GMT"
+    },
+    {
+      "title": "İmamoğlu'nun danışmanı Ertan Yıldız'ın ifadesi: 'Yapıyla ilgili bildiklerimi anlattım'",
+      "summary": "Görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun yargılandığı davanın 17 Ağustos'ta başlayan ikinci celsesi sürüyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cwyr0ee0k00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 14:01:21 GMT"
+    },
+    {
+      "title": "Prens Harry ve Meghan altı yıl sonra İngiltere'ye döndü",
+      "summary": "BBC'nin edindiği bilgilere göre, Prens Harry ve eşi Meghan Markle altı yıl sonra İngiltere'ye geri döndü. Prens Harry, Meghan ve çocukları Archie ile Lilibet'in, California'dan özel bir uçuşla 26 Ağustos'ta ülkeye döndükleri ve Birmingham k",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c4gv1vwgegzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 15:30:58 GMT"
+    },
+    {
+      "title": "Pakistan'da 14 bebeğin öldüğü yangın: Görgü tanıklarına göre kapı kilitliydi",
       "summary": "Pakistan'ın başkenti İslamabad'da bir hastanenin yenidoğan ünitesinde bu sabah 7 civarında başlayan yangında en az 14 bebek hayatını kaybetti.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/czxzge1lzkxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 09:58:18 GMT"
+      "publishedAt": "Wed, 26 Aug 2026 15:47:09 GMT"
     },
     {
-      "title": "Türkiye, Avrupa Kadınlar Voleybol Şampiyonası'nda 4. maçına çıkıyor",
-      "summary": "Türkiye A Milli Kadın Voleybol takımı, üçte üç yaptığı Avrupa Kadınlar Voleybol Şampiyonası'nda bugün Almanya ile karşı karşıya gelecek. İstanbul'daki maç saat 19.00'da başlayacak.",
-      "source": "BBC Türkçe",
+      "title": "TBMM Başkanı Kurtulmuş’tan Terörsüz Türkiye mesajı",
+      "summary": "TBMM Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecine ilişkin mesajlar verdi. Kurtulmuş, \"Hiçbir yerde silah sesi olmayacak\" dedi.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 03:17:25 GMT"
+      "publishedAt": "2026-08-26T18:27:20+03:00"
     },
     {
-      "title": "Süleymancılar'ın eski lideri Denizolgun'un ölümü şüpheli bulundu, yeni lider Kuriş hakkında soruşturma açıldı",
-      "summary": "Bakırköy Cumhuriyet Başsavcılığı, kamuoyuda Süleymancılar olarak bilinen cemaatin eski lideri Arif Ahmet Denizolgun'un ölümünün şüpheli olduğunu açıkladı. Denizolgun'un Karacaahmet Mezarlığı'ndaki mezarı açıldı",
-      "source": "BBC Türkçe",
+      "title": "\"Şeytantepe\" belgeseline soruşturma",
+      "summary": "Narin Güran cinayetini konu alan “Şeytantepe” belgeseli hakkında soruşturma başlatıldı.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c934e494wj1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 08:29:13 GMT"
+      "publishedAt": "2026-08-26T17:56:25+03:00"
+    },
+    {
+      "title": "Rojin Kabaiş soruşturmasında yeni gelişme. Adli Tıp raporu açıklandı, Rojin zehirlenerek mi öldü?",
+      "summary": "Van'da kaybolduktan 18 gün sonra cansız bedeni bulunan üniversite öğrencisi Rojin Kabaiş'in ölümüyle ilgili soruşturma sürüyor. Rojin Kabaiş'in zehirlenerek öldüğüne ilişkin tıbbi delil bulunmadı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-26T17:18:19+03:00"
     },
     {
       "title": "İstanbul'da sonbahar provası. Hava bir anda soğuyacak, sağanak bastıracak",
       "summary": "İstanbul'da \"sonbahar provası\" için tarih verildi. Megakentte sıcaklık bir anda 23 - 24 derece seviyelerine düşecek ve sağanak yağış başlayacak.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-26T15:30:32+03:00"
+      "publishedAt": "2026-08-26T16:55:41+03:00"
     },
     {
-      "title": "Büyük Taarruz'un 104. yıl dönümü. Babadan kalan miras kanlı üniforma",
+      "title": "Babadan kalan miras: Kanlı bir üniforma ve Atatürk'ün yazdığı mektup",
       "summary": "30 Ağustos Zaferi'nde on binlerce kahramanın katkısı var. Onlardan biri de Kemal Doğan. Doğan'ın kızı Ayfer Neyzi, babasının kanlı ve kurşun delikli üniformasını özenle saklıyor. (Haber: Yağız Şenkal)",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-26T15:03:52+03:00"
+      "publishedAt": "2026-08-26T16:05:27+03:00"
     },
     {
       "title": "Bakan Ersoy’dan Malazgirt Zaferi’nin 955’inci yıl dönümü mesajı",
@@ -71,25 +92,28 @@
       "publishedAt": "2026-08-26T14:37:05+03:00"
     },
     {
-      "title": "Ömer Çelik: SDG'nin feshiyle önemli bir eşik aşıldı",
-      "summary": "AK Parti Sözcüsü Ömer Çelik, SDG'nin feshiyle ilgili Suriye’nin iç bütünlüğünü güçlendirme açısından önemli bir eşiğin aşıldığını söyledi.",
-      "source": "NTV",
+      "title": "Lyon - Fenerbahçe maçı ne zaman?",
+      "summary": "UEFA Şampiyonlar Ligi play-off turunda Lyon ile Fenerbahçe arasındaki rövanş karşılaşması için geri sayım başladı. İlk maçta rakibiyle 1-1 berabere kalan sarı-lacivertli ekip, Şampiyonlar Ligi lig aşamasına yükselmek için Fransa'da sahaya ç",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-26T15:17:54+03:00"
+      "link": "https://www.haberturk.com/lyon-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-uefa-sampiyonlar-ligi-play-off-turu-lyon-fenerbahce-maci-hangi-kanalda-3908311",
+      "publishedAt": "Wed, 26 Aug 2026 16:02:51 GMT"
     },
     {
-      "title": "Side’de 390 metrelik anıtsal antik cadde gün yüzüne çıktı",
-      "summary": "Kültür ve Turizm Bakanlığı koordinasyonunda Side Antik Kenti’nde yaklaşık 390 metre uzunluğundaki b Caddesi’nde yürütülen kazılar tamamlandı.",
-      "source": "NTV",
+      "title": "TRT 1 yeni frekans bilgileri",
+      "summary": "TRT 1 yeni frekans bilgileri, Türkiye-Almanya voleybol maçı ve Lyon-Fenerbahçe karşılaşması öncesinde izleyicilerin gündemdeki yerini aldı. A Milli Kadın Voleybol Takımı, CEV Trendyol 2026 Kadınlar Avrupa Voleybol Şampiyonası kapsamında Alm",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-26T14:19:37+03:00"
+      "link": "https://www.haberturk.com/trt-1-frekans-bilgileri-yeni-4a-turksat-2026-trt-1-hd-uydu-frekans-ayari-nasil-yapilir-nereden-degistirilir-3908308",
+      "publishedAt": "Wed, 26 Aug 2026 15:24:37 GMT"
     },
     {
-      "title": "Ankara, SDG'nin feshedilmesine nasıl bakıyor?",
-      "summary": "Ankara'daki güvenlik kaynakları, SDG'nin feshedilmesini \"Suriye krizinin başından bu yana gerçekleşen en kritik jeopolitik kırılmalardan biri.\" olarak yorumladı.",
-      "source": "NTV",
+      "title": "Güller ve Günahlar yeni sezon ne zaman?",
+      "summary": "Kanal D ekranlarında yayınlanan Güller ve Günahlar dizisinin yeni sezonu için geri sayım sürüyor. Yapımcılığını Nazlı Heptürk’ün üstlendiği NGM imzalı Güller ve Günahlar 2. sezon yayın tarihi izleyiciler tarafından merak ediliyor. Serhat ve",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-08-26T13:45:47+03:00"
+      "link": "https://www.haberturk.com/guller-ve-gunahlar-yeni-sezon-ne-zaman-baslayacak-guller-ve-gunahlar-2-sezon-yayin-tarihi-belli-oldu-3908268",
+      "publishedAt": "Wed, 26 Aug 2026 12:29:28 GMT"
     },
     {
       "title": "SOLOTÜRK gösteri uçuşu ne zaman?",
@@ -97,7 +121,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/soloturk-gosteri-ucusu-tarihi-ve-saati-2026-30-agustos-zafer-bayrami-soloturk-gosteri-ucusu-ne-zaman-saat-kacta-nerede-yapilacak-3908255",
-      "publishedAt": "Wed, 26 Aug 2026 11:48:29 GMT"
+      "publishedAt": "Wed, 26 Aug 2026 12:45:25 GMT"
     },
     {
       "title": "ŞOK aktüel ürünler 26 Ağustos-1 Eylül kataloğu!",
@@ -105,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/sok-aktuel-urunler-katalogu-26-agustos-1-eylul-2026-bugunden-itibaren-raflarda-sok-aktuel-katalogu-ile-bu-hafta-hangi-urunler-satisa-sunulacak-3908229",
-      "publishedAt": "Wed, 26 Aug 2026 10:05:44 GMT"
+      "publishedAt": "Wed, 26 Aug 2026 12:45:22 GMT"
     },
     {
       "title": "Pakistan'da yenidoğan ünitesinde yangın",
@@ -116,36 +140,28 @@
       "publishedAt": "Wed, 26 Aug 2026 08:58:20 GMT"
     },
     {
-      "title": "İBB yurt başvuru sonuç tarihi!",
-      "summary": "İBB yurt başvuru sonuçları sorgulama ekranı için araştırmalar başladı. İstanbul Büyükşehir Belediyesi’nin (İBB) üniversite eğitimi için megakente gelen gençlere barınma hizmeti sunduğu yükseköğrenim yurtları için başvurular 18-25 Ağustos 20",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/ibb-yurt-basvuru-sonuclari-sorgulama-ekrani-2026-ibb-yurt-basvuru-sonuclari-ne-zaman-aciklanacak-nasil-ve-nereden-sorgulanir-3908196",
-      "publishedAt": "Wed, 26 Aug 2026 09:27:18 GMT"
-    },
-    {
-      "title": "KYK yurt başvuruları devam ediyor!",
-      "summary": "KYK yurt başvuru ekranı için araştırmalar sürüyor. 2026-2027 eğitim öğretim yılı KYK yurt başvuruları 25 Ağustos tarihi itibarıyla başladı. Gençlik ve Spor Bakanlığı’na (GSB) tarafından işletilen yurtlarda kalmak isteyen yükseköğrenim öğren",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/gsb-kyk-yurt-basvuru-ekrani-2026-2027-kyk-yurt-basvurusu-nasil-ve-nereden-yapilir-basvurular-ne-zaman-bitiyor-3908178",
-      "publishedAt": "Wed, 26 Aug 2026 09:26:37 GMT"
-    },
-    {
-      "title": "Ücretli öğretmenlik başvuru ekranı",
-      "summary": "Ücretli öğretmenlik başvuruları bazı il ve ilçelerde devam ediyor. 2026-2027 eğitim öğretim yılında MEB’e bağlı okullarda ders ücreti karşılığında görev almak isteyen ancak başvuru işlemlerini henüz tamamlamamış olan adaylar, ‘’Ücretli öğre",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/ucretli-ogretmenlik-basvuru-ekrani-2026-2027-ucretli-ogretmenlik-basvurusu-nasil-yapilir-sartlari-neler-ucretli-ogretmenlik-basvurulari-ne-zaman-bitiyor-3908163",
-      "publishedAt": "Wed, 26 Aug 2026 09:26:35 GMT"
+      "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
+      "summary": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 11:32:11 GMT"
     },
     {
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-      "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+      "summary": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 12:32:47 GMT"
+      "publishedAt": "Wed, 26 Aug 2026 14:42:03 GMT"
+    },
+    {
+      "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+      "summary": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 15:42:45 GMT"
     },
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -156,12 +172,12 @@
       "publishedAt": "Tue, 25 Aug 2026 19:50:57 GMT"
     },
     {
-      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-      "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 11:02:22 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 10:29:36 GMT"
     },
     {
       "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
@@ -172,75 +188,83 @@
       "publishedAt": "Wed, 26 Aug 2026 08:17:45 GMT"
     },
     {
-      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-      "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 08:01:56 GMT"
-    },
-    {
-      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-      "summary": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 12:17:12 GMT"
-    },
-    {
-      "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-      "summary": "Iran’s deputy foreign minister announced a temporary shipping corridor in the Strait of Hormuz.",
+      "title": "Why a Christian group is suing the Dutch government for West Bank trade ban",
+      "summary": "The Israeli Product Centre says it has not been given enough time to sell off its stock.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 12:05:09 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
+      "publishedAt": "Wed, 26 Aug 2026 14:59:22 +0000"
     },
     {
-      "title": "Dead whale washes ashore on beach in Mexico",
-      "summary": "A roughly 12-metre-long whale has been found dead on a beach in Tijuana, Mexico.",
+      "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
+      "summary": "Raid on UNRWA centre exposes Israel's strategic push to erase refugee rights, seal West Bank annexation, analysts say.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/dead-whale-washes-ashore-on-beach-in-mexico?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 12:04:22 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss",
+      "publishedAt": "Wed, 26 Aug 2026 14:42:36 +0000"
     },
     {
-      "title": "Why India is sharing missile secrets with its private sector",
-      "summary": "New policy allows India’s private sector to produce advanced weaponry, supporting its goal of military self-sufficiency.",
+      "title": "Kremlin says CIA head met Russian intelligence officials, but not Putin",
+      "summary": "CIA's Ratcliffe has met with Russian intel officials in Moscow, but not President Putin; Kremlin calls talks 'positive'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/26/why-india-is-sharing-missile-secrets-with-its-private-sector?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 11:32:35 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss",
+      "publishedAt": "Wed, 26 Aug 2026 14:30:24 +0000"
     },
     {
-      "title": "Mother and daughter detained by ICE in hospital after car crash",
-      "summary": "Mother and daughter detained by ICE in hospital after car crash",
+      "title": "Meta agrees to settlement, platform changes in youth addiction case",
+      "summary": "Meta settles $16.68bn lawsuit over child addiction claims, agreeing to major changes in Facebook and Instagram features.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mother-and-daughter-detained-by-ice-in-hospital-after-car-crash?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 11:25:08 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss",
+      "publishedAt": "Wed, 26 Aug 2026 14:21:23 +0000"
     },
     {
-      "title": "Photos: Thousands join Spain’s La Tomatina festival for epic tomato battle",
-      "summary": "About 20,000 participants hurled 165 tonnes of tomatoes in Bunol's streets during Spain's famed La Tomatina festival.",
+      "title": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
+      "summary": "'I have no time schedule,' Trump says when asked when he expects Iran to return to the negotiating table.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/gallery/2026/8/26/photos-thousands-join-spains-la-tomatina-festival-for-epic-tomato-battle?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 11:24:34 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss",
+      "publishedAt": "Wed, 26 Aug 2026 14:16:29 +0000"
     },
     {
-      "title": "Manchester City sign teenage Moroccan midfielder Ayyoub Bouaddi from Lille",
-      "summary": "Sought-after Bouaddi joins the Premier League club on a five-year deal worth $117m.",
+      "title": "Bodies of missing people found in Korea becomes national scandal",
+      "summary": "A police officer has been arrested after the bodies of four missing people were found on Jeju Island in South Korea.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/26/manchester-city-sign-teenage-moroccan-football-star-ayyoub-bouaddi?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 11:06:28 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss",
+      "publishedAt": "Wed, 26 Aug 2026 14:00:43 +0000"
     },
     {
-      "title": "8 dead, hundreds missing as Nepal avalanche triggers flash floods",
+      "title": "Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say",
+      "summary": "The proposal comes weeks before the midterm elections, when food prices and the cost of living are expected to be major issues on voters' minds.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs",
+      "publishedAt": "Wed, 26 Aug 2026 10:58:58 -0400"
+    },
+    {
+      "title": "How Dolly Parton wrote the story of a changing America",
+      "summary": "Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
+      "publishedAt": "Wed, 26 Aug 2026 09:46:34 -0400"
+    },
+    {
+      "title": "Meta, states agree to $17 billion settlement in child safety trial",
+      "summary": "The social media giant also agreed to make sweeping changes to Instagram and Facebook.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
+      "publishedAt": "Wed, 26 Aug 2026 09:33:39 -0400"
+    },
+    {
+      "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China",
       "summary": "The disaster is linked to climate change, with experts noting the region's vulnerability to extreme weather.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/26/g-s1-140211/8-dead-hundreds-missing-as-nepal-avalanche-triggers-flash-floods",
+      "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
       "publishedAt": "Wed, 26 Aug 2026 08:27:19 -0400"
     },
     {
@@ -252,7 +276,7 @@
       "publishedAt": "Wed, 26 Aug 2026 07:05:46 -0400"
     },
     {
-      "title": "COMIC: 7 lifestyle habits that may boost your chances of getting pregnant",
+      "title": "COMIC: Trying for a baby? These lifestyle habits may boost your fertility odds",
       "summary": "This illustrated guide has evidence-backed advice on how to support fertility for both men and women, including which foods to eat and which activities to avoid.",
       "source": "NPR",
       "lang": "en",
@@ -260,28 +284,12 @@
       "publishedAt": "Wed, 26 Aug 2026 05:02:00 -0400"
     },
     {
-      "title": "She got an electric bill for $1,373. She's not alone",
-      "summary": "The price of electricity is soaring in the summer heat, when fans and air conditioners are working nonstop. In Tulsa, Okla., people are having their power cut when they can't pay their bills.",
-      "source": "NPR",
+      "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+      "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife traffickingSouth African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered par",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5943289/electric-bills-summer-heat-oklahoma-power",
-      "publishedAt": "Wed, 26 Aug 2026 05:01:00 -0400"
-    },
-    {
-      "title": "Hollywood's summer box office is glowing, but the numbers come with startling caveats",
-      "summary": "Theaters have had something for everyone this summer, and fans are paying top dollar for premium formats like IMAX. There are also fewer moviegoers, fewer movies and fewer screens than there were pre-COVID.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
-      "publishedAt": "Wed, 26 Aug 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry",
-      "summary": "A fire erupted early Wednesday in a nursery for newborns at a major government hospital in Pakistan's capital, killing 14 babies, according to hospital officials and the government.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
-      "publishedAt": "Wed, 26 Aug 2026 03:34:59 -0400"
+      "link": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+      "publishedAt": "Wed, 26 Aug 2026 15:09:58 GMT"
     },
     {
       "title": "Mpox is back – and in new countries. How can this outbreak be contained?",
@@ -293,7 +301,7 @@
     },
     {
       "title": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
-      "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western importsAfter three years at catering school, Abiro Wisdom was certain of one thing – he did not want to go into catering. A",
+      "summary": "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western importsAfter three years at catering school in Accra, Abiro Wisdom was certain of one thing – he did not want to go into ca",
       "source": "The Guardian",
       "lang": "en",
       "link": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
       "publishedAt": "Mon, 24 Aug 2026 17:34:50 GMT"
-    },
-    {
-      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
-      "summary": "Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older peopleAn armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a mosq",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
-      "publishedAt": "Mon, 24 Aug 2026 14:19:14 GMT"
     }
   ],
   "sports": [
@@ -337,16 +337,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 30,
-      "description": "mainly clear",
+      "tempC": 25,
+      "description": "partly cloudy",
       "high": 30,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 22,
-      "description": "drizzle",
-      "high": 23,
+      "tempC": 24,
+      "description": "overcast",
+      "high": 26,
       "low": 19
     }
   ],
