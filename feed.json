@@ -1,6 +1,14 @@
 {
-  "updated": "2026-08-26T19:43:54.545Z",
+  "updated": "2026-08-27T00:25:27.037Z",
   "news": [
+    {
+      "title": "Nepal-Tibet sınırında sel felaketi: 150'den fazla ölü, turistler dahil yüzlerce kayıp",
+      "summary": "Nepal ve Çin'in Tibet bölgesinde meydana gelen heyelan ve sellerde aralarında turistlerin de olduğu yüzlerce kişi kayboldu. Nepal Dışişleri Bakanı Shishir Khanal, ilk belirlemelere göre sellere, bölgedeki bir depremin tetiklediği bir çığın ",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c1583l5q711o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 23:39:46 GMT"
+    },
     {
       "title": "'Tüm ailem gözümün önünde sulara kapıldı'",
       "summary": "Nepal'in kuzeyini etkisi altına alan ve büyük yıkım yaratan sellerde şu an için kayıplar yüzlerle ifade ediliyor. Görgü tanıklarının ifadeleri aniden yaşanan dehşeti gözler önüne seriyor.",
@@ -8,14 +16,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cp84lzdngmeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 26 Aug 2026 17:28:50 GMT"
-    },
-    {
-      "title": "Nepal-Tibet sınırında sel felaketi: 150'den fazla ölü, turistler dahil yüzlerce kayıp",
-      "summary": "Nepal ve Çin'in Tibet bölgesinde meydana gelen heyelan ve sellerde aralarında turistlerin de olduğu yüzlerce kişi kayboldu. Nepal Dışişleri Bakanı Shishir Khanal, ilk belirlemelere göre sellere, bölgedeki bir depremin tetiklediği bir çığın ",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c1583l5q711o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 19:11:31 GMT"
     },
     {
       "title": "Mithat Sancar: 'Öcalan'ın süreçte merkezi bir rol üstlenmesi gerekiyor'",
@@ -26,6 +26,14 @@
       "publishedAt": "Wed, 26 Aug 2026 17:54:13 GMT"
     },
     {
+      "title": "Fenerbahçe 18 yıl sonra Şampiyonlar Ligi'nde",
+      "summary": "Fenerbahçe Fransa'da Olimpik Lyon'u 2-1 ile geçti ve 18 yıl sonra UEFA Şampiyonlar Ligi'ne kaldı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cn7nreynp3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 22:44:30 GMT"
+    },
+    {
       "title": "Türkiye, Avrupa Kadınlar Voleybol Şampiyonası'nda Almanya'yı da geçti",
       "summary": "Avrupa Kadınlar Voleybol Şampiyonası'nda Türkiye dördüncü maçında karşılaştığı Almanya'yı da 3-1 ile geçti.",
       "source": "BBC Türkçe",
@@ -34,62 +42,70 @@
       "publishedAt": "Wed, 26 Aug 2026 18:26:16 GMT"
     },
     {
-      "title": "Fenerbahçe Şampiyonlar Ligi vizesi maçında Lyon karşısında 2 golle önde",
-      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi öncesi son turun rövanş maçında, Fransa'da Olimpik Lyon karşısında.",
+      "title": "Almanya'da iki havalimanı çalışanı sıtmadan öldü",
+      "summary": "Alman halk sağlığı yetkililerine göre, sivrisinekler Almanya'nın en işlek havalimanı olan Frankfurt Havalimanı'na uçakla taşındı. Hastalığın çalışanlara tek bir sinekten mi yoksa farklı sineklerden mi bulaştığı tespit edilmeye çalışılıyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cn7nreynp3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 19:31:39 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c2kwd3qw31do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 22:24:58 GMT"
     },
     {
-      "title": "Meta, sosyal medya davasındaki 18 milyar dolarlık anlaşmayı kime ödeyecek?",
-      "summary": "Sosyal medya devi Meta, Facebook ve Instagram'ın çocuklarda bağımlılık yaratmasıyla ilgili suçlandığı davada, ABD'nin 50'den fazla eyalet ve bölgesine 18 milyar dolara kadar ödeme yapmayı kabul etti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c1j14r9jrkyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 15:41:26 GMT"
-    },
-    {
-      "title": "Kanoyla Türkiye turu. İstanbul'dan yola çıktı, işte 83 günde katettiği mesafe",
-      "summary": "İstanbul'dan 83 gün önce kanoyla yolculuğa çıkan eski hava astsubayı 57 yaşındaki Halil Uzel, Bodrum'a ulaştı.",
+      "title": "Haluk Levent hakkında yeni karar. 3,7 milyonluk hesabına erişim engeli",
+      "summary": "Ahbap Derneği soruşturması kapsamında tutuklanan sanatçı Haluk Levent’in sosyal medya hesabı hakkında erişim engeli kararı verildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-26T22:20:34+03:00"
+      "publishedAt": "2026-08-27T02:30:45+03:00"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 26 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
+      "title": "Rusya nükleer silah kullanabilir mi? ABD basınından yeni iddia",
+      "summary": "CIA direktörünün Moskova'ya sürpriz ziyareti sonrası ABD basınından, Kremlin'in Ukrayna'ya karşı \"taktik nükleer silah\" kullanabileceği iddiası geldi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-26T21:38:46+03:00"
+      "publishedAt": "2026-08-27T03:13:21+03:00"
     },
     {
-      "title": "Bakan Fidan: YPG'nin feshi, atmak istediğimiz adımların tamamlayıcısı niteliğinde",
-      "summary": "Dışişleri Bakanı Hakan Fidan, terör örgütü YPG'nin feshine ilişkin \"Bizim şu anda atmak istediğimiz adımların tamamlayıcısı niteliğinde\" açıklamasında bulundu.",
+      "title": "Şanlıurfa'da iki yolcu otobüsü çarpıştı, 13 kişi yaralandı",
+      "summary": "Şanlıurfa'nın Siverek ilçesinde iki yolcu otobüsünün çarpışması sonucu 13 kişi yaralandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-26T21:35:06+03:00"
+      "publishedAt": "2026-08-27T01:39:31+03:00"
     },
     {
-      "title": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
-      "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+      "title": "30 Ağustos'ta bazı metro seferleri ücretsiz olacak",
+      "summary": "30 Ağustos Zafer Bayramı nedeniyle bazı metro seferleri ücretsiz oldu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-26T20:09:34+03:00"
+      "publishedAt": "2026-08-27T01:18:41+03:00"
     },
     {
-      "title": "TBMM Başkanı Kurtulmuş’tan Terörsüz Türkiye mesajı",
-      "summary": "TBMM Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecine ilişkin mesajlar verdi. Kurtulmuş, \"Hiçbir yerde silah sesi olmayacak\" dedi.",
+      "title": "Eşini öldürüp kucağındaki çocuğu kaçırdı",
+      "summary": "Diyarbakır'da boşanma aşamasındaki eşini parkta tabancayla öldüren şahıs, eşinin kucağındaki çocuğu alıp uzaklaşmak istedi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-26T18:27:20+03:00"
+      "publishedAt": "2026-08-27T00:16:29+03:00"
     },
     {
-      "title": "\"Şeytantepe\" belgeseline soruşturma",
-      "summary": "Narin Güran cinayetini konu alan “Şeytantepe” belgeseli hakkında soruşturma başlatıldı.",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 27 Ağustos 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 27 Ağustos 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-26T17:56:25+03:00"
+      "publishedAt": "2026-08-27T03:00:00+03:00"
+    },
+    {
+      "title": "30 Ağustos toplu taşıma ücretsiz mi?",
+      "summary": "30 Ağustos Zafer Bayramı nedeniyle toplu taşıma araçlarının ücretsiz olup olmayacağı gündemi meşgul eden konular arasında yer alıyor. Resmi Gazete'de yayımlanan Cumhurbaşkanı Kararı ile bazı raylı sistem hatlarında ücretsiz ulaşım uygulanac",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/30-agustos-toplu-tasima-ucretsiz-mi-30-agustos-2026-pazar-otobusler-metro-marmaray-ve-metrobus-bedava-mi-3908371",
+      "publishedAt": "Wed, 26 Aug 2026 22:45:41 GMT"
+    },
+    {
+      "title": "Şampiyonlar Ligi kura çekimi ne zaman?",
+      "summary": "UEFA Şampiyonlar Ligi'nde 2026-2027 sezonu lig aşaması kura çekimi için heyecan başladı. Fenerbahçe, Şampiyonlar Ligi play-off turunda Lyon'u eleyerek lig aşamasına kalmayı başardı. Galatasaray ise doğrudan lig aşamasından başlayacağı organ",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/uefa-sampiyonlar-ligi-kura-cekimi-ne-zaman-saat-kacta-ve-hangi-kanalda-yayinlanacak-fenerbahce-ve-galatasaray-rakipleri-kimler-3908355",
+      "publishedAt": "Wed, 26 Aug 2026 23:02:36 GMT"
     },
     {
       "title": "Çılgın Sayısal Loto sonuçları",
@@ -97,7 +113,23 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/son-dakika-cilgin-sayisal-loto-sonuclari-aciklandi-26-agustos-2026-sayisal-loto-sonucu-sorgulama-ekrani-3908331",
-      "publishedAt": "Wed, 26 Aug 2026 18:38:32 GMT"
+      "publishedAt": "Wed, 26 Aug 2026 21:23:49 GMT"
+    },
+    {
+      "title": "UEFA ülke puanı sıralaması",
+      "summary": "UEFA ülke puanında Türkiye'nin sıralamadaki yeri futbolseverler tarafından yakından takip ediliyor. Beşiktaş'ın UEFA Avrupa Ligi play-off turunda Kauno Zalgiris ile, Trabzonspor'un ise Ferencvaros ile oynayacağı rövanş karşılaşmaları da ülk",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/uefa-ulke-puani-siralamasi-27-agustos-2026-uefa-ulke-puaninda-turkiye-kacinci-sirada-turkiye-nin-kac-puani-var-3908330",
+      "publishedAt": "Wed, 26 Aug 2026 23:02:46 GMT"
+    },
+    {
+      "title": "MasterChef ana kadroya kim girdi?",
+      "summary": "MasterChef Türkiye'de ana kadroya girecek son yarışmacılardan biri için heyecan devam ediyor. 26 Ağustos 2026 Çarşamba akşamı ekrana gelecek bölümde yedeklerden bir yarışmacı, ana kadroya dahil olabilmek için mutfakta hünerlerini sergiledi.",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/masterchef-kim-kazandi-26-agustos-2026-masterchef-ana-kadroya-yedeklerden-kim-girdi-3908329",
+      "publishedAt": "Wed, 26 Aug 2026 22:40:03 GMT"
     },
     {
       "title": "Şans Topu sonuçları açıklandı",
@@ -105,39 +137,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/sans-topu-sonuclari-aciklandi-26-agustos-2026-sans-topu-sonuclari-sorgulama-ekrani-3908323",
-      "publishedAt": "Wed, 26 Aug 2026 18:26:47 GMT"
-    },
-    {
-      "title": "Lyon - Fenerbahçe maçı canlı izle",
-      "summary": "UEFA Şampiyonlar Ligi play-off turunda Lyon ile Fenerbahçe arasındaki rövanş maçı için nefesler tutuldu. İlk karşılaşmanın 1-1 sona ermesinin ardından sarı-lacivertli temsilcimiz, Fransa'da tur için sahaya çıkıyor. Futbolseverler maç saatin",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/lyon-fenerbahce-maci-izle-ekrani-uefa-sampiyonlar-ligi-play-off-turu-lyon-fenerbahce-maci-trt-1-canli-izle-fb-maci-izle-3908319",
-      "publishedAt": "Wed, 26 Aug 2026 19:28:13 GMT"
-    },
-    {
-      "title": "Real Madrid - Real Sociedad maçı ne zaman?",
-      "summary": "Real Madrid, La Liga'nın 2. haftasında sahasında Real Sociedad'ı konuk edecek. Santiago Bernabéu Stadyumu'nda oynanacak karşılaşmada gözler milli futbolcu Arda Güler'in performansında olacak. Sezona galibiyetle devam etmek isteyen Real Madr",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/real-madrid-real-sociedad-maci-ne-zaman-saat-kacta-hangi-kanalda-arda-guler-oynayacak-mi-real-madrid-real-sociedad-canli-izle-3908317",
-      "publishedAt": "Wed, 26 Aug 2026 18:47:33 GMT"
-    },
-    {
-      "title": "Fenerbahçe nasıl tur atlar?",
-      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi play-off turunda Lyon karşısında tur mücadelesi için sahaya çıkıyor. Sarı-lacivertliler, play-off turunun ilk maçında sahasında Lyon ile 1-1 berabere kaldı. Gözler deplasmanda oynanacak rövanş karşılaşmasın",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/fenerbahce-nasil-tur-atlar-fenerbahce-lyon-u-elerse-sampiyonlar-ligi-ne-gidiyor-mu-yenilirse-ne-olur-3908314",
-      "publishedAt": "Wed, 26 Aug 2026 18:15:13 GMT"
-    },
-    {
-      "title": "Lyon - Fenerbahçe maçı hangi kanalda?",
-      "summary": "UEFA Şampiyonlar Ligi play-off turunda Lyon ile Fenerbahçe arasındaki rövanş karşılaşması için geri sayım başladı. İlk maçta rakibiyle 1-1 berabere kalan sarı-lacivertli ekip, Şampiyonlar Ligi lig aşamasına yükselmek için Fransa'da sahaya ç",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/lyon-fenerbahce-maci-ne-zaman-saat-kacta-sampiyonlar-ligi-play-off-turu-rovansi-lyon-fenerbahce-maci-hangi-kanalda-3908311",
-      "publishedAt": "Wed, 26 Aug 2026 18:46:32 GMT"
+      "publishedAt": "Wed, 26 Aug 2026 21:25:08 GMT"
     },
     {
       "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
@@ -164,20 +164,20 @@
       "publishedAt": "Wed, 26 Aug 2026 15:42:45 GMT"
     },
     {
+      "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
+      "summary": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 26 Aug 2026 22:02:18 GMT"
+    },
+    {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 25 Aug 2026 19:50:57 GMT"
-    },
-    {
-      "title": "Radiation link in flight attendant's breast cancer, French court finds",
-      "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 26 Aug 2026 10:29:36 GMT"
     },
     {
       "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
@@ -188,52 +188,60 @@
       "publishedAt": "Wed, 26 Aug 2026 08:17:45 GMT"
     },
     {
-      "title": "UNRWA chief condemns Israeli seizure of East Jerusalem facility",
-      "summary": "Christian Saunders tells Al Jazeera raid part of campaign to weaken agency and eliminate Palestinian rights.",
+      "title": "Tim Curry, star of The Rocky Horror Picture Show, dies at age 80",
+      "summary": "Curry, a three-time Tony nominee, was best known for his portrayal of Dr Frank-N-Furter in the cult classic musical.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 19:25:04 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/27/tim-curry-star-of-the-rocky-horror-picture-show-dies-at-age-80?traffic_source=rss",
+      "publishedAt": "Thu, 27 Aug 2026 00:07:14 +0000"
     },
     {
-      "title": "German airport workers die from malaria caught from plane-riding mosquito",
-      "summary": "Four infected employees being treated in hospital; mosquito traps deployed at Frankfurt hub.",
+      "title": "Iran war live: Qatar PM to visit Tehran; Trump ‘not in a hurry’ over talks",
+      "summary": "Qatar's PM will meet Iranian officials to discuss ways to de-escalate tensions in the region, foreign ministry says.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/26/german-airport-workers-die-from-malaria-caught-from-plane-riding-mosquito?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 19:21:26 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss",
+      "publishedAt": "Thu, 27 Aug 2026 00:00:00 +0000"
     },
     {
-      "title": "Israeli forces install new gate, isolating Palestinian village",
-      "summary": "Israeli forces installed gates around the home of Palestinian American Lou Ridi in Qusra, in the occupied West Bank.",
+      "title": "World Health Organization says Ebola outbreak in Uganda is over",
+      "summary": "International body declares Uganda Ebola-free after 42 days without new transmission, though cases rise in DR Congo.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-forces-install-new-gate-isolating-palestinian-village?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 19:09:38 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/26/world-health-organization-says-ebola-outbreak-in-uganda-is-over?traffic_source=rss",
+      "publishedAt": "Wed, 26 Aug 2026 23:46:49 +0000"
     },
     {
-      "title": "Kurdish-led SDF has dissolved, but has Syria really unified its military?",
-      "summary": "SDF's dissolution is a major victory for Damascus, but unresolved questions over command and deployment remain.",
+      "title": "Spain’s tomato food fight leaves thousands covered in pulp",
+      "summary": "Thousands of people pelt each other with tomatoes as Spain’s famous ‘La Tomatina’ festival gets underway.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/26/kurdish-led-sdf-has-dissolved-but-has-syria-really-unified-its-military?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 18:19:14 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss",
+      "publishedAt": "Wed, 26 Aug 2026 23:23:18 +0000"
     },
     {
-      "title": "UEFA set to end FIFA boycott threat over Infantino’s $20bn investor plan",
-      "summary": "UEFA set to end threat of FIFA events boycott after assurances over Gianni Infantino's failed World Cup investor plan.",
+      "title": "Barcelona vs Athletic Club: La Liga – prediction, teams, lineups",
+      "summary": "Lamine Yamal and Raphinha will seek to add to Barcelona's five-star La Liga opener when Athletic arrive from Bilbao.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/26/uefa-set-to-end-boycott-of-fifa-events-over-infantinos-failed-selloff?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 18:13:54 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss",
+      "publishedAt": "Wed, 26 Aug 2026 22:56:33 +0000"
     },
     {
-      "title": "US imposes sanctions on Palestine Action and other left-wing groups",
-      "summary": "Palestine Action's Huda Ammori says Trump's penalties should be a 'wake-up call' for UK to lift ban on the group.",
+      "title": "US judge declines Minnesota’s effort to force Texas to extradite ICE agent",
+      "summary": "ICE agent Christian Castro faces criminal charges for shooting a Minnesota man in the leg during an immigration raid.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups?traffic_source=rss",
-      "publishedAt": "Wed, 26 Aug 2026 18:08:50 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss",
+      "publishedAt": "Wed, 26 Aug 2026 22:49:49 +0000"
+    },
+    {
+      "title": "Drugstores say Medicare's $50 obesity drug program is catching on",
+      "summary": "The Bridge program, which began July 1, makes some Medicare beneficiaries eligible for obesity drugs for $50 a month. CVS and Walgreens say they've each already filled 100,000 such prescriptions.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs",
+      "publishedAt": "Wed, 26 Aug 2026 17:11:42 -0400"
     },
     {
       "title": "Immigration arrests soar, hitting 50,000 in July",
@@ -276,14 +284,6 @@
       "publishedAt": "Wed, 26 Aug 2026 10:58:58 -0400"
     },
     {
-      "title": "How Dolly Parton wrote the story of a changing America",
-      "summary": "Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
-      "publishedAt": "Wed, 26 Aug 2026 09:46:34 -0400"
-    },
-    {
       "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
       "summary": "Bird eggs intercepted in homemade incubators at Johannesburg airport as officials try to halt wildlife traffickingSouth African police have arrested two Thai nationals in separate incidents for allegedly attempting to smuggle endangered par",
       "source": "The Guardian",
@@ -319,37 +319,42 @@
   "sports": [
     {
       "league": "La Liga",
-      "home": "Real Madrid",
-      "away": "Real Sociedad",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-08-26"
+      "home": "Barcelona",
+      "away": "Athletic Bilbao",
+      "status": "upcoming",
+      "date": "2026-08-27"
     },
     {
       "league": "La Liga",
-      "home": "Valencia",
-      "away": "Real Betis",
-      "homeScore": 0,
+      "home": "Celta Vigo",
+      "away": "Osasuna",
+      "status": "upcoming",
+      "date": "2026-08-27"
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Madrid",
+      "away": "Real Sociedad",
+      "homeScore": 4,
       "awayScore": 1,
       "status": "FT",
-      "date": "2026-08-25"
+      "date": "2026-08-26"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 24,
+      "tempC": 23,
       "description": "partly cloudy",
       "high": 30,
-      "low": 21
+      "low": 23
     },
     {
       "place": "London",
-      "tempC": 23,
+      "tempC": 21,
       "description": "overcast",
-      "high": 27,
-      "low": 19
+      "high": 25,
+      "low": 17
     }
   ],
   "facts": [
