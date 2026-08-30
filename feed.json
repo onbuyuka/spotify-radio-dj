@@ -1,13 +1,21 @@
 {
-  "updated": "2026-08-30T15:59:21.067Z",
+  "updated": "2026-08-30T20:30:37.194Z",
   "news": [
     {
-      "title": "Girne açıklarında yolcu gemisi alabora oldu: '7 kişi hayatını kaybetti, 23 kişi aranıyor'",
-      "summary": "Kıbrıs'ın kuzeyinde Girne açıklarında bir yolcu gemisi, limandan ayrıldıktan kısa bir süre sonra henüz belirlenemeyen bir sebepten dolayı alabora oldu. Gemide 259 yolcu ve 8 mürettebat bulunuyordu.",
+      "title": "Girne açıklarında yolcu feribotu battı: En az 8 yolcu öldü, kaptan gözaltında",
+      "summary": "Kıbrıs'ın kuzeyinde Girne açıklarında bir yolcu feribotu, limandan ayrıldıktan kısa bir süre sonra alabora oldu. Feribotta 259 yolcu ve sekiz mürettebat bulunuyordu. Kaptan ve yedi mürettebat gözaltına alındı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c4gvzyyq2jwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 12:54:49 GMT"
+      "publishedAt": "Sun, 30 Aug 2026 18:17:16 GMT"
+    },
+    {
+      "title": "Feribot yolcuları kazayı nasıl anlattı?",
+      "summary": "Kıbrıs'ın kuzeyinde Girne açıklarındaki feribotun batışı öncesi ve sonrasına ait çok sayıda görüntü sosyal medyada paylaşıldı. Kurtulan yolculardan bazıları katamaran seyir halindeyken içeri su dolmaya başladığını aktardı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cj4j9r87gjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 18:47:52 GMT"
     },
     {
       "title": "Nepal'de okul müdürünün kararı 900 öğrenciyi selden kurtardı",
@@ -34,14 +42,6 @@
       "publishedAt": "Sun, 30 Aug 2026 11:43:33 GMT"
     },
     {
-      "title": "Everest'in 'ölüm bölgesi'nde vücuda neler oluyor?",
-      "summary": "Dağcılar, Everest Dağı’na tırmanabilmek için vücutlarını en üst düzeyde sınar. İrtifa arttıkça atmosfer basıncı düşer ve vücudun iç işlevleri bozulmaya başlar.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c982940vr1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 10:40:39 GMT"
-    },
-    {
       "title": "Melih Gökçek hakkında soruşturma başlatıldı",
       "summary": "Ankara Cumhuriyet Başsavcılığı, eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek hakkında \"yurt dışındaki şirketlere kayıt dışı para aktarıldığı\" iddiasıyla soruşturma başlatıldığını açıkladı.",
       "source": "BBC Türkçe",
@@ -50,94 +50,102 @@
       "publishedAt": "Sun, 30 Aug 2026 11:14:34 GMT"
     },
     {
+      "title": "Süper Loto çekiliş sonuçları belli oldu: 25 Ağustos 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+      "summary": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikrami",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-30T21:39:59+03:00"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, KKTC Cumhurbaşkanı Erhürman ile telefonda görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, KKTC Cumhurbaşkanı Tufan Erhürman ve Başbakanı Ünal Üstel ile telefonda görüştü.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-30T21:10:50+03:00"
+    },
+    {
+      "title": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
+      "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-30T20:42:53+03:00"
+    },
+    {
+      "title": "Güzellik merkezindeki gizli kamera skandalında 1 zanlı daha tutuklandı",
+      "summary": "Bakırköy'deki bir güzellik merkezinde müşterilere ait görüntülerin gizlice kaydedilerek ücret karşılığında izletildiği iddiasına ilişkin soruşturma kapsamında 1 şüpheli daha tutuklandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-30T20:11:36+03:00"
+    },
+    {
+      "title": "Batman'da spor salonunda çıkan yangında 2 kişi öldü, 10 kişi yaralandı",
+      "summary": "Batman'da spor salonunda çıkan yangında 2 kişi hayatını kaybetti, 1'i ağır, 10 kişi yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-08-30T19:24:56+03:00"
+    },
+    {
       "title": "Cumhurbaşkanı Erdoğan: KKTC ile işbirliği içindeyiz",
       "summary": "Cumhurbaşkanı Erdoğan, Kıbrıs'taki feribot faciasına dair ''Kayıplara ulaşmaya yönelik çalışmalar aralıksız devam ediyor. Çalışmalardan olumlu haber almayı ümit ediyoruz.\" dedi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-08-30T18:08:15+03:00"
+      "publishedAt": "2026-08-30T20:39:30+03:00"
     },
     {
-      "title": "Fatih'te aile faciası: Emekli polis eşini ve çocuğunu öldürdü",
-      "summary": "İstanbul'un Fatih ilçesinde emekli başkomiser, eşini ve kızını silahla vurarak öldürdükten sonra intihar etti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-30T16:58:16+03:00"
-    },
-    {
-      "title": "Kıbrıs'ta batan yolcu feribotundan kurtarıldı, yaşananları anlattı. \"Gemi su alıyor diye söyledik\"",
-      "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin Girne kenti açıklarında batan yolcu feribotundan kurtulanlar, yaşananları anlattı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-30T16:51:11+03:00"
-    },
-    {
-      "title": "Kıbrıs'ta feribot faciası. Olay yerinden görüntüler",
-      "summary": "Girne açıklarında alabora olan yolcu gemisinde yaşanan can pazarının yeni görüntüleri ortaya çıkmaya devam ediyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-30T15:44:08+03:00"
-    },
-    {
-      "title": "Sarıkamış’a yağan dolu yolları beyaza bürüdü",
-      "summary": "Kars’ın Sarıkamış ilçesinde etkili olan şiddetli dolu yağışı, yaz mevsiminin son günlerinde adeta kışı aratmadı. Kısa sürede yolları beyaza bürüyen dolu nedeniyle sürücüler zor anlar yaşarken, bazı araçlar ilerlemekte güçlük çekti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-30T17:02:40+03:00"
-    },
-    {
-      "title": "Girne açıklarında katamaran tipi Türk yolcu gemisi alabora oldu. İşte ilk görüntüler",
-      "summary": "Kuzey Kıbrıs Türk Cumhuriyeti’nin (KKTC) Girne kenti açıklarında katamaran tipi bir yolcu gemisi alabora oldu. İlk belirlemelere göre 7 kişi yaşamını yitirdi, 23 kişi aranıyor. Gemide 267 kişi vardı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-30T15:54:09+03:00"
-    },
-    {
-      "title": "Atatürk II: 1881 - 1919 filmi konusu",
-      "summary": "Atatürk II: 1881 - 1919 filmi, Mustafa Kemal Atatürk'ün Çanakkale Savaşı'ndan 1919 yılına kadar uzanan dönemini konu alıyor. Mehmet Ada Öztekin'in yönetmen koltuğunda oturduğu filmin senaryosunu Necati Şahin kaleme aldı. Biyografik türdeki ",
+      "title": "MasterChef kim elendi?",
+      "summary": "MasterChef Türkiye'de eleme heyecanı 30 Ağustos Pazar akşamı ekranlara geliyor. Haftanın eleme adayları Şadi, Nilay, Simge, Ayşe, Recep, Kübra, Hasan Alp ve Şükran oldu. Eleme potasında yer alan yarışmacılar, MasterChef'te kalabilmek için s",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ataturk-ii-1881-1919-filmi-konusu-nedir-oyunculari-kimler-ataturk-ii-1881-1919-ne-zaman-nerede-cekildi-3909108",
-      "publishedAt": "Sun, 30 Aug 2026 15:24:36 GMT"
+      "link": "https://www.haberturk.com/masterchef-kim-elendi-30-agustos-2026-masterchef-kim-gitti-eleme-potasinda-kimler-var-3909126",
+      "publishedAt": "Sun, 30 Aug 2026 19:09:19 GMT"
     },
     {
-      "title": "Nepal'deki felakette can kaybı yükseliyor!",
-      "summary": "Nepal'in Çin sınırına yakın Rasuwa bölgesinde ve çevresinde meydana gelen sellerde hayatını kaybedenelerin sayısı 750'ye yükseldi. 3 bini aşkın kişiden haber alınamadığı bildirildi",
+      "title": "Samsunspor - Fenerbahçe maçı hangi kanalda?",
+      "summary": "Samsunspor ile Fenerbahçe, Trendyol Süper Lig'in 3. haftasında karşı karşıya geliyor. Ligde 3 puan mücadelesi verecek iki takımın karşılaşması futbolseverler tarafından yakından takip ediliyor. Fenerbahçe, hafta içinde Lyon'u 2-1 mağlup ede",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/nepal-deki-felakette-can-kaybi-yukseliyor-3909013",
-      "publishedAt": "Sun, 30 Aug 2026 06:27:21 GMT"
+      "link": "https://www.haberturk.com/samsunspor-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-samsunspor-fenerbahce-maci-canli-izle-bilgisi-3909125",
+      "publishedAt": "Sun, 30 Aug 2026 18:16:45 GMT"
     },
     {
-      "title": "İzmir ücretsiz 30 Ağustos konserleri",
-      "summary": "30 Ağustos Zafer Bayramı'nın 104. yıl dönümü İzmir'de de büyük bir coşkuyla kutlanacak. Kentin birçok ilçesinde ücretsiz halk konserleri düzenlenecek. 30 Ağustos İzmir konserleri 2026 takvimi belli oldu. Buna göre Özcan Deniz, Emre Aydın, B",
+      "title": "Benzin ve motorine zam mı geliyor?",
+      "summary": "Akaryakıt fiyatlarında ÖTV düzenlemesiyle birlikte yeni dönem başlıyor. Ağustos ayında uygulanan sıfır ÖTV kararının ardından motorinin litre fiyatına eylül ayında yeni bir zam yansıtılacak. Yeni takvime göre motorinde ÖTV tutarı 1 Eylül 20",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/izmir-ucretsiz-30-agustos-konserleri-2026-ucretsiz-30-agustos-zafer-bayrami-izmir-konserleri-nerede-saat-kacta-hangi-ilcede-kim-sahne-alacak-3908949",
-      "publishedAt": "Sun, 30 Aug 2026 11:23:47 GMT"
+      "link": "https://www.haberturk.com/akaryakita-otv-zammi-geliyor-benzin-ve-motorin-ne-kadar-olacak-30-agustos-2026-istanbul-izmir-ankara-akaryakit-fiyatlari-3909124",
+      "publishedAt": "Sun, 30 Aug 2026 18:20:46 GMT"
     },
     {
-      "title": "Fenerbahçe Şampiyonlar Ligi maç takvimi",
-      "summary": "UEFA Şampiyolar Ligi'ne 18 yıl aranın ardından katılım sağlayan Fenerbahçe'nin rakipleri 27 Ağustos Perşembe günü yapılan kura çekimi ile belli olmuştu. Akabinde ise futbolseverler Fenerbahçe UEFA Şampiyonlar Ligi maç takvimi için arama mot",
+      "title": "Süper Loto sonuçları",
+      "summary": "Süper Loto'nun 30 Ağustos 2026 Pazar günü gerçekleştirilen çekilişi tamamlandı ve sonuçlar belli oldu. Çekilişin ardından kupon sahipleri, Süper Loto'da çıkan şanslı numaraları araştırmaya başladı. Milli Piyango Online üzerinden yayımlanan ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/fenerbahce-sampiyonlar-ligi-fiksturu-2026-2027-fenerbahcenin-uefa-sampiyonlar-ligi-ilk-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-3908934",
-      "publishedAt": "Sat, 29 Aug 2026 21:07:08 GMT"
+      "link": "https://www.haberturk.com/super-loto-sonuclari-aciklandi-30-agustos-2026-super-loto-cekilis-sonucu-sorgulama-ekrani-3909116",
+      "publishedAt": "Sun, 30 Aug 2026 19:19:56 GMT"
     },
     {
-      "title": "30 Ağustos Ankara konser ve etkinlik takvimi",
-      "summary": "30 Ağustos Ankara konser ve etkinlik takvimi 2026 yılı için belli oldu. 30 Ağustos Zafer Bayramı'nın 104. yıl dönümü, Ankara’da çeşitli etkinliklerle kutlanacak. Başkentin farklı ilçelerinde düzenlenecek etkinliklere katılım ücretsiz olacak",
+      "title": "Şans Topu sonuçları açıklandı",
+      "summary": "Şans Topu çekiliş sonuçları açıklandı. Şans Topu'nda çekilişin ardından kazanan numaralar ve ikramiye dağılımı merak konusu oldu. 5+1 bilen talihlinin büyük ikramiyeyi kazanıp kazanmadığı da sonuçların açıklanmasıyla netleşti. Şans Topu son",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/30-agustos-ankara-konser-ve-etkinlik-takvimi-2026-ucretsiz-30-agustos-zafer-bayrami-ankara-konserleri-ve-etkinlikleri-nerede-saat-kacta-hangi-sanatcilar-cikacak-3908915",
-      "publishedAt": "Sun, 30 Aug 2026 14:27:56 GMT"
+      "link": "https://www.haberturk.com/sans-topu-sonuclari-aciklandi-30-agustos-2026-sans-topu-cekilis-sonucu-sorgulama-ekrani-3909113",
+      "publishedAt": "Sun, 30 Aug 2026 19:24:51 GMT"
     },
     {
-      "title": "30 Ağustos İstanbul konserleri",
-      "summary": "30 Ağustos Zafer Bayramı'nın 104. yıl dönümü kutlamaları kapsamında İstanbul'un birçok ilçesinde ücretsiz konserler düzenlenecek. 30 Ağustos İstanbul konserleri 2026 takvimi belli oldu. Buna göre Emre Altuğ, Melek Mosso, Ceza, Selçuk Balcı,",
+      "title": "Kademeli emeklilik çıkacak mı?",
+      "summary": "Kademeli emeklilik düzenlemesi, EYT kapsamı dışında kalan milyonlarca çalışanın gündemindeki yerini koruyor. 8 Eylül 1999 sonrası sigorta girişi bulunan vatandaşlar, yaş ve prim şartlarının yeniden düzenlenmesini bekliyor. 2026 yılında kade",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/30-agustos-istanbul-konserleri-2026-ucretsiz-30-agustos-zafer-bayrami-istanbul-konserleri-nerede-saat-kacta-hangi-ilcede-kim-sahne-alacak-3908903",
-      "publishedAt": "Sun, 30 Aug 2026 14:27:39 GMT"
+      "link": "https://www.haberturk.com/kademeli-emeklilik-tablosu-son-dakika-2026-kademeli-emeklilik-cikacak-mi-meclis-e-geldi-mi-erken-emeklilik-sartlari-neler-3909109",
+      "publishedAt": "Sun, 30 Aug 2026 19:18:31 GMT"
+    },
+    {
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+      "summary": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 20:02:43 GMT"
     },
     {
       "title": "Iceland votes against restarting EU membership talks",
@@ -145,7 +153,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 14:45:05 GMT"
+      "publishedAt": "Sun, 30 Aug 2026 16:11:44 GMT"
     },
     {
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
@@ -153,7 +161,15 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 12:44:08 GMT"
+      "publishedAt": "Sun, 30 Aug 2026 17:49:31 GMT"
+    },
+    {
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 18:53:53 GMT"
     },
     {
       "title": "Canada installs large Lake Ontario sign in latest jab at US",
@@ -164,76 +180,60 @@
       "publishedAt": "Sun, 30 Aug 2026 14:25:43 GMT"
     },
     {
-      "title": "WhatsApp chat used to send cash for crime and extremism",
-      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "title": "Russia says it helped to repel Niger attempted coup",
+      "summary": "Soldiers tried to attack a key military base early on Saturday morning, authorities say, but were thwarted.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 04:59:56 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 30 Aug 2026 16:33:17 GMT"
     },
     {
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 29 Aug 2026 20:13:16 GMT"
-    },
-    {
-      "title": "Zambian opposition leader charged with treason",
-      "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 30 Aug 2026 09:08:23 GMT"
-    },
-    {
-      "title": "Nepal flood victims fear more bodies are buried under mud",
-      "summary": "Residents in Dhading, Nepal devastated by flooding say they believe more bodies remain buried beneath thick mud.",
+      "title": "Real Madrid cruise past Malaga 4-0 to maintain Mourinho’s perfect start",
+      "summary": "Jude Bellingham and Kylian Mbappe on the scoresheet as Jose Mourinho's Real Madrid continues to move at pace in La Liga.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sv-nepal-dispatch-dhading-jessica-fm?traffic_source=rss",
-      "publishedAt": "Sun, 30 Aug 2026 15:31:36 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/30/real-madrid-cruise-past-malaga-4-0-to-maintain-mourinhos-perfect-start?traffic_source=rss",
+      "publishedAt": "Sun, 30 Aug 2026 19:50:15 +0000"
     },
     {
-      "title": "Chelsea beat Brighton 4-3 to extend perfect start under Xabi Alonso",
-      "summary": "Alonso has presided over two wins in the Premier League and one in the League Cup since taking charge of the Blues.",
+      "title": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
+      "summary": "Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/8/30/chelsea-beat-brighton-4-3-to-extend-perfect-start-under-xabi-alonso?traffic_source=rss",
-      "publishedAt": "Sun, 30 Aug 2026 15:19:49 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss",
+      "publishedAt": "Sun, 30 Aug 2026 19:33:18 +0000"
     },
     {
-      "title": "At least seven dead and 23 missing after boat capsizes off northern Cyprus",
-      "summary": "Videos show rescue after a ferry capsized off northern Cyprus, with officials reporting several dead.",
+      "title": "Former Israeli soldiers pose as Pro-Palestinian supporters in the US",
+      "summary": "Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/at-least-seven-dead-and-23-missing-after-boat-capsizes-off-northern-cyprus?traffic_source=rss",
-      "publishedAt": "Sun, 30 Aug 2026 15:19:36 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss",
+      "publishedAt": "Sun, 30 Aug 2026 19:06:11 +0000"
     },
     {
-      "title": "Why did Australia give visas to Israeli soldiers but not Bassem Youssef?",
-      "summary": "The Australian government is under pressure to explain why it allowed dozens of Israeli soldiers into the country.",
+      "title": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
+      "summary": "How a far-right party with neo-Nazi roots bought every ad surface in Sweden's biggest train station.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/30-08-sydney-marathon-israeli-soldiers-idf-fm?traffic_source=rss",
-      "publishedAt": "Sun, 30 Aug 2026 14:50:22 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/do-you-miss-mogadishu-inside-swedens-far-right-campaign?traffic_source=rss",
+      "publishedAt": "Sun, 30 Aug 2026 18:51:33 +0000"
     },
     {
-      "title": "How does your name taste? The strange science of synaesthesia",
-      "summary": "Experiencing names as tastes - a form of synaesthesia - reveals how differently people perceive the same world.",
+      "title": "Devastation from the Nepal-China Floods in 30 photos",
+      "summary": "More than 3,000 people missing after glacier collapse unleashes destruction in Himalayas.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/longform/2026/8/30/how-does-your-name-taste-the-strange-science-of-synaesthesia?traffic_source=rss",
-      "publishedAt": "Sun, 30 Aug 2026 14:14:06 +0000"
+      "link": "https://www.aljazeera.com/gallery/2026/8/30/in-pictures-devastation-from-the-nepal-china-floods?traffic_source=rss",
+      "publishedAt": "Sun, 30 Aug 2026 18:34:59 +0000"
     },
     {
-      "title": "Iceland votes to reject EU accession talks: What happens next?",
-      "summary": "The referendum result halts Iceland's bid to reopen EU membership talks, with 52.5 percent voting against the proposal.",
+      "title": "Fernandes hat-trick fires Man Utd in seven-goal thriller with Ipswich",
+      "summary": "Bruno Fernandes's hat-trick inspires Manchester United's comeback 5-2 win against Ipswich Town in the Premier League.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
-      "publishedAt": "Sun, 30 Aug 2026 13:37:54 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/8/30/fernandes-hat-trick-fires-man-utd-in-seven-goal-thriller-with-ipswich?traffic_source=rss",
+      "publishedAt": "Sun, 30 Aug 2026 18:33:39 +0000"
     },
     {
       "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
@@ -318,6 +318,42 @@
   ],
   "sports": [
     {
+      "league": "Süper Lig",
+      "home": "İstanbul Başakşehir",
+      "away": "Kasımpaşa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
+      "date": "2026-08-30"
+    },
+    {
+      "league": "Süper Lig",
+      "home": "Eyüpspor",
+      "away": "Alanyaspor",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FT",
+      "date": "2026-08-30"
+    },
+    {
+      "league": "Süper Lig",
+      "home": "Samsunspor",
+      "away": "Fenerbahçe",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FT",
+      "date": "2026-08-30"
+    },
+    {
+      "league": "Premier League",
+      "home": "Manchester United",
+      "away": "Ipswich Town",
+      "homeScore": 5,
+      "awayScore": 2,
+      "status": "FT",
+      "date": "2026-08-30"
+    },
+    {
       "league": "Premier League",
       "home": "Chelsea",
       "away": "Brighton and Hove Albion",
@@ -336,90 +372,72 @@
       "date": "2026-08-30"
     },
     {
-      "league": "Bundesliga",
-      "home": "Freiburg",
-      "away": "Werder Bremen",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-08-30"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "İstanbul Başakşehir",
-      "away": "Kasımpaşa",
-      "status": "upcoming",
-      "date": "2026-08-30"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Eyüpspor",
-      "away": "Alanyaspor",
-      "status": "upcoming",
-      "date": "2026-08-30"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Samsunspor",
-      "away": "Fenerbahçe",
-      "status": "upcoming",
-      "date": "2026-08-30"
-    },
-    {
-      "league": "Premier League",
-      "home": "Manchester United",
-      "away": "Ipswich Town",
-      "status": "upcoming",
-      "date": "2026-08-30"
-    },
-    {
       "league": "La Liga",
       "home": "Celta Vigo",
       "away": "Athletic Bilbao",
-      "status": "upcoming",
+      "homeScore": 0,
+      "awayScore": 2,
+      "status": "FT",
       "date": "2026-08-30"
     },
     {
       "league": "La Liga",
       "home": "Real Madrid",
       "away": "Málaga",
-      "status": "upcoming",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "FT",
       "date": "2026-08-30"
     },
     {
       "league": "La Liga",
       "home": "Deportivo de A Coruña",
       "away": "Valencia",
-      "status": "upcoming",
+      "homeScore": 3,
+      "awayScore": 1,
+      "status": "FT",
+      "date": "2026-08-30"
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Freiburg",
+      "away": "Werder Bremen",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "FT",
       "date": "2026-08-30"
     },
     {
       "league": "Bundesliga",
       "home": "Augsburg",
       "away": "Schalke 04",
-      "status": "upcoming",
+      "homeScore": 3,
+      "awayScore": 0,
+      "status": "FT",
       "date": "2026-08-30"
     },
     {
       "league": "Serie A",
       "home": "Lazio",
       "away": "Genoa",
-      "status": "upcoming",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FT",
       "date": "2026-08-30"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 26,
-      "description": "mainly clear",
+      "tempC": 23,
+      "description": "partly cloudy",
       "high": 28,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 21,
-      "description": "overcast",
+      "tempC": 18,
+      "description": "drizzle",
       "high": 22,
       "low": 17
     }
