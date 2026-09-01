@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-01T08:16:21.765Z",
+  "updated": "2026-09-01T13:54:12.490Z",
   "news": [
+    {
+      "title": "Girne açıklarında 500 metreye batan feribota nasıl ulaşılacak?",
+      "summary": "Bir kilometre derinliğe kadar arama kurtarma faaliyeti yürütebilecek donanıma sahip, TCG Işın gemisi, alabora olan geminin battığı bölgedeki arama çalışmalarını yönetiyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/clye4w3ll51o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 11:40:58 GMT"
+    },
     {
       "title": "Şanghay İşbirliği Örgütü'nün 25. yılı: Türkiye'nin ilişkisi nasıl şekillendi?",
       "summary": "Şangay İşbirliği Örgütü, Kırgızistan'ın başkenti Bişkek’te yapılan zirvede 25. yılını kutluyor. Türkiye’nin örgütle ilişkisi ise Asya açılımı, Batı ile yaşanan gerilimler ve çok kutupluluk tartışmaları bağlamında yeniden gündemde.",
@@ -8,6 +16,30 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cly4e5dr0vgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 01 Sep 2026 06:09:30 GMT"
+    },
+    {
+      "title": "Nepal selinde ölü sayısı 1.000'i geçti, santralde kalan 600 çalışan aranıyor",
+      "summary": "Nepal'in afet kurumu tarafından yapılan açıklamaya göre, 26 Ağustos Çarşamba Tibet sınırında meydana gelen yıkıcı sellerde hayatını kaybedenlerin sayısı 1.000'i aştı. 3.900'den fazla kişi hâlâ kayıp. Bunların 600'den fazlasını, Trishuli Neh",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c9803mv5nlmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 09:55:34 GMT"
+    },
+    {
+      "title": "Kene aşısı çalışmaları ne durumda?",
+      "summary": "Lyme hastalığı artışta. Bilim insanları bunu önlemenin yollarını arıyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cn9w3rwyvn0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 13:24:19 GMT"
+    },
+    {
+      "title": "Kemal Öztürk, Nusayrilere yönelik sözleri nedeniyle ifade verecek",
+      "summary": "Gazeteci ve yazar Kemal Öztürk hakkında, NTV'de yayımlanan bir programda Nusayrilere yönelik ifadeleri nedeniyle Samandağ Cumhuriyet Başsavcılığı tarafından soruşturma başlatıldı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c8jd81d42mlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 09:26:23 GMT"
     },
     {
       "title": "Girne açıklarında batan feribotun arkada bıraktığı sorular neler?",
@@ -18,78 +50,70 @@
       "publishedAt": "Mon, 31 Aug 2026 16:49:23 GMT"
     },
     {
-      "title": "Diyarbakır'da Amedspor coşkusu: Trabzonspor maçı ve sonrası neler yaşandı?",
-      "summary": "Diyarbakır'da maç heyecanı oldukça yüksekti. Amedspor ile Trabzonspor A takımı düzeyinde ilk defa karşılaştı. Biletler günler öncesinden tükendi. Galibiyet sokaklarda kutlandı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cevwen201rko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 23:16:37 GMT"
-    },
-    {
-      "title": "Bolu Belediyesi'ne 'hayalet araç' operasyonu, 22 kişiye gözaltı",
-      "summary": "Bolu Belediyesi'ne yönelik yedi ilde \"hayalet araç\" operasyonu düzenlendi. Operasyon kapsamında 22 şüpheli için gözaltı kararı verildi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cqlg9n5pwyqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 05:35:29 GMT"
-    },
-    {
-      "title": "Tupac Shakur davasında jüri, Duane Davis'i cinayetten suçlu buldu",
-      "summary": "Eski çete lideri, 63 yaşındaki Duane \"Keffe D\" Davis, rapçi Tupac Shakur'u öldürmekten suçlu bulundu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c07lk0glg24o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 00:43:01 GMT"
-    },
-    {
-      "title": "İngiltere Merkez Bankası Başkanı: Yapay zeka küresel ekonomik durgunluğa yol açabilir",
-      "summary": "İngiltere Merkez Bankası Başkanı Andrew Bailey, G20 maliye bakanlarını yapay zekanın küresel bir ekonomik durgunluğa yol açabileceği konusunda uyardı. Finansal sistemler için önemli bir siber güvenlik riski oluşturabileceğini ifade etti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c770re8k23no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 05:25:06 GMT"
-    },
-    {
-      "title": "Çantayı çaldı, 10 dakika sonra iade etmeye çalıştı. \"Dün aldım gelinim beğenmedi\"",
-      "summary": "Kağıthane’de mağazadan çanta çalan kadın, 10 dakika sonra geri dönerek ürünü bir gün önce aldığını öne sürüp parasını istedi. Kamera kayıtları izlenince kaçan kadın, yakalandıktan sonra yeniden kaçtı.",
+      "title": "Balık avı sezonu başladı. İşte ilk fiyatlar",
+      "summary": "Av yasağı bitti, balık avı sezonu başladı. Balıkçılar gece yarısından itibaren denize açıldı. Tezgahlarda özellikle de palamut bolluğu yaşandı. Peki fiyatlar ne kadar? (Haber: Ali Ablay-Tuana Çiftci)",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-01T11:07:03+03:00"
+      "publishedAt": "2026-09-01T16:40:14+03:00"
     },
     {
-      "title": "Tapuda dublörlü vurgunun firarisi yakalandı",
-      "summary": "Tapuda dublör soruşturmasında, hakkında 25 yıl beş ay kesinleşmiş hapis cezası bulunan firari hükümlü Gaziosmanpaşa'da yakalandı.",
+      "title": "TEKNOFEST’te Hyperloop yarışının final heyecanı başladı",
+      "summary": "TEKNOFEST 2026 Hyperloop Geliştirme Yarışması’nda finale kalan takımlar, geliştirdikleri yeni nesil ulaşım teknolojilerini TÜBİTAK Gebze Kampüsü’ndeki 208 metrelik test tünelinde sınayacak.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-01T11:06:13+03:00"
+      "publishedAt": "2026-09-01T16:28:07+03:00"
     },
     {
-      "title": "Kayseri'de drift atan sürücüye 140 bin lira ceza uygulandı",
-      "summary": "Kayseri'de drift atarak çevreyi rahatsız eden sürücüye 140 bin lira ceza kesildi.",
+      "title": "KYK yurt ücretleri 2026-2027: KYK yurt ücretleri ne kadar oldu, zam geldi mi?",
+      "summary": "2027 eğitim-öğretim yılı öncesinde üniversite kayıt haklarını elde eden ve Gençlik ve Spor Bakanlığı (GSB) yurt başvurularını tamamlayan yüz binlerce öğrencinin gözü KYK yurt ücretlerine çevrildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-01T11:00:14+03:00"
+      "publishedAt": "2026-09-01T15:56:48+03:00"
     },
     {
-      "title": "TÜBİTAK personel alımı 2026: TÜBİTAK 660 personel alımı başvurusu nasıl yapılır?",
-      "summary": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK) Başkanlığı, farklı birimlerinde görevlendirmek üzere 660 personel istihdam edecek. Peki, TÜBİTAK 660 personel alımı başvurusu nasıl yapılır?",
+      "title": "Ankara’da şaşırtan olay. Başıboş eşeği çekiciyle otoparka götürdüler",
+      "summary": "Ankara’da kaybolan eşeğini günlerce arayan Orhan Figan, hayvanının Protokol Yolu’nda bulunup çekiciyle yediemin otoparkına götürüldüğünü öğrendi. Figan, bin 246 lira ceza ödeyerek eşeğini teslim aldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-01T10:44:03+03:00"
+      "publishedAt": "2026-09-01T15:35:53+03:00"
     },
     {
-      "title": "TCG Işın gemisi bölgede. Girne'deki feribot faciasında geminin enkazına robotla dalış yapılacak",
-      "summary": "Girne açıklarında batan feribotun 514 metre derinlikteki enkazına Uzaktan Kumandalı Sualtı Aracı (ROV) ile robotik dalış yapılacak. NTV, uzaktan kumandalı cihazı görüntüledi.",
+      "title": "Alihan Kuriş soruşturması: İdris Naim Şahin adliyede",
+      "summary": "Eski İçişleri Bakanı İdris Naim Şahin, Alihan Kuriş Suç Örgütü'yle ilgili soruşturmada ifade vermek üzere adliyeye geldi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-01T11:12:42+03:00"
+      "publishedAt": "2026-09-01T16:09:41+03:00"
     },
     {
-      "title": "Girne'deki feribot faciası: NTV ekibi arama yapacak askeri gemide",
-      "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nde 8 kişinin hayatını kaybettiği faciada batan gemi, denizin 514 metre derinliğinde. Bölgede kayıp 20 kişiyi arama çalışmaları sürüyor.",
+      "title": "Uyum haftası 7 Eylül'de başlıyor. Okulların açılmasına sayılı gün kala uzmanların tavsiyeleri ne?",
+      "summary": "Okul öncesi ve ilkokul birinci sınıf öğrencilerinin okula alışabilmesi için uyum haftası 7 Eylül Pazartesi günü başlayacak. Uzmanların tavsiyeleri neler?",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-01T10:18:00+03:00"
+      "publishedAt": "2026-09-01T16:03:03+03:00"
+    },
+    {
+      "title": "Nepal'deki yıkım havadan görüntülendi",
+      "summary": "Nepal'in Çin sınırına yakın Rasuwa bölgesi ve çevresinde meydana gelen selde hayatını kaybedenlerin sayısının 1003'e çıktığı bildirildi. Sel felaketinin yol açtığı yıkım havadan görüntülendi",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/nepal-deki-yikim-havadan-goruntulendi-3909537",
+      "publishedAt": "Tue, 01 Sep 2026 11:11:18 GMT"
+    },
+    {
+      "title": "Kayalara sıkıştırdılar, sonra tek tek söküldü",
+      "summary": "Kuzey İrlanda'daki Giant's Causeway'de ziyaretçilerin uğur için kayalara sıkıştırdığı 20 kilogramdan fazla bozuk para, sütunlara zarar verdiği için tek tek söküldü.",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/ugur-getirsin-diye-kayalara-sikistirdilar-10-binden-fazlasi-tek-tek-sokuldu-3909523",
+      "publishedAt": "Tue, 01 Sep 2026 09:39:50 GMT"
+    },
+    {
+      "title": "Tuzlu Kahve oyuncuları ve konusu",
+      "summary": "Star TV’nin yeni dizisi Tuzlu Kahve, 1 Eylül Salı akşamı ekran yolculuğuna başlıyor. Bu sebeple Tuzlu Kahve oyuncuları ve konusu gündemde en çok araştırılan konular arasında yer alıyor. Türk televizyon, sinema ve tiyatrosunun usta isimlerin",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/tuzlu-kahve-oyunculari-konusu-ve-dizi-karakterleri-star-tvnin-yeni-dizisi-tuzlu-kahve-konusu-nedir-oyunculari-kimler-3909504",
+      "publishedAt": "Tue, 01 Sep 2026 08:42:21 GMT"
     },
     {
       "title": "KYK yurt sonuçları açıklandı mı?",
@@ -97,7 +121,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/gsb-kyk-yurt-basvuru-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-2026-kyk-yurt-basvuru-sonuclari-nasil-ve-nereden-ogrenilir-3909457",
-      "publishedAt": "Tue, 01 Sep 2026 07:38:34 GMT"
+      "publishedAt": "Tue, 01 Sep 2026 13:40:23 GMT"
     },
     {
       "title": "TRT 1 ve Tabii frekans ayarları",
@@ -105,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/trt-1-ve-tabii-frekans-ayarlari-2026-turksat-4a-trt-1-ve-tabii-frekans-ve-uydu-ayari-nasil-yapilir-nereden-degistirilir-3909440",
-      "publishedAt": "Tue, 01 Sep 2026 07:14:05 GMT"
+      "publishedAt": "Tue, 01 Sep 2026 08:45:45 GMT"
     },
     {
       "title": "DGS tercih sonuçları ne zaman açıklanacak?",
@@ -113,31 +137,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/dgs-tercih-sonuc-tarihi-2026-osym-ile-dgs-tercih-sonuclari-ne-zaman-aciklanacak-hangi-tarihte-3909431",
-      "publishedAt": "Tue, 01 Sep 2026 07:38:19 GMT"
-    },
-    {
-      "title": "Bugün hangi maçlar var?",
-      "summary": "Maç programı 1 Eylül 2026 Salı günü oynanacak karşılaşmaları merak eden sporseverler tarafından araştırılıyor. Bugün Trendyol 1. Lig’de dört, İtalya Kupası’nda ise iki karşılaşma oynanacak. Voleybolda ise Filenin Sultanları çeyrek final içi",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/mac-programi-1-eylul-2026-bugun-hangi-maclar-var-kimin-maci-var-saat-kacta-ve-hangi-kanalda-iste-bugunku-maclar-ve-baslangic-saatleri-3909428",
-      "publishedAt": "Tue, 01 Sep 2026 06:26:38 GMT"
-    },
-    {
-      "title": "Dün en çok hangi yapım izlendi?",
-      "summary": "Dünün reyting sonuçları 31 Ağustos 2026 listesi araştırılmaya başlandı. Dün akşam televizyon kanallarında birbirinden iddialı yapımlar yer aldı. ATV’de Altı Üstü İstanbul dizisi ile TV8’de MasterChef Türkiye yarışması yeni bölümleriyle izle",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/reyting-sonuclari-31-agustos-2026-izlanda-turkiye-maci-alti-ustu-istanbul-masterchef-abc1-ab-ve-total-siralamasi-ile-dun-en-cok-hangi-yapim-izlendi-3909422",
-      "publishedAt": "Tue, 01 Sep 2026 07:12:36 GMT"
-    },
-    {
-      "title": "Dünyanın en yaşlı insanı 117 yaşında",
-      "summary": "Dünyanın yaşayan en yaşlı insanı 117 yaşına basarak bir yaşını daha geride bıraktı. Uzun yaşamının sırrı sorulduğunda verdiği kısa yanıt ise dikkat çekti: Kimseyle tartışmamak. Ancak bu sözün, ilk bakışta göründüğünden çok daha önemli bir d",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/dunyanin-en-yasli-insani-117-yasinda-uzun-yasam-icin-tek-bir-seyden-uzak-duruyor-3909407",
-      "publishedAt": "Mon, 31 Aug 2026 22:30:24 GMT"
+      "publishedAt": "Tue, 01 Sep 2026 08:46:02 GMT"
     },
     {
       "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
@@ -156,12 +156,28 @@
       "publishedAt": "Tue, 01 Sep 2026 07:37:24 GMT"
     },
     {
-      "title": "How catastrophic flash flood unfolded at remote Nepal-China border point",
-      "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
+      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "summary": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 06:02:27 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 10:30:55 GMT"
+    },
+    {
+      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+      "summary": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 12:58:44 GMT"
+    },
+    {
+      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+      "summary": "Most migrants have returned to neighbouring Morocco, but as many as 5,000 remain in the Spanish exclave.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 01 Sep 2026 13:46:05 GMT"
     },
     {
       "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
@@ -172,116 +188,100 @@
       "publishedAt": "Tue, 01 Sep 2026 07:02:58 GMT"
     },
     {
-      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
-      "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 21:28:49 GMT"
-    },
-    {
-      "title": "South Korean police officer admits to closing missing person cases to avoid work",
-      "summary": "The officer falsely claimed he contacted missing persons and prematurely closed their cases on the South Korean holiday island of Jeju.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 05:47:21 GMT"
-    },
-    {
-      "title": "Nepal-Tibet floods live: Rescue efforts under way, death toll crosses 1,000",
-      "summary": "The death toll from flooding in Nepal and Tibet has gone past 1,000, as rescue teams continue search for survivors.",
+      "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
+      "summary": "The SCO started in 1996 and accounts for 43 percent of the world’s population and 23 percent of the global economy.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/nepal-tibet-floods-live-rescue-efforts-under-way-death-toll-crosses-1000?traffic_source=rss",
-      "publishedAt": "Tue, 01 Sep 2026 07:44:35 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss",
+      "publishedAt": "Tue, 01 Sep 2026 13:32:33 +0000"
     },
     {
-      "title": "Moment motorcyclist flies through bus door, avoiding deadly crash",
-      "summary": "This is the moment a motorcyclist slammed into the side of a bus at a busy intersection in western Colombia.",
+      "title": "Irish minister calls for EU action in banning Israeli settlement trade",
+      "summary": "Ireland’s defence minister has called on EU member states to take more action to ban trade with Israeli settlements.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/moment-motorcyclist-flies-through-bus-door-avoiding-deadly-crash?traffic_source=rss",
-      "publishedAt": "Tue, 01 Sep 2026 07:42:45 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/irish-minister-calls-for-eu-action-in-banning-israeli-settlement-trade?traffic_source=rss",
+      "publishedAt": "Tue, 01 Sep 2026 13:32:13 +0000"
     },
     {
-      "title": "White House unveils more details of Trump’s Venezuela oil deal",
-      "summary": "Venezuela's interim president gives new US company 100-year rights to more than 17 oil fields.",
+      "title": "Video: SCO summit leaders meet in aftermath of US war on Iran",
+      "summary": "Leaders are meeting in Kyrgyzstan for the annual Shanghai Cooperation Organisation Summit.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss",
-      "publishedAt": "Tue, 01 Sep 2026 07:39:52 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss",
+      "publishedAt": "Tue, 01 Sep 2026 13:27:39 +0000"
     },
     {
-      "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
-      "summary": "Many Iranians inside the country feel they are being unjustly erased from the international community.",
+      "title": "UN sounds climate alarm as China-Taiwan row threatens to overshadow forum",
+      "summary": "The UN has raised fresh alarm over the climate crisis at the Pacific Islands Forum in Palau, amid China-Taiwan tensions.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss",
-      "publishedAt": "Tue, 01 Sep 2026 07:25:54 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-sounds-climate-alarm-as-china-taiwan-row-threatens-to-overshadow-forum?traffic_source=rss",
+      "publishedAt": "Tue, 01 Sep 2026 13:13:55 +0000"
     },
     {
-      "title": "Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses",
-      "summary": "Israeli ministers escalate campaign rhetoric with AI ads as Gaza strikes widen ahead of tight October election.",
+      "title": "Lionel Messi retires: What records and titles does Argentina legend hold?",
+      "summary": "A by-the-numbers look at Messi’s international career with Argentina, including his individual and team honours.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss",
-      "publishedAt": "Tue, 01 Sep 2026 07:02:25 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/1/lionel-messi-records-argentina-international-retirement-football?traffic_source=rss",
+      "publishedAt": "Tue, 01 Sep 2026 13:13:39 +0000"
     },
     {
-      "title": "Teen faces life over livestream of San Diego mosque attack",
-      "summary": "A 17-year-old girl has been indicted in North Carolina on murder and conspiracy charges",
+      "title": "Why China will not comply with US sanctions on Iran",
+      "summary": "Beijing will not comply with US measures because it can and because it’s in its interest not to.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/teen-faces-life-over-livestream-of-san-diego-mosque-attack?traffic_source=rss",
-      "publishedAt": "Tue, 01 Sep 2026 06:39:07 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran?traffic_source=rss",
+      "publishedAt": "Tue, 01 Sep 2026 13:08:14 +0000"
     },
     {
-      "title": "Hindu pilgrims, on arduous trek, among Nepal's missing",
-      "summary": "Among the hundreds still missing on Nepal's border with China are Hindus from India and beyond, participating in a journey of devotion to a sacred mountain",
+      "title": "Beloved writer and environmentalist Wendell Berry has died at age 92",
+      "summary": "Wendell Berry has died at age 92 He was a beloved American poet, novelist, essayist, and farmer.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/01/g-s1-141349/hindu-pilgrims-on-arduous-trek-among-nepals-missing",
-      "publishedAt": "Tue, 01 Sep 2026 03:08:12 -0400"
+      "link": "https://www.npr.org/2026/09/01/1139228585/wendell-berry-obituary",
+      "publishedAt": "Tue, 01 Sep 2026 09:52:18 -0400"
     },
     {
-      "title": "Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano",
-      "summary": "The Metropolitan Museum of Art is canceling exhibit honoring British designer John Galliano. The exhibit had led to backlash because of the designer's past antisemitic and racist statements.",
+      "title": "SCOTUS allows Trump's ballroom project to continue. And, the Army secretary resigns",
+      "summary": "The Supreme Court has ruled that President Trump's ballroom project may continue. And, Army Secretary Dan Driscoll resigns after 18 months on the job.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/01/g-s1-141347/met-gala-john-galliano-exhibit-canceled",
-      "publishedAt": "Tue, 01 Sep 2026 01:43:37 -0400"
+      "link": "https://www.npr.org/2026/09/01/g-s1-141357/up-first-newsletter-trump-white-house-ballroom-dan-driscoll-g20-iran-usps-mail-in-voting",
+      "publishedAt": "Tue, 01 Sep 2026 07:23:46 -0400"
     },
     {
-      "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
-      "summary": "A jury found Duane \"Keffe D\" Davis guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, finally bringing a measure of resolution to a case that had gripped hip-hop fans for decades.",
+      "title": "They live by a shrine to a saint. Why are their homes being demolished?",
+      "summary": "The neighborhood is a pilgrimage site, with a shrine to the Sufi saint known as Bari Imam. In the past year, hundreds of homes of the working poor were razed. Residents fear more will be demolished.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder",
-      "publishedAt": "Tue, 01 Sep 2026 00:57:01 -0400"
+      "link": "https://www.npr.org/2026/09/01/g-s1-139926/india-saint-slum-home-destruction",
+      "publishedAt": "Tue, 01 Sep 2026 07:21:41 -0400"
     },
     {
-      "title": "Army Secretary Dan Driscoll is stepping down, White House says",
-      "summary": "Army Secretary Dan Driscoll is stepping down after 18 months on the job, the White House said Monday, in the latest departure of a top military leader during the Trump administration.",
+      "title": "Whistleblower claims USPS plan for Trump's mail voting order could 'derail' midterms",
+      "summary": "A whistleblower says the U.S. Postal Service is rushing out an online system for President Trump's push to restrict mail voting that could \"derail\" the midterm election if courts allow it to proceed.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
-      "publishedAt": "Tue, 01 Sep 2026 00:43:57 -0400"
+      "link": "https://www.npr.org/2026/09/01/nx-s1-5950869/trump-mail-in-voting-usps",
+      "publishedAt": "Tue, 01 Sep 2026 06:00:00 -0400"
     },
     {
-      "title": "Nearly 200 witnesses to Charlie Kirk shooting apply for victims' benefits in Utah",
-      "summary": "While the high-profile shooting at Utah Valley University had only one homicide victim, Kirk's assassination was witnessed by thousands in person and even more as video spread online.",
+      "title": "AI wealth is creating a 'mansion shortage' and upending San Francisco's housing market",
+      "summary": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/01/nx-s1-5945736/nearly-200-witnesses-to-charlie-kirk-shooting-apply-for-victims-benefits-in-utah",
-      "publishedAt": "Tue, 01 Sep 2026 00:01:00 -0400"
+      "link": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
+      "publishedAt": "Tue, 01 Sep 2026 05:00:00 -0400"
     },
     {
-      "title": "Trump officials cut political interference ban after unusual Census Bureau report",
-      "summary": "After the Census Bureau issued a report tied to a Trump-aligned think tank, the bureau's parent agency cut language banning political interference from its scientific integrity policy, NPR learned.",
+      "title": "A NY hospital tried to close its birthing center. This city united to fight back",
+      "summary": "Democrats and Republicans in Troy, New York, took on a national Catholic health system and kept the county's last birthing center open.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
-      "publishedAt": "Mon, 31 Aug 2026 18:24:12 -0400"
+      "link": "https://www.npr.org/2026/09/01/nx-s1-5945612/baby-new-york-hospital-birth",
+      "publishedAt": "Tue, 01 Sep 2026 05:00:00 -0400"
     },
     {
       "title": "South African airline defends dramatic low-level flyby before rugby union clash",
@@ -384,15 +384,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 27,
+      "tempC": 28,
       "description": "mainly clear",
       "high": 29,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 16,
-      "description": "clear sky",
+      "tempC": 22,
+      "description": "partly cloudy",
       "high": 22,
       "low": 14
     }
