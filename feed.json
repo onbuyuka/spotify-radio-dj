@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T20:38:10.212Z",
+  "updated": "2026-09-01T00:21:46.594Z",
   "news": [
     {
       "title": "Girne açıklarında batan feribotun arkada bıraktığı sorular neler?",
@@ -10,28 +10,28 @@
       "publishedAt": "Mon, 31 Aug 2026 16:49:23 GMT"
     },
     {
+      "title": "Deniz Göktaş'a tahliye kararı verilen suçlardan tekrar tutuklama",
+      "summary": "Komedyen Deniz Göktaş, hakkında 28 Ağustos'ta tahliye kararı verilen suçlamalardan tekrar tutuklandı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c0qxdyl8zw3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 31 Aug 2026 23:45:27 GMT"
+    },
+    {
+      "title": "Diyarbakır'da Amedspor coşkusu: Trabzonspor maçı ve sonrası neler yaşandı?",
+      "summary": "Diyarbakır'da maç heyecanı oldukça yüksekti. Amedspor ile Trabzonspor A takımı düzeyinde ilk defa karşılaştı. Biletler günler öncesinden tükendi. Galibiyet sokaklarda kutlandı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cevwen201rko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 31 Aug 2026 23:16:37 GMT"
+    },
+    {
       "title": "Kemal Öztürk'e gözaltı kararı: Nusayrilere yönelik sözleri nedeniyle ifade verecek",
       "summary": "Gazeteci ve yazar Kemal Öztürk hakkında, NTV'de yayımlanan bir programda Nusayrilere yönelik ifadeleri nedeniyle Samandağ Cumhuriyet Başsavcılığı tarafından soruşturma başlatıldı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c8jd81d42mlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 31 Aug 2026 16:03:55 GMT"
-    },
-    {
-      "title": "Girne açıklarında batan yolcu feribotu: Son kayıp sayısı 20 olarak açıklandı",
-      "summary": "Kıbrıs'ın kuzeyinde Girne açıklarında bir yolcu feribotu, limandan ayrıldıktan kısa bir süre sonra alabora oldu. Feribotta 259 yolcu ve sekiz mürettebat bulunuyordu. Kaptan ve yedi mürettebat gözaltına alındı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c4gvzyyq2jwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 12:40:28 GMT"
-    },
-    {
-      "title": "Hakan Fidan: 'Uluslararası sistem Netanyahu tehdidiyle savaşmalı'",
-      "summary": "İstanbul'da Mekke Savunma İttifakı müttefiklerinin ilk toplantısıyla eş zamanlı olarak, İsrail ve Yunanistan arasında \"Aşil Kalkanı\" adı verilen 3 milyar euroluk (yaklaşık 170 milyar lira) bir savunma anlaşması imzalandı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cew95yypnkno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 15:31:34 GMT"
     },
     {
       "title": "Messi, Arjantin Milli Takımı kariyerini 'verecek hiçbir şeyim kalmadı' diyerek noktaladı",
@@ -42,12 +42,40 @@
       "publishedAt": "Mon, 31 Aug 2026 18:42:14 GMT"
     },
     {
-      "title": "'Kızım elimden kayıp gitti tutamadım'",
-      "summary": "Kıbrıs'ın kuzeyinde Girne açıklarındaki feribotun batışı öncesi ve sonrasına ait çok sayıda görüntü sosyal medyada paylaşıldı. Kurtulan yolculardan bazıları katamaran seyir halindeyken içeri su dolmaya başladığını aktardı.",
+      "title": "Girne açıklarında batan yolcu feribotu: Son kayıp sayısı 20 olarak açıklandı",
+      "summary": "Kıbrıs'ın kuzeyinde Girne açıklarında bir yolcu feribotu, limandan ayrıldıktan kısa bir süre sonra alabora oldu. Feribotta 259 yolcu ve sekiz mürettebat bulunuyordu. Kaptan ve yedi mürettebat gözaltına alındı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cj4j9r87gjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 12:16:50 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c4gvzyyq2jwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 31 Aug 2026 12:40:28 GMT"
+    },
+    {
+      "title": "Üsküdar'da sahilde oturanlara polis dronu şoku. \"Derhal uzaklaşın\"",
+      "summary": "Üsküdar'da sahilde alkol içenlere yönelik polis dronundan \"Lütfen uyarılara uyup uzaklaşın\" anonsu yapıldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-01T03:11:33+03:00"
+    },
+    {
+      "title": "Yargıtay yanlış yakıttan ana dağıtıcıyı da sorumlu tuttu",
+      "summary": "Yargıtay, depoya yanlış yakıt konulmasından ana dağıtıcının da sorumlu olduğuna hükmetti. Sürücüler, sadece istasyona değil ana dağıtıcıya da dava açabilir.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-01T01:38:59+03:00"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, Dünya Göçebe Oyunları açılış törenine katıldı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Dünya Göçebe Oyunları Açılış Töreni'ne katıldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-01T01:20:15+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 01 Eylül 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 01 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-01T03:00:00+03:00"
     },
     {
       "title": "21 ayın 12'sinde maaşlar geç ödendi: Başkan hakkında soruşturma izni",
@@ -64,80 +92,52 @@
       "publishedAt": "2026-08-31T22:06:40+03:00"
     },
     {
-      "title": "Son dakika İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir deprem Kandilli ve AFAD son depremler listesi 31 Ağustos 2026",
-      "summary": "Son dakika İzmir deprem haberleri.. İzmir'de deprem mi oldu? Az önce deprem İzmir'de nerede oldu? İzmir Kandilli ve AFAD son depremler.. 31 Ağustos 2026 İzmir deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu İzmir'de? İ",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-31T21:50:00+03:00"
-    },
-    {
-      "title": "Cem Yılmaz hastaneden taburcu edildi",
-      "summary": "Çanakkale'de rahatsızlanan ve Çanakkale Onsekiz Mart Üniversitesi (ÇOMÜ) Hastanesi'nde anjiyo yapılan komedyen Cem Yılmaz, tedavisinin ardından taburcu edildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-31T21:10:55+03:00"
-    },
-    {
-      "title": "YouTuber Arif Kocabıyık, yurt dışına kaçmaya çalışırken TIR dorsesinde yakalandı",
-      "summary": "Yurt dışı çıkış yasağı bulunan YouTuber Arif Kocabıyık, Kapıkule’de bir TIR'ın dorsesinin altına gizlenerek Bulgaristan’a geçmeye çalışırken yakalandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-31T20:57:57+03:00"
-    },
-    {
-      "title": "Savunma devleri listesinde 5 Türk şirketi",
-      "summary": "Dünyanın önde gelen savunma sanayisi şirketlerinin sıralandığı Defense News Top 100 listesinde 5 Türk şirketi yer aldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-08-31T20:35:05+03:00"
-    },
-    {
-      "title": "Tuzlu Kahve nerede çekiliyor?",
-      "summary": "Tuzlu Kahve dizisinin çekildiği köşk ve çekim mekanları dikkat çekiyor. 1 Eylül’de Tuzlu Kahve dizisinin ilk bölümü ekrana gelecek. Seyircilerin en çok merak ettiği konuların başında ise \" Tuzlu Kahve dizisi nerede çekiliyor?\" oldu. İşte Tu",
+      "title": "Dünyanın en yaşlı insanı 117 yaşında",
+      "summary": "Dünyanın yaşayan en yaşlı insanı 117 yaşına basarak bir yaşını daha geride bıraktı. Uzun yaşamının sırrı sorulduğunda verdiği kısa yanıt ise dikkat çekti: Kimseyle tartışmamak. Ancak bu sözün, ilk bakışta göründüğünden çok daha önemli bir d",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/tuzlu-kahve-nerede-cekiliyor-hangi-ilde-tuzlu-kahve-dizisi-uyarlama-mi-3909376",
-      "publishedAt": "Mon, 31 Aug 2026 19:45:15 GMT"
+      "link": "https://www.haberturk.com/dunyanin-en-yasli-insani-117-yasinda-uzun-yasam-icin-tek-bir-seyden-uzak-duruyor-3909407",
+      "publishedAt": "Mon, 31 Aug 2026 22:30:24 GMT"
     },
     {
-      "title": "Tuzlu Kahve konusu ve oyuncuları",
-      "summary": "Star TV ekranlarında yayınlanacak olan Tuzlu Kahve dizisi için geri sayım başladı. Başrollerinde Yasemin Ergene, Eda Ece, Nevra Serezli gibi ünlü oyuncuların yer aldığı dizinin konusu ve tam oyuncu kadrosu merak ediliyor. Romantik komedi il",
+      "title": "Kalp için önerilen egzersiz evde de yapılıyor",
+      "summary": "Kalp ve dolaşım için en fazla faydayı ürettiği öne sürülen egzersiz, ne abonelik ne pahalı ekipman istiyor. Evde tek başınıza da yapabilirsiniz.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/tuzlu-kahve-ne-zaman-baslayacak-tuzlu-kahve-oyunculari-kim-konusu-ne-kadroda-kimler-var-3909374",
-      "publishedAt": "Mon, 31 Aug 2026 19:31:12 GMT"
+      "link": "https://www.haberturk.com/ne-yuruyus-ne-bisiklet-kalp-icin-onerilen-egzersiz-evde-de-yapiliyor-3909406",
+      "publishedAt": "Mon, 31 Aug 2026 22:34:29 GMT"
     },
     {
-      "title": "Türkiye Azerbaycan maçı ne zaman?",
-      "summary": "Filenin Sultanları, 2026 CEV Trendyol Kadınlar Avrupa Voleybol Şampiyonası'nda çeyrek final bileti için Azerbaycan karşısına çıkıyor. A Milli Kadın Voleybol Takımı, grup aşamasını 4 galibiyet ve 1 mağlubiyetle tamamlayarak A Grubu'nu 13 pua",
+      "title": "Üç kral kobra yuvası bulundu!",
+      "summary": "Çin'in Yunnan eyaletinde 2020'den bu yana bulunan üç kral kobra yuvasından biri 72 yumurta barındırıyordu. Başında bekleyen iki yılan, alışılmadık bir olasılığı gündeme getirdi.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/turkiye-azerbaycan-voleybol-maci-ne-zaman-saat-kacta-filenin-sultanlari-maci-hangi-kanalda-canli-yayinlanacak-3909361",
-      "publishedAt": "Mon, 31 Aug 2026 19:20:23 GMT"
+      "link": "https://www.haberturk.com/uc-kral-kobra-yuvasi-bulundu-72-yumurtanin-basinda-iki-nobetci-vardi-3909404",
+      "publishedAt": "Mon, 31 Aug 2026 22:34:35 GMT"
     },
     {
-      "title": "Aston Villa - Arsenal maçı ne zaman?",
-      "summary": "Aston Villa, Premier Lig'in 2. haftasında Arsenal'i ağırlıyor. Maç öncesinde futbolseverler Aston Villa - Arsenal maçının başlama saati ve canlı yayınlanacağı kanalı araştırmaya başladı. Aston Villa kendi evinde üç puan için mücadele ederke",
+      "title": "Pasaportu folyoya sarma alışkanlığı",
+      "summary": "Bazı yolcular çipli pasaportlarını mutfak folyosuna sarıyor. Bu basit önlemin arkasındaki mantık ne, gerçekten bir işe yarıyor mu?",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/aston-villa-arsenal-maci-ne-zaman-saat-kacta-hangi-kanalda-premier-lig-aston-villa-arsenal-maci-canli-izle-bilgisi-3909357",
-      "publishedAt": "Mon, 31 Aug 2026 17:42:19 GMT"
+      "link": "https://www.haberturk.com/pasaportu-folyoya-sarma-aliskanligi-cipli-pasaportlarin-folyoyla-korunmasi-ne-kadar-etkili-3909403",
+      "publishedAt": "Mon, 31 Aug 2026 22:20:15 GMT"
     },
     {
-      "title": "Amedspor-Trabzonspor maçı saat kaçta?",
-      "summary": "Amedspor ile Trabzonspor, Trendyol Süper Lig'in 3. haftasında karşı karşıya geliyor. Diyarbakır'da oynanacak mücadelede iki takım da sahadan galibiyetle ayrılmayı hedefliyor. Karşılaşma futbolseverler tarafından büyük bir merakla bekleniyor",
+      "title": "Özel Güvenlik sınavı soru ve cevap anahtarı",
+      "summary": "Özel Güvenlik 122. Temel Eğitim ve 98. Yenileme Eğitimi sınavı sonuçları için geri sayım başladı. Emniyet Genel Müdürlüğü'nün yayımladığı 2026 sınav takvimine göre söz konusu ÖGG sınavı 29 Ağustos 2026 Cumartesi günü gerçekleştirildi. Sınav",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/amedspor-trabzonspor-maci-izle-bilgisi-amedspor-trabzonspor-maci-ne-zaman-saat-kacta-hangi-kanalda-3909354",
-      "publishedAt": "Mon, 31 Aug 2026 18:49:16 GMT"
+      "link": "https://www.haberturk.com/ozel-guvenlik-sinavi-soru-ve-cevaplari-yayimlandi-mi-2026-ogg-sinav-sonuclari-ne-zaman-aciklanacak-3909401",
+      "publishedAt": "Mon, 31 Aug 2026 22:01:46 GMT"
     },
     {
-      "title": "Beşiktaş Çorumspor maçı ne zaman?",
-      "summary": "Trendyol Süper Lig'in 3. haftasında Beşiktaş Çorumspor karşı karşıya geliyor. Karşılaşmayı hakem Çağdaş Altay yönetecek. Maç Tüpraş Stadında oynanacak. Futbolseverler ise maç saatinin yaklaşmasıyla birlikte Beşiktaş Çorumspor maçı canlı izl",
+      "title": "AÖL kayıtları ne zaman başlıyor?",
+      "summary": "AÖL kayıtları için geri sayım başladı. Açık liseye ilk kez kayıt yaptıracak öğrenciler ile mevcut kaydını yenilemek isteyen öğrencilerin işlemleri ile ilgili tarih bilgisi MEB tarafından ilan ediliyor. Bu sebeple gözler MEB tarafından gelec",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/besiktas-corumspor-maci-canli-izle-bjk-corumspor-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-canli-yayinlanacak-3909348",
-      "publishedAt": "Mon, 31 Aug 2026 18:52:31 GMT"
+      "link": "https://www.haberturk.com/aol-kayitlari-ne-zaman-basliyor-hangi-tarihte-2026-2027-meb-aol-acik-lise-kayit-tarihleri-3909399",
+      "publishedAt": "Mon, 31 Aug 2026 22:23:42 GMT"
     },
     {
       "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
@@ -148,12 +148,12 @@
       "publishedAt": "Mon, 31 Aug 2026 17:30:47 GMT"
     },
     {
-      "title": "US and Iran trade strikes for first time in weeks",
-      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 13:47:30 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 31 Aug 2026 17:54:23 GMT"
     },
     {
       "title": "Man arrested after Swiss rave shooting that killed woman",
@@ -172,71 +172,95 @@
       "publishedAt": "Mon, 31 Aug 2026 14:50:36 GMT"
     },
     {
-      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 17:54:23 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 31 Aug 2026 13:47:30 GMT"
     },
     {
       "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
-      "summary": "The National Trust for Historic Preservation argued the president did not have authority to proceed with construction.",
+      "summary": "But Chief Justice John Roberts dissents, writing that \"construction is likely unlawful\".",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 31 Aug 2026 20:36:48 GMT"
+      "publishedAt": "Mon, 31 Aug 2026 22:38:24 GMT"
     },
     {
-      "title": "How will the Mecca agreement become an operational framework?",
-      "summary": "Officials from Turkiye, Saudi Arabia and Pakistan meet to discuss implementing the pact.",
+      "title": "Iran war live: Trump vows to strike Iran ‘hard’ after first clash in month",
+      "summary": "President Donald Trump says the US will respond to Iranian strikes on its personnel in Jordan.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/31/how-will-the-mecca-agreement-become-an-operational-framework?traffic_source=rss",
-      "publishedAt": "Mon, 31 Aug 2026 20:13:18 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
+      "publishedAt": "Tue, 01 Sep 2026 00:00:00 +0000"
     },
     {
-      "title": "Ukrainians mourn community leader killed in Russian strike on Myla",
-      "summary": "Ukrainians gathered to mourn Taras Didych, who was killed while rushing to help after a Russian strike.",
+      "title": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
+      "summary": "Driscoll's resignation follows months of tensions with Defense Secretary Pete Hegseth, US media reports say.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/ukrainians-mourn-community-leader-killed-in-russian-strike-on-myla?traffic_source=rss",
-      "publishedAt": "Mon, 31 Aug 2026 19:51:46 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
+      "publishedAt": "Mon, 31 Aug 2026 23:23:00 +0000"
     },
     {
-      "title": "GTA 6: Why is the world’s most anticipated game facing backlash?",
-      "summary": "You paid for it. But do you actually own it? GTA 6 is exposing a bigger battle over the future of gaming.",
+      "title": "Three minors killed in Colombia armed group crackdown",
+      "summary": "Rights groups warn that armed groups are increasingly recruiting children to their ranks through social media.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/gta-6-why-is-the-worlds-most-anticipated-game-facing-backlash-2?traffic_source=rss",
-      "publishedAt": "Mon, 31 Aug 2026 19:44:20 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
+      "publishedAt": "Mon, 31 Aug 2026 22:30:23 +0000"
     },
     {
-      "title": "What to know: US court hearing held for alleged Lockerbie bombmaker",
-      "summary": "Abu Agila Mohammad Mas’ud Kheir Al-Marimi is the third person charged in the downing of Pan Am Flight 103.",
+      "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+      "summary": "Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/31/what-to-know-us-court-hearing-held-for-alleged-lockerbie-bombmaker?traffic_source=rss",
-      "publishedAt": "Mon, 31 Aug 2026 19:41:33 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+      "publishedAt": "Mon, 31 Aug 2026 22:16:18 +0000"
     },
     {
-      "title": "Far-right Israeli Minister Ben-Gvir and settlers storm Al-Aqsa Mosque",
-      "summary": "Israeli Minister Ben-Gvir storms Al-Aqsa Mosque compound with settlers, violating decades-old status quo arrangement.",
+      "title": "White House construction on $400m ballroom can go on, says US Supreme Court",
+      "summary": "The decision replaces a temporary order issued earlier this month.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/far-right-israeli-minister-ben-gvir-and-settlers-storm-al-aqsa-mosque?traffic_source=rss",
-      "publishedAt": "Mon, 31 Aug 2026 19:30:46 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
+      "publishedAt": "Mon, 31 Aug 2026 22:08:37 +0000"
     },
     {
-      "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
-      "summary": "Far-right minister entered Islam’s third-holiest site alongside settlers under protection of Israeli occupation forces.",
+      "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
+      "summary": "Amid suspicion of Russian sabotage, Warsaw eyes link to foreign intelligence services.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
-      "publishedAt": "Mon, 31 Aug 2026 19:25:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
+      "publishedAt": "Mon, 31 Aug 2026 21:24:15 +0000"
     },
     {
-      "title": "U.S. sues Amazon over its advertising prices",
+      "title": "Trump officials cut political interference ban after unusual Census Bureau report",
+      "summary": "After the Census Bureau issued a report tied to a Trump-aligned think tank, the bureau's parent agency cut language banning political interference from its scientific integrity policy, NPR learned.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
+      "publishedAt": "Mon, 31 Aug 2026 18:24:12 -0400"
+    },
+    {
+      "title": "Whatever happened to the U.S. famine alert system that Trump shut down, then reopened",
+      "summary": "The highly regarded FEWS NET network stopped posting data on Afghanistan, Somalia and Yemen -- then says it will start posting again in September. What's the reason for this back-and-forth?",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/01/nx-s1-5944472/famine-usaid-fews-net",
+      "publishedAt": "Mon, 31 Aug 2026 16:42:17 -0400"
+    },
+    {
+      "title": "Kalshi bans former congressman George Santos for life after State of the Union trades",
+      "summary": "Kalshi says Santos did not cooperate with its investigation into bets he placed on his own attendance at the State of the Union. The company also fined the disgraced congressman more than $71,000.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
+      "publishedAt": "Mon, 31 Aug 2026 16:21:47 -0400"
+    },
+    {
+      "title": "The U.S. sues Amazon again",
       "summary": "Federal regulators and 22 states allege that the tech giant made billions by manipulating how much brands and sellers paid for ads on its platform.",
       "source": "NPR",
       "lang": "en",
@@ -253,35 +277,11 @@
     },
     {
       "title": "Lionel Messi says he's retiring from playing internationally for Argentina",
-      "summary": "He said he wrote his retirement letter after the World Cup final in July, but waited to publish it because his father was facing health issues that eventually claimed his life.",
+      "summary": "The soccer star is ending 21 years of Argentine national-team duty but will continue to play at club level with Inter Miami in U.S. Major League Soccer.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/08/31/nx-s1-5950427/lionel-messi-retires-international-soccer",
       "publishedAt": "Mon, 31 Aug 2026 12:37:05 -0400"
-    },
-    {
-      "title": "Nepal's hesitance to accept foreign help for flood relief comes under scrutiny",
-      "summary": "A group of the country's private sector power producers says Nepali authorities lost crucial time in rescuing hundreds of people trapped in hydropower tunnels.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/31/nx-s1-5949971/nepals-hesitance-help-flood",
-      "publishedAt": "Mon, 31 Aug 2026 07:50:17 -0400"
-    },
-    {
-      "title": "U.S., Venezuela strike oil deal. And, the staggering hidden toll of U.S. heat deaths",
-      "summary": "The U.S. and Venezuela have entered into an oil deal. And, NPR spent two years tracking heat-related deaths and found that people in the U.S. are dying from heat more than the official counts show.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/31/g-s1-141187/up-first-newsletter-venezuela-oil-iran-war-house-government-funding-grand-canyon-flash-flooding",
-      "publishedAt": "Mon, 31 Aug 2026 07:20:15 -0400"
-    },
-    {
-      "title": "Russia's jet-powered drones bring empty Kyiv supermarket shelves and rattle Ukrainians",
-      "summary": "Russian forces relentlessly battered Kyiv and cities in the region around the Ukrainian capital for a fifth straight day, leaving some supermarket shelves bare after repeated strikes on warehouses.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/08/31/g-s1-141181/russia-ukraine-war",
-      "publishedAt": "Mon, 31 Aug 2026 06:24:25 -0400"
     },
     {
       "title": "South African airline defends dramatic low-level flyby before rugby union clash",
@@ -318,6 +318,24 @@
   ],
   "sports": [
     {
+      "league": "Süper Lig",
+      "home": "Beşiktaş",
+      "away": "Çorum",
+      "homeScore": 6,
+      "awayScore": 2,
+      "status": "FT",
+      "date": "2026-08-31"
+    },
+    {
+      "league": "Süper Lig",
+      "home": "Amed",
+      "away": "Trabzonspor",
+      "homeScore": 2,
+      "awayScore": 1,
+      "status": "FT",
+      "date": "2026-08-31"
+    },
+    {
       "league": "Premier League",
       "home": "Aston Villa",
       "away": "Arsenal",
@@ -330,8 +348,8 @@
       "league": "La Liga",
       "home": "Barcelona",
       "away": "Rayo Vallecano",
-      "homeScore": 2,
-      "awayScore": 1,
+      "homeScore": 5,
+      "awayScore": 2,
       "status": "FT",
       "date": "2026-08-31"
     },
@@ -348,7 +366,7 @@
       "league": "Serie A",
       "home": "Atalanta",
       "away": "Bologna",
-      "homeScore": 0,
+      "homeScore": 1,
       "awayScore": 0,
       "status": "FT",
       "date": "2026-08-31"
@@ -361,80 +379,21 @@
       "awayScore": 4,
       "status": "FT",
       "date": "2026-08-31"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Beşiktaş",
-      "away": "Çorum",
-      "status": "upcoming",
-      "date": "2026-08-31"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Amed",
-      "away": "Trabzonspor",
-      "status": "upcoming",
-      "date": "2026-08-31"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "İstanbul Başakşehir",
-      "away": "Kasımpaşa",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-08-30"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Eyüpspor",
-      "away": "Alanyaspor",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-08-30"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Samsunspor",
-      "away": "Fenerbahçe",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-08-30"
-    },
-    {
-      "league": "Premier League",
-      "home": "Manchester United",
-      "away": "Ipswich Town",
-      "homeScore": 5,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-08-30"
-    },
-    {
-      "league": "Premier League",
-      "home": "Chelsea",
-      "away": "Brighton and Hove Albion",
-      "homeScore": 4,
-      "awayScore": 3,
-      "status": "FT",
-      "date": "2026-08-30"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 23,
-      "description": "clear sky",
-      "high": 28,
+      "tempC": 22,
+      "description": "mainly clear",
+      "high": 29,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 19,
+      "tempC": 17,
       "description": "overcast",
-      "high": 23,
+      "high": 22,
       "low": 15
     }
   ],
