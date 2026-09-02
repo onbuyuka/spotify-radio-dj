@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-02T13:12:28.462Z",
+  "updated": "2026-09-02T18:24:26.668Z",
   "news": [
+    {
+      "title": "Tuğberk İmamoğlu yük gemisinin battığı kazaya dair ne biliyoruz?",
+      "summary": "Marmara Denizi'nde 2 Eylül sabahı iki geminin çarpışması sonucu ALSU adlı tankerin çarptığı Tuğberk İmamoğlu adlı yük gemisi battı, mürettebatından haber alınamıyor. Konuya dair Silivri Başsavcılığı tarafından soruşturma açıldı. Uzmanlar, k",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cx2zel73rxzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 17:36:12 GMT"
+    },
     {
       "title": "Türkiye-İsrail gerilimi: Bölgesel rekabette çatışma riski var mı?",
       "summary": "İsrail'in Suriye'deki Ebu Zuhur Üssü'ne iki hafta önce düzenlediği saldırı ve ardından yapılan karşılıklı sert açıklamalar Türkiye–İsrail ilişkilerinde gerilimi yeniden artırdı. Peki iki ülke arasında kısa vadede askeri çatışma ihtimali var",
@@ -10,20 +18,28 @@
       "publishedAt": "Wed, 02 Sep 2026 11:28:39 GMT"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan ŞİÖ açıklaması: Üyelik perspektifi Batı'ya sırt çevirme anlamına gelmez",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Şanghay İşbirliği Örgütü'nün Kırgızistan'daki zirvesinden dönüşte, örgüte üyelikle ilgili açıklamalarda bulundu. Yunanistan ve çerçeve yasa ile ilgili de açıklamalar yaptı.",
+      "title": "İran: ABD düğüne saldırarak savaş suçu işledi",
+      "summary": "ABD Merkez Komutanlığı (CENTCOM), Amerikan güçlerinin 1 Eylül Salı günü İran'a yönelik saldırıları yeniden başlattığını bildirdi. İran, ABD'nin bir düğün evini bombalayarak savaş suçu işlediğini açıkladı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c89jy1l9w1ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 10:34:59 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 14:45:50 GMT"
     },
     {
-      "title": "Marmara Denizi'nde çarpışan iki gemiden biri battı, 10 denizci kayıp",
-      "summary": "Marmara Denizi'nde Silivri açıklarında sabaha karşı 03.00 sıralarında iki gemi çarpıştı. Bir gemide hasar bulunmazken, batmış olabileceği belirtilen diğer gemideki 10 denizciyle irtibat kurulamadı. Bölgede arama kurtarma çalışmaları sürüyor",
+      "title": "Üsküdar Belediyesi başkan vekili seçimi 5 Eylül'de tekrarlanacak",
+      "summary": "İstanbul 2. İdare Mahkemesi, Üsküdar Belediye Meclisi'nde 5 Ağustos'ta yapılan ve Sibel Tan Çetinkaya'nın başkan vekili seçildiği oylamaya ilişkin yürütmenin durdurulmasına karar verdi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cx2z034d3pdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 09:11:02 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cz7dn28e0y4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 15:32:17 GMT"
+    },
+    {
+      "title": "Kademeli emeklilik nedir, hükümetin bu yönde bir hazırlığı var mı?",
+      "summary": "Çalışanların \"kademeli emeklilik\" talebi, son haftalarda iktidar ve Çalışma ve Sosyal Güvenlik Bakanlığı ile yapılan görüşmelerin ardından yeniden tartışılmaya başladı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c7708zr3p5eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 13:40:31 GMT"
     },
     {
       "title": "Melih Gökçek şüpheli sıfatıyla ifadeye çağrıldı",
@@ -31,23 +47,42 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/ckgwn4nj90lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 09:15:34 GMT"
+      "publishedAt": "Wed, 02 Sep 2026 15:16:41 GMT"
     },
     {
-      "title": "'30 yaşında hayalimdeki işe girdim, sonra tükenmişlik sendromuna yakalandım'",
-      "summary": "Jo Hooper, 30 yaşında hayalini kurduğu pozisyona kavuştuktan hemen sonra tükenmişlik sendromuyla mücadele etti ve bir süre işe ara vermek zorunda kaldı.",
-      "source": "BBC Türkçe",
+      "title": "Şans Topu Sonuçları Sorgulama Ekranı 26 Ağustos | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
+      "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c1e5nzdxp4zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 01 Sep 2026 23:18:33 GMT"
+      "publishedAt": "2026-09-02T21:03:09+03:00"
     },
     {
-      "title": "Afganistan'a geri gönderilen altı milyon kişinin Taliban ile yaşama mücadelesi",
-      "summary": "Ağustos ayı itibarıyla, Pakistan ve İran'dan zorla geri dönenlerin sayısı bu yıl bir milyona ulaştı. Üç yıldan kısa bir süre içinde dönenlerin sayısı ise altı milyonu buldu.",
-      "source": "BBC Türkçe",
+      "title": "Girne'deki gemi kazasından kurtarılan hamile kadın ambulans uçakla Kocaeli'ye nakledildi",
+      "summary": "Sağlık Bakanı Kemal Memişoğlu, Girne açıklarında meydana gelen gemi kazasından sağ kurtarılan hamile vatandaşın sağlık ekiplerinin gözetiminde ambulans uçakla Kocaeli'ye nakledildiğini bildirdi.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cgqd0w8j4w5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 05:19:14 GMT"
+      "publishedAt": "2026-09-02T20:15:31+03:00"
+    },
+    {
+      "title": "Bahçeli’den Amedspor araştırmasına tepki. ''Spor, kimlik siyasetine alet edilmemeli''",
+      "summary": "MHP lideri Devlet Bahçeli, Amedspor taraftarlığına ilişkin araştırmaya tepki göstererek, çalışmanın “bölücülüğü zinde tutmaya” hizmet ettiğini söyledi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-02T19:36:37+03:00"
+    },
+    {
+      "title": "KKTC Başbakanı Üstel, Ulaştırma Bakanı Erhan Arıklı’yı görevden aldı",
+      "summary": "KKTC Başbakanı Ünal Üstel, Girne açıklarında meydana gelen gemi faciasına ilişkin soruşturmanın sağlıklı yürütülmesi için Bayındırlık ve Ulaştırma Bakanı Erhan Arıklı’yı görevden aldığını açıkladı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-02T18:48:16+03:00"
+    },
+    {
+      "title": "Üsküdar Belediyesi'nde başkanvekili seçimi yenilenecek",
+      "summary": "İstanbul Bölge İdare Mahkemesi, yenileme kararına yönelik itirazları reddetti, Üsküdar Belediyesi'nde başkanvekilliği seçimi yenilenecek. Öte yandan belediyeye yeni bir operasyon daha yapıldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-02T18:11:54+03:00"
     },
     {
       "title": "Keçiören Belediyesi'nde uyuşturucu testi yapıldı: 171 kişi pozitif çıktı",
@@ -57,39 +92,36 @@
       "publishedAt": "2026-09-02T15:53:45+03:00"
     },
     {
-      "title": "Marmara'da gemi kazası: Tuğberk İmamoğlu ile Alsu arasındaki son telsiz konuşması ortaya çıktı",
-      "summary": "Marmara Denizi'nde çarpışan Tuğberk İmamoğlu ile Alsu gemisi arasındaki son telsiz konuşmasının kaydı ortaya çıktı.",
-      "source": "NTV",
+      "title": "Şampiyonlar Ligi maçları ne zaman?",
+      "summary": "Avrupa'nın en prestijli organizasyonu olan Şampiyonlar Ligi'nde geri sayım sürüyor. Galatasaray, lig aşamasına doğrudan katılırken Fenerbahçe elemeleri geçerek devler liginde mücadele etme hakkı kazandı. İki temsilcimizin de lig aşamasındak",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-02T15:55:17+03:00"
+      "link": "https://www.haberturk.com/fenerbahce-ve-galatasaray-sampiyonlar-ligi-maclari-ne-zaman-fenerbahce-ve-galatasaray-sampiyonlar-ligi-mac-takvimi-3909855",
+      "publishedAt": "Wed, 02 Sep 2026 18:07:56 GMT"
     },
     {
-      "title": "GÖKBEY helikopteri, Emniyet Genel Müdürlüğü envanterinde",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, Emniyet Teşkilatının envanterine toplam 18 GÖKBEY helikopterinin katılacağını, ilk helikopterin ise teslimata hazır olduğunu bildirdi.",
-      "source": "NTV",
+      "title": "İlk Evim konut kredisi başvuru takvimi",
+      "summary": "İlk kez ev sahibi olmak isteyenlerin gündeminde yer alan 1.20 faizli İlk Evim konut kredisi için araştırmalar sürüyor. Düşük faizli konut kredisi kampanyasıyla ev sahibi olmak isteyenler, başvuru tarihinin açıklanıp açıklanmadığını merak ed",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-02T14:59:50+03:00"
+      "link": "https://www.haberturk.com/120-faizli-ilk-evim-konut-kredisi-basvurulari-ne-zaman-baslayacak-120-faizli-ilk-evim-konut-kredisi-sartlari-neler-3909844",
+      "publishedAt": "Wed, 02 Sep 2026 16:19:53 GMT"
     },
     {
-      "title": "Elazığ'daki orman yangını kontrol altında",
-      "summary": "Elazığ'ın Karakoçan ilçesinde çıkan örtü yangını rüzgarın etkisiyle ormanlık alana sıçradı. Yangın havadan ve karadan müdahalelerle kontrol altına alınıp söndürüldü.",
-      "source": "NTV",
+      "title": "İntikam Vakti filmi konusu",
+      "summary": "İntikam Vakti (Wrath of Man) filmi 2 Eylül Çarşamba akşamı Show TV ekranlarında izleyici ile buluşuyor. Jason Statham'ın başrolünde yer aldığı film, gizemli bir adamın zırhlı araç güvenlik şirketinde işe başlamasıyla gelişen olayları konu a",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-02T15:38:36+03:00"
+      "link": "https://www.haberturk.com/intikam-vakti-wrath-of-man-filmi-konusu-nedir-oyunculari-kimler-intikam-vakti-ne-zaman-cekildi-3909833",
+      "publishedAt": "Wed, 02 Sep 2026 15:27:55 GMT"
     },
     {
-      "title": "Bir aydır eğitiliyordu, insan görünümlü robot belediyede işe başladı",
-      "summary": "Kayseri'nin Melikgazi Belediyesi, \"MEGA\" isimli insansı robotunu belediyede işe başlattı. Robot, belediyenin farklı birimlerinde görev yapacak.",
-      "source": "NTV",
+      "title": "Şans Topu sonuçları açıklandı",
+      "summary": "Şans Topu'nda heyecan haftanın ilk çekilişi ile başladı. Haftada iki kez düzenlenen Şans Topu çekilişinde bu hafta da büyük ikramiye heyecanı yaşandı. Kuponlarını dolduranlar, çekilişin ardından kazandıran numaraları kontrol etmek için sonu",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-02T14:34:50+03:00"
-    },
-    {
-      "title": "Ankara'da markette korku dolu anlar",
-      "summary": "Ankara'nın Sincan ilçesinde bir markette silahlı kavga çıktı. Kavgada bir kişi yaralandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-02T14:16:09+03:00"
+      "link": "https://www.haberturk.com/sans-topu-sonuclari-aciklandi-2-eylul-2026-carsamba-sans-topu-cekilis-sonucu-sorgulama-ekrani-3909830",
+      "publishedAt": "Wed, 02 Sep 2026 18:18:32 GMT"
     },
     {
       "title": "Mars'ta gizemli 'denizanası' görüntüsü",
@@ -108,60 +140,28 @@
       "publishedAt": "Wed, 02 Sep 2026 12:06:44 GMT"
     },
     {
-      "title": "Uzaya gönderilen 4 tırtılın şaşırtıcı yolculuğu",
-      "summary": "NASA'nın 2009'da bir öğrenci deneyi için Uzay İstasyonu'na gönderdiği dört Painted Lady tırtılı, yerçekimsiz ortamda beslendi ve krizalit oluşturdu. Raporlara göre dört tırtıl da metamorfozunu tamamlayarak yetişkin kelebeğe dönüştü.",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/uzaya-gonderilen-4-tirtilin-sasirtici-yolculugu-dordu-de-kelebege-donustu-3909764",
-      "publishedAt": "Wed, 02 Sep 2026 11:03:01 GMT"
-    },
-    {
-      "title": "Yapay zekaya güvendi, ekinini kaybetti!",
-      "summary": "Çin'in Chuzhou kentinde 67 yaşındaki bir çiftçi, aylardır kullandığı yapay zekanın önerdiği ilaç karışımını uzmana danışmadan uyguladı. Bir gecede yaklaşık 100 bin metrekarelik susam ekinini kaybetti.",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/yapay-zekaya-guvendi-bir-gecede-100-bin-metrekarelik-ekinini-kaybetti-3909741",
-      "publishedAt": "Wed, 02 Sep 2026 09:16:11 GMT"
-    },
-    {
-      "title": "500 öğrenciye aylık 13 bin 750 TL burs verilecek",
-      "summary": "Enerji ve Tabii Kaynaklar Bakanlığı tarafından üniversite öğrencilerine yönelik hazırlanan başarı bursu için başvuru süreci 1 Eylül itibarıyla başladı. TENMAK Yurt İçi Lisans Başarı Bursu Programı başvuruları 15 Eylül’de sona erecek. 2025 v",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/tenmak-burs-basvuru-ekrani-2026-500-ogrenciye-aylik-13-bin-750-tl-burs-verilecek-enerji-ve-tabii-kaynaklar-bakanligi-burs-basvurusu-nasil-yapilir-sartlari-neler-3909711",
-      "publishedAt": "Wed, 02 Sep 2026 07:50:47 GMT"
-    },
-    {
-      "title": "Sınıf belirleme kura sonuçları açıklandı mı?",
-      "summary": "Sınıf belirleme kura süreci ile ilgili araştırmalar hız kazandı. Milli Eğitim Bakanlığı’nın (MEB) 2026-2027 eğitim öğretim yılı çalışma takvimine göre uyum eğitimleri, 7-11 Eylül 2026 tarihleri arasında gerçekleştirilecek. Uyum haftası önce",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/sinif-belirleme-kura-sonuclari-sorgulama-2026-2027-meb-1-sinif-ve-5-sinif-sube-belirleme-kura-cekimi-ne-zaman-yapilacak-kura-sonuclari-nereden-ogrenilir-3909688",
-      "publishedAt": "Wed, 02 Sep 2026 11:19:37 GMT"
-    },
-    {
-      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-      "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "summary": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 10:04:28 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 15:33:19 GMT"
     },
     {
-      "title": "Why US troops have a history in this raucous Thai city",
-      "summary": "The BBC's Jonathan Head looks at the historical echoes of US troops arriving in Pattaya, a beach resort famous for its racy bars.",
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 07:18:39 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 17:33:45 GMT"
     },
     {
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 10:00:08 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 16:49:00 GMT"
     },
     {
       "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
@@ -172,116 +172,116 @@
       "publishedAt": "Wed, 02 Sep 2026 11:47:11 GMT"
     },
     {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
+      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
+      "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 13:04:47 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 10:04:28 GMT"
     },
     {
-      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-      "summary": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
+      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+      "summary": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 12:33:15 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 17:05:09 GMT"
     },
     {
-      "title": "Charlie Kirk murder suspect pleads not guilty to murder charge",
-      "summary": "Charlie Kirk murder suspect pleads not guilty to murder charge",
+      "title": "Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say",
+      "summary": "Police say no indication anyone ​else involved in attack that killed 22-year-old Italian woman.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/charlie-kirk-murder-suspect-pleads-not-guilty-to-murder-charge?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 12:57:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss",
+      "publishedAt": "Wed, 02 Sep 2026 17:43:01 +0000"
     },
     {
-      "title": "Putin and Zelenskyy issue threats as strikes rock Ukraine, Russia",
-      "summary": "Putin accuses Zelenskyy of 'terrorism', while Ukraine warns foreign airlines against using Russian airspace.",
+      "title": "Over 500 students hospitalised after eating state-supplied meals in Indones",
+      "summary": "More than 500 students in Indonesia were hospitalised with food poisoning on Tuesday.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 12:55:42 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/over-500-students-hospitalised-after-eating-state-supplied-meals-in-indones?traffic_source=rss",
+      "publishedAt": "Wed, 02 Sep 2026 17:37:29 +0000"
     },
     {
-      "title": "Bodies excavated from worst flood-hit district near Nepal-China border",
-      "summary": "Bodies are being excavated from the mud in Nepal's Rusawa district, which was devastated by the glacial flood.",
+      "title": "A year into Trump’s boat strike campaign, families search for answers",
+      "summary": "While the Trump administration claims it has killed 'narcoterrorists', families fear fishermen are among the victims.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/bodies-excavated-from-worst-flood-hit-district-near-nepal-china-border?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 12:53:27 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/2/a-year-into-trumps-boat-strike-campaign-families-search-for-answers?traffic_source=rss",
+      "publishedAt": "Wed, 02 Sep 2026 17:35:32 +0000"
     },
     {
-      "title": "What is Iran’s Castle Breaker missile, used against US bases?",
-      "summary": "Kheibar Shekan, Iran's medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.",
+      "title": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
+      "summary": "Activists say four organisers of flotilla that sought to break Gaza blockade have been held in Tunisia since March.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 12:38:39 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
+      "publishedAt": "Wed, 02 Sep 2026 17:10:17 +0000"
     },
     {
-      "title": "Palestinian landowners confront bulldozers using their hands",
-      "summary": "Palestinian landowners confront bulldozers using their hands",
+      "title": "US oil giant Chevron to expand Venezuela operations",
+      "summary": "Chevron, the only US oil firm with major presence in Venezuela, said it has got extra acreage and will double output.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/palestinian-landowners-confront-bulldozers-using-their-hands?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 12:14:45 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss",
+      "publishedAt": "Wed, 02 Sep 2026 16:57:22 +0000"
     },
     {
-      "title": "Killing at Sea",
-      "summary": "Three families, two bombings and a hidden war: uncovering the lives behind Operation Southern Spear's dead.",
+      "title": "Uber lays off 3,300 employees in largest cuts since the pandemic",
+      "summary": "The layoffs aim to streamline management layers and simplify team structures, says Uber’s CEO Dara Khosrowshahi.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/fault-lines/2026/9/2/killing-at-sea?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 12:00:00 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss",
+      "publishedAt": "Wed, 02 Sep 2026 16:55:52 +0000"
     },
     {
-      "title": "New lawsuits claim OpenAI execs put image ahead of safety in Canadian mass shooting",
-      "summary": "The suits say that recommendations to alert police about the alleged shooter were nixed by the OpenAI's global affairs team, led by veteran political strategist Chris Lehane. OpenAI denies the claims.",
+      "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+      "summary": "If the high court accepts the petition, it would tee up a case with sweeping implications for prediction markets, an industry that has unleashed billions of dollars of betting across nearly every aspect of modern life.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
-      "publishedAt": "Wed, 02 Sep 2026 08:22:42 -0400"
+      "link": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
+      "publishedAt": "Wed, 02 Sep 2026 14:17:19 -0400"
     },
     {
-      "title": "Whatever happened to ... children infected with HIV due to failures in healthcare?",
-      "summary": "For years, Pakistan has seen cases of children infected with HIV due to unsafe treatment in clinics and hospitals. A current outbreak numbers hundreds of cases. Why does this problem keep occurring?",
+      "title": "New immigration court tactic leads to huge lines and chaos in Miami",
+      "summary": "Chaos unfolds at the Miami immigration court after judges are assigned mega master calendars, hearings where judges see more than 100 immigrants at once.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/02/g-s1-140934/hiv-aids-children-pakistan",
-      "publishedAt": "Wed, 02 Sep 2026 07:58:51 -0400"
+      "link": "https://www.npr.org/2026/09/02/nx-s1-5951523/immigration-court-miami-backlog-mega-master",
+      "publishedAt": "Wed, 02 Sep 2026 12:42:48 -0400"
     },
     {
-      "title": "India's prime minister is wooing the GenZ while cracking down on them",
-      "summary": "Over two months, protesters, most who appeared to be digitally-savvy GenZ, used social media to organize. Government's efforts to respond spotlight how the ruling party appears to be playing catch-up.",
+      "title": "Understanding the tech giants' oversized influence in American schools",
+      "summary": "Big tech companies like Apple and Microsoft use devices, training and conferences for teachers and students to embed in schools. The New York Times' Natasha Singer discusses the impact in Coding Kids.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/02/g-s1-141512/india-genz-protests",
-      "publishedAt": "Wed, 02 Sep 2026 07:11:04 -0400"
+      "link": "https://www.npr.org/2026/09/02/nx-s1-5953878/understanding-the-tech-giants-oversized-influence-in-american-schools",
+      "publishedAt": "Wed, 02 Sep 2026 12:08:31 -0400"
     },
     {
-      "title": "ICE says it now has enough body cameras. And, Congress averts shutdown before midterms",
-      "summary": "Immigration and Customs Enforcement says it now has enough body cameras to equip all of its agents. And, Congress votes to fund the government, averting a government shutdown ahead of the midterms.",
+      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
+      "summary": "The six-month war has led to a spike in oil prices, roiled the global economy and posed increasing political problems for President Trump's Republican Party ahead of November midterm elections.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/02/g-s1-141513/up-first-newsletter-iran-war-ice-body-cameras-massachusetts-ed-markey-government-shutdown",
-      "publishedAt": "Wed, 02 Sep 2026 07:08:04 -0400"
+      "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
+      "publishedAt": "Wed, 02 Sep 2026 11:18:09 -0400"
     },
     {
-      "title": "How will tariffs affect the midterms? In this Michigan border town, it's complicated",
-      "summary": "The recent trade war between the U.S. and Canada has both economic and political implications for Michigan given it's the state's top trade partner.",
+      "title": "Greetings from the Royal Pavilion, a stunning reminder of India in southern England",
+      "summary": "Looking up at this 18th century building, it became clear the British didn't only bring their architectural style to India. They also took some of India's style home.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/02/nx-s1-5947963/tariffs-tariffs-voters-michigan-upper-peninsula-trump",
-      "publishedAt": "Wed, 02 Sep 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/09/02/nx-s1-5952243/royal-pavilion-brighton-england-architecture-india",
+      "publishedAt": "Wed, 02 Sep 2026 10:30:36 -0400"
     },
     {
-      "title": "Israel bars U.S. citizens over criticism and ties to Palestinian activists, lawyers say",
-      "summary": "Travelers from the U.S. and other nations are denied entry to Israel after interrogations about their links to Palestinians, plans to visit the occupied West Bank and opinions of Israel, lawyers say.",
+      "title": "Chevron to expand in Venezuela, days after the U.S. and Venezuela strike oil deal",
+      "summary": "Chevron is the largest foreign oil operator in Venezuela. The deal will expand its footprint at a time of political and economic uncertainty for Venezuela.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/02/nx-s1-5950449/israel-bars-americans-over-palestinian-ties",
-      "publishedAt": "Wed, 02 Sep 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/09/02/nx-s1-5952190/chevron-venezuela-oil-deal",
+      "publishedAt": "Wed, 02 Sep 2026 10:08:03 -0400"
     },
     {
       "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
@@ -320,7 +320,7 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 28,
+      "tempC": 23,
       "description": "mainly clear",
       "high": 29,
       "low": 21
