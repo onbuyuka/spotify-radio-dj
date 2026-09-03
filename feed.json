@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-02T22:57:53.488Z",
+  "updated": "2026-09-03T02:49:37.420Z",
   "news": [
+    {
+      "title": "BBC işgal altındaki Lübnan'da son durumu inceledi",
+      "summary": "BBC ekibi, İsrail birliklerinin mevzilerini güçlendirdiğini ve yıkımlara devam ettiğini söyleyen BM barış gücünün insani yardım misyonuna katıldı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/clyrd4955q2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 03 Sep 2026 02:01:26 GMT"
+    },
     {
       "title": "Tuğberk İmamoğlu yük gemisinin battığı kazaya dair ne biliyoruz?",
       "summary": "Marmara Denizi'nde 2 Eylül sabahı iki geminin çarpışması sonucu ALSU adlı tankerin çarptığı Tuğberk İmamoğlu adlı yük gemisi battı, mürettebatından haber alınamıyor. Konuya dair Silivri Başsavcılığı tarafından soruşturma açıldı. Uzmanlar, k",
@@ -18,22 +26,6 @@
       "publishedAt": "Wed, 02 Sep 2026 21:42:18 GMT"
     },
     {
-      "title": "Türkiye-İsrail gerilimi: Bölgesel rekabette çatışma riski var mı?",
-      "summary": "İsrail'in Suriye'deki Ebu Zuhur Üssü'ne iki hafta önce düzenlediği saldırı ve ardından yapılan karşılıklı sert açıklamalar Türkiye–İsrail ilişkilerinde gerilimi yeniden artırdı. Peki iki ülke arasında kısa vadede askeri çatışma ihtimali var",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cyvzenl81eno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 11:28:39 GMT"
-    },
-    {
-      "title": "İran: ABD düğüne saldırarak savaş suçu işledi",
-      "summary": "ABD Merkez Komutanlığı (CENTCOM), Amerikan güçlerinin 1 Eylül Salı günü İran'a yönelik saldırıları yeniden başlattığını bildirdi. İran, ABD'nin bir düğün evini bombalayarak savaş suçu işlediğini açıkladı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 14:45:50 GMT"
-    },
-    {
       "title": "Kademeli emeklilik nedir, hükümetin bu yönde bir hazırlığı var mı?",
       "summary": "Çalışanların \"kademeli emeklilik\" talebi, son haftalarda iktidar ve Çalışma ve Sosyal Güvenlik Bakanlığı ile yapılan görüşmelerin ardından yeniden tartışılmaya başladı.",
       "source": "BBC Türkçe",
@@ -42,12 +34,27 @@
       "publishedAt": "Wed, 02 Sep 2026 13:40:31 GMT"
     },
     {
-      "title": "Üsküdar Belediyesi başkan vekili seçimi 5 Eylül'de tekrarlanacak",
-      "summary": "İstanbul 2. İdare Mahkemesi, Üsküdar Belediye Meclisi'nde 5 Ağustos'ta yapılan ve Sibel Tan Çetinkaya'nın başkan vekili seçildiği oylamaya ilişkin yürütmenin durdurulmasına karar verdi.",
+      "title": "Kendi kendine uçan uçaklar havacılığı dönüştürecek mi?",
+      "summary": "Otonom zirai ilaçlama uçakları, pilotsuz uçuş alanında öncü rol oynuyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cz7dn28e0y4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 15:32:17 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cd685edy948o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 02 Sep 2026 23:24:08 GMT"
+    },
+    {
+      "title": "Yedikleriniz ruh halinizi etkiliyor olabilir: Deneyebileceğiniz 4 şey",
+      "summary": "Yedikleriniz her ruh sağlığı sorununu çözmez. Ancak araştırmalar kan şekeri düşüşlerinden bağırsak sağlığına kadar çeşitli etkenler sayesinde beslenmenin ruh hali ve stres üzerinde şaşırtıcı bir etkisi olabileceğini gösteriyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c3ren0znvd7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 03 Sep 2026 00:04:40 GMT"
+    },
+    {
+      "title": "Şarampole devrilen aracın sürücüsü öldü",
+      "summary": "Ümraniye'de şarampole yuvarlanarak ters dönen otomobilin sürücüsü hayatını kaybetti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-03T05:00:41+03:00"
     },
     {
       "title": "Kardeşlerin bıçaklı kavgası. 1 ölü, 1 yaralı",
@@ -61,7 +68,7 @@
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 03 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-03T01:30:00+03:00"
+      "publishedAt": "2026-09-03T05:30:00+03:00"
     },
     {
       "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
@@ -85,19 +92,20 @@
       "publishedAt": "2026-09-02T20:15:31+03:00"
     },
     {
-      "title": "Bahçeli’den Amedspor araştırmasına tepki. ''Spor, kimlik siyasetine alet edilmemeli''",
-      "summary": "MHP lideri Devlet Bahçeli, Amedspor taraftarlığına ilişkin araştırmaya tepki göstererek, çalışmanın “bölücülüğü zinde tutmaya” hizmet ettiğini söyledi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-02T19:36:37+03:00"
-    },
-    {
       "title": "Enflasyon rakamları ne zaman açıklanacak?",
       "summary": "Ağustos ayı enflasyon rakamları için gözler TÜİK'ten gelecek son dakika açıklamalarına çevrildi. Ağustos ayı enflasyon oranları, fiyat değişimlerinin yanı sıra kira artış oranı ve yılın ikinci yarısındaki enflasyon görünümü açısından da öne",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/enflasyon-oranlari-ne-zaman-aciklanacak-tuik-ile-2026-agustos-enflasyon-rakamlari-saat-kacta-aciklanacak-3909883",
       "publishedAt": "Wed, 02 Sep 2026 21:56:26 GMT"
+    },
+    {
+      "title": "Kamyon şoförlüğünün görünmeyen yüzünü anlattı",
+      "summary": "İspanya'da üç yıldır kamyon kullanan Ainoa Blasco, direksiyon başında yaşadığı anksiyete krizini ve taşımacılığın kimsenin sormadığı yükünü anlattı.",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/uc-yildir-direksiyon-basinda-kamyon-soforlugunun-gorunmeyen-yuzunu-anlatti-3909872",
+      "publishedAt": "Wed, 02 Sep 2026 22:48:53 GMT"
     },
     {
       "title": "Emekli oldu bir yılını dünyayı gezerek geçirdi",
@@ -132,14 +140,6 @@
       "publishedAt": "Wed, 02 Sep 2026 21:39:43 GMT"
     },
     {
-      "title": "Şans Topu sonuçları açıklandı",
-      "summary": "Şans Topu'nda heyecan haftanın ilk çekilişi ile başladı. Haftada iki kez düzenlenen Şans Topu çekilişinde bu hafta da büyük ikramiye heyecanı yaşandı. Kuponlarını dolduranlar, çekilişin ardından kazandıran numaraları kontrol etmek için sonu",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/sans-topu-sonuclari-aciklandi-2-eylul-2026-carsamba-sans-topu-cekilis-sonucu-sorgulama-ekrani-3909830",
-      "publishedAt": "Wed, 02 Sep 2026 21:40:21 GMT"
-    },
-    {
       "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
       "summary": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
       "source": "BBC World",
@@ -161,7 +161,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 02 Sep 2026 16:49:00 GMT"
+      "publishedAt": "Thu, 03 Sep 2026 02:46:10 GMT"
     },
     {
       "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
@@ -188,52 +188,52 @@
       "publishedAt": "Wed, 02 Sep 2026 19:05:31 GMT"
     },
     {
-      "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
-      "summary": "Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.",
+      "title": "Exclusive access as the search for Nepal’s tunnel workers intensifies",
+      "summary": "Al Jazeera’s Jessica Washington gets exclusive access to rescue crews in Rasuwa, Nepal, digging and blasting.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 22:15:32 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/exclusive-access-as-the-search-for-nepals-tunnel-workers-intensifies?traffic_source=rss",
+      "publishedAt": "Thu, 03 Sep 2026 01:53:40 +0000"
     },
     {
-      "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
-      "summary": "Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran.",
+      "title": "Trump threatens more strikes as death toll in Iran rises to 18",
+      "summary": "Trump says US can hit Iran 'anytime we want' as Tehran says deadly strikes, including on wedding party, a war crime.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 21:37:41 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
+      "publishedAt": "Thu, 03 Sep 2026 01:45:32 +0000"
     },
     {
-      "title": "Israeli PM says Israel is working to overthrow Iran’s government",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.",
+      "title": "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges",
+      "summary": "Former Venezuelan leader was abducted by US forces during a military attack on Caracas in January.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 21:23:55 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/3/venezuelas-maduro-asserts-immunity-in-us-court-urges-dismissal-of-charges?traffic_source=rss",
+      "publishedAt": "Thu, 03 Sep 2026 01:22:21 +0000"
     },
     {
-      "title": "Children return to school in DR Congo amid growing concerns over Ebola",
-      "summary": "Children return to school in DR Congo amid growing concerns over Ebola",
+      "title": "US Congress rejects constitutional amendment to restrict Supreme Court size",
+      "summary": "Republican Mike Johnson slams Democrats for voting against 'defending the integrity' of the court.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 21:21:36 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/3/us-congress-rejects-constitutional-amendment-to-restrict-supreme-court-size?traffic_source=rss",
+      "publishedAt": "Thu, 03 Sep 2026 01:06:24 +0000"
     },
     {
-      "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
-      "summary": "Israel Katz says 'there is no real solution for Gaza' without de-populating the territory.",
+      "title": "Morocco’s ruling allies turn on each other before election campaign begins",
+      "summary": "Political tensions rise as Moroccans prepare for the polls, with the official campaign start still days away.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 21:19:32 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/3/moroccos-ruling-allies-turn-on-each-other-before-election-campaign-begins?traffic_source=rss",
+      "publishedAt": "Thu, 03 Sep 2026 00:52:49 +0000"
     },
     {
-      "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
-      "summary": "Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.",
+      "title": "US judge blocks Trump’s latest effort to limit birthright citizenship",
+      "summary": "Ruling follows a 6-3 decision from the Supreme Court that found Trump's effort to limit birthright citizenship illegal.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
-      "publishedAt": "Wed, 02 Sep 2026 20:59:46 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/3/us-judge-blocks-trumps-latest-effort-to-limit-birthright-citizenship?traffic_source=rss",
+      "publishedAt": "Thu, 03 Sep 2026 00:33:06 +0000"
     },
     {
       "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case",
@@ -316,11 +316,19 @@
       "publishedAt": "Mon, 31 Aug 2026 11:54:16 GMT"
     }
   ],
-  "sports": [],
+  "sports": [
+    {
+      "league": "La Liga",
+      "home": "Real Sociedad",
+      "away": "Celta Vigo",
+      "status": "upcoming",
+      "date": "2026-09-03"
+    }
+  ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 22,
+      "tempC": 21,
       "description": "mainly clear",
       "high": 28,
       "low": 21
@@ -329,8 +337,8 @@
       "place": "London",
       "tempC": 19,
       "description": "overcast",
-      "high": 21,
-      "low": 17
+      "high": 25,
+      "low": 19
     }
   ],
   "facts": [
