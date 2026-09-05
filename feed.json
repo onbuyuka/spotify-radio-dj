@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T17:07:07.473Z",
+  "updated": "2026-09-05T19:53:42.204Z",
   "news": [
     {
       "title": "Avrupa Voleybol Şampiyonası: Türkiye Sırbistan'ı 3-0 yenerek finale yükseldi",
@@ -50,6 +50,20 @@
       "publishedAt": "Fri, 04 Sep 2026 11:23:25 GMT"
     },
     {
+      "title": "Avukatlara silah ruhsatında indirim",
+      "summary": "Avukatlara silah ruhsatı indirimi Silah ruhsatı harçları Adalet Bakanı avukatlara silah indirimi açıklaması",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-05T21:45:51+03:00"
+    },
+    {
+      "title": "Fenerbahçe-Beşiktaş derbisi öncesi yasa dışı bahis operasyonu",
+      "summary": "Fenerbahçe - Beşiktaş derbisi öncesi yasa dışı bahis operasyonu düzenlendi. 98 bin internet sitesine erişim engeli getirildi, bin 200 banka hesabına el konuldu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-05T20:06:38+03:00"
+    },
+    {
       "title": "Sosyal medyada müstehcen içerik operasyonu. Tuğba Ekinci dahil 5 kişi gözaltına alındı",
       "summary": "Sosyal medya üzerinden ücret karşılığı müstehcen içerik paylaştıkları tespit edilen 5 kişi gözaltına alındı. Gözaltına alınanlar arasında Tuğba Ekinci de var.",
       "source": "NTV",
@@ -72,32 +86,34 @@
     },
     {
       "title": "Üsküdar Belediyesi'ne operasyonda yeni gelişme",
-      "summary": "CHP'li Üsküdar Belediyesi'ne yolsuzluk suçlamasıyla başlatılan operasyonda gözaltına alınan Belediye Başkan Yardımcısı Amine Cansu Çelik, adliyeye sevk edildi.",
+      "summary": "CHP'li Üsküdar Belediyesi'ne yolsuzluk suçlamasıyla başlatılan operasyonda gözaltına alınan Belediye Başkan Yardımcısı Amine Cansu Çelik için tutuklama talep edildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-05T16:28:11+03:00"
+      "publishedAt": "2026-09-05T22:16:15+03:00"
     },
     {
-      "title": "Bilim merkezi yapılan yolcu uçağı alev topuna döndü: Kopan kuyruk itfaiyenin üzerine düştü",
-      "summary": "Kocaeli'de havacılık merkezi olarak kullanılan yolcu uçağı alev alev yandı. Uçağın kuyruk kısmı koparak itfaiye aracının üzerine düştü.",
-      "source": "NTV",
+      "title": "KPSS ne zaman, saat kaçta?",
+      "summary": "Kamu personeli olmak isteyen adaylar için KPSS lisans sınavı hafta sonu uygulanacak. Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından gerçekleştirilen 2026 KPSS Lisans Genel Yetenek-Genel Kültür oturum tarihi ve soru dağılımı netleşti.",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-05T15:54:15+03:00"
+      "link": "https://www.haberturk.com/bilgi/foto/kpss-ne-zaman-saat-kacta-kpss-lisans-sinavi-tarihi-saati-ve-oturum-bilgisi-3910539",
+      "publishedAt": "Sat, 05 Sep 2026 18:54:37 GMT"
     },
     {
-      "title": "Bursa'da orman yangını",
-      "summary": "Bursa'nın Orhaneli ilçesinde çıkan orman yangını havadan ve karadan müdahaleyle kontrol altına alındı.",
-      "source": "NTV",
+      "title": "Emekli promosyon kampanyası güncellendi",
+      "summary": "Eylül ayında emekli promosyon kampanyası güncellendi. Yılın dokuzuncu ayına girilmesiyle birlikte emekliler için önemli bir gelir desteği haline gelen banka promosyonlarında yarış kızıştı. Hangi bankanın ne kadar ödeme yaptığını merak eden ",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-05T16:46:57+03:00"
+      "link": "https://www.haberturk.com/bilgi/foto/emekli-promosyon-kampanyasi-guncellendi-eylul-2026-en-yuksek-emekli-promosyon-veren-banka-hangisi-ve-ne-kadar-3910531",
+      "publishedAt": "Sat, 05 Sep 2026 19:15:18 GMT"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı mı?",
-      "summary": "Milli Piyango Sayısal Loto sonuçları için heyecanlı bekleyiş sürüyor. Kazandıran numaraların kendilerine çıkmasını isteyen şans oyunu tutkunları Milli Piyango Online MPİ bilet sorgulama ekranı üzerinden sorgulama yapabiliyor. Çılgın Sayısal",
+      "title": "Sayısal Loto sonuçları açıklandı!",
+      "summary": "Milli Piyango Sayısal Loto sonuçları için heyecanlı bekleyiş sona erdi. Kazandıran numaraların kendilerine çıkmasını isteyen şans oyunu tutkunları Milli Piyango Online MPİ bilet sorgulama ekranı üzerinden sorgulama yapabiliyor. Çılgın Sayıs",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/sayisal-loto-sonuclari-aciklandi-mi-5-eylul-mpi-cilgin-sayisal-loto-cekilis-sonuclari-bilet-sorgulama-ekrani-3910521",
-      "publishedAt": "Sat, 05 Sep 2026 16:33:23 GMT"
+      "publishedAt": "Sat, 05 Sep 2026 18:52:29 GMT"
     },
     {
       "title": "Serhat Kılıç'ın biyografisi",
@@ -105,15 +121,15 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/serhat-kilic-kimdir-serhat-kilic-neden-oldu-hastaligi-var-mi-hangi-dizi-ve-filmlerde-rol-aldi-3910520",
-      "publishedAt": "Sat, 05 Sep 2026 16:37:15 GMT"
+      "publishedAt": "Sat, 05 Sep 2026 18:31:58 GMT"
     },
     {
-      "title": "Fenerbahçe Beşiktaş maçı hangi kanalda yayınlanacak?",
-      "summary": "Futbol tutkunları Fenerbahçe Beşiktaş maçı canlı izle ekranına ulaşmaya çalışıyor. Süper Lig'in 5'inci hafta karşılaşmasında derbi heyecanı yaşanırken Beşiktaş, Fenerbahçe karşısında sahaya siyah forma ve siyah şort ile çıkıyor. Sarı lacive",
+      "title": "Fenerbahçe Beşiktaş maç sonucu",
+      "summary": "Futbol tutkunları Fenerbahçe Beşiktaş maç sonucunu merak ediyor. Süper Lig'in 5'inci hafta karşılaşmasında derbi heyecanı sona ererken Beşiktaş, Fenerbahçe karşısında sahaya siyah forma ve siyah şort ile çıktı. Sarı lacivertli takım oyuncul",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/fenerbahce-besiktas-maci-canli-izle-takip-et-fenerbahce-besiktas-maci-hangi-kanalda-saat-kacta-yayinlanacak-muhtemel-11ler-kim-3910514",
-      "publishedAt": "Sat, 05 Sep 2026 16:35:21 GMT"
+      "publishedAt": "Sat, 05 Sep 2026 19:23:45 GMT"
     },
     {
       "title": "Filenin Sultanları final rakibi kim oldu?",
@@ -121,39 +137,23 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/filenin-sultanlari-final-rakibi-2026-turkiye-2026-cev-avrupa-sampiyonasi-final-rakibi-kim-oldu-hangi-takimla-eslesti-filenin-sultanlari-final-maci-ne-zaman-3910511",
-      "publishedAt": "Sat, 05 Sep 2026 16:33:56 GMT"
+      "publishedAt": "Sat, 05 Sep 2026 17:51:34 GMT"
     },
     {
-      "title": "Mercan Köşk dizisi nerede çekiliyor?",
-      "summary": "ATV’nin yeni dizisi Mercan Köşk, 5 Eylül Cumartesi akşamı ilk bölümüyle ekran macerasına başlıyor. Kubilay Aka ve Hafsanur Sancaktutan’ın başrollerini paylaştığı Mercan Köşk dizisinin çekim yerleri izleyiciler tarafından merak ediliyor. Öze",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/mercan-kosk-dizisi-nerede-cekiliyor-atvnin-yeni-dizisi-mercan-kosk-setleri-nerede-portakal-bahceleri-hangi-il-ve-ilcede-mercan-koskun-cekim-yerleri-3910507",
-      "publishedAt": "Sat, 05 Sep 2026 14:39:40 GMT"
-    },
-    {
-      "title": "Gönül Dağı yeni sezon oyuncuları",
-      "summary": "TRT 1’in uzun soluklu dizisi Gönül Dağı yeni sezonu ile dönüyor. Köprü Film imzalı dizinin yedinci sezonunda hikaye büyük ölçüde değişti. Sezon arasında bazı oyuncular yapıma veda ederken, kadroya yeni isimler dahil oldu. Tam 15 yıllık zama",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/gonul-dagi-yeni-sezon-oyunculari-kimler-kadroya-hangi-oyuncular-katildi-kimler-veda-etti-iste-gonul-dagi-7-sezon-oyuncu-kadrosu-3910499",
-      "publishedAt": "Sat, 05 Sep 2026 14:41:09 GMT"
-    },
-    {
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "summary": "The tit-for-tat strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 16:53:43 GMT"
-    },
-    {
-      "title": "US envoys in Moscow ahead of Ukraine talks",
-      "summary": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
+      "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 16:57:15 GMT"
+      "publishedAt": "Sat, 05 Sep 2026 19:01:31 GMT"
+    },
+    {
+      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+      "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 18:48:37 GMT"
     },
     {
       "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
@@ -188,52 +188,52 @@
       "publishedAt": "Sat, 05 Sep 2026 09:12:48 GMT"
     },
     {
-      "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
-      "summary": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
+      "title": "Jerusalem Daily: raids, settlers & sieges",
+      "summary": "Mike Huckabee visits as settlers attack Palestinians, Israeli forces carry out raids and arrests.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 16:17:47 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
+      "publishedAt": "Sat, 05 Sep 2026 19:37:10 +0000"
     },
     {
-      "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
-      "summary": "Israeli Defence Ministry asserts operational control over strategic highland; Hezbollah yet to comment.",
+      "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
+      "summary": "The Trump administration has sought to expand third-country deportations, with more than 30 deals struck so far.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 16:04:01 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss",
+      "publishedAt": "Sat, 05 Sep 2026 19:19:52 +0000"
     },
     {
-      "title": "US says it hit three Iranian oil tankers after attacks on warships",
-      "summary": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
+      "title": "Woman beaten to death as bystanders watch in India’s Gujarat",
+      "summary": "A woman was beaten to death at a crowded bus station in India, with CCTV showing bystanders watching.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 15:49:44 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss",
+      "publishedAt": "Sat, 05 Sep 2026 19:13:29 +0000"
     },
     {
-      "title": "Israeli campaign of West Bank destruction moves on to region’s food basket",
-      "summary": "Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank.",
+      "title": "Shoppers interact with Hong Kong’s first robot shopkeeper",
+      "summary": "Humanoid robots have begun serving shoppers at convenience stores in Hong Kong.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 15:37:12 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss",
+      "publishedAt": "Sat, 05 Sep 2026 18:57:56 +0000"
     },
     {
-      "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
-      "summary": "Rescues fuel hope more could be found alive as Nepal's flood death toll passes 1,331, with people missing on both sides.",
+      "title": "Two pilots killed after Greek fighter jet crashes during an air show",
+      "summary": "Greek authorities say that the two pilots onboard an F-4 Phantom fighter jet have been killed after it crashed.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 15:33:02 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss",
+      "publishedAt": "Sat, 05 Sep 2026 18:44:41 +0000"
     },
     {
-      "title": "Multipolarity gives middle powers more choices, but fewer guarantees",
-      "summary": "BRICS, SCO and other organisations can offer relief from great power pressure but do not provide collective defence.",
+      "title": "Thousands protest in Croatia to demand government clean up toxic waste",
+      "summary": "Demonstrators in Zagreb accuse Croatia's government of dragging its feet on a hazardous waste scandal.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 14:51:08 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss",
+      "publishedAt": "Sat, 05 Sep 2026 18:42:08 +0000"
     },
     {
       "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
@@ -260,6 +260,14 @@
       "publishedAt": "Sat, 05 Sep 2026 07:43:24 -0400"
     },
     {
+      "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
+      "summary": "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
+      "publishedAt": "Sat, 05 Sep 2026 07:43:14 -0400"
+    },
+    {
       "title": "Whatever happened to the floating schools of Bangladesh?",
       "summary": "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?",
       "source": "NPR",
@@ -276,12 +284,12 @@
       "publishedAt": "Sat, 05 Sep 2026 07:08:57 -0400"
     },
     {
-      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-      "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.",
-      "source": "NPR",
+      "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
+      "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffick drugsAn Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-      "publishedAt": "Sat, 05 Sep 2026 05:00:00 -0400"
+      "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
+      "publishedAt": "Sat, 05 Sep 2026 18:00:15 GMT"
     },
     {
       "title": "UN votes to adopt new world map that shows Africa’s true scale",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/sep/03/victims-sue-south-african-government-sharpeville-massacre-apartheid",
       "publishedAt": "Thu, 03 Sep 2026 10:11:37 GMT"
-    },
-    {
-      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December electionsGuinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands presiden",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "publishedAt": "Wed, 02 Sep 2026 09:20:55 GMT"
     }
   ],
   "sports": [
@@ -321,8 +321,8 @@
       "league": "Süper Lig",
       "home": "Fenerbahçe",
       "away": "Beşiktaş",
-      "homeScore": 0,
-      "awayScore": 0,
+      "homeScore": 1,
+      "awayScore": 2,
       "status": "FT",
       "date": "2026-09-05"
     },
@@ -366,8 +366,26 @@
       "league": "La Liga",
       "home": "Athletic Bilbao",
       "away": "Atlético Madrid",
-      "homeScore": 2,
+      "homeScore": 3,
       "awayScore": 0,
+      "status": "FT",
+      "date": "2026-09-05"
+    },
+    {
+      "league": "La Liga",
+      "home": "Villarreal",
+      "away": "Deportivo de A Coruña",
+      "homeScore": 0,
+      "awayScore": 0,
+      "status": "FT",
+      "date": "2026-09-05"
+    },
+    {
+      "league": "La Liga",
+      "home": "Rayo Vallecano",
+      "away": "Racing de Santander",
+      "homeScore": 3,
+      "awayScore": 2,
       "status": "FT",
       "date": "2026-09-05"
     },
@@ -400,42 +418,26 @@
     },
     {
       "league": "Serie A",
-      "home": "Fiorentina",
-      "away": "Torino",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-05"
-    },
-    {
-      "league": "Serie A",
-      "home": "Inter Milan",
-      "away": "Napoli",
+      "home": "Roma",
+      "away": "Atalanta",
       "homeScore": 0,
       "awayScore": 0,
       "status": "FT",
-      "date": "2026-09-05"
-    },
-    {
-      "league": "La Liga",
-      "home": "Villarreal",
-      "away": "Deportivo de A Coruña",
-      "status": "upcoming",
       "date": "2026-09-05"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 24,
+      "tempC": 23,
       "description": "clear sky",
       "high": 30,
       "low": 21
     },
     {
       "place": "London",
-      "tempC": 23,
-      "description": "mainly clear",
+      "tempC": 21,
+      "description": "clear sky",
       "high": 23,
       "low": 13
     }
