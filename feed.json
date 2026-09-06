@@ -1,22 +1,6 @@
 {
-  "updated": "2026-09-06T02:47:59.087Z",
+  "updated": "2026-09-06T07:35:48.658Z",
   "news": [
-    {
-      "title": "Avrupa Voleybol Şampiyonası: Türkiye Sırbistan'ı 3-0 yenerek finale yükseldi",
-      "summary": "Türkiye Kadın Milli Voleybol Takımı, İstanbul Sinan Erdem Spor Salonu'nda oynanan yarı final maçında Sırbistan’ı 3-0 yendi. Avrupa Şampiyonası, 6 Eylül'deki finalle sonlanacak.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 14:48:25 GMT"
-    },
-    {
-      "title": "DEM Parti kongreye gidiyor: Kapsamlı değişim neden sonraki döneme bırakıldı?",
-      "summary": "DEM Parti, ertelenen 5. Olağan Kongresi’ni 6 Eylül’de Ankara’daki Nazım Hikmet Kültür Merkezi’nde gerçekleştirecek. Parti yönetimi, kongrenin Siyasi Partiler Yasası ve parti tüzüğünün öngördüğü süre nedeniyle yapılacağını, kapsamlı değişim ",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c980gp22g52o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 11:35:20 GMT"
-    },
     {
       "title": "Trump'ın temsilcileri Ukrayna Savaşı'nı 'sona erdirecek bir öneriyle' Moskova'da",
       "summary": "Steve Witkoff ve Jared Kushner'in 6 Eylül Pazar günü Ukrayna'ya gitmeden önce Rusya ile görüşmeler yapması bekleniyor.",
@@ -26,20 +10,36 @@
       "publishedAt": "Sat, 05 Sep 2026 16:21:51 GMT"
     },
     {
-      "title": "Saksonya-Anhalt seçimleri: Almanya için dönüm noktası, Merz için kader anı",
-      "summary": "Dikkatler, Almanya'nın Saksonya-Anhalt eyaletinde 6 Eylül Pazar günü yapılacak parlamento seçimlerine çevrildi. Anketler aşırı sağcı AfD'nin, ilk kez bir eyalet seçiminden birinci parti çıkacağına işaret ediyor. Almanya siyasetinde sarsıntı",
+      "title": "'Anneliğe layık olmadığımı söylediler': İngiltere'de bebekleri zorla evlatlık verilen 250 bin bekar kadının hikayesi",
+      "summary": "Marion McMillan, 1949 ile 1976 yılları arasında bebeklerini evlatlık vermeye zorlanan yaklaşık 250 bin kadından biriydi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c804k5e3yylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 08:45:12 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cwyzqkej2v1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 07:23:03 GMT"
     },
     {
-      "title": "Dünyanın 'en yalnız' yelken yarışında iki Türk",
-      "summary": "İki Türk yelkenci 6 Eylül'de tek başlarına, karaya hiç ayak basmadan, modern teknolojik aletlerden yardım almadan dünyanın çevresini dolaşacakları yolculuklarına çıkıyor. Dünyanın en zorlu yelken yarışlarından biri olarak anılan ve dört yıl",
+      "title": "Bir sineğin beyin haritası insan davranışlarına dair neler anlatıyor?",
+      "summary": "Erkek ve dişi sineklerin beyinleri arasındaki bir karşılaştırma, genlerin biz de dahil olmak üzere diğer hayvanların davranışlarını nasıl şekillendirdiğine dair anlayışımızı dönüştürebilir.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c99dp58n5eno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 07:22:32 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cz7z9jqv42qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 07:23:24 GMT"
+    },
+    {
+      "title": "Doğada vakit geçirmek gerçekten sağlığa faydalı mı?",
+      "summary": "Kaygıyı azaltmaktan kan basıncını düşürmeye kadar, doğada vakit geçirmenin her türlü faydası olduğu söyleniyor. Ancak yeni araştırmalar, herkesin aynı şekilde tepki vermeyebileceğini öne sürüyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cy4zly1y434o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 07:27:10 GMT"
+    },
+    {
+      "title": "'Siyasi açıdan hassas ürün': Hindistan'da soğan ekspres treni nasıl ortaya çıktı?",
+      "summary": "Hindistan'da soğan fiyatlarının hızla yükselmesi nedeniyle, temel gıda maddesi olan soğanın büyük şehirlere sevkiyatı ekspres trenle yapılıyor. Hindistan'da çok büyük miktarlarda soğan üretiliyor ve tüketiliyor; fiyat değişimlerinin geçmişt",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/clym21p7xvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 07:25:53 GMT"
     },
     {
       "title": "Tuğberk İmamoğlu: Silivri açıklarında batan geminin yeri tespit edildi",
@@ -50,46 +50,46 @@
       "publishedAt": "Fri, 04 Sep 2026 11:23:25 GMT"
     },
     {
-      "title": "Faciaya ramak kaldı",
-      "summary": "Erzurum Oltu'da sürücüsünün hakimiyetini kaybettiği tır, köprünün yanındaki boşluğa sıkışarak metrelerce yüksekten düşmekten son anda kurtuldu.",
+      "title": "İstanbul'da KPSS heyecanı",
+      "summary": "Kamu Personeli Seçme Sınavı (KPSS) Lisans Genel Yetenek-Genel Kültür oturumu için adaylar sabahın erken saatlerinden itibaren sınava girecekleri okullara gelmeye başladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-06T05:19:38+03:00"
+      "publishedAt": "2026-09-06T10:26:32+03:00"
     },
     {
-      "title": "ABD tankerleri vurdu, İran misilleme yaptı",
-      "summary": "ABD güçleri Basra Körfezi'ndeki Hark Adası yakınında 3 İran tankerini vurdu. Devrim muhafızları ise Hürmüz'den izinsiz geçen 2 petrol tankeri ve 3 ABD gemisini hedef aldı.",
+      "title": "Bugün hava nasıl olacak? İstanbul'da poyraz etkisini gösterdi: Gündüz sıcak, gece serin",
+      "summary": "İstanbul'da hafta boyunca yağış beklenmiyor. Gün içerisinde 28-31 derece aralığında seyreden sıcaklıklar sabah ve gece erken saatlerde 20 derecenin altına gerileyerek üşütmeye başlıyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-06T02:41:25+03:00"
+      "publishedAt": "2026-09-06T10:16:36+03:00"
     },
     {
-      "title": "Oyun salonuna silahlı saldırı. 3 kişi yaralandı",
-      "summary": "Diyarbakır'da henüz kimlikleri belirlenemeyen 2 kişinin video oyun salonuna düzenlediği silahlı saldırıda 3 kişi kurşunların hedefi olarak yaralandı.",
+      "title": "Uludağ'da ayı baskını: Çadırdaki aile çığlıklarla uzaklaştırdı",
+      "summary": "Bursa'da Uludağ'ın Sarıalan bölgesinde çadır kurarak kamp yapan ailenin yanına ayı geldi. Bir süre çadırların yakınında dolaşan ayı, ailenin bağırması üzerine bölgeden uzaklaştı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-06T01:48:14+03:00"
+      "publishedAt": "2026-09-06T10:06:00+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 06 Eylül 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "title": "Yol vermeyen otomobil sürücüsünün etrafını sardılar",
+      "summary": "Bursa'da motosiklet sürücüleri ile bir otomobil sürücüsü arasında yol verme meselesi nedeniyle gerginlik yaşandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-06T05:30:00+03:00"
+      "publishedAt": "2026-09-06T09:51:37+03:00"
     },
     {
-      "title": "Avukatlara silah ruhsatında indirim",
-      "summary": "Avukatlara silah ruhsatı indirimi Silah ruhsatı harçları Adalet Bakanı avukatlara silah indirimi açıklaması",
+      "title": "İstanbul Yenibosna'da mobilyalarda öğrencilere indirim yapıldı",
+      "summary": "Üniversitelerin açılmasıyla ev kurma telaşı başlayan öğrenciler, yeni atanan memurlar ve yeni evlenen çiftler için İstanbul Yenibosna'daki mobilyacılar çarşısında özel bir indirim kampanyası başladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-05T21:45:51+03:00"
+      "publishedAt": "2026-09-06T09:38:27+03:00"
     },
     {
-      "title": "Fenerbahçe-Beşiktaş derbisi öncesi yasa dışı bahis operasyonu",
-      "summary": "Fenerbahçe - Beşiktaş derbisi öncesi yasa dışı bahis operasyonu düzenlendi. 98 bin internet sitesine erişim engeli getirildi, bin 200 banka hesabına el konuldu.",
+      "title": "Resmi Gazete'de bugün (6 Eylül 2026 Resmi Gazete kararları)",
+      "summary": "Resmi Gazete'de 6 Eylül 2026 tarihli kararlar, yönetmelikler ve tebliğler yayımlandı. Resmi Gazete'de bugün neler var? İşte 6 Eylül 2026 tarihli ve 33362 Sayılı Resmi Gazete ayrıntıları.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-05T20:06:38+03:00"
+      "publishedAt": "2026-09-06T09:30:47+03:00"
     },
     {
       "title": "KPSS lisans sonuçları ne zaman açıklanacak?",
@@ -140,8 +140,8 @@
       "publishedAt": "Sat, 05 Sep 2026 21:14:50 GMT"
     },
     {
-      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
-      "summary": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+      "summary": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
@@ -161,7 +161,15 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 21:29:38 GMT"
+      "publishedAt": "Sun, 06 Sep 2026 05:04:04 GMT"
+    },
+    {
+      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "summary": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 07:06:50 GMT"
     },
     {
       "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
@@ -180,60 +188,52 @@
       "publishedAt": "Sat, 05 Sep 2026 21:00:02 GMT"
     },
     {
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 22:48:38 GMT"
-    },
-    {
-      "title": "‘People laughed at me’: Indian youth cleans up a trash-filled river",
-      "summary": "A 21-year-old student in India’s Madhya Pradesh has single-handedly cleaned up a trash-filled river.",
+      "title": "FIFA’s Infantino avoids questions on his future amid growing uncertainty",
+      "summary": "Upon arrival at the U-20 Women's World Cup, Infantino remained tight-lipped about his re-election as FIFA president.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss",
-      "publishedAt": "Sun, 06 Sep 2026 01:38:52 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/6/fifas-infantino-avoids-questions-on-his-future-amid-growing-uncertainty?traffic_source=rss",
+      "publishedAt": "Sun, 06 Sep 2026 07:10:33 +0000"
     },
     {
-      "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-      "summary": "Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies.",
+      "title": "UK has billions in contracts with firms tied to illegal Israeli settlements",
+      "summary": "Al Jazeera finds 17 settlement-linked companies hold 2.1 billion pounds in UK public contracts.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
-      "publishedAt": "Sun, 06 Sep 2026 01:02:08 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/uk-has-billions-in-contracts-with-firms-tied-to-illegal-israeli-settlements-4?traffic_source=rss",
+      "publishedAt": "Sun, 06 Sep 2026 06:52:23 +0000"
     },
     {
-      "title": "German company launches rocket as Europe enters satellite race",
-      "summary": "Isar Aerospace says its 28-metre-long Spectrum rocket blasted off into space from Andøya spaceport in Arctic Norway.",
+      "title": "Flames burst from Qantas plane engine after New Zealand takeoff",
+      "summary": "A terrifying moment unfolded aboard a Qantas flight from Queenstown to Sydney when flames erupted from its left engine.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss",
-      "publishedAt": "Sun, 06 Sep 2026 00:53:23 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/flames-burst-from-qantas-plane-engine-after-new-zealand-takeoff?traffic_source=rss",
+      "publishedAt": "Sun, 06 Sep 2026 05:02:23 +0000"
     },
     {
-      "title": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
-      "summary": "IRGC launches new strikes after firing missiles at US warships as standoff in Strait of Hormuz intensifies.",
+      "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
+      "summary": "More than 60 people, including civilians, killed as clashes between Yemeni forces and Houthis intensify in Taiz.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
-      "publishedAt": "Sun, 06 Sep 2026 00:00:00 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/6/yemeni-forces-claim-strategic-district-amid-intensified-houthi-clashes?traffic_source=rss",
+      "publishedAt": "Sun, 06 Sep 2026 05:02:17 +0000"
     },
     {
-      "title": "Fuel tanker blast in western Iran kills at least 10",
-      "summary": "At least six other people were injured in the tanker blast on Iran's Hamedan-Sanandaj highway, officials say.",
+      "title": "Israeli Prime Minister Netanyahu says ‘Qatar is a hostile state’",
+      "summary": "Israeli PM Benjamin Netanyahu has dismissed accusations about his government’s alleged ties to Qatar as ‘one big bluff’",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 23:07:48 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israeli-prime-minister-netanyahu-says-qatar-is-a-hostile?traffic_source=rss",
+      "publishedAt": "Sun, 06 Sep 2026 04:59:28 +0000"
     },
     {
-      "title": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
-      "summary": "US president has pledged more than $400m through his super PAC to boost Republican candidates in the upcoming midterms.",
+      "title": "More than 20 killed in fire at wedding party in DR Congo",
+      "summary": "Authorities have launched an investigation into a fire that killed 22 people at a wedding party in Kinshasa, DR Congo.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 22:58:33 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/more-than-20-killed-in-fire-at-wedding-party-in-dr-congo?traffic_source=rss",
+      "publishedAt": "Sun, 06 Sep 2026 04:47:55 +0000"
     },
     {
       "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
@@ -404,9 +404,16 @@
   ],
   "weather": [
     {
+      "place": "İstanbul",
+      "tempC": 25,
+      "description": "clear sky",
+      "high": 30,
+      "low": 19
+    },
+    {
       "place": "London",
-      "tempC": 16,
-      "description": "partly cloudy",
+      "tempC": 17,
+      "description": "clear sky",
       "high": 26,
       "low": 16
     }
