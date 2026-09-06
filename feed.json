@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T22:37:39.607Z",
+  "updated": "2026-09-06T02:47:59.087Z",
   "news": [
     {
       "title": "Avrupa Voleybol Şampiyonası: Türkiye Sırbistan'ı 3-0 yenerek finale yükseldi",
@@ -50,11 +50,32 @@
       "publishedAt": "Fri, 04 Sep 2026 11:23:25 GMT"
     },
     {
+      "title": "Faciaya ramak kaldı",
+      "summary": "Erzurum Oltu'da sürücüsünün hakimiyetini kaybettiği tır, köprünün yanındaki boşluğa sıkışarak metrelerce yüksekten düşmekten son anda kurtuldu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-06T05:19:38+03:00"
+    },
+    {
+      "title": "ABD tankerleri vurdu, İran misilleme yaptı",
+      "summary": "ABD güçleri Basra Körfezi'ndeki Hark Adası yakınında 3 İran tankerini vurdu. Devrim muhafızları ise Hürmüz'den izinsiz geçen 2 petrol tankeri ve 3 ABD gemisini hedef aldı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-06T02:41:25+03:00"
+    },
+    {
+      "title": "Oyun salonuna silahlı saldırı. 3 kişi yaralandı",
+      "summary": "Diyarbakır'da henüz kimlikleri belirlenemeyen 2 kişinin video oyun salonuna düzenlediği silahlı saldırıda 3 kişi kurşunların hedefi olarak yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-06T01:48:14+03:00"
+    },
+    {
       "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 06 Eylül 2026",
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-06T01:30:00+03:00"
+      "publishedAt": "2026-09-06T05:30:00+03:00"
     },
     {
       "title": "Avukatlara silah ruhsatında indirim",
@@ -69,27 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-09-05T20:06:38+03:00"
-    },
-    {
-      "title": "Sosyal medyada müstehcen içerik operasyonu. Tuğba Ekinci dahil 5 kişi gözaltına alındı",
-      "summary": "Sosyal medya üzerinden ücret karşılığı müstehcen içerik paylaştıkları tespit edilen 5 kişi gözaltına alındı. Gözaltına alınanlar arasında Tuğba Ekinci de var.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-05T19:08:30+03:00"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'ın torunu Fatıma Serra'dan \"Yine Bir Gülnihal\" yorumu",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın torunu Fatima Serra Erdoğan, Türk sanat müziğinin klasik eserlerinden \"Yine Bir Gülnihal\" eserini seslendirdi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-05T18:00:32+03:00"
-    },
-    {
-      "title": "Bakan Göktaş’tan Balkanlar Kadın Girişimcilik Ağı önerisi",
-      "summary": "Üsküp’te kadın girişimcilerle buluşan Bakan Göktaş, Türkiye ile Balkanlar arasında yatırımcıları ve girişimcileri buluşturacak ortak bir ağ kurulmasını önerdi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-05T16:49:55+03:00"
     },
     {
       "title": "KPSS lisans sonuçları ne zaman açıklanacak?",
@@ -129,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/kpss-ne-zaman-saat-kacta-kpss-lisans-sinavi-tarihi-saati-ve-oturum-bilgisi-3910539",
-      "publishedAt": "Sat, 05 Sep 2026 22:04:39 GMT"
+      "publishedAt": "Sat, 05 Sep 2026 22:27:07 GMT"
     },
     {
       "title": "Emekli promosyon kampanyası güncellendi",
@@ -140,12 +140,12 @@
       "publishedAt": "Sat, 05 Sep 2026 21:14:50 GMT"
     },
     {
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "summary": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+      "summary": "Steve Witkoff and Jared Kushner leave Moscow talks with hopes for \"equally productive meetings\" in Ukraine.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 21:39:02 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 02:24:16 GMT"
     },
     {
       "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
@@ -153,31 +153,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 22:35:35 GMT"
-    },
-    {
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 04 Sep 2026 22:48:38 GMT"
-    },
-    {
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 15:22:41 GMT"
-    },
-    {
-      "title": "Prince William to attend King Harald's funeral in Norway",
-      "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 05 Sep 2026 21:00:02 GMT"
+      "publishedAt": "Sat, 05 Sep 2026 22:44:07 GMT"
     },
     {
       "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
@@ -188,52 +164,76 @@
       "publishedAt": "Sat, 05 Sep 2026 21:29:38 GMT"
     },
     {
-      "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
-      "summary": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.",
-      "source": "Al Jazeera",
+      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "summary": "Chandika Shrestha was airlifted to hospital after spending more than 10 days in her partially buried house.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 21:23:06 +0000"
+      "link": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 06 Sep 2026 01:54:29 GMT"
     },
     {
-      "title": "Building collapses after heavy rain in northern India",
-      "summary": "A building collapsed in Muradabad, northern India, tearing through power lines and sending sparks into the street.",
-      "source": "Al Jazeera",
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 21:11:25 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 05 Sep 2026 21:00:02 GMT"
     },
     {
-      "title": "Why is Argentina reigniting the Falklands dispute?",
-      "summary": "President Javier Milei says sovereignty over the islands remains a national objective.",
-      "source": "Al Jazeera",
+      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 20:14:55 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 04 Sep 2026 22:48:38 GMT"
     },
     {
-      "title": "Everton vs Manchester United: Premier League – prediction, teams, lineups",
-      "summary": "Manchester United outspent in transfer window, but boss Michael Carrick says team ready to fire ahead of Everton trip.",
+      "title": "‘People laughed at me’: Indian youth cleans up a trash-filled river",
+      "summary": "A 21-year-old student in India’s Madhya Pradesh has single-handedly cleaned up a trash-filled river.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 20:04:30 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/people-laughed-at-me-indian-youth-cleans-up-a-trash-filled-river?traffic_source=rss",
+      "publishedAt": "Sun, 06 Sep 2026 01:38:52 +0000"
     },
     {
-      "title": "Colombian government reports three killed in rebel attack on military post",
-      "summary": "Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.",
+      "title": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
+      "summary": "Israeli PM says money he facilitated Qatar in sending to Gaza was recommended by Israeli security agencies.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 20:03:29 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
+      "publishedAt": "Sun, 06 Sep 2026 01:02:08 +0000"
     },
     {
-      "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
-      "summary": "Al Jazeera reporter challenged US Ambassador to Israel Mike Huckabee after he called violent Israeli settlers a minority",
+      "title": "German company launches rocket as Europe enters satellite race",
+      "summary": "Isar Aerospace says its 28-metre-long Spectrum rocket blasted off into space from Andøya spaceport in Arctic Norway.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
-      "publishedAt": "Sat, 05 Sep 2026 20:00:05 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/6/german-company-launches-rocket-as-europe-enters-satellite-race?traffic_source=rss",
+      "publishedAt": "Sun, 06 Sep 2026 00:53:23 +0000"
+    },
+    {
+      "title": "Iran war live: IRGC claims attacks on 3 oil tankers and 3 US-linked ships",
+      "summary": "IRGC launches new strikes after firing missiles at US warships as standoff in Strait of Hormuz intensifies.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
+      "publishedAt": "Sun, 06 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "title": "Fuel tanker blast in western Iran kills at least 10",
+      "summary": "At least six other people were injured in the tanker blast on Iran's Hamedan-Sanandaj highway, officials say.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
+      "publishedAt": "Sat, 05 Sep 2026 23:07:48 +0000"
+    },
+    {
+      "title": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
+      "summary": "US president has pledged more than $400m through his super PAC to boost Republican candidates in the upcoming midterms.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
+      "publishedAt": "Sat, 05 Sep 2026 22:58:33 +0000"
     },
     {
       "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
@@ -244,8 +244,8 @@
       "publishedAt": "Sat, 05 Sep 2026 17:01:10 -0400"
     },
     {
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
-      "summary": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
+      "title": "U.S. strikes Iranian oil tankers in retaliation for missile attacks on Navy ships",
+      "summary": "One of the Iranian tankers struck was near a key area in Iran's oil-export system, according to U.S. Central Command.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
@@ -285,7 +285,7 @@
     },
     {
       "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
-      "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffick drugsAn Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling",
+      "summary": "Sarah Khalifa, 39, charged with forming organised criminal gang to manufacture and traffic drugsAn Egyptian court sentenced a well-known television presenter and 11 others to death for manufacturing and trafficking narcotics in a sprawling ",
       "source": "The Guardian",
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
@@ -319,127 +319,96 @@
   "sports": [
     {
       "league": "Süper Lig",
-      "home": "Fenerbahçe",
-      "away": "Beşiktaş",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-05"
+      "home": "Trabzonspor",
+      "away": "Gençlerbirliği",
+      "status": "upcoming",
+      "date": "2026-09-06"
     },
     {
       "league": "Süper Lig",
-      "home": "Erzurumspor",
-      "away": "Konyaspor",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-05"
+      "home": "Kasımpaşa",
+      "away": "Amed",
+      "status": "upcoming",
+      "date": "2026-09-06"
+    },
+    {
+      "league": "Süper Lig",
+      "home": "Çorum",
+      "away": "Eyüpspor",
+      "status": "upcoming",
+      "date": "2026-09-06"
     },
     {
       "league": "Premier League",
-      "home": "Newcastle United",
-      "away": "Bournemouth",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-05"
+      "home": "Arsenal",
+      "away": "Chelsea",
+      "status": "upcoming",
+      "date": "2026-09-06"
     },
     {
       "league": "Premier League",
-      "home": "Fulham",
-      "away": "Crystal Palace",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FT",
-      "date": "2026-09-05"
-    },
-    {
-      "league": "Premier League",
-      "home": "Manchester City",
-      "away": "Coventry City",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-05"
+      "home": "Everton",
+      "away": "Manchester United",
+      "status": "upcoming",
+      "date": "2026-09-06"
     },
     {
       "league": "La Liga",
-      "home": "Athletic Bilbao",
-      "away": "Atlético Madrid",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-05"
+      "home": "Valencia",
+      "away": "Barcelona",
+      "status": "upcoming",
+      "date": "2026-09-06"
     },
     {
       "league": "La Liga",
-      "home": "Villarreal",
-      "away": "Deportivo de A Coruña",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FT",
-      "date": "2026-09-05"
+      "home": "Málaga",
+      "away": "Levante",
+      "status": "upcoming",
+      "date": "2026-09-06"
     },
     {
       "league": "La Liga",
-      "home": "Rayo Vallecano",
-      "away": "Racing de Santander",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-05"
+      "home": "Espanyol",
+      "away": "Sevilla",
+      "status": "upcoming",
+      "date": "2026-09-06"
     },
     {
       "league": "Bundesliga",
-      "home": "Werder Bremen",
-      "away": "RB Leipzig",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-05"
+      "home": "Eintracht Frankfurt",
+      "away": "Augsburg",
+      "status": "upcoming",
+      "date": "2026-09-06"
     },
     {
       "league": "Bundesliga",
-      "home": "Borussia Mönchengladbach",
-      "away": "Elversberg",
-      "homeScore": 3,
-      "awayScore": 4,
-      "status": "FT",
-      "date": "2026-09-05"
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Hoffenheim",
-      "away": "Borussia Dortmund",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FT",
-      "date": "2026-09-05"
+      "home": "Hamburg",
+      "away": "Mainz",
+      "status": "upcoming",
+      "date": "2026-09-06"
     },
     {
       "league": "Serie A",
-      "home": "Roma",
-      "away": "Atalanta",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-05"
+      "home": "Juventus",
+      "away": "AC Milan",
+      "status": "upcoming",
+      "date": "2026-09-06"
+    },
+    {
+      "league": "Serie A",
+      "home": "Bologna",
+      "away": "Sassuolo",
+      "status": "upcoming",
+      "date": "2026-09-06"
     }
   ],
   "weather": [
     {
-      "place": "İstanbul",
-      "tempC": 21,
-      "description": "clear sky",
-      "high": 31,
-      "low": 19
-    },
-    {
       "place": "London",
-      "tempC": 19,
-      "description": "clear sky",
-      "high": 23,
-      "low": 13
+      "tempC": 16,
+      "description": "partly cloudy",
+      "high": 26,
+      "low": 16
     }
   ],
   "facts": [
