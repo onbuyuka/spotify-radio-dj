@@ -1,14 +1,6 @@
 {
-  "updated": "2026-09-08T18:16:46.228Z",
+  "updated": "2026-09-08T23:10:23.560Z",
   "news": [
-    {
-      "title": "İsrail, İngiltere'nin Doğu Kudüs'teki konsolosluğunu kapatacağını açıkladı",
-      "summary": "İngiltere, işgal altındaki Batı Şeria'da bulunan İsrail yerleşimlerinde üretilen mallara yönelik bir ticaret ambargosu açıkladı. Kararın ardından İsrail İngiltere'nin Doğu Kudüs'teki konsolosluğunu kapatacağını duyurdu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c62m8pygnd9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 15:36:34 GMT"
-    },
     {
       "title": "Yunanistan İtalya'dan yüz milyonlarca euroluk savaş gemileri alıyor",
       "summary": "Yunanistan, İtalya'dan savaş gemileri almak için sözleşme imzaladı. Yunanistan Savunma Bakanı bu yeni gemilerin \"Yunan Donanması'nın temel gücü\" olacağını söyledi.",
@@ -18,12 +10,20 @@
       "publishedAt": "Tue, 08 Sep 2026 18:10:05 GMT"
     },
     {
-      "title": "Eski Diyarbakır Belediyesi Eş Başkanı Selçuk Mızraklı tahliye oldu",
-      "summary": "Yaklaşık yedi yıldır cezaevinde bulunan ve ceza süresi tamamlanan eski Diyarbakır Büyükşehir Belediyesi Eş Başkanı Selçuk Mızraklı, Edirne Cezaevi'nden tahliye oldu. Mızraklı cezaevi çıkışında yaptığı açıklamada, \"yüreklerde ve zihinlerde k",
+      "title": "İsrail, İngiltere'nin Doğu Kudüs'teki konsolosluğunu kapatacağını açıkladı",
+      "summary": "İngiltere, işgal altındaki Batı Şeria'da bulunan İsrail yerleşimlerinde üretilen mallara yönelik bir ticaret ambargosu açıkladı. Kararın ardından İsrail İngiltere'nin Doğu Kudüs'teki konsolosluğunu kapatacağını duyurdu.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c8xkvkjgnr4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 12:34:12 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c62m8pygnd9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 19:29:29 GMT"
+    },
+    {
+      "title": "Suudi Arabistan'dan Husi saldırılarına karşılık yemini",
+      "summary": "Suudi Arabistan, Yemen'deki İran destekli Husilerin ülkedeki enerji tesisleri ve sivil altyapılara onlarca İHA ve füzeyle düzenlediği saldırılarda 73 kişinin yaralandığını açıkladı. Suudi öncülüğündeki koalisyon, saldırılara karşılık verile",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cly748xzle0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 22:37:45 GMT"
     },
     {
       "title": "Üsküdar Belediyesi'nde başkan vekili seçimini AKP'nin adayı kazandı",
@@ -31,7 +31,7 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/ce8eg27y74po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 12:44:35 GMT"
+      "publishedAt": "Tue, 08 Sep 2026 21:31:27 GMT"
     },
     {
       "title": "PISA testini deneyin: 15 yaşındaki çocukları geçebilecek misiniz?",
@@ -42,102 +42,102 @@
       "publishedAt": "Tue, 08 Sep 2026 12:46:48 GMT"
     },
     {
-      "title": "15 Temmuz paylaşımı nedeniyle tutuklanan Nasuh Mahruki'nin ilk duruşması 16 Eylül'de",
-      "summary": "Sosyal medya hesabından yaptığı 15 Temmuz darbe girişimine ilişkin paylaşım nedeniyle tutuklanan Arama Kurtarma Derneği (AKUT) kurucularından Nasuh Mahruki'nin ilk duruşma tarihi belli oldu.",
+      "title": "Eski Diyarbakır Belediyesi Eş Başkanı Selçuk Mızraklı tahliye oldu",
+      "summary": "Yaklaşık yedi yıldır cezaevinde bulunan ve ceza süresi tamamlanan eski Diyarbakır Büyükşehir Belediyesi Eş Başkanı Selçuk Mızraklı, Edirne Cezaevi'nden tahliye oldu. Mızraklı cezaevi çıkışında yaptığı açıklamada, \"yüreklerde ve zihinlerde k",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cjwx3ngn3z4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 10:57:35 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c8xkvkjgnr4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 12:34:12 GMT"
     },
     {
-      "title": "Bakan Fidan, ABD'nin Ankara Büyükelçisi Barrack ve ABD Temsilciler Meclisi Üyesi Issa ile görüştü",
-      "summary": "Dışişleri Bakanı Hakan Fidan, ABD'nin Ankara Büyükelçisi, Suriye ve Irak Özel Temsilcisi Tom Barrack ve ABD Temsilciler Meclisi Üyesi Darrell Issa ile bir araya geldi.",
+      "title": "Çay bahçesi tuvaletinde gizli kamera tuzağı",
+      "summary": "Manisa'da bir çay bahçesinin tuvaletinde gizli kamera düzeneği bulundu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-08T17:21:19+03:00"
+      "publishedAt": "2026-09-09T01:35:20+03:00"
     },
     {
-      "title": "Konya'da trafikte sürücüye sopayla saldıran şahsa 380 bin lira ceza",
-      "summary": "Konya’da trafikte tartıştığı kişiye sopayla saldırmaya çalışan sürücü yakalandı. Şüpheliye 380 bin TL idari para cezası uygulanıp ehliyetine el konulurken, otomobili ise 60 gün trafikten menedildi.",
+      "title": "KKTC'de batan gemide kaybolan yolcuları aramaya özel bir şirket de katılacak",
+      "summary": "KKTC Başbakanı Ünal Üstel, Girne açıklarında batan gemiyi arama çalışmalarında derin su aramalarında uzman ve gerekli teknik kapasiteye sahip özel bir şirketin de yetkilendirildiğini duyurdu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-08T16:34:52+03:00"
+      "publishedAt": "2026-09-09T00:49:19+03:00"
     },
     {
-      "title": "KYK ek yurt başvuru tarihleri 2026-2027: KYK ek yurt başvuruları ne zaman başlayacak?",
-      "summary": "KYK yurt başvuru sonuçlarının açıklanmasıyla birlikte gözler Gençlik ve Spor Bakanlığı (GSB) KYK ek yurt başvuru takvimine çevrildi. İlk aşamada hiç bir yurda yerleşemeyen öğrenciler, kalan kontenjan durumuna göre KYK yurtlarına ek olarak y",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 09 Eylül 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 09 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-08T15:39:33+03:00"
+      "publishedAt": "2026-09-09T02:00:00+03:00"
     },
     {
-      "title": "Silivri'de umutlu bekleyiş: Tuğberk İmamoğlu gemisindeki mürettebat için çalışmalar devam ediyor",
-      "summary": "Marmara Denizi'nde Alsu isimli tankerle çarpıştıktan sonra batan Tuğberk İmamoğlu isimli geminin kayıp 10 mürettebatını arama çalışmaları sürüyor.",
+      "title": "Türkiye’den 12 ülkenin İsrail'e yönelik yaptırım kararına destek",
+      "summary": "Türkiye, 12 ülkenin işgal altındaki Batı Şeria’daki yasa dışı İsrail yerleşimleriyle ticari ve ekonomik ilişkileri yasaklamaya yönelik adımlarını memnuniyetle karşıladığını açıkladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-08T21:12:19+03:00"
+      "publishedAt": "2026-09-08T22:14:18+03:00"
     },
     {
-      "title": "Selçuk Mızraklı tahliye edildi",
-      "summary": "Eski Diyarbakır Büyükşehir Belediyesi Eş Başkanı Selçuk Mızraklı tahliye edildi.",
+      "title": "Süper Loto çekiliş sonuçları belli oldu: 8 Eylül 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
+      "summary": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikrami",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-08T15:30:30+03:00"
+      "publishedAt": "2026-09-08T21:47:02+03:00"
     },
     {
-      "title": "MSB paylaştı: \"Dikkat, bu görüntüler yapay zekanın değil\"",
-      "summary": "Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, Mısır'da gerçekleştirilen \"El Alamein International Airshow\" kapsamında Mısır Piramitleri'nin üzerinde gösteri uçuşu yaptı.",
+      "title": "Bakan Fidan’dan yoğun diplomasi trafiği",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Ankara’da Irak, KKTC, ABD, Suriye ve Türk Devletleri Teşkilatından üst düzey isimlerle bir dizi görüşme gerçekleştirdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-08T13:28:42+03:00"
+      "publishedAt": "2026-09-08T22:21:39+03:00"
     },
     {
-      "title": "TOKİ kiralık konut başvuru tarihi",
-      "summary": "TOKİ kiralık konut projesinde başvuru tarihi belli oldu. Cumhurbaşkanı Recep Tayyip Erdoğan, 7 Eylül 2026'da gerçekleştirilen Kabine Toplantısı'nın ardından İstanbul'da hayata geçirilecek 15 bin kiralık konut için başvuruların başlayacağı t",
+      "title": "Süper Loto sonuçları",
+      "summary": "Süper Loto sonuçları, 8 Eylül 2026 Salı günü gerçekleştirilen çekilişin ardından şans oyunu takipçileri tarafından araştırılmaya başlandı. Haftanın belirli günlerinde gerçekleştirilen Süper Loto çekilişinde 1 ile 60 arasından 6 numara çekil",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/toki-kiralik-konut-basvurusu-ne-zaman-nasil-yapilir-2026-toki-istanbul-15-bin-kiralik-konut-sartlari-neler-kira-ucreti-ne-kadar-3911151",
-      "publishedAt": "Tue, 08 Sep 2026 17:47:49 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/super-loto-sonuclari-aciklandi-8-eylul-2026-sali-super-loto-cekilis-sonucu-sorgulama-ekrani-3911165",
+      "publishedAt": "Tue, 08 Sep 2026 21:17:44 GMT"
     },
     {
-      "title": "Real Madrid - Inter maçı izle",
+      "title": "Sporting Lizbon - Galatasaray maçı ne zaman?",
+      "summary": "Galatasaray, UEFA Şampiyonlar Ligi 2026-2027 sezonundaki ilk maçında Portekiz temsilcisi Sporting Lizbon'a konuk olacak. Sarı-kırmızılı takım, yeni Şampiyonlar Ligi formatında ilk sınavını deplasmanda verirken futbolseverler de maçın yayın ",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/bilgi/foto/sporting-lizbon-galatasaray-maci-ne-zaman-saat-kacta-sampiyonlar-ligi-gs-maci-hangi-kanalda-3911163",
+      "publishedAt": "Tue, 08 Sep 2026 21:44:59 GMT"
+    },
+    {
+      "title": "KYK burs başvuruları ne zaman?",
+      "summary": "2026 YKS sonuçlarının açıklanmasının ardından üniversiteye yerleşen öğrencilerin gündeminde KYK burs ve kredi başvuru tarihleri yer alıyor. Gençlik ve Spor Bakanlığı (GSB) tarafından yürütülen burs programı için gözler başvuru takvimine çev",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/bilgi/foto/kyk-burs-basvurulari-ne-zaman-baslayacak-2026-gsb-ile-kyk-bursukredisi-ne-kadar-olacak-basvuru-sartlari-neler-3911156",
+      "publishedAt": "Tue, 08 Sep 2026 22:48:51 GMT"
+    },
+    {
+      "title": "MasterChef dokunulmazlık oyunu kim kazandı?",
+      "summary": "MasterChef Türkiye’de heyecan kaldığı yerden devam ediyor. 7 Eylül Pazartesi akşamı oynanan kaptanlık oyununun ardından yeni haftanın takımları belli oldu. Kaptanlık oyununu kazanan Tolga, Mavi Takım kaptanı olurken Şadi ise Kırmızı Takım k",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/bilgi/foto/masterchef-dokunulmazlik-oyunu-kim-kazandi-8-eylul-2026-masterchef-eleme-adayi-kim-oldu-bireysel-dokunulmazligi-kim-aldi-3911152",
+      "publishedAt": "Tue, 08 Sep 2026 21:31:34 GMT"
+    },
+    {
+      "title": "Real Madrid - Inter maçı hangi kanalda?",
       "summary": "UEFA Şampiyonlar Ligi’nde 2026-2027 sezonunun ilk haftası dev bir maça sahne oluyor. Real Madrid sahasında İtalyan devi Inter'i ağırlıyor. Santiago Bernabéu’da oynanacak karşılaşma öncesinde taraftarlar Real Madrid - Inter maçı canlı izle, ",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/real-madrid-inter-maci-canli-izle-real-madrid-inter-maci-ne-zaman-saat-kacta-hangi-kanalda-sifreli-mi-sifresiz-mi-canli-yayinlanacak-3911149",
-      "publishedAt": "Tue, 08 Sep 2026 18:11:05 GMT"
+      "publishedAt": "Tue, 08 Sep 2026 21:12:35 GMT"
     },
     {
-      "title": "Kademeli emeklilik tablosu",
+      "title": "Kademeli emeklilik çıkacak mı?",
       "summary": "Kademeli emeklilik düzenlemesi, EYT kapsamına giremeyen milyonlarca çalışanın gündemindeki yerini koruyor. Özellikle 8 Eylül 1999 sonrasında sigorta girişi bulunan çalışanlar, emeklilik yaşının kademeli olarak düşürülmesini sağlayacak yeni ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/kademeli-emeklilik-son-dakika-2026-kademeli-emeklilik-ne-zaman-cikacak-2026-erken-emeklilik-sartlari-neler-3911141",
-      "publishedAt": "Tue, 08 Sep 2026 16:46:52 GMT"
-    },
-    {
-      "title": "Porto Manchester City maçı hangi kanalda?",
-      "summary": "UEFA Şampiyonlar Ligi’nde 2026-2027 sezonunun 1. hafta maçında Porto, Manchester City'i ağırlıyor. Avrupa futbolunun iki önemli ekibini karşı karşıya getirecek mücadele Estádio do Dragão’da oynanacak. Futbolseverler karşılaşma öncesinde Por",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/porto-manchester-city-maci-canli-izle-porto-manchester-city-maci-ne-zaman-saat-kacta-hangi-kanalda-sifreli-mi-sifresiz-mi-3911138",
-      "publishedAt": "Tue, 08 Sep 2026 18:11:58 GMT"
-    },
-    {
-      "title": "KYK ek yurt başvuruları ne zaman?",
-      "summary": "KYK yurt sonuçları 2026 için beklenen duyuru geldi! Gençlik ve Spor Bakanı Osman Aşkın Bak'ın son dakika açıklaması ile KYK yurt başvuru sonuçları erişime açıldı. 2026-2027 eğitim öğretim döneminde konaklayacakları yurdu merak eden öğrencil",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/kyk-ek-yurt-basvuru-tarihleri-2026-2027-gsb-kyk-ek-yurt-basvurulari-ne-zaman-baslayacak-kyk-ek-kontenjan-yurt-basvurusu-icin-gozler-gsbde-3911091",
-      "publishedAt": "Tue, 08 Sep 2026 16:44:33 GMT"
-    },
-    {
-      "title": "KPSS ortaöğretim ne zaman?",
-      "summary": "Kamu Personel Seçme Sınavı (2026-KPSS Ortaöğretim) başvuruları 27 Ağustos’ta başladı ve 8 Eylül 2026 tarihinde sona erecek. Bugün son başvuru günü olması sebebiyle KPSS Ortaöğretim sınav tarihi 2026 araştırmaları yoğunluk kazandı. Adayların",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/kpss-ortaogretim-sinav-tarihi-2026-osym-takvimi-ile-2026-kpss-ortaogretim-ne-zaman-kpss-ortaogretim-sinav-giris-belgesi-yayimlandi-mi-3911067",
-      "publishedAt": "Tue, 08 Sep 2026 13:36:04 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/kademeli-erken-emeklilik-son-durum-2026-kademeli-emeklilik-cikacak-mi-2026-erken-emeklilik-sartlari-neler-1999-2008-arasi-mi-kapsayacak-3911141",
+      "publishedAt": "Tue, 08 Sep 2026 21:15:22 GMT"
     },
     {
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
@@ -145,7 +145,15 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 17:59:07 GMT"
+      "publishedAt": "Tue, 08 Sep 2026 19:11:39 GMT"
+    },
+    {
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 08 Sep 2026 21:46:31 GMT"
     },
     {
       "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
@@ -180,60 +188,68 @@
       "publishedAt": "Tue, 08 Sep 2026 17:10:54 GMT"
     },
     {
-      "title": "British widow faces deportation from Sweden after 22 years",
-      "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 08 Sep 2026 18:02:42 GMT"
-    },
-    {
-      "title": "Women and children remain trapped in Syria’s Roj camp",
-      "summary": "Women and children remain trapped in Syria’s Roj camp",
+      "title": "Napoli vs Arsenal: Champions League – prediction, teams, lineups",
+      "summary": "Napoli has issues in midfield for its Champions League opener against Arsenal, but hope to recover Serie A winning form.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss",
-      "publishedAt": "Tue, 08 Sep 2026 18:00:24 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/8/napoli-vs-arsenal-champions-league-prediction-teams-lineups?traffic_source=rss",
+      "publishedAt": "Tue, 08 Sep 2026 22:39:54 +0000"
     },
     {
-      "title": "Renoir paintings worth $10.5 million missing after museum heist",
-      "summary": "A pre-dawn break-in at the Renoir Museum in southern France saw thieves seize four paintings",
+      "title": "Liverpool vs Atletico Madrid: Champions League – preview, teams, prediction",
+      "summary": "Andoni Iraola looks to build on his first win as Liverpool manager in tough game against Diego Simeone's Atletico.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss",
-      "publishedAt": "Tue, 08 Sep 2026 17:47:08 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/8/liverpool-vs-atletico-madrid-champions-league-preview-teams?traffic_source=rss",
+      "publishedAt": "Tue, 08 Sep 2026 22:34:40 +0000"
     },
     {
-      "title": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
-      "summary": "This phase of the war could be the start of another protracted conflict rather than a decisive campaign, say analysts.",
+      "title": "What we know about masked anti-migrant protesters in the UK",
+      "summary": "Hundreds of masked men shut down UK ports over the weekend.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss",
-      "publishedAt": "Tue, 08 Sep 2026 17:37:35 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-we-know-about-masked-anti-migrant-protesters-in-the-uk?traffic_source=rss",
+      "publishedAt": "Tue, 08 Sep 2026 22:28:56 +0000"
     },
     {
-      "title": "Photos: Palestinians rebuild Gaza’s ruins with mud bricks, scrap",
-      "summary": "Over 90 percent of Gaza lies in ruins, forcing thousands to rebuild homes with limited resources like mud and rubble.",
+      "title": "Protesters, police clash in Albania over Trump-linked project",
+      "summary": "Albanians have protested for over 100 days against a planned luxury hotel linked to Jared Kushner and Ivanka Trump.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/gallery/2026/9/8/photos-palestinians-rebuild-gazas-ruins-with-mud-bricks-and-scrap?traffic_source=rss",
-      "publishedAt": "Tue, 08 Sep 2026 17:28:50 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/8/protesters-police-clash-in-albania-over-trump-linked-project?traffic_source=rss",
+      "publishedAt": "Tue, 08 Sep 2026 22:05:17 +0000"
     },
     {
-      "title": "Nicaragua urges ICJ to reject Germany’s bid to throw out Gaza genocide case",
-      "summary": "Nicaragua maintains that German arms exports to Israel facilitated Gaza genocide as Germany's tries to halt the case.",
+      "title": "Haaland to the double as Manchester City beat Porto in Champions League",
+      "summary": "Ayyoub Bouaddi debuts for Manchester City, but Erling Haaland stars in a 2-0 win in Porto.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/8/nicaragua-urges-icj-to-reject-germanys-bid-to-throw-out-gaza-genocide-case?traffic_source=rss",
-      "publishedAt": "Tue, 08 Sep 2026 17:26:33 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/8/haaland-to-the-double-as-manchester-city-beat-porto-in-champions-league?traffic_source=rss",
+      "publishedAt": "Tue, 08 Sep 2026 21:46:58 +0000"
     },
     {
-      "title": "US won’t join UK ban on trade with illegal Israeli settlements",
-      "summary": "Secretary of State Marco Rubio says the US will ‘obviously not’ follow the UK in sanctioning illegal Israeli settlements",
+      "title": "What the UK ban on goods from illegal Israeli settlements really means",
+      "summary": "Israel has announced that it’s shutting down the UK Consulate in occupied East Jerusalem after a new ban on its goods.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/09-08-rubio-comments-uk-sanctions-clip-mp4?traffic_source=rss",
-      "publishedAt": "Tue, 08 Sep 2026 17:24:36 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss",
+      "publishedAt": "Tue, 08 Sep 2026 21:35:36 +0000"
+    },
+    {
+      "title": "New report shows the economic toll of ICE raids",
+      "summary": "A new study shows the steep economic cost of 2025's ICE raids in Chicago. Fear kept many immigrants home, draining the area of more than $1.26 billion in lost retail, restaurant, and sales-tax revenue.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids",
+      "publishedAt": "Tue, 08 Sep 2026 16:17:22 -0400"
+    },
+    {
+      "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
+      "summary": "Kenya's president orders a crackdown on foreigners running small businesses, amid accusations of xenophobia.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
+      "publishedAt": "Tue, 08 Sep 2026 15:55:43 -0400"
     },
     {
       "title": "Australian social media users to be offered choice to opt out of algorithms",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
       "publishedAt": "Tue, 08 Sep 2026 07:20:05 -0400"
-    },
-    {
-      "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
-      "summary": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
-      "publishedAt": "Tue, 08 Sep 2026 06:46:03 -0400"
-    },
-    {
-      "title": "Has the economy gone C-shaped?",
-      "summary": "A K means the rich and poor are pulling apart. A C supposedly means they're coming back together. We hear the case for both. Which letter you see may depend on what you choose to pay attention to.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/sections/planet-money/2026/09/08/g-s1-142029/has-the-economy-gone-c-shaped",
-      "publishedAt": "Tue, 08 Sep 2026 06:30:00 -0400"
     },
     {
       "title": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
@@ -375,17 +375,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 21,
-      "description": "clear sky",
-      "high": 26,
-      "low": 19
+      "tempC": 20,
+      "description": "mainly clear",
+      "high": 27,
+      "low": 20
     },
     {
       "place": "London",
-      "tempC": 17,
-      "description": "partly cloudy",
+      "tempC": 15,
+      "description": "clear sky",
       "high": 19,
-      "low": 14
+      "low": 13
     }
   ],
   "facts": [
