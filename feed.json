@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T20:09:11.049Z",
+  "updated": "2026-09-12T22:49:15.660Z",
   "news": [
     {
       "title": "Anthropic'in patronu: Yapay zeka geliştirme çalışmaları yavaşlamalı",
@@ -50,6 +50,20 @@
       "publishedAt": "Sat, 12 Sep 2026 07:16:56 GMT"
     },
     {
+      "title": "Su kuyusunda facia. Metan gazından zehirlendiler",
+      "summary": "Kahramanmaraş'ta temizlemek için girdiği su kuyusunda bayılan kişi ve onu kurtarmak isteyen kişi hayatını kaybetti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-13T00:24:19+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 13 Eylül 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 13 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-13T01:30:00+03:00"
+    },
+    {
       "title": "Alihan Kuriş soruşturması. Tanık ifadelerinde FETÖ bağlantısı iddiası",
       "summary": "Alihan Kuriş suç örgütü ve eski bakan Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmalarda tanık ifadeleri ortaya çıktı. Alihan Kuriş'in FETÖ tarafından yönetildiği iddia edildi.",
       "source": "NTV",
@@ -78,42 +92,44 @@
       "publishedAt": "2026-09-12T21:48:23+03:00"
     },
     {
-      "title": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 12 Eylül 2026",
-      "summary": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 12 Eylül 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem m",
-      "source": "NTV",
+      "title": "AÖL son kayıt tarihi",
+      "summary": "Açık Öğretim Lisesinde eğitimine devam etmek isteyen öğrenciler, 2026-2027 eğitim öğretim yılı AÖL son kayıt tarihini araştırmaya başladı. Milli Eğitim Bakanlığı tarafından yayımlanan çalışma takviminde AÖL 1. dönem ilk kayıt ve kayıt yenil",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-12T21:30:00+03:00"
+      "link": "https://www.haberturk.com/bilgi/foto/aol-son-kayit-tarihi-2026-2027-acik-lise-kayit-ve-kayit-yenileme-ne-zaman-bitecek-kayit-islemleri-nasil-nereden-yapilir-3912071",
+      "publishedAt": "Sat, 12 Sep 2026 22:35:28 GMT"
     },
     {
-      "title": "Bolu'da depoda yangın. Alevlere müdahale sürüyor",
-      "summary": "Bolu'da geri dönüşüm malzemelerinin bulunduğu depoda yangın çıktı. Alevlere müdahale sürüyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-12T21:10:10+03:00"
-    },
-    {
-      "title": "Ziraat Bankası emekli promosyonu",
+      "title": "Ziraat Bankası emekli maaş promosyonu güncellendi",
       "summary": "Ziraat Bankası emekli promosyonu emeklilerin gündemindeki yerini koruyor. SSK, Bağ-Kur ve Emekli Sandığı kapsamında maaş alanlar, maaşlarını Ziraat Bankası’na taşıyarak promosyon ödemesinden yararlanabiliyor. Bankanın resmi internet sitesin",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/ziraat-bankasi-emekli-maas-promosyonu-2026-eylul-ssk-bag-kur-ziraat-bankasi-emekli-promosyonu-ne-kadar-3912067",
-      "publishedAt": "Sat, 12 Sep 2026 18:52:43 GMT"
+      "publishedAt": "Sat, 12 Sep 2026 21:29:11 GMT"
+    },
+    {
+      "title": "KYK yurtları ne zaman açılacak?",
+      "summary": "2026-2027 eğitim öğretim yılı KYK yurt başvuru sonuçlarının açıklanmasının ardından yurtların açılış tarihi gündemi meşgul etmeye başladı. Gençlik ve Spor Bakanlığı, 8 Eylül 2026 tarihinde 2026-2027 eğitim öğretim yılı yurt başvuru sonuçlar",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/bilgi/foto/kyk-yurtlari-ne-zaman-acilacak-gsb-ile-2026-2027-kyk-yurtlara-ilk-girisler-hangi-gun-yapilacak-3912065",
+      "publishedAt": "Sat, 12 Sep 2026 21:40:31 GMT"
     },
     {
       "title": "MasterChef dokunulmazlık oyunu kim kazandı?",
-      "summary": "MasterChef Türkiye'de heyecan haftanın son dokunulmazlık oyunu ile sürüyor. Yarışmacılar, haftanın 4. takım oyununda perde pilavı konseptiyle hünerlerini sergileyecek. Gecenin sonunda takım oyununu kaybeden ekip, bireysel dokunulmazlık oyun",
+      "summary": "MasterChef Türkiye'de heyecan haftanın son dokunulmazlık oyunu ile sürüyor. Yarışmacılar, haftanın 4. takım oyununda perde pilavı konseptiyle hünerlerini sergiledi. Gecenin sonunda takım oyununu kaybeden ekip, bireysel dokunulmazlık oyunund",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/masterchef-son-dokunulmazlik-oyunu-kim-kazandi-12-eylul-cumartesi-masterchef-7-ve-8-eleme-adayi-kim-oldu-3912059",
-      "publishedAt": "Sat, 12 Sep 2026 20:06:01 GMT"
+      "publishedAt": "Sat, 12 Sep 2026 21:31:54 GMT"
     },
     {
-      "title": "Emekliye ek zam gelecek mi?",
+      "title": "Emekliye seyyanen zam var mı?",
       "summary": "Emekli maaşlarına ek zam ve seyyanen zam yapılıp yapılmayacağı milyonlarca emeklinin gündemindeki yerini koruyor. Temmuz ayında yapılan maaş artışının ardından emekli ve memur emeklileri, seyyanen zam yapılıp yapılmayacağını araştırmaya baş",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/emekliye-ek-zam-gelecek-mi-ssk-bag-kur-memur-emeklisine-seyyanen-zam-yapilacak-mi-3912051",
-      "publishedAt": "Sat, 12 Sep 2026 18:50:38 GMT"
+      "publishedAt": "Sat, 12 Sep 2026 21:33:49 GMT"
     },
     {
       "title": "TOKİ İstanbul kiralık konut başvuru tarihleri",
@@ -121,23 +137,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/toki-istanbul-kiralik-konut-basvurusu-ne-zaman-basliyor-toki-15-bin-kiralik-konut-basvuru-sartlari-neler-nasil-basvuru-yapilir-3912046",
-      "publishedAt": "Sat, 12 Sep 2026 18:53:03 GMT"
-    },
-    {
-      "title": "Real Madrid Rayo Vallecano maçı saat kaçta?",
-      "summary": "Real Madrid, LaLiga'nın 5. haftasında Rayo Vallecano'yu konuk ediyor. Şampiyonlar Ligi'nde Inter karşısında alınan galibiyetin ardından sahaya çıkacak olan Real Madrid, taraftarı önünde üç puan hedefliyor. Karşılaşma öncesinde Real Madrid -",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/real-madrid-rayo-vallecano-maci-ne-zaman-saat-kacta-hangi-kanalda-arda-guler-oynayacak-mi-3912042",
-      "publishedAt": "Sat, 12 Sep 2026 18:53:36 GMT"
-    },
-    {
-      "title": "İstanbul'da okulların ilk günü için yeni karar",
-      "summary": "Milli Eğitim Bakanlığı’na bağlı okullarda eğitim öğretim dönemi 14 Eylül Pazartesi günü başlıyor. İstanbul’da resmi ve özel tüm ilkokul, ortaokul ve liselerde ulaşımda aksaklıklara yol açmaması amacıyla önemli bir düzenleme yapıldığı belirt",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/okullarda-ders-saati-degisti-mi-14-eylul-istanbuldaki-okullarda-dersler-saat-kacta-baslayacak-ve-kacta-bitecek-3911935",
-      "publishedAt": "Sat, 12 Sep 2026 09:27:48 GMT"
+      "publishedAt": "Sat, 12 Sep 2026 21:37:17 GMT"
     },
     {
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -145,7 +145,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 17:42:38 GMT"
+      "publishedAt": "Sat, 12 Sep 2026 21:16:47 GMT"
     },
     {
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
@@ -156,12 +156,12 @@
       "publishedAt": "Sat, 12 Sep 2026 12:15:50 GMT"
     },
     {
-      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
-      "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 13:56:20 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 21:25:28 GMT"
     },
     {
       "title": "Fire at nursing home in Chile kills 16 residents",
@@ -180,60 +180,60 @@
       "publishedAt": "Sat, 12 Sep 2026 15:05:53 GMT"
     },
     {
-      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
-      "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
+      "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 05:55:15 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 16:55:31 GMT"
     },
     {
-      "title": "Bahrain says it will not participate in Iran’s proposed Hormuz meeting",
-      "summary": "Iran tells Al Jazeera that Monday's meeting is a sign of 'good intentions' towards neighbouring countries.",
+      "title": "Tens of thousands march across Germany to protest far-right party AfD",
+      "summary": "Protesters in about 20 cities, including Berlin, Hamburg and Munich, demand the banning of the Alternative for Germany.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/12/bahrain-says-it-will-not-participate-in-irans-proposed-hormuz-meeting?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 19:34:04 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
+      "publishedAt": "Sat, 12 Sep 2026 22:37:03 +0000"
     },
     {
-      "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
-      "summary": "The Iranian ally seizes Yemen's Red Sea coast, cementing their hold on the Bab al-Mandeb strait.",
+      "title": "USA edge Spain to book Women’s Basketball World Cup final against France",
+      "summary": "USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 19:17:37 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss",
+      "publishedAt": "Sat, 12 Sep 2026 22:10:18 +0000"
     },
     {
-      "title": "Afghan woman deported in first use of US Alien Terrorist Removal Court",
-      "summary": "Court was created in 1996, but had never been used before Nazira Haji Zada’s case.",
+      "title": "First naval battle between drones takes place in the Black Sea",
+      "summary": "The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/12/afghan-woman-deported-in-first-use-of-us-alien-terrorist-removal-court?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 19:02:39 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
+      "publishedAt": "Sat, 12 Sep 2026 21:38:24 +0000"
     },
     {
-      "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
-      "summary": "PM Ali al-Zaidi dismisses commander, orders investigation into operations command in Maysan province, bordering Iran.",
+      "title": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
+      "summary": "Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 18:53:31 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
+      "publishedAt": "Sat, 12 Sep 2026 20:44:18 +0000"
     },
     {
-      "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
-      "summary": "Iran’s President has met Abu Dhabi’s Crown Prince at the BRICS summit for their highest-level talks since the war began.",
+      "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
+      "summary": "The two donations increase the total sum of money pledged to Reform since Friday to $97m.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 18:36:17 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss",
+      "publishedAt": "Sat, 12 Sep 2026 20:43:57 +0000"
     },
     {
-      "title": "Selling the war: Purges, polygraphs and propaganda",
-      "summary": "The Iran war has become ever more challenging for the Trump administration to sell.",
+      "title": "Fire at nursing home in Chile kills 16 elderly residents",
+      "summary": "The facility had faced fines and enforcement proceedings over regulatory violations since 2019.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 17:31:56 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
+      "publishedAt": "Sat, 12 Sep 2026 20:42:23 +0000"
     },
     {
       "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
@@ -292,7 +292,7 @@
       "publishedAt": "Sat, 12 Sep 2026 15:09:05 GMT"
     },
     {
-      "title": "Six Nigerians extradited to US over $6M online romance scam",
+      "title": "Six Nigerians extradited to US over $6m online romance scam",
       "summary": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South AfricaSix Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through online",
       "source": "The Guardian",
       "lang": "en",
@@ -384,8 +384,8 @@
       "league": "La Liga",
       "home": "Real Madrid",
       "away": "Rayo Vallecano",
-      "homeScore": 2,
-      "awayScore": 0,
+      "homeScore": 4,
+      "awayScore": 1,
       "status": "FT",
       "date": "2026-09-12"
     },
@@ -429,16 +429,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 21,
+      "tempC": 20,
       "description": "mainly clear",
-      "high": 28,
+      "high": 24,
       "low": 19
     },
     {
       "place": "London",
-      "tempC": 21,
+      "tempC": 19,
       "description": "overcast",
-      "high": 23,
+      "high": 24,
       "low": 13
     }
   ],
