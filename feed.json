@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T22:49:15.660Z",
+  "updated": "2026-09-13T03:00:06.034Z",
   "news": [
     {
       "title": "Anthropic'in patronu: Yapay zeka geliştirme çalışmaları yavaşlamalı",
@@ -10,7 +10,7 @@
       "publishedAt": "Sat, 12 Sep 2026 16:04:19 GMT"
     },
     {
-      "title": "Kaşif Kozinoğlu soruşturması: İkinci operasyonda gözaltına alınan dokuz kişi adliyeye sevk edildi",
+      "title": "Kaşif Kozinoğlu soruşturması: Gazeteci Selahattin Günday tutuklandı",
       "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturma kapsamında düzenlenen ikinci operasyonda gözaltına alınan dokuz zanlı adliyeye sevk edildi.",
       "source": "BBC Türkçe",
       "lang": "tr",
@@ -50,6 +50,13 @@
       "publishedAt": "Sat, 12 Sep 2026 07:16:56 GMT"
     },
     {
+      "title": "İstanbul'un iki ilçesinde denize girmek yasaklandı",
+      "summary": "Beykoz'un tamamındaki sahil ve plajlarda bugün ve pazartesi, Sarıyer'deki Kısırkaya Halk Plajı'nda ise bugün denize girmek yasaklandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-13T04:31:06+03:00"
+    },
+    {
       "title": "Su kuyusunda facia. Metan gazından zehirlendiler",
       "summary": "Kahramanmaraş'ta temizlemek için girdiği su kuyusunda bayılan kişi ve onu kurtarmak isteyen kişi hayatını kaybetti.",
       "source": "NTV",
@@ -61,14 +68,14 @@
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 13 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-13T01:30:00+03:00"
+      "publishedAt": "2026-09-13T05:30:00+03:00"
     },
     {
       "title": "Alihan Kuriş soruşturması. Tanık ifadelerinde FETÖ bağlantısı iddiası",
       "summary": "Alihan Kuriş suç örgütü ve eski bakan Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmalarda tanık ifadeleri ortaya çıktı. Alihan Kuriş'in FETÖ tarafından yönetildiği iddia edildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-12T22:55:21+03:00"
+      "publishedAt": "2026-09-13T02:17:33+03:00"
     },
     {
       "title": "Gülistan Doku soruşturmasında altıncı dalga operasyon. 11 şüpheli için gözaltı kararı",
@@ -83,13 +90,6 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-09-12T22:06:38+03:00"
-    },
-    {
-      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 12 Eylül 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-12T21:48:23+03:00"
     },
     {
       "title": "AÖL son kayıt tarihi",
@@ -156,6 +156,14 @@
       "publishedAt": "Sat, 12 Sep 2026 12:15:50 GMT"
     },
     {
+      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 00:49:08 GMT"
+    },
+    {
       "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
       "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
       "source": "BBC World",
@@ -180,60 +188,60 @@
       "publishedAt": "Sat, 12 Sep 2026 15:05:53 GMT"
     },
     {
-      "title": "Uganda's King Oyo buried amid calls for unity over his successor",
-      "summary": "A TV news presenter has been named as the traditional kingdom of Tooro's new monarch but the late king's family claim he chose an heir.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 16:55:31 GMT"
-    },
-    {
-      "title": "Tens of thousands march across Germany to protest far-right party AfD",
-      "summary": "Protesters in about 20 cities, including Berlin, Hamburg and Munich, demand the banning of the Alternative for Germany.",
+      "title": "Why Spain’s new Sahrawi citizenship law matters to Morocco",
+      "summary": "The new citizenship bill for Sahrawis touches a sensitive fault line in Madrid’s ties with Rabat.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 22:37:03 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco?traffic_source=rss",
+      "publishedAt": "Sun, 13 Sep 2026 01:41:10 +0000"
     },
     {
-      "title": "USA edge Spain to book Women’s Basketball World Cup final against France",
-      "summary": "USA emerged 76-66 winners in a tense semifinal after Gabby Williams-led France powered past hosts Germany 86-64.",
+      "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
+      "summary": "Iranian President Masoud Pezeshkian said Tehran is not at war with Saudi Arabia.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 22:10:18 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
+      "publishedAt": "Sun, 13 Sep 2026 01:32:56 +0000"
     },
     {
-      "title": "First naval battle between drones takes place in the Black Sea",
-      "summary": "The first naval battle between two Unmanned Surface Vessels (USVs) has taken place in the Black Sea.",
+      "title": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
+      "summary": "US President Donald Trump said he would ‘love to see’ a united Ireland.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 21:38:24 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
+      "publishedAt": "Sun, 13 Sep 2026 00:43:48 +0000"
     },
     {
-      "title": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
-      "summary": "Ebola has reached a seventh DR Congo province after an infected man travelled through Rwanda and Uganda.",
+      "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
+      "summary": "The Houthis claim their attack targeted a Saudi military base in Sharurah.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 20:44:18 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
+      "publishedAt": "Sun, 13 Sep 2026 00:24:29 +0000"
     },
     {
-      "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
-      "summary": "The two donations increase the total sum of money pledged to Reform since Friday to $97m.",
+      "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+      "summary": "Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 20:43:57 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+      "publishedAt": "Sun, 13 Sep 2026 00:00:40 +0000"
     },
     {
-      "title": "Fire at nursing home in Chile kills 16 elderly residents",
-      "summary": "The facility had faced fines and enforcement proceedings over regulatory violations since 2019.",
+      "title": "Teen rescued after clinging to boat for two days off Alaska",
+      "summary": "A 15-year-old boy was miraculously rescued after spending two days clinging to his capsized boat in Alaska’s Bering Sea.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 20:42:23 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss",
+      "publishedAt": "Sat, 12 Sep 2026 23:56:58 +0000"
+    },
+    {
+      "title": "Celine Dion returns to the stage after battling rare illness",
+      "summary": "The Canadian singer opened up her 16-show residency in Paris at the Plenitude Arena. The entire series is sold out.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/12/nx-s1-5967534/celine-dion-performance-paris",
+      "publishedAt": "Sat, 12 Sep 2026 19:54:06 -0400"
     },
     {
       "title": "Alien Terrorist Removal Court deports legal US resident to Afghanistan in first-ever case",
@@ -276,14 +284,6 @@
       "publishedAt": "Sat, 12 Sep 2026 06:55:14 -0400"
     },
     {
-      "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
-      "summary": "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
-      "publishedAt": "Sat, 12 Sep 2026 06:00:00 -0400"
-    },
-    {
       "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
       "summary": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi KijanangomaUganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal",
       "source": "The Guardian",
@@ -319,118 +319,94 @@
   "sports": [
     {
       "league": "Süper Lig",
-      "home": "Konyaspor",
-      "away": "Trabzonspor",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-12"
+      "home": "Galatasaray",
+      "away": "Kocaelispor",
+      "status": "upcoming",
+      "date": "2026-09-13"
     },
     {
       "league": "Süper Lig",
-      "home": "Alanyaspor",
-      "away": "Göztepe",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-12"
+      "home": "Gençlerbirliği",
+      "away": "Kasımpaşa",
+      "status": "upcoming",
+      "date": "2026-09-13"
     },
     {
       "league": "Süper Lig",
-      "home": "Eyüpspor",
-      "away": "Rizespor",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-12"
+      "home": "Amed",
+      "away": "İstanbul Başakşehir",
+      "status": "upcoming",
+      "date": "2026-09-13"
     },
     {
       "league": "Premier League",
-      "home": "Bournemouth",
-      "away": "Brentford",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-12"
+      "home": "Manchester United",
+      "away": "Manchester City",
+      "status": "upcoming",
+      "date": "2026-09-13"
     },
     {
       "league": "Premier League",
-      "home": "Liverpool",
-      "away": "Fulham",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-12"
-    },
-    {
-      "league": "Premier League",
-      "home": "Tottenham Hotspur",
-      "away": "Everton",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-12"
+      "home": "Coventry City",
+      "away": "Brighton and Hove Albion",
+      "status": "upcoming",
+      "date": "2026-09-13"
     },
     {
       "league": "La Liga",
-      "home": "Athletic Bilbao",
-      "away": "Elche",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-12"
+      "home": "Celta Vigo",
+      "away": "Málaga",
+      "status": "upcoming",
+      "date": "2026-09-13"
     },
     {
       "league": "La Liga",
-      "home": "Real Madrid",
-      "away": "Rayo Vallecano",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-12"
+      "home": "Levante",
+      "away": "Barcelona",
+      "status": "upcoming",
+      "date": "2026-09-13"
     },
     {
       "league": "La Liga",
-      "home": "Osasuna",
-      "away": "Espanyol",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-12"
+      "home": "Getafe",
+      "away": "Deportivo de A Coruña",
+      "status": "upcoming",
+      "date": "2026-09-13"
     },
     {
       "league": "Bundesliga",
-      "home": "Freiburg",
-      "away": "Borussia Mönchengladbach",
-      "homeScore": 5,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-12"
+      "home": "RB Leipzig",
+      "away": "Hamburg",
+      "status": "upcoming",
+      "date": "2026-09-13"
     },
     {
       "league": "Bundesliga",
-      "home": "Mainz",
-      "away": "Eintracht Frankfurt",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "FT",
-      "date": "2026-09-12"
+      "home": "Elversberg",
+      "away": "Bayern Munich",
+      "status": "upcoming",
+      "date": "2026-09-13"
     },
     {
-      "league": "Bundesliga",
-      "home": "Borussia Dortmund",
-      "away": "Paderborn",
-      "homeScore": 3,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-12"
+      "league": "Serie A",
+      "home": "Sassuolo",
+      "away": "Juventus",
+      "status": "upcoming",
+      "date": "2026-09-13"
+    },
+    {
+      "league": "Serie A",
+      "home": "Napoli",
+      "away": "Bologna",
+      "status": "upcoming",
+      "date": "2026-09-13"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
       "tempC": 20,
-      "description": "mainly clear",
+      "description": "partly cloudy",
       "high": 24,
       "low": 19
     },
@@ -438,8 +414,8 @@
       "place": "London",
       "tempC": 19,
       "description": "overcast",
-      "high": 24,
-      "low": 13
+      "high": 23,
+      "low": 18
     }
   ],
   "facts": [
