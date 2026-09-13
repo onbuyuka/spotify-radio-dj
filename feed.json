@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-13T03:00:06.034Z",
+  "updated": "2026-09-13T08:13:09.477Z",
   "news": [
+    {
+      "title": "Kaos GL'ye yönelik 'müstehcenlik' soruşturmasında yöneticiler gözaltına alındı",
+      "summary": "Kaos GL Derneği yönetim ve denetim kurulu üyeleri, evlerine yapılan baskınlarda gözaltına alındı ve dernek ofisinde arama yapıldı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c624e4q594zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 07:58:21 GMT"
+    },
     {
       "title": "Anthropic'in patronu: Yapay zeka geliştirme çalışmaları yavaşlamalı",
       "summary": "Önde gelen yapay zeka şirketlerinden Anthropic'in başkanı, yapay zeka modellerinin geliştirilme hızının yavaşlatılması ve yakından izlenmesi çağrısında bulundu.",
@@ -8,6 +16,30 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cg7knd5nk28o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 12 Sep 2026 16:04:19 GMT"
+    },
+    {
+      "title": "Yemen savaşın eşiğinde: 'Birbirimize sarılıp ölmeyi bekliyoruz'",
+      "summary": "İran destekli Husiler ile Suudi Arabistan destekli ve uluslararası alanda tanınan hükümet arasındaki ateşkesin çökeceğine dair endişeler artarken, Yemen'in kuzeybatı bölgeleri üzerindeki semalarda savaş uçaklarının sesi yeniden duyuluyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c36lkde7ke8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 07:13:48 GMT"
+    },
+    {
+      "title": "Hindistan'daki su sorununun çözümünde antik su sistemlerinden nasıl yararlanılıyor?",
+      "summary": "Su kıtlığı ve iklim değişikliği toplulukları, yüzyıllar önce inşa edilmiş geleneksel su yapılarını yeniden canlandırmaya ve bunları 21. yüzyılda tekrar kullanıma açmaya yöneltiyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c5yj3y4nw68o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 07:27:55 GMT"
+    },
+    {
+      "title": "Kadınlar neden erkeklerden daha fazla migren atağı geçiriyor?",
+      "summary": "Hormonlar, yetersiz uyku ve stres, kadınların bu yıpratıcı nörolojik rahatsızlığa daha yatkın olmasının nedenlerini açıklamaya yardımcı oluyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c4gkddz9d10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 07:15:04 GMT"
     },
     {
       "title": "Kaşif Kozinoğlu soruşturması: Gazeteci Selahattin Günday tutuklandı",
@@ -18,78 +50,46 @@
       "publishedAt": "Sat, 12 Sep 2026 16:37:22 GMT"
     },
     {
-      "title": "Suudi Arabistan, Irak'tan düzenlenen SİHA saldırısından sonra önemli boru hattını kapattı",
-      "summary": "Irak, İran sınırındaki bir bölgeden gelen saldırıyla ilgili soruşturma başlattı ve bir komutanı görevden aldı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c62e097r6rqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 10:45:18 GMT"
-    },
-    {
-      "title": "İsveç'te genel seçim öncesi sağ ve sol bloklar arasında başa baş yarış",
-      "summary": "Başbakan Ulf Kristersson, aşırı sağcı İsveç Demokratları'na kabinede yer sözü verdi ancak rakip sol blok anketlerde az farkla önde.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c3wj9nzy2nzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 14:47:04 GMT"
-    },
-    {
-      "title": "Annesini öldüren mafya lideri babası aleyhine ifade veren kadının trajik ölümü",
-      "summary": "Denise Cosco, İtalya'da annesinin öldürülmesiyle ilgili olarak güçlü 'Ndrangheta suç örgütü ve kendi babasına karşı ifade vermişti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cn4kj3z2x28o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 14:09:52 GMT"
-    },
-    {
-      "title": "Aşil Kalkanı: Türkiye ve Yunanistan arasındaki yumuşama bitiyor mu?",
-      "summary": "Türkiye ve Yunanistan'ın son dönemde yaptığı karşılıklı deniz parkı ve deniz mekânsal planlama açıklamaları, hava sahası ihlali iddiaları ve farklı bölgesel aktörlerle hizalanmaları Ege'de suların tekrar kızışabileceğine işaret ediyor. Peki",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c4g7vdwzp1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 07:16:56 GMT"
-    },
-    {
-      "title": "İstanbul'un iki ilçesinde denize girmek yasaklandı",
-      "summary": "Beykoz'un tamamındaki sahil ve plajlarda bugün ve pazartesi, Sarıyer'deki Kısırkaya Halk Plajı'nda ise bugün denize girmek yasaklandı.",
+      "title": "Türkiye’de 6 milyon konut risk taşıyor. Nelere dikkat edilmeli?",
+      "summary": "Türkiye genelinde aktif olarak kullanılan yaklaşık 26 milyon konuttan 6 milyon binanın risk havuzunda olduğu belirlendi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-13T04:31:06+03:00"
+      "publishedAt": "2026-09-13T10:51:19+03:00"
     },
     {
-      "title": "Su kuyusunda facia. Metan gazından zehirlendiler",
-      "summary": "Kahramanmaraş'ta temizlemek için girdiği su kuyusunda bayılan kişi ve onu kurtarmak isteyen kişi hayatını kaybetti.",
+      "title": "Tadan bir daha istiyor, kaşık kaşık şifa dağıtıyor. Ne tarhana ne mercimek, kuşburnundan yapılıyor",
+      "summary": "Gümüşhane'de turizme kazandırılan tarihi Yeşildere Konakları'nda kentin yöresel lezzetleri yaşatılırken, unutulmaya yüz tutmuş kuşburnu çorbası da yeniden sofralarda yerini aldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-13T00:24:19+03:00"
+      "publishedAt": "2026-09-13T09:54:34+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 13 Eylül 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 13 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "title": "Güvenlik önlemleri üst seviyede. Okullara giriş çıkışta sıkı denetim uygulanacak",
+      "summary": "2026-2027 eğitim ve öğretim yılı yarın başlıyor. Bu yıl okullarda yeni güvenlik tedbirleri devreye alındı. Haber: Gözde Şahin",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-13T05:30:00+03:00"
+      "publishedAt": "2026-09-13T09:28:36+03:00"
     },
     {
-      "title": "Alihan Kuriş soruşturması. Tanık ifadelerinde FETÖ bağlantısı iddiası",
-      "summary": "Alihan Kuriş suç örgütü ve eski bakan Arif Ahmet Denizolgun'un ölümüne ilişkin soruşturmalarda tanık ifadeleri ortaya çıktı. Alihan Kuriş'in FETÖ tarafından yönetildiği iddia edildi.",
+      "title": "Acısı zehir gibi ama yapan paraya para demiyor. Demeti 500 TL'den alıcı buluyor",
+      "summary": "Hatay'da tarlalardan hasat edilen kapya biberler, kavurucu sıcağa ve zorlayan acıya rağmen tek tek ipe dizilerek balkonlarda kurutulmaya bırakılıyor. Yeteri kuruluğa ulaşan dolmalık kurutma biberler, kış aylarında sofalarda yerini alıyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-13T02:17:33+03:00"
+      "publishedAt": "2026-09-13T09:20:34+03:00"
     },
     {
-      "title": "Gülistan Doku soruşturmasında altıncı dalga operasyon. 11 şüpheli için gözaltı kararı",
-      "summary": "Gülistan Doku soruşturmasında 11 şüphelinin yakalanması için 7 ilde eş zamanlı operasyon başlatıldı.",
+      "title": "AK Parti'den Özgür Özel'e tepki. \"Yakışıksız üslubu şiddetle kınıyoruz\"",
+      "summary": "AK Parti Sözcüsü Ömer Çelik, \"Özgür Özel'in siyaset adabıyla ilgili çok ciddi sıkıntıları var.\" diyerek Yeni Parti Genel Başkanı'na tepki gösterdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-12T22:29:02+03:00"
+      "publishedAt": "2026-09-13T09:40:23+03:00"
     },
     {
-      "title": "Sosyal medya fenomeni Semih Varol gözaltına alındı",
-      "summary": "Canlı yayında polis memurlarına yönelik hakaret ettiği ileri sürülen sosyal medya fenomeni Semih Varol gözaltına alındı.",
+      "title": "KYK burs ve kredi başvuru ekranı 2026: KYK burs başvuruları ne zaman, hangi ayda başlayacak?",
+      "summary": "2026-2027 eğitim-öğretim yılının yaklaşması ve GSB KYK yurt yerleştirme süreçlerinin devam etmesiyle birlikte, üniversite öğrencilerinin gözü kulağı Gençlik ve Spor Bakanlığı (GSB) tarafından açıklanacak KYK burs ve öğrenim kredisi başvuru ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-12T22:06:38+03:00"
+      "publishedAt": "2026-09-13T09:07:52+03:00"
     },
     {
       "title": "AÖL son kayıt tarihi",
@@ -121,7 +121,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/masterchef-son-dokunulmazlik-oyunu-kim-kazandi-12-eylul-cumartesi-masterchef-7-ve-8-eleme-adayi-kim-oldu-3912059",
-      "publishedAt": "Sat, 12 Sep 2026 21:31:54 GMT"
+      "publishedAt": "Sun, 13 Sep 2026 06:02:46 GMT"
     },
     {
       "title": "Emekliye seyyanen zam var mı?",
@@ -129,7 +129,7 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/bilgi/foto/emekliye-ek-zam-gelecek-mi-ssk-bag-kur-memur-emeklisine-seyyanen-zam-yapilacak-mi-3912051",
-      "publishedAt": "Sat, 12 Sep 2026 21:33:49 GMT"
+      "publishedAt": "Sun, 13 Sep 2026 06:06:12 GMT"
     },
     {
       "title": "TOKİ İstanbul kiralık konut başvuru tarihleri",
@@ -148,12 +148,12 @@
       "publishedAt": "Sat, 12 Sep 2026 21:16:47 GMT"
     },
     {
-      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 12:15:50 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 21:25:28 GMT"
     },
     {
       "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
@@ -164,76 +164,76 @@
       "publishedAt": "Sun, 13 Sep 2026 00:49:08 GMT"
     },
     {
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 21:25:28 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 23:51:05 GMT"
     },
     {
-      "title": "Fire at nursing home in Chile kills 16 residents",
-      "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 19:36:50 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 12:15:50 GMT"
     },
     {
-      "title": "French officials investigate if malicious act caused train derailment",
-      "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
+      "title": "One dead, 102 rescued from Indonesian ferry that went missing in Java Sea",
+      "summary": "The nation's search and rescue team said it lost contact with the Virgo Transport 8 in the early hours of Sunday morning.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 12 Sep 2026 15:05:53 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 07:54:28 GMT"
     },
     {
-      "title": "Why Spain’s new Sahrawi citizenship law matters to Morocco",
-      "summary": "The new citizenship bill for Sahrawis touches a sensitive fault line in Madrid’s ties with Rabat.",
+      "title": "Olympic flame arrives in Senegal for first ever Olympic event in Africa",
+      "summary": "Olympic flame arrives in Senegal for first ever Olympic event in Africa",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/13/why-spains-new-sahrawi-citizenship-law-matters-to-morocco?traffic_source=rss",
-      "publishedAt": "Sun, 13 Sep 2026 01:41:10 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/olympic-flame-arrives-in-senegal-for-first-ever-olympic-event-in-africa?traffic_source=rss",
+      "publishedAt": "Sun, 13 Sep 2026 07:48:22 +0000"
     },
     {
-      "title": "Iran’s Pezeshkian: ‘We are not at war with Saudi Arabia’",
-      "summary": "Iranian President Masoud Pezeshkian said Tehran is not at war with Saudi Arabia.",
+      "title": "Mystery son and disputed heir: Uganda’s king buried amid succession dispute",
+      "summary": "The 34-year-old monarch’s death has opened a rare challenge to the traditional process of choosing Tooro’s next king.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
-      "publishedAt": "Sun, 13 Sep 2026 01:32:56 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss",
+      "publishedAt": "Sun, 13 Sep 2026 07:00:59 +0000"
     },
     {
-      "title": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
-      "summary": "US President Donald Trump said he would ‘love to see’ a united Ireland.",
+      "title": "Rescuers search for 140 people after Indonesian passenger ship sinks",
+      "summary": "Search and rescue ongoing after Virgo Transport 8, with 243 people on board, lost contact with its operator.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/12-09-sv-trump-for-united-ireland-ir?traffic_source=rss",
-      "publishedAt": "Sun, 13 Sep 2026 00:43:48 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/13/one-dead-102-rescued-after-indonesian-ferry-goes-missing-in-java-sea?traffic_source=rss",
+      "publishedAt": "Sun, 13 Sep 2026 06:36:40 +0000"
     },
     {
-      "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
-      "summary": "The Houthis claim their attack targeted a Saudi military base in Sharurah.",
+      "title": "About 1,400 Yemenis flee to Djibouti within 24 hours",
+      "summary": "Refugees from Yemen arrive in Obock, Djibouti, as Houthis tighten their grip on the Bab al-Mandeb strait.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
-      "publishedAt": "Sun, 13 Sep 2026 00:24:29 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/13/1400-yemenis-flee-to-djibouti-within-24-hours?traffic_source=rss",
+      "publishedAt": "Sun, 13 Sep 2026 04:40:18 +0000"
     },
     {
-      "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
-      "summary": "Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow over impact on Riyadh’s oil industry.",
+      "title": "Wildfire rages on Croatia’s Dalmatian Coast island of Brac",
+      "summary": "Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-      "publishedAt": "Sun, 13 Sep 2026 00:00:40 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss",
+      "publishedAt": "Sun, 13 Sep 2026 04:22:41 +0000"
     },
     {
-      "title": "Teen rescued after clinging to boat for two days off Alaska",
-      "summary": "A 15-year-old boy was miraculously rescued after spending two days clinging to his capsized boat in Alaska’s Bering Sea.",
+      "title": "One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says",
+      "summary": "Rescuers continue searching for survivors as the government scales back operations in open waters.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss",
-      "publishedAt": "Sat, 12 Sep 2026 23:56:58 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss",
+      "publishedAt": "Sun, 13 Sep 2026 03:41:14 +0000"
     },
     {
       "title": "Celine Dion returns to the stage after battling rare illness",
@@ -276,7 +276,7 @@
       "publishedAt": "Sat, 12 Sep 2026 07:00:00 -0400"
     },
     {
-      "title": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
+      "title": "Trump touches a nerve while in Ireland by saying reunification would be 'fantastic'",
       "summary": "President Trump held talks in Dublin with Irish President Catherine Connolly and Ireland's Prime Minister Micheál Martin during a weekend visit centered on a major golf tournament.",
       "source": "NPR",
       "lang": "en",
@@ -405,16 +405,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 20,
-      "description": "partly cloudy",
-      "high": 24,
+      "tempC": 25,
+      "description": "overcast",
+      "high": 25,
       "low": 19
     },
     {
       "place": "London",
-      "tempC": 19,
-      "description": "overcast",
-      "high": 23,
+      "tempC": 18,
+      "description": "light drizzle",
+      "high": 20,
       "low": 18
     }
   ],
