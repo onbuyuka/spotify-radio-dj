@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-15T03:16:17.942Z",
+  "updated": "2026-09-15T11:00:25.800Z",
   "news": [
+    {
+      "title": "'LGBTİ+ olmak müstehcenlik diye algılanıyor': Derneklere yönelik soruşturmalar nasıl yorumlanıyor?",
+      "summary": "LGBTİ+ dernekleri ve hak savunucularına yönelik 13 Eylül'de açılan soruşturmalarda 16 kişi tutuklandı, gözaltına alınan onlarca kişinin ifade ve mahkemeye sevk süreci devam ediyor. Hak savunucuları, soruşturmalarda yer alan fuhuş, müstehcen",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cqvgyj43el3no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 10:22:02 GMT"
+    },
+    {
+      "title": "Maarif Modeli'ne geçişte son yıl: İki farklı müfredat okullarda nasıl uygulanacak?",
+      "summary": "Türkiye'nin Maarif Model ile kademeli müfredat geçişi, 2026-2027 eğitim öğretim yılında üçüncü yılına giriyor. Bu model sınıflarda nasıl uygulanıyor, eski müfredattan farkı ne?",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c5yej7v0nz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 05:07:55 GMT"
+    },
     {
       "title": "CHP'nin temyizden feragat kararı: Kurultay ve Yargıtay sürecini nasıl etkileyebilir?",
       "summary": "CHP, \"mutlak butlan\" kararına karşı Özgür Özel ekibinin yaptığı temyiz başvurusundan feragat etti. CHP yönetimi, kararın olağan kongre takviminin gecikmemesi amacıyla alındığını açıkladı. Özel ve yönetimi, feragat kararının dosyanın Yargıta",
@@ -15,7 +31,15 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c5lymd84glvzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 23:34:53 GMT"
+      "publishedAt": "Tue, 15 Sep 2026 09:09:52 GMT"
+    },
+    {
+      "title": "78. Emmy Ödülleri'nde kazananlar belli oldu",
+      "summary": "ABD'nin dizi endüstrisindeki en prestijli ödüllerinden Emmy Ödülleri töreni Los Angeles'ta düzenlendi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cmqxvq3wrdz8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 06:23:07 GMT"
     },
     {
       "title": "Anthropic'in kurucu ortağı: Yapay zekayı 'acil durdurma düğmesinin' zorunlu olması gerekebilir",
@@ -26,262 +50,254 @@
       "publishedAt": "Mon, 14 Sep 2026 22:58:00 GMT"
     },
     {
-      "title": "'Ailem güvende' operasyonlarına karşı İzmir'de düzenlenen protestoya polis müdahalesi",
-      "summary": "Türkiye genelinde aralarında LGBTİ+ aktivistlerinin de olduğu çok sayıda kişinin tutuklanması ya da gözaltına alınasının ardından 14 Eylül Pazartesi akşamı İzmir'de protesto gösterisi düzenlendi. İnsan Hakları Derneği, gösteride biri avukat",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c624e4q594zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 23:55:57 GMT"
-    },
-    {
-      "title": "78. Emmy Ödülleri: Adaylar kimler?",
-      "summary": "Bu yılki Emmy Ödülleri hakkında bilmeniz gerekenleri derledik.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmqxvq3wrdz8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 23:37:22 GMT"
-    },
-    {
-      "title": "Galler, İskoçya ve Kuzey İrlanda liderleri: Merkezi yönetim devri bitiyor",
-      "summary": "Galler, İskoçya ve Kuzey İrlanda özerk yönetimleri başbakanları, İngiltere'nin de dahil olduğu Birleşik Krallık'ta Londra'daki merkezi yönetimi ifade eden \"Westminster'ın devrinin sona erdiğini\" ve Birleşik Krallık hükümetinin \"anayasal değ",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c6pwlkvgnyl0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 12:15:06 GMT"
-    },
-    {
-      "title": "Minibüs kafeye daldı, müşteriler son anda kurtuldu",
-      "summary": "Antalya'nın Manavgat ilçesinde minibüsün kafeye çarpması sonucu yaralanan kişi hastaneye kaldırıldı. Görüntülerde, üzerlerine gelen minibüsü fark eden kadının kaçmaya çalıştığı anlar yer aldı.",
+      "title": "Cumhurbaşkanı Erdoğan'dan Bakü'nün kurtuluş yıl dönümü mesajı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın başkenti Bakü'nün düşman işgalinden kurtuluşunun 108. yılını kutladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-15T02:41:55+03:00"
+      "publishedAt": "2026-09-15T13:53:47+03:00"
     },
     {
-      "title": "6 yaşındaki çocuk başından vurulmuş halde bulundu. Ağabeyi tutuklandı",
-      "summary": "Adana’da evde tabancayla başından vurulmuş halde yaralı bulunan B.Y. (6), hastaneye kaldırıldı. Ağır yaralı çocuğun hastanedeki tedavisi sürerken, gözaltına alınan ağabeyi tutuklandı.",
+      "title": "2026 yılının en çok kazandıran meslekleri",
+      "summary": "Boğaziçi Enstitüsü’nün araştırmasına göre, 2026’da en yüksek aylık ortalama gelir 456 bin TL ile noterlikte. Pilotluk 350 bin, yazılım mühendisliği 348 bin TL ile takip ediyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-15T01:27:58+03:00"
+      "publishedAt": "2026-09-15T13:31:54+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Eylül 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "title": "Uyuşturucu kuryesi pilot üniformasıyla kaçtı",
+      "summary": "İstanbul'da polis, pilot kıyafetiyle havalimanından ayrıldığı tespit edilen uyuşturucu kuryesini arıyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-15T06:00:00+03:00"
+      "publishedAt": "2026-09-15T13:28:11+03:00"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan: Gençleri siyasetin merkezine aldık",
-      "summary": "Cumhurbaşkanı Erdoğan, Samsun'da gençlerle buluştu. Siyasette hep gençlerle yürüdüklerini söyleyen Erdoğan, \"Gençleri siyasetin merkezine almak unutmayın bir irade meselesidir\" dedi.",
+      "title": "Kurtlar Vadisi senaristi Raci Şaşmaz ne dedi? İşte ifadesinin tam metni",
+      "summary": "Kurtlar Vadisi dizisinin senaristi Raci Şaşmaz, eski MİT görevlisi Kaşif Kozinoğlu'nun ölümüne ilişkin yürütülen soruşturmada ifade verdi. Şaşmaz, diziye yönelik iddialara da açıklık getirdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-15T00:03:27+03:00"
+      "publishedAt": "2026-09-15T11:13:48+03:00"
     },
     {
-      "title": "Yanan otobüsten herkesi kurtardı, kızı hayatını kaybetti",
-      "summary": "Kuzey Marmara Otoyolu'ndaki otobüs kazasında 13 yaşındaki Yüsra da hayatını kaybetti. Yüsra'nın babasının 6 kişiyi kurtardığı ancak kızını kurtarmadığı için suçluluk duyduğu öğrenildi.",
+      "title": "Valeye verilen klasik otomobil kaza yaptı: Firma masrafı ödemedi",
+      "summary": "İstanbul'da valeye bıraktığı klasik otomobili kaza yapan sürücü, firmanın tamir masraflarını ödeme sözünü tutmaması üzerine hukuk mücadelesi başlattı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-14T22:03:44+03:00"
+      "publishedAt": "2026-09-15T11:11:47+03:00"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 14 Eylül 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
+      "title": "İstanbul merkezli 10 ilde terör operasyonu: 39 gözaltı",
+      "summary": "İstanbul merkezli 10 ilde düzenlenen terör örgütü operasyonunda 39 şüpheli gözaltına alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-14T21:46:35+03:00"
+      "publishedAt": "2026-09-15T09:41:12+03:00"
     },
     {
-      "title": "4 ilde yasa dışı bahis operasyonu: 15 gözaltı",
-      "summary": "Muş merkezli 4 ilde düzenlenen operasyonda, yasa dışı bahis ve şans oyunlarından elde edilen gelirlerin nakline aracılık ettiği belirlenen 15 şüpheli gözaltına alındı",
+      "title": "Trabzonspor, Thomas Reis ile prensipte anlaştı!",
+      "summary": "Teknik direktör Fatih Tekke ile yol ayrımına giden Trabzonspor, bir dönem Samsunspor'u çalıştıran ve şu anda Ludogorets'in teknik direktörlüğünü üstlenen Thomas Reis ile prensip anlaşmasına vardı. Alman teknik adamın bugün Trabzon'a gelmesi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/mus-merkezli-yasa-disi-bahis-operasyonu-15-gozalti-3912499",
-      "publishedAt": "Mon, 14 Sep 2026 23:50:17 GMT"
+      "link": "https://www.haberturk.com/spor/trabzonspor-thomas-reis-ile-prensipte-anlasti-3912526",
+      "publishedAt": "Tue, 15 Sep 2026 10:50:55 GMT"
     },
     {
-      "title": "Kayıp öğretmenin cansız bedeni bulundu",
-      "summary": "Yalova’da görev yapan 43 yaşındaki matematik öğretmeni İlhan Algınkaplan’ın cansız bedeni, İznik Gölü’nde sahilden yaklaşık 50 metre açıkta bulundu. Deniz polisi tarafından sudan çıkarılan Algınkaplan’ın cenazesi, ambulansla Orhangazi Devle",
+      "title": "Ahmet Mümtaz Taylan'dan ilk fotoğraf sergisi",
+      "summary": "Sanatçı Ahmet Mümtaz Taylan’ın ilk fotoğraf sergisi “Noksan” 30 Eylül’de LEE Art Project’te sanatseverlerle buluşuyor. Taylan’ın farklı coğrafyalarda çektiği fotoğrafları bir araya getiren sergi, izleyiciyi kadrajda sunulanın ötesine bakmay",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/ogretmen-ilhan-alginkaplan-araniyor-3912495",
-      "publishedAt": "Mon, 14 Sep 2026 23:00:30 GMT"
+      "link": "https://www.haberturk.com/kultur-sanat/ahmet-mumtaz-taylan-dan-ilk-fotograf-sergisi-noksan-3912622",
+      "publishedAt": "Tue, 15 Sep 2026 10:53:49 GMT"
     },
     {
-      "title": "Litvanya hava sahasına giren İHA, NATO tarafından düşürüldü",
-      "summary": "Litvanya Cumhurbaşkanı Gitanas Nauseda, ülkesinin hava sahasına giren insansız hava aracının (İHA) NATO savaş uçakları tarafından düşürüldüğünü açıkladı",
+      "title": "17 yaşındaki genç kızın şüpheli ölümü!",
+      "summary": "Mardin'in Artuklu ilçesinde, 17 yaşındaki Gülizar Albayrak, anne ve babası tarafından evlerinde av tüfeğiyle vurulmuş halde ölü bulundu. Olay yerinde bir av tüfeği ile buna ait boş kartuş bulunduğu belirtildi. Genç kızın ölümüyle ilgili baş",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/litvanya-hava-sahasina-giren-iha-nato-tarafindan-dusuruldu-3912497",
-      "publishedAt": "Mon, 14 Sep 2026 22:57:46 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-17-yasindaki-gulizar-albayrak-in-supheli-olumu-mardin-haberleri-3912620",
+      "publishedAt": "Tue, 15 Sep 2026 10:46:43 GMT"
     },
     {
-      "title": "Manavgat'ta otomobil TIR'a çarptı: 1 ölü",
-      "summary": "Antalya Manavgat'ta sürücüsünün kontrolünden çıkan otomobil, TIR'a arkadan çarptı. Feci kazada otomobilin sürücüsü hayatını kaybetti",
+      "title": "UEFA, finallerin ev sahiplerini açıkladı!",
+      "summary": "UEFA, gerçekleştirilen yürütme kurulu toplantısının ardından çeşitli finallere ev sahipliği yapacak şehir ve stadyumları açıkladı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/manavgat-ta-otomobil-tir-a-carpti-1-olu-3912494",
-      "publishedAt": "Mon, 14 Sep 2026 22:25:54 GMT"
+      "link": "https://www.haberturk.com/spor/uefa-finallerin-ev-sahiplerini-acikladi-3912608",
+      "publishedAt": "Tue, 15 Sep 2026 10:45:50 GMT"
     },
     {
-      "title": "Emekli promosyon kampanyası güncellendi!",
-      "summary": "Eylül ayında emekli promosyon kampanyası yenilendi. Bankaların maaş promosyonlarından yararlanmak isteyenler kampanya koşullarını araştırıyor. Bazı bankalar yalnızca temel promosyon ödemesi yaparken, otomatik ödeme, kredi kartı kullanımı ve",
+      "title": "Robom’dan Defter Beyan Sistemi ve e-ticaret entegrasyonu",
+      "summary": "Mükellef Teknoloji bünyesinde faaliyet gösteren ön muhasebe programı Robom, mali müşavirler ve e-ticaret işletmelerinin manuel yürüttüğü bazı operasyonları otomatikleştirmeye yönelik iki yeni özelliğini devreye aldı. Defter Beyan Sistemi en",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/emekli-promosyon-kampanyasi-guncellendi-2026-en-yuksek-emekli-maas-promosyonu-veren-banka-hangisi-ve-ne-kadar-3912236",
-      "publishedAt": "Mon, 14 Sep 2026 22:22:23 GMT"
+      "link": "https://www.haberturk.com/ekonomi/robomdan-defter-beyan-sistemi-ve-e-ticaret-entegrasyonu-3912621",
+      "publishedAt": "Tue, 15 Sep 2026 10:44:01 GMT"
     },
     {
-      "title": "ALES/3 ne zaman?",
-      "summary": "ÖSYM tarafından ALES 3 sınavı gerçekleşecek. Akademik kariyer hedefi olan adaylar başvurularını tamamlamalarının ardından sınava katılım sağlayabilecek. Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı için tarih ve başvuru detayı belli",
+      "title": "Doğa Kolejinde yeni eğitim yılı 25. yıl heyecanıyla başladı",
+      "summary": "Türkiye’nin dört bir yanındaki Doğa Koleji kampüslerinde okulun ilk gün heyecanı yaşanırken on binlerce öğrenci uzun bir yaz tatilinin ardından öğretmenleri ve arkadaşlarıyla yeniden buluştu",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/ales3-ne-zaman-ales-3-sinav-ve-basvuru-tarihleri-belli-oldu-3912491",
-      "publishedAt": "Mon, 14 Sep 2026 22:22:01 GMT"
+      "link": "https://www.haberturk.com/gundem/doga-kolejinde-yeni-egitim-yili-25-yil-heyecaniyla-basladi-3912619",
+      "publishedAt": "Tue, 15 Sep 2026 10:41:44 GMT"
     },
     {
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+      "summary": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 11:31:39 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 08:49:31 GMT"
     },
     {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+      "summary": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 12:18:13 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 02:50:36 GMT"
     },
     {
-      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-      "summary": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 08:36:09 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 10:12:49 GMT"
     },
     {
-      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+      "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 14:08:12 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 03:50:06 GMT"
     },
     {
-      "title": "Thousands demand end to violence in Mexican cartel hotspot",
-      "summary": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 11:28:36 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 09:59:14 GMT"
     },
     {
-      "title": "Legendary costume designer Bob Mackie dies aged 87",
-      "summary": "The \"Sultan of Sequins\" created iconic and dazzling costumes for stars including Cher, Tina Turner and Elton John.",
+      "title": "US confirms for first time it has deployed space weapons",
+      "summary": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cmpq04wx8l4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 14 Sep 2026 21:29:12 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 15 Sep 2026 08:48:28 GMT"
     },
     {
-      "title": "Trump administration suffers double legal setback over immigration rules",
-      "summary": "Courts and Democratic-led states mount legal challenges against Trump administration visa and green card limits.",
+      "title": "UN experts say Belarus justice system used to target Lukashenko opponents",
+      "summary": "The experts say courts, police, security services, prosecutors, and prison authorities work together to silence critics.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/15/trump-administration-suffers-double-legal-setback-over-immigration-rules?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 02:31:18 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/15/un-experts-say-belarus-justice-system-used-to-target-lukashenko-opponents?traffic_source=rss",
+      "publishedAt": "Tue, 15 Sep 2026 10:21:22 +0000"
     },
     {
-      "title": "Suspected bicycle thief dies during arrest in Netherlands",
-      "summary": "Protests have been held in Rotterdam, the Netherlands after a man died during a police arrest over the weekend.",
+      "title": "US Supreme Court rejects Trump’s plans on postal ballots: Why it matters",
+      "summary": "Trump has repeatedly criticised mail-in votes and has attempted to restrict them ahead of the midterms.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_suspected-bike-thief-dies-during-arrest-netherlands-140926?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 02:30:09 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss",
+      "publishedAt": "Tue, 15 Sep 2026 09:15:01 +0000"
     },
     {
-      "title": "Viral hit-and-run raises road rage questions in India",
-      "summary": "Indian police have launched a probe after a woman biker shared video of a car ramming her motorcycle.",
+      "title": "Mitch McConnell returns to US Senate after three-month absence",
+      "summary": "Senator McConnell casts his first vote since June, pledging presence for crucial Senate decisions.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/viral-hit-and-run-raises-road-rage-questions-in-india?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 02:07:17 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/15/mitch-mcconnell-returns-to-us-senate-after-three-month-absence?traffic_source=rss",
+      "publishedAt": "Tue, 15 Sep 2026 08:41:10 +0000"
     },
     {
-      "title": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
-      "summary": "Israeli rights group B’Tselem says Israeli settler violence aims to eliminate Palestinian existence.",
+      "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response",
+      "summary": "Saudi-led coalition promises to respond 'firmly' to Houthi strikes on urban areas in Saudi Arabia.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 01:23:53 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/15/houthis-report-air-strikes-in-yemen-after-saudi-arabia-vows-firm-response?traffic_source=rss",
+      "publishedAt": "Tue, 15 Sep 2026 08:11:09 +0000"
     },
     {
-      "title": "Russia resupplies military bases in Syria for first time under new deal",
-      "summary": "Moscow maintains military foothold in the Mediterranean following talks with Damascus",
+      "title": "What to watch in the US’s Delaware primary elections",
+      "summary": "It's the last state primary scheduled before November's midterm elections.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/15/russia-resupplies-military-bases-in-syria-for-first-time-under-new-deal?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 00:43:47 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss",
+      "publishedAt": "Tue, 15 Sep 2026 07:52:46 +0000"
     },
     {
-      "title": "Geneva talks put Rwanda-DRC peace deal to the test",
-      "summary": "The talks come amid continued fighting and disputes over the implementation of key security commitments.",
+      "title": "Hungary to amend anti-LGBTQ law to align with EU standards",
+      "summary": "A new bill will remove references to banning the 'promotion' of homosexuality.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/15/geneva-talks-put-rwanda-drc-peace-deal-to-the-test?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 00:26:06 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss",
+      "publishedAt": "Tue, 15 Sep 2026 07:40:37 +0000"
     },
     {
-      "title": "Emmys 2026: Here's the list of winners",
-      "summary": "Law & Order: SVU star Mariska Hargitay is hosting the Emmy Awards on Monday night. We'll be updating this list as winners are announced.",
+      "title": "Air pollution spiked after the Trump administration stopped embassy monitoring",
+      "summary": "In 2025, the Trump administration ended a long-running program to collecting air pollution data at U.S. embassies. A new study suggests that led to a 24-33% increase in local pollution levels.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5957565/emmys-2026-winners",
-      "publishedAt": "Mon, 14 Sep 2026 19:55:49 -0400"
+      "link": "https://www.npr.org/2026/09/15/nx-s1-5966503/air-pollution-spiked-after-the-trump-administration-stopped-embassy-monitoring",
+      "publishedAt": "Tue, 15 Sep 2026 06:26:08 -0400"
     },
     {
-      "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms",
-      "summary": "The Supreme Court has rejected the Trump administration's request to allow mail-in voting restrictions under a U.S. Postal Service plan for the midterm general election.",
+      "title": "NATO jets down drone in Lithuanian airspace",
+      "summary": "The incident came less than a day after NATO leaders pledged that strikes close to the alliance's territory would drive the trans-Atlantic organization to increase support for Kyiv.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
-      "publishedAt": "Mon, 14 Sep 2026 19:38:40 -0400"
+      "link": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+      "publishedAt": "Tue, 15 Sep 2026 05:06:30 -0400"
     },
     {
-      "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence",
-      "summary": "McConnell spent weeks in recovery before explaining he was \"briefly unconscious\" following the fall that sent him to the hospital and a weeks-long recovery process.",
+      "title": "Get ready for yet another cost when buying a home: Junk fees",
+      "summary": "Some real estate agents and researchers say home buyers and sellers should not pay this out-of-pocket fee.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5968909/mitch-mcconnell-senate-return",
-      "publishedAt": "Mon, 14 Sep 2026 18:36:33 -0400"
+      "link": "https://www.npr.org/2026/09/15/nx-s1-5968763/housing-home-buying-junk-fees",
+      "publishedAt": "Tue, 15 Sep 2026 05:00:00 -0400"
     },
     {
-      "title": "Federal agents may have broken state laws in voter fraud hunt, whistleblower claims",
-      "summary": "Federal agents may have broken state laws after the Department of Homeland Security began surging personnel for what it called the Unlawful Voter Initiative, a federal whistleblower alleges.",
+      "title": "NASA rushed engineers out of their labs. They say it risks future space missions",
+      "summary": "NASA employees say they've lost vital equipment and staff needed to make sophisticated spacecraft amid the agency's abrupt relocations over the past several months.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5968892/dhs-whistleblower-voter-fraud",
-      "publishedAt": "Mon, 14 Sep 2026 18:05:06 -0400"
+      "link": "https://www.npr.org/2026/09/15/nx-s1-5964919/nasa-employee-relocations-equipment-impacts-missions",
+      "publishedAt": "Tue, 15 Sep 2026 05:00:00 -0400"
     },
     {
-      "title": "Trump's EPA repeals pollution limits on fossil fuel power plants",
-      "summary": "The Trump administration is eliminating limits on climate-warming pollution from the nation's fossil fuel power plants. Environmental groups say this will impact the climate and public health.",
+      "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI",
+      "summary": "The poles of U.S. politics are coming together over AI. Sanders and Bannon will appear at the \"Pro-Human Assembly\" in Washington, D.C., to convince Congress to work faster to curb the impact of AI.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5968785/epa-repeals-pollution-limits-on-power-plants",
-      "publishedAt": "Mon, 14 Sep 2026 16:34:28 -0400"
+      "link": "https://www.npr.org/2026/09/15/nx-s1-5968678/bernie-sanders-and-steve-bannon-to-share-a-stage-to-promote-curbs-on-ai",
+      "publishedAt": "Tue, 15 Sep 2026 05:00:00 -0400"
     },
     {
-      "title": "Israel is 'dismantling Palestinian life' says Israeli human rights group",
-      "summary": "One of the country's leading human rights organizations says Israel is dismantling all aspects of Palestinian life at a breakneck rate. The group has extensively documented what it says are the mechanisms Israel has used to \"ethnically clea",
+      "title": "This bill could reshape crypto in America -- and it's sparking a major battle",
+      "summary": "The legislation would establish rules of the road for the crypto sector for the first time — but opponents are up in arms, and the bill faces an uncertain prospect in the Senate.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5964897/israel-is-systematically-dismantling-palestinian-life-says-human-rights-group",
-      "publishedAt": "Mon, 14 Sep 2026 16:34:20 -0400"
+      "link": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+      "publishedAt": "Tue, 15 Sep 2026 05:00:00 -0400"
+    },
+    {
+      "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
+      "summary": "Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowingWhen Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South Afr",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
+      "publishedAt": "Tue, 15 Sep 2026 04:00:27 GMT"
+    },
+    {
+      "title": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
+      "summary": "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under controlAuthorities in the Democratic Republic of the Congo have announced that the Ebola outbreak ravaging parts of the country has re",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
+      "publishedAt": "Tue, 15 Sep 2026 04:00:26 GMT"
     },
     {
       "title": "The London hospital funded by donors who invested in the slave trade",
@@ -298,22 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
       "publishedAt": "Mon, 14 Sep 2026 12:38:51 GMT"
-    },
-    {
-      "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
-      "summary": "Royal guards carry casket through streets of Fort Portal amid row over appointment of Edward Rukidi KijanangomaUganda’s King Oyo Nyimba Kabamba Iguru Rukidi IV, long the world’s youngest monarch, has been buried among the tombs of his royal",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/sep/12/burial-king-oyo-uganda",
-      "publishedAt": "Sat, 12 Sep 2026 15:09:05 GMT"
-    },
-    {
-      "title": "Six Nigerians extradited to US over $6m online romance scam",
-      "summary": "Alleged members of Black Axe criminal network that swindled US women out of $6m flown from South AfricaSix Nigerian nationals linked to an organized criminal network that allegedly swindled American women out of more than $6m through online",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
-      "publishedAt": "Sat, 12 Sep 2026 14:05:45 GMT"
     }
   ],
   "sports": [
@@ -396,14 +396,7 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 17,
-      "description": "overcast",
-      "high": 23,
-      "low": 17
-    },
-    {
-      "place": "London",
-      "tempC": 19,
+      "tempC": 22,
       "description": "overcast",
       "high": 22,
       "low": 16
