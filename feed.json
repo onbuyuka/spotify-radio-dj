@@ -1,21 +1,29 @@
 {
-  "updated": "2026-09-16T16:04:17.513Z",
+  "updated": "2026-09-16T20:50:39.265Z",
   "news": [
     {
-      "title": "Borsa İstanbul neden değer kaybediyor?",
-      "summary": "Borsa İstanbul'daki satışlar bugün hız kazandı ve BIST 100 endeksi %5'in üzerinde değer kaybederek günü 13 bin 122 puanla kapattı. Peki bu düşüşün nedenleri ne? Küresel ve Türkiye'ye özgü nedenleri inceledik.",
+      "title": "Borsa İstanbul'daki kayıplardan sonra Finansal İstikrar Komitesi toplantısı",
+      "summary": "Finansal İstikrar Komitesi piyasalardaki sert düşüşten sonra Bakan Mehmet Şimşek başkanlığında sabah olağanüstü toplanma kararı aldı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cmgqdegq5n8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 15:25:38 GMT"
+      "publishedAt": "Wed, 16 Sep 2026 20:04:16 GMT"
     },
     {
-      "title": "ABD Merkez Bankası Fed'in kritik faiz kararı bu akşam",
-      "summary": "ABD Merkez Bankası (Fed) kritik merkez bankası kararını bu akşam TSİ 21:30'da açıklayacak. Piyasalarda 25 baz puanlık bir artışla, faizlerin %3,75-4 bandına gelmesi bekleniyor.",
+      "title": "ABD Merkez Bankası Fed üç yıl sonra faiz artırdı",
+      "summary": "ABD Merkez Bankası (Fed) üç yıl sonra ilk kez faiz artırdı. Fed piyasaların beklediği gibi 25 baz puanlık bir artışla, faizleri %3,75- % 4 bandına yükseltti.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cm986j2pn06ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 14:42:49 GMT"
+      "publishedAt": "Wed, 16 Sep 2026 19:29:07 GMT"
+    },
+    {
+      "title": "Kardeşinin Prenses Diana'yı yazdığı kitap Hollanda'da çalındı",
+      "summary": "Kont Spencer'ın kız kardeşi Galler Prensesi Diana hakkındaki henüz yayınlanmamış kitabının kopyaları Hollanda'da bir kamyondan çalındı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cw4gr510j3edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 16 Sep 2026 20:31:09 GMT"
     },
     {
       "title": "Mekke yakınlarında İHA düşürüldü, ABD Suudi Arabistan'a seyahat uyarısını sıkılaştırdı",
@@ -42,12 +50,32 @@
       "publishedAt": "Wed, 16 Sep 2026 07:57:00 GMT"
     },
     {
-      "title": "Eski Kosova lideri Haşim Taçi 25 yıl hapis cezası aldı",
-      "summary": "Kosova'nın Sırbistan'dan bağımsızlık mücadelesi verdiği dönemde Kosova Kurtuluş Ordusu'nun (UÇK) başında olan eski Cumhurbaşkanı Haşim Taçi savaş suçu nedeniyle 25 yıl hapis cezasına çarptırıldı. Taçi'nin destekçileri karar sonrası eylem dü",
-      "source": "BBC Türkçe",
+      "title": "Şans Topu Sonuçları Sorgulama Ekranı 16 Eylül | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
+      "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c914dr5433v6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 14:04:30 GMT"
+      "publishedAt": "2026-09-16T21:49:44+03:00"
+    },
+    {
+      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 16 Eylül 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-16T21:48:00+03:00"
+    },
+    {
+      "title": "Mekke'ye İHA saldırısı girişimine Türkiye'den tepki",
+      "summary": "Husiler tarafından Mekke şehrini hedef alan İHA saldırılarına Türkiye'den tepki geldi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-16T21:16:23+03:00"
+    },
+    {
+      "title": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Türk devletlerine ortak banka önerisi",
+      "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Türk Devletleri Teşkilatı (TDT) üyesi ülkelerin dijital ticaret alanını hayata geçirmesi ve ortak kalkınma bankası kurması gerektiğini söyledi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-16T19:47:59+03:00"
     },
     {
       "title": "İbrahim Turhan hakkında soruşturma başlatıldı",
@@ -64,80 +92,60 @@
       "publishedAt": "2026-09-16T18:08:19+03:00"
     },
     {
-      "title": "Bakan Ersoy, Kahramanmaraş’ta valiler, belediye başkanları ve milletvekilleriyle görüştü",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy Kahramanmaraş’ta valiler, belediye başkanları ve milletvekilleriyle bir araya geldi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-16T17:59:16+03:00"
-    },
-    {
-      "title": "BDDK karar verdi: Golden Global'de ortaklık hakları TMSF'ye verildi",
-      "summary": "BDDK, Golden Global Yatırım Bankası’ndaki yüzde 99,98’lik paya ilişkin temettü dışındaki ortaklık haklarının TMSF tarafından kullanılmasına karar verdi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-16T17:42:05+03:00"
-    },
-    {
-      "title": "Nasuh Mahruki hakkında tahliye kararı",
-      "summary": "Sosyal medya hesabından yaptığı 15 Temmuz ile ilgili bir paylaşımı gerekçesiyle tutuklanan eski Arama Kurtarma Derneği (AKUT) Başkanı Nasuh Mahruki'ye tahliye kararı verildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-16T16:49:27+03:00"
-    },
-    {
-      "title": "MİT Başkanı İbrahim Kalın Afganistan'da",
-      "summary": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, Afganistan'ın başkenti Kabil ile Kandahar'a ziyarette bulundu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-16T16:54:46+03:00"
-    },
-    {
-      "title": "Konyaspor'un net borcu 2.7 milyar TL!",
-      "summary": "Konyaspor Başkanı Ömer Atiker, kulübün 2.7 milyar TL borcu olduğunu belirtirken, Yeşil Beyaz Sanayi Sitesi Projesi ile kulübün ekonomik geleceğine katkı sağlamayı hedeflediklerini ifade etti.",
+      "title": "Macklemore'a destek verdi",
+      "summary": "Dünyac ünlü İngiliz yarış pilotu Lewis Hamilton, Ed Sheeran'ın ABD turnesinden çıkarılan Macklemore'un yanında durdu. Hamilton, rapçiye \"Sesini kullandığın ve yanında durduğun için teşekkür ederim\" dedi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/konyaspor-un-net-borcu-27-milyar-tl-olarak-aciklandi-3912934",
-      "publishedAt": "Wed, 16 Sep 2026 15:49:02 GMT"
+      "link": "https://www.haberturk.com/magazin/foto/lewis-hamilton-macklemore-a-destek-verdi-3912977",
+      "publishedAt": "Wed, 16 Sep 2026 20:01:30 GMT"
     },
     {
-      "title": "Ukrayna'da çocuklarla bir araya geldi",
-      "summary": "Angelina Jolie, savaşın sürdüğü Ukrayna'da okulları ziyaret ederek çocuklar, öğretmenler ve bölge halkıyla bir araya geldi. Ünlü oyuncu, metro istasyonları ile yeraltına kurulan sınıflarda eğitim gören çocukların yaşadıklarını paylaştı",
+      "title": "Fed faiz kararını açıkladı",
+      "summary": "ABD Merkez Bankası (Fed), politika faizini 25 baz puan artırarak yüzde 3,75-4 aralığına yükseltti. Karar, Temmuz 2023'ten bu yana yapılan ilk faiz artışı oldu. Kararla beraber yayımlanan nokta grafik bu yıl bir faiz artırımı daha gelebilece",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/foto/angelina-jolie-ukrayna-da-cocuklarla-bir-araya-geldi-3912930",
-      "publishedAt": "Wed, 16 Sep 2026 15:46:27 GMT"
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-fed-faiz-kararini-acikladi-3912959",
+      "publishedAt": "Wed, 16 Sep 2026 20:42:06 GMT"
     },
     {
-      "title": "Contemporary Istanbul 21. edisyonuyla geliyor",
-      "summary": "70 galeri, 736 sanatçı ve 1.372 eseri bir araya getirecek olan Contemporary Istanbul, 21. edisyonuyla 23–27 Eylül 2026 tarihleri arasında Tersane Istanbul’da sanatseverlerle buluşacak",
+      "title": "İBB davasında 82’nci duruşma",
+      "summary": "İBB’ye yönelik ‘Yolsuzluk’ davasında, aralarında görevinden uzaklaştırılan Ekrem İmamoğlu’nun da bulunduğu 50’si tutuklu 414 sanık, 82’nci duruşmada hakim karşısına çıktı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/kultur-sanat/son-dakika-contemporary-istanbul-21-edisyonuyla-geliyor-3912933",
-      "publishedAt": "Wed, 16 Sep 2026 15:45:57 GMT"
+      "link": "https://www.haberturk.com/gundem/ibb-davasinda-82nci-durusma-3912981",
+      "publishedAt": "Wed, 16 Sep 2026 20:41:05 GMT"
     },
     {
-      "title": "Tehlikeli tamir",
-      "summary": "Bursa’da bir tamircinin, seyir halindeki otomobilin kaputunu açarak motor bölümünde çalışma yapması görenleri şaşkına çevirdi",
+      "title": "Usta oyuncu vefat etti",
+      "summary": "Tiyatro, sinema ve televizyon dünyasının usta isimlerinden Münir Canar, 81 yaşında hayatını kaybetti",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/bursa-niluferde-hareket-halindeki-otomobilde-yapilan-tamirat-kameraya-yansidi-3912931",
-      "publishedAt": "Wed, 16 Sep 2026 15:44:21 GMT"
+      "link": "https://www.haberturk.com/magazin/munir-canar-vefat-etti-3912982",
+      "publishedAt": "Wed, 16 Sep 2026 20:34:21 GMT"
     },
     {
-      "title": "Bettina Pousttchi İstanbul Modern'e geliyor",
-      "summary": "İstanbul Modern, onuncu koleksiyon sergisi “Aynı Mavinin Altında” kapsamında Alman sanatçı Bettina Pousttchi’yi ağırlayacak. Pousttchi, 22 Eylül’de gerçekleştirilecek söyleşide sanat pratiğini, kamusal alana yaklaşımını ve gündelik kent nes",
+      "title": "\"Ailem Güvende\" operasyonunda 20 tutuklama",
+      "summary": "İstanbul merkezli düzenlenen ve 6 LGBTİ+ derneğini de kapsayan \"Ailem Güvende\" operasyonunda gözaltına alınan 20 şüpheli tutuklandı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/kultur-sanat/bettina-pousttchi-istanbul-modern-e-geliyor-3912929",
-      "publishedAt": "Wed, 16 Sep 2026 15:32:31 GMT"
+      "link": "https://www.haberturk.com/gundem/ailem-guvende-operasyonunda-20-tutuklama-3912984",
+      "publishedAt": "Wed, 16 Sep 2026 20:30:06 GMT"
     },
     {
-      "title": "İş'te Eylül ayının kitapları",
-      "summary": "Türkiye İş Bankası Kültür Yayınları’nın Çağdaş Dünya Edebiyatı, 21. Yüzyıl Kitaplığı, Türk Edebiyatı Klasikleri, İnceleme-Araştırma-Tarih ve Çocuk dizilerinden yeni kitaplar okuyucularla buluşuyor...",
+      "title": "Çekici üzerinde dans pahalıya patladı",
+      "summary": "Aksaray’da iki gencin çekici üzerinde seyir halindeyken dans ettiği görüntüler sonrası araç sahibine toplam 35 bin lira ceza uygulandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/kultur-sanat/is-te-eylul-ayinin-kitaplari-3912927",
-      "publishedAt": "Wed, 16 Sep 2026 15:24:04 GMT"
+      "link": "https://www.haberturk.com/gundem/aksarayda-seyir-halindeki-aracta-tehlikeli-eglence-kameraya-yansidi-3912985",
+      "publishedAt": "Wed, 16 Sep 2026 20:29:02 GMT"
+    },
+    {
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 16 Sep 2026 18:36:16 GMT"
     },
     {
       "title": "EU chief backs plan for Canada to become 'associate member'",
@@ -149,19 +157,19 @@
     },
     {
       "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
+      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 13:28:46 GMT"
+      "publishedAt": "Wed, 16 Sep 2026 17:16:47 GMT"
     },
     {
-      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
-      "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
+      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+      "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 12:26:00 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 16 Sep 2026 19:59:57 GMT"
     },
     {
       "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
@@ -180,60 +188,92 @@
       "publishedAt": "Wed, 16 Sep 2026 14:50:26 GMT"
     },
     {
-      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-      "summary": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 08:36:17 GMT"
-    },
-    {
-      "title": "Ex-Trump ally Marjorie Taylor Greene says war on Iran must ‘stop’",
-      "summary": "Former Republican Congresswoman Marjorie Taylor Greene slammed US President Donald Trump’s war on Iran.",
+      "title": "New video claims to show Saudi fighter jet Houthis say they shot down",
+      "summary": "Houthi forces have released a video claiming to show a Saudi fighter jet the group says was shot down in Yemen’s Marib.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/ex-trump-ally-marjorie-taylor-greene-says-war-on-iran-must?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 15:23:51 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 20:12:25 +0000"
     },
     {
-      "title": "Djibouti calls for assistance as thousands of Yemenis flee to country",
-      "summary": "Djibouti's interior minister has warned that number of people arriving in the country already exceeds national capacity.",
+      "title": "Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare",
+      "summary": "Discontent is testing President Ahmed al-Sharaa's ability to unify a country emerging from 14 years of conflict.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/16/djibouti-calls-for-assistance-as-thousands-of-yemenis-flee-to-country?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 15:16:07 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 20:08:50 +0000"
     },
     {
-      "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
-      "summary": "Two people were killed in the assault on Gaza City - a paramedic and a 15-year-old boy returning from school.",
+      "title": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
+      "summary": "Trump pushes for a solution to end Moscow's war against Kyiv as civilian deaths in Ukraine rise.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 15:00:20 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 20:05:51 +0000"
     },
     {
-      "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-      "summary": "High energy costs at the pump and strategic setback for US in the Iran war will likely cost Trump in the midterms.",
+      "title": "Al-Mughayyir: A village under siege",
+      "summary": "In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 14:53:51 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 19:48:05 +0000"
     },
     {
-      "title": "Mbappe, Vinicius and Konate court controversy with Ceuta solidarity shirts",
-      "summary": "The three footballers partially covered up a slogan in solidarity with Ceuta worn by the rest of their teams.",
+      "title": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
+      "summary": "US Senator Bill Cassidy presses Trump's pick for surgeon general on views over vaccines, public health.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/9/16/mbappe-vinicius-and-konate-court-controversy-with-ceuta-solidarity-shirts?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 14:42:44 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 19:45:30 +0000"
     },
     {
-      "title": "Egypt’s el-Sisi rejects displacement of Palestinians from Gaza",
-      "summary": "Israel’s defence minister has pledged to remove Palestinians from the besieged Strip.",
+      "title": "Lebanon returns 37 artefacts smuggled out of Egypt six years ago",
+      "summary": "The artefacts date back to the pharaonic civilisation, more commonly referred to as ancient Egypt.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/16/egypts-el-sisi-rejects-displacement-of-palestinians-from-gaza?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 14:31:14 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 19:44:05 +0000"
+    },
+    {
+      "title": "EU rolls out red carpet to Canada to become its first 'associate member'",
+      "summary": "The European Union's top official backs the Canadian prime minister's push for his country to become the bloc's first \"associate member,\" as Brussels seeks to deepen ties amid pressure from the U.S.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
+      "publishedAt": "Wed, 16 Sep 2026 16:08:27 -0400"
+    },
+    {
+      "title": "Congress is under pressure to act on AI — here's what that could look like",
+      "summary": "Lawmakers are expressing broader willingness to regulate AI development, but the path forward may not be a quick one.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/16/nx-s1-5969933/congress-ai-regulation",
+      "publishedAt": "Wed, 16 Sep 2026 13:32:44 -0400"
+    },
+    {
+      "title": "DOJ charges Russian agents with plotting attacks, including in US",
+      "summary": "The indictment says the defendants belong to a network that \"is one arm of the Russian Federation's apparatus used to carry out external attacks\" worldwide.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+      "publishedAt": "Wed, 16 Sep 2026 13:19:49 -0400"
+    },
+    {
+      "title": "A tumultuous congressional primary season closes with record departures and defeats",
+      "summary": "Already, close to 100 lawmakers who started this Congress will not be around for the next one, according to an NPR analysis, driven by record-setting retirements and primary defeats.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/16/nx-s1-5971264/congress-retirement-2026-house-senate-primary-defeat",
+      "publishedAt": "Wed, 16 Sep 2026 13:05:41 -0400"
+    },
+    {
+      "title": "How Jared Kushner is mixing U.S. diplomacy with his billion-dollar business",
+      "summary": "The New Yorker's Dexter Filkins says while Trump's son-in-law is a U.S. special envoy negotiating peace, he's also working on private business deals, raising billions in some of the same countries.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
+      "publishedAt": "Wed, 16 Sep 2026 12:14:19 -0400"
     },
     {
       "title": "Mice with human brain cells offer a tool to study disease. Ethicists ask: What's next?",
@@ -242,46 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
       "publishedAt": "Wed, 16 Sep 2026 11:00:16 -0400"
-    },
-    {
-      "title": "How are rising prices affecting you? NPR wants to know",
-      "summary": "Inflation, gasoline prices and the cost of living are top of mind in the election season. How are higher costs shaping the way you live? NPR wants to hear.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5969965/cost-of-living-expenses-prices-midterms",
-      "publishedAt": "Wed, 16 Sep 2026 09:40:12 -0400"
-    },
-    {
-      "title": "Russia seizes Ukrainian POWs, then it demands favors from their relatives",
-      "summary": "Russia is believed to be holding thousands of Ukrainian POWs. Russia is also tormenting the families of these prisoners by contacting their relatives on social media and demanding they help Russia.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5904423/russia-seizes-ukrainian-pows-then-it-demands-favors-from-their-relatives",
-      "publishedAt": "Wed, 16 Sep 2026 09:33:53 -0400"
-    },
-    {
-      "title": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
-      "summary": "The Fed is expected to raise interest rates today for the first time in three years. And, the Kennedy Center board voted yesterday to close the historic center.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/16/g-s1-143569/up-first-newsletter-fed-reserve-interest-rates-iran-war-kennedy-center-contraception",
-      "publishedAt": "Wed, 16 Sep 2026 07:19:46 -0400"
-    },
-    {
-      "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
-      "summary": "European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first associate member, a striking overture as U.S. President Donald Trump's tariffs drive Ottawa closer to Europe.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5970985/canada-become-eu-associate-member",
-      "publishedAt": "Wed, 16 Sep 2026 06:48:22 -0400"
-    },
-    {
-      "title": "Senators question Trump's picks for top health positions, including surgeon general",
-      "summary": "On Wednesday, the Senate committee on health holds a confirmation hearing for three top health officials, including surgeon general. Dr. Nicole Saphier is President Trump's third attempt to nominate a surgeon general.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5968780/trump-rfk-jr-health-nomination-surgeon-general",
-      "publishedAt": "Wed, 16 Sep 2026 06:00:00 -0400"
     },
     {
       "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
@@ -321,14 +321,18 @@
       "league": "La Liga",
       "home": "Barcelona",
       "away": "Racing de Santander",
-      "status": "upcoming",
+      "homeScore": 4,
+      "awayScore": 1,
+      "status": "FT",
       "date": "2026-09-16"
     },
     {
       "league": "La Liga",
       "home": "Atlético Madrid",
       "away": "Osasuna",
-      "status": "upcoming",
+      "homeScore": 4,
+      "awayScore": 0,
+      "status": "FT",
       "date": "2026-09-16"
     },
     {
@@ -369,15 +373,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 19,
-      "description": "light rain",
+      "tempC": 18,
+      "description": "overcast",
       "high": 20,
       "low": 18
     },
     {
       "place": "London",
-      "tempC": 20,
-      "description": "partly cloudy",
+      "tempC": 17,
+      "description": "overcast",
       "high": 20,
       "low": 14
     }
