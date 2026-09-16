@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T23:23:18.447Z",
+  "updated": "2026-09-16T03:12:26.422Z",
   "news": [
     {
       "title": "ABD uzaya hangi silahı göndermiş olabilir?",
@@ -50,6 +50,27 @@
       "publishedAt": "Tue, 15 Sep 2026 17:08:23 GMT"
     },
     {
+      "title": "İstanbul-İzmir Otoyolu'nda zincirleme kazada 11 kişi yaralandı",
+      "summary": "İstanbul-İzmir Otoyolu’nda gece saatlerinde 5 otomobil, otobüs ve TIR'ın karıştığı zincirleme trafik kazasında 11 kişi yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-16T05:06:18+03:00"
+    },
+    {
+      "title": "Balkanlardan geldi, 4 gün sürecek. İstanbul bugün yağışlı ve çok serin",
+      "summary": "Balkanlardan gelen serin ve yağışlı hava yurt genelinde etkili olacak. 4 gün sürecek yağışlarla birlikte sıcaklık hissedilir derecede düştü.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-16T04:11:59+03:00"
+    },
+    {
+      "title": "İsrail'de ek ödenek onaylanmadı. ABD'den helikopter alamadı",
+      "summary": "İsrail ordusu, savunma bütçesindeki ödenek yetersizliği nedeniyle helikopter alım sırasını kaybetti ve hava savunma sistemleri için önleme füzeleri alımının durmasına yol açtı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-16T03:32:41+03:00"
+    },
+    {
       "title": "Çatalca'da uyuşturucu operasyonu. 11 kilo 500 gram kokain ele geçirildi",
       "summary": "Çatalca’da, polis ekiplerinin düzenlediği operasyonda, 11 kilo 500 gram kokain ele geçirildi. Operasyonda 2 şüpheli gözaltına alındı.",
       "source": "NTV",
@@ -68,28 +89,23 @@
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 16 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-16T02:00:01+03:00"
+      "publishedAt": "2026-09-16T06:00:00+03:00"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan, otobüsü durdurup yanına gitmişti. \"Unutamayacağım bir an\"",
-      "summary": "Samsun'da Cumhurbaşkanı Erdoğan'ın otobüsü durdurarak yanına gittiği engelli genç Emre Vural, \"Unutamayacağım bir andı. Beni bu şekilde onurlandırması, hep hafızamda kalacak\" dedi.",
-      "source": "NTV",
+      "title": "İstanbul'da döviz bürosunda kavga! Can kayıpları var",
+      "summary": "İstanbul Fatih’te bulunan bir döviz bürosunda, müşteri ile iş yeri sahibi arasında silahlı kavga çıktı. Kavgada, Adnan Aksoy ile Kadir Aksoy hayatını kaybetti. Saldırıda yaralanan 2 kişinin tedavisinin sürdüğü öğrenildi. Olayla ilgili olara",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-15T23:22:54+03:00"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-istanbul-da-doviz-burosunda-kavga-can-kayiplari-var-3912626",
+      "publishedAt": "Wed, 16 Sep 2026 02:37:17 GMT"
     },
     {
-      "title": "Zeytinburnu'nda 5 katlı binanın bodrumunda yangın",
-      "summary": "Zeytinburnu'nda 5 katlı binanın bodrumunda yangın çıktı. 5 kişi dumandan etkilendi.",
-      "source": "NTV",
+      "title": "Çatalca'da 11,5 kilogram kokain ele geçirildi",
+      "summary": "İstanbul Çatalca'da polis ekiplerinin düzenlediği operasyonda, 11,5 kilogram kokain ele geçirildi. Operasyonda 2 şüpheli gözaltına alındı",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-15T22:42:04+03:00"
-    },
-    {
-      "title": "Süper Loto çekiliş sonuçları belli oldu: 15 Eylül 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
-      "summary": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikrami",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-15T22:21:46+03:00"
+      "link": "https://www.haberturk.com/gundem/catalca-da-11-5-kilogram-kokain-ele-gecirildi-3912737",
+      "publishedAt": "Tue, 15 Sep 2026 23:57:20 GMT"
     },
     {
       "title": "Servis minibüsünün çarptığı çocuk öldü",
@@ -124,28 +140,12 @@
       "publishedAt": "Tue, 15 Sep 2026 22:24:09 GMT"
     },
     {
-      "title": "İstanbul-İzmir Otoyolu'nda zincirleme kaza: 11 yaralı",
-      "summary": "İstanbul-İzmir Otoyolu'nun Yalova kesiminde 5 otomobil, otobüs ve TIR'ın karıştığı zincirleme trafik kazasında 11 kişi yaralandı",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/istanbul-izmir-otoyolu-nda-zincirleme-kaza-11-yarali-3912732",
-      "publishedAt": "Tue, 15 Sep 2026 22:15:35 GMT"
-    },
-    {
-      "title": "Amcasını demir sopayla öldürdü",
-      "summary": "Mersin’in Tarsus ilçesinde Burak Ş., amcası Sait Şahbaz’ı demir sopayla döverek öldürdü, yengesi Nihal Şahbaz’ı ise ağır yaraladı. Olayın ardından gözaltına alınan şüpheli hakkında soruşturma başlatıldı",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/amcasini-demir-sopayla-oldurdu-3912731",
-      "publishedAt": "Tue, 15 Sep 2026 21:51:13 GMT"
-    },
-    {
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
       "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 15 Sep 2026 21:07:13 GMT"
+      "publishedAt": "Wed, 16 Sep 2026 01:29:20 GMT"
     },
     {
       "title": "Denmark says Russian warship fired flares at military helicopter",
@@ -188,52 +188,60 @@
       "publishedAt": "Tue, 15 Sep 2026 20:34:12 GMT"
     },
     {
-      "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
-      "summary": "GOP Representative Thomas Massie has emerged as outspoken critic of war on Iran and overseas military interventions.",
+      "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
+      "summary": "Anthropic’s CEO says he ‘didn’t appreciate’ the speed with which AI’s growth would underpin the global economy.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 22:38:08 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 02:40:08 +0000"
     },
     {
-      "title": "Ed Sheeran blames US tour promoter for dropping Macklemore",
-      "summary": "The British musician said it was important to \"set out some facts\" after US rapper voiced support for Palestine.",
+      "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
+      "summary": "Saudi Arabia has cancelled some oil deliveries to Europe after attacks shut down its export pipeline to the Red Sea.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 22:21:44 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 01:53:27 +0000"
     },
     {
-      "title": "Why is the far-right embracing crypto?",
-      "summary": "From billionaire donors backing parties to far-right activists raising funds in Bitcoin.",
+      "title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
+      "summary": "M23 controls large parts of eastern DRC as Kinshasa and Kigali remain divided over security and sovereignty.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 22:09:02 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 01:42:37 +0000"
     },
     {
-      "title": "Algeria faces calls to drop death penalty plans after wildfires",
-      "summary": "Rights group warns Algeria could exploit proposed death penalty laws to suppress domestic political opposition.",
+      "title": "Israel started an anti-Qatar campaign, then scrapped it",
+      "summary": "Days after October 7, Israel began building a global campaign to pressure and isolate Qatar.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/15/algeria-faces-calls-to-drop-death-penalty-plans-after-wildfires?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 22:01:27 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israel-started-an-anti-qatar-campaign-then-scrapped-it?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 01:41:40 +0000"
     },
     {
-      "title": "US Senate crypto bill collapses in blow to industry",
-      "summary": "The defeat dealt a major blow to efforts to establish the first comprehensive federal framework for digital-asset market",
+      "title": "Attacks on Saudi oil expose Iraqi PM’s struggle to control armed factions",
+      "summary": "A senior Iraqi source points to a resistance 'splinter' group for the September attack on the East-West pipeline.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 21:31:48 +0000"
+      "link": "https://www.aljazeera.com/news-analysis/2026/9/16/attacks-on-saudi-oil-expose-iraqi-pms-struggle-to-control-armed-factions?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 01:35:14 +0000"
     },
     {
-      "title": "Hundreds protest in DR Congo against third presidential term",
-      "summary": "Hundreds protest in DR Congo against third presidential term",
+      "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
+      "summary": "Saudi Arabia says it intercepted a drone before it entered Islam's holiest city, calling pilgrims' security a 'red line'",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/hundreds-protest-in-dr-congo-against-third-presidential-term?traffic_source=rss",
-      "publishedAt": "Tue, 15 Sep 2026 21:20:41 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca?traffic_source=rss",
+      "publishedAt": "Wed, 16 Sep 2026 01:09:54 +0000"
+    },
+    {
+      "title": "Turkish habit of stashing gold \"under the pillow' hurts economy, government says",
+      "summary": "For years, Turks have stashed their gold at home against a raining day, mistrustful of banks. Now the government says that tradition hurts the economy",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/15/g-s1-143414/turkey-gold-economy",
+      "publishedAt": "Tue, 15 Sep 2026 20:55:41 -0400"
     },
     {
       "title": "Turks often keep gold as a hedge against inflation. It may be hurting Turkey's future",
@@ -276,14 +284,6 @@
       "publishedAt": "Tue, 15 Sep 2026 13:36:49 -0400"
     },
     {
-      "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-      "summary": "Kentucky Republican Thomas Massie introduced articles of impeachment against Secretary of Defense Pete Hegseth on Tuesday over the war in Iran.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
-      "publishedAt": "Tue, 15 Sep 2026 13:35:14 -0400"
-    },
-    {
       "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
       "summary": "Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowingWhen Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South Afr",
       "source": "The Guardian",
@@ -319,6 +319,27 @@
   "sports": [
     {
       "league": "La Liga",
+      "home": "Barcelona",
+      "away": "Racing de Santander",
+      "status": "upcoming",
+      "date": "2026-09-16"
+    },
+    {
+      "league": "La Liga",
+      "home": "Atlético Madrid",
+      "away": "Osasuna",
+      "status": "upcoming",
+      "date": "2026-09-16"
+    },
+    {
+      "league": "La Liga",
+      "home": "Levante",
+      "away": "Athletic Bilbao",
+      "status": "upcoming",
+      "date": "2026-09-16"
+    },
+    {
+      "league": "La Liga",
       "home": "Deportivo Alavés",
       "away": "Valencia",
       "homeScore": 0,
@@ -343,75 +364,21 @@
       "awayScore": 3,
       "status": "FT",
       "date": "2026-09-15"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Gaziantep",
-      "away": "Fenerbahçe",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-14"
-    },
-    {
-      "league": "Premier League",
-      "home": "Leeds United",
-      "away": "Newcastle United",
-      "homeScore": 4,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-14"
-    },
-    {
-      "league": "La Liga",
-      "home": "Villarreal",
-      "away": "Real Betis",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-14"
-    },
-    {
-      "league": "Serie A",
-      "home": "Torino",
-      "away": "Roma",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-14"
-    },
-    {
-      "league": "Serie A",
-      "home": "Inter Milan",
-      "away": "Udinese",
-      "homeScore": 5,
-      "awayScore": 3,
-      "status": "FT",
-      "date": "2026-09-14"
-    },
-    {
-      "league": "Serie A",
-      "home": "Como",
-      "away": "Parma",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-14"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 20,
+      "tempC": 19,
       "description": "overcast",
       "high": 21,
       "low": 18
     },
     {
       "place": "London",
-      "tempC": 17,
-      "description": "partly cloudy",
-      "high": 20,
+      "tempC": 15,
+      "description": "overcast",
+      "high": 19,
       "low": 14
     }
   ],
