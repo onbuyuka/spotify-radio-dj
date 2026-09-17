@@ -1,21 +1,37 @@
 {
-  "updated": "2026-09-17T03:17:40.637Z",
+  "updated": "2026-09-17T10:55:05.490Z",
   "news": [
     {
-      "title": "Borsa İstanbul'daki kayıplardan sonra Finansal İstikrar Komitesi toplantısı",
-      "summary": "Finansal İstikrar Komitesi piyasalardaki sert düşüşten sonra Bakan Mehmet Şimşek başkanlığında sabah olağanüstü toplanma kararı aldı.",
+      "title": "AKP'nin seçim hesabı: Kararın aylar öncesinden alınması formülü tartışılıyor",
+      "summary": "Cumhurbaşkanı ve AKP Genel Başkanı Recep Tayyip Erdoğan'ın Rize'de yaptığı \"Önümüzde yaklaşan seçimleri inşallah başarıyla atlatacağımıza olan inancımı yeniliyorum\" açıklaması, erken- baskın seçim tartışmasını yeniden gündeme taşıdı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cm780xwx2xx8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 09:59:32 GMT"
+    },
+    {
+      "title": "Piyasalardaki düşüş sonrası Finansal İstikrar Komitesi'nden açıklama: Yapısal risk yok, tedbirler uygulanacak",
+      "summary": "Piyasalardaki sert düşüşten sonra Hazine ve Maliye Bakanı Mehmet Şimşek başkanlığında bu sabah olağanüstü toplanan Finansal İstikrar Komitesi, piyasalarda yapısal bir risk bulunmadığını ve gerekli tedbirlerin uygulanacağı açıkladı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cmgqdegq5n8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 22:24:02 GMT"
+      "publishedAt": "Thu, 17 Sep 2026 07:01:54 GMT"
     },
     {
-      "title": "ABD Merkez Bankası Fed üç yıl sonra faiz artırdı",
-      "summary": "ABD Merkez Bankası (Fed) üç yıl sonra ilk kez faiz artırdı. Fed piyasaların beklediği gibi 25 baz puanlık bir artışla, faizleri %3,75- % 4 bandına yükseltti.",
+      "title": "AB ile ortak üyelik önerisini Kanada memnuniyetle karşıladı, Trump tehdit etti",
+      "summary": "Avrupa Birliği'nin (AB) Kanada'nın birliğe \"ortak üye\" olması fikrine yeşil ışık yakmasının ardından Kanada'dan da yakınlaşmadan duyulan memnuniyete ilişkin açıklama geldi. ABD Başkanı Donald Trump ise AB'yi ağır gümrük tarifeleriyle tehdit",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm986j2pn06ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 22:54:46 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c6wyzn2585jqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 10:47:37 GMT"
+    },
+    {
+      "title": "İran'ın ABD üslerine verdiği yoğun hasarı gösteren fotoğraflar",
+      "summary": "BBC'nin ABD'deki ortağı CBS, İran'ın Ortadoğu'daki birçok ABD tesisine düzenlediği saldırılar sonucu oluşan yaygın hasarı gösteren görüntüler elde etti.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cvj64wjekd5do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 05:45:24 GMT"
     },
     {
       "title": "Prenses Diana'nın kardeşinin kitabındaki iddia: Kral Charles 'Çok geçmeden unutacağız' dedi",
@@ -26,118 +42,134 @@
       "publishedAt": "Wed, 16 Sep 2026 22:12:10 GMT"
     },
     {
-      "title": "Mekke yakınlarında İHA düşürüldü, ABD Suudi Arabistan'a seyahat uyarısını sıkılaştırdı",
-      "summary": "Suudi Arabistan'daki Aramco petrol tesisini ve bir hava üssünü vurduklarını öne süren Husiler, Mekke'yi hedef aldıkları iddiasını ise reddetti.",
+      "title": "Motorin 100 lira eşiğini aştı: Akaryakıt fiyatları neden artıyor?",
+      "summary": "Motorin fiyatları 17 Eylül itibarıyla zamlanarak ilk kez 100 lirayı aştı. Gece yarısı motorinin litre fiyatına gelen 4 lira 62 kuruşluk zammın ardından akaryatın fiyatı ilk kez üç haneye çıktı. Uzmanlar, küresel gelişmeler ve kademeli vergi",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cxnvlgp65d47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 15:03:14 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cp80k4806xjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 07:28:17 GMT"
     },
     {
-      "title": "AB tarihinde bir ilk: Kanada'ya 'ortak üyelik' desteği",
-      "summary": "Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen, Kanada'nın ortak üye olması fikrine destek verdi. Bu fikrin önündeki en önemli engel ise AB'de \"ortak üyelik\" statüsünün bulunmaması. Güven Özalp'in haberi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c6wyzn2585jqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 13:35:56 GMT"
-    },
-    {
-      "title": "Alışveriş fişlerinin doğurganlığı etkilediğine dair kanıt var mı?",
-      "summary": "Fişler, internette beklenmedik bir sağlık kaygısı haline geldi. Fitness fenomenleri, termal kağıtta kullanılan kimyasalların hormonları bozabileceği, testosteron seviyesini düşürebileceği ve doğurganlığı etkileyebileceği konusunda uyarıda b",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cqe9ey83l5zko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 07:57:00 GMT"
-    },
-    {
-      "title": "Eski eşini öldürüp oğlunu ağır yaraladı, intihar etti",
-      "summary": "Adana'da 1.5 ay önce boşandığı Kezban K. ile 13 yaşındaki oğluna kurşun yağdıran Enes D., intihar etti. Kezban K. hayatını kaybetti, oğlu ağır yaralı.",
+      "title": "Cumhurbaşkanı Başdanışmanı Uçum: Öcalan Silahsızlanma Alt Komisyonu'nda görev alacak",
+      "summary": "Cumhurbaşkanı Başdanışmanı Mehmet Uçum, Abdullah Öcalan'a Terörsüz Türkiye sürecinde kurulan Silahsızlanma ve Stratejik Koordinasyon Alt Komisyon'unda görev verileceğini açıkladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-17T02:53:45+03:00"
+      "publishedAt": "2026-09-17T13:50:30+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Eylül 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "title": "Büşra bebek soruşturmasında yeni gelişme. Kardeşlerden \"borç karşılığı çadırdan alındı\" iddiası",
+      "summary": "Sivas'ta 11 aylık Büşra bebeğin kaybolmasıyla ilgili soruşturmada koruma altına alınan ailenin çocukları, borç karşılığı çadırdan kardeşlerinin alınıp götürüldüğünü iddia etti.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-17T06:00:00+03:00"
+      "publishedAt": "2026-09-17T12:31:51+03:00"
     },
     {
-      "title": "Şans Topu Sonuçları Sorgulama Ekranı 16 Eylül | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
-      "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+      "title": "Vicdanları yaralayan görüntü: Kedilerin mama kaplarını çöpe attılar",
+      "summary": "Bursa'da evinin bulunduğu sokağa kediler için bırakılan mama kaplarını çöpe atıp, suları döken N.S. ile oğlu E.S. güvenlik kamerasına yansıdı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-16T21:49:44+03:00"
+      "publishedAt": "2026-09-17T12:39:35+03:00"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 16 Eylül 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
+      "title": "Çalışanların zor anları: Şiddetli rüzgarda şemsiyeyle savruldular",
+      "summary": "Aksaray’da, güneşten korunmak için iş yeri önüne konulan büyük şemsiye şiddetli rüzgarda havalandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-16T21:48:00+03:00"
+      "publishedAt": "2026-09-17T12:20:26+03:00"
     },
     {
-      "title": "Mekke'ye İHA saldırısı girişimine Türkiye'den tepki",
-      "summary": "Husiler tarafından Mekke şehrini hedef alan İHA saldırılarına Türkiye'den tepki geldi.",
+      "title": "MSB'den Miçotakis'in Meis Adası ziyaretine tepki",
+      "summary": "Milli Savunma Bakanlığı (MSB) haftalık bilgilendirme toplantısından Yunanistan'a sert mesajlar çıktı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-16T21:16:23+03:00"
+      "publishedAt": "2026-09-17T12:45:04+03:00"
     },
     {
-      "title": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Türk devletlerine ortak banka önerisi",
-      "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, Türk Devletleri Teşkilatı (TDT) üyesi ülkelerin dijital ticaret alanını hayata geçirmesi ve ortak kalkınma bankası kurması gerektiğini söyledi.",
+      "title": "Menderes ve arkadaşlarının idamı. Bakan Çifti: Namık Gedik'i şehit olarak anıyoruz",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, Menderes hükümetinin İçişleri Bakanı Namık Gedik’in kabrinin Adnan Menderes’in kabrinin yanına taşınma kararını ve şehit sayıldığını açıkladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-16T19:47:59+03:00"
+      "publishedAt": "2026-09-17T12:31:21+03:00"
     },
     {
-      "title": "Bingöl'de orman yangını",
-      "summary": "Bingöl'ün Genç ilçesinde çıkan orman yangını, ekiplerin müdahalesiyle kontrol altına alındı",
+      "title": "Tarihin Tozlu Sayfalarından Yemen’e: Osmanlı’nın Lahiç Zaferi",
+      "summary": "Tarihçi-Akademisyen Yahya Yeşilyurt “İmparatorlukların Gölgesinde Yemen'de Birinci Dünya Savaşı” adlı eserine ilişkin Habertürk’e açıklamalarda bulundu. Yeşilyurt, askeri arşiv belgelerine dayanarak Yemen Cephesi'nin bilinmeyen yönlerini de",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/bingol-de-orman-yangini-3913002",
-      "publishedAt": "Thu, 17 Sep 2026 00:18:17 GMT"
+      "link": "https://www.haberturk.com/kultur-sanat/tarihin-tozlu-sayfalarindan-yemene-osmanlinin-lahic-zaferi-3913097",
+      "publishedAt": "Thu, 17 Sep 2026 10:48:34 GMT"
     },
     {
-      "title": "Senatör Graham'ın anısına Rusya'ya yaptırım tasarısı kabul edildi",
-      "summary": "ABD Temsilciler Meclisi, İsrail'e verdiği destekle tanınan ve 11 Temmuz'da ani şekilde hayatını kaybeden Cumhuriyetçi Senatör Lindsey Graham'ın anısına Rusya'ya yönelik yaptırımları içeren yasa tasarısını kabul etti",
+      "title": "Yardım için KADES butonuna bastı... Eski eşini vurup aracına aldı",
+      "summary": "Diyarbakır'da, parkta tartıştığı eski eşi M.K.'yi silahla yaralayan Ö.K., araçla kaçmaya başladı. M.K.'nin, KADES uygulamasını kullanması ile polis, kaçan şüpheliyi yakalamak için aracı caddeye konuşlandırdı. Gözü dönmüş adam, kullandığı ar",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/senator-graham-in-anisina-rusya-ya-yaptirim-tasarisi-kabul-edildi-3913001",
-      "publishedAt": "Thu, 17 Sep 2026 00:11:06 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-yardim-icin-kades-butonuna-basti-eski-es-dehset-sacti-2-olu-3913134",
+      "publishedAt": "Thu, 17 Sep 2026 10:46:05 GMT"
     },
     {
-      "title": "Münir Canar vefat etti",
-      "summary": "Tiyatro, sinema ve televizyon dünyasının usta isimlerinden Münir Canar'dan acı haber geldi. Canar, 81 yaşında hayatını kaybetti",
+      "title": "AB'de 13 yaş altına sosyal medya yasağı geliyor",
+      "summary": "Avrupa Komisyonu Başkanı Ursula von der Leyen, 13 yaşın altındaki çocukların sosyal medya kullanımının yasaklanmasını ve 13-15 yaş arasındaki çocukların hesaplarının ebeveyn kontrolüne tabi olmasını öngören yeni bir düzenleme önerdi. Teklif",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/munir-canar-vefat-etti-3912982",
-      "publishedAt": "Wed, 16 Sep 2026 22:53:37 GMT"
+      "link": "https://www.haberturk.com/ekonomi/ab-de-13-yas-altina-sosyal-medya-yasagi-geliyor-teklif-verildi-3913137",
+      "publishedAt": "Thu, 17 Sep 2026 10:43:57 GMT"
     },
     {
-      "title": "Finansal İstikrar Komitesi toplanıyor",
-      "summary": "Finansal İstikrar Komitesi'nin (FİK) bugün saat 08.00'de Hazine ve Maliye Bakanı Mehmet Şimşek'in başkanlığında toplanarak finansal piyasalardaki gelişmeleri değerlendireceği bildirildi",
+      "title": "İnternet dili sözlüğe girdi!",
+      "summary": "İnternetin yeni kelimeleri sözlükte! ABD merkezli Merriam-Webster Sözlüğü, sosyal medya kültürü ve günlük yaşamda yaygınlaşan ifadeleri de kapsayan 1400 yeni kelimeyi sözlüğüne ekledi. Looksmaxxing, parasosyal, Rickroll gibi son dönemin dik",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/finansal-istikrar-komitesi-toplaniyor-3912963",
-      "publishedAt": "Wed, 16 Sep 2026 22:41:56 GMT"
+      "link": "https://www.haberturk.com/yasam/rickroll-dan-looksmaxxing-e-internet-dili-sozluge-girdi-3913133",
+      "publishedAt": "Thu, 17 Sep 2026 10:43:41 GMT"
     },
     {
-      "title": "ÖGG sonuçları ne zaman açıklanacak?",
-      "summary": "Emniyet Genel Müdürlüğü tarafından ÖGG sonuçları ile ilgili güncel duyuru bekleniyor. Ağustos ayında tamamlanan Özel Güvenlik 122. Temel Eğitim ve 98. Yenileme Eğitimi sınavı sonrası gözler ÖGG sınav sonuçları açıklanma tarihine çevrildi. Y",
+      "title": "'Kızılcık Şerbeti'nde sürpriz isim",
+      "summary": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nin kadrosuna başarılı oyuncu Murat Aygen katıldı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/ogg-sonuclari-ne-zaman-hangi-tarihte-aciklanacak-ozel-guvenlik-egm-122donem-ogg-sinav-sonuclari-bekleniyor-3912997",
-      "publishedAt": "Wed, 16 Sep 2026 22:35:47 GMT"
+      "link": "https://www.haberturk.com/magazin/murat-aygen-kizilcik-serbeti-nde-3913135",
+      "publishedAt": "Thu, 17 Sep 2026 10:36:45 GMT"
     },
     {
-      "title": "Emekliye seyyanen zammında son durum",
-      "summary": "Milyonlarca emeklinin gözü kulağı seyyanen zammındaki son dakika gelişmelerine çevrildi. En son 2023 yılında memurlara yapılan 8 bin 77 TL tutarındaki ilave ödemenin emekli aylıklarına yansıtılması yönündeki talepler özellikle memur emeklil",
+      "title": "Cumhurbaşkanı Erdoğan'dan mesaj",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan \"Türk demokrasisine, milletin iradesine vurulmuş ağır bir darbe olan 27 Mayıs’ın cunta mahkemesi tarafından haksız, hukuksuz şekilde idama mahkûm edilen Başbakan Adnan Menderes, Dışişleri Bakanı Fatin Rüşt",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/emekliye-seyyanen-zammi-son-durum-ssk-bagkur-emekli-maasina-seyyanen-zam-gelecek-mi-3912972",
-      "publishedAt": "Wed, 16 Sep 2026 22:35:27 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-adnan-menderes-ve-arkadaslarini-andi-3913071",
+      "publishedAt": "Thu, 17 Sep 2026 10:32:13 GMT"
+    },
+    {
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+      "summary": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:18 GMT"
+    },
+    {
+      "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+      "summary": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 08:22:12 GMT"
+    },
+    {
+      "title": "Ninth woman's body found as South African police investigate string of deaths",
+      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 10:40:31 GMT"
+    },
+    {
+      "title": "EU announces plan to restrict social media access for under-15s",
+      "summary": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 10:00:14 GMT"
     },
     {
       "title": "US interest rates raised for first time in three years",
@@ -148,140 +180,116 @@
       "publishedAt": "Thu, 17 Sep 2026 00:40:17 GMT"
     },
     {
-      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
-      "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
+      "summary": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 23:41:57 GMT"
+      "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 09:03:28 GMT"
     },
     {
-      "title": "Photos show widespread damage at US sites from Iranian attacks",
-      "summary": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 18:36:16 GMT"
-    },
-    {
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 00:32:05 GMT"
-    },
-    {
-      "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-      "summary": "Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 19:59:57 GMT"
-    },
-    {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 17:16:47 GMT"
-    },
-    {
-      "title": "Morocco’s 2026 election: A test of political trust and engagement",
-      "summary": "Youth unemployment, living costs and public services are key issues before the September 23 vote.",
+      "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
+      "summary": "The security talks come as Israeli forces continue attacks across southern Lebanon despite a \"ceasefire\".",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/17/moroccos-2026-election-a-test-of-political-trust-and-engagement?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 02:47:53 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 10:20:20 +0000"
     },
     {
-      "title": "Reports: US, Houthis make secret deal over Yemen war",
-      "summary": "Yemen’s Houthis have agreed to allow US shipping unfettered Red Sea access if Washington refrains from military action.",
+      "title": "UK charities, protest groups condemn Israeli ban threat after sanctions",
+      "summary": "Having warned London of 'consequences' for sanctions, Israel targets UK charities, campaign groups and Palestine Action.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/reports-us-houthis-make-secret-deal-over-yemen-war?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 01:53:18 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 10:19:24 +0000"
     },
     {
-      "title": "UK’s Burnham, Canada’s Carney discuss AI risks, defence cooperation",
-      "summary": "UK and Canada explore AI risks, defence cooperation and joint initiatives during a bilateral meeting in Liverpool.",
+      "title": "NBA star Irving pledges to pay Al-Shaair’s NFL fine over Hind Rajab message",
+      "summary": "Houston Texans' linebacker Azeez Al-Shaair was fined for wearing the name of Hind Rajab on his eye black.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 01:14:26 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/17/nba-star-irving-pledges-to-pay-al-shaairs-nfl-fine-over-hind-rajab-message?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 10:10:47 +0000"
     },
     {
-      "title": "Congress passes sweeping US sanctions bill targeting Russia",
-      "summary": "The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine",
+      "title": "At least 19 injured in Russian attacks across Ukraine",
+      "summary": "Missile and drone strikes targeted Ukraine's capital Kyiv as well as the Zaporizhzhia and Odesa regions.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 00:55:13 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/at-least-19-injured-in-russian-attacks-across-ukraine?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 10:07:57 +0000"
     },
     {
-      "title": "US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’",
-      "summary": "The spokesman for US Central Command has told Al Jazeera its blockade of the Strait of Hormuz is ‘highly effective’.",
+      "title": "Beckham backs Messi for Ballon d’Or after netting 100th Inter Miami goal",
+      "summary": "Former England captain David Beckham backs his Inter Miami player Lionel Messi for Ballon d'Or after Campeones Cup win.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 00:32:54 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/17/beckham-backs-messi-for-ballon-dor-after-netting-100th-inter-miami-goal?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 10:03:35 +0000"
     },
     {
-      "title": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
-      "summary": "The US president threatened heavy tariffs and said the US could cut some trade with Europe over the proposed status.",
+      "title": "‘They called us’: Has Trump abandoned Bab al-Mandeb to the Houthis?",
+      "summary": "Washington’s response to the Houthi advance exposes the limits of the US security umbrella in the Gulf.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 00:30:23 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/9/17/they-called-us-has-trump-abandoned-bab-al-mandeb-to-the-houthis?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 09:52:50 +0000"
     },
     {
-      "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
-      "summary": "No one across the U.S. is consistently tracking climate-fueled deaths. One medical examiner has a new protocol on heat-deaths.",
+      "title": "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
+      "summary": "Asian nations began pilot voyages over a decade ago to find routes to Europe and the Middle East that were faster and less vulnerable to chokepoints. The ongoing war has added impetus to those efforts.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2024/05/30/nx-s1-4854224/death-heat-arizona-climate-change-medical-examiner",
-      "publishedAt": "Wed, 16 Sep 2026 19:07:40 -0400"
+      "link": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
+      "publishedAt": "Thu, 17 Sep 2026 06:00:00 -0400"
     },
     {
-      "title": "House passes Russia sanctions, sending bill named for Lindsey Graham to Trump's desk",
-      "summary": "The legislation was named for the late South Carolina Republican. It gives the president authority to impose tariffs on top importers of oil and natural gas from Russia, such as China and India.",
+      "title": "Why reshaping memories may hold the key to raising self-esteem",
+      "summary": "In a new book, psychologist Marisa Franco explains why it's good to feel good about yourself — and shares a helpful memory technique that we've turned into a printable worksheet.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971289/russia-sanctions-house-vote-lindsey-graham",
-      "publishedAt": "Wed, 16 Sep 2026 18:30:46 -0400"
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5971141/boost-self-worth-self-esteem",
+      "publishedAt": "Thu, 17 Sep 2026 05:02:00 -0400"
     },
     {
-      "title": "You'd expect homeowners to save their stuff. Federal policy pays them to leave it",
-      "summary": "NPR dug into the upside-down world of FEMA flood insurance in coastal areas, and found many homeowners have no financial choice but to let their homes collapse.",
+      "title": "D.C. airspace is complicated. Experts say Trump's arch would add one more risk",
+      "summary": "The Trump administration wants to build its 250-foot arch near one of the country's busiest runways. The FAA will determine whether that poses a hazard. But independent experts already have concerns.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/16/g-s1-143708/video-houses-collapse-north-carolina-ocean",
-      "publishedAt": "Wed, 16 Sep 2026 17:20:59 -0400"
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa",
+      "publishedAt": "Thu, 17 Sep 2026 05:01:00 -0400"
     },
     {
-      "title": "Committee investigating Epstein holds billionaire Leon Black in contempt of Congress",
-      "summary": "Billionaire investor Leon Black refused to appear before the committee investigating convicted sex offender Jeffrey Epstein for a deposition. Now it's up to the Department of Justice whether to pursue criminal charges.",
+      "title": "People's houses are collapsing into the ocean. FEMA gives them no other option",
+      "summary": "Waterfront homes are collapsing along the coast. Homeowners generally have plenty of warning before their house buckles. So why aren't most houses removed, or at least emptied, before they fall?",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress",
-      "publishedAt": "Wed, 16 Sep 2026 17:12:27 -0400"
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5844642/fema-homes-collapse-ocean-climate-north-carolina-maine",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:00 -0400"
     },
     {
-      "title": "Trump administration plans ideological warning signs for Smithsonian",
-      "summary": "The Interior Secretary says the move is necessary to combat what he calls ideological bias.",
+      "title": "Pediatricians raise the alarm on the effect of Trump's immigration crackdown on kids",
+      "summary": "The Trump administration has been pursuing a quiet immigration crackdown strategy: limiting access to health care and public services. The American Academy of Pediatrics is sounding the alarm about the impact on children.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
-      "publishedAt": "Wed, 16 Sep 2026 16:55:54 -0400"
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5953989/immigration-crackdown-children-medical-care",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:00 -0400"
     },
     {
-      "title": "The 'burnerverse' exploiting young women in college",
-      "summary": "Wired reporter EJ Dickson speaks with NPR's Juana Summers about an online community that targets and harasses young women with their own nonconsensual, sexually explicit images.",
+      "title": "A Sikh truck driver is stabbed amid a rise in anti-South Asian rhetoric",
+      "summary": "The driver said he was shaken by a violent encounter at a rest stop, which he described as unprovoked.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5971222/the-burnerverse-exploiting-young-women-in-college",
-      "publishedAt": "Wed, 16 Sep 2026 16:50:17 -0400"
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5971866/truck-driver-attack-wyoming-sikh-south-asian",
+      "publishedAt": "Thu, 17 Sep 2026 05:00:00 -0400"
+    },
+    {
+      "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
+      "summary": "As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territoryIt sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a home o",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
+      "publishedAt": "Thu, 17 Sep 2026 04:00:39 GMT"
     },
     {
       "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
       "publishedAt": "Wed, 16 Sep 2026 06:00:12 GMT"
-    },
-    {
-      "title": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
-      "summary": "Dozens of Bank of England directors and founding subscribers invested in trafficking of enslaved AfricansThe Bank of England and the British financial system were for centuries deeply involved in the enslavement and transatlantic traffickin",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
-      "publishedAt": "Wed, 16 Sep 2026 05:00:12 GMT"
     }
   ],
   "sports": [
@@ -335,7 +335,7 @@
       "league": "La Liga",
       "home": "Barcelona",
       "away": "Racing de Santander",
-      "homeScore": 4,
+      "homeScore": 7,
       "awayScore": 2,
       "status": "FT",
       "date": "2026-09-16"
@@ -360,15 +360,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 17,
+      "tempC": 22,
       "description": "overcast",
-      "high": 23,
+      "high": 22,
       "low": 17
     },
     {
       "place": "London",
-      "tempC": 15,
-      "description": "mainly clear",
+      "tempC": 17,
+      "description": "overcast",
       "high": 20,
       "low": 14
     }
