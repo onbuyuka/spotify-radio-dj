@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T23:31:32.799Z",
+  "updated": "2026-09-17T03:17:40.637Z",
   "news": [
     {
       "title": "Borsa İstanbul'daki kayıplardan sonra Finansal İstikrar Komitesi toplantısı",
@@ -50,11 +50,18 @@
       "publishedAt": "Wed, 16 Sep 2026 07:57:00 GMT"
     },
     {
+      "title": "Eski eşini öldürüp oğlunu ağır yaraladı, intihar etti",
+      "summary": "Adana'da 1.5 ay önce boşandığı Kezban K. ile 13 yaşındaki oğluna kurşun yağdıran Enes D., intihar etti. Kezban K. hayatını kaybetti, oğlu ağır yaralı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-17T02:53:45+03:00"
+    },
+    {
       "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 17 Eylül 2026",
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 17 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-17T02:30:00+03:00"
+      "publishedAt": "2026-09-17T06:00:00+03:00"
     },
     {
       "title": "Şans Topu Sonuçları Sorgulama Ekranı 16 Eylül | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
@@ -85,11 +92,20 @@
       "publishedAt": "2026-09-16T19:47:59+03:00"
     },
     {
-      "title": "İbrahim Turhan hakkında soruşturma başlatıldı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı, sermaye piyasasına yönelik ''korku ve paniğe neden olacak'' sosyal medya paylaşımları nedeniyle İbrahim Mustafa Turhan hakkında soruşturma başlatıldığını bildirdi.",
-      "source": "NTV",
+      "title": "Bingöl'de orman yangını",
+      "summary": "Bingöl'ün Genç ilçesinde çıkan orman yangını, ekiplerin müdahalesiyle kontrol altına alındı",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-16T18:30:59+03:00"
+      "link": "https://www.haberturk.com/gundem/bingol-de-orman-yangini-3913002",
+      "publishedAt": "Thu, 17 Sep 2026 00:18:17 GMT"
+    },
+    {
+      "title": "Senatör Graham'ın anısına Rusya'ya yaptırım tasarısı kabul edildi",
+      "summary": "ABD Temsilciler Meclisi, İsrail'e verdiği destekle tanınan ve 11 Temmuz'da ani şekilde hayatını kaybeden Cumhuriyetçi Senatör Lindsey Graham'ın anısına Rusya'ya yönelik yaptırımları içeren yasa tasarısını kabul etti",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/dunya/senator-graham-in-anisina-rusya-ya-yaptirim-tasarisi-kabul-edildi-3913001",
+      "publishedAt": "Thu, 17 Sep 2026 00:11:06 GMT"
     },
     {
       "title": "Münir Canar vefat etti",
@@ -124,28 +140,20 @@
       "publishedAt": "Wed, 16 Sep 2026 22:35:27 GMT"
     },
     {
-      "title": "Büşra bebeğin annesi ve babası tutuklandı",
-      "summary": "Sivas Divriği'de 11 aylık Büşra bebeğin kaybolmasına ilişkin yürütülen soruşturma kapsamında adliyeye sevk edilen 9 şüpheliden bebeğin annesi ve babası tutuklandı",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/sivas-ta-kaybolan-busra-bebegin-annesi-ve-babasi-tutuklandi-3912999",
-      "publishedAt": "Wed, 16 Sep 2026 22:24:36 GMT"
-    },
-    {
-      "title": "Fed Başkanı: Enflasyon çok yüksek",
-      "summary": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh, enflasyonun çok uzun süredir çok yüksek olduğunu belirterek, bugünkü faiz artırımı kararının fiyat istikrarını sağlamaya yönelik doğru bir adım olduğunu söyledi",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/fed-baskani-enflasyon-cok-yuksek-3913000",
-      "publishedAt": "Wed, 16 Sep 2026 22:23:00 GMT"
-    },
-    {
       "title": "US interest rates raised for first time in three years",
       "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 22:16:51 GMT"
+      "publishedAt": "Thu, 17 Sep 2026 00:40:17 GMT"
+    },
+    {
+      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+      "summary": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 16 Sep 2026 23:41:57 GMT"
     },
     {
       "title": "Photos show widespread damage at US sites from Iranian attacks",
@@ -157,19 +165,11 @@
     },
     {
       "title": "EU chief backs plan for Canada to become 'associate member'",
-      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+      "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 12:36:51 GMT"
-    },
-    {
-      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 17:16:47 GMT"
+      "publishedAt": "Thu, 17 Sep 2026 00:32:05 GMT"
     },
     {
       "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
@@ -180,60 +180,60 @@
       "publishedAt": "Wed, 16 Sep 2026 19:59:57 GMT"
     },
     {
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 16 Sep 2026 10:02:05 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 16 Sep 2026 17:16:47 GMT"
     },
     {
-      "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
-      "summary": "The comments from a US CENTCOM spokesperson come amid continued tensions over shipping through the vital waterway.",
+      "title": "Morocco’s 2026 election: A test of political trust and engagement",
+      "summary": "Youth unemployment, living costs and public services are key issues before the September 23 vote.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 23:14:46 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/moroccos-2026-election-a-test-of-political-trust-and-engagement?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 02:47:53 +0000"
     },
     {
-      "title": "‘People don’t have money’: Syrian fuel hikes deepen economic pain",
-      "summary": "Higher diesel and petrol prices are pushing up transport and food costs across an already impoverished Syria.",
+      "title": "Reports: US, Houthis make secret deal over Yemen war",
+      "summary": "Yemen’s Houthis have agreed to allow US shipping unfettered Red Sea access if Washington refrains from military action.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/16/people-dont-have-money-syrian-fuel-hikes-deepen-economic-pain?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 23:11:31 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/reports-us-houthis-make-secret-deal-over-yemen-war?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 01:53:18 +0000"
     },
     {
-      "title": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
-      "summary": "The unanimous decision comes as prices have remained stubbornly high and despite Trump's demands for lower rates.",
+      "title": "UK’s Burnham, Canada’s Carney discuss AI risks, defence cooperation",
+      "summary": "UK and Canada explore AI risks, defence cooperation and joint initiatives during a bilateral meeting in Liverpool.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/16/what-to-know-about-us-federal-reserves-first-interest-rate-hike-in-3-years?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 23:03:37 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/uk-and-canada-discuss-ai-risks-and-defence-ties-in-first-bilateral-meeting?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 01:14:26 +0000"
     },
     {
-      "title": "For checkpoint and settler attack news, Palestinians tune into the radio",
-      "summary": "Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.",
+      "title": "Congress passes sweeping US sanctions bill targeting Russia",
+      "summary": "The bill marks the first time in more than two years the US Congress has passed legislation supporting Ukraine",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 22:30:34 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 00:55:13 +0000"
     },
     {
-      "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
-      "summary": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.",
+      "title": "US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’",
+      "summary": "The spokesman for US Central Command has told Al Jazeera its blockade of the Strait of Hormuz is ‘highly effective’.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 22:18:49 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 00:32:54 +0000"
     },
     {
-      "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
-      "summary": "Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.",
+      "title": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
+      "summary": "The US president threatened heavy tariffs and said the US could cut some trade with Europe over the proposed status.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
-      "publishedAt": "Wed, 16 Sep 2026 21:41:36 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 00:30:23 +0000"
     },
     {
       "title": "Here's why an Arizona medical examiner is working to track heat-related deaths",
@@ -319,6 +319,20 @@
   "sports": [
     {
       "league": "La Liga",
+      "home": "Málaga",
+      "away": "Villarreal",
+      "status": "upcoming",
+      "date": "2026-09-17"
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Betis",
+      "away": "Getafe",
+      "status": "upcoming",
+      "date": "2026-09-17"
+    },
+    {
+      "league": "La Liga",
       "home": "Barcelona",
       "away": "Racing de Santander",
       "homeScore": 4,
@@ -341,47 +355,20 @@
       "away": "Athletic Bilbao",
       "status": "upcoming",
       "date": "2026-09-16"
-    },
-    {
-      "league": "La Liga",
-      "home": "Deportivo Alavés",
-      "away": "Valencia",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-15"
-    },
-    {
-      "league": "La Liga",
-      "home": "Rayo Vallecano",
-      "away": "Espanyol",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-15"
-    },
-    {
-      "league": "La Liga",
-      "home": "Elche",
-      "away": "Real Madrid",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FT",
-      "date": "2026-09-15"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
       "tempC": 17,
-      "description": "partly cloudy",
+      "description": "overcast",
       "high": 23,
       "low": 17
     },
     {
       "place": "London",
       "tempC": 15,
-      "description": "overcast",
+      "description": "mainly clear",
       "high": 20,
       "low": 14
     }
