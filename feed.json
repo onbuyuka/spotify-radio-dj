@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T10:55:05.490Z",
+  "updated": "2026-09-17T16:11:18.795Z",
   "news": [
     {
       "title": "AKP'nin seçim hesabı: Kararın aylar öncesinden alınması formülü tartışılıyor",
@@ -7,7 +7,15 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cm780xwx2xx8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 09:59:32 GMT"
+      "publishedAt": "Thu, 17 Sep 2026 12:11:18 GMT"
+    },
+    {
+      "title": "Hasan Atilla Uğur kimdir? Kaşif Kozinoğlu soruşturmasında neden adı geçiyor?",
+      "summary": "Eski MİT mensubu Kaşif Kozinoğlu'nun 2011'de Silivri Cezaevi'nde ölümüne ilişkin yeniden açılan soruşturmada, eski koğuş arkadaşı emekli Albay Hasan Atilla Uğur hakkında gözaltı kararı verildi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cr780xjyn53vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 14:26:59 GMT"
     },
     {
       "title": "Piyasalardaki düşüş sonrası Finansal İstikrar Komitesi'nden açıklama: Yapısal risk yok, tedbirler uygulanacak",
@@ -18,20 +26,12 @@
       "publishedAt": "Thu, 17 Sep 2026 07:01:54 GMT"
     },
     {
-      "title": "AB ile ortak üyelik önerisini Kanada memnuniyetle karşıladı, Trump tehdit etti",
-      "summary": "Avrupa Birliği'nin (AB) Kanada'nın birliğe \"ortak üye\" olması fikrine yeşil ışık yakmasının ardından Kanada'dan da yakınlaşmadan duyulan memnuniyete ilişkin açıklama geldi. ABD Başkanı Donald Trump ise AB'yi ağır gümrük tarifeleriyle tehdit",
+      "title": "AB Komisyonu çocuklara sosyal medya yasağı istedi",
+      "summary": "Avrupa Birliği (AB) Komisyonu son dönemde aralarında Türkiye'nin de bulunduğu çok sayıda ülkede tartışma konusu olan çocukların sosyal medya platformlarına erişimi konusunda yeni kurallar önerdi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c6wyzn2585jqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 10:47:37 GMT"
-    },
-    {
-      "title": "İran'ın ABD üslerine verdiği yoğun hasarı gösteren fotoğraflar",
-      "summary": "BBC'nin ABD'deki ortağı CBS, İran'ın Ortadoğu'daki birçok ABD tesisine düzenlediği saldırılar sonucu oluşan yaygın hasarı gösteren görüntüler elde etti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cvj64wjekd5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 05:45:24 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c84gk43zrzz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 12:33:57 GMT"
     },
     {
       "title": "Prenses Diana'nın kardeşinin kitabındaki iddia: Kral Charles 'Çok geçmeden unutacağız' dedi",
@@ -42,102 +42,118 @@
       "publishedAt": "Wed, 16 Sep 2026 22:12:10 GMT"
     },
     {
-      "title": "Motorin 100 lira eşiğini aştı: Akaryakıt fiyatları neden artıyor?",
-      "summary": "Motorin fiyatları 17 Eylül itibarıyla zamlanarak ilk kez 100 lirayı aştı. Gece yarısı motorinin litre fiyatına gelen 4 lira 62 kuruşluk zammın ardından akaryatın fiyatı ilk kez üç haneye çıktı. Uzmanlar, küresel gelişmeler ve kademeli vergi",
+      "title": "Microsoft: Kontrolsüz yapay zeka insana rakip 'silikon türlerini' ortaya çıkarabilir",
+      "summary": "Microsoft Yapay Zeka CEO'su, yeterli güvenlik önlemleri alınmazsa yapay zekanın gelişiminin, insanlarla rekabet eden yeni bir \"silikon türünün\" ortaya çıkmasına yol açabileceği konusunda uyardı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cp80k4806xjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 07:28:17 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cmvgy3p9qg09o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 08:52:54 GMT"
     },
     {
-      "title": "Cumhurbaşkanı Başdanışmanı Uçum: Öcalan Silahsızlanma Alt Komisyonu'nda görev alacak",
-      "summary": "Cumhurbaşkanı Başdanışmanı Mehmet Uçum, Abdullah Öcalan'a Terörsüz Türkiye sürecinde kurulan Silahsızlanma ve Stratejik Koordinasyon Alt Komisyon'unda görev verileceğini açıkladı.",
+      "title": "Sokaklar Güven soruşturmasında 21 tutuklama. \"Sokak hakkı\" adıyla para talep ettiler",
+      "summary": "Sokaklar Güvende soruşturması kapsamında 21 kişi tutuklandı, 2 kişi adli kontrolle serbest bırakıldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-17T13:50:30+03:00"
+      "publishedAt": "2026-09-17T18:58:02+03:00"
     },
     {
-      "title": "Büşra bebek soruşturmasında yeni gelişme. Kardeşlerden \"borç karşılığı çadırdan alındı\" iddiası",
-      "summary": "Sivas'ta 11 aylık Büşra bebeğin kaybolmasıyla ilgili soruşturmada koruma altına alınan ailenin çocukları, borç karşılığı çadırdan kardeşlerinin alınıp götürüldüğünü iddia etti.",
+      "title": "CHP İstanbul İl Kongresi'yle ilgili tedbir kararı kaldırıldı. Gürsel Tekin'in görevi sona erdi",
+      "summary": "CHP İstanbul İl Kongresi'nin iptali davasında tedbir kararı kaldırıldı. Böylece tedbir kararıyla göreve gelen Gürsel Tekin ve çağrı heyetinin görevi sona erdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-17T12:31:51+03:00"
+      "publishedAt": "2026-09-17T18:32:12+03:00"
     },
     {
-      "title": "Vicdanları yaralayan görüntü: Kedilerin mama kaplarını çöpe attılar",
-      "summary": "Bursa'da evinin bulunduğu sokağa kediler için bırakılan mama kaplarını çöpe atıp, suları döken N.S. ile oğlu E.S. güvenlik kamerasına yansıdı.",
+      "title": "Çocuğunu almaya gitti, okul bahçesinde bıçaklandı",
+      "summary": "Ankara’da çocuğunu okuldan almaya gelen Buse G., boşanma aşamasındaki eşinin bıçaklı saldırısında ağır yaralandı. Kaçan şüpheli aranıyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-17T12:39:35+03:00"
+      "publishedAt": "2026-09-17T16:40:25+03:00"
     },
     {
-      "title": "Çalışanların zor anları: Şiddetli rüzgarda şemsiyeyle savruldular",
-      "summary": "Aksaray’da, güneşten korunmak için iş yeri önüne konulan büyük şemsiye şiddetli rüzgarda havalandı.",
+      "title": "Silivri'de batan gemideydiler. 9 mürettebat 16 gündür aranıyor",
+      "summary": "Silivri açıklarında batan Tuğberk İmamoğlu gemisinin kayıp 9 mürettebatına ulaşılması için denizden ve havadan yürütülen arama kurtarma çalışmaları 16’ncı gününde sürüyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-17T12:20:26+03:00"
+      "publishedAt": "2026-09-17T16:26:33+03:00"
     },
     {
-      "title": "MSB'den Miçotakis'in Meis Adası ziyaretine tepki",
-      "summary": "Milli Savunma Bakanlığı (MSB) haftalık bilgilendirme toplantısından Yunanistan'a sert mesajlar çıktı.",
+      "title": "Meteorolojiden sağanak alarmı. İş çıkış saatine dikkat, kuvvetli yağış ve fırtına geliyor",
+      "summary": "Meteoroloji, birçok bölge için kuvvetli sağanak yağış uyarısında bulundu. İş çıkış saatlerine doğru şiddetlenmesi beklenen sağanak ve fırtına nedeniyle vatandaşların tedbirli olması istendi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-17T12:45:04+03:00"
+      "publishedAt": "2026-09-17T16:36:47+03:00"
     },
     {
-      "title": "Menderes ve arkadaşlarının idamı. Bakan Çifti: Namık Gedik'i şehit olarak anıyoruz",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, Menderes hükümetinin İçişleri Bakanı Namık Gedik’in kabrinin Adnan Menderes’in kabrinin yanına taşınma kararını ve şehit sayıldığını açıkladı.",
+      "title": "TEM Otoyolu'nda TIR yangını: Edirne yönü trafiğe kapatıldı",
+      "summary": "İstanbul'un Esenyurt ilçesi TEM Otoyolu'nda TIR'da yangın çıktı. Yangın ekipler tarafından söndürülürken trafikte yoğunluk oluştu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-17T12:31:21+03:00"
+      "publishedAt": "2026-09-17T17:44:50+03:00"
     },
     {
-      "title": "Tarihin Tozlu Sayfalarından Yemen’e: Osmanlı’nın Lahiç Zaferi",
-      "summary": "Tarihçi-Akademisyen Yahya Yeşilyurt “İmparatorlukların Gölgesinde Yemen'de Birinci Dünya Savaşı” adlı eserine ilişkin Habertürk’e açıklamalarda bulundu. Yeşilyurt, askeri arşiv belgelerine dayanarak Yemen Cephesi'nin bilinmeyen yönlerini de",
+      "title": "Gürsel Tekin'in görevine son verildi",
+      "summary": "İstanbul 45. Asliye Hukuk Mahkemesi, \"durum ve koşulların değiştiği\" gerekçesiyle CHP İstanbul İl Kongresi'ne ilişkin daha önce uygulanan tüm ihtiyati tedbirleri kaldırdı. Kararla birlikte tedbir kapsamında görevlendirilen Gürsel Tekin ve b",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/kultur-sanat/tarihin-tozlu-sayfalarindan-yemene-osmanlinin-lahic-zaferi-3913097",
-      "publishedAt": "Thu, 17 Sep 2026 10:48:34 GMT"
+      "link": "https://www.haberturk.com/gundem/gursel-tekin-in-gorevine-son-verildi-3913231",
+      "publishedAt": "Thu, 17 Sep 2026 16:03:54 GMT"
     },
     {
-      "title": "Yardım için KADES butonuna bastı... Eski eşini vurup aracına aldı",
-      "summary": "Diyarbakır'da, parkta tartıştığı eski eşi M.K.'yi silahla yaralayan Ö.K., araçla kaçmaya başladı. M.K.'nin, KADES uygulamasını kullanması ile polis, kaçan şüpheliyi yakalamak için aracı caddeye konuşlandırdı. Gözü dönmüş adam, kullandığı ar",
+      "title": "İran, Almanya Büyükelçisini Dışişleri Bakanlığına çağırdı",
+      "summary": "İran Dışişleri Bakanlığının, Almanya’nın Tahran Büyükelçisi Axel Wilhelm Dittmann’ı bakanlığa çağırdığı ve Alman yetkililerin İran karşıtı açıklamaları nedeniyle İran’ın “güçlü protestosunun” kendisine iletildiği belirtildi.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-yardim-icin-kades-butonuna-basti-eski-es-dehset-sacti-2-olu-3913134",
-      "publishedAt": "Thu, 17 Sep 2026 10:46:05 GMT"
+      "link": "https://www.haberturk.com/dunya/iran-almanya-buyukelcisini-disisleri-bakanligina-cagirdi-3913242",
+      "publishedAt": "Thu, 17 Sep 2026 16:02:26 GMT"
     },
     {
-      "title": "AB'de 13 yaş altına sosyal medya yasağı geliyor",
-      "summary": "Avrupa Komisyonu Başkanı Ursula von der Leyen, 13 yaşın altındaki çocukların sosyal medya kullanımının yasaklanmasını ve 13-15 yaş arasındaki çocukların hesaplarının ebeveyn kontrolüne tabi olmasını öngören yeni bir düzenleme önerdi. Teklif",
+      "title": "Borsada ve sermaye piyasalarında operasyon",
+      "summary": "Sermaye piyasaları soruşturmasında Pusula Portföy Yönetim Kurulu Başkanı Muhammed Yarız'ın tutuklanmasının ardından Namık Kemal Gökalp, İbrahim Bekci ve Altunç Kumova'nın gözaltına alındı. Emre Tezmen ve Serdar Turhan'ın da aralarında bulun",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/ab-de-13-yas-altina-sosyal-medya-yasagi-geliyor-teklif-verildi-3913137",
-      "publishedAt": "Thu, 17 Sep 2026 10:43:57 GMT"
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-borsada-ve-sermaye-piyasalarinda-operasyon-3913241",
+      "publishedAt": "Thu, 17 Sep 2026 15:58:39 GMT"
     },
     {
-      "title": "İnternet dili sözlüğe girdi!",
-      "summary": "İnternetin yeni kelimeleri sözlükte! ABD merkezli Merriam-Webster Sözlüğü, sosyal medya kültürü ve günlük yaşamda yaygınlaşan ifadeleri de kapsayan 1400 yeni kelimeyi sözlüğüne ekledi. Looksmaxxing, parasosyal, Rickroll gibi son dönemin dik",
+      "title": "Eski eşinden tepki",
+      "summary": "Kadir İnanır'ın vasiyetiyle ilgili açıklamalarda bulunan yeğeni Levent İnanır, \"Dayımın irade sorunu vardı\" dedi. Levent İnanır'ın eski eşi Neslihan Acar ise \"İradesi sağlamdı, yapılanlar cehalettir\" diyerek, tepki gösterdi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/yasam/rickroll-dan-looksmaxxing-e-internet-dili-sozluge-girdi-3913133",
-      "publishedAt": "Thu, 17 Sep 2026 10:43:41 GMT"
+      "link": "https://www.haberturk.com/magazin/levent-inanir-a-eski-esi-neslihan-acar-dan-irade-tepkisi-3913228",
+      "publishedAt": "Thu, 17 Sep 2026 15:45:33 GMT"
     },
     {
-      "title": "'Kızılcık Şerbeti'nde sürpriz isim",
-      "summary": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nin kadrosuna başarılı oyuncu Murat Aygen katıldı",
+      "title": "\"Hemen gelip takımla birlikte maça çıkmak istedim”",
+      "summary": "Trabzonspor, teknik direktörlük görevi için Alman çalıştırıcı Thomas Reis ile 2 yıllık sözleşme imzaladı. Galatasaray maçı öncesi fazla vakit olmadığını belirten Reis, “Eğer büyük maçları oynamaktan korkuyorsanız burada olmamalısınız. Dolay",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/murat-aygen-kizilcik-serbeti-nde-3913135",
-      "publishedAt": "Thu, 17 Sep 2026 10:36:45 GMT"
+      "link": "https://www.haberturk.com/spor/thomas-reis-iyi-bir-sezon-cikaracagiz-3913223",
+      "publishedAt": "Thu, 17 Sep 2026 15:43:46 GMT"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan mesaj",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan \"Türk demokrasisine, milletin iradesine vurulmuş ağır bir darbe olan 27 Mayıs’ın cunta mahkemesi tarafından haksız, hukuksuz şekilde idama mahkûm edilen Başbakan Adnan Menderes, Dışişleri Bakanı Fatin Rüşt",
+      "title": "Babanın ifadesi ortaya çıktı",
+      "summary": "Sivas’ın Divriği ilçesi kırsalında 7 gün önce kaybolduğu iddia edilen 11 aylık Büşra bebekle ilgili soruşturmada baba Y.B’nin ifadesi ortaya çıktı. Anne E.B’nin ikinci ifadesinde bebeğini öldürmekte suçladığı baba, savcılık ifadesinde kızın",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-adnan-menderes-ve-arkadaslarini-andi-3913071",
-      "publishedAt": "Thu, 17 Sep 2026 10:32:13 GMT"
+      "link": "https://www.haberturk.com/gundem/busra-bebegin-olumunde-babanin-ifadesi-ortaya-cikti-3913240",
+      "publishedAt": "Thu, 17 Sep 2026 15:42:50 GMT"
+    },
+    {
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 12:27:18 GMT"
+    },
+    {
+      "title": "Ninth woman's body found as South African police investigate string of deaths",
+      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 13:44:07 GMT"
     },
     {
       "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
@@ -156,12 +172,12 @@
       "publishedAt": "Thu, 17 Sep 2026 08:22:12 GMT"
     },
     {
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+      "title": "Swedish PM Kristersson resigns after election loss",
+      "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 10:40:31 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 12:41:05 GMT"
     },
     {
       "title": "EU announces plan to restrict social media access for under-15s",
@@ -172,68 +188,76 @@
       "publishedAt": "Thu, 17 Sep 2026 10:00:14 GMT"
     },
     {
-      "title": "US interest rates raised for first time in three years",
-      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 00:40:17 GMT"
-    },
-    {
-      "title": "River home to 500 crocodiles chosen as Olympic rowing venue",
-      "summary": "A river that is home to about 500 saltwater crocodiles is given the OK to host Olympic and Paralympic rowing and canoeing events at the 2032 Brisbane Games.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/sport/olympics/articles/cqvgy1m9z4k8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 09:03:28 GMT"
-    },
-    {
-      "title": "Lebanon security talks in Paris to focus on post-UNIFIL alternatives",
-      "summary": "The security talks come as Israeli forces continue attacks across southern Lebanon despite a \"ceasefire\".",
+      "title": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
+      "summary": "Public broadcaster says country's participation cannot be justified amid 'appalling and ongoing loss of lives in Gaza'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/17/lebanon-security-talks-in-paris-to-focus-on-post-unifil-alternatives?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 10:20:20 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 15:40:48 +0000"
     },
     {
-      "title": "UK charities, protest groups condemn Israeli ban threat after sanctions",
-      "summary": "Having warned London of 'consequences' for sanctions, Israel targets UK charities, campaign groups and Palestine Action.",
+      "title": "Ninth woman’s body found as South Africa probes series of killings",
+      "summary": "All female victims in their 20s and 30s were killed on the outskirts of Johannesburg in the past two months.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 10:19:24 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/ninth-womans-body-found-as-south-africa-probes-series-of-killings?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 15:34:09 +0000"
     },
     {
-      "title": "NBA star Irving pledges to pay Al-Shaair’s NFL fine over Hind Rajab message",
-      "summary": "Houston Texans' linebacker Azeez Al-Shaair was fined for wearing the name of Hind Rajab on his eye black.",
+      "title": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
+      "summary": "Kosovo's decision to join a US-led Gaza force exposes the pull of its alliance with Washington, according to analysts.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/9/17/nba-star-irving-pledges-to-pay-al-shaairs-nfl-fine-over-hind-rajab-message?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 10:10:47 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/kosovo-israel-ties?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 15:10:12 +0000"
     },
     {
-      "title": "At least 19 injured in Russian attacks across Ukraine",
-      "summary": "Missile and drone strikes targeted Ukraine's capital Kyiv as well as the Zaporizhzhia and Odesa regions.",
+      "title": "What are all the sanctions Iran is under?",
+      "summary": "Iran has faced a torrent of international sanctions since the 1979 revolution - here's what's in place right now.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/17/at-least-19-injured-in-russian-attacks-across-ukraine?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 10:07:57 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 15:01:27 +0000"
     },
     {
-      "title": "Beckham backs Messi for Ballon d’Or after netting 100th Inter Miami goal",
-      "summary": "Former England captain David Beckham backs his Inter Miami player Lionel Messi for Ballon d'Or after Campeones Cup win.",
+      "title": "China faces oil challenge as prices soar and supply options narrow",
+      "summary": "Beijing is drawing on vast reserves and seeking alternative crude as shipping disruption continues.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/9/17/beckham-backs-messi-for-ballon-dor-after-netting-100th-inter-miami-goal?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 10:03:35 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/china-faces-oil-challenge-as-prices-soar-and-supply-options-narrow?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 14:48:35 +0000"
     },
     {
-      "title": "‘They called us’: Has Trump abandoned Bab al-Mandeb to the Houthis?",
-      "summary": "Washington’s response to the Houthi advance exposes the limits of the US security umbrella in the Gulf.",
+      "title": "Ghalibaf’s maths missile at Trump decoded: Is Iran fixing US interest rates?",
+      "summary": "Iran's speaker mocks US interest rates, citing the Taylor equation amidst rising global oil prices and inflation.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/9/17/they-called-us-has-trump-abandoned-bab-al-mandeb-to-the-houthis?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 09:52:50 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates?traffic_source=rss",
+      "publishedAt": "Thu, 17 Sep 2026 14:10:41 +0000"
+    },
+    {
+      "title": "Greetings from Beijing, where baozi are worth the wait in line",
+      "summary": "The popular fluffy steamed buns are filled with pork, vegetables, tofu — and in one trendy Beijing shop, chocolate and red beans.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/17/g-s1-142416/china-beijing-buns-baozi",
+      "publishedAt": "Thu, 17 Sep 2026 09:59:17 -0400"
+    },
+    {
+      "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack",
+      "summary": "Human rights experts commissioned by the U.N. say they have found \"reasonable grounds\" to believe the U.S. committed war crimes in Iran, including a strike on a school in the southern city of Minab.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes",
+      "publishedAt": "Thu, 17 Sep 2026 08:33:36 -0400"
+    },
+    {
+      "title": "The Fed raises interest rates. And, EU proposes Canada become an 'associate member'",
+      "summary": "The Federal Reserve has raised interest rates for the first time in years. And, the European Union has proposed that Canada become its first-ever \"associate member.\"",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/17/g-s1-143783/up-first-newsletter-federal-reserve-interest-rates-gas-prices-war-canada-european-union",
+      "publishedAt": "Thu, 17 Sep 2026 06:54:18 -0400"
     },
     {
       "title": "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
@@ -258,30 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/09/17/nx-s1-5950462/trump-arch-dca-planes-safety-concerns-faa",
       "publishedAt": "Thu, 17 Sep 2026 05:01:00 -0400"
-    },
-    {
-      "title": "People's houses are collapsing into the ocean. FEMA gives them no other option",
-      "summary": "Waterfront homes are collapsing along the coast. Homeowners generally have plenty of warning before their house buckles. So why aren't most houses removed, or at least emptied, before they fall?",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5844642/fema-homes-collapse-ocean-climate-north-carolina-maine",
-      "publishedAt": "Thu, 17 Sep 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Pediatricians raise the alarm on the effect of Trump's immigration crackdown on kids",
-      "summary": "The Trump administration has been pursuing a quiet immigration crackdown strategy: limiting access to health care and public services. The American Academy of Pediatrics is sounding the alarm about the impact on children.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5953989/immigration-crackdown-children-medical-care",
-      "publishedAt": "Thu, 17 Sep 2026 05:00:00 -0400"
-    },
-    {
-      "title": "A Sikh truck driver is stabbed amid a rise in anti-South Asian rhetoric",
-      "summary": "The driver said he was shaken by a violent encounter at a rest stop, which he described as unprovoked.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5971866/truck-driver-attack-wyoming-sikh-south-asian",
-      "publishedAt": "Thu, 17 Sep 2026 05:00:00 -0400"
     },
     {
       "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
@@ -360,15 +360,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 22,
-      "description": "overcast",
-      "high": 22,
+      "tempC": 21,
+      "description": "mainly clear",
+      "high": 24,
       "low": 17
     },
     {
       "place": "London",
-      "tempC": 17,
-      "description": "overcast",
+      "tempC": 20,
+      "description": "mainly clear",
       "high": 20,
       "low": 14
     }
