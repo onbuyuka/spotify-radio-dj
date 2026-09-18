@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-18T10:31:06.533Z",
+  "updated": "2026-09-18T15:46:29.188Z",
   "news": [
+    {
+      "title": "Rojin Kabaiş soruşturması: 'Fethi kabir talebinde bulunabiliriz'",
+      "summary": "BBC Türkçe'ye konuşan Kabaiş ailesinin avukatı Abdurrahman Karabulut gözaltına alınan bir çiftin ifadelerinin alındığını, DNA örneklerinin toplandığını, telefonlarına el konulup, evlerinde arama yapıldığını açıkladı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cqpve8g4vzglo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 15:40:19 GMT"
+    },
     {
       "title": "Borsadaki fon krizi nasıl çıktı, yatırımcılar risk altında mı?",
       "summary": "Borsa İstanbul'da günlerdir süren düşüşün ardından hükümet piyasada krizi önlemek için sert önlemler açıkladı. Peki kriz nasıl başladı? Sorunlu fonlarda varlığı bulunan yatırımcılar nasıl etkilenecek?",
@@ -10,12 +18,28 @@
       "publishedAt": "Fri, 18 Sep 2026 09:44:26 GMT"
     },
     {
-      "title": "Bakan Gürlek: Borsa soruşturmasında dört kişi tutuklandı",
-      "summary": "Adalet Bakanı Akın Gürlek, fon ve hisse piyasasında gerçekleştirilen manipülatif işlemlere yönelik yürütülen soruşturma kapsamında, fon yönetim kurulu başkan ve üyelerinin de aralarında bulunduğu dört kişinin tutuklandığını duyurdu.",
+      "title": "Japonya'da artan enflasyona karşı faiz oranları son 31 yılın en yüksek seviyesinde",
+      "summary": "Japonya Merkez Bankası, artan ekonomik baskı ve fiyat artışlarına karşı, faiz oranını son 31 yılın en yüksek seviyesine çıkardı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cqkg08p7v814o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 07:20:51 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c6pq0w8g8rj4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 11:11:23 GMT"
+    },
+    {
+      "title": "İktidar değişikliği beklenmese de Rusya'da seçimler Kremlin için neden önemli?",
+      "summary": "Rusya'da bu hafta sonu yapılacak parlamento seçimleri Devlet Başkanı Vladimir Putin'in iktidarı için bir tehdit oluşturmuyor ancak seçimler Kremlin için yine de önemli. BBC Rusya Editörü Steve Rosenberg'in analizi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cq99dj8xl9elo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 10:42:38 GMT"
+    },
+    {
+      "title": "Hindistan'da kızının eğitimi için yalınayak koşan anneye ödül",
+      "summary": "Kimilerine göre Ramabai Ranveer'in üç bin rupi ödüllü yalınayak üç kilometrelik koşusu, annelerin fedakarlığını ve çocuklarını yoksulluktan kurtarmak için ne kadar ileri gidebileceklerini simgeliyor. Diğerlerine göre ise bu koşu, Hindistan'",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ck87vr2j8dx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 13:00:39 GMT"
     },
     {
       "title": "Türkiye ve Azerbaycan'ın görüştüğü yeni enerji projeleri bölgeyi nasıl etkiler?",
@@ -26,118 +50,102 @@
       "publishedAt": "Fri, 18 Sep 2026 05:05:14 GMT"
     },
     {
-      "title": "Kaşif Kozinoğlu soruşturmasında gözaltına alınan Hasan Atilla Uğur kimdir?",
-      "summary": "Eski MİT mensubu Kaşif Kozinoğlu'nun 2011'de Silivri Cezaevi'nde ölümüne ilişkin yeniden açılan soruşturmada, eski koğuş arkadaşı emekli Albay Hasan Atilla Uğur gözaltına alındı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cr780xjyn53vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 07:47:35 GMT"
-    },
-    {
-      "title": "Bolivya'da bulunan kedinin yeni bir tür olduğu belirlendi",
-      "summary": "Bolivya'da yeni bir tür olarak tanımlanan benekli bir kedi bulundu. Bu kedi uzun süredir başka bir türün akrabası sanılıyordu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cvrl6453zedeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 05:40:01 GMT"
-    },
-    {
-      "title": "Bakan Şimşek: Borsa ve fon piyasasında genele yayılan bir risk yok",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, piyasada yaşanan sorunların sınırlı sayıda fonda gerçekleştiğini belirterek \"Borsada ve fon piyasasında genele yayılan sistemik bir risk söz konusu değil\" dedi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cq36l32j8w1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 08:06:42 GMT"
-    },
-    {
-      "title": "Bahçeli: Ahilik en güçlü rehber",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, ahiliğin en güçlü ve en işlevsel rehber olduğunu ifade etti.",
+      "title": "İstanbul Havalimanı Avrupa’nın en yoğun havalimanı oldu",
+      "summary": "İstanbul Havalimanı, Amsterdam Schiphol ve Paris Charles De Gaulle havalimanlarını geride bırakarak Avrupa’nın en yoğun havalimanı oldu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-18T12:51:46+03:00"
+      "publishedAt": "2026-09-18T18:36:50+03:00"
     },
     {
-      "title": "Naci Görür: Kuzey kol hem Marmara'da hem Yunanistan'da geriliyor",
-      "summary": "Yunanistan'ın Eğriboz Adası'nda 4,4 büyüklüğünde deprem meydana geldi. Depremin yerine dikkat çeken Prof. Dr. Naci Görür, \"Kuzey kol hem Marmara'da hem Yunanistan'da geriliyor.\" dedi.",
+      "title": "Orta sınıf tank TULPAR, atış testini geçti",
+      "summary": "Otokar ile Leonardo, HITFACT MkII 120 milimetre kule entegreli TULPAR Paletli Zırhlı Muharebe Aracı ile atış testleri yaptı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-18T13:11:14+03:00"
+      "publishedAt": "2026-09-18T18:21:16+03:00"
     },
     {
-      "title": "İstanbul barajlarında alarm: Doluluk oranı yüzde 40'ın altında",
-      "summary": "Son 10 yılın eylül dönemindeki doluluk oranının üçüncü kez yüzde 40'ın altına gerilemesi yağışların azalması ve yaz aylarında su tüketiminin artmasına bağlandı.",
+      "title": "Türkiye'nin yeni zırhlısı: Orta sınıf tank TULPAR, atış testini geçti",
+      "summary": "Otokar ile Leonardo, HITFACT MkII 120 milimetre kule entegreli TULPAR Paletli Zırhlı Muharebe Aracı ile atış testleri yaptı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-18T12:21:00+03:00"
+      "publishedAt": "2026-09-18T18:21:52+03:00"
     },
     {
-      "title": "Hatay'da orman yangını. Ekipler müdahale ediyor",
-      "summary": "Hatay'ın Dörtyol ilçesinde orman yangını çıktı. Alevlere havadan ve karadan müdahale sürüyor.",
+      "title": "İBB davasına ek iddianame düzenlendi",
+      "summary": "İBB davasında 29 şüpheli hakkında ek iddianame düzenlendi. İddianame, ana davayla birleştirilmesi talebiyle mahkemeye gönderildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-18T11:41:36+03:00"
+      "publishedAt": "2026-09-18T18:12:28+03:00"
     },
     {
-      "title": "İsrail bağlantılı şebekeden Türkiye'de 3 milyar dolarlık vurgun: \"Bizimkileri dolandırmayın\"",
-      "summary": "Türkiye'de 3 milyar dolarlık vurgun yapan İsrail bağlantılı şebeke çökertildi. Yapı içinde yer alan şüphelilere İsrail vatandaşlarını dolandırmamaları konusunda talimat verildiği belirlendi.",
+      "title": "Samsun'da iki kız çocuğuna cinsel istismar: Dört şüpheli gözaltında",
+      "summary": "Amasya'da yurttan kaçtıkları ileri sürülen iki kız çocuğu, Samsun'da cinsel istismara maruz bırakıldı. Polis, olayla ilgili dört şüpheliyi gözaltına aldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-18T12:29:30+03:00"
+      "publishedAt": "2026-09-18T16:44:43+03:00"
     },
     {
-      "title": "Ev sahibi olmak isterken dolandırıldı, 5 çocuğuyla ahırdaki çadırda kalıyor",
-      "summary": "Adana’da kredi kartı çıkarma vaadiyle dolandırıldığını öne süren Hatun Aslaner, kirasını ödeyemeyince en küçüğü 2 aylık 5 çocuğuyla ahırdaki çadırda kalıyor.",
+      "title": "Bayraktar TB2’ye entegre edilen elektronik harp ve radar sistemleri test edildi",
+      "summary": "ASELSAN’ın Bayraktar TB2’ye entegre ettiği elektronik destek, elektronik harp ve radar sistemlerinin kabiliyetleri, 18 ülkeden heyetlerin katıldığı demoda sergilendi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-18T10:35:44+03:00"
+      "publishedAt": "2026-09-18T16:13:56+03:00"
     },
     {
-      "title": "Adalet Bakanı Akın Gürlek'ten seçim tarihi açıklaması",
-      "summary": "Adalet Bakanı Akın Gürlek, 2028 yılında Cumhurbaşkanı seçimi yapılacağını belirterek teşkilat mensuplarına önemli sorumluluk düştüğünü söyledi. Gürlek, Terörsüz Türkiye sürecinde ikinci aşamaya geçileceğini ve hazırlanan yasanın örgütün tam",
+      "title": "İBB'de 29 şüpheli hakkında ek iddianame",
+      "summary": "İBB'ye yönelik yürütülen soruşturma kapsamında 29 şüpheli hakkında ek iddianame hazırlandı. Hazırlanan ek iddianamenin, devam eden ana dava dosyasıyla birleştirilmesi talep edildi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-adalet-bakani-akin-gurlek-ten-secim-tarihi-aciklamasi-3913400",
-      "publishedAt": "Fri, 18 Sep 2026 10:22:18 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-29-supheli-hakkinda-ek-iddianame-3913471",
+      "publishedAt": "Fri, 18 Sep 2026 15:32:20 GMT"
     },
     {
-      "title": "Heyecanı zirveye taşıdı",
-      "summary": "SHOW TV'nin sevilen dizisi 'Muhtemel Aşk', sürpriz gelişmelerin yaşandığı 14'üncü bölümüyle izleyiciyle buluştu",
+      "title": "KYK burs başvurusu ne zaman?",
+      "summary": "Gençlik ve Spor Bakanlığı'na bağlı olan Kredi ve Yurtlar Kurumu tarafından gelecek son dakika açıklaması ile KYK burs başvuruları başlayacak. Üniversite yerleştirme sürecinin tamamlanmasının ardından gözler KYK burs ve kredi başvuru takvimi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/muhtemel-ask-14-uncu-bolumuyle-ekranlara-geldi-3913374",
-      "publishedAt": "Fri, 18 Sep 2026 10:15:16 GMT"
+      "link": "https://www.haberturk.com/kyk-burs-basvuru-tarihi-2026-2027-gsb-kyk-burs-ve-kredi-basvurulari-ne-zaman-burs-basvurusu-nasil-yapilir-3913475",
+      "publishedAt": "Fri, 18 Sep 2026 15:27:17 GMT"
     },
     {
-      "title": "Tera'dan tasfiye açıklaması",
-      "summary": "Tera Portföy, SPK tarafından tasfiye sürecine alınan 6 yatırım fonuna ilişkin yeni detayları açıkladı. Şirket, fon varlıklarının yetkilendirilen Türkiye İş Bankası tarafından nakde dönüştürüleceğini, yatırımcılara ödemelerin ise oluşturulac",
+      "title": "Ümraniyespor deplasmanda tek golle geçti",
+      "summary": "Trendyol 1. Lig’in 8. haftasında Ümraniyespor, deplasmanda konuk olduğu Bandırmaspor'u 1-0 mağlup etti.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/tera-portfoy-den-tasfiye-surecine-iliskin-aciklama-3913408",
-      "publishedAt": "Fri, 18 Sep 2026 10:13:53 GMT"
+      "link": "https://www.haberturk.com/spor/bandirmaspor-0-umraniyespor-1-mac-sonucu-ozeti-ve-golleri-trendyol-1-lig-3913474",
+      "publishedAt": "Fri, 18 Sep 2026 15:23:15 GMT"
     },
     {
-      "title": "'Pervaneler' 8 Ocak'ta vizyonda",
-      "summary": "Ata Demirer'in senaryosunu kaleme aldığı ve başrolünde yer alacağı BKM yapımı 'Pervaneler' filminin çekimleri 28 Eylül'de başlayacak. Filmin, 8 Ocak 2027'de sinemaseverlerle buluşması planlanıyor",
+      "title": "HSK’dan savcı Uçuk hakkında tedbir kararı",
+      "summary": "HSK, yürütülen adli ve idari soruşturmanın sağlıklı ilerlemesi gerekçesiyle Türkşad Kunthan Uçuk’un üç ay süreyle geçici olarak görevden uzaklaştırılmasına karar verdi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/ata-demirer-in-yeni-filmi-pervaneler-8-ocak-ta-vizyonda-3913407",
-      "publishedAt": "Fri, 18 Sep 2026 10:09:23 GMT"
+      "link": "https://www.haberturk.com/gundem/hsk-ikinci-dairesi-sorusturma-kapsaminda-savci-turksad-kunthan-ucuku-gorevden-uzaklastirdi-3913473",
+      "publishedAt": "Fri, 18 Sep 2026 15:20:35 GMT"
     },
     {
-      "title": "Çobanı ayı parçaladı",
-      "summary": "Sivas'ın Zara ilçesinde, yaylada hayvan otlatan çoban 45 yaşındaki Abdullah Dindar, ayı saldırısı sonucu vücudunun birçok yerinden yaralandı. Dindar, ambulans helikopterle Sivas Cumhuriyet Üniversitesi Tıp Fakültesi Hastanesi'ne kaldırıldı",
+      "title": "Mert Kömür'e Almanya'dan davet!",
+      "summary": "Augsburg forması giyen Mert Kömür, Almanya U21 Milli Takımı'ndan davet aldı. Genç oyuncu bugüne kadar 6 kez Almanya'da U21 forması giydi.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-cobani-ayi-parcaladi-sivas-haberleri-3913363",
-      "publishedAt": "Fri, 18 Sep 2026 10:09:09 GMT"
+      "link": "https://www.haberturk.com/spor/turk-asilli-futbolcu-mert-komur-e-almanya-u21-milli-takimi-ndan-davet-3913472",
+      "publishedAt": "Fri, 18 Sep 2026 15:16:18 GMT"
     },
     {
-      "title": "Otizmli çocuğun ölümünde cinayet şüphesi",
-      "summary": "Sivas'ta, ikamet ettikleri apartmanın 4. Katındaki pencereden düşerek ölen 12 yaşındaki otizmli T.K.'nin ablası 14 yaşındaki S.N.K ve erkek arkadaşı 17 yaşındaki T.S. tutuklanarak cezaevine konuldu. S.N.K'nin ifadesinde kardeşini attığını i",
+      "title": "Emekliye seyyanen zammında son durum",
+      "summary": "Milyonlarca emeklinin gözü kulağı seyyanen zammındaki son dakika gelişmelerine çevrildi. En son 2023 yılında memurlara yapılan 8 bin 77 TL tutarındaki ilave ödemenin emekli aylıklarına yansıtılması yönündeki talepler özellikle memur emeklil",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-otizmli-cocugun-olumunde-cinayet-suphesi-sivas-haberleri-3913382",
-      "publishedAt": "Fri, 18 Sep 2026 10:03:23 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/emekliye-seyyanen-zammi-son-durum-ssk-bagkur-emekli-maasina-seyyanen-zam-gelecek-mi-3912972",
+      "publishedAt": "Fri, 18 Sep 2026 14:52:41 GMT"
+    },
+    {
+      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 15:14:35 GMT"
     },
     {
       "title": "Three dead and eight injured in Philippines school shooting",
@@ -145,95 +153,119 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 10:04:43 GMT"
+      "publishedAt": "Fri, 18 Sep 2026 11:01:46 GMT"
     },
     {
-      "title": "At least 16 killed in attack on mosque in Pakistan",
-      "summary": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official told the BBC.",
+      "title": "Police begin operation to move migrants from Ceuta beaches",
+      "summary": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 11:59:42 GMT"
+    },
+    {
+      "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+      "summary": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 18 Sep 2026 11:49:46 GMT"
+    },
+    {
+      "title": "At least 17 killed after vehicle loaded with explosives rams Pakistan mosque",
+      "summary": "A four-year-old child is among those killed in the attack, during which gunmen also opened fire on a police facility.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 10:13:02 GMT"
+      "publishedAt": "Fri, 18 Sep 2026 15:08:12 GMT"
     },
     {
-      "title": "Canada welcomes EU proposal to become 'associate member'",
-      "summary": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+      "title": "New wild cat species discovered - with only one known living member",
+      "summary": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 12:27:18 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 17 Sep 2026 23:15:55 GMT"
     },
     {
-      "title": "Ninth woman's body found as South African police investigate string of deaths",
-      "summary": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 13:44:07 GMT"
-    },
-    {
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 20:34:30 GMT"
-    },
-    {
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "summary": "Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 17 Sep 2026 23:24:07 GMT"
-    },
-    {
-      "title": "‘This is a war’: South Africa battles femicide as women’s bodies pile up",
-      "summary": "Bodies of nine women have been found in a Johannesburg neighbourhood in two months, as worries grow over women's safety.",
+      "title": "Real Madrid President says Ceuta visit not related to ‘recent news’",
+      "summary": "Real Madrid stars including Kylian Mbappe rolled up T-shirts showing support for Ceuta, but President trip 'unrelated'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/18/this-is-a-war-south-africa-battles-femicide-as-womens-bodies-pile-up?traffic_source=rss",
-      "publishedAt": "Fri, 18 Sep 2026 09:43:43 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 14:37:30 +0000"
     },
     {
-      "title": "India star Sooryavanshi urged to be patient by coach Gambhir",
-      "summary": "Vaibhav Sooryavanshi told to be patient after playing back up to Abhishek Sharma and Sanju Samson in Sri Lanka series.",
+      "title": "Real Madrid’s Kylian Mbappe ends Nike partnership to join Swiss brand On",
+      "summary": "On, which is set to launch its first football boots next year, also appointed Thierry Henry as its football director.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss",
-      "publishedAt": "Fri, 18 Sep 2026 09:34:37 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 14:30:18 +0000"
     },
     {
-      "title": "Bayern and England’s Kane not focused on Ballon d’Or despite 73-goal season",
-      "summary": "Harry Kane could become first Ballon d'Or from England since 2001, but striker focused on Bayern Munich trophies.",
+      "title": "New Bolivian cat claws its way into species list: What we meow",
+      "summary": "Purrfectly new to science: the first new wild cat found in over a century proves that cats do have nine (secret) lives.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/9/18/kane-not-focused-on-ballon-dor-despite-73-goal-season?traffic_source=rss",
-      "publishedAt": "Fri, 18 Sep 2026 09:12:09 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/18/new-bolivian-cat-claws-its-way-into-species-list-what-we-meow?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 14:25:53 +0000"
     },
     {
-      "title": "Why the Kremlin fears even the ‘managed opposition’ in Russia",
-      "summary": "The risk of a protest vote was too high at the Duma elections so a pre-election crackdown was carried out.",
+      "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
+      "summary": "Kremlin calls UK's support for Ukraine an endorsement of 'terrorism' after recent escalation in weapons supply.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/9/18/why-the-kremlin-fears-even-the-managed-opposition-in-russia?traffic_source=rss",
-      "publishedAt": "Fri, 18 Sep 2026 09:10:42 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 14:17:20 +0000"
     },
     {
-      "title": "Video: Influencers accused of exploiting Nepal flood survivors",
-      "summary": "‘Aid influencers’ are being accused of exploiting Nepal flood victims to boost social media followers.",
+      "title": "Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’",
+      "summary": "Spain's Lamine Yamal says most racism he has suffered has come from people unaware of their own comments or behaviour.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-influencers-accused-of-exploiting-nepal-flood-survivors?traffic_source=rss",
-      "publishedAt": "Fri, 18 Sep 2026 08:58:48 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 14:08:03 +0000"
     },
     {
-      "title": "Israel would rather not watch NAZA",
-      "summary": "The backlash against the Gaza documentary is part of a broader refusal to confront the reality of the genocide.",
+      "title": "The cost of Iran’s regional leverage",
+      "summary": "Tehran’s use of pressure across the region is putting its rapprochement with Gulf states under increasing strain.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/9/18/israel-would-rather-not-watch-naza?traffic_source=rss",
-      "publishedAt": "Fri, 18 Sep 2026 08:49:16 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 13:52:49 +0000"
+    },
+    {
+      "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
+      "summary": "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
+      "publishedAt": "Fri, 18 Sep 2026 07:09:24 -0400"
+    },
+    {
+      "title": "Ms. Rachel has entered her album era, and she is so happy about it",
+      "summary": "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
+      "publishedAt": "Fri, 18 Sep 2026 07:00:00 -0400"
+    },
+    {
+      "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+      "summary": "Warren Buffett is stepping down as chairman of Berkshire Hathaway after serving in the role for more than 50 years. His son, Howard, will become Berkshire Hathaway's new chairman",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
+      "publishedAt": "Fri, 18 Sep 2026 06:58:49 -0400"
+    },
+    {
+      "title": "South Africa 'feels like a prison' for women amid spate of femicides",
+      "summary": "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
+      "publishedAt": "Fri, 18 Sep 2026 06:39:14 -0400"
     },
     {
       "title": "True or false: Trump's name is now on the Kennedy Center. The quiz has the answer",
@@ -244,30 +276,6 @@
       "publishedAt": "Fri, 18 Sep 2026 05:01:00 -0400"
     },
     {
-      "title": "Republican 'cavalry' arrives with a Trump-backed $150 million ad blitz in key races",
-      "summary": "To counter a difficult political environment, two Trump-aligned super PACs have reserved more than $150 million in ads — primarily in deep red House and Senate races that have now become competitive.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5971202/trump-super-pac-midterm-spending-republicans-democrats",
-      "publishedAt": "Fri, 18 Sep 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Google is helping write AI chatbot safety laws — while pushing for loopholes",
-      "summary": "As states push to regulate chatbots, tech companies are trying to write safety rules in ways that exempt some of their key products.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5968878/ai-chatbots-safety-regulation-google",
-      "publishedAt": "Fri, 18 Sep 2026 05:00:00 -0400"
-    },
-    {
-      "title": "A DHS email raises new questions about the Trump administration's election plans",
-      "summary": "A heavily redacted email from last year, reported first by NPR, reveals that DHS personnel shared a list of jurisdictions that offer election materials in non-English languages. It's unclear why.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5973278/dhs-noncitizen-voting-english-language",
-      "publishedAt": "Fri, 18 Sep 2026 05:00:00 -0400"
-    },
-    {
       "title": "Could trees developed with gene-editing technology protect Florida's citrus industry?",
       "summary": "A bacterial infection is wiping out Florida's citrus trees. Growers hope a rootstock developed with gene-editing technology could keep the disease at bay.",
       "source": "NPR",
@@ -276,12 +284,12 @@
       "publishedAt": "Fri, 18 Sep 2026 05:00:00 -0400"
     },
     {
-      "title": "Morning news brief",
-      "summary": "Trump threatens to tear down the Kennedy Center amid court battle, Trump's other priorities also get pushback this week, Poland's PM warns Russia could strike countries that support Ukraine.",
-      "source": "NPR",
+      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
+      "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last weekA British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged abdu",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5966388/morning-news-brief",
-      "publishedAt": "Fri, 18 Sep 2026 04:46:02 -0400"
+      "link": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
+      "publishedAt": "Fri, 18 Sep 2026 11:21:36 GMT"
     },
     {
       "title": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
       "publishedAt": "Fri, 18 Sep 2026 00:23:31 GMT"
-    },
-    {
-      "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
-      "summary": "As three siblings came of age and had to leave their pack, scientists tracked the dogs’ perilous 2,500-mile odyssey to find their own territoryIt sounds like a Disney movie: three wild dogs, all brothers, on an epic journey to find a home o",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
-      "publishedAt": "Thu, 17 Sep 2026 04:00:39 GMT"
     }
   ],
   "sports": [
@@ -381,8 +381,8 @@
     },
     {
       "place": "London",
-      "tempC": 17,
-      "description": "clear sky",
+      "tempC": 20,
+      "description": "overcast",
       "high": 20,
       "low": 12
     }
