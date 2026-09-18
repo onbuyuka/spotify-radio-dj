@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T23:21:31.064Z",
+  "updated": "2026-09-18T03:04:10.092Z",
   "news": [
     {
       "title": "AKP'nin seçim hesabı: Kararın aylar öncesinden alınması formülü tartışılıyor",
@@ -54,7 +54,7 @@
       "summary": "Kırıkkale'de trafik kazasının ardından çalışma yapan olay yeri inceleme polisi Batuhan Sarıyalçınkaya, başka bir aracın çarpması sonucu şehit oldu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-18T01:27:18+03:00"
+      "publishedAt": "2026-09-18T05:19:18+03:00"
     },
     {
       "title": "Atama ve görevden alma kararları Resmi Gazete'de. TÜİK Başkan Yardımcısı değişti",
@@ -75,7 +75,7 @@
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-18T02:00:00+03:00"
+      "publishedAt": "2026-09-18T06:00:00+03:00"
     },
     {
       "title": "Borsada manipülasyon iddiaları. Bakan Çiftçi: Operasyonlar sürecek",
@@ -90,6 +90,22 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-09-17T21:50:24+03:00"
+    },
+    {
+      "title": "Hasan Atilla Uğur gözaltına alındı",
+      "summary": "Silivri Cezaevi'nde 2011 yılında hayatını kaybeden MİT mensubu Kaşif Kozinoğlu'nun ölümüne ilişkin yürütülen soruşturma kapsamında emekli Jandarma Albay Hasan Atilla Uğur, Kıbrıs dönüşü havalimanında gözaltına alındı",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/gundem/kasif-kozinoglu-sorusturmasinda-hasan-atilla-ugur-gozaltina-alindi-3913301",
+      "publishedAt": "Fri, 18 Sep 2026 02:47:17 GMT"
+    },
+    {
+      "title": "Balıkesir'de çayda cansız beden bulundu",
+      "summary": "Balıkesir Edremit'teki Zeytinli Çayı'nda bir erkeğe ait cansız beden bulundu. Olayla ilgili soruşturma başlatıldı",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/gundem/balikesir-de-cayda-cansiz-beden-bulundu-3913300",
+      "publishedAt": "Fri, 18 Sep 2026 02:36:12 GMT"
     },
     {
       "title": "39 ilin emniyet müdürü değişti",
@@ -122,22 +138,6 @@
       "lang": "tr",
       "link": "https://www.haberturk.com/spor/ernest-poku-takim-icinde-her-zaman-yuzde-100-umu-vermeye-hazirim-3913298",
       "publishedAt": "Thu, 17 Sep 2026 22:27:19 GMT"
-    },
-    {
-      "title": "“Çok iyi başladık\"",
-      "summary": "Beşiktaş Kaptanı Orkun Kökçü, UEFA Avrupa Ligi'nin ilk haftasındaki 4-1'lik Marsilya galibiyetine ilişkin, “Çok iyi başladık. Bizim için bu maç çok önemliydi. Evimizde, güçlü bir rakibe karşı güçlü başlamak zorundaydık. Çünkü grubumuz da ba",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/spor/orkun-kokcu-cok-iyi-basladik-3913297",
-      "publishedAt": "Thu, 17 Sep 2026 22:14:11 GMT"
-    },
-    {
-      "title": "'Takipsizlik kararı' iddialarına soruşturma",
-      "summary": "Bolu'da bir Cumhuriyet savcısının takipsizlik kararına yönelik iddialara ilişkin Başsavcılıkça soruşturma başlatıldı",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/takipsizlik-karari-iddialarina-sorusturma-3913295",
-      "publishedAt": "Thu, 17 Sep 2026 22:07:44 GMT"
     },
     {
       "title": "Canada welcomes EU proposal to become 'associate member'",
@@ -188,52 +188,52 @@
       "publishedAt": "Thu, 17 Sep 2026 15:05:13 GMT"
     },
     {
-      "title": "Russia election: Could other parties challenge United Russia?",
-      "summary": "Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?",
+      "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
+      "summary": "UNSC meeting on Syria turned into a heated debate between Israel and Turkiye over troops in Syrian territory.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_medvedenkod-parties_challenge_united_russia-170926?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 22:19:58 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/18/syria-warns-israel-poses-the-greatest-threat-to-middle-east-stability?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 01:58:54 +0000"
     },
     {
-      "title": "Trinidad and Tobago ends state of emergency amid pushback over mass arrests",
-      "summary": "Lawyers criticised mass arrests under emergency powers that allowed authorities to detain people without charge.",
+      "title": "UN findings show US strikes on Minab could be war crimes",
+      "summary": "UN-backed human rights experts say the US committed possible war crimes when it launched two strikes.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/17/trinidad-and-tobago-ends-state-of-emergency-amid-pushback-over-mass-arrests?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 22:12:22 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-findings-show-us-strikes-on-minab-could-be-war-crimes?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 01:58:53 +0000"
     },
     {
-      "title": "US judge orders 30-day notice prior to any Kennedy Center physical changes",
-      "summary": "The ruling comes amid legal battle over Trump’s changes to the Kennedy Center, including his effort to rename it.",
+      "title": "White House withdraws Lance Schroyer’s nomination to lead ICE",
+      "summary": "The ex-Oklahoma state trooper’s nomination had stalled in the Senate as ICE faced growing scrutiny over its operations.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-judge-orders-30-day-notice-prior-to-any-kennedy-center-physical-changes?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 21:42:31 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/18/white-house-withdraws-lance-schroyers-nomination-to-lead-ice?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 01:23:44 +0000"
     },
     {
-      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
-      "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis.",
+      "title": "Former Assad officer sentenced to 60 years in US for torture",
+      "summary": "Former Syrian official sentenced to 60 years in US prison for torturing prisoners under al-Assad's regime.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 21:38:17 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/18/former-assad-officer-sentenced-to-60-years-in-us-for-torture?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 01:15:25 +0000"
     },
     {
-      "title": "Yemenis recount journey to Djibouti as refugee arrivals surge",
-      "summary": "Djibouti has appealed to the international community to help provide humanitarian assistance as thousand flee Yemen.",
+      "title": "Tunisia floods disrupt capital as heavy rain traps motorists and residents",
+      "summary": "Recurring floods disrupt daily life in Tunis, raising questions about drainage, transport and flood preparedness.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/yemenis-recount-journey-to-djibouti-as-refugee-arrivals-surge?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 21:27:11 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/18/tunisia-floods-disrupt-capital-as-heavy-rain-traps-motorists-and-residents?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 00:49:24 +0000"
     },
     {
-      "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
-      "summary": "Iran's delegation to UNGA will be smaller this year, with travel restrictions and limits on luxury goods purchases.",
+      "title": "Iran expels Swedish diplomat in retaliatory move",
+      "summary": "Tehran gives Swedish official 48 hours to leave as Iran says Stockholm is bowing down to outside pressure.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
-      "publishedAt": "Thu, 17 Sep 2026 21:20:57 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/18/iran-expels-swedish-diplomat-in-retaliatory-move?traffic_source=rss",
+      "publishedAt": "Fri, 18 Sep 2026 00:09:32 +0000"
     },
     {
       "title": "Trump withdraws Lance Schroyer, a former Oklahoma state trooper, as his nominee to lead ICE",
@@ -260,7 +260,7 @@
       "publishedAt": "Thu, 17 Sep 2026 16:00:35 -0400"
     },
     {
-      "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+      "title": "To prevent deaths in childbirth, Kenyan moms turn to an AI powered chatbot",
       "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
       "source": "NPR",
       "lang": "en",
@@ -282,6 +282,14 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/09/17/nx-s1-5965831/american-scoundrel-traces-roy-cohns-playbook-from-mccarthyism-to-trump",
       "publishedAt": "Thu, 17 Sep 2026 12:14:06 -0400"
+    },
+    {
+      "title": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
+      "summary": "Drinking locally made alcohol is common in Nigeria, especially in rural areas where it is more affordable and poorly regulatedAt least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming a lo",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
+      "publishedAt": "Fri, 18 Sep 2026 00:23:31 GMT"
     },
     {
       "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
@@ -306,17 +314,44 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
       "publishedAt": "Wed, 16 Sep 2026 12:35:45 GMT"
-    },
-    {
-      "title": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
-      "summary": "Twenty-five years after 9/11, figures compiled by conflict monitor underline how Sahel region has become centre of Islamist terrorIslamist extremist violence in Africa’s Sahel region is set to reach historic highs after a series of sweeping",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
-      "publishedAt": "Wed, 16 Sep 2026 06:00:12 GMT"
     }
   ],
   "sports": [
+    {
+      "league": "Süper Lig",
+      "home": "Kasımpaşa",
+      "away": "Konyaspor",
+      "status": "upcoming",
+      "date": "2026-09-18"
+    },
+    {
+      "league": "Premier League",
+      "home": "Brentford",
+      "away": "Chelsea",
+      "status": "upcoming",
+      "date": "2026-09-18"
+    },
+    {
+      "league": "La Liga",
+      "home": "Espanyol",
+      "away": "Elche",
+      "status": "upcoming",
+      "date": "2026-09-18"
+    },
+    {
+      "league": "Bundesliga",
+      "home": "Bayern Munich",
+      "away": "Union Berlin",
+      "status": "upcoming",
+      "date": "2026-09-18"
+    },
+    {
+      "league": "Serie A",
+      "home": "Monza",
+      "away": "Sassuolo",
+      "status": "upcoming",
+      "date": "2026-09-18"
+    },
     {
       "league": "La Liga",
       "home": "Málaga",
@@ -334,47 +369,22 @@
       "awayScore": 0,
       "status": "FT",
       "date": "2026-09-17"
-    },
-    {
-      "league": "La Liga",
-      "home": "Barcelona",
-      "away": "Racing de Santander",
-      "homeScore": 7,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-16"
-    },
-    {
-      "league": "La Liga",
-      "home": "Atlético Madrid",
-      "away": "Osasuna",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-16"
-    },
-    {
-      "league": "La Liga",
-      "home": "Levante",
-      "away": "Athletic Bilbao",
-      "status": "upcoming",
-      "date": "2026-09-16"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
       "tempC": 18,
-      "description": "partly cloudy",
-      "high": 23,
-      "low": 17
+      "description": "mainly clear",
+      "high": 24,
+      "low": 18
     },
     {
       "place": "London",
-      "tempC": 15,
+      "tempC": 14,
       "description": "clear sky",
       "high": 20,
-      "low": 13
+      "low": 12
     }
   ],
   "facts": [
