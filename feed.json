@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T20:00:13.714Z",
+  "updated": "2026-09-19T22:38:41.857Z",
   "news": [
     {
       "title": "Borsa soruşturmasında şirket yöneticisi beş kişi daha gözaltına alındı",
@@ -11,7 +11,7 @@
     },
     {
       "title": "Yeni Parti'nin yol haritası: Kurultay, örgütlenme, seçim hazırlığı ve 'yedek parti' hesabı",
-      "summary": "Özgür Özel'in genel başkanlığında 91 milletvekilinin kurduğu YENİ Parti, kuruluşunun ilk 2,5 ayını geride bırakırken önümüzdeki aylarda örgütlenme ve kurultay çalışmalarına ağırlık verecek.",
+      "summary": "Özgür Özel'in genel başkanlığında 91 milletvekilinin kurduğu Yeni Parti, kuruluşunun ilk 2,5 ayını geride bırakırken önümüzdeki aylarda örgütlenme ve kurultay çalışmalarına ağırlık verecek.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c9770ey850m2o?at_medium=RSS&at_campaign=rss",
@@ -50,11 +50,18 @@
       "publishedAt": "Sat, 19 Sep 2026 08:07:20 GMT"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan yarın ABD'ye gidecek",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Eylül 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-20T01:30:00+03:00"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan bugün ABD'ye gidecek",
       "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu genel görüşmelerine katılmak üzere 20-23 Eylül tarihlerinde ABD'yi ziyaret edecek.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-19T22:41:46+03:00"
+      "publishedAt": "2026-09-20T00:55:51+03:00"
     },
     {
       "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
@@ -65,10 +72,10 @@
     },
     {
       "title": "Büyükçekmece'de toprak kayması. Göçük altında kalan 2 işçiden biri kurtarıldı",
-      "summary": "Büyükçekmece'de inşaat alanında meydana gelen toprak kaymasında göçük altında kalan 2 işçiden biri yaralı olarak kurtarıldı, diğer işçiyi kurtarma çalışmaları sürüyor.",
+      "summary": "Büyükçekmece'de inşaat alanında meydana gelen toprak kaymasında göçük altında kalan 2 işçiden biri yaralı olarak kurtarıldı. Diğer işçiyi kurtarma çalışmaları sürerken, 3 kişi gözaltına alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-19T22:26:10+03:00"
+      "publishedAt": "2026-09-20T00:12:16+03:00"
     },
     {
       "title": "İstanbul’da masaj salonlarına fuhuş operasyonu: 31 şüpheli yakalandı",
@@ -82,62 +89,55 @@
       "summary": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan'da Husilerle yaşanan çatışmalarda Mekke İttifakı olarak askeri ihtiyaçlara yanıt verilebileceğini söyledi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-19T22:22:55+03:00"
-    },
-    {
-      "title": "Numan Kurtulmuş: Terör Türkiye'nin gündeminden kalkacak",
-      "summary": "TBMM Başkanı Numan Kurtulmuş, Terörsüz Türkiye sürecini ilişkin yaptığı konuşmada, \"Türkiye'de artık bundan sonra terör kelimesi gündeme gelmeyecek.\" dedi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-19T18:05:40+03:00"
-    },
-    {
-      "title": "Rize'de içme suyu uyarısı",
-      "summary": "Rize İl Sağlık Müdürlüğü, kentte etkili olan şiddetli yağışların ardından vatandaşları içme suyu konusunda uyardı. Kaynağı ve menşei belli olmayan suların tüketilmemesi, zorunlu durumlarda ise kaynatılarak kullanılması istendi",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/rize-de-yogun-yagis-sonrasi-kaynagi-belirsiz-sulara-dikkat-cagrisi-yapildi-3913693",
-      "publishedAt": "Sat, 19 Sep 2026 19:54:05 GMT"
-    },
-    {
-      "title": "\"Kaybedince yüzleşmek gerekir\"",
-      "summary": "Galatasaray'ın Uruguaylı orta sahası Lucas Torreira, Süper Lig'in 5. haftasında 4-0 mağlup oldukları Trabzonspor mücadelesinin ardından özeleştiri yaptı. Kaybedince hatalarla yüzleşmek gerektiğini belirten Torreira, \"Dört senedir şampiyonuz",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/spor/lucas-torreira-kaybedince-yuzlesmek-gerekir-3913692",
-      "publishedAt": "Sat, 19 Sep 2026 19:48:39 GMT"
-    },
-    {
-      "title": "Oğullarının 1'inci yaşını kutladılar",
-      "summary": "Tolga Sarıtaş ve Zeynep Mayruk'un oğulları Ali, 1'inci yaşına bastı. Ünlü çift, oğullarının doğum gününü renkli bir organizasyonla kutladı",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/foto/tolga-saritas-ve-zeynep-mayruk-un-oglu-ali-1-yasinda-3913688",
-      "publishedAt": "Sat, 19 Sep 2026 19:47:57 GMT"
+      "publishedAt": "2026-09-20T00:54:52+03:00"
     },
     {
       "title": "Büyükçekmece'de toprak kayması",
-      "summary": "İstanbul Büyükçekmece’de bir konut inşaatında meydana gelen toprak kaymasında göçük altında kalan 2 işçiden 1'ikurtarıldı. Olay yerine sevk edilen itfaiye ekipleri arama kurtarma çalışmalarına başladı",
+      "summary": "İstanbul Büyükçekmece’de bir konut inşaatında meydana gelen toprak kaymasında göçük altında kalan 2 işçiden 1'ikurtarıldı. Olay yerine sevk edilen itfaiye ekipleri arama kurtarma çalışmalarına başladı. İstanbul Valiliği, Büyükçekmece'de inş",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/gundem/son-dakika-buyukcekmece-de-toprak-kaymasi-3913668",
-      "publishedAt": "Sat, 19 Sep 2026 19:45:24 GMT"
+      "publishedAt": "Sat, 19 Sep 2026 22:13:04 GMT"
     },
     {
-      "title": "Trabzonspor'da Salah resitali!",
-      "summary": "Trabzonspor'un yıldızı Muhammed Salah, Galatasaray maçında 3 gol attı ve 1 asist yaptı. Salah, 2000/01'den bu yana Trabzonspor formasıyla çıktığı ilk üç iç saha maçında da gol atan ilk yabancı oyuncu oldu.",
+      "title": "Cumhurbaşkanlığı'na Cevdet Yılmaz vekalet edecek",
+      "summary": "Cumhurbaşkanlığı Recep Tayyip Erdoğan'ın Amerika Birleşik Devletleri ziyareti nedeniyle Cumhurbaşkanlığı'na, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın vekalet etmesine dair tezkere Resmi Gazete'de yayımlandı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/foto/trabzonspor-da-salah-resitali-hat-trick-yapti-galatasaray-i-yikti-3913686",
-      "publishedAt": "Sat, 19 Sep 2026 19:44:13 GMT"
+      "link": "https://www.haberturk.com/gundem/cumhurbaskanligi-na-cevdet-yilmaz-vekalet-edecek-3913710",
+      "publishedAt": "Sat, 19 Sep 2026 21:56:28 GMT"
     },
     {
-      "title": "\"Hakem beni isteyerek attı!\"",
-      "summary": "Galatasaray Teknik Direktörü Okan Buruk'un, Trabzonspor maçında gördüğü kırmızı kartın ardından sarf ettiği sözler ortaya çıktı. Buruk maçın hakemi Batuhan Kolak için \"Asla hakaret etmedim, kötü söz söylemedim. Beni isteyerek attı.\" ifadele",
+      "title": "\"Hedefimiz Başakşehir'i yeniden yarışa sokmak\"",
+      "summary": "Başakşehir Teknik Direktörü Nuri Şahin, geçtiğimiz hafta alınan 5-0’lık mağlubiyetin ardından reaksiyon göstermeleri gereken bir maça çıktıklarını ve bunu gerçekleştirdikleri için mutlu olduğunu belirterek, \"Hepimizin ana hedefi Başakşehir’",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/okan-buruk-asla-hakaret-etmedim-hakem-beni-isteyerek-atti-3913691",
-      "publishedAt": "Sat, 19 Sep 2026 19:42:40 GMT"
+      "link": "https://www.haberturk.com/spor/nuri-sahin-hepimizin-ana-hedefi-basaksehir-i-yeniden-o-yarisa-sokmak-3913709",
+      "publishedAt": "Sat, 19 Sep 2026 21:42:48 GMT"
+    },
+    {
+      "title": "\"Hak ettiğimiz bir mağlubiyet aldık\"",
+      "summary": "Gençlerbirliği Teknik Direktörü Metin Diyadin, 4-0 yenildikleri Başakşehir maçının ardından oyun anlamında etkili olamadıkları bir karşılaşmayı geride bıraktıklarını belirterek, \"Hak ettiğimiz bir mağlubiyet aldık\" dedi.",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/spor/metin-diyadin-hak-ettigimiz-bir-maglubiyet-aldik-3913708",
+      "publishedAt": "Sat, 19 Sep 2026 21:32:12 GMT"
+    },
+    {
+      "title": "Ekmek fırınında yangın!",
+      "summary": "İzmir’in Ödemiş ilçesinde bir ekmek fırınında, baca temizliği sırasında yangın çıktı. İtfaiye ekiplerinin sündürdüğü alevler, iş yerinde hasara neden oldu.",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/gundem/izmirde-ekmek-firininda-yangin-3913707",
+      "publishedAt": "Sat, 19 Sep 2026 21:15:51 GMT"
+    },
+    {
+      "title": "Akaryakıt fiyatları 20 Eylül 2026",
+      "summary": "Araç sahipleri güncel akaryakıt fiyatlarını araştırıyor. Enerji piyasalarındaki gelişmeler, Türkiye’de akaryakıt fiyatlarının seyrini belirlemeye devam ediyor. Brent petrolün 100 dolar bandındaki hareketi sonrası araç sahipleri benzin ve mo",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/bilgi/foto/motorin-100-liranin-altina-geriledi-akaryakit-fiyatlari-19-eylul-2026-ankara-izmir-istanbul-lpg-benzin-motorin-ne-kadar-oldu-indirim-var-mi-3913527",
+      "publishedAt": "Sat, 19 Sep 2026 21:14:55 GMT"
     },
     {
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
@@ -148,12 +148,12 @@
       "publishedAt": "Sat, 19 Sep 2026 11:36:55 GMT"
     },
     {
-      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-      "summary": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 19:09:49 GMT"
+      "publishedAt": "Sat, 19 Sep 2026 20:16:07 GMT"
     },
     {
       "title": "Journalists denied White House access after Trump banned some media outlets",
@@ -172,6 +172,14 @@
       "publishedAt": "Sat, 19 Sep 2026 14:05:01 GMT"
     },
     {
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 21:01:56 GMT"
+    },
+    {
       "title": "Google's Gemini AI hacked three companies in security test",
       "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
       "source": "BBC World",
@@ -180,60 +188,52 @@
       "publishedAt": "Sat, 19 Sep 2026 13:39:32 GMT"
     },
     {
-      "title": "Trump signs sweeping Russia sanctions bill",
-      "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 18 Sep 2026 22:05:47 GMT"
-    },
-    {
-      "title": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-      "summary": "Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, tells Al Jazeera Tehran awaiting Trump response.",
+      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+      "summary": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 18:32:30 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
+      "publishedAt": "Sat, 19 Sep 2026 22:03:05 +0000"
     },
     {
-      "title": "Israel targets paramedics in southern Lebanon",
-      "summary": "Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.",
+      "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
+      "summary": "Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 18:06:52 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+      "publishedAt": "Sat, 19 Sep 2026 20:47:20 +0000"
     },
     {
-      "title": "Cuba works to restore power after another major nationwide blackout",
-      "summary": "The outage marks at least the sixth one this year after a United States-imposed energy blockade went into effect.",
+      "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
+      "summary": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 17:59:57 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
+      "publishedAt": "Sat, 19 Sep 2026 20:40:09 +0000"
     },
     {
-      "title": "Dutch riot police break up violent far-right protest in The Hague",
-      "summary": "Justice minister condemns 'Hitler salutes, antisemitic slogans, violence' at the anti-immigration rally.",
+      "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
+      "summary": "Gaza's IT industry has been devastated from three-years of bombing and destruction.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/19/dutch-riot-police-break-up-violent-far-right-protest-in-the-hague?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 17:55:45 +0000"
+      "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
+      "publishedAt": "Sat, 19 Sep 2026 20:30:01 +0000"
     },
     {
-      "title": "A ‘ban on the free press’: White House bars journalists from three outlets",
-      "summary": "Reporters from CNN, MS NOW, and Politico were denied access to White House on Saturday.",
+      "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
+      "summary": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/19/a-ban-on-the-free-press-white-house-bars-journalists-from-three-outlets?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 17:48:18 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
+      "publishedAt": "Sat, 19 Sep 2026 20:13:56 +0000"
     },
     {
-      "title": "Ed Sheeran concert set to go ahead after outcry over Gaza",
-      "summary": "Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine.",
+      "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
+      "summary": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 17:14:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
+      "publishedAt": "Sat, 19 Sep 2026 20:03:23 +0000"
     },
     {
       "title": "The new lines of southern Lebanon",
@@ -385,7 +385,7 @@
       "home": "Sevilla",
       "away": "Barcelona",
       "homeScore": 1,
-      "awayScore": 1,
+      "awayScore": 3,
       "status": "FT",
       "date": "2026-09-19"
     },
@@ -429,14 +429,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 20,
-      "description": "clear sky",
-      "high": 26,
+      "tempC": 19,
+      "description": "mainly clear",
+      "high": 25,
       "low": 17
     },
     {
       "place": "London",
-      "tempC": 20,
+      "tempC": 19,
       "description": "overcast",
       "high": 22,
       "low": 17
