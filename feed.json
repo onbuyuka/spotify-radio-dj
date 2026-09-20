@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T22:38:41.857Z",
+  "updated": "2026-09-20T03:15:54.957Z",
   "news": [
     {
       "title": "Borsa soruşturmasında şirket yöneticisi beş kişi daha gözaltına alındı",
@@ -50,11 +50,18 @@
       "publishedAt": "Sat, 19 Sep 2026 08:07:20 GMT"
     },
     {
+      "title": "Otobüs yoldan çıktı. 18 yaralı",
+      "summary": "Şehirlerarası yolcu otobüsü Manisa Kırkağaç'ta yoldan çıkarak kaza yaptı. 18 yaralıdan şoför ve muavinin durumu ağır.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-20T05:23:15+03:00"
+    },
+    {
       "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 20 Eylül 2026",
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 20 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-20T01:30:00+03:00"
+      "publishedAt": "2026-09-20T06:00:00+03:00"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan bugün ABD'ye gidecek",
@@ -71,11 +78,11 @@
       "publishedAt": "2026-09-19T22:40:29+03:00"
     },
     {
-      "title": "Büyükçekmece'de toprak kayması. Göçük altında kalan 2 işçiden biri kurtarıldı",
-      "summary": "Büyükçekmece'de inşaat alanında meydana gelen toprak kaymasında göçük altında kalan 2 işçiden biri yaralı olarak kurtarıldı. Diğer işçiyi kurtarma çalışmaları sürerken, 3 kişi gözaltına alındı.",
+      "title": "Villa bahçesinde kaçak kazı. Göçük altında kalan 2 işçiden biri hayatını kaybetti",
+      "summary": "Büyükçekmece'de bir villada yapılan izinsiz foseptik kazısında göçük meydana geldi. Toprak altında kalan 2 işçiden biri hayatını kaybetti, 3 kişi gözaltına alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-20T00:12:16+03:00"
+      "publishedAt": "2026-09-20T01:46:46+03:00"
     },
     {
       "title": "İstanbul’da masaj salonlarına fuhuş operasyonu: 31 şüpheli yakalandı",
@@ -85,19 +92,44 @@
       "publishedAt": "2026-09-19T19:22:28+03:00"
     },
     {
-      "title": "Bakan Fidan'dan NTV'ye önemli açıklamalar. \"Arabistan'a saldırıları yakından takip ediyoruz\"",
-      "summary": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan'da Husilerle yaşanan çatışmalarda Mekke İttifakı olarak askeri ihtiyaçlara yanıt verilebileceğini söyledi.",
-      "source": "NTV",
+      "title": "Manisa'da otobüs kazası! Yaralılar var",
+      "summary": "Manisa'nın Kırkağaç ilçesinde, Balıkesir Kırkağaç Karayolu'nda yolcu otobüsü yoldan çıkarak kaza yaptı. Çok sayıda yolcu yaralandı Olay yerine sağlık ekipleri sevk edildi",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-20T00:54:52+03:00"
+      "link": "https://www.haberturk.com/gundem/manisa-da-otobus-kazasi-yaralilar-var-3913717",
+      "publishedAt": "Sun, 20 Sep 2026 01:58:35 GMT"
     },
     {
-      "title": "Büyükçekmece'de toprak kayması",
-      "summary": "İstanbul Büyükçekmece’de bir konut inşaatında meydana gelen toprak kaymasında göçük altında kalan 2 işçiden 1'ikurtarıldı. Olay yerine sevk edilen itfaiye ekipleri arama kurtarma çalışmalarına başladı. İstanbul Valiliği, Büyükçekmece'de inş",
+      "title": "Büyükçekmece'de toprak kayması:: Bir işçi hayatını kaybetti, 3 gözaltı",
+      "summary": "İstanbul Valiliği, Büyükçekmece'de inşaat alanında meydana gelen toprak kaymasında 1 işçinin hayatını kaybettiğini, 1 işçinin yaralandığını ve olaya ilişkin 3 şüphelinin gözaltına alındığını bildirdi.",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/gundem/son-dakika-buyukcekmece-de-toprak-kaymasi-3913668",
-      "publishedAt": "Sat, 19 Sep 2026 22:13:04 GMT"
+      "publishedAt": "Sun, 20 Sep 2026 01:02:07 GMT"
+    },
+    {
+      "title": "Ankara’da suç örgütlerine operasyon: 5 tutuklama",
+      "summary": "Ankara İl Emniyet Müdürlüğü, yeni nesil suç örgütlerine yönelik operasyon sonucunda 5 kişinin Bolu’da yakalandığını, şüphelilerin tamamının tutuklandığını açıkladı.",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/gundem/ankarada-suc-orgutlerine-operasyon-5-tutuklama-3913716",
+      "publishedAt": "Sun, 20 Sep 2026 00:00:50 GMT"
+    },
+    {
+      "title": "Michelin yıldızlı restoranda karınca skandalı",
+      "summary": "Güney Kore'de Seul'de bulunan 2 Michelin yıldızlı \"Evett\" adlı restoran tam 4 yıl boyunca müşterilerine yüksek oranda ağır metal içeren karıncalı tatlı servis etmiş.",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/htgastro/kesfet/michelin-yildizli-restoranda-karinca-skandali-3913713",
+      "publishedAt": "Sat, 19 Sep 2026 23:00:36 GMT"
+    },
+    {
+      "title": "Husumetlilerine ateş açtı, başkasını yaraladı",
+      "summary": "Manisa'nın Yunusemre ilçesindeki bir çay bahçesinde oturan husumetlilerine tabancayla ateş açan Y.C.'nin (18), başka masada oturan ve olayla ilgisi olmayan S.K.’yi yaraladı. Olayın ardından kaçan Y.C.'nin yakalanması için çalışma başlatıldı",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/gundem/manisa-da-husumetlilerine-ates-acti-baskasini-yaraladi-3913715",
+      "publishedAt": "Sat, 19 Sep 2026 22:54:14 GMT"
     },
     {
       "title": "Cumhurbaşkanlığı'na Cevdet Yılmaz vekalet edecek",
@@ -108,44 +140,12 @@
       "publishedAt": "Sat, 19 Sep 2026 21:56:28 GMT"
     },
     {
-      "title": "\"Hedefimiz Başakşehir'i yeniden yarışa sokmak\"",
-      "summary": "Başakşehir Teknik Direktörü Nuri Şahin, geçtiğimiz hafta alınan 5-0’lık mağlubiyetin ardından reaksiyon göstermeleri gereken bir maça çıktıklarını ve bunu gerçekleştirdikleri için mutlu olduğunu belirterek, \"Hepimizin ana hedefi Başakşehir’",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/spor/nuri-sahin-hepimizin-ana-hedefi-basaksehir-i-yeniden-o-yarisa-sokmak-3913709",
-      "publishedAt": "Sat, 19 Sep 2026 21:42:48 GMT"
-    },
-    {
-      "title": "\"Hak ettiğimiz bir mağlubiyet aldık\"",
-      "summary": "Gençlerbirliği Teknik Direktörü Metin Diyadin, 4-0 yenildikleri Başakşehir maçının ardından oyun anlamında etkili olamadıkları bir karşılaşmayı geride bıraktıklarını belirterek, \"Hak ettiğimiz bir mağlubiyet aldık\" dedi.",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/spor/metin-diyadin-hak-ettigimiz-bir-maglubiyet-aldik-3913708",
-      "publishedAt": "Sat, 19 Sep 2026 21:32:12 GMT"
-    },
-    {
-      "title": "Ekmek fırınında yangın!",
-      "summary": "İzmir’in Ödemiş ilçesinde bir ekmek fırınında, baca temizliği sırasında yangın çıktı. İtfaiye ekiplerinin sündürdüğü alevler, iş yerinde hasara neden oldu.",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/izmirde-ekmek-firininda-yangin-3913707",
-      "publishedAt": "Sat, 19 Sep 2026 21:15:51 GMT"
-    },
-    {
-      "title": "Akaryakıt fiyatları 20 Eylül 2026",
-      "summary": "Araç sahipleri güncel akaryakıt fiyatlarını araştırıyor. Enerji piyasalarındaki gelişmeler, Türkiye’de akaryakıt fiyatlarının seyrini belirlemeye devam ediyor. Brent petrolün 100 dolar bandındaki hareketi sonrası araç sahipleri benzin ve mo",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/motorin-100-liranin-altina-geriledi-akaryakit-fiyatlari-19-eylul-2026-ankara-izmir-istanbul-lpg-benzin-motorin-ne-kadar-oldu-indirim-var-mi-3913527",
-      "publishedAt": "Sat, 19 Sep 2026 21:14:55 GMT"
-    },
-    {
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+      "summary": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 11:36:55 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 20 Sep 2026 01:38:30 GMT"
     },
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -153,7 +153,23 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 20:16:07 GMT"
+      "publishedAt": "Sat, 19 Sep 2026 23:49:26 GMT"
+    },
+    {
+      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 23:00:27 GMT"
+    },
+    {
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 23:01:38 GMT"
     },
     {
       "title": "Journalists denied White House access after Trump banned some media outlets",
@@ -164,76 +180,60 @@
       "publishedAt": "Sat, 19 Sep 2026 19:13:49 GMT"
     },
     {
-      "title": "Converse pulls 'deeply upsetting' advert after backlash",
-      "summary": "Social media users say an image from the brand's Instagram account resembled a KKK hood and hanging.",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 14:05:01 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 19 Sep 2026 23:18:18 GMT"
     },
     {
-      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
-      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 21:01:56 GMT"
-    },
-    {
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 19 Sep 2026 13:39:32 GMT"
-    },
-    {
-      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
-      "summary": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.",
+      "title": "Australia seeks big tech support for internet safety, AI regulation",
+      "summary": "PM Anthony Albanese asks Apple CEO Tim Cook to back Canberra's online safety laws to 'keep Australians safe'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 22:03:05 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/20/australia-seeks-big-tech-support-for-internet-safety-ai-regulation?traffic_source=rss",
+      "publishedAt": "Sun, 20 Sep 2026 02:39:32 +0000"
     },
     {
-      "title": "Fulham vs Manchester United: Premier League – prediction, teams, lineups",
-      "summary": "Man United have won only one league game this season, putting Michael Carrick under pressure ahead of Fulham trip.",
+      "title": "How much of a challenge are recurrent bombings for Pakistan?",
+      "summary": "Dozens were killed and injured in an attack by an armed group in a northwestern city.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/9/19/fulham-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 20:47:20 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-much-of-a-challenge-recurrent-bombings-to-pakistan?traffic_source=rss",
+      "publishedAt": "Sun, 20 Sep 2026 02:38:24 +0000"
     },
     {
-      "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-      "summary": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
+      "title": "DR Congo begins Ebola vaccination trials for frontline health workers",
+      "summary": "DR Congo is rolling out vaccine trials for health workers at the centre of the country’s Ebola crisis.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 20:40:09 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/dr-congo-begins-ebola-vaccination-trials-for-frontline-health-workers?traffic_source=rss",
+      "publishedAt": "Sun, 20 Sep 2026 01:51:47 +0000"
     },
     {
-      "title": "Lacking equipment, but not ambition: Gaza students try to keep up with tech",
-      "summary": "Gaza's IT industry has been devastated from three-years of bombing and destruction.",
+      "title": "Michelle Bachelet exits UN chief race after low poll support",
+      "summary": "Former Chilean President Michelle Bachelet ends her bid to be the first woman to lead the United Nations.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/9/19/lacking-equipment-but-not-ambition-gaza-students-try-to-keep-up-with-tech?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 20:30:01 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/20/michelle-bachelet-exits-un-chief-race-after-low-poll-support?traffic_source=rss",
+      "publishedAt": "Sun, 20 Sep 2026 01:36:43 +0000"
     },
     {
-      "title": "Hegseth kicks off ‘Send Me Tour’ amid Iran war backlash",
-      "summary": "US Secretary of Defence Pete Hegseth has kicked off his ‘Send Me Tour’ in Texas amid Iran war backlash.",
+      "title": "DR Congo rolls out Ebola vaccine for health workers as death toll rises",
+      "summary": "50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/hegseth-kicks-off-send-me-tour-amid-iran-war-backlash?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 20:13:56 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/20/dr-congo-rolls-out-ebola-vaccine-for-health-workers-as-death-toll-rises?traffic_source=rss",
+      "publishedAt": "Sun, 20 Sep 2026 00:36:05 +0000"
     },
     {
-      "title": "Denmark says ‘binding’ US deal on Greenland won’t compromise sovereignty",
-      "summary": "Trump has wanted a foothold in Greenland for some time, as a strategic battle unfolds for supremacy in warming Arctic.",
+      "title": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+      "summary": "Iran security chief says Tehran's demands include an end to war on all fronts and the lifting of US's naval blockade.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/19/denmark-says-binding-us-deal-on-greenland-wont-compromise-sovereignty?traffic_source=rss",
-      "publishedAt": "Sat, 19 Sep 2026 20:03:23 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/20/iran-war-live-tehran-calls-for-end-to-war-lifting-of-us-naval-blockade?traffic_source=rss",
+      "publishedAt": "Sun, 20 Sep 2026 00:00:00 +0000"
     },
     {
       "title": "The new lines of southern Lebanon",
@@ -319,127 +319,103 @@
   "sports": [
     {
       "league": "Süper Lig",
-      "home": "İstanbul Başakşehir",
-      "away": "Gençlerbirliği",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Fenerbahçe",
+      "away": "Eyüpspor",
+      "status": "upcoming",
+      "date": "2026-09-20"
     },
     {
       "league": "Süper Lig",
-      "home": "Trabzonspor",
-      "away": "Galatasaray",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Göztepe",
+      "away": "Rizespor",
+      "status": "upcoming",
+      "date": "2026-09-20"
     },
     {
       "league": "Süper Lig",
-      "home": "Çorum",
-      "away": "Alanyaspor",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Erzurumspor",
+      "away": "Samsunspor",
+      "status": "upcoming",
+      "date": "2026-09-20"
     },
     {
       "league": "Premier League",
-      "home": "Newcastle United",
-      "away": "Hull City",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Bournemouth",
+      "away": "Liverpool",
+      "status": "upcoming",
+      "date": "2026-09-20"
     },
     {
       "league": "Premier League",
-      "home": "Everton",
-      "away": "Ipswich Town",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Fulham",
+      "away": "Manchester United",
+      "status": "upcoming",
+      "date": "2026-09-20"
     },
     {
       "league": "Premier League",
-      "home": "Tottenham Hotspur",
-      "away": "Aston Villa",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Manchester City",
+      "away": "Sunderland",
+      "status": "upcoming",
+      "date": "2026-09-20"
     },
     {
       "league": "La Liga",
-      "home": "Athletic Bilbao",
-      "away": "Deportivo Alavés",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Atlético Madrid",
+      "away": "Real Madrid",
+      "status": "upcoming",
+      "date": "2026-09-20"
     },
     {
       "league": "La Liga",
-      "home": "Sevilla",
-      "away": "Barcelona",
-      "homeScore": 1,
-      "awayScore": 3,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Valencia",
+      "away": "Real Sociedad",
+      "status": "upcoming",
+      "date": "2026-09-20"
     },
     {
       "league": "La Liga",
-      "home": "Celta Vigo",
-      "away": "Racing de Santander",
-      "homeScore": 5,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Villarreal",
+      "away": "Levante",
+      "status": "upcoming",
+      "date": "2026-09-20"
     },
     {
       "league": "Bundesliga",
-      "home": "Werder Bremen",
-      "away": "Augsburg",
-      "homeScore": 3,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Bayer Leverkusen",
+      "away": "RB Leipzig",
+      "status": "upcoming",
+      "date": "2026-09-20"
     },
     {
       "league": "Bundesliga",
-      "home": "Borussia Mönchengladbach",
-      "away": "Mainz",
-      "homeScore": 3,
-      "awayScore": 4,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Schalke 04",
+      "away": "Elversberg",
+      "status": "upcoming",
+      "date": "2026-09-20"
     },
     {
       "league": "Bundesliga",
-      "home": "Eintracht Frankfurt",
-      "away": "Freiburg",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-19"
+      "home": "Paderborn",
+      "away": "Hoffenheim",
+      "status": "upcoming",
+      "date": "2026-09-20"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 19,
-      "description": "mainly clear",
+      "tempC": 18,
+      "description": "partly cloudy",
       "high": 25,
-      "low": 17
+      "low": 18
     },
     {
       "place": "London",
-      "tempC": 19,
+      "tempC": 18,
       "description": "overcast",
-      "high": 22,
-      "low": 17
+      "high": 20,
+      "low": 16
     }
   ],
   "facts": [
