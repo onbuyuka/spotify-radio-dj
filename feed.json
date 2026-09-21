@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-21T11:55:40.039Z",
+  "updated": "2026-09-21T17:51:14.194Z",
   "news": [
+    {
+      "title": "Merz'in siyasi krizi, istikrar konusunda takıntılı Almanya için risk oluşturuyor",
+      "summary": "BBC Avrupa Editörü Katya Adler'in analizine göre, Almanya'daki siyasi değişimler Avrupa'da ve ötesinde yakından izleniyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cj20723yqvq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 17:26:58 GMT"
+    },
+    {
+      "title": "Irak'ta peşmerge güçleri birleşti, 'Barzani Bağdat'tan silah ve bütçe istedi'",
+      "summary": "Irak Kürdistan Bölgesel Yönetimi'ndeki (IKBY) Peşmerge güçleri birleşti. IKBY Başkanı Neçirvan Barzani, peşmergenin \"Irak'ın savunma sisteminin bir parçası\" olduğunu belirterek, Bağdat'a bütçe ve silah desteği çağrısı yaptı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cm62460ze84eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 13:24:45 GMT"
+    },
+    {
+      "title": "Dünyanın dört bir yanında kültürel hazineler yok edilirken neden kimse cezalandırılmıyor?",
+      "summary": "Dünya genelinde çatışmalar alevleniyor ve kültürel anıtlar yok ediliyor. Ancak şimdiye kadar bir kişi dışında, hiç kimse bu suçlardan herhangi bir ceza almadı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cmg49pegzdgro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 12:28:51 GMT"
+    },
     {
       "title": "Rusya'daki seçimlerde sürpriz yok ama Kremlin'in sonuçları nasıl değerlendireceği önemli",
       "summary": "Vladimir Putin'in Rusya'daki parlamento seçimlerinin sonuçlarına dayanarak Rusların büyük çoğunluğunun Ukrayna'daki \"özel askeri operasyonu\" desteklediğini iddia etmesi muhtemel. BBC Rusya editörü Steve Rosenberg'in haberi.",
@@ -10,20 +34,12 @@
       "publishedAt": "Mon, 21 Sep 2026 09:00:27 GMT"
     },
     {
-      "title": "SPK fonların tasfiye sürecini altı aya uzattı",
-      "summary": "Sermaye Piyasası Kurulu (SPK) tasfiyesine karar verilen 131 yatırım fonunun tasfiye sürecini üç aydan altı aya çıkardı.",
+      "title": "CNN ve Politico, Trump'ın Beyaz Saray yasağına karşı dava açacak",
+      "summary": "CNN, Politico ve MS NOW, Beyaz Saray’a girişlerinin yasaklanmasının ardından Trump yönetimine dava açacaklarını açıkladı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cq36l32j8w1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 11:23:29 GMT"
-    },
-    {
-      "title": "Para transferleri ve gözaltılar: Fon soruşturmasında son gelişmeler neler?",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı, Katılımevim Tasarruf Finansman AŞ paylarında \"piyasa dolandırıcılığı\" yapıldığı iddiasıyla yürütülen soruşturmada 21 Eylül'de 15 kişinin gözaltına alındığını, firari 10 şüphelinin arandığını açıkladı",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cqkg08p7v814o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 11:21:31 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c9zrzekx55p5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 12:09:34 GMT"
     },
     {
       "title": "Berlin'de seçimleri kazanan Sol Parti'nin başbakan adayı Elif Eralp kimdir?",
@@ -34,118 +50,134 @@
       "publishedAt": "Mon, 21 Sep 2026 09:51:31 GMT"
     },
     {
-      "title": "Cindy Crawford'ın oğlu Presley Gerber 27 yaşında hayatını kaybetti",
-      "summary": "Modellik yapan Gerber, 20 Eylül Pazar günü bir rehabilitasyon merkezinde hayatını kaybetti. Ölüm nedeni açıklanmadı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm5ye7l3685do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 06:58:54 GMT"
-    },
-    {
-      "title": "Almanya Başbakanı Merz, eyalet seçimlerindeki 'felakete' rağmen görevde kalacağı mesajı verdi",
-      "summary": "Sandık çıkış anketleri, Merz'in merkez sağ CDU partisinin Berlin ve Mecklenburg-Vorpommern eyaletlerinde ağır kayıplar yaşadığını gösteriyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cjly4p21g5e1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 17:23:15 GMT"
-    },
-    {
-      "title": "Balıkesir'de orman yangını. Ekipler müdahale ediyor",
-      "summary": "Balıkesir'in Karesi ilçesinde orman yangını çıktı. Yangına havadan ve karadan müdahale ediliyor.",
+      "title": "Dorukhan Büyükışık’ın ölümünde ek iddianame. \"Darp sonucu öldürülmüş olabilir\"",
+      "summary": "Dorukhan Büyükışık'ın ölümüne ilişkin soruşturmada ek iddianame hazırlandı. Büyükışık'ın demir çubuk ile vurularak darp edilmek suretiyle öldürülmüş olabileceği kanaatine varıldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-21T14:42:16+03:00"
+      "publishedAt": "2026-09-21T20:43:01+03:00"
     },
     {
-      "title": "Arsa tartışmasında baba ve oğlunu öldüren şüpheli, 38 gün sonra ormanda silahla yakalandı",
-      "summary": "Bolu’nun Mengen ilçesinde iki akrabasını öldürdüğü iddiasıyla aranan şüpheli, 38 gün sonra saklandığı ormanlık alanda jandarma ekiplerince silahıyla yakalandı.",
+      "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 21 Eylül 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
+      "summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebili",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-21T14:05:50+03:00"
+      "publishedAt": "2026-09-21T20:28:12+03:00"
     },
     {
-      "title": "Pastırma yazı tarihi 2026: Pastırma sıcakları ne zaman başlıyor, kaç gün sürecek?",
-      "summary": "Sonbahar mevsiminin hissedilmeye başlaması ve hava sıcaklıklarının düşüşe geçmesiyle birlikte gözler pastırma sıcaklarının başlayacağı tarihe çevrildi. Kış soğukları bastırmadan hemen önce yaşanan güneşli ve ılık havalar, halk arasında past",
+      "title": "Bakan Fidan'dan ABD'ye çağrı. ''İşbirliğini sınırlayan kısıtlamaları kaldırmalıyız''",
+      "summary": "Dışişleri Bakanı Hakan Fidan, ABD'ye Türkiye ile savunma işbirliğini sınırlayan kısıtlamalar ve ilave tarifelerin kaldırılması çağrısı yaptı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-21T13:21:47+03:00"
+      "publishedAt": "2026-09-21T20:26:40+03:00"
     },
     {
-      "title": "Veliler öğretmen görüşmeleri için MEBİM’den telefonla randevu alabilecek",
-      "summary": "Okul Randevu Sistemi’ne MEBİM de eklendi. Veliler, 444 0 632 numaralı hattan günün her saatinde randevu oluşturabilecek veya mevcut randevularını iptal edebilecek.",
+      "title": "Tahliye edilen eski DHMİ Daire Başkanı Mehmet Cemil Acar gözaltına alındı",
+      "summary": "Eski DHMİ yöneticisi Mehmet Cemil Acar, bugün hakkında verilen tahliye kararının ardından bu kez ''suçtan kaynaklanan malvarlığı değerlerini aklama'' soruşturması kapsamında yeniden gözaltına alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-21T12:54:46+03:00"
+      "publishedAt": "2026-09-21T18:56:36+03:00"
     },
     {
-      "title": "Milli Savunma Bakanlığı duyurdu, Türk savaş uçakları Akdeniz semalarında",
-      "summary": "MSB, çeşitli üslerden havalanan savaş uçaklarının Kıbrıs’ın güneyinde uçuş yaptığını duyurdu. Faaliyete havadan ihbar ve erken uyarı uçakları da katıldı.",
+      "title": "Okul güvenliği protokolü imzalandı. Bakan Tekin: Tüm çalışmalarımızı güvenli okul iklimi için yaptık",
+      "summary": "Milli Eğitim Bakanı Yusuf Tekin ve İçişleri Bakanı Mustafa Çiftçi, okul güvenliği protokolü imza töreninde alınacak önlemleri sıraladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-21T12:11:06+03:00"
+      "publishedAt": "2026-09-21T19:43:33+03:00"
     },
     {
-      "title": "Diyarbakır’da 5 ton esrar üretilebilecek kenevir ve skunk imha edildi",
-      "summary": "Lice ve Kulp’ta 570 personelin katıldığı operasyonda 99 yasa dışı ekim alanı belirlendi. Toplam 217 bin 608 kök kenevir ve skunk imha edildi, 15 kilo esrar ele geçirildi.",
+      "title": "Fon soruşturmasını başlatan yazı ortaya çıktı",
+      "summary": "Son günlerde peş peşe alınan adli tedbirlerle gündeme gelen fon soruşturmasının perde arkası ortaya çıktı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-21T11:33:25+03:00"
+      "publishedAt": "2026-09-21T18:15:34+03:00"
     },
     {
-      "title": "Türkiye’de doğan tek Sibirya kaplanı",
-      "summary": "Türkiye’de doğan tek Sibirya (Amur) kaplanı olan ‘Virginia’, Bursa Büyükşehir Belediyesi Hayvanat Bahçesi’nde kısa sürede ziyaretçilerin ilgi odağı oldu. Virginia için doğumunun 100'üncü günü özel pastayla kutlandı",
+      "title": "Filo Jet faciasında yeni gelişme",
+      "summary": "KKTC açıklarında 30 Ağustos’ta meydana gelen Filo Jet faciasında 19 Eylül’de ulaşılan naaşın Mehmet Bayhan’a ait olduğu kesinleşti",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/yasam/turkiyede-dogan-tek-sibirya-kaplani-virginianin-100uncu-gunu-kutlandi-3914016",
-      "publishedAt": "Mon, 21 Sep 2026 11:49:54 GMT"
+      "link": "https://www.haberturk.com/gundem/kktc-aciklarinda-bulunan-naasin-mehmet-bayhana-ait-oldugu-belirlendi-3914108",
+      "publishedAt": "Mon, 21 Sep 2026 17:44:12 GMT"
     },
     {
-      "title": "Enver Altaylı’nın ifadesi alınacak",
-      "summary": "Eski MİT görevlisi Kaşif Kozinoğlu’nun 2011’de cezaevinde hayatını kaybetmesine ilişkin yeniden yürütülen soruşturmada, başka bir davadan hükümlü Enver Altaylı’nın henüz ifadesinin alınamadığı öğrenildi. FETÖ kapsamında 23 yıl 4 ay hapis ce",
+      "title": "F.Bahçe, Emma Meesseman'la uzattı!",
+      "summary": "Fenerbahçe Kadın Basketbol Takımı, Emma Meesseman ile 1 yıllık yeni sözleşme imzaladı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-kasif-kozinoglunun-hayatini-kaybetmesine-iliskin-sorusturmada-enver-altaylinin-ifadesi-alinacak-3913953",
-      "publishedAt": "Mon, 21 Sep 2026 11:49:50 GMT"
+      "link": "https://www.haberturk.com/spor/fenerbahce-emma-meesseman-ile-sozlesme-yeniledi-3914107",
+      "publishedAt": "Mon, 21 Sep 2026 17:41:17 GMT"
     },
     {
-      "title": "İstanbul Ticaret Kongresi 23 Eylül’de başlıyor",
-      "summary": "İstanbul Ticaret Kongresi, “Değişen Dünyada İstikrar Paradigması” temasıyla 23-24 Eylül’de düzenlenecek. Kongrede küresel ticaretin değişen dengeleri, jeopolitik riskler, yeşil ve dijital dönüşüm ile ticari diplomasi ele alınacak",
+      "title": "Merz: Bu seçim derin bir dönüm noktası",
+      "summary": "Almanya Başbakanı ve Hristiyan Demokrat Birlik Partisi (CDU) Genel Başkanı Friedrich Merz, partisinin eyalet seçimlerindeki yenilgisini “ağır bir darbe” olarak nitelendirdi. Merz, \"Bu seçim, derin bir dönüm noktasıdır. CDU için Almanya’da y",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/kuresel-ticaretin-yeni-rotasi-istanbulda-ele-alinacak-3914025",
-      "publishedAt": "Mon, 21 Sep 2026 11:49:02 GMT"
+      "link": "https://www.haberturk.com/dunya/merz-bu-secim-derin-bir-donum-noktasi-3914106",
+      "publishedAt": "Mon, 21 Sep 2026 17:37:11 GMT"
     },
     {
-      "title": "9 yaşındaki kız çocuğunu bisiklet öldürdü",
-      "summary": "Adıyaman'da, bisikletiyle 5 metre yükseklikteki istinat duvarından düşen 8 yaşındaki Havva Yıldız, 9 günlük yaşam mücadelesini kaybetti. Konuyla ilgili soruşturma sürüyor",
+      "title": "İşte Süper Lig'de 6. haftanın VAR kayıtları!",
+      "summary": "TFF, Trendyol Süper Lig'in 6. haftasında oynanan mücadelelerde hakemlerin inceleme gittiği pozisyonların VAR kayıtlarını açıkladı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-9-yasindaki-kiz-cocugunu-bisiklet-oldurdu-adiyaman-haberleri-3914024",
-      "publishedAt": "Mon, 21 Sep 2026 11:48:58 GMT"
+      "link": "https://www.haberturk.com/spor/iste-super-lig-de-6-haftanin-var-kayitlari-3914105",
+      "publishedAt": "Mon, 21 Sep 2026 17:34:29 GMT"
     },
     {
-      "title": "Öğretmen-veli görüşmeleri için telefonla randevu",
-      "summary": "Milli Eğitim Bakanlığınca (MEB) hayata geçirilen \"Okul Randevu Sistemi\" ile velilere, MEB İletişim Merkezi (MEBİM) üzerinden 7 gün 24 saat telefonla randevu alabilme imkanı sunuldu",
+      "title": "Birbirlerini sildiler",
+      "summary": "Fenerbahçe'nin milli sporcuları Hande Baladın ile Onuralp Bitim'in ilişkilerini sonlandırdığı iddia edildi. Çiftin sosyal medyada karşılıklı olarak birbirlerini takipten çıkması, ayrılık iddialarını gündeme getirdi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/ogretmen-veli-gorusmeleri-icin-telefonla-randevu-alinabilecek-haberler-3914023",
-      "publishedAt": "Mon, 21 Sep 2026 11:47:26 GMT"
+      "link": "https://www.haberturk.com/magazin/foto/hande-baladin-ile-onuralp-bitim-askinda-ayrilik-iddiasi-3914094",
+      "publishedAt": "Mon, 21 Sep 2026 17:29:05 GMT"
     },
     {
-      "title": "Yapay zeka dünyanın sonunu mu getirecek?",
-      "summary": "Nvidia CEO’su Jensen Huang, yapay zekânın 2030’a kadar dünyanın sonunu getireceği yönündeki senaryoları reddetti. Huang, teknoloji şirketlerinin yapay zekâ çalışmalarını mümkün olduğunca hızlı sürdürmesi gerektiğini belirtirken, güvenli olm",
+      "title": "Fon soruşturmasında 2 gözaltı",
+      "summary": "Adalet Bakanlığı, İstanbul Cumhuriyet Başsavcılığınca yürütülen \"fon soruşturması\" kapsamında Selim Dağbaşı ile Hamza Kablan’ın gözaltına alındığını açıkladı. Dağbaşı’nın tutuklu Muhammed Yarız’ın İsviçre’deki hesabına 14 milyon 500 bin dol",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/nvidia-ceosu-huangdan-2030-yaniti-yapay-zeka-dunyanin-sonunu-getirecek-mi-3913626",
-      "publishedAt": "Mon, 21 Sep 2026 11:45:01 GMT"
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-sorusturmasinda-2-gozalti-3914101",
+      "publishedAt": "Mon, 21 Sep 2026 17:28:36 GMT"
     },
     {
-      "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 08:56:27 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 14:14:16 GMT"
+    },
+    {
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 15:58:53 GMT"
+    },
+    {
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 16:54:56 GMT"
+    },
+    {
+      "title": "First UK charges brought over 1994 Rwanda genocide",
+      "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 17:48:23 GMT"
+    },
+    {
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 14:06:12 GMT"
     },
     {
       "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
@@ -156,84 +188,68 @@
       "publishedAt": "Mon, 21 Sep 2026 00:05:11 GMT"
     },
     {
-      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-      "summary": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 11:42:35 GMT"
-    },
-    {
-      "title": "Seven Ethiopian rebel groups form new alliance",
-      "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 11:46:39 GMT"
-    },
-    {
-      "title": "Three arrested in South Africa over one of nine women's body finds",
-      "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 10:35:01 GMT"
-    },
-    {
-      "title": "Jailed teacher convicted of sexual abuse secretly released early in Indonesia, BBC finds",
-      "summary": "Undercover footage recorded by the BBC reveals he has been released after serving less than half his sentence.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrz0nl4p70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 20 Sep 2026 23:12:31 GMT"
-    },
-    {
-      "title": "NFL’s Azeez Al-Shaair pays tribute to slain Palestinian girl Wafaa Akila",
-      "summary": "Al-Shaair wears eye black with Akila's name despite being fined for displaying messages about Israel's genocide in Gaza.",
+      "title": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
+      "summary": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed settler",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/9/21/nfls-azeez-al-shaair-pays-tribute-to-slain-palestinian-girl-wafaa-akila?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 11:26:41 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
+      "publishedAt": "Mon, 21 Sep 2026 17:19:59 +0000"
     },
     {
-      "title": "Why do Sudan’s humanitarian truces keep failing and who is to blame?",
-      "summary": "Efforts to bring about humanitarian truces in Sudan hit a dead end as warring factions prioritise battlefield victories.",
+      "title": "How is Europe dealing with ‘hybrid war’?",
+      "summary": "European leaders accuse Russia of hybrid warfare.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/21/why-do-sudans-humanitarian-truces-keep-failing-and-who-is-to-blame?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 11:22:40 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/21/how-is-europe-dealing-with-hybrid-war?traffic_source=rss",
+      "publishedAt": "Mon, 21 Sep 2026 17:12:32 +0000"
     },
     {
-      "title": "Why is the US trying ‘regime change’ again?",
-      "summary": "The US invasions after 9/11 were disasters -- but the US is trying again in Iran anyway",
+      "title": "China expels two top ‘disloyal’ military leaders from Communist Party",
+      "summary": "China removes two top generals over corruption, disloyalty as part of an ongoing anti-corruption crackdown.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/project-force-2/2026/9/21/why-is-the-us-trying-regime-change-again?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 11:00:49 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/21/china-expels-two-top-disloyal-military-leaders-from-communist-party?traffic_source=rss",
+      "publishedAt": "Mon, 21 Sep 2026 16:56:30 +0000"
     },
     {
-      "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
-      "summary": "The oil and gas sector shrank 26 percent, new official data shows, pointing to the costs of the US-Israel war on Iran.",
+      "title": "State of world getting worse as UN Security Council paralysed: Guterres",
+      "summary": "The UN chief's mandate ends on December 31 this year, with a successor yet to be named.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 10:38:41 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/21/state-of-world-getting-worse-as-un-security-council-paralysed-guterres?traffic_source=rss",
+      "publishedAt": "Mon, 21 Sep 2026 16:46:36 +0000"
     },
     {
-      "title": "Mystery object spotted hovering over Tehran",
-      "summary": "A mysterious object filmed hovering over Tehran has sparked online speculation.",
+      "title": "Antonio Guterres: Can the UN still meet today’s global crises?",
+      "summary": "Al Jazeera’s James Bays sits down with United Nations Secretary-General Antonio Guterres.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/mystery-object-spotted-hovering-over-tehran?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 10:10:14 +0000"
+      "link": "https://www.aljazeera.com/video/on-the-record/2026/9/21/antonio-guterres-can-the-un-still-meet-todays-global-crises?traffic_source=rss",
+      "publishedAt": "Mon, 21 Sep 2026 15:21:52 +0000"
     },
     {
-      "title": "A simple guide to the Yemen conflict",
-      "summary": "Here’s a brief history of Yemen’s war - from the Houthi takeover in 2014 to the latest escalation.",
+      "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
+      "summary": "Treasury Secretary says airports and companies servicing Iranian carriers risk being cut off from the US dollar system.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/21/a-brief-history-of-the-yemen-conflict?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 10:01:30 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss",
+      "publishedAt": "Mon, 21 Sep 2026 15:18:12 +0000"
+    },
+    {
+      "title": "Aviation regulators turn to AI to help manage the nation's airspace",
+      "summary": "The Federal Aviation Administration launched an ambitious $875-million-dollar push to make the U.S. airspace more efficient. But critics say it won't solve bigger problems with air traffic control.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace",
+      "publishedAt": "Mon, 21 Sep 2026 13:37:56 -0400"
+    },
+    {
+      "title": "Paramount makes concessions to salvage $111 billion Warner Bros. Discovery deal",
+      "summary": "Paramount's owners have made concessions to 12 Democratic state attorneys general to settle a lawsuit that endangered the media company's bid for its larger Hollywood rival, Warner Bros. Discovery.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5974909/paramount-warner-bros-lawsuit",
+      "publishedAt": "Mon, 21 Sep 2026 12:40:28 -0400"
     },
     {
       "title": "World leaders convene for UNGA. And, Trump says D.C. arch will be a 'military complex'",
@@ -244,19 +260,11 @@
       "publishedAt": "Mon, 21 Sep 2026 07:24:27 -0400"
     },
     {
-      "title": "The data center backlash is reshaping American politics — one community at a time",
-      "summary": "With striking speed, the widespread debate around data centers has become a fault line in American communities, cutting across political parties and forging unexpected alliances.",
+      "title": "What to know as world leaders converge at the United Nations this week",
+      "summary": "United Nations head António Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/09/21/nx-s1-5927288/data-center-election-voters-ai",
-      "publishedAt": "Mon, 21 Sep 2026 05:00:00 -0400"
-    },
-    {
-      "title": "German chancellor stands his ground after his party loses in state elections",
-      "summary": "German Chancellor Freidrich Merz conceded that the night spells \"disaster\" for the political center, but assured the public he'd push ahead with his federal agenda of tax and welfare reforms.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
       "publishedAt": "Mon, 21 Sep 2026 05:00:00 -0400"
     },
     {
@@ -273,14 +281,6 @@
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/09/21/nx-s1-5944503/iowa-hog-farm-growing-specialty-mushrooms",
-      "publishedAt": "Mon, 21 Sep 2026 05:00:00 -0400"
-    },
-    {
-      "title": "What to know as world leaders converge at the United Nations this week",
-      "summary": "United Nations head António Guterres returns to New York for his final U.N. General Assembly as diplomacy falters over wars in Ukraine and the Middle East, and the global body faces deep divisions.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/21/nx-s1-5971262/united-nations-general-assembly",
       "publishedAt": "Mon, 21 Sep 2026 05:00:00 -0400"
     },
     {
@@ -309,7 +309,7 @@
     },
     {
       "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
-      "summary": "Four of Nurat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last weekA British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged abdu",
+      "summary": "Four of Nusrat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last weekA British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged abd",
       "source": "The Guardian",
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
@@ -429,16 +429,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 26,
+      "tempC": 22,
       "description": "mainly clear",
       "high": 26,
       "low": 17
     },
     {
       "place": "London",
-      "tempC": 18,
-      "description": "clear sky",
-      "high": 22,
+      "tempC": 23,
+      "description": "mainly clear",
+      "high": 23,
       "low": 12
     }
   ],
