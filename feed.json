@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-21T21:41:06.005Z",
+  "updated": "2026-09-22T03:11:28.660Z",
   "news": [
+    {
+      "title": "Motorin 100 lirayı gördü: Günlük yaşamı ve üretimi nasıl etkileyebilir?",
+      "summary": "Türkiye'de motorinin litre fiyatı 17 Eylül'de yapılan zamla birçok kentte ilk kez üç haneye çıktı ve 100 lirayı aştı. Peki, sektörler bu artıştan nasıl etkilenecek?",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c80463wg09d1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 23:02:11 GMT"
+    },
+    {
+      "title": "Hakan Tosun davasında karar duruşması bugün görülecek",
+      "summary": "Gazeteci, belgeselci ve ekoloji aktivisti Hakan Tosun cinayeti davasında karar duruşması bugün görülecek",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c3v6lv5w05no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 23:06:41 GMT"
+    },
     {
       "title": "Merz'in siyasi krizi, istikrar konusunda takıntılı Almanya için risk oluşturuyor",
       "summary": "BBC Avrupa Editörü Katya Adler'in analizine göre, Almanya'daki siyasi değişimler Avrupa'da ve ötesinde yakından izleniyor.",
@@ -18,22 +34,6 @@
       "publishedAt": "Mon, 21 Sep 2026 13:24:45 GMT"
     },
     {
-      "title": "Dünyanın dört bir yanında kültürel hazineler yok edilirken neden kimse cezalandırılmıyor?",
-      "summary": "Dünya genelinde çatışmalar alevleniyor ve kültürel anıtlar yok ediliyor. Ancak şimdiye kadar bir kişi dışında, hiç kimse bu suçlardan herhangi bir ceza almadı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmg49pegzdgro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 12:28:51 GMT"
-    },
-    {
-      "title": "Rusya'daki seçimlerde sürpriz yok ama Kremlin'in sonuçları nasıl değerlendireceği önemli",
-      "summary": "Vladimir Putin'in Rusya'daki parlamento seçimlerinin sonuçlarına dayanarak Rusların büyük çoğunluğunun Ukrayna'daki \"özel askeri operasyonu\" desteklediğini iddia etmesi muhtemel. BBC Rusya editörü Steve Rosenberg'in haberi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm5ydr0kxp4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 09:00:27 GMT"
-    },
-    {
       "title": "Cindy Crawford'ın oğlu Presley Gerber'in ölümüne aşırı doz soruşturması",
       "summary": "Modellik yapan Gerber, 20 Eylül Pazar günü bir rehabilitasyon merkezinde hayatını kaybetti. Ölüm nedeni açıklanmadı.",
       "source": "BBC Türkçe",
@@ -42,54 +42,70 @@
       "publishedAt": "Mon, 21 Sep 2026 20:58:24 GMT"
     },
     {
-      "title": "Berlin'de seçimleri kazanan Sol Parti'nin başbakan adayı Elif Eralp kimdir?",
-      "summary": "Kamu yayıncıları ARD ve ZDF'nin sandık çıkış anketlerine göre, Sol Parti (Die Linke), Başbakan Friedrich Merz'in liderliğindeki merkez sağ CDU'yu mağlup etti. Sol Parti'nin adayı Elif Eralp %25 civarındaki oy oranı ile önde görünüyor.",
+      "title": "TOKİ'de %25 indirim bugün başlıyor: Kampanya hakkında bilinenler",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı (TOKİ), geri ödemeleri devam eden konut ve iş yerleri için %25 indirim kampanyası düzenliyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmde04w3g3l9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 09:51:31 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cwq63p5q76r0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 21 Sep 2026 23:05:01 GMT"
+    },
+    {
+      "title": "Romantik dolandırıcılık yöntemi. Evlilik vaadi, aşk oyunu ya da şantajla kandırıyorlar",
+      "summary": "Dolandırıcılar sosyal medyadan elde ettikleri veri ve bilgilerle ulaştıkları kişilere aşk oyunu oynuyor. Güven kazandıktan sonraysa paralarını ele geçirmeye çalışıyor. (Haber: Rojbin Hayrullahoğlu)",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-22T05:35:21+03:00"
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan: Türkiye'ye yatırım yapan kazanır",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD ile ticaret hacminin ikiye katlandığını duyurdu. Erdoğan, yabancı iş insanlarına \"Türkiye yatırım yapan kazanır\" diyerek çağrıda bulundu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-22T05:33:10+03:00"
+    },
+    {
+      "title": "Uyarılar art arda geldi, montlar dolaptan çıkıyor: İstanbul'da sıcaklık 15 dereceye düşecek",
+      "summary": "Rusya üzerinden gelen soğuk hava dalgası İstanbul dahil birçok ilde sıcaklıkları sert biçimde düşürecek. Meteoroloji 11 il için sarı kodlu kuvvetli yağış uyarısı yaptı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-22T04:00:53+03:00"
+    },
+    {
+      "title": "Bakan Kurum COP31'in lansmanını New York'ta yaptı",
+      "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, BM’de COP31 Eylem Gündemi’ni uluslararası kamuoyuna deklere etti.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-22T02:26:33+03:00"
+    },
+    {
+      "title": "Yolcu otobüsü şarampole uçtu: 2'si ağır 24 yaralı",
+      "summary": "Amasya'nın Merzifon ilçesinde yolcu otobüsünün kontrolden çıkarak tarlaya girmesi sonucu 2'si ağır 24 kişi yaralandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-22T01:21:46+03:00"
     },
     {
       "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Eylül 2026",
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-22T00:30:00+03:00"
+      "publishedAt": "2026-09-22T06:00:00+03:00"
     },
     {
-      "title": "Suudi Arabistan’da mahkemelik olan Ünlüce ailesi 8 aydır evlerine dönmeyi bekliyor",
-      "summary": "Ramazan umresi yapmak için 17 Şubat’ta Mekke’ye giden Havva Ünlüce (61), çocukları Serdar Ünlüce (34), Semra Karakaya (39) ve Hediye Ünlüce Sırakaya (25) 8 aydır evlerine dönemiyor.",
-      "source": "NTV",
+      "title": "\"İki müttefik arasında yeni bir ivme yakalamak istiyoruz\"",
+      "summary": "New York'ta düzenlenen \"100 Yıllık Dostluk: Türkiye-ABD\" programında açıklamalarda bulunan Cumhurbaşkanı Recep Tayyip Erdoğan, \"Ortaklığımızın geleneksel olarak en güçlü alanlarından biri olan savunma sanayiinin gerek ikili gerek NATO bünye",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-21T22:26:00+03:00"
+      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-iki-muttefik-arasinda-yeni-bir-ivme-yakalamak-istiyoruz-3914143",
+      "publishedAt": "Tue, 22 Sep 2026 02:58:05 GMT"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 21 Eylül 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
-      "source": "NTV",
+      "title": "ABD ve İtalya'dan kritik mineraller alanında mutabakat zaptı",
+      "summary": "ABD ve İtalya'nın, kritik mineraller alanında işbirliğine ilişkin mutabakat zaptına imza attığı bildirildi",
+      "source": "Habertürk",
       "lang": "tr",
-      "publishedAt": "2026-09-21T21:49:32+03:00"
-    },
-    {
-      "title": "Barrack: ''Türkiye, ABD Başkanı için çok önemli bir ortak''",
-      "summary": "ABD’nin Türkiye Büyükelçisi Tom Barrack, iki ülke arasında ilişkilerin olumlu yönde ilerlediğini belirterek Cumhurbaşkanı Erdoğan ile ABD Başkanı Trump arasında iyi bir uyum bulunduğunu söyledi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-21T20:56:25+03:00"
-    },
-    {
-      "title": "Dorukhan Büyükışık’ın ölümünde ek iddianame. \"Darp sonucu öldürülmüş olabilir\"",
-      "summary": "Dorukhan Büyükışık'ın ölümüne ilişkin soruşturmada ek iddianame hazırlandı. Büyükışık'ın demir çubuk ile vurularak darp edilmek suretiyle öldürülmüş olabileceği kanaatine varıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-21T20:43:01+03:00"
-    },
-    {
-      "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 21 Eylül 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
-      "summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebili",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-21T20:28:12+03:00"
+      "link": "https://www.haberturk.com/dunya/abd-ve-italya-dan-kritik-mineraller-alaninda-mutabakat-zapti-3914142",
+      "publishedAt": "Mon, 21 Sep 2026 23:24:08 GMT"
     },
     {
       "title": "Cumhurbaşkanı Erdoğan'dan diplomasi trafiği",
@@ -97,47 +113,31 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-vietnam-devlet-baskani-ile-gorustu-3914099",
-      "publishedAt": "Mon, 21 Sep 2026 21:32:20 GMT"
+      "publishedAt": "Mon, 21 Sep 2026 22:59:50 GMT"
     },
     {
-      "title": "\"Babasının kuzuları gelmiş\"",
-      "summary": "Kapadokya'da çekimleri süren 'Sevdan Bir Ateş'in yıldızı Murat Ünalmış'ı, çocukları Selim Baran ile Toprak sette ziyaret etti. Ünalmış o anları, \"Babasının kuzuları gelmiş\" diyerek paylaştı",
+      "title": "Bakan Fidan'dan ABD'ye: Kısıtlamaları kaldırmalıyız",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Türkiye-ABD ilişkilerinin uzun süredir güçlü bir diğer ayağının savunma işbirliği olduğunu belirterek, “Devam eden sorunları çözmeli ve işbirliğini sınırlayan kısıtlamaları kaldırmalıyız. Bu kısıtlamaların, iki",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/foto/murat-unalmis-babasinin-kuzulari-gelmis-3914084",
-      "publishedAt": "Mon, 21 Sep 2026 21:30:27 GMT"
+      "link": "https://www.haberturk.com/dunya/bakan-fidan-dan-abd-ye-cagri-kisitlamalari-kaldirmaliyiz-3914096",
+      "publishedAt": "Mon, 21 Sep 2026 22:56:45 GMT"
     },
     {
-      "title": "KPSS ne zaman?",
-      "summary": "ÖSYM sınav takvimiyle KPSS Ortaöğretim ve Ön lisans sınav tarihleri belli oldu. Kamu Personeli Seçme Sınavı için başvuruların hangi tarihte alınacağı ve sınavların ne zaman gerçekleştirileceği de takvim içerisinde paylaşıldı. Peki KPSS Orta",
+      "title": "8 gün sonra cansız bedeni bulundu",
+      "summary": "Sultangazi'de, ailesinin 8 gündür haber alamadığı 49 yaşındaki kişi ölü bulundu",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/kpss-ne-zaman-2026-kpss-ortaogretim-ve-on-lisans-sinav-tarihi-ve-ucreti-belli-oldu-mu-3914130",
-      "publishedAt": "Mon, 21 Sep 2026 21:29:39 GMT"
+      "link": "https://www.haberturk.com/gundem/8-gun-sonra-cansiz-bedeni-bulundu-3914140",
+      "publishedAt": "Mon, 21 Sep 2026 22:49:45 GMT"
     },
     {
-      "title": "KPSS iptal mi edildi?",
-      "summary": "ÖSYM tarafından gerçekleştirilen KPSS’nin iptal edilip edilmediği en çok araştırılan konu başlıkları arasında yer alıyor. 6 Eylül’de yapılan lisans oturumundan sonra yapılan değerlendirmelerde Şanlıurfa Harran Üniversitesi'ndeki 150 sınav s",
+      "title": "İstanbul’da yağmur yağacak mı?",
+      "summary": "Meteoroloji Genel Müdürlüğü tarafından hava durumu tahmin raporu paylaşıldı. İstanbul’da hava sıcaklıklarının düşmesiyle yağış beklentisi artıyor. Balıkesir'in kuzeyi, Kocaeli, Sakarya, Bursa ve Yalova'da, zamanla Batı Karadeniz'in batısınd",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/kpss-iptal-mi-edildi-tekrardan-mi-yapilacak-osym-acikladi-kpssye-kimler-girecek-3913825",
-      "publishedAt": "Mon, 21 Sep 2026 21:25:28 GMT"
-    },
-    {
-      "title": "Sayısal Loto sonuçları açıklandı!",
-      "summary": "Her hafta Pazartesi, Çarşamba ve Cumartesi günleri yapılan Çılgın Sayısal Loto çekilişinde şansını denemek isteyenler bugünkü çekilişe katıldı. Sayısal Loto sonuçları canlı ve noter huzurunda belli oluyor. En son yapılan çekilişte 6 bilen ç",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/sayisal-loto-sonuclari-aciklandi-mi-21-eylul-cilgin-sayisal-loto-cekilis-sonuclari-bilet-sorgulama-ekrani-3914100",
-      "publishedAt": "Mon, 21 Sep 2026 21:24:33 GMT"
-    },
-    {
-      "title": "Ara tatil ne zaman?",
-      "summary": "Okullar ne zaman kapanacak sorusunun yanıtı MEB takvimi ile belli oldu. İlk ara tatil önceki yıllarda olduğu gibi kasım ayında gerçekleştirilecek. Öğrenciler ilk dönem karnelerini 22 Ocak 2027 Cuma günü alacak. Peki, ara tatil ne zaman başl",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/ara-tatil-ne-zaman-meb-2026-2027-takvime-gore-ara-tatil-takvimi-3914120",
-      "publishedAt": "Mon, 21 Sep 2026 21:24:17 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/istanbulda-yagmur-yagacak-mi-ne-zaman-basliyor-meteorolojiden-kritik-hava-durumu-uyarisi-geldi-3914135",
+      "publishedAt": "Mon, 21 Sep 2026 22:39:37 GMT"
     },
     {
       "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -149,11 +149,11 @@
     },
     {
       "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
-      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he headed to New York for a UN summit.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 21 Sep 2026 15:58:53 GMT"
+      "publishedAt": "Tue, 22 Sep 2026 00:16:06 GMT"
     },
     {
       "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
@@ -188,52 +188,52 @@
       "publishedAt": "Mon, 21 Sep 2026 00:05:11 GMT"
     },
     {
-      "title": "How thousands of migrants stranded in Ceuta are surviving",
-      "summary": "Authorities estimate that at least 10,000 people remain in the enclave of Ceuta after a record surge in July.",
+      "title": "Canada’s BC sues OpenAI over ChatGPT role in Tumbler Ridge school shooting",
+      "summary": "British Columbia lawsuit implicates ChatGPT, claiming tech firm ignored deadly threats and demanding safety overhauls.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/how-thousands-of-migrants-stranded-in-ceuta-are-surviving?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 21:04:44 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/22/canadas-bc-sues-openai-over-chatgpt-role-in-tumbler-ridge-school-shooting?traffic_source=rss",
+      "publishedAt": "Tue, 22 Sep 2026 02:44:51 +0000"
     },
     {
-      "title": "Former ‘death squad’ leader appears in military trial in The Gambia",
-      "summary": "Sanna Manjang faces court for deserting army in 2017 after end of Jammeh's 20-year rule.",
+      "title": "Mamdani challenges Trump over White House press ban during meeting",
+      "summary": "President Trump met New York Mayor Zohran Mamdani at his official residence, one day before Trump speaks to the UNGA.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/21/former-death-squad-leader-appears-in-military-trial-in-the-gambia?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 20:57:43 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/mamdani-challenges-trump-over-white-house-press-ban-during-meeting?traffic_source=rss",
+      "publishedAt": "Tue, 22 Sep 2026 01:57:51 +0000"
     },
     {
-      "title": "Trump speech inaudible as US networks boycott White House event",
-      "summary": "US President Trump unveiled a new White House helicopter pad as major US TV networks stayed away in protest.",
+      "title": "Influencers Jake and Logan Paul visit the Pentagon",
+      "summary": "Influencers Logan and Jake Paul visited the Pentagon and addressed US troops, praising them for serving the country.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 20:38:51 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/influencers-jake-and-logan-paul-visit-the-pentagon?traffic_source=rss",
+      "publishedAt": "Tue, 22 Sep 2026 01:17:09 +0000"
     },
     {
-      "title": "Putin’s party wins supermajority in Russia’s parliamentary election",
-      "summary": "Victory of United Russia party strengthens Putin's hand even as the war with Ukraine grows more unpopular.",
+      "title": "Here’s what to pay attention to at the UNGA",
+      "summary": "World leaders arrive for UNGA 81 as wars multiply and trust erodes in global institutions. Emma Withrow explains.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/21/pro-putin-party-wins-supermajority-amid-ramped-up-ukrainian-attacks?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 20:17:39 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_heres-what-to-pay-attention-to-at-the-unga-210926?traffic_source=rss",
+      "publishedAt": "Tue, 22 Sep 2026 00:36:12 +0000"
     },
     {
-      "title": "UN Chief Guterres calls for ban on ‘killer robots’",
-      "summary": "In this episode of On the Record, UN Secretary-General António Guterres calls for ban on autonomous ‘killer robots’.",
+      "title": "Trump returns to the UN, what will he say?",
+      "summary": "Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/un-chief-guterres-calls-for-ban-on-killer?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 20:07:23 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
+      "publishedAt": "Tue, 22 Sep 2026 00:31:56 +0000"
     },
     {
-      "title": "US man convicted in 2023 shooting of three Palestinian students in Vermont",
-      "summary": "Jason Eaton faces up to life in prison after a jury rejected his insanity defence.",
+      "title": "UK to refuel Saudi jets to help counter Houthi attacks",
+      "summary": "British Prime Minister Andy Burnham says he has agreed to a request for 'defensive' air-to-air refuelling of Saudi jets.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/21/us-man-convicted-in-2023-shooting-of-three-palestinian-students-in-vermont?traffic_source=rss",
-      "publishedAt": "Mon, 21 Sep 2026 20:05:07 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/22/uk-to-refuel-saudi-jets-to-help-counter-houthi-attacks?traffic_source=rss",
+      "publishedAt": "Tue, 22 Sep 2026 00:29:28 +0000"
     },
     {
       "title": "What the equinox 'henge' effect tells us about U.S. cities",
@@ -284,6 +284,14 @@
       "publishedAt": "Mon, 21 Sep 2026 05:00:00 -0400"
     },
     {
+      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "summary": "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacleThe United States’ withdrawal from key aid programs has put has put healthcare in Africa and the",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+      "publishedAt": "Mon, 21 Sep 2026 22:33:40 GMT"
+    },
+    {
       "title": "Banished to alien lands: Trump’s secret deportation deals",
       "summary": "After a plane journey in shackles, an Iranian woman found herself in the middle of Africa in a country she did not know existed. She is one of thousands deported from the US on the back of shadowy deals made with dozens of countries. An in-",
       "source": "The Guardian",
@@ -306,140 +314,23 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/sep/18/survivor-panic-struggle-breathe-nigeria-prison-cell-died-minna",
       "publishedAt": "Fri, 18 Sep 2026 17:27:39 GMT"
-    },
-    {
-      "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
-      "summary": "Four of Nusrat Osman’s alleged abductors were killed during rescue after she was taken from outside her home last weekA British woman kidnapped in Malawi last week has been rescued by police after a shootout in which four of her alleged abd",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/sep/18/british-woman-kidnapped-malawi-police-shootout",
-      "publishedAt": "Fri, 18 Sep 2026 11:21:36 GMT"
     }
   ],
-  "sports": [
-    {
-      "league": "Süper Lig",
-      "home": "Fenerbahçe",
-      "away": "Eyüpspor",
-      "homeScore": 8,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-20"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Göztepe",
-      "away": "Rizespor",
-      "homeScore": 2,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-09-20"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Erzurumspor",
-      "away": "Samsunspor",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-20"
-    },
-    {
-      "league": "Premier League",
-      "home": "Bournemouth",
-      "away": "Liverpool",
-      "homeScore": 0,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-20"
-    },
-    {
-      "league": "Premier League",
-      "home": "Fulham",
-      "away": "Manchester United",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-20"
-    },
-    {
-      "league": "Premier League",
-      "home": "Manchester City",
-      "away": "Sunderland",
-      "homeScore": 5,
-      "awayScore": 3,
-      "status": "FT",
-      "date": "2026-09-20"
-    },
-    {
-      "league": "La Liga",
-      "home": "Atlético Madrid",
-      "away": "Real Madrid",
-      "homeScore": 2,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-20"
-    },
-    {
-      "league": "La Liga",
-      "home": "Valencia",
-      "away": "Real Sociedad",
-      "homeScore": 2,
-      "awayScore": 3,
-      "status": "FT",
-      "date": "2026-09-20"
-    },
-    {
-      "league": "La Liga",
-      "home": "Villarreal",
-      "away": "Levante",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-20"
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Bayer Leverkusen",
-      "away": "RB Leipzig",
-      "homeScore": 2,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-20"
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Schalke 04",
-      "away": "Elversberg",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-09-20"
-    },
-    {
-      "league": "Bundesliga",
-      "home": "Paderborn",
-      "away": "Hoffenheim",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-09-20"
-    }
-  ],
+  "sports": [],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 21,
-      "description": "mainly clear",
+      "tempC": 20,
+      "description": "overcast",
       "high": 21,
       "low": 18
     },
     {
       "place": "London",
-      "tempC": 21,
-      "description": "clear sky",
-      "high": 23,
-      "low": 12
+      "tempC": 17,
+      "description": "mainly clear",
+      "high": 25,
+      "low": 16
     }
   ],
   "facts": [
