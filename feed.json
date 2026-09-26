@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T21:04:00.401Z",
+  "updated": "2026-09-26T03:23:21.408Z",
   "news": [
     {
       "title": "Fon krizinde yatırımcıların parası nasıl geri ödenebilir?",
@@ -10,6 +10,22 @@
       "publishedAt": "Fri, 25 Sep 2026 16:46:41 GMT"
     },
     {
+      "title": "Manisa'da okula silahlı saldırıda yedi tutuklama",
+      "summary": "Manisa'nın Turgutlu ilçesinde bir lise binasında okul yakınında 11 öğrencinin yaralandığı silahlı saldırıya ilişkin adliyeye sevk edilen 10 şüpheliden 7'si tutuklandı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cq5y4z071pz6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 22:44:20 GMT"
+    },
+    {
+      "title": "OpenAI, yapay zekanın uygunsuz davrandığı 'onlarca' vakayı araştırıyor",
+      "summary": "OpenAI Cuma günü yaptığı açıklamada, yapay zeka ajanlarının uygunsuz davranması nedeniyle web sitelerinin etkilenmiş olabileceği konusunda küresel ölçekte \"onlarca\" kurumu uyardığını belirtti.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c6ly77km30rzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 23:25:15 GMT"
+    },
+    {
       "title": "BBC kaynakları: Manchester City, Premier Lig mali kurallarını ihlalden suçlu bulundu",
       "summary": "BBC'nin kaynaklara dayandırdığı haberine göre , Manchester City, Premier Lig'in mali kurallarını ihlal ettiği iddiasıyla yöneltilen 115 suçlamadan biri hariç tümünden suçlu bulundu.",
       "source": "BBC Türkçe",
@@ -18,28 +34,12 @@
       "publishedAt": "Fri, 25 Sep 2026 17:25:35 GMT"
     },
     {
-      "title": "FBI'a siber saldırıda ajanların sağlık bilgileri ele geçirildi",
-      "summary": "FBI'ı hackleyen siber suçlular, binlerce özel ajana ait son derece hassas tıbbi verilere sahip olduklarını söylüyor.",
+      "title": "Endonezya yanardağlarında internet ünlüleri içerik için ölüme yaklaşıyor",
+      "summary": "Bir yanardağı ziyaret etmek, hayranlık uyandıran bir deneyim olabilir ve inanılmaz fotoğraflar ve videolar çekme fırsatı sunabilir. Ancak Endonezya'daki yetkililer, sosyal medya için içerik oluşturma arzusunun insanları ölümcül riskler alma",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c6lyrrvnjnnzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 17:21:40 GMT"
-    },
-    {
-      "title": "Mekke Anlaşması: Türkiye ve Pakistan, Husilerle savaşan Suudilere askeri destek verecek mi?",
-      "summary": "Yemen'deki Husilerin Suudi Arabistan hedeflerine yönelik saldırılarını artırdığı bir dönemde, Türkiye, Pakistan ve Suudi Arabistan'ın imzaladığı ortak savunma anlaşması çerçevesinde peş peşe gelişmeler yaşanıyor. Üç ülke dışişleri bakanları",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cqe9e7e9xm41o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 16:54:08 GMT"
-    },
-    {
-      "title": "UEFA Uluslar Ligi: Türkiye ilk sınavında Zidane yönetimindeki Fransa ile karşı karşıya",
-      "summary": "UEFA Uluslar A Ligi'nde ilk kez mücadele eden Türkiye A Milli Futbol Takımı, gruptaki birinci maçını Fransa ile oynuyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cve8xk9kwxz5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 19:02:56 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cwg59lmn0e31o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 23:10:32 GMT"
     },
     {
       "title": "Erdoğan 'Sorumlulardan hesap sorulacak' dedi, Şimşek istifa iddiasını yalanladı",
@@ -50,11 +50,25 @@
       "publishedAt": "Thu, 24 Sep 2026 18:53:09 GMT"
     },
     {
+      "title": "Ali Tarakçı hakkında gözaltı kararı",
+      "summary": "Ankara Cumhuriyet Başsavcılığı, Ali Tarakçı hakkında gözaltı kararı verildiğini bildirdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-26T00:18:51+03:00"
+    },
+    {
+      "title": "Eşekle Türkiye’yi gezip, köy çocuklarına kitap ve kırtasiye malzemeleri dağıttı",
+      "summary": "Erzincan’da doğan ve çocukluk hayalini gerçekleştirmek amacıyla 2019 yılında \"Eşekle Gelen Dostoyevski\" projesini başlatan Ersin Bilge (63), Türkiye'nin her yerinde öğrencilere kitap dağıtıyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-09-26T00:02:58+03:00"
+    },
+    {
       "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 26 Eylül 2026",
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 26 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-26T00:00:00+03:00"
+      "publishedAt": "2026-09-26T06:00:00+03:00"
     },
     {
       "title": "Rönesans Rezidans davasında \"olası kast\" talebine mahkemeden ret",
@@ -78,66 +92,68 @@
       "publishedAt": "2026-09-25T23:48:26+03:00"
     },
     {
-      "title": "Dışişleri Bakanı Hakan Fidan, İranlı mevkidaşıyla görüştü",
-      "summary": "Dışişleri Bakanı Hakan Fidan, New York'ta İran Dışişleri Bakanı Abbas Arakçi ile bir araya geldi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-25T23:57:18+03:00"
-    },
-    {
-      "title": "Bolu Belediyesi irtikap soruşturması: Tanju Özcan'ın 217 yıla kadar hapsi istendi",
-      "summary": "Bolu Belediyesine yönelik \"irtikap\" soruşturması kapsamında, aralarında Tanju Özcan'ın da bulunduğu 4'ü tutuklu 19 sanıklı davada esas hakkındaki mütalaa mahkemeye sunuldu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-09-25T22:00:58+03:00"
-    },
-    {
-      "title": "Milliler Kocaeli'de Fransa'ya mağlup oldu",
-      "summary": "UEFA Uluslar A Ligi 1. Grup ilk maçında A Milli Futbol Takımımız, Kocaeli'de konuk ettiği Fransa'ya 1-0 mağlup oldu.",
+      "title": "Balkonda çay içerken düşüp öldü",
+      "summary": "Aksaray'da 5'inci kattaki evinin balkonundan düşen 49 yaşındaki Erol Baysal, ağır yaralı olarak kaldırıldığı hastanede hayatını kaybetti",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/turkiye-fransa-maci-canli-anlatim-turkiye-fransa-uefa-uluslar-ligi-maci-kac-kac-mac-skoru-ve-onemli--3914982",
-      "publishedAt": "Fri, 25 Sep 2026 20:49:34 GMT"
+      "link": "https://www.haberturk.com/gundem/balkonda-cay-icerken-dustu-3915164",
+      "publishedAt": "Sat, 26 Sep 2026 00:43:04 GMT"
     },
     {
-      "title": "Masterchef ödül oyununu kim kazandı?",
-      "summary": "TV8 ekranlarında yayınlanan Masterchef’te ödül oyunu heyecanı kaldığı yerden devam ediyor. Haftanın beşinci gününde Masterchef Türkiye’de mavi ve kırmızı takım sebze yemekleriyle karşı karşıya geliyor. Yayınlanan son bölümde şeflerin değerl",
+      "title": "İngiltere Başbakanı Burnham'dan İskoçya açıklaması",
+      "summary": "İngiltere Başbakanı Andy Burnham, ülkede erken genel seçim yapılacağı iddialarını reddederken İskoçya'nın bağımsızlığı için tekrar bir referandum yapılmayacağını belirtti",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/masterchef-odul-oyununu-kim-kazandi-eleme-potasinda-kim-var-25-eylul-masterchef-hangi-takim-kazandi-3915174",
-      "publishedAt": "Fri, 25 Sep 2026 20:49:22 GMT"
+      "link": "https://www.haberturk.com/dunya/ingiltere-basbakani-burnham-dan-iskocya-aciklamasi-3915204",
+      "publishedAt": "Fri, 25 Sep 2026 23:54:22 GMT"
     },
     {
-      "title": "Kira artış oranı ne zaman açıklanacak?",
-      "summary": "TÜİK tarafından Eylül ayına ilişkin enflasyon oranı duyurulacak. Eylül ayı enflasyon verileri, ekim ayında yenilenecek kira sözleşmeleri açısından da önem taşıyor. Tüketici Fiyat Endeksi (TÜFE) ve Üretici Fiyat Endeksi (ÜFE) verileri kira a",
+      "title": "BİM 29 Eylül 2026 aktüel ürünler kataloğu",
+      "summary": "Yeni haftanın BİM aktüel ürünler kataloğu indirimleri belli oldu. 29 Eylül 2026 Salı BİM aktüel indirimlerinde kahve, bisküvi, pasta süsleri, süt ve süt ürünleri yer alıyor. BİM aktüel ürünler kataloğunda Moliendo çekirdek kahve 250 g 295 T",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/kira-artis-orani-ne-zaman-saat-kacta-aciklanacak-ekim-2026-kira-artis-orani-yuzde-kac-zamlanacak-3915180",
-      "publishedAt": "Fri, 25 Sep 2026 20:24:28 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/bim-29-eylul-2026-aktuel-urunler-katalogu-kahve-cesitleri-geliyor-bim-aktuel-urunler-katalogunda-neler-var-3915201",
+      "publishedAt": "Fri, 25 Sep 2026 22:45:25 GMT"
     },
     {
-      "title": "Bakan Fidan, İranlı mevkidaşı ile görüştü",
-      "summary": "Dışişleri Bakanı Hakan Fidan ile İran Dışişleri Bakanı Abbas Erakçi, New York'ta bir araya geldi",
+      "title": "Afyonkarahisar'da 4 araçlık feci kaza! 1 ölü, 7 yaralı",
+      "summary": "Afyonkarahisar'da tuğla yüklü TIR ile 3 otomobilin karıştığı trafik kazasında 1 kişi hayatını kaybetti, 7 kişi yaralandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/bakan-fidan-iranli-mevkidasi-ile-gorustu-3915181",
-      "publishedAt": "Fri, 25 Sep 2026 20:23:21 GMT"
+      "link": "https://www.haberturk.com/gundem/afyonkarahisar-da-4-araclik-feci-kaza-1-olu-7-yarali-3915198",
+      "publishedAt": "Fri, 25 Sep 2026 22:41:49 GMT"
     },
     {
-      "title": "F.Bahçe galibiyetle başladı!",
-      "summary": "EuroLeague'de 2026-2027 sezonunun ilk haftasında Fenerbahçe Tarfin, sahasında İtalya temsilcisi Virtus Bologna'yı 78-68 mağlup etti.",
+      "title": "\"Fransa'yı elimizden kaçırdık\"",
+      "summary": "A Milli Futbol Takımımız'ın defans oyuncusu Abdülkerim Bardakcı, UEFA Uluslar A Ligi 1’inci Grup ilk maçında Fransa'ya 1-0 mağlup oldukları karşılaşmayı değerlendirdi. Fransa'yı elinden kaçırdıklarını belirten Bardakcı, \"Kocaeli halkına teş",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/fenerbahce-tarfin-78-virtus-bologna-68-mac-sonucu-3915177",
-      "publishedAt": "Fri, 25 Sep 2026 20:12:43 GMT"
+      "link": "https://www.haberturk.com/spor/abdulkerim-bardakci-fransa-yi-elimizden-kacirdik-3915200",
+      "publishedAt": "Fri, 25 Sep 2026 22:39:57 GMT"
     },
     {
-      "title": "Dragon Hackerz'in 2 yöneticisine gözaltı",
-      "summary": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada, 101 milyon kişiye ait kimlik verisi ile 118 milyon GSM numarasının sorgulanmasına imkan sağlayan ‘Dragon Hackerz’ isimli yasa dışı sorgu panelinin 2 yöneticisi gözaltına alın",
+      "title": "Manisa'daki saldırıda 7 tutuklama",
+      "summary": "Manisa'nın Turgutlu ilçesinde 11 öğrencinin yaralandığı olayda saldırganın annesi, babası ve dedesinin de aralarında bulunduğu 7 kişi tutuklandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/dragon-hackerz-in-2-yoneticisine-gozalti-3915178",
-      "publishedAt": "Fri, 25 Sep 2026 20:08:58 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-manisa-daki-saldirida-7-tutuklama-3915187",
+      "publishedAt": "Fri, 25 Sep 2026 22:30:54 GMT"
+    },
+    {
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "summary": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 23:38:48 GMT"
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 02:50:56 GMT"
     },
     {
       "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
@@ -148,92 +164,92 @@
       "publishedAt": "Fri, 25 Sep 2026 20:47:49 GMT"
     },
     {
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 13:56:16 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 23:20:48 GMT"
     },
     {
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 15:06:41 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 25 Sep 2026 23:05:40 GMT"
     },
     {
-      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "summary": "Critics have questioned the reliability of the data, warning it could result in US citizens being wrongly removed from electoral rolls.",
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 19:13:35 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 26 Sep 2026 01:24:31 GMT"
     },
     {
-      "title": "Trump's plans for massive arch move ahead",
-      "summary": "Opposition to building the 250-foot arch, and using it for military purposes, is growing with one Democrat blasting Trump's plans as \"foolhardy\".",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 18:27:46 GMT"
-    },
-    {
-      "title": "Students strike across Germany in protest against military service",
-      "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 25 Sep 2026 15:36:22 GMT"
-    },
-    {
-      "title": "Which countries walked out of Netanyahu’s UNGA speech?",
-      "summary": "Which countries walked out of Netanyahu’s UNGA speech?",
+      "title": "Yemeni leader urges public to enlist, offers amnesty to Houthi defectors",
+      "summary": "Rashad al-Alimi pledges amnesty for Houthi defectors in first speech since losing ground on the western Red Sea coast.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/which-countries-walked-out-of-netanyahus-unga-speech?traffic_source=rss",
-      "publishedAt": "Fri, 25 Sep 2026 19:50:00 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/26/yemeni-leader-urges-public-to-enlist-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+      "publishedAt": "Sat, 26 Sep 2026 03:10:43 +0000"
     },
     {
-      "title": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
-      "summary": "Dozens of countries’ delegations walked out of or were absent for Israeli PM Benjamin Netanyahu’s UNGA speech.",
+      "title": "UNGA81: Why has Africa’s Security Council reform push remained unresolved?",
+      "summary": "Africa wants permanent seats and veto power, but agreement remains elusive.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
-      "publishedAt": "Fri, 25 Sep 2026 19:48:37 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/26/unga81-why-has-africas-security-council-reform-push-remained-unresolved?traffic_source=rss",
+      "publishedAt": "Sat, 26 Sep 2026 03:07:55 +0000"
     },
     {
-      "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
-      "summary": "Pakistan PM, a signatory to the Mecca Joint Defence Agreement, condemned Houthi attacks on Saudi Arabia at UNGA 81.",
+      "title": "Pope Leo XIV makes first official Papal visit in France in nearly 20",
+      "summary": "Pope Leo XIV drew huge crowds on the first Papal visit to France in 18 years.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/pakistan-pm-calls-houthi-threats-to-saudi-holy-sites-a-red?traffic_source=rss",
-      "publishedAt": "Fri, 25 Sep 2026 19:38:21 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss",
+      "publishedAt": "Sat, 26 Sep 2026 02:18:09 +0000"
     },
     {
-      "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
-      "summary": "Little-known Israeli map team is redrawing land boundaries as Palestinians face growing illegal settlement expansion.",
+      "title": "TikTok to pay $100 million to Alabama in teen addiction settlement",
+      "summary": "TikTok has settled and agreed to pay the US state of Alabama at least $100 million dollars days before trial.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank?traffic_source=rss",
-      "publishedAt": "Fri, 25 Sep 2026 19:24:46 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/tiktok-to-pay-100-million-to-alabama-in-teen-addiction-settlement?traffic_source=rss",
+      "publishedAt": "Sat, 26 Sep 2026 02:09:10 +0000"
     },
     {
-      "title": "UN expands list of firms involved in illegal Israeli settlement activities",
-      "summary": "With addition of 61 more companies, the list now includes 214 businesses in 11 countries, most of them Israeli.",
+      "title": "Plane crash in DR Congo kills more than a dozen",
+      "summary": "Civilians and senior military officials among 14 dead after an army plane crashes into a residential area in the DRC.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
-      "publishedAt": "Fri, 25 Sep 2026 19:21:57 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/26/plane-crash-in-dr-congo-kills-more-than-a-dozen?traffic_source=rss",
+      "publishedAt": "Sat, 26 Sep 2026 01:32:36 +0000"
     },
     {
-      "title": "Iran threatens widespread disruption as Iraq halts Iran flights",
-      "summary": "Iraq has suspended Iranian flights at all four airports where they operated",
+      "title": "Facebook found liable as TikTok settles for $100m over user safety",
+      "summary": "Facebook found liable in New Mexico for deceptive actions; TikTok settles $100m lawsuit with Alabama over safety claims.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss",
-      "publishedAt": "Fri, 25 Sep 2026 19:11:03 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/26/facebook-found-liable-as-tiktok-settles-for-100m-over-user-safety?traffic_source=rss",
+      "publishedAt": "Sat, 26 Sep 2026 01:26:21 +0000"
+    },
+    {
+      "title": "Supreme Court blocks Trump-backed Missouri congressional map",
+      "summary": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterms for control of the House. It means voters will face a different map than the one used in the primaries.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
+      "publishedAt": "Fri, 25 Sep 2026 18:06:16 -0400"
+    },
+    {
+      "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
+      "summary": "The Pacific Ocean has had an unusual number of storms this year, while the Atlantic hasn't recorded a single full-blown hurricane. Scientists point to an exceptionally strong El Niño.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
+      "publishedAt": "Fri, 25 Sep 2026 16:08:40 -0400"
     },
     {
       "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
       "publishedAt": "Fri, 25 Sep 2026 11:40:57 -0400"
-    },
-    {
-      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-      "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-      "publishedAt": "Fri, 25 Sep 2026 10:55:12 -0400"
-    },
-    {
-      "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains",
-      "summary": "Nolo will slow down as it nears Hawaii's Big Island and is expected to become a major hurricane this weekend, bringing torrential rain to areas that have been flooded by big storms this summer.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
-      "publishedAt": "Fri, 25 Sep 2026 10:46:28 -0400"
     },
     {
       "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
@@ -321,16 +321,16 @@
     {
       "place": "İstanbul",
       "tempC": 17,
-      "description": "partly cloudy",
+      "description": "overcast",
       "high": 24,
       "low": 17
     },
     {
       "place": "London",
-      "tempC": 19,
+      "tempC": 15,
       "description": "overcast",
-      "high": 24,
-      "low": 14
+      "high": 20,
+      "low": 13
     }
   ],
   "facts": [
