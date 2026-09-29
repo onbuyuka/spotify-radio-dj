@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-28T21:03:49.976Z",
+  "updated": "2026-09-29T04:05:28.382Z",
   "news": [
+    {
+      "title": "BBC, Husilerin ele geçirmeye çalıştığı Yemen kentinde",
+      "summary": "BBC gazetecilerin nadiren erişebildiği Yemen'de cephe hattındaki Taiz'e ulaştı ve çevredeki tepelerden yankılanan silah sesleriyle dolu bir şehirde yaşayanlarla konuştu.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cq4gr1jzv3gdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 23:09:32 GMT"
+    },
     {
       "title": "Komedyen Deniz Göktaş tahliye edildi: 'Hayalim, Sinem Dedetaş ve Mehmet Pehlivan'la İstanbul'a dönmekti'",
       "summary": "Çağlayan Adliyesi'nde ilk kez hakim karşısına çıkan tutuklu komedyen Deniz Göktaş için tahliye kararı verildi. Göktaş akşam saat 21.45 civarında Karatepe Ceza İnfaz kurumundan tahliye edildi.",
@@ -8,6 +16,14 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cq99d8grynjxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Mon, 28 Sep 2026 19:45:14 GMT"
+    },
+    {
+      "title": "ABD'nin Irak'tan çekilmesi görevin sonu mu yoksa stratejik bir yeniden konuşlanma mı?",
+      "summary": "Irak, ABD öncülüğündeki uluslararası koalisyon güçlerinin ülkeden çekilmesini tamamlamaya hazırlandığı kritik bir döneme yaklaşıyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cr0j30y53neqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 23:12:04 GMT"
     },
     {
       "title": "Erdoğan fon krizine dair konuştu, Özel istifa çağrısı yaptı",
@@ -18,22 +34,6 @@
       "publishedAt": "Mon, 28 Sep 2026 18:30:31 GMT"
     },
     {
-      "title": "Muhalefetten Fatma Betül Sayan Kaya ve eşi için soruşturma çağrısı",
-      "summary": "AKP'deki görevlerinden istifa eden Fatma Betül Sayan Kaya'nın tasfiye edilen fonlardan yüklü kazanç sağladığı iddialarına tepkiler sürüyor. Yeni Partili yetkililer, Sayan Kaya ve eşi hakkında soruşturma başlatılması çağrıları yaptı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cr93ezxklevvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 28 Sep 2026 13:49:50 GMT"
-    },
-    {
-      "title": "UEFA Uluslar Ligi: Türkiye İtalya'ya 1-4 mağlup oldu",
-      "summary": "Türkiye A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki ikinci maçında 28 Eylül'de İtalya ile karşı karşıya geldi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cve8xk9kwxz5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 28 Sep 2026 20:41:50 GMT"
-    },
-    {
       "title": "Üç uyku pozisyonu için mükemmel yastığı bulmanın ipuçları",
       "summary": "Dr. Chris McCarthy, yastık satın almadan önce dikkate almanız gereken dört noktayı açıklıyor.",
       "source": "BBC Türkçe",
@@ -42,102 +42,134 @@
       "publishedAt": "Mon, 28 Sep 2026 10:54:24 GMT"
     },
     {
-      "title": "Fon krizinde adı geçen şirketler hakkında neler biliniyor, yöneticileri kimler?",
-      "summary": "Türkiye'deki fon krizinin ardından Sermaye Piyasaları Kurulu 21 Eylül'de dokuz şirket ve yöneticilerinin mal varlıklarını dondurdu. Peki bu şirketler hakkında neler biliniyor ve gözaltına alınan yöneticileri kimler? Açık kaynaklarda ve şirk",
+      "title": "Muhalefetten Fatma Betül Sayan Kaya ve eşi için soruşturma çağrısı",
+      "summary": "AKP'deki görevlerinden istifa eden Fatma Betül Sayan Kaya'nın tasfiye edilen fonlardan yüklü kazanç sağladığı iddialarına tepkiler sürüyor. Yeni Partili yetkililer, Sayan Kaya ve eşi hakkında soruşturma başlatılması çağrıları yaptı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cw783y5xz0xgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 28 Sep 2026 09:53:28 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cr93ezxklevvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 13:49:50 GMT"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 29 Eylül 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 29 Eylül 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "title": "Yahşihan Belediyesi'ne yolsuzluk soruşturması: İki eski başkan dahil 15 tutuklama",
+      "summary": "Kırıkkale'nin Yahşihan Belediyesi'ne yönelik yürütülen yolsuzluk soruşturmasında, aralarında eski belediye başkanları Ahmet Sungur ve Osman Türkyılmaz'ın da bulunduğu 15 şüpheli tutuklandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-29T00:00:00+03:00"
+      "publishedAt": "2026-09-29T05:41:26+03:00"
     },
     {
-      "title": "Eyüpsultan Camii'nde silahlı kavga",
-      "summary": "İstanbul'da Eyüpsultan Camii'nde yatsı namazı sırasında silahlı kavga çıktı.",
+      "title": "Fatih Ergin \"yanıltıcı bilgiyi alenen yayma\" suçlamasıyla tutuklandı",
+      "summary": "Eski MİT görevlisi Kaşif Kozinoğlu’nun cezaevinde şüpheli ölümüne ilişkin sosyal medya hesabından paylaşım yapan Gazeteci Fatih Ergin tutuklandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-28T23:26:35+03:00"
+      "publishedAt": "2026-09-29T04:51:57+03:00"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 28 Eylül 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
+      "title": "İstanbul'da kuvvetli yağış ve rüzgar. AKOM ve Valilik saat saat uyardı",
+      "summary": "Yurt geneli bir hafta sürecek yağışlı havanın etkisinde. İstanbul'da da yağışlı ve rüzgarlı havanın özellikle bugün gece yarısına kadar kuvvetli olacağı ve yarın devam edeceği uyarısı yapıldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-28T22:49:12+03:00"
+      "publishedAt": "2026-09-29T04:36:09+03:00"
     },
     {
-      "title": "Sermaye Piyasası Kurulu'ndan 37 kişi hakkında suç duyurusu",
-      "summary": "Sermaye Piyasası Kurulu, fon soruşturmasına ilişkin 37 kişi hakkında suç duyurusunda bulundu.",
+      "title": "İzmit sahilinde dikkat çeken köpüklenme. Numune alındı, incelendi",
+      "summary": "Kocaeli'nin İzmit ilçesindeki Sekapark sahilinde denize açılan tahliye kanalında oluşan yoğun köpük dikkat çekti. Yoğun köpükle ilgili yapılan analiz sonuçları açıklandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-28T23:02:45+03:00"
+      "publishedAt": "2026-09-29T01:42:58+03:00"
     },
     {
-      "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 28 Eylül 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
-      "summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebili",
+      "title": "Deniz ulaşımına fırtına engeli. BUDO'nun bazı seferleri iptal edildi",
+      "summary": "Bursa Deniz Otobüslerinin (BUDO) bazı seferleri olumsuz hava koşulları nedeniyle iptal edildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-28T21:01:07+03:00"
+      "publishedAt": "2026-09-29T01:36:10+03:00"
     },
     {
-      "title": "İstanbul Havalimanı’nda uçağa haciz geldi",
-      "summary": "İstanbul Havalimanı'nda İranlı havayolu şirketine ait uçak, borç nedeniyle haczedildi.",
+      "title": "\"Doğruluk mu, cesaret mi\" oyunu kanlı bitti",
+      "summary": "Adıyaman'da \"Doğruluk mu, cesaret mi?\" oyunu oynayan kuzenler, birbirini bıçakladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-09-28T21:12:07+03:00"
+      "publishedAt": "2026-09-29T00:50:23+03:00"
     },
     {
-      "title": "İtalya laneti!",
-      "summary": "A Milli Futbol Takımımız, tarih boyunca galip gelemediği İtalya'ya karşı yine şeytanın bacağını kıramadı. Ay-yıldızlılar, 17. kez karşı karşıya geldiği Azzurriler'e (Gök Maviler) 12. kez mağlup oldu.",
+      "title": "Yahşihan Belediyesi'ne yolsuzluk operasyonu: 15 tutuklama",
+      "summary": "Kırıkkale'nin Yahşihan Belediyesi'ne yönelik 4 ilde düzenlenen yolsuzluk operasyonunda gözaltına alınan 35 zanlıdan 15'i tutuklandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/foto/a-milli-takim-da-italya-laneti-3915741",
-      "publishedAt": "Mon, 28 Sep 2026 20:58:47 GMT"
+      "link": "https://www.haberturk.com/gundem/yahsihan-belediyesi-ne-yolsuzluk-operasyonu-15-tutuklama-3915765",
+      "publishedAt": "Tue, 29 Sep 2026 03:41:12 GMT"
     },
     {
-      "title": "HT Spor'un konuğu Serdal Adalı!",
-      "summary": "Beşiktaş Başkanı Serdal Adalı, milli arada HT Spor'un konuğu oluyor... HT Spor Genel Yayın Yönetmeni Ahmet Selim Kul moderatörlüğünde; HT Spor yorumcuları Yalçın Ayhan ile Sercan Dikme ve HT Spor muhabiri Oğuzhan Genç soracak, Beşiktaş Başk",
+      "title": "Sayısal Loto sonuçları açıklandı!",
+      "summary": "Haftanın ilk gününde Sayısal Loto sonuçları araştırılıyor. Kazandıran numaralar canlı ve noter huzurunda açıklanıyor. En son çekilişte 6 bilen çıkmayınca tam 710.436.186,95 TL ikramiye devretti. Aynı zamanda 5 bilenler, 4 bilenler, 3 bilenl",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/ht-spor-un-konugu-besiktas-baskani-serdal-adali-3915556",
-      "publishedAt": "Mon, 28 Sep 2026 20:58:26 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/sayisal-loto-sonuclari-aciklandi-mi-28-eylul-milli-piyango-online-cilgin-sayisal-loto-cekilis-sonuclari-sorgulama-ekrani-3915682",
+      "publishedAt": "Tue, 29 Sep 2026 03:37:18 GMT"
     },
     {
-      "title": "Fransa, Belçika'yı tek golle geçti!",
-      "summary": "UEFA Uluslar Ligi'nde heyecan 2. hafta maçlarıyla devam etti. Grubumuzda yer alan Fransa, Belçika'yı deplasmanda 1-0 mağlup etti. İşte gecenin sonuçları...",
+      "title": "Bugün yağmur var mı, hava nasıl olacak?",
+      "summary": "Meteoroloji Genel Müdürlüğü tarafından hava durumu raporu paylaşıldı. Hava sıcaklıklarının yurt genelinde hissedilir derecede azalacağı, iç ve batı kesimlerde mevsim normallerinin altında, doğu bölgelerde mevsim normalleri civarında seyrede",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/fransa-deplasmanda-belcika-yi-tek-golle-gecti-iste-uefa-uluslar-ligi-nde-gecenin-sonuclari-3915742",
-      "publishedAt": "Mon, 28 Sep 2026 20:56:02 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/bugun-yagmur-var-mi-hava-nasil-olacak-meteorolojiden-hava-durumu-ve-yagis-uyarisi-geldi-3915749",
+      "publishedAt": "Tue, 29 Sep 2026 03:36:57 GMT"
     },
     {
-      "title": "Barış Alper, milli forma ile 6. golünü attı",
-      "summary": "UEFA Uluslar Ligi'nde İtalya'ya 4-1 mağlup olan A Milli Takımımız'da tek golü atan Barış Alper Yılmaz, milli forma ile 6. golünü kaydetti.",
+      "title": "Bursa'da tepki!",
+      "summary": "A Milli Futbol Takımı, UEFA Uluslar Ligi'nde İtalya'ya 4-1 mağlup olurken, tribündeki taraftarlar TFF Başkanı İbrahim Hacıosmanoğlu'na yönelik 'istifa' tezahüratlarında bulundu.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/italya-ya-gol-atan-baris-alper-yilmaz-a-milli-takim-formasi-ile-6-golunu-kaydetti-3915740",
-      "publishedAt": "Mon, 28 Sep 2026 20:49:08 GMT"
+      "link": "https://www.haberturk.com/spor/turkiye-italya-macinda-tff-baskani-ibrahim-haciosmanoglu-na-istifa-cagrisi-3915743",
+      "publishedAt": "Tue, 29 Sep 2026 03:33:47 GMT"
     },
     {
-      "title": "A Milli Takım, İtalya'ya mağlup oldu",
-      "summary": "UEFA Uluslar A Ligi 1. Grup mücadelesinde A Milli Takımımız, İtalya'yı ağırladı. İlk maçta Fransa'ya 1-0 mağlup olan Ay-Yıldızlılar, İtalya'ya 4-1 kaybetti ve gruptaki 2. maçında 2. yenilgisini aldı.",
+      "title": "Arkadaş tartışması kanlı bitti: 1 ölü",
+      "summary": "Gaziantep'te iki arkadaş arasında çıkan tartışma kanlı bitti. Arkadaşını bıçakla öldüren zanlı, polis ekiplerince yakalandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/turkiye-italya-maci-canli-anlatim-turkiye-italya-uefa-uluslar-ligi-maci-kac-kac-mac-skoru-ve-onemli--3915527",
-      "publishedAt": "Mon, 28 Sep 2026 20:41:33 GMT"
+      "link": "https://www.haberturk.com/gundem/gaziantep-te-arkadaslarin-tartismasi-kanli-bitti-1-olu-3915763",
+      "publishedAt": "Tue, 29 Sep 2026 00:08:22 GMT"
     },
     {
-      "title": "Instagram hesabını kapattı",
-      "summary": "Gonca Vuslateri, Instagram hesabını bir süreliğine kapattığını açıkladı. Oyuncu, \"Bir süreliğine Instagram'ı kapatınca ne mutlu oluyor insan\" dedi",
+      "title": "Pancar makinesinin altında can verdi",
+      "summary": "Çorum İskilip'te pancar toplama makinesinin altında kalan 44 yaşındaki Lokman Tülek hayatını kaybetti. Olayla ilgili 2 kişi gözaltına alındı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/gonca-vuslateri-instagram-hesabini-kapatti-3915739",
-      "publishedAt": "Mon, 28 Sep 2026 20:40:28 GMT"
+      "link": "https://www.haberturk.com/gundem/corum-da-pancar-makinesinin-altinda-kalan-kisi-oldu-3915764",
+      "publishedAt": "Tue, 29 Sep 2026 00:08:20 GMT"
+    },
+    {
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 29 Sep 2026 02:29:25 GMT"
+    },
+    {
+      "title": "Evicted Spanish pensioner can move back home, lawyer says",
+      "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 29 Sep 2026 01:28:57 GMT"
+    },
+    {
+      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 29 Sep 2026 03:50:40 GMT"
+    },
+    {
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 20:50:03 GMT"
     },
     {
       "title": "Inside Yemen's front-line city as Houthis battle for control",
@@ -148,95 +180,71 @@
       "publishedAt": "Sun, 27 Sep 2026 21:16:31 GMT"
     },
     {
-      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-      "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+      "title": "French PM warns against escalation of school protests after 164 arrested",
+      "summary": "Students are protesting over issues such as overcrowded classes, but the prime minister has condemned reports of violence.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 28 Sep 2026 14:57:31 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 28 Sep 2026 21:46:53 GMT"
     },
     {
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 28 Sep 2026 17:26:21 GMT"
-    },
-    {
-      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-      "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 28 Sep 2026 17:15:00 GMT"
-    },
-    {
-      "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
-      "summary": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 28 Sep 2026 15:39:19 GMT"
-    },
-    {
-      "title": "Stand-up comic released after being convicted of insulting Erdoğan",
-      "summary": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 28 Sep 2026 20:23:12 GMT"
-    },
-    {
-      "title": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
-      "summary": "Two giant pandas from China have landed in the United States and are heading to Zoo Atlanta.",
+      "title": "Fighter jets escort Pope Leo on final day of his France tour",
+      "summary": "Pope Leo XIV was escorted by fighter jets to Metz, the final stop of his four-day France tour.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/friendship-pandas-arrive-in-atlanta-marking-us-china-relations-moment?traffic_source=rss",
-      "publishedAt": "Mon, 28 Sep 2026 20:53:53 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/fighter-jets-escort-pope-leo-on-final-day-of-his-france-tour?traffic_source=rss",
+      "publishedAt": "Tue, 29 Sep 2026 03:00:01 +0000"
     },
     {
-      "title": "French far-right leader Bardella refutes anti-Semitism allegations",
-      "summary": "Mediapart's explosive report comes a day after France's National Rally party secures a record number of Senate seats.",
+      "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+      "summary": "Tehran awaits reply on Hormuz plan as a US official says there will be no deal unless nuclear issues are addressed.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations?traffic_source=rss",
-      "publishedAt": "Mon, 28 Sep 2026 20:52:03 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks?traffic_source=rss",
+      "publishedAt": "Tue, 29 Sep 2026 02:36:25 +0000"
     },
     {
-      "title": "South Sudan calls for sanctions to be lifted at UNGA",
-      "summary": "Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted",
+      "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+      "summary": "Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga?traffic_source=rss",
-      "publishedAt": "Mon, 28 Sep 2026 20:45:52 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+      "publishedAt": "Tue, 29 Sep 2026 01:01:38 +0000"
     },
     {
-      "title": "Slovenia’s U-turn towards Israel",
-      "summary": "Slovenia’s policy towards Palestine has changed sharply following a UNGA sideline meeting with Israeli PM Netanyahu.",
+      "title": "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns",
+      "summary": "AI giant says latest model failed to meet alignment standards during internal testing.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss",
-      "publishedAt": "Mon, 28 Sep 2026 20:35:51 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
+      "publishedAt": "Tue, 29 Sep 2026 00:38:06 +0000"
     },
     {
-      "title": "Gaza’s young inventors build robots with what they have",
-      "summary": "At a youth hackathon in Gaza City, young inventors are developing robots.",
+      "title": "Africa’s space ambitions are moving from policy to practice",
+      "summary": "As the Africa Space Expo closes in Abidjan, African innovators are showing what the continent can build.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss",
-      "publishedAt": "Mon, 28 Sep 2026 20:34:22 +0000"
+      "link": "https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss",
+      "publishedAt": "Tue, 29 Sep 2026 00:26:22 +0000"
     },
     {
-      "title": "Apple ordered to pay $5.7bn in patent infringement case",
-      "summary": "California jury finds Apple infringed two Taction patents but did not wilfully violate them; Apple plans to appeal.",
+      "title": "Inside Al Jazeera’s UNGA coverage",
+      "summary": "Here’s a look at what it was like behind the scenes of the coverage you saw online and on TV.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss",
-      "publishedAt": "Mon, 28 Sep 2026 20:11:30 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss",
+      "publishedAt": "Tue, 29 Sep 2026 00:10:21 +0000"
     },
     {
-      "title": "Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know",
+      "title": "The Senate passes the Protect College Sports Act, but the bill's future is unclear",
+      "summary": "The bill's supporters, which include the NCAA, say it will tame what they call a \"Wild West\" era of college sports as litigation chips away at long-held rules around eligibility, transfers and pay.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/09/28/nx-s1-5977851/protect-college-sports-act-senate-bill-vote",
+      "publishedAt": "Mon, 28 Sep 2026 22:16:19 -0400"
+    },
+    {
+      "title": "Prosecutors are reopening a Cornell fraternity rape case. Here's what we know",
       "summary": "New York prosecutors are reopening an investigation into an alleged rape case at Cornell University in 2024. The alleged victim recently filed a lawsuit against seven members of Chi Phi fraternity.",
       "source": "NPR",
       "lang": "en",
@@ -276,14 +284,6 @@
       "publishedAt": "Mon, 28 Sep 2026 08:15:05 -0400"
     },
     {
-      "title": "Trump aims to leave a physical legacy in D.C., bulldozing norms along the way",
-      "summary": "President Trump has brought his New York real estate background to the White House. But experts say D.C. is a very different historic and legal landscape — and worry about the precedent he could set.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/09/28/nx-s1-5930441/trump-construction-projects-legacy",
-      "publishedAt": "Mon, 28 Sep 2026 07:41:48 -0400"
-    },
-    {
       "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
       "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party saysA senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a ra",
       "source": "The Guardian",
@@ -320,17 +320,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 19,
-      "description": "rain",
-      "high": 20,
+      "tempC": 18,
+      "description": "light rain",
+      "high": 21,
       "low": 17
     },
     {
       "place": "London",
-      "tempC": 18,
+      "tempC": 17,
       "description": "overcast",
-      "high": 20,
-      "low": 14
+      "high": 26,
+      "low": 17
     }
   ],
   "facts": [
