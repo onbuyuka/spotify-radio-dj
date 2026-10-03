@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T20:34:19.946Z",
+  "updated": "2026-10-03T23:30:18.109Z",
   "news": [
     {
       "title": "Trump'ın 'Süper Zeka' zirvesinden çıkan üç önemli sonuç",
@@ -50,6 +50,41 @@
       "publishedAt": "Sat, 03 Oct 2026 10:53:05 GMT"
     },
     {
+      "title": "Benzin bidonuyla geldi, galerideki 6 aracı kundakladı",
+      "summary": "Antalya'nın Serik ilçesinde bir otomobil galerisindeki 6 aracın kundaklanması sonucu çıkan yangın, güvenlik kamerasınca kaydedildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-04T00:55:57+03:00"
+    },
+    {
+      "title": "İki yolcu otobüsüne baskın: 22 milyon lira değerinde uyuşturucu ele geçirildi",
+      "summary": "Düzce'de polis ekipleri tarafından iki yolcu otobüsünde piyasa değeri yaklaşık 22 milyon TL olan peçetelere emdirilmiş uyuşturucu ham maddesi ile sentetik ecza hapları ele geçirildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-04T00:49:19+03:00"
+    },
+    {
+      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
+      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-04T00:05:50+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Ekim 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 04 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-04T02:00:00+03:00"
+    },
+    {
+      "title": "Şehit oğluna anlamlı hediye. Babasının adının verildiği TOMA sünnet arabası oldu",
+      "summary": "Diyarbakır'ın Sur ilçesinde bombalı saldırıda şehit olan polis memuru Ali Sevim'in Eskişehir'de yaşayan oğlu Eyüphan Sevim'in sünnet düğününde, babasının adı verilen TOMA sünnet arabası oldu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-03T23:36:27+03:00"
+    },
+    {
       "title": "\"Hakemler dosyası\" soruşturmasında tanık ifadeleri ortaya çıktı",
       "summary": "Hakemlere baskı ve evrakta sahtecilik iddialarıyla başlatılan soruşturmada, çok sayıda hakem ve gözlemci tanık ve müşteki sıfatıyla ifade verdi.",
       "source": "NTV",
@@ -57,87 +92,52 @@
       "publishedAt": "2026-10-03T23:02:20+03:00"
     },
     {
-      "title": "Pırlanta şirketi sahiplerini tehdit ettiler. \"Sizi bindiğiniz arabalarla havaya uçururuz\"",
-      "summary": "Bir pırlanta firmasının sahiplerine tehdit mesajları gönderen \"Çirkinler\" suç örgütüne yönelik operasyon düzenlendi. 5 kişi gözaltına alındı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T22:03:26+03:00"
-    },
-    {
-      "title": "Mersin Büyükşehir Belediyesi’ne yolsuzluk soruşturması. Evinden servet çıktı",
-      "summary": "Mersin'de yolsuzluk soruşturması kapsamında yapılan operasyonda bir şüphelinin evinde yüklü miktarda altın ve döviz ele geçirildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T20:05:34+03:00"
-    },
-    {
-      "title": "Akaryakıt istasyonunda tanker patladı, yangın yanındakine de sıçradı",
-      "summary": "Denizli'de bir akaryakıt istasyonunda yakıt boşaltılan tankerde patlamayla birlikte çıkan yangın, yanındaki tankere de sıçradı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T20:00:27+03:00"
-    },
-    {
-      "title": "Ege'de fırtına. Gökçeada feribot seferlerinde iptaller var",
-      "summary": "Çanakkale'nin Kuzey Ege Denizi'ndeki Gökçeada ilçesine yarın yapılması planlanan bazı tarifeli feribot seferleri, olumsuz hava şartları nedeniyle iptal edildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T18:28:07+03:00"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Kimsenin hakkını kimseye yedirmeyiz",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasıyla ilgili yol haritasını belirlediklerini söylerken, \"Kimsenin hakkını kimseye yedirmeyiz\" dedi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T18:02:14+03:00"
-    },
-    {
-      "title": "Çakarlı araca dev ceza",
-      "summary": "İstanbul Beykoz’da trafik ekiplerinin durdurduğu araçta izinsiz çakar sistemi bulunduğu ve sürücünün ehliyetsiz olduğu belirlendi. Sürücüye toplam 253 bin 392 lira idari para cezası uygulanırken araç 30 gün trafikten men edildi",
+      "title": "Kızıyla görüşen genci öldürdü!",
+      "summary": "Antalya’nın Gazipaşa ilçesinde yol kenarında 20 yaşında bir erkek cesedi bulundu. Yapılan incelemede gencin bıçaklanarak öldürüldüğü tespit edilirken, cinayetin 16 yaşındaki kızıyla görüştüğü gerekçesiyle baba tarafından işlendiği belirlend",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/beykozda-usulsuz-cakar-kullanan-surucuye-253-bin-lira-ceza-kesildi-3917051",
-      "publishedAt": "Sat, 03 Oct 2026 20:23:03 GMT"
+      "link": "https://www.haberturk.com/gundem/kan-donduran-cinayet-kiziyla-gorusen-genci-oldurdu-3917062",
+      "publishedAt": "Sat, 03 Oct 2026 23:11:19 GMT"
     },
     {
-      "title": "İstanbul Boğazı’nda turkuaz gece",
-      "summary": "3 Ekim Türk Dünyası Günü kapsamında İstanbul Boğazı’ndaki köprüler turkuaz renkte ışıklandırıldı. 15 Temmuz Şehitler Köprüsü’nün turkuaz aydınlatması, Boğaz manzarasıyla birlikte havadan görüntülendi",
+      "title": "İsrail, yolcu listesini 2 gün önce almış",
+      "summary": "İsrail'in, Dubai-Tel Aviv seferini yaptığı sırada Suudi Arabistan’a acil iniş yapmak zorunda kalan Flydubai uçağındaki yolcu ve mürettebat listesini 2 gün öncesinden aldığı bildirildi.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/istanbul-bogazindaki-kopruler-turk-dunyasi-gununde-turkuaza-burundu-3917050",
-      "publishedAt": "Sat, 03 Oct 2026 20:08:38 GMT"
+      "link": "https://www.haberturk.com/dunya/israilin-flydubai-ucagindaki-yolcu-ve-murettebat-listesini-48-saat-oncesinden-aldigi-ortaya-cikti-3917060",
+      "publishedAt": "Sat, 03 Oct 2026 22:43:00 GMT"
     },
     {
-      "title": "Duran’dan TEKNOFEST Güneydoğu mesajı",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, TEKNOFEST Güneydoğu’ya ilişkin paylaşımında gençlerin teknolojiye yönelik üretme azmi ve Türkiye’nin geleceğine duyduğu güvene dikkat çekti. Duran, Türkiye’nin kendi teknolojisini gelişti",
+      "title": "Masterchef eleme adayı kim oldu?",
+      "summary": "Tv8 ekranlarında yayınlanan Masterchef eleme adaylarını belirlemeye devam ediyor. Mehmet Yalçınkaya, Danilo Zanna ve Somer Sivrioğlu, yarışmacıların hazırladığı tabakları lezzet, sunum ve teknik açıdan ayrıntılı olarak değerlendiriyor. Yayı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/iletisim-baskani-prof-duran-teknofest-guneydogunda-genclerin-teknoloji-heyecanini-vurguladi-3917049",
-      "publishedAt": "Sat, 03 Oct 2026 20:02:50 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/masterchef-eleme-adayi-kim-oldu-3-ekim-masterchef-dokunulmazlik-oyununu-kim-hangi-takim-kazandi-3917037",
+      "publishedAt": "Sat, 03 Oct 2026 22:14:55 GMT"
     },
     {
-      "title": "Benzin istasyonunda yangının nedeni belli oldu",
-      "summary": "Denizli’nin Pamukkale ilçesinde bir akaryakıt istasyonunda yakıt boşaltımı sırasında çıkan yangının, çalışanın elindeki vanayı beton zemine düşürmesiyle oluşan kıvılcımdan kaynaklandığı değerlendirildi. Yangında bir tanker tamamen yanarken ",
+      "title": "Saatler geri alınacak mı?",
+      "summary": "Saatlerin geri alınmasıyla kış aylarında gün ışığı süresinin kısalması nedeniyle güneş ışığından daha fazla yararlanılıyor. Yavaş yavaş kış mevsiminin de yaklaşmasıyla birlikte, vatandaşlar kış saati uygulaması ne zaman başlayacak sorusuna ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/denizlide-yakit-bosaltimi-sirasinda-kivilcim-yangina-neden-oldu-3917047",
-      "publishedAt": "Sat, 03 Oct 2026 19:38:22 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/saatler-geri-alinacak-mi-kis-saati-uygulamasi-baslayacak-mi-turkiyede-saatler-1-saat-geri-alinacak-mi-3917059",
+      "publishedAt": "Sat, 03 Oct 2026 22:00:19 GMT"
     },
     {
-      "title": "TOKİ yüzde 25 indirim kampanyası başvuruları devam ediyor!",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı (TOKİ) ev ve iş yeri satın alan vatandaşları ilgilendiren yüzde 25 indirim kampanyası yoğun ilgi görmeye devam ediyor. Borcunu peşin ödeyip tapuyu elde etmek is",
+      "title": "Altın Koza 'Bir Arada Yalnız'ın oldu",
+      "summary": "Adana Altın Koza Film Festivalinin Büyük Ödül Töreni Çukurova Üniversitesi Kongre Merkezi'nde gerçekleştirildi. Ulusal Uzun Metraj Film Yarışması'nda Ali Vatansever’in “Bir Arada Yalnız” filmi En İyi Film ödülünü kazandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/toki-yuzde-25-indirim-kampanyasi-basvurulari-devam-ediyor-toki-indirim-kampanyasi-basvuru-tarihi-ve-sartlari-3917044",
-      "publishedAt": "Sat, 03 Oct 2026 19:21:43 GMT"
+      "link": "https://www.haberturk.com/kultur-sanat/altin-koza-bir-arada-yalniz-in-oldu-3917057",
+      "publishedAt": "Sat, 03 Oct 2026 21:37:02 GMT"
     },
     {
-      "title": "“Çirkinler” operasyonunda 5 gözaltı",
-      "summary": "Bakırköy Cumhuriyet Başsavcılığınca kamuoyunda “Çirkinler” olarak bilinen silahlı suç örgütüne yönelik yürütülen soruşturma kapsamında 5 şüpheli gözaltına alındı. Şüphelilerin adreslerinde uyuşturucu madde ve hassas terazi ele geçirilirken,",
+      "title": "'Bozkır' Baba Sahne'de",
+      "summary": "Doğukan Polat’ın güçlü performansıyla dikkat çeken tiyatro oyunu 'Bozkır' 7 Ekim'de Baba Sahne’de gerçekleşecek sezonun ilk İstanbul gösterimiyle sanatseverlerle buluşacak",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/bakirkoyde-silahli-suc-orgutune-yonelik-operasyonda-bes-supheli-yakaland-3917039",
-      "publishedAt": "Sat, 03 Oct 2026 18:55:48 GMT"
+      "link": "https://www.haberturk.com/kultur-sanat/bozkir-baba-sahne-de-3917048",
+      "publishedAt": "Sat, 03 Oct 2026 21:36:31 GMT"
     },
     {
       "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
@@ -165,7 +165,7 @@
     },
     {
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
@@ -185,7 +185,39 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 18:06:47 GMT"
+      "publishedAt": "Sat, 03 Oct 2026 21:16:21 GMT"
+    },
+    {
+      "title": "Air ambulance missing on flight from Bermuda to Boston",
+      "summary": "The US coastguard says it has dispatched air and surface crews to search for the plane near Nantucket.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss",
+      "publishedAt": "Sat, 03 Oct 2026 23:03:44 +0000"
+    },
+    {
+      "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+      "summary": "Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to 'end a genocide in Gaza'.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
+      "publishedAt": "Sat, 03 Oct 2026 22:43:58 +0000"
+    },
+    {
+      "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+      "summary": "Israeli settlers attack Palestinian farmers during olive harvest",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+      "publishedAt": "Sat, 03 Oct 2026 21:15:05 +0000"
+    },
+    {
+      "title": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
+      "summary": "Bruno Fernandes says he has spoken to Cristiano Ronaldo and denies a rift within Portugal’s squad.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+      "publishedAt": "Sat, 03 Oct 2026 21:02:22 +0000"
     },
     {
       "title": "Trump ramps up pressure on US Republicans to end US clock switching",
@@ -204,36 +236,20 @@
       "publishedAt": "Sat, 03 Oct 2026 20:10:17 +0000"
     },
     {
-      "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
-      "summary": "The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.",
-      "source": "Al Jazeera",
+      "title": "Coast Guard searching for missing medical plane carrying 6 people",
+      "summary": "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
-      "publishedAt": "Sat, 03 Oct 2026 19:14:43 +0000"
+      "link": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
+      "publishedAt": "Sat, 03 Oct 2026 18:31:04 -0400"
     },
     {
-      "title": "Is the CJP changing India’s political landscape?",
-      "summary": "Youth-led movement demands resignation of chief election commissioner.",
-      "source": "Al Jazeera",
+      "title": "Can the Cornell lawsuit force changes that make students safer?",
+      "summary": "Universities have responsibilities when students report sexual assault, even if prosecutors don't bring charges. Attorney Baine Kerr explains how those protections work.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
-      "publishedAt": "Sat, 03 Oct 2026 19:00:01 +0000"
-    },
-    {
-      "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
-      "summary": "A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
-      "publishedAt": "Sat, 03 Oct 2026 18:49:03 +0000"
-    },
-    {
-      "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
-      "summary": "Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team's 'greatest symbol'.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
-      "publishedAt": "Sat, 03 Oct 2026 18:23:29 +0000"
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
+      "publishedAt": "Sat, 03 Oct 2026 17:57:34 -0400"
     },
     {
       "title": "Opinion: A Hawk is not the same as a Hawkeye",
@@ -252,14 +268,6 @@
       "publishedAt": "Sat, 03 Oct 2026 07:47:09 -0400"
     },
     {
-      "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-      "summary": "Beloved for its dinosaurs, Philadelphia's storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-      "publishedAt": "Sat, 03 Oct 2026 07:00:00 -0400"
-    },
-    {
       "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
       "summary": "HBO's War is intended to be an anthology series about two dueling London law firms. The first season stars Dominic West and Sienna Miller as a high-profile couple in the midst of a very nasty divorce.",
       "source": "NPR",
@@ -268,20 +276,12 @@
       "publishedAt": "Sat, 03 Oct 2026 07:00:00 -0400"
     },
     {
-      "title": "The Supreme Court faces another term jam-packed with controversy",
-      "summary": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.",
+      "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
+      "summary": "Beloved for its dinosaurs, Philadelphia's storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
-      "publishedAt": "Sat, 03 Oct 2026 05:00:00 -0400"
-    },
-    {
-      "title": "No one expected Leo to be pope — except everyone who knew him as 'Bob'",
-      "summary": "When the 2025 conclave began, no one expected an American pope. But by its end, Cardinal Robert Prevost had become Pope Leo. Here's a look behind the scenes.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
-      "publishedAt": "Sat, 03 Oct 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
+      "publishedAt": "Sat, 03 Oct 2026 07:00:00 -0400"
     },
     {
       "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
@@ -320,17 +320,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 17,
-      "description": "partly cloudy",
-      "high": 20,
-      "low": 16
+      "tempC": 16,
+      "description": "mainly clear",
+      "high": 21,
+      "low": 15
     },
     {
       "place": "London",
-      "tempC": 19,
-      "description": "overcast",
-      "high": 20,
-      "low": 13
+      "tempC": 17,
+      "description": "clear sky",
+      "high": 22,
+      "low": 14
     }
   ],
   "facts": [
