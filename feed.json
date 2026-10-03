@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-03T15:41:52.118Z",
+  "updated": "2026-10-03T20:34:19.946Z",
   "news": [
+    {
+      "title": "Trump'ın 'Süper Zeka' zirvesinden çıkan üç önemli sonuç",
+      "summary": "Beyaz Saray'daki toplantı, bazı teknoloji şirketlerinin yöneticileri ve uzmanlarının yapay zeka konusunda daha sıkı kurallar getirilmesi çağrısında bulunduğu bir dönemde yapıldı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ck62m29pn0lgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 08:28:31 GMT"
+    },
     {
       "title": "Bahçeli'den fon krizi açıklaması: 'Türkiye bir arınma sürecinden geçiyor'",
       "summary": "MHP lideri Devlet Bahçeli, fon krizi başta olmak üzere gündemle ilgili yaptığı yazılı açıklamada, \"Türkiye, yolsuzluk ve usulsüzlüklerin ortaya çıkarıldığı bir arınma sürecinden geçmektedir\" dedi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cmx2w84w4nxeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 15:28:35 GMT"
-    },
-    {
-      "title": "İspanya - Çin yakınlaşması, AB içinde neden rahatsızlık yaratıyor?",
-      "summary": "İspanya ve Çin karşılıklı bir yakınlaşma döneminden geçiyor. Ancak bu dostluk duygusu AB genelinde bu kadar yaygın değil.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cv70d00409pzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 11:29:20 GMT"
+      "publishedAt": "Sat, 03 Oct 2026 16:40:17 GMT"
     },
     {
       "title": "Rusya, Ukrayna'nın başkenti Kiev'deki ikinci büyük köprüyü de vurdu",
@@ -50,6 +50,34 @@
       "publishedAt": "Sat, 03 Oct 2026 10:53:05 GMT"
     },
     {
+      "title": "\"Hakemler dosyası\" soruşturmasında tanık ifadeleri ortaya çıktı",
+      "summary": "Hakemlere baskı ve evrakta sahtecilik iddialarıyla başlatılan soruşturmada, çok sayıda hakem ve gözlemci tanık ve müşteki sıfatıyla ifade verdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-03T23:02:20+03:00"
+    },
+    {
+      "title": "Pırlanta şirketi sahiplerini tehdit ettiler. \"Sizi bindiğiniz arabalarla havaya uçururuz\"",
+      "summary": "Bir pırlanta firmasının sahiplerine tehdit mesajları gönderen \"Çirkinler\" suç örgütüne yönelik operasyon düzenlendi. 5 kişi gözaltına alındı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-03T22:03:26+03:00"
+    },
+    {
+      "title": "Mersin Büyükşehir Belediyesi’ne yolsuzluk soruşturması. Evinden servet çıktı",
+      "summary": "Mersin'de yolsuzluk soruşturması kapsamında yapılan operasyonda bir şüphelinin evinde yüklü miktarda altın ve döviz ele geçirildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-03T20:05:34+03:00"
+    },
+    {
+      "title": "Akaryakıt istasyonunda tanker patladı, yangın yanındakine de sıçradı",
+      "summary": "Denizli'de bir akaryakıt istasyonunda yakıt boşaltılan tankerde patlamayla birlikte çıkan yangın, yanındaki tankere de sıçradı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-03T20:00:27+03:00"
+    },
+    {
       "title": "Ege'de fırtına. Gökçeada feribot seferlerinde iptaller var",
       "summary": "Çanakkale'nin Kuzey Ege Denizi'ndeki Gökçeada ilçesine yarın yapılması planlanan bazı tarifeli feribot seferleri, olumsuz hava şartları nedeniyle iptal edildi.",
       "source": "NTV",
@@ -64,80 +92,60 @@
       "publishedAt": "2026-10-03T18:02:14+03:00"
     },
     {
-      "title": "Bahçeli: Türkiye bir arınma sürecinden geçiyor",
-      "summary": "MHP lideri Bahçeli, fon soruşturması ve belediyelerdeki yolsuzluk soruşturmaları hakkında Türkiye'nin bir arınma sürecinden geçtiğini söyledi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T17:32:39+03:00"
-    },
-    {
-      "title": "Şemsiyeye tabanca süsü verdi, çaldığı altınlar sahte çıktı",
-      "summary": "Bayrampaşa'da bir kişi poşetin içine koyduğu şemsiyeye tabanca süsü verip kuyumcu soydu. Polisin yakaladığı şüphelinin çaldığı altınların imitasyon olduğu ortaya çıktı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T16:39:55+03:00"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan: Türkiye'nin geleceği emin ellerde",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'nin geleceğinin emin ellerde olduğunu belirterek, \"Türkiye Yüzyılı, TEKNOFEST kuşağının damgasını taşıyacaktır.\" dedi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T16:32:00+03:00"
-    },
-    {
-      "title": "7 ana yol birbirine bağlanıyor. Yeni çevre yoluyla yolculuk süresi 40 dakika kısalacak",
-      "summary": "Konya Çevre Yolu'nda çalışmaları sürüyor. Aksaray-Adana aksları arasındaki 16,1 kilometrelik kesimde yürütülen çalışmaların bu yıl sonunda tamamlanması hedefleniyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-03T15:43:51+03:00"
-    },
-    {
-      "title": "Göl kenarında erkek cesedi bulundu",
-      "summary": "Isparta'nın Eğirdir ilçesinde göl kenarında erkeğe ait cansız beden bulundu",
+      "title": "Çakarlı araca dev ceza",
+      "summary": "İstanbul Beykoz’da trafik ekiplerinin durdurduğu araçta izinsiz çakar sistemi bulunduğu ve sürücünün ehliyetsiz olduğu belirlendi. Sürücüye toplam 253 bin 392 lira idari para cezası uygulanırken araç 30 gün trafikten men edildi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/gol-kenarinda-erkek-cesedi-bulundu-3917020",
-      "publishedAt": "Sat, 03 Oct 2026 15:22:47 GMT"
+      "link": "https://www.haberturk.com/gundem/beykozda-usulsuz-cakar-kullanan-surucuye-253-bin-lira-ceza-kesildi-3917051",
+      "publishedAt": "Sat, 03 Oct 2026 20:23:03 GMT"
     },
     {
-      "title": "İSKİ 3 Ekim 2026 baraj doluluk oranı",
-      "summary": "İstanbul baraj doluluk oranı güncel olarak açıklandı. Yağan yağmur ve kar yağışları barajlardaki su seviyesini yükseltiyor. İstanbul Su ve Kanalizasyon İdaresi (İSKİ) verilerine göre en son barajlardaki doluluk oranı yüzde 35 seviyesinin üz",
+      "title": "İstanbul Boğazı’nda turkuaz gece",
+      "summary": "3 Ekim Türk Dünyası Günü kapsamında İstanbul Boğazı’ndaki köprüler turkuaz renkte ışıklandırıldı. 15 Temmuz Şehitler Köprüsü’nün turkuaz aydınlatması, Boğaz manzarasıyla birlikte havadan görüntülendi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/iski-3-ekim-2026-baraj-doluluk-orani-istanbulda-baraj-doluluk-orani-yuzde-kac-oldu-3917019",
-      "publishedAt": "Sat, 03 Oct 2026 15:10:34 GMT"
+      "link": "https://www.haberturk.com/gundem/istanbul-bogazindaki-kopruler-turk-dunyasi-gununde-turkuaza-burundu-3917050",
+      "publishedAt": "Sat, 03 Oct 2026 20:08:38 GMT"
     },
     {
-      "title": "Gökçeada feribot seferlerinde iptaller",
-      "summary": "Çanakkale'nin Kuzey Ege Denizi'ndeki Gökçeada ilçesine yarın yapılması planlanan bazı tarifeli feribot seferleri, olumsuz hava şartları nedeniyle iptal edildi",
+      "title": "Duran’dan TEKNOFEST Güneydoğu mesajı",
+      "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, TEKNOFEST Güneydoğu’ya ilişkin paylaşımında gençlerin teknolojiye yönelik üretme azmi ve Türkiye’nin geleceğine duyduğu güvene dikkat çekti. Duran, Türkiye’nin kendi teknolojisini gelişti",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/gokceada-feribot-seferleri-iptal-edildi-3917017",
-      "publishedAt": "Sat, 03 Oct 2026 15:09:10 GMT"
+      "link": "https://www.haberturk.com/gundem/iletisim-baskani-prof-duran-teknofest-guneydogunda-genclerin-teknoloji-heyecanini-vurguladi-3917049",
+      "publishedAt": "Sat, 03 Oct 2026 20:02:50 GMT"
     },
     {
-      "title": "DMM’den azınlık okulları için açıklama",
-      "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi, azınlık vakıflarına ait okul binalarının “rant ve inşaat amacıyla elden çıkarılmaya çalışıldığı” ve okulların bu nedenle birleştirilmesinin talep edildiği yönündeki iddiaların gerçek dı",
+      "title": "Benzin istasyonunda yangının nedeni belli oldu",
+      "summary": "Denizli’nin Pamukkale ilçesinde bir akaryakıt istasyonunda yakıt boşaltımı sırasında çıkan yangının, çalışanın elindeki vanayı beton zemine düşürmesiyle oluşan kıvılcımdan kaynaklandığı değerlendirildi. Yangında bir tanker tamamen yanarken ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/dmm-azinlik-vakiflarina-ait-okullarla-ilgili-iddialari-yalanladi-3917018",
-      "publishedAt": "Sat, 03 Oct 2026 15:09:04 GMT"
+      "link": "https://www.haberturk.com/gundem/denizlide-yakit-bosaltimi-sirasinda-kivilcim-yangina-neden-oldu-3917047",
+      "publishedAt": "Sat, 03 Oct 2026 19:38:22 GMT"
     },
     {
-      "title": "Hatipoğlu'nun babası son yolculuğuna uğurlandı!",
-      "summary": "Eski Galatasaray Spor Kulübü yöneticisi İbrahim Hatipoğlu'nun hayatını kaybeden babası Münir Mustafa Hatipoğlu, son yolculuğuna uğurlandı.",
+      "title": "TOKİ yüzde 25 indirim kampanyası başvuruları devam ediyor!",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı (TOKİ) ev ve iş yeri satın alan vatandaşları ilgilendiren yüzde 25 indirim kampanyası yoğun ilgi görmeye devam ediyor. Borcunu peşin ödeyip tapuyu elde etmek is",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/ibrahim-hatipoglu-nun-babasi-munir-mustafa-hatipoglu-son-yolculuguna-ugurlandi-3917011",
-      "publishedAt": "Sat, 03 Oct 2026 15:02:11 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/toki-yuzde-25-indirim-kampanyasi-basvurulari-devam-ediyor-toki-indirim-kampanyasi-basvuru-tarihi-ve-sartlari-3917044",
+      "publishedAt": "Sat, 03 Oct 2026 19:21:43 GMT"
     },
     {
-      "title": "SPK’dan kredili işlemlerde süre uzatımı",
-      "summary": "Sermaye Piyasası Kurulu, Borsa İstanbul piyasalarındaki gelişmeleri dikkate alarak kredili sermaye piyasası işlemlerinde özkaynak oranının esnetilerek uygulanmasına yönelik tedbirin süresini uzattı. Uygulama 30 Ekim 2026 seans sonuna kadar ",
+      "title": "“Çirkinler” operasyonunda 5 gözaltı",
+      "summary": "Bakırköy Cumhuriyet Başsavcılığınca kamuoyunda “Çirkinler” olarak bilinen silahlı suç örgütüne yönelik yürütülen soruşturma kapsamında 5 şüpheli gözaltına alındı. Şüphelilerin adreslerinde uyuşturucu madde ve hassas terazi ele geçirilirken,",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/spk-ozkaynak-oranindaki-esnek-uygulamayi-30-ekime-kadar-uzatti-3917016",
-      "publishedAt": "Sat, 03 Oct 2026 15:01:10 GMT"
+      "link": "https://www.haberturk.com/gundem/bakirkoyde-silahli-suc-orgutune-yonelik-operasyonda-bes-supheli-yakaland-3917039",
+      "publishedAt": "Sat, 03 Oct 2026 18:55:48 GMT"
+    },
+    {
+      "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+      "summary": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 17:48:42 GMT"
     },
     {
       "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
@@ -153,10 +161,10 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 12:59:10 GMT"
+      "publishedAt": "Sat, 03 Oct 2026 16:16:49 GMT"
     },
     {
-      "title": "Protesters across Spain demand action over housing crisis",
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
       "source": "BBC World",
       "lang": "en",
@@ -172,68 +180,60 @@
       "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT"
     },
     {
-      "title": "Women given shorts at Oktoberfest to prevent upskirting",
-      "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+      "title": "Medical plane with 6 on board missing off Massachusetts coast",
+      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 02 Oct 2026 23:16:03 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 03 Oct 2026 18:06:47 GMT"
     },
     {
-      "title": "Why has Brazil accused the US of election interference?",
-      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 13:52:13 GMT"
-    },
-    {
-      "title": "‘Bordering on angry’: The state of play as US midterms enter final month",
-      "summary": "Democrats enter final stretch with surprisingly positive outlook as Republican money seeks to stem damage.",
+      "title": "Trump ramps up pressure on US Republicans to end US clock switching",
+      "summary": "The US president published a lawmaker's cell phone number as he called for the passage of a bill making DST permanent.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss",
-      "publishedAt": "Sat, 03 Oct 2026 15:18:28 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
+      "publishedAt": "Sat, 03 Oct 2026 20:16:50 +0000"
     },
     {
-      "title": "Tens of thousands protest in Spain after failed housing reforms",
-      "summary": "Latest demonstrations deepen a days-long crisis after parliament struck down two affordable housing decrees.",
+      "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+      "summary": "Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
-      "publishedAt": "Sat, 03 Oct 2026 15:06:40 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
+      "publishedAt": "Sat, 03 Oct 2026 20:10:17 +0000"
     },
     {
-      "title": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
-      "summary": "The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims.",
+      "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
+      "summary": "The emperor is a symbol of Bulgarian national identity whose repatriation stoked tensions with Greece.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
-      "publishedAt": "Sat, 03 Oct 2026 14:30:40 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
+      "publishedAt": "Sat, 03 Oct 2026 19:14:43 +0000"
     },
     {
-      "title": "What to know about Brazil’s 2026 presidential election",
-      "summary": "Polls show tight race between incumbent Lula and right-wing rival Flavio Bolsonaro amid concerns over crime and economy.",
+      "title": "Is the CJP changing India’s political landscape?",
+      "summary": "Youth-led movement demands resignation of chief election commissioner.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
-      "publishedAt": "Sat, 03 Oct 2026 14:23:55 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
+      "publishedAt": "Sat, 03 Oct 2026 19:00:01 +0000"
     },
     {
-      "title": "Israel election double standard: Arab leader forced out, far right cleared",
-      "summary": "Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls.",
+      "title": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
+      "summary": "A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
-      "publishedAt": "Sat, 03 Oct 2026 14:06:47 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
+      "publishedAt": "Sat, 03 Oct 2026 18:49:03 +0000"
     },
     {
-      "title": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
-      "summary": "Kenyan survivors are challenging the UK military over decades of alleged abuses — and the immunity that has shielded it.",
+      "title": "Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game",
+      "summary": "Cristiano Ronaldo withdrew from the Portugal squad, but Bruno Fernandes says forward remains team's 'greatest symbol'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
-      "publishedAt": "Sat, 03 Oct 2026 13:18:37 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/3/fernandes-hails-ronaldo-and-calls-for-portugal-unity-ahead-of-norway-game?traffic_source=rss",
+      "publishedAt": "Sat, 03 Oct 2026 18:23:29 +0000"
     },
     {
       "title": "Opinion: A Hawk is not the same as a Hawkeye",
@@ -276,11 +276,11 @@
       "publishedAt": "Sat, 03 Oct 2026 05:00:00 -0400"
     },
     {
-      "title": "A hot tip to battle performance anxiety? 'Pretend flush' a mistake down the toilet",
-      "summary": "Worried about stumbling before a high-stakes event, like a race or a job interview? Psychologist Cindra Kamphoff offers creative strategies to overcome the jitters and build confidence in the moment.",
+      "title": "No one expected Leo to be pope — except everyone who knew him as 'Bob'",
+      "summary": "When the 2025 conclave began, no one expected an American pope. But by its end, Cardinal Robert Prevost had become Pope Leo. Here's a look behind the scenes.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
       "publishedAt": "Sat, 03 Oct 2026 05:00:00 -0400"
     },
     {
@@ -320,14 +320,14 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 18,
-      "description": "mainly clear",
+      "tempC": 17,
+      "description": "partly cloudy",
       "high": 20,
       "low": 16
     },
     {
       "place": "London",
-      "tempC": 20,
+      "tempC": 19,
       "description": "overcast",
       "high": 20,
       "low": 13
