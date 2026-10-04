@@ -1,13 +1,45 @@
 {
-  "updated": "2026-10-04T04:11:15.942Z",
+  "updated": "2026-10-04T11:45:09.856Z",
   "news": [
     {
-      "title": "Trump'ın 'Süper Zeka' zirvesinden çıkan üç önemli sonuç",
-      "summary": "Beyaz Saray'daki toplantı, bazı teknoloji şirketlerinin yöneticileri ve uzmanlarının yapay zeka konusunda daha sıkı kurallar getirilmesi çağrısında bulunduğu bir dönemde yapıldı.",
+      "title": "Kanada neden pek muhtemel olmayan bir ABD işgaline hazırlanıyor?",
+      "summary": "Başbakan Mark Carney, ABD'nin Kanada'yı işgal etmesi gibi düşük olasılıklı bir ihtimale karşı ordunun senaryo çalışmaları yürüttüğünü söyledi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ck62m29pn0lgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 08:28:31 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c8vgxlk60197o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 08:55:36 GMT"
+    },
+    {
+      "title": "Brezilya'da başkanlık seçimi: Lula ve oğul Bolsonaro yarışıyor",
+      "summary": "Brezilya 160 milyon kayıtlı seçmen bugün sandık başına gitmeye hazırlanırken, anketler görevdeki solcu Lula ile sağcı rakibi Flavio Bolsonaro (eski devlet başkanı Jair Bolsonaro'nun oğlu) arasındaki seçimde kesin bir kazanan olmayacağını gö",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 09:35:21 GMT"
+    },
+    {
+      "title": "Konut fazlası olan İspanya nasıl ağır bir konut krizine savruldu?",
+      "summary": "Pek çok uzmana göre, çok sayıda inşaat şirketinin çöküşüne yol açan 2008 finansal krizi, nüfus artışının yanı sıra, ülkenin karşı karşıya olduğu konut sıkıntısının temelinde yatıyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cxvgyg0g09qzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 07:04:47 GMT"
+    },
+    {
+      "title": "2026'nın en komik 10 hayvan fotoğrafı",
+      "summary": "Fitness tutkunu bir ayıdan epey kaba bir orangutana kadar, işte bu yılın hayvanlar aleminden en eğlenceli 10 fotoğrafı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cq0me0v1dkz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 10:36:14 GMT"
+    },
+    {
+      "title": "Çürük dişiyle Bluetooth teknolojisine adını veren Viking Kralı Harald Gormsson",
+      "summary": "Jelling'deki bir çift antik anıt taşı, Danimarka'ya şekil veren ve Bluetooth ismine ilham kaynağı olan Viking kralının hikayesini anlatıyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cw23x3p4l01zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 08:18:10 GMT"
     },
     {
       "title": "Bahçeli'den fon krizi açıklaması: 'Türkiye bir arınma sürecinden geçiyor'",
@@ -18,126 +50,110 @@
       "publishedAt": "Sat, 03 Oct 2026 16:40:17 GMT"
     },
     {
-      "title": "Rusya, Ukrayna'nın başkenti Kiev'deki ikinci büyük köprüyü de vurdu",
-      "summary": "Pivnichenyi (Kuzey) Köprüsü'ne yapılan saldırı, Ukrayna'nın başkentindeki bir diğer önemli köprüye yapılan saldırıların ardından geldi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmy0rn1gd32go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 14:06:47 GMT"
-    },
-    {
-      "title": "Sosyal kaygıyı kötüleştiren gizli alışkanlıklar ve bunlardan kurtulma yolları",
-      "summary": "Sosyal kaygı, birçok kişinin düşündüğünden daha yaygın. İşte bu rahatsızlık hakkında bilmeniz gerekenler.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm5y5155exj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 11:40:38 GMT"
-    },
-    {
-      "title": "Aşkı için Hindistan'dan İsveç'e bisikletle giden sokak sanatçısının hikayesi: 'Buluşmamız göklerde yazılıydı'",
-      "summary": "Hintli sokak sanatçısı Pradyumna Kumar Mahanandia, İsveçli Charlotte \"Lotta\" von Schedvin karşısına oturduğunda, hayatının aşkına baktığını bilmiyordu. Paylaştıkları bu 10 dakika, sevdiği kadına kavuşmak için bisikletle 10 bin kilometrelik ",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cq8r6r36pxplo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 08:44:42 GMT"
-    },
-    {
-      "title": "Fon soruşturmasında 20 kişi daha tutuklandı",
-      "summary": "Türkiye'de sermaye piyasalarında türbülansa neden olan ve İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında gözaltı ve tutuklamalar devam ediyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ck5ywrewe8dxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 10:53:05 GMT"
-    },
-    {
-      "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 04 Ekim 2026",
-      "summary": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 04 Ekim 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğl",
+      "title": "Girne feribot felaketinde bir cansız bedene daha ulaşıldı",
+      "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Başbakanlığı, Girne açıklarında meydana gelen gemi faciasının ardından sürdürülen arama çalışmalarında bir naaşa daha ulaşıldığını açıkladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-04T04:10:00+03:00"
+      "publishedAt": "2026-10-04T14:35:52+03:00"
     },
     {
-      "title": "Benzin bidonuyla geldi, galerideki 6 aracı kundakladı",
-      "summary": "Antalya'nın Serik ilçesinde bir otomobil galerisindeki 6 aracın kundaklanması sonucu çıkan yangın, güvenlik kamerasınca kaydedildi.",
+      "title": "Adana'da 4.8 büyüklüğünde deprem",
+      "summary": "Adana'nın Saimbeyli ilçesinde saat 14.19'da 4.8 büyüklüğünde bir deprem meydana geldi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-04T00:55:57+03:00"
+      "publishedAt": "2026-10-04T14:35:11+03:00"
     },
     {
-      "title": "İki yolcu otobüsüne baskın: 22 milyon lira değerinde uyuşturucu ele geçirildi",
-      "summary": "Düzce'de polis ekipleri tarafından iki yolcu otobüsünde piyasa değeri yaklaşık 22 milyon TL olan peçetelere emdirilmiş uyuşturucu ham maddesi ile sentetik ecza hapları ele geçirildi.",
+      "title": "TBMM mesaisine başlıyor. Türk Kızılay Kanunu Teklifi görüşülecek",
+      "summary": "Türkiye Büyük Millet Meclisi'nde (TBMM) yeni haftada mesai başlıyor. Salı günü Genel Kurul'da Türk Kızılay Kanunu Teklifi görüşülecek.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-04T00:49:19+03:00"
+      "publishedAt": "2026-10-04T13:32:13+03:00"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 24 Ağustos 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
+      "title": "Bakan Gürlek paylaştı. Alo Adalet 135'deki başvurular UYAP'tan da yapılabilecek",
+      "summary": "Adalet Bakanı Akın Gürlek vatandaşların, \"Alo Adalet 135\" hattı kapsamındaki başvurularını, UYAP Vatandaş Portalı üzerinden elektronik ortamda iletebileceğini bildirdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-04T00:05:50+03:00"
+      "publishedAt": "2026-10-04T13:24:00+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Ekim 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 04 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
+      "title": "Palamut büyüdü, yağlandı. Fiyatı da tezgahta arttı",
+      "summary": "Trabzon'da sezon başından bu yana bol avlanan palamut büyüyerek tezgahlardaki yerini koruyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-04T07:00:00+03:00"
+      "publishedAt": "2026-10-04T13:26:24+03:00"
     },
     {
-      "title": "Şehit oğluna anlamlı hediye. Babasının adının verildiği TOMA sünnet arabası oldu",
-      "summary": "Diyarbakır'ın Sur ilçesinde bombalı saldırıda şehit olan polis memuru Ali Sevim'in Eskişehir'de yaşayan oğlu Eyüphan Sevim'in sünnet düğününde, babasının adı verilen TOMA sünnet arabası oldu.",
+      "title": "Fon soruşturmasında yeni gelişme. Eski SPK Başkanı için karar verildi",
+      "summary": "Eski SPK Başkanı İbrahim Ömer Gönül hakkında Hazine ve Maliye Bakanlığı'ndan istenen soruşturma izni için Teftiş Kurulu görevlendirildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-03T23:36:27+03:00"
+      "publishedAt": "2026-10-04T14:01:55+03:00"
     },
     {
-      "title": "Kaza bölgesinde ikinci kaza!",
-      "summary": "Aydın’ın Nazilli ilçesinde, iddiaya göre alkollü sürücünün kullandığı otomobil, başka bir kazanın olduğu bölgede ikinci bir kazaya neden oldu. Kazada 1’i ağır, 12 kişi yaralandı.",
+      "title": "Adana'da 4,8 büyüklüğünde deprem!",
+      "summary": "AFAD, Adana’nın Saimbeyli ilçesinde saat 14.19’da 4,8 büyüklüğünde bir deprem meydana geldiğini açıkladı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/aydin-da-kaza-bolgesine-giren-otomobil-ikinci-kazaya-neden-oldu-1i-agir-12-yarali-3917066",
-      "publishedAt": "Sun, 04 Oct 2026 03:05:36 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-adana-da-4-8-buyuklugunde-deprem-3917148",
+      "publishedAt": "Sun, 04 Oct 2026 11:35:28 GMT"
     },
     {
-      "title": "\"Yaz-kış saati uygulaması sonlandırılsın\"",
-      "summary": "ABD Başkanı Donald Trump, ülkedeki yaz-kış saati uygulamasını kaldıracak düzenlemenin Senato'da oylanarak kabul edilmesi çağrısında bulundu.",
+      "title": "TEKNOFEST'te maden teknolojileri yarıştı",
+      "summary": "TEKNOFEST kapsamında bu yıl ilk kez düzenlenen Maden Teknolojileri Yarışması, madencilik sektörünün geleceğine yönelik geliştirilen yeni teknolojileri Şanlıurfa’da bir araya getirdi. Türk Altın İşletmeleri yürütücülüğünde bu yıl ilk kez düz",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/trump-abd-deki-yaz-kis-saati-uygulamasinin-sona-ermesi-gerektigini-belirtti-3917065",
-      "publishedAt": "Sun, 04 Oct 2026 02:54:17 GMT"
+      "link": "https://www.haberturk.com/ekonomi/teknofest-te-maden-teknolojileri-yaristi-3917115",
+      "publishedAt": "Sun, 04 Oct 2026 11:34:49 GMT"
     },
     {
-      "title": "AFAD duyurdu: Ege Denizi’nde deprem",
-      "summary": "AFAD Ege Denizi'nde 4.4 büyüklüğünde bir deprem meydana geldiğini bildirdi.",
+      "title": "Marcao'nun sakatlık laneti!",
+      "summary": "İspanya La Liga ekiplerinden Sevilla'da kariyerini sürdüren Marcao, 286 gün sonra sakatlıktan dönerken; Aston Villa ile oynanan maçın 25. dakikasında yeniden sakatlandı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/afad-duyurdu-ege-denizinde-deprem-3917064",
-      "publishedAt": "Sun, 04 Oct 2026 02:10:17 GMT"
+      "link": "https://www.haberturk.com/spor/foto/marcao-nun-sakatlik-laneti-286-gun-sonra-yeniden-3917147",
+      "publishedAt": "Sun, 04 Oct 2026 11:24:07 GMT"
     },
     {
-      "title": "Motosiklet ile sepetli vinç çarpıştı: 1 ölü, 1 ağır yaralı",
-      "summary": "Bursa’nın İnegöl ilçesinde sepetli vinç ile çarpışan motosikletin sürücüsü Kemal Derviş (21) öldü, beraberindeki Mustafa Can Ö. ise ağır yaralandı.",
+      "title": "4 yıl nezle sandığı burun akıntısının sebebi şoke etti",
+      "summary": "Ankara'da Rukiye Ağaçayak'ın (38), sol burun deliğinden akan şeffaf sıvının, beyin omurilik sıvısı olduğu ve 4 yıl önce geçirdiği trafik kazasına bağlı beyin tabanında oluşan açıklık nedeniyle meydana geldiği belirlendi. Ağaçayak, burun içi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/bursa-da-motosiklet-ile-sepetli-vinc-carpisti-1-olu-1-agir-yarali-3917063",
-      "publishedAt": "Sun, 04 Oct 2026 00:57:48 GMT"
+      "link": "https://www.haberturk.com/saglik/4-yil-nezle-sandigi-burun-akintisinin-sebebi-soke-etti-haberler-3917146",
+      "publishedAt": "Sun, 04 Oct 2026 11:19:18 GMT"
     },
     {
-      "title": "Kızıyla görüşen genci öldürdü!",
-      "summary": "Antalya’nın Gazipaşa ilçesinde yol kenarında 20 yaşında bir erkek cesedi bulundu. Yapılan incelemede gencin bıçaklanarak öldürüldüğü tespit edilirken, cinayetin 16 yaşındaki kızıyla görüştüğü gerekçesiyle baba tarafından işlendiği belirlend",
+      "title": "Fon soruşturmasında yeni gelişme: Başsavcılık soruşturma izni talep etti",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı Aklama Suçları Soruşturma Bürosu, fon soruşturması kapsamında yeni bir adım attı. Başsavcılık, yatırım fonlarının denetiminde görev ve sorumluluklarını yerine getirmediğine ilişkin “açık ve yeterli emareler”",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/kan-donduran-cinayet-kiziyla-gorusen-genci-oldurdu-3917062",
-      "publishedAt": "Sat, 03 Oct 2026 23:11:19 GMT"
+      "link": "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-yeni-gelisme-bassavcilik-sorusturma-izni-talep-etti-3917126",
+      "publishedAt": "Sun, 04 Oct 2026 11:16:18 GMT"
     },
     {
-      "title": "İsrail, yolcu listesini 2 gün önce almış",
-      "summary": "İsrail'in, Dubai-Tel Aviv seferini yaptığı sırada Suudi Arabistan’a acil iniş yapmak zorunda kalan Flydubai uçağındaki yolcu ve mürettebat listesini 2 gün öncesinden aldığı bildirildi.",
+      "title": "Girne açıklarındaki bir naaşa daha ulaşıldı",
+      "summary": "Girne açıklarında meydana gelen gemi faciasının ardından sürdürülen arama çalışmalarında bir naaşa daha ulaşıldığı açıklandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/israilin-flydubai-ucagindaki-yolcu-ve-murettebat-listesini-48-saat-oncesinden-aldigi-ortaya-cikti-3917060",
-      "publishedAt": "Sat, 03 Oct 2026 22:43:00 GMT"
+      "link": "https://www.haberturk.com/gundem/girne-aciklarindaki-gemi-faciasinda-bir-naasa-daha-ulasildi-3917145",
+      "publishedAt": "Sun, 04 Oct 2026 11:11:38 GMT"
+    },
+    {
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 11:25:35 GMT"
+    },
+    {
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 06:19:17 GMT"
     },
     {
       "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
@@ -156,22 +172,6 @@
       "publishedAt": "Sun, 04 Oct 2026 00:11:25 GMT"
     },
     {
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 14:27:33 GMT"
-    },
-    {
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 16:16:49 GMT"
-    },
-    {
       "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
       "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
       "source": "BBC World",
@@ -180,60 +180,76 @@
       "publishedAt": "Sun, 04 Oct 2026 03:42:15 GMT"
     },
     {
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 03 Oct 2026 04:38:31 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 11:03:20 GMT"
     },
     {
-      "title": "Houthis claim strike on Saudi energy facility as Yemen fighting intensifies",
-      "summary": "Smoke and fire seen near an Aramco site in Riyadh as Houthis allege precise missile and drone strikes.",
+      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+      "summary": "Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 03:33:49 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 11:15:34 +0000"
     },
     {
-      "title": "Ballots reach remote Indigenous Brazilians ahead of presidential election",
-      "summary": "Ballot boxes reach remote Indigenous communities by boat as Brazil votes, with Amazon conservation a key issue.",
+      "title": "Iran says Hormuz to remain closed until US meets conditions",
+      "summary": "Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ballots-reach-remote-indigenous-brazilians-ahead-of-presidential-election?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 02:57:48 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 11:11:30 +0000"
     },
     {
-      "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa",
-      "summary": "Returnees face economic hardship and limited support as they try to rebuild in Zimbabwe.",
+      "title": "Ethiopian government forces seize Tigray capital Mekelle as TPLF withdraws",
+      "summary": "Federal troops and allied fighters seen in control of the city after capturing main regional airport.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/4/zimbabweans-struggle-to-rebuild-after-fleeing-xenophobia-in-south-africa?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 01:55:46 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 11:05:02 +0000"
     },
     {
-      "title": "Ethiopian government troops seize Tigray’s capital Mekelle",
-      "summary": "Ethiopia’s government forces say they’ve seized Mekelle from Tigray fighters after a week of intense battles.",
+      "title": "Red Bull’s Verstappen wins rain-delayed Bahrain GP F1 race in Sepang",
+      "summary": "Championship leader Kimi Antonelli of Mercedes and Ferrari's Lewis Hamilton finish second and third.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 01:41:28 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/4/red-bulls-verstappen-wins-rain-delayed-bahrain-gp-f1-race-in-sepang?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 11:02:33 +0000"
     },
     {
-      "title": "Cornell president vows transparency amid outrage over fraternity rape case",
-      "summary": "Michael Kotlikoff expresses deep sorrow over the case, calling it one of the most challenging periods for Cornell.",
+      "title": "Is the Sudanese army gaining momentum against the RSF?",
+      "summary": "The SAF claims victory in a vital North Kordofan town, weakening RSF’s access to fighters and supply routes.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/4/cornell-president-vows-transparency-amid-outrage-over-fraternity-rape-case?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 01:15:58 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 10:56:12 +0000"
     },
     {
-      "title": "Serbian populist leader Vucic launches campaign for prime minister",
-      "summary": "Former Serbian President Aleksandar Vucic is seeking to extend his hold on power through a parliamentary vote.",
+      "title": "Will Brazil’s Lula halt the right-wing wave sweeping Latin America?",
+      "summary": "Lula has remained a symbol for much of the global left amid the rise of the far right in Latin America.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/4/serbian-populist-leader-vucic-launches-campaign-for-prime-minister?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 00:26:22 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/4/will-brazils-lula-halt-the-right-wing-wave-sweeping-latin-america?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 10:55:40 +0000"
+    },
+    {
+      "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+      "summary": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
+      "publishedAt": "Sun, 04 Oct 2026 06:00:00 -0400"
+    },
+    {
+      "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+      "summary": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
+      "publishedAt": "Sun, 04 Oct 2026 05:00:00 -0400"
     },
     {
       "title": "Coast Guard finds debris from medical plane carrying 6 people",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
       "publishedAt": "Sat, 03 Oct 2026 07:47:09 -0400"
-    },
-    {
-      "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
-      "summary": "Beloved for its dinosaurs, Philadelphia's storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
-      "publishedAt": "Sat, 03 Oct 2026 07:00:00 -0400"
-    },
-    {
-      "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
-      "summary": "HBO's War is intended to be an anthology series about two dueling London law firms. The first season stars Dominic West and Sienna Miller as a high-profile couple in the midst of a very nasty divorce.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
-      "publishedAt": "Sat, 03 Oct 2026 07:00:00 -0400"
     },
     {
       "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
@@ -320,17 +320,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 15,
-      "description": "mainly clear",
+      "tempC": 20,
+      "description": "partly cloudy",
       "high": 20,
       "low": 15
     },
     {
       "place": "London",
-      "tempC": 14,
-      "description": "clear sky",
-      "high": 22,
-      "low": 14
+      "tempC": 18,
+      "description": "mainly clear",
+      "high": 21,
+      "low": 12
     }
   ],
   "facts": [
