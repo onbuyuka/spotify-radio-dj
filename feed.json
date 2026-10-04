@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-04T20:50:31.692Z",
+  "updated": "2026-10-04T23:48:45.615Z",
   "news": [
+    {
+      "title": "Riyad'da ikinci Mekke İttifakı toplantısı: Gündemde hangi konular var?",
+      "summary": "Toplatının odak noktasının Suudi Arabistan ile İran-destekli Husiler arasında artan çatışmaların olması bekleniyor. Yemen hükümeti, Husilerin elindeki tüm toprakları ele geçirmek için askeri bir operasyon başlattı",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c6pwg5q4jp5vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 23:12:09 GMT"
+    },
     {
       "title": "Adana ve Osmaniye'de depremler: En büyüğü 5.2 olan beş sarsıntı",
       "summary": "Adana'nın Saimbeyli ilçesi ve yakındaki Osmaniye'nin Sumbas ilçesinde 4 Ekim'de peş peşe beş deprem kaydedildi. Depremlerin en büyük 5.2 olarak açıklandı.",
@@ -10,28 +18,20 @@
       "publishedAt": "Sun, 04 Oct 2026 18:16:43 GMT"
     },
     {
-      "title": "Yemen hükümeti, toprakları geri almak için Husilere karşı savaş başlattı",
-      "summary": "Yemen'in uluslararası alanda tanınan hükümetinin lideri, İran destekli Husilerin elindeki tüm toprakları ele geçirmek için askeri bir operasyon başlatacağını duyurdu. Raşad el-Alimi savaş açıklamasını Suudi Arabistan'ın Riyad kentinden yapt",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cq4g1rkjy4vpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 17:13:17 GMT"
-    },
-    {
-      "title": "Brezilya'da başkanlık seçimi: Lula ve oğul Bolsonaro yarışıyor",
-      "summary": "Brezilya 160 milyon kayıtlı seçmen bugün sandık başına giderker, anketler görevdeki solcu Lula ile sağcı rakibi Flavio Bolsonaro (eski devlet başkanı Jair Bolsonaro'nun oğlu) arasındaki seçimde kesin bir kazanan olmayacağını gösteriyor.",
+      "title": "Brezilya başkanlık seçimlerinde oğul Bolsonaro, Lula karşısında önde",
+      "summary": "Yüz altmış milyon kayıtlı seçmenin bulunduğu Brezilya'da oy verme işlemi tamamlandı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 13:31:52 GMT"
+      "publishedAt": "Sun, 04 Oct 2026 23:18:10 GMT"
     },
     {
-      "title": "ABD'de Christa Pike infazı sonrası halen yoğun bakımda",
-      "summary": "ABD‘nin Tennessee eyaletinde vücuduna iki set zehirli ilaç enjekte edilmesi sonrası hayatta kalan idam mahkumu Christa Pike'ın yoğun bakımda tedavisi sürüyor.",
+      "title": "Gazze'de geçen yaz: Fare istilasındaki kamplar ve iyileşmeyen yaralar",
+      "summary": "Filistinliler, BBC'ye Gazze'de İsrail'in saldırıları sonucu altyapılarının neredeyse tamamen yıkılmasının ardından yaşadıkları zorlukları anlattı. Fare ve gelincik istilasına uğrayan kamplardan ve antibiyotik bulunamadığı için kapanmayan ya",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cqx2zxpexreeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 17:27:18 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cwdd84ezqy03o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 23:13:09 GMT"
     },
     {
       "title": "2026'nın en komik 10 hayvan fotoğrafı",
@@ -48,6 +48,20 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cmx2w84w4nxeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 03 Oct 2026 16:40:17 GMT"
+    },
+    {
+      "title": "Son dakika Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana deprem Kandilli ve AFAD son depremler listesi 05 Ekim 2026",
+      "summary": "Son dakika Adana deprem haberleri.. Adana'da deprem mi oldu? Az önce deprem Adana'da nerede oldu? Adana Kandilli ve AFAD son depremler.. 05 Ekim 2026 Adana deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Adana'da? Adan",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-05T02:10:00+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 05 Ekim 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 05 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-05T02:30:00+03:00"
     },
     {
       "title": "Gürbulak Sınır Kapısında memura bıçaklı tehdit",
@@ -78,66 +92,52 @@
       "publishedAt": "2026-10-04T20:15:59+03:00"
     },
     {
-      "title": "Ehliyetsiz, plakasız, 16 yaşındaki motosiklet sürücüsüne 351 bin lira ceza",
-      "summary": "Kayseri'de polisin \"dur\" ihtarına uymayan ehliyetsiz 16 yaşındaki motosiklet sürücüsüne 351 bin lira idari para cezası uygulandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-04T20:06:35+03:00"
-    },
-    {
-      "title": "El değmeden üretiliyor, 1 kilogramı 400 bin liraya satıldı",
-      "summary": "Batman'ın Sason ilçesinde doğal ortamda, el değmeden üretilen ve Sason'a özgü tescilli balın 1 kilogramı, açık artırmada tam 400 bin liraya alıcı buldu.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-04T18:17:30+03:00"
-    },
-    {
-      "title": "İsrail'e ek asker ve uçak sevkiyatı iddiası",
-      "summary": "İsrail basınında ABD'nin, Orta Doğu'da olası gerilime karşı hazırlık kapsamında İsrail'e ek asker ve uçak göndermeye hazırlandığı öne sürüldü.",
+      "title": "Adana ve Osmaniye'de korkutan depremler!",
+      "summary": "Adana'nın Saimbeyli ilçesinde 4,1 büyüklüğünde deprem meydana geldi. AFAD, Adana’nın Saimbeyli ilçesinde saat 14.19’da 4,8 büyüklüğünde bir deprem meydana geldiğini açıklamıştı. Bu depremden 17 dakika sonra kentte bir deprem daha meydana ge",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/israil-e-ek-asker-ve-ucak-sevkiyati-iddiasi-3917199",
-      "publishedAt": "Sun, 04 Oct 2026 19:45:16 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-adana-da-4-8-buyuklugunde-deprem-3917148",
+      "publishedAt": "Sun, 04 Oct 2026 23:04:50 GMT"
     },
     {
-      "title": "\"Güzel sonuç alacağımıza dair ümitliyim\"",
-      "summary": "UEFA Uluslar A Ligi 1. Grup 4. maçında A Milli Takımımız, İtalya'ya konuk olacak. Zorlu mücadele öncesi A Milli Takım Teknik Direktörü Vincenzo Montella ve futbolcu Ozan Kabak, basın toplantısında soruları yanıtladı.",
+      "title": "Ceviz büyüklüğünde dolu yağdı!",
+      "summary": "Hatay'da akşam saatlerinde etkili olan ceviz büyüklüğündeki dolu yağışı, bazı araçlarda maddi hasara neden oldu. Kısa sürede çevreyi beyaza bürüyen dolu yağışı cep telefonu kameralarına yansırken, yağışlı havanın gece boyunca etkili olması ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/italya-maci-oncesi-a-milli-takim-teknik-direktoru-vincenzo-montella-guzel-bir-sonuc-alacagimiza-dair-umitliyim-3917201",
-      "publishedAt": "Sun, 04 Oct 2026 19:43:34 GMT"
+      "link": "https://www.haberturk.com/gundem/ceviz-buyuklugunde-dolu-yagdi-3917207",
+      "publishedAt": "Sun, 04 Oct 2026 22:51:21 GMT"
     },
     {
-      "title": "\"Hüma benim kızım çıkacak!\"",
-      "summary": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'in yeni bölümünden bir tanıtım daha yayınlandı",
+      "title": "İsrail ordusu Suriye'de 1 kişiyi öldürdü",
+      "summary": "İsrail ordusu, Suriye'nin güneyinde işgal ettiği bölgedeki bir askeri noktaya \"girmeye çalıştığı\" iddiasıyla bir kişiyi öldürdü.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-bolum-tanitimi-3917202",
-      "publishedAt": "Sun, 04 Oct 2026 19:42:42 GMT"
+      "link": "https://www.haberturk.com/dunya/israil-ordusu-suriye-de-1-kisiyi-oldurdu-3917208",
+      "publishedAt": "Sun, 04 Oct 2026 22:48:02 GMT"
     },
     {
-      "title": "Şans Topu sonuçları açıklandı 4 Ekim 2026",
-      "summary": "Şans Topu'nda merakla beklenen çekiliş sonuçları açıklandı. 4 Ekim 2026 Pazar günü gerçekleştirilen Şans Topu çekilişinin ardından gözler açıklanan numaralara çevrildi. Büyük ikramiyenin hangi talihli ya da talihlilere isabet ettiği de çeki",
+      "title": "Brezilya'da halk, sandık başına gitti",
+      "summary": "Brezilya'da halkın, devlet başkanının yanı sıra eyalet valileri, Kongre üyeleri ve eyalet meclisi üyelerini belirlemek üzere sandık başına gittiği seçimlerde oy verme işlemi başladı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/sans-topu-sonuclari-aciklandi-4-ekim-2026-sans-topu-cekilis-sonuclari-sorgulama-ekrani-3917181",
-      "publishedAt": "Sun, 04 Oct 2026 19:36:25 GMT"
+      "link": "https://www.haberturk.com/dunya/brezilya-da-halk-sandik-basina-gitti-3917205",
+      "publishedAt": "Sun, 04 Oct 2026 22:20:54 GMT"
     },
     {
-      "title": "Yeni bölüm tanıtımı yayınlandı",
-      "summary": "SHOW TV’nin sevilen dizisi 'Muhtemel Aşk'ın yeni bölümünden merak uyandıran tanıtım izleyiciyle buluştu",
+      "title": "Polisten hayat kurtaran hamle",
+      "summary": "Hatay'ın Dörtyol ilçesinde, yemek yerken soluk borusuna parça kaçan ve nefes almakta güçlük çeken motosiklet sürücüsü, devriye görevindeki polis ekiplerinin zamanında müdahalesiyle kurtarıldı. O anlar güvenlik kamerasına yansıdı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/muhtemel-ask-in-yeni-bolum-tanitimi-yayinlandi-3917200",
-      "publishedAt": "Sun, 04 Oct 2026 19:30:37 GMT"
+      "link": "https://www.haberturk.com/gundem/polisten-hayat-kurtaran-hamle-3917206",
+      "publishedAt": "Sun, 04 Oct 2026 21:44:12 GMT"
     },
     {
-      "title": "İran Petrol Bakanı istifa etti",
-      "summary": "İran Cumhurbaşkanlığı Ofisi İletişim Dairesi Başkan Yardımcısı Mehdi Tabatabai, Petrol Bakanı Muhsin Paknejad’ın istifa ettiğini duyurdu.",
+      "title": "'Bir Çeyiz Sözleşmesi' Tiyatro Festivali'nde",
+      "summary": "30. İstanbul Tiyatro Festivali’nin merakla beklenen, yapımlarından Bir Çeyiz Sözleşmesi’nin afişi yayınlandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/iran-petrol-bakani-istifa-etti-3917187",
-      "publishedAt": "Sun, 04 Oct 2026 19:18:01 GMT"
+      "link": "https://www.haberturk.com/kultur-sanat/bir-ceyiz-sozlesmesi-tiyatro-festivali-nde-3917046",
+      "publishedAt": "Sun, 04 Oct 2026 21:36:59 GMT"
     },
     {
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
@@ -164,6 +164,14 @@
       "publishedAt": "Sun, 04 Oct 2026 16:51:30 GMT"
     },
     {
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 04 Oct 2026 23:45:53 GMT"
+    },
+    {
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
       "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
       "source": "BBC World",
@@ -180,60 +188,60 @@
       "publishedAt": "Sun, 04 Oct 2026 16:24:48 GMT"
     },
     {
-      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-      "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 04 Oct 2026 14:36:57 GMT"
-    },
-    {
-      "title": "Debris found near Nantucket believed to be from missing medical plane",
-      "summary": "The US Coast Guard says a field of debris found near Nantucket is believed to be from an emergency medical plane.",
+      "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
+      "summary": "Jesse Marsch alleges Man City's financial wrongdoing was widely known in the Premier League, and relegation must follow.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 20:21:09 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/4/manchester-city-must-be-relegated-says-canadas-ex-leeds-manager?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 23:22:02 +0000"
     },
     {
-      "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
-      "summary": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.",
+      "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
+      "summary": "Ex-Manchester United and Real Madrid star Cristiano Ronaldo left Portugal squad on Wednesday, but door open for return.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 20:00:05 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 23:16:18 +0000"
     },
     {
-      "title": "Imran Khan’s party launches march to Islamabad demanding his release",
-      "summary": "Supporters of jailed former Pakistani prime minister Imran Khan have launched a long march towards Islamabad.",
+      "title": "Mysterious luminous object burns in the skies above Libya",
+      "summary": "A mysterious object has been filmed flying over Tripoli and western Libya, followed by reports of a loud explosion.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/imran-khans-party-launches-march-to-islamabad-demanding-his-release?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 19:53:55 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 22:56:32 +0000"
     },
     {
-      "title": "Will elections bring change to multi-ethnic Bosnia and Herzegovina?",
-      "summary": "Balkan nation seeks EU membership, but divisions threaten that goal.",
+      "title": "Man’s miraculous catch saves child after balcony fall in Egypt",
+      "summary": "Dramatic video shows a man in Egypt rushing and catching a child who fell from the second floor.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/4/will-elections-bring-change-to-multi-ethnic-bosnia-and-herzegovina?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 19:46:34 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mans-miraculous-catch-saves-child-after-balcony-fall-in-egypt?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 22:47:18 +0000"
     },
     {
-      "title": "France to shutter up to 500 schools as more student protests called",
-      "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
+      "title": "Nicaragua says it will withdraw from Central American Parliament",
+      "summary": "The country's crackdown on human rights has left it increasingly isolated in Latin America.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/4/france-to-shutter-up-to-500-schools-as-more-student-protests-called?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 19:41:04 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 22:36:54 +0000"
     },
     {
-      "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
-      "summary": "Supporters of jailed former prime minister have set off from northwest Pakistan towards Islamabad.",
+      "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+      "summary": "The abrupt redeployment to the US comes after several 'terrorism-related' arrests were made outside RAF Fairford.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss",
-      "publishedAt": "Sun, 04 Oct 2026 19:20:08 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
+      "publishedAt": "Sun, 04 Oct 2026 22:23:30 +0000"
+    },
+    {
+      "title": "Brazil votes, with Lula facing Bolsonaro's son",
+      "summary": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+      "publishedAt": "Sun, 04 Oct 2026 17:52:09 -0400"
     },
     {
       "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
@@ -276,14 +284,6 @@
       "publishedAt": "Sun, 04 Oct 2026 06:00:00 -0400"
     },
     {
-      "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
-      "summary": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
-      "publishedAt": "Sun, 04 Oct 2026 05:00:00 -0400"
-    },
-    {
       "title": "Egyptian journalist faces terrorism charges after entire newsroom detained",
       "summary": "Calls for release of six Matsadaash staff after one is charged, while whereabouts of other five remain unknownAn Egyptian journalist has been charged with joining a terrorist group, days after an entire newsroom was detained in what rights ",
       "source": "The Guardian",
@@ -320,17 +320,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 16,
+      "tempC": 15,
       "description": "mainly clear",
-      "high": 21,
-      "low": 15
+      "high": 22,
+      "low": 14
     },
     {
       "place": "London",
-      "tempC": 19,
-      "description": "overcast",
+      "tempC": 16,
+      "description": "clear sky",
       "high": 22,
-      "low": 12
+      "low": 13
     }
   ],
   "facts": [
