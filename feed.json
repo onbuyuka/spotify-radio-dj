@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-06T12:42:28.880Z",
+  "updated": "2026-10-06T19:57:53.309Z",
   "news": [
+    {
+      "title": "Cemil Tugay sessizliğini korurken, AKP'den İzmir marşlı paylaşım",
+      "summary": "Mutlak butlan kararı sonrası haziran ayında CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın 7 Ekim'de AKP'ye katılması bekleniyor. AKP'nin resmi hesabından da 6 Ekim akşamı İzmir paylaşımı yapıldı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cqkgk74ededlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 18:25:46 GMT"
+    },
+    {
+      "title": "AB'den yeni genişleme yaklaşımı: Türkiye nasıl etkilenecek?",
+      "summary": "Avrupa Komisyonu, aday ülkelerin üyelik öncesinde AB politikalarına ve iç pazara kademeli entegrasyonunu öngören yeni genişleme yaklaşımını açıkladı. Türkiye de bu çerçevenin kapsamına girse de, AB ile ilişkilerdeki mevcut tablo nedeniyle y",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cqdr8dkr6yllo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 15:47:26 GMT"
+    },
+    {
+      "title": "Tutuklanan Vahap Seçer: 'Mersin halkının iradesine ağır müdahalede bulunulmuştur'",
+      "summary": "Mersin'de CHP'li il ve ilçe belediyelerine yapılan operasyonlarla gözaltına alınan Mersin Büyükşehir Belediye Başkanı Vahap Seçer tutuklandı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c8zxzx1nnl6wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 17:39:56 GMT"
+    },
     {
       "title": "Putin'in Karadeniz kıyısındaki konutu gizlice yeniden inşa ediliyor",
       "summary": "Uydu görüntüleri, savaş zamanında yapılan büyük bir dönüşümü ortaya koyarken, mahkeme kayıtları ve elden nakit ödeme yapılan iş ilanları, bu devasa projenin gizli evrak izini gözler önüne seriyor.",
@@ -8,30 +32,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c6kgqv8vdp01o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 06 Oct 2026 11:18:11 GMT"
-    },
-    {
-      "title": "Bahçeli: Erdoğan'ın bir daha aday olabilmesi için TBMM'de 'seçimlerin yenilenmesi' kararı alınmalı",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, 2028'de seçim çağrısı yaparak Cumhur İttifakı'nın adayının Recep Tayyip Erdoğan olduğunu söyledi. Partisinin TBMM'deki grup toplantısında konuşan Bahçeli, Cumhurbaşkanı'nın üçüncü döneminin \"ülkemizde, bölg",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cxr5ymd258e3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 09:15:11 GMT"
-    },
-    {
-      "title": "Rusya'da veba araştırma merkezindeki çalışanın ölümüyle ilgili neler biliniyor?",
-      "summary": "Rus basını geçen hafta, hayatını kaybeden kadınla temas ettiği bilinen yaklaşık 200 kişinin tedbir amacıyla tıbbi gözlem altında tutulduğunu bildirdi. Olayla ilgili neler biliniyor, endişe verici mi?",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c3j47v5jype7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 10:24:59 GMT"
-    },
-    {
-      "title": "Bekir Bozdağ, TBMM Başkanvekilliği görevinden istifa etti",
-      "summary": "AKP Şanlıurfa Milletvekili Bekir Bozdağ, sağlık sorunları gerekçesiyle TBMM Başkanvekilliği görevinden istifa etti",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c5n492g194mno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 10:43:43 GMT"
     },
     {
       "title": "Nobel Fizik Ödülü, uzaydan gelen 'hayalet parçacıkların' izini süren Francis Halzen'a verildi",
@@ -42,102 +42,110 @@
       "publishedAt": "Tue, 06 Oct 2026 11:11:38 GMT"
     },
     {
-      "title": "Fon soruşturmalarıyla ilgili son gelişmeler neler?",
-      "summary": "Fon soruşturmalarıyla ilgili konuşan Adalet Bakanı Akın Gürlek, zararın iki katının karşılanmasının etkin pişmanlık sebebi olduğunu ancak bunun kişiyle ilgili hukuki \"işlem yapılmayacağı\" anlamına gelmediğini söyledi.",
+      "title": "AKP'den 1 milyon TL'ye kadar ödemeler için kanun teklifi hazırlığı",
+      "summary": "AKP'nin Meclis grubu, devam eden fon krizinde yatırımcının 1 milyon TL'ye kadar olan ödemeleri için bir kanun teklifi hazırlıyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cr86zq1lz07yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 12:01:45 GMT"
+      "link": "https://www.bbc.com/turkce/articles/ckgeljxrzx9xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 19:26:18 GMT"
     },
     {
-      "title": "Alarmı duyunca kaçtı: Oyuncak tabancalı soygun girişimi kamerada",
-      "summary": "Tekirdağ'ın Kapaklı ilçesinde oyuncak tabancayla kuyumcu soymak isteyen şüpheli, kadın görevlinin alarma basması üzerine panikleyerek kaçtı.",
+      "title": "Ferdi Zeyrek'in elektrik akımına kapılarak ölmesine ilişkin ek bilirkişi raporu tamamlandı",
+      "summary": "Eski Manisa Büyükşehir Belediye Başkanı Ferdi Zeyrek'in elektrik akımına kapılarak hayatını kaybetmesine ilişkin ek bilirkişi raporu tamamlandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-06T15:31:08+03:00"
+      "publishedAt": "2026-10-06T22:50:18+03:00"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan: Yapay zeka emeği devre dışı bıraktı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yapay zekanın emeği devre dışı bıraktığını ve sınayıcı olduğuna işaret edip \"Akademik süreçlerde de insan faktörü azalıyor.\" dedi.",
+      "title": "Ataşehir ve Eyüpsultan’da başkanvekili seçimi 10 Ekim’de",
+      "summary": "İstanbul Valiliği, Ataşehir ve Eyüpsultan belediye meclislerinin belediye başkan vekilini seçmek üzere 10 Ekim Cumartesi günü toplanacağını bildirdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-06T15:29:23+03:00"
+      "publishedAt": "2026-10-06T22:29:01+03:00"
     },
     {
-      "title": "Mardinli Marilyn Monroe'ya hapis cezası",
-      "summary": "Mardinli Marilyn Monroe olarak bilinen Melek Karahan, bir sosyal medya paylaşımı gerekçe gösterilerek açılan davada 1 yıl 3 ay hapis cezasına çarptırıldı.",
+      "title": "AK Parti’den dikkat çeken İzmir paylaşımı: 7 Ekim detayı",
+      "summary": "AK Parti’nin sosyal medya hesabından paylaşılan İzmir temalı videoda, çöp yığınlarının arasından açan çiçeklere yer verildi. İzmir Marşı’nın kullanıldığı videonun sonunda 07.10.2026 tarihi gösterildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-06T14:20:32+03:00"
+      "publishedAt": "2026-10-06T21:31:24+03:00"
     },
     {
-      "title": "Bakan Gürlek'ten süresiz nafaka açıklaması: \"Hakkaniyete aykırı\"",
-      "summary": "Adalet Bakanı Akın Gürlek, süresiz nafakanın hakkaniyete aykırı olduğunu belirterek daha adaletli bir düzenleme yapmak istediklerini dile getirdi.",
+      "title": "İstanbul'da yatırım dolandırıcılığı operasyonu: 95 gözaltı",
+      "summary": "İstanbul'da uluslararası yatırım dolandırıcılığı şebekelerine yönelik operasyonda 95 şüpheli gözaltına alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-06T14:25:06+03:00"
+      "publishedAt": "2026-10-06T20:17:50+03:00"
     },
     {
-      "title": "Aranan şüpheli kaçmaya çalışırken çatıda böyle yakalandı",
-      "summary": "Esenler'de, kasten öldürme ve farklı suçlardan hakkında 5 ayrı aranma kaydı bulunan İ.Ş., binanın çatısına çıkarak kaçmaya çalışırken yakalandı.",
+      "title": "Ali Emre Ballı aracında ölü bulundu",
+      "summary": "Ali Emre Ballı aracında ölü bulundu. İntihar kuşkusu var. İnceleme başlatıldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-06T13:13:55+03:00"
+      "publishedAt": "2026-10-06T20:29:47+03:00"
     },
     {
-      "title": "Bekir Bozdağ TBMM Başkanvekilliği görevinden istifa etti",
-      "summary": "AK Parti Şanlıurfa Milletvekili Bekir Bozdağ, Meclis Başkanvekilliği görevinden sağlık sorunları nedeniyle istifa etti.",
+      "title": "Booking, Expedia ve Airbnb'ye yeni kurallar",
+      "summary": "Booking, Expedia ve Airbnb gibi yabancı dijital konaklama platformlarına Türkiye’de temsilci bulundurma, izin belgesi alma ve turizm payı ödeme zorunluluğu getirilmesi planlanıyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-06T13:13:52+03:00"
+      "publishedAt": "2026-10-06T19:15:50+03:00"
     },
     {
-      "title": "Başakşehir'deki okul saldırısından acı haber!",
-      "summary": "İstanbul Başakşehir'de bir okulda meydana gelen bıçaklı saldırıyla ilgili yeni ayrıntılar ortaya çıktı. Başka bir Anadolu lisesinde 10. sınıf öğrencisi olduğu öğrenilen 15 yaşındaki kız öğrencinin, evden aldığı bıçakla kendi okulunun ünifor",
+      "title": "\"10 yıl aşk yaşadık\"",
+      "summary": "Ünlü oyuncu Aliye Uzunatağan, merhum meslektaşı Cüneyt Türel'le yaşadığı büyük aşkı anlattı. Uzunatağan, \"Çok büyük bir aşktı. 10 yıl aşk yaşadık; asıl evlilik oydu bence. Çok mutluyduk\" dedi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-istanbul-da-okulda-kavga-yaralilar-var-3917526",
-      "publishedAt": "Tue, 06 Oct 2026 12:27:43 GMT"
+      "link": "https://www.haberturk.com/aliye-uzunatagan-cuneyt-turel-ile-olan-askini-anlatti-3917765-magazin",
+      "publishedAt": "Tue, 06 Oct 2026 19:44:57 GMT"
     },
     {
-      "title": "Kubilay Kaan Kundakçı cinayetinde mütalaa",
-      "summary": "Futbolcu Kubilay Kaan Kundakçı cinayeti davasında savcı mütalaasını açıkladı. Alaaddin Kadayıfçıoğlu hakkında müebbet ve 4 yıl hapis cezası talep eden savcı, İzzet Yıldızhan için de beraat istedi. Savcı Aleyna Kalaycıoğlu için de 1 yıla kad",
+      "title": "İsrail'den Gazze'ye saldırı",
+      "summary": "İsrail ordusunun, Gazze kentinde yerinden edilen Filistinlilerin sığındığı bir okula düzenlediği saldırıda biri çocuk olmak üzere 3 kişi yaralandı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-kubilay-kaan-kundakci-cinayetinde-mutalaa-3917680",
-      "publishedAt": "Tue, 06 Oct 2026 12:26:51 GMT"
+      "link": "https://www.haberturk.com/dunya/israil-den-gazze-ye-saldiri-3917766",
+      "publishedAt": "Tue, 06 Oct 2026 19:33:03 GMT"
     },
     {
-      "title": "Meme Kanseri Farkındalık Ayında sanat ve dayanışma bir arada",
-      "summary": "İstanbul Modern ve Estée Lauder Companies (ELC) Türkiye, Meme Kanseri Farkındalık Ayı kapsamında sanatı paylaşım, dayanışma ve iyi olma hâli etrafında bir buluşma alanına dönüştürüyor. \"Sanattan İlhamla: Sarılarak Saralım\" başlıklı program,",
+      "title": "Ronaldo'dan milli takım açıklaması!",
+      "summary": "Portekiz'in süper yıldızı Cristiano Ronaldo, yaptığı açıklama ile milli takımı bırakmadığını belirtti. Norveç karşısında yedek kulübesinde kalmasının ve Danimarka maçına da ilk 11'de başlamayacağının ardından tecrübeli oyuncu milli takım ka",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/saglik/istanbul-modern-de-meme-kanseri-farkindaligi-sanat-etkinlikleriyle-ele-alinacak-3917552",
-      "publishedAt": "Tue, 06 Oct 2026 12:28:38 GMT"
+      "link": "https://www.haberturk.com/spor/cristiano-ronaldo-dan-beklenen-aciklama-geldi-portekiz-milli-takimi-ni-birakmiyor-3917764",
+      "publishedAt": "Tue, 06 Oct 2026 19:13:57 GMT"
     },
     {
-      "title": "\"İzleme Komisyonu kurulmalı\"",
-      "summary": "DEM Parti Eş Genel Başkanı Tuncer Bakırhan, partisinin TBMM Grup Toplantısı'nda konuştu. Bakırhan, \"Çerçeve yasanın öngördüğü İzleme Komisyonu en kısa zamanda kurulmalı ve çalışmalarına başlamalıdır. Meclis uygulamayı izlemeli, aksayan konu",
+      "title": "AK Parti'den İzmir için dikkat çeken paylaşım",
+      "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın 7 Ekim'deki AK Parti Grup Toplantısı'nda partiye katılacağı yönündeki kulis, AK Parti'nin X hesabından yapılan İzmir temalı paylaşım ile yeni boyut kazandı. Videonun sonunda \"7 Ekim\" tarihini",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-dem-parti-es-genel-baskani-tuncer-bakirhan-izleme-komisyonu-en-kisa-zamanda-kurulmali-3917683",
-      "publishedAt": "Tue, 06 Oct 2026 12:28:18 GMT"
+      "link": "https://www.haberturk.com/gundem/ak-parti-nin-izmir-paylasimi-cemil-tugay-iddialarini-yeniden-gundeme-tasidi-3917759",
+      "publishedAt": "Tue, 06 Oct 2026 19:10:01 GMT"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
-      "summary": "Cumhurbaşkanı Erdoğan, 2026-2027 Akademik Yılı Açılış Töreni'nde yapay zeka uyarısında bulundu. Erdoğan, \"Öğrenci ile akademisyen arasındaki bağ sadece bilgi aktarımından ibaret değildir. Ona bilimsel bir kültür aşılar. Burada ana aktör ins",
+      "title": "Eyüpsultan ve Ateşehir'de seçim tarihl",
+      "summary": "İstanbul Valiliği, görevlerinden uzaklaştırılan Eyüpsultan Belediye Başkanı Mithat Bülent Özmen ile Ataşehir Belediye Başkan Vekili Murat Güneş’in yerine yapılacak başkan vekilliği seçimlerinin 10 Ekim Cumartesi günü gerçekleştirileceğini a",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-cumhurbaskani-erdogan-dan-aciklamalar-3917644",
-      "publishedAt": "Tue, 06 Oct 2026 12:27:23 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-eyupsultan-ve-atesehir-deki-secim-tarihleri-belli-oldu-3917762",
+      "publishedAt": "Tue, 06 Oct 2026 19:02:30 GMT"
     },
     {
-      "title": "TFF'de bir istifa daha!",
-      "summary": "Türkiye Futbol Federasyonu (TFF) Yönetim Kurulu Üyesi Mevlüt Aktan görevinden istifa etti. Aktan, Mustafa Temel Bozbağ'ın ardından TFF Yönetim Kurulu'ndan istifa eden ikinci yönetici oldu. TFF'de istifaların süreceği gelen bilgiler arasında",
+      "title": "Galatasaray deplasmanda mağlup oldu",
+      "summary": "Basketbol Şampiyonlar Ligi B Grubu ilk maçında temsilcimiz Galatasaray MCT Technic, deplasmanda Hırvatistan'ın Cibona Zagreb takımına 96-76 mağlup oldu.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/mevlut-aktan-tff-yonetim-kurulu-ndan-istifa-etti-3917676",
-      "publishedAt": "Tue, 06 Oct 2026 12:24:15 GMT"
+      "link": "https://www.haberturk.com/spor/galatasaray-mct-technic-deplasmanda-cibona-zagreb-e-maglup-oldu-3917763",
+      "publishedAt": "Tue, 06 Oct 2026 18:59:36 GMT"
+    },
+    {
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "summary": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 18:03:19 GMT"
     },
     {
       "title": "Former German spy chief arrested for espionage and treason",
@@ -148,30 +156,6 @@
       "publishedAt": "Tue, 06 Oct 2026 10:05:42 GMT"
     },
     {
-      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-      "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 07:02:24 GMT"
-    },
-    {
-      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-      "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 02:22:24 GMT"
-    },
-    {
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 11:24:19 GMT"
-    },
-    {
       "title": "Ship sinks and crew missing after Black Sea drone attack",
       "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
       "source": "BBC World",
@@ -180,60 +164,100 @@
       "publishedAt": "Tue, 06 Oct 2026 11:53:21 GMT"
     },
     {
-      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-      "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 05 Oct 2026 22:28:02 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 16:22:37 GMT"
     },
     {
-      "title": "Mapping where US bombers are based around the world",
-      "summary": "The US has pulled its B-1 bombers from RAF Fairford amid Iran fears. Here's where else they can fly from.",
-      "source": "Al Jazeera",
+      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/6/mapping-where-us-bombers-are-based-around-the-world?traffic_source=rss",
-      "publishedAt": "Tue, 06 Oct 2026 12:22:54 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 18:05:53 GMT"
     },
     {
-      "title": "Pakistan, Turkiye join Saudi deterrence against Houthis: What that means",
-      "summary": "Islamabad says its role is defensive, but Riyadh's offensive in Yemen tests how long it can stay out of the fight.",
-      "source": "Al Jazeera",
+      "title": "Finland orders halt to work on two Google data centres",
+      "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
-      "publishedAt": "Tue, 06 Oct 2026 12:22:46 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 06 Oct 2026 17:15:46 GMT"
     },
     {
-      "title": "Qatar and India among seven countries bidding for 2036 Olympics, IOC says",
-      "summary": "South Africa, Turkiye, Germany, Hungary and South Korea are on the list of countries revealed by the IOC.",
+      "title": "Russia denies imposing anti-plague measures after lab worker death",
+      "summary": "Russia denies plague cases after laboratory technician's death; US demands 'transparency' as WHO monitors situation.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/10/6/qatar-and-india-among-seven-countries-bidding-for-2036-olympics-ioc-says?traffic_source=rss",
-      "publishedAt": "Tue, 06 Oct 2026 12:19:50 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/6/russia-denies-imposing-anti-plague-measures-after-lab-worker-death?traffic_source=rss",
+      "publishedAt": "Tue, 06 Oct 2026 19:26:27 +0000"
     },
     {
-      "title": "France’s student protests grow as hundreds of schools close",
-      "summary": "Al Jazeera’s Bernard Smith reports from France on the growing student protests across the country.",
+      "title": "Catalan separatist Puigdemont to return to Spain after warrant lifted",
+      "summary": "Spain's Constitutional Court ruled an amnesty law for Catalan separatists applied to the politician.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/frances-student-protests-grow-as-hundreds-of-schools-close?traffic_source=rss",
-      "publishedAt": "Tue, 06 Oct 2026 11:58:53 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/6/catalan-separatist-leader-puigdemont-to-return-home-after-warrant-lifted?traffic_source=rss",
+      "publishedAt": "Tue, 06 Oct 2026 18:58:01 +0000"
     },
     {
-      "title": "Tennis: World number one Sinner will not play in 2026 due to knee injury",
-      "summary": "Jannik Sinner has not competed in a tournament since winning at Wimbledon in July and will continue his recovery.",
+      "title": "Amid protests, Kosovo’s political deadlock raises prospect of new elections",
+      "summary": "Kosovo faces tensions as protests against former rebel leaders’ convictions coincide with the prospect of new elections.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/10/6/tennis-world-number-one-sinner-will-not-play-in-2026-due-to-knee-injury?traffic_source=rss",
-      "publishedAt": "Tue, 06 Oct 2026 11:55:47 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/6/amid-protests-kosovos-political-deadlock-raises-prospect-of-new-elections?traffic_source=rss",
+      "publishedAt": "Tue, 06 Oct 2026 18:25:45 +0000"
     },
     {
-      "title": "How Palestinian reporters defied Israel’s genocide to redefine journalism",
-      "summary": "Western media under scrutiny for promoting Israeli narrative rather than standing up for vulnerable journalists in Gaza.",
+      "title": "Indian opposition leaders detained during voter lists protest",
+      "summary": "Police detained Indian opposition leaders during a protest outside the Election Commission in New Delhi where lawmakers",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism?traffic_source=rss",
-      "publishedAt": "Tue, 06 Oct 2026 11:47:03 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/indian-opposition-leaders-detained-during-voter-lists-protest?traffic_source=rss",
+      "publishedAt": "Tue, 06 Oct 2026 17:47:05 +0000"
+    },
+    {
+      "title": "Tuareg rebels withdraw from strategic town of Kidal in northern Mali",
+      "summary": "The Azawad Liberation Front said sustained air strikes by Malian troops and Russian allies forced its tactical retreat.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali?traffic_source=rss",
+      "publishedAt": "Tue, 06 Oct 2026 17:46:52 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Tension high in Israel ahead of October 7",
+      "summary": "Jerusalem Daily: Tension high in Israel ahead of October 7",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
+      "publishedAt": "Tue, 06 Oct 2026 17:39:19 +0000"
+    },
+    {
+      "title": "Cornell names former acting U.S. attorney general to review rape case",
+      "summary": "Cornell University names Sally Yates, former acting U.S. attorney general and career federal prosecutor, to lead an independent review into how the school handled a former student's rape allegations.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/06/nx-s1-5992799/cornell-yates-rape-case-updates-review",
+      "publishedAt": "Tue, 06 Oct 2026 14:31:45 -0400"
+    },
+    {
+      "title": "France's police fire tear gas and water cannons as school protests sweep the country",
+      "summary": "More than a quarter of a million people rallied nationwide to support school students demanding more education funding, according to government figures, with thousands of arrests.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+      "publishedAt": "Tue, 06 Oct 2026 14:05:44 -0400"
+    },
+    {
+      "title": "Here are the finalists for the 2026 National Book Awards",
+      "summary": "Three-time National Book Award finalist Edwidge Danticat and debut novelist Morgan Thomas are up for the fiction prize. Nonfiction books cover the prison system and music, and queer parenthood.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
+      "publishedAt": "Tue, 06 Oct 2026 10:30:20 -0400"
     },
     {
       "title": "What to know about nationwide protests in India over voter list changes",
@@ -260,36 +284,12 @@
       "publishedAt": "Tue, 06 Oct 2026 07:31:48 -0400"
     },
     {
-      "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-      "summary": "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story. And, today, a mega merger between Paramount and Warner Bros. is set to close.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
-      "publishedAt": "Tue, 06 Oct 2026 07:19:25 -0400"
-    },
-    {
-      "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
-      "summary": "While Trump pushes to get his name on the Kennedy Center and other public sites, history shows that sitting presidents have almost always avoided putting their brands on government assets.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
-      "publishedAt": "Tue, 06 Oct 2026 07:00:00 -0400"
-    },
-    {
-      "title": "What voters in 6 key states could tell us about the 2026 midterms",
-      "summary": "Morning Edition is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-      "publishedAt": "Tue, 06 Oct 2026 07:00:00 -0400"
-    },
-    {
       "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
-      "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on SaturdayKenya has reported its first-ever Ebola death, the health minister announced on Tuesday, after a Kenyan man who had been living in the Democr",
+      "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on SaturdayKenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through t",
       "source": "The Guardian",
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-      "publishedAt": "Tue, 06 Oct 2026 09:35:12 GMT"
+      "publishedAt": "Tue, 06 Oct 2026 12:46:56 GMT"
     },
     {
       "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
@@ -320,16 +320,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 21,
+      "tempC": 16,
       "description": "overcast",
       "high": 21,
       "low": 14
     },
     {
       "place": "London",
-      "tempC": 18,
-      "description": "overcast",
-      "high": 20,
+      "tempC": 20,
+      "description": "mainly clear",
+      "high": 21,
       "low": 14
     }
   ],
