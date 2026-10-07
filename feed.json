@@ -1,13 +1,21 @@
 {
-  "updated": "2026-10-07T09:45:18.683Z",
+  "updated": "2026-10-07T18:23:47.914Z",
   "news": [
     {
-      "title": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay AKP'ye katıldı",
-      "summary": "Mutlak butlan kararı sonrası haziran ayında CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay bugün AKP'ye katıldı.",
+      "title": "Fatma Betül Sayan Kaya ve eşi İlyas Kaya ifade verdi: 'Özel bilgi ve yönlendirme almadık'",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü fon soruşturmaları kapsamında, Fatma Betül Sayan Kaya ve eşi İlyas Kaya, şüpheli sıfatıyla 7 Ekim'de ifade verdi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmlyl2rx4xjvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 09:29:15 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 17:27:18 GMT"
+    },
+    {
+      "title": "7 Ekim'in üçüncü yılı: İsrailliler güvenlik zaafı için hesap sorulmasını istiyor",
+      "summary": "İsrail'de istihbarat zaafının nedenine, saldırılardan önce askeri ve siyasi liderlere hangi bilgilerin aktarıldığına ve Netanyahu'nun kendisinin ne bildiğine dair sorular giderek artıyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cmg47zq2gqwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 17:18:58 GMT"
     },
     {
       "title": "7 Ekim saldırılarının üçüncü yılı: Türkiye-İsrail ilişkileri nasıl değişti?",
@@ -18,270 +26,262 @@
       "publishedAt": "Tue, 06 Oct 2026 23:06:59 GMT"
     },
     {
-      "title": "Esenyurt ve Çeşme belediyelerine operasyon",
-      "summary": "7 Ekim sabahı İstanbul Esenyurt ve İzmir Çeşme belediyelerine operasyonlar düzenlendi, çok sayıda kişi gözaltına alındı.",
+      "title": "DEM Parti'den süreç değerlendirmesi: 'Çerçeve yasa üzerinden MGK vesayeti kalkmalı'",
+      "summary": "DEM Parti Grup Başkanvekili Sezai Temelli, iktidarın çözüm süreci kapsamında Meclis'te kabul edilen yasanın uygulanmasının Milli Güvenlik Kurulu kararına bağlı olmasını eleştirdi. Ankara'dan Ayşe Sayın'ın haberi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c3gr8074g25go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 07:15:37 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c6ev39339e7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 11:55:10 GMT"
     },
     {
-      "title": "Fon soruşturmasında adı geçen Ali Emre Ballı ölü bulundu",
-      "summary": "Fon soruşturmasında adı geçen Finansal Kurumlar Birliği Başkanı Ali Emre Ballı İstanbul'da ölü bulundu.",
+      "title": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay: 'AKP kimsesizlerin kimsesidir'",
+      "summary": "Mutlak butlan kararı sonrası haziran ayında CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay bugün AKP'ye katıldı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm369p4rk1y0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 06:57:04 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cmlyl2rx4xjvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 16:05:00 GMT"
     },
     {
-      "title": "Hakan Tosun cinayetinde iki sanığa kasten öldürme suçundan müebbet hapis cezası",
-      "summary": "Gazeteci, belgeselci ve ekoloji aktivisti Hakan Tosun cinayeti davasında mahkeme yargılanan her iki sanığın da kasten öldürme suçundan müebbet hapsine hükmetti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c3v6lv5w05no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 09:34:12 GMT"
-    },
-    {
-      "title": "AKP'den 1 milyon TL'ye kadar ödemeler için kanun teklifi hazırlığı",
-      "summary": "AKP'nin Meclis grubu, devam eden fon krizinde yatırımcının 1 milyon TL'ye kadar olan ödemeleri için bir kanun teklifi hazırlıyor.",
+      "title": "Tasfiye edilen fonlardaki yatırımcılara ödemeler nasıl yapılacak?",
+      "summary": "Cevdet Yılmaz, sorunlu fonlara ilişkin tasfiye sürecinde Hazine kaynağı kullanılmayacağını, fonların kendi kaynakları ve geri kazanılan varlıklarla yatırımcılara ödeme yapılacağını açıkladı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/ckgeljxrzx9xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 09:06:11 GMT"
+      "publishedAt": "Wed, 07 Oct 2026 13:22:57 GMT"
     },
     {
-      "title": "Markete çıplak giren mühendis müşterilere saldırdı",
-      "summary": "İstanbul'da mühendis olduğu öğrenilen bir kişi, markete çıplak bir şekilde girerek müşterilere saldırdı.",
+      "title": "Bakan Güler: Kıbrıs Türkü'ne yönelik sindirme politikası sürüyor",
+      "summary": "Milli Savunma Bakanı Yaşar Güler, \"Kıbrıs Türkü'ne yönelik 1960'lardan süregelen sindirme ve hazımsızlık politikası hala en güçlü şekilde devam etmektedir.\" dedi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-07T12:18:43+03:00"
+      "publishedAt": "2026-10-07T19:46:20+03:00"
     },
     {
-      "title": "Cemil Tugay kimdir, AK Parti'ye mi katılıyor? İzmir Belediye Başkanı Cemil Tugay'ın hayatı",
-      "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, son dönemde kamuoyunda ve siyaset kulislerinde adı sıklıkla anılan isimler arasında yer alıyor. 18 Haziran'da ayrıldığı CHP'nin ardından İzmir'de belediye başkanlığı görevini bağımsız olarak sü",
+      "title": "Manisa'da komşu dehşeti: Kapıyı tekmeledi, 3 gün sonra yine aynı adrese gitti",
+      "summary": "Manisa’da komşusunun çelik kapısına zarar verdiği gerekçesiyle gözaltına alınıp serbest bırakılan 69 yaşındaki Hurisimal Ç., 3 gün sonra aynı adrese giderek yeni takılan kapıya tekme attı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-07T12:22:21+03:00"
+      "publishedAt": "2026-10-07T16:49:38+03:00"
     },
     {
-      "title": "TBMM Başkanvekilliği'nden istifa etmişti. Bekir Bozdağ'ın yerine gelen isim belli oldu",
-      "summary": "Sağlık sorunları nedeniyle görevinden istifa eden yerine Bekir Bozdağ'ın yerine Meclis Başkanvekilliği görevini AK Parti Tokat Milletvekili Yusuf Beyazıt devralacak.",
+      "title": "KYK burs ve kredi başvurusu 2026: GSB KYK burs ve kredi başvuruları başladı mı, ne zaman başlayacak?",
+      "summary": "Üniversite kayıt maratonunun tamamlanması ve akademik yılın başlamasıyla birlikte milyonlarca öğrencinin gözü 2026 KYK burs ve kredi başvurularına çevrildi. Üniversite hayatına adım atan veya eğitimine devam eden adaylar, \"2026-2027 KYK bur",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-07T12:28:17+03:00"
+      "publishedAt": "2026-10-07T16:36:02+03:00"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan fon soruşturması açıklaması: Sahtekarlık yapanlar hesabını verecek",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasında gerekli adımların atıldığını belirterek, \"Memlekete hizmet yolunda önümüzde çıkan kim olursa olsun, kenara alır yürümeye devam ederiz.\" dedi.",
+      "title": "AK Parti Sözcüsü Ömer Çelik: Fonda karanlık nokta kalmayacak",
+      "summary": "AK Partisi Sözcüsü Ömer Çelik, \"Hakları gasp edilenler müsterih olsun.\" diyerek fon krizi sürecinde karanlık noktanın kalmayacağını belirtti.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-07T12:27:59+03:00"
+      "publishedAt": "2026-10-07T16:52:40+03:00"
     },
     {
-      "title": "900 gram 50 lira, denizden fışkırdı. Tezgah önünde kuyruk oldu, yirmişer tane alıyorlar",
-      "summary": "Karadeniz'de palamut avının bollaşmasıyla birlikte fiyatlar yarı yarıya düştü. Balık tezgahının önünde kuyruk oluştu.",
+      "title": "Başakşehir'deki saldırıda yaşamını yitiren Eslem Sare'ye gözyaşlarıyla veda",
+      "summary": "İstanbul Başakşehir'deki bir ortaokulda, 15 yaşındaki F.M.'nin bıçaklı saldırısına uğrayan 10 yaşındaki Eslem Sare Bulut, gözyaşları arasında toprağa verildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-07T11:32:30+03:00"
+      "publishedAt": "2026-10-07T15:42:06+03:00"
     },
     {
-      "title": "İstanbul'un gündüzü sıcak gecesi soğuk. AKOM paylaştı, 8 derece birden düşüyor",
-      "summary": "Hafta boyunca yağışın beklenmediği İstanbul'da gündüz ile gece sıcaklıkları arasında fark 8 dereceye kadar çıkıyor.",
+      "title": "Fon tasfiye rehberi netleşti",
+      "summary": "455 bin kişiyi ilgilendiren fon tasfiyesinde ödeme takvimi ve ödeme yöntemi netleşti. Hangi fonların öncelikle tasfiye edileceği içeren ayrıntılı ödeme rehberi oluşturuldu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-07T11:26:32+03:00"
+      "publishedAt": "2026-10-07T16:15:29+03:00"
     },
     {
-      "title": "Cemil Tugay AK Parti'ye katıldı",
-      "summary": "Cumhurbaşkanı Erdoğan bugün AK Parti Kongre Merkezi'nde milletvekilleriyle bir araya geldi. Toplantıda CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AK Parti'ye katıldı. AK Parti Genel Merkezi'ne giden Cemil Tugay, \"İ",
+      "title": "Galata’da Filistin’in ışığı",
+      "summary": "Galata Kulesi, Filistin halkıyla dayanışma amacıyla bir kez daha Filistin bayrağının renkleriyle aydınlatıldı. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Gazze’de yaşananların unutturulmaması ve zulme sessiz kalınmaması gerektiğini vurgulad",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-cumhurbaskani-erdogan-milletvekilleriyle-bulusacak-cemil-tugay-ak-parti-ye-katilacak-3917815",
-      "publishedAt": "Wed, 07 Oct 2026 09:39:04 GMT"
+      "link": "https://www.haberturk.com/gundem/tarihi-kule-filistin-halkiyla-dayanismanin-simgesi-olarak-aydinlandi-3918000",
+      "publishedAt": "Wed, 07 Oct 2026 18:16:11 GMT"
     },
     {
-      "title": "Irak'tan devalüasyon kararı",
-      "summary": "Irak, resmi dolar kurunu 1.300 dinardan 1.500 dinara yükseltti. Irak'ta bir önceki resmi döviz kuru 2023 yılında belirlenmişti. Ancak resmi kur ile döviz bürolarında uygulanan piyasa kuru arasında uzun süredir fark bulunuyordu. Yeni resmi k",
+      "title": "Kayseri'de feci kaza: 1 ölü, 15 yaralı",
+      "summary": "Kayseri’nin Develi ilçesinde iş makinesi ile iki işçi servisinin çarpıştığı kazada 1 kişi öldü, 15 kişi yaralandı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/irak-tan-devaluasyon-karari-3917895",
-      "publishedAt": "Wed, 07 Oct 2026 09:37:01 GMT"
+      "link": "https://www.haberturk.com/gundem/kayseride-is-makinesi-ile-2-isci-servisi-carpisti-1-olu-15-yarali-3917998",
+      "publishedAt": "Wed, 07 Oct 2026 18:11:21 GMT"
     },
     {
-      "title": "Soner Olgun'dan kötü haber",
-      "summary": "Pankreas kanseriyle mücadele eden Soner Olgun, sağlık durumunun ağırlaşması üzerine hastaneye kaldırıldı. Yoğun bakıma alınan Olgun'un entübe edildiği öğrenildi",
+      "title": "Öğrenciyi öldüren saldırganın anne ve babası tutuklandı",
+      "summary": "Başakşehir’de bir öğrencinin hayatını kaybettiği bıçaklı saldırının ardından, saldırıyı gerçekleştiren öğrencinin anne ve babası tutuklandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/unlu-sarkici-soner-olgun-dan-kotu-haber-3917856",
-      "publishedAt": "Wed, 07 Oct 2026 09:23:47 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-ogrenciyi-olduren-saldirganin-anne-ve-babasi-tutuklandi-3917996",
+      "publishedAt": "Wed, 07 Oct 2026 17:43:31 GMT"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan: Hesabını verecekler",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon soruşturmasına ilişkin “Yatırımcılar boyutunu titizlikle takip ediyoruz. Vatandaşların ödemelerinin bir an evvel yapılması için gerekli adımları atıyoruz” dedi. Erdoğan, piyasalara gölge düşüren bu so",
+      "title": "Rusya'ya \"sarsılmaz destek\" mesajı verdi",
+      "summary": "Kuzey Kore lideri Kim Jong-un, \"Rus halkının verdiği kutsal adalet savaşının mutlaka onların zaferiyle sonuçlanacağına inandığını\" ve Rusya'yı \"sarsılmaz biçimde desteklediğini\" bildirdi.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/cumhurbaskani-erdogan-hesabini-verecekler-3917888",
-      "publishedAt": "Wed, 07 Oct 2026 09:32:08 GMT"
+      "link": "https://www.haberturk.com/dunya/rusya-ya-sarsilmaz-destek-mesaji-verdi-3917997",
+      "publishedAt": "Wed, 07 Oct 2026 17:37:42 GMT"
     },
     {
-      "title": "Mevsim geçişleri ruhu böyle etkiliyor",
-      "summary": "Mevsim geçişlerinin ruh sağlığı üzerinde etkili olduğu ancak bir değerlendirme yapılabilmesi için isteksizlik, moral bozukluğu, eskiden yapılan aktivitelerden keyif alınmaması gibi bulguların en az iki hafta sürmesi gerektiği belirtildi",
+      "title": "Kaya çifti adliyede",
+      "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen fon soruşturması kapsamında Fatma Betül Sayan Kaya ile eşi İlyas Kaya'nın şüpheli sıfatıyla ifadeleri alındı. Kaya çifti, Özata Denizcilik hissesindeki işlemlerinde herhangi bir yönlendirme veya",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/saglik/mevsim-gecisleri-ruh-sagligini-etkiliyor-3917893",
-      "publishedAt": "Wed, 07 Oct 2026 09:30:50 GMT"
+      "link": "https://www.haberturk.com/ekonomi/fon-sorusturmasinda-ifade-verecek-3917904",
+      "publishedAt": "Wed, 07 Oct 2026 17:26:00 GMT"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan açıklamalar",
-      "summary": "Cumhurbaşkanı Erdoğan, AK Parti Kongre Merkezi'nde AK Parti Milletvekilleri ile Yasama Yılı Açılış Toplantısı'nda açıklamalarda bulundu. \"İzmir Büyükşehir Belediye Başkanı Cemil Tugay’a AK Parti ailesine hoş geldin, sefalar getirdin diyorum",
+      "title": "Sokakta yürüyen eşini sırtından bıçakladı",
+      "summary": "Adana'da Fatma H., sokakta yürüdüğü sırada arkasından gelen eşi Osman H. tarafından bıçaklı saldırıya uğradı. Yaralanan kadın hastaneye kaldırılırken, kaçan şüpheli eş, motosikletli polis ekibi tarafından yakalandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3917818",
-      "publishedAt": "Wed, 07 Oct 2026 09:29:22 GMT"
+      "link": "https://www.haberturk.com/gundem/sokakta-yuruyen-esini-sirtindan-bicakladi-3917992",
+      "publishedAt": "Wed, 07 Oct 2026 17:20:04 GMT"
     },
     {
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 07:07:22 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 17:47:31 GMT"
     },
     {
-      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
-      "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 05:02:18 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 16:00:18 GMT"
     },
     {
-      "title": "India's opposition leader dragged onto bus as police break up protest",
-      "summary": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 07 Oct 2026 07:45:47 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 17:29:46 GMT"
     },
     {
-      "title": "What is pneumonic plague and how does it spread?",
-      "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 15:35:22 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 14:50:28 GMT"
     },
     {
-      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
-      "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 19:53:45 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 18:12:58 GMT"
     },
     {
-      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-      "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "summary": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 06 Oct 2026 23:07:44 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 07 Oct 2026 09:49:31 GMT"
     },
     {
-      "title": "What does a year-long ceasefire in Gaza look like?",
-      "summary": "Israel attacked Gaza nine days out of 10 during a so-called ceasefire.",
+      "title": "Over 100 arrested in Belgium student protests over education costs",
+      "summary": "Protesting students have demanded education reforms in French-speaking areas of the country.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
-      "publishedAt": "Wed, 07 Oct 2026 08:55:12 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs?traffic_source=rss",
+      "publishedAt": "Wed, 07 Oct 2026 17:28:56 +0000"
     },
     {
-      "title": "Fear and a far-right lurch: How October 7 reshaped Israel",
-      "summary": "Three years on, the trauma of October 7, 2023, continues to reshape Israel’s politics, wars and place in the world.",
+      "title": "US mortgage rates hit their highest level in three years",
+      "summary": "Rising borrowing costs have pushed mortgage applications to their lowest level since February 2025.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel?traffic_source=rss",
-      "publishedAt": "Wed, 07 Oct 2026 08:53:23 +0000"
+      "link": "https://www.aljazeera.com/economy/2026/10/7/us-mortgage-rates-hit-their-highest-level-in-three-years?traffic_source=rss",
+      "publishedAt": "Wed, 07 Oct 2026 17:05:10 +0000"
     },
     {
-      "title": "Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi",
-      "summary": "Argentina’s head coach Lionel Scaloni said it was an ‘emotional day’ as Lionel Messi ends his international career.",
+      "title": "UEFA football leaders meet to shape strategy to oust FIFA’s Infantino",
+      "summary": "European football leaders gather in Berlin with the aim of shaping strategy to oust Gianni Infantino as FIFA president.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss",
-      "publishedAt": "Wed, 07 Oct 2026 08:42:53 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/7/uefa-football-leaders-meet-to-shape-strategy-to-oust-fifas-infantino?traffic_source=rss",
+      "publishedAt": "Wed, 07 Oct 2026 16:47:24 +0000"
     },
     {
-      "title": "Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US",
-      "summary": "Arfat Sheikh was arrested at Washington Dulles International Airport on September 24, advocacy group says.",
+      "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
+      "summary": "Far-right and far-left parties gain ground in local elections as Merz's approval rating sinks.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss",
-      "publishedAt": "Wed, 07 Oct 2026 08:35:23 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
+      "publishedAt": "Wed, 07 Oct 2026 16:12:29 +0000"
     },
     {
-      "title": "‘We’re short of resources’: France’s student protesters, in their own words",
-      "summary": "French students and teachers protesting school conditions spoke with Al Jazeera about their demands.",
+      "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
+      "summary": "With 3,700 fleeing to Djibouti amid Houthi clashes, the UN warns three in four families in parts of Yemen face hunger.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss",
-      "publishedAt": "Wed, 07 Oct 2026 08:32:16 +0000"
+      "link": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
+      "publishedAt": "Wed, 07 Oct 2026 16:02:17 +0000"
     },
     {
-      "title": "Three years of Israel’s mass dispossession of West Bank Palestinians",
-      "summary": "Bedouin families uprooted by Israeli settlers describe a state-backed project of forced transfer in the West Bank.",
+      "title": "The mass killing does not mean Israel’s winning",
+      "summary": "Israel’s military might has failed to achieve the political goals in Gaza it was supposed to.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/features/2026/10/7/three-years-of-israels-mass-dispossession-of-west-bank-palestinians?traffic_source=rss",
-      "publishedAt": "Wed, 07 Oct 2026 08:22:19 +0000"
+      "link": "https://www.aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning?traffic_source=rss",
+      "publishedAt": "Wed, 07 Oct 2026 15:25:06 +0000"
     },
     {
-      "title": "Here's the latest sticker shock: Borrowing for a mortgage -- or a car",
-      "summary": "It's not just mortgages being at their highest level in almost three years — but the cost of loans for cars and higher education are among the borrowing costs affected, too.",
+      "title": "Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel",
+      "summary": "Trump is temporarily allowing this fuel to be used on highways, although it's typically just for off-road farm and construction vehicles. Could that lower the price of diesel?",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5991910/interest-rates-economy-inflation-bonds",
-      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992963/dyed-diesel-fuel-price-farmers-trucks",
+      "publishedAt": "Wed, 07 Oct 2026 14:00:31 -0400"
     },
     {
-      "title": "Over 1,000 children are buried at juvenile detention centers nationwide",
-      "summary": "Researchers uncovered the graves of more than 1,000 children next to juvenile detention facilities in 29 states. At one Maryland gravesite, 230 Black boys are buried.",
+      "title": "How Defense Secretary Pete Hegseth has brought the culture wars to the military",
+      "summary": "The New York Times reporter Greg Jaffe says Hegseth has disproportionately blocked promotions of Black and women senior officers, and he's also been purging the military of transgender people.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5986124/over-1-000-children-are-buried-at-juvenile-detention-centers-nationwide",
-      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992775/how-defense-secretary-pete-hegseth-has-brought-the-culture-wars-to-the-military",
+      "publishedAt": "Wed, 07 Oct 2026 12:55:19 -0400"
     },
     {
-      "title": "Carpetbagger allegation, misplaced valor make Nevada's safe red House seat competitive",
-      "summary": "Northern Nevada has a reliably red congressional seat, represented by a Republican since it was drawn in the early 1980s. A complicated candidate and a potential blue wave this year could change that.",
+      "title": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'",
+      "summary": "As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely illegal.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5984671/nevada-midterm-election-valor-carpetbagger-reno",
-      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
+      "publishedAt": "Wed, 07 Oct 2026 12:15:26 -0400"
     },
     {
-      "title": "BTS frontman RM is showing his art collection. Fans are flocking to see it",
-      "summary": "The pop superstar is showing art from his personal collection for the first time. The San Francisco Museum of Modern Art is packed with fans.",
+      "title": "Gut microbes followed migrating humans across continents, new study suggests",
+      "summary": "New research looks at the surprising similarities in the gut microbiomes of hunter-gathers in Tanzania and horticulturalists in Bolivia, and asks: What role do these bacteria play in human health?",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5986317/bts-rm-sfmoma-korean-art-san-francisco",
-      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
+      "publishedAt": "Wed, 07 Oct 2026 11:00:47 -0400"
     },
     {
-      "title": "An early flu season means it might be time to think about a flu shot",
-      "summary": "Flu season typically starts in October or November. But it looks like the flu started to pick up in September this year.",
+      "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
+      "summary": "The Lahore High Court is a near-perfect specimen of British South Asian colonial architecture and its main square is a pleasant spot shaded by banyan trees.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5992940/early-flu-season-vaccine",
-      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
+      "publishedAt": "Wed, 07 Oct 2026 09:53:54 -0400"
     },
     {
-      "title": "'Medicare for All' message attracts midterm voters buckling under medical bills",
-      "summary": "Midterm candidates are talking up Medicare for All, and in a poll 2 out of 3 Americans said they support it. The phrase speaks to a desire for radical change, though many don't really know what it is.",
+      "title": "DIY fertilizer is a blessing as farmers face steep prices due to the Iran war",
+      "summary": "It's hard enough being a small-scale farmer. Then the Iran war drove up fertilizer prices. So farmers are using a traditional Asian recipe to make their own. They call it a \"labor of love.\"",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5992772/medicare-for-all-midterm-voters-medical-bills-affordability",
-      "publishedAt": "Wed, 07 Oct 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war",
+      "publishedAt": "Wed, 07 Oct 2026 09:32:37 -0400"
     },
     {
       "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
@@ -320,15 +320,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 21,
+      "tempC": 17,
       "description": "overcast",
       "high": 22,
       "low": 13
     },
     {
       "place": "London",
-      "tempC": 14,
-      "description": "light rain",
+      "tempC": 12,
+      "description": "overcast",
       "high": 18,
       "low": 11
     }
