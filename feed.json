@@ -1,143 +1,159 @@
 {
-  "updated": "2026-10-09T09:59:44.004Z",
+  "updated": "2026-10-09T17:56:07.135Z",
   "news": [
     {
-      "title": "Dört gazeteciye fon iddiaları soruşturması",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı'nın \"kamuoyunu yanıltıcı nitelikle yayın ve paylaşımlar\" soruşturmasında Sözcü gazetesi editörü Mustafa Balcı gözaltına alındı. Gazeteciler Murat Ağırel, İsmail Saymaz ve Şaban Sevinç'in ise 'şüpheli' sıfatı",
+      "title": "ABD'nin Uluslararası Ceza Mahkemesi'ne yaptırım uygulaması ne anlama geliyor?",
+      "summary": "Avrupa Birliği, Uluslararası Ceza Mahkemesi aleyhindeki bu hamleyi \"son derece üzücü\" olarak nitelendirdi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cx4g19m3p298o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 17:51:18 GMT"
+    },
+    {
+      "title": "TFF'de Hacıosmanoğlu devam ediyor, Vincenzo Montella ile yollar ayrıldı",
+      "summary": "Türkiye Futbol Federayonu Yönetim Kurulu bugün yaptığı toplantıda A Milli Takım Teknik Direktörü Vincenzo Montella'nın görevine son verdi. İtalyan teknik direktör Türkiye'nin başında inişli çıkışlı bir dönem geçirdi; ilk döneminde bazı başa",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c6j478xpnevno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 15:44:47 GMT"
+    },
+    {
+      "title": "AKP'nin fon teklifi Meclis'te: Düzenleme neler öngörüyor?",
+      "summary": "Adalet ve Kalkınma Partisi, tasfiye halindeki fon yatırımcılarına yapılacak geri ödemelere ilişkin dokuz maddelik yasa teklifini TBMM Başkanlığı'na sundu. Net yatırım tutarı 1 milyon liranın altında olan yatırımcılar için bu tutara kadar, n",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/crz65plggd37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 16:52:11 GMT"
+    },
+    {
+      "title": "Sözcü editörü Mustafa Balcı ve gazeteci Şaban Sevinç için tutuklama talebi",
+      "summary": "Kamu görevlilerinin tasfiye sürecindeki fonlardan haksız kazanç elde ettiği iddialarını haberleştiren dört gazeteci hakkında soruşturma başlatıldı. Sözcü gazetesi editörü Mustafa Balcı ve gazeteci Şaban Sevinç tutuklama talebiyle mahkemeye ",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cwvg0e409xp3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:23:37 GMT"
+      "publishedAt": "Fri, 09 Oct 2026 16:23:49 GMT"
     },
     {
-      "title": "Pentagon: İdam mangasıyla infaz canlı yayınlanacak",
-      "summary": "Pete Hegseth, infazın kamuoyu önünde gerçekleşeceğini söylüyor ancak BBC'ye konuşan bir hukuk uzmanı, \"emsalsiz\" kararın \"belirsiz bir hukuki zeminde\" olduğunu belirtiyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cqrmy7w0jpj3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:35:17 GMT"
-    },
-    {
-      "title": "Keskin nişancılar ve havan topları: Yemen'de çocukların tehlikeli okul yolu",
-      "summary": "BBC Dünya Servici, uluslararası basından çok az erişimin olduğu Taiz'de savaştan etkilenen çocuklarla, öğretmenlerle ve ailelerle konuştu. 10 yaşındaki Rafeef doktor olmak istiyor. Ancak her okula gidişinde, sırtı keskin nişancılara dönük b",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm4g12gydw28o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 07:23:36 GMT"
-    },
-    {
-      "title": "Fon krizi AKP'de nasıl tartışılıyor, hangi adımlar atılabilir?",
-      "summary": "AKP kulislerinde krizin, şimdiye kadar parti yönetiminde en fazla rahatsızlık yaratan konulardan biri olduğu belirtilirken, sadece sorumluların değil, sistemdeki zafiyetlerin de ortaya çıkarılması gerektiği görüşü dile getiriliyor",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmkg7n4xd0p1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 23:02:43 GMT"
-    },
-    {
-      "title": "Nobel Barış Ödülü'nü alan eski BM Yüksek Komiseri Navi Pillay kimdir?",
-      "summary": "Eski BM İnsan Hakları Yüksek Komiseri Navi Pillay, 2026 Nobel Barış Ödülü'nü kazandı. Norveç Nobel Komitesi, Pillay'ı \"barışı ve uluslararası hukuku geliştirmeye yönelik çabaları\" nedeniyle ödüle layık gördüğünü açıkladı.",
+      "title": "Nobel Barış Ödülü, Gazze savaş suçları soruşturma komisyonu başkanı Navi Pillay'e verildi",
+      "summary": "Eski BM İnsan Hakları Yüksek Komiseri Navi Pillay, 2026 Nobel Barış Ödülü'nü kazandı. Güney Afrikalı hukukçu, Eylül 2025'te İsrail'in \"Gazze'de soykırım işlediği\" sonucuna varan BM soruşturma komisyonuna başkanlık etmişti.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c6wyr1ln2z8eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:53:00 GMT"
+      "publishedAt": "Fri, 09 Oct 2026 10:46:58 GMT"
     },
     {
-      "title": "AKP'li iki bakana fon soruları yönelten Özlale: 'İsimler de meblağ da doğru'",
-      "summary": "AKP'den Ticaret Bakanı Ömer Bolat ve Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş hakkındaki fon yatırımı sorularını dile getiren Yeni Partili Ümit Özlale, iddialarının arkasında durdu.",
+      "title": "Özgür Özel, Bakan Mahinur Özdemir Göktaş'ın babasından özür diledi",
+      "summary": "Mersin'deki parti mitinginde konuşan Özgür Özel, \"Mahinur Hanım, senin baban incindi, ellerinden öperim\" dedi.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c6kg59j745mno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:07:11 GMT"
+      "publishedAt": "Fri, 09 Oct 2026 16:04:06 GMT"
     },
     {
-      "title": "Ahbap Derneği soruşturmasında tutuklanan avukat Ece Güner'e tahliye",
-      "summary": "Ahbap Derneği soruşturmasında tutuklanan avukat Ece Güner'in tahliyesine karar verildi.",
+      "title": "150 milyon liralık yasa dışı bahis operasyonu: 12 gözaltı",
+      "summary": "İstanbul’da yasa dışı bahis ve dolandırıcılık soruşturmasında 12 şüpheli yakalandı. Operasyonda 7 daire, 11 araç ve 3 motosiklete el konuldu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-09T12:26:41+03:00"
+      "publishedAt": "2026-10-09T16:43:15+03:00"
     },
     {
-      "title": "İlk teklifler 14 Ekim'de alınacak. Marmaray'a alternatif yeni demir yolu geliyor",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul'da Yavuz Sultan Selim Köprüsü üzerinden geçecek hatla Marmaray'a alternatif yeni bir demir yolu bağlantısı oluşturulacağını söyledi.",
+      "title": "Mahkemeden Seçil Erzan kararı",
+      "summary": "Hayali fonla suçlanan Seçil Erzan, yeniden yargılanıyor. \"Kimsenin iradesini fesada uğratmadım, kimsenin parasını cebime almadım.\" iddiasında bulunan Erzan'ın tutukluluğunun devamına hükmedildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-09T12:11:48+03:00"
+      "publishedAt": "2026-10-09T16:28:51+03:00"
     },
     {
-      "title": "Düğün çıkışı vurulan öğretmen kurtarılamadı",
-      "summary": "Şanlıurfa'da bir düğün çıkışında silahlı kavgada ağır yaralanan öğretmen Mustafa Yahsan, tedavi gördüğü hastaneye yaşamını yitirdi.",
+      "title": "Aşık Veysel'in kültürel mirası ABD'de bilim dünyasıyla buluştu",
+      "summary": "ABD'de düzenlenen Türk-Amerikan Bilim İnsanları ve Akademisyenler Konferansı'nda Aşık Veysel'in kültürel mirası ve evrensel mesajları ele alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-09T11:37:10+03:00"
+      "publishedAt": "2026-10-09T15:20:28+03:00"
     },
     {
-      "title": "Bir yılda 337 kere acile gitti: \"Serum takınca geçer\"",
-      "summary": "İstanbul'da bir kişi yaşadığı sağlık sorunları ve kaygıları nedeniyle bir yılda 337 kez hastaneye başvurdu.",
+      "title": "DEM Parti heyetinden Bahçeli'ye ziyaret",
+      "summary": "DEM Parti heyetinden Pervin Buldan ve Mithat Sancar, MHP Genel Başkanı Devlet Bahçeli ile görüştü.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-09T11:19:04+03:00"
+      "publishedAt": "2026-10-09T15:53:18+03:00"
     },
     {
-      "title": "Saroz Körfezi üzerinde test: AKINCI TİHA, Morfoz'la vurdu",
-      "summary": "Türkiye'nin taarruzi insansız hava aracı AKINCI, test programı kapsamında Morfoz Güdüm Kiti (MGK) ile gerçekleştirilen testte hedefini başarıyla vurdu.",
+      "title": "Cumhurbaşkanı Erdoğan'dan muhalefete tepki: Siz önce para kulelerinin hesabını verin",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, muhalefeti FETÖ taktikleri kullanmakla suçladı. Haksızlık ve hukuksuzluğun üzerine ciddiyetle gidildiğini söyleyen Erdoğan, \"Yargı, suç işleyenin yakasında.\" dedi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-09T11:06:15+03:00"
+      "publishedAt": "2026-10-09T16:46:52+03:00"
     },
     {
-      "title": "İstanbul'da \"Arap Emrah\" operasyonu: 34 gözaltı",
-      "summary": "İstanbul'da \"Arap Emrah\" olarak bilinen Emrah Sever silahlı suç örgütüne yönelik operasyon yapıldı. Operasyonda 34 şüpheli gözaltına alındı.",
+      "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 09 Ekim 2026",
+      "summary": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 09 Ekim 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğl",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-09T09:48:42+03:00"
+      "publishedAt": "2026-10-09T15:20:00+03:00"
     },
     {
-      "title": "İki gazeteci hakkında gözaltı kararı",
-      "summary": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturmada, İsmail Saymaz ve Murat Ağırel 'dezenformasyon' suçlamasıyla 'şüpheli' sıfatıyla ifadeye çağırıldı. Gözaltına alınan Mustafa Balcı ve Şaban Sevinç adliyeye sevk edildi",
+      "title": "Heyecan sürüyor!",
+      "summary": "Galatasaray Kasımpaşa maçının canlı anlatımı HT SPOR'da... Trendyol Süper Lig'in 7. haftasında Galatasaray sahasında Kasımpaşa ile karşı karşıya geliyor. Sarı-kırmızılılar rakibini mağlup ederek maç fazlasıyla liderlik koltuğuna oturmak ist",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/spor/galatasaray-kasimpasa-maci-canli-anlatim-gs-ksp-trendyol-super-ligi-maci-kac-kac-mac-skoru-ve-onemli-3918338",
+      "publishedAt": "Fri, 09 Oct 2026 17:24:33 GMT"
+    },
+    {
+      "title": "Osimhen ve Lemina, 35 gün sonra kadroda!",
+      "summary": "Trendyol Süper Lig'in 7. haftasında Kasımpaşa'yı ağırlayan Galatasaray'da sakatlığını atlatan Victor Osimhen ve Mario Lemina, 35 gün sonra kadroda yer aldı.",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/spor/galatasaray-da-victor-osimhen-ve-mario-lemina-35-gun-sonra-kadroda-3918566",
+      "publishedAt": "Fri, 09 Oct 2026 17:42:49 GMT"
+    },
+    {
+      "title": "Emekli zammı ne kadar olacak?",
+      "summary": "Milyonlarca SSK ve Bağ-Kur emeklisi gözünü ocak ayında alacağı emekli zammına çevrildi. TÜİK tarafından açıklanan Eylül ayı enflasyon verisi sonrasında 3 aylık enflasyon % 5,57 oldu. Bu verinin üzerine Ekim, Kasım ve Aralık enflasyonları da",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/bilgi/foto/emekli-zammi-son-durum-ssk-bagkur-6-aylik-enflasyon-farkina-gore-en-dusuk-emekli-maas-zammi-ne-kadar-olacak-kac-tl-3918565",
+      "publishedAt": "Fri, 09 Oct 2026 17:38:46 GMT"
+    },
+    {
+      "title": "Bakan Fidan, Hamas heyeti ile görüştü",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Hamas Siyasi Büro Başkanı Halil el-Hayye ve beraberindeki Hamas heyetini Ankara'da kabul etti.",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/dunya/bakan-fidan-hamas-heyeti-ile-gorustu-3918564",
+      "publishedAt": "Fri, 09 Oct 2026 17:29:56 GMT"
+    },
+    {
+      "title": "İki gazeteci hakkında tutuklama talebi",
+      "summary": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturmada, İsmail Saymaz ve Murat Ağırel 'dezenformasyon' suçlamasıyla 'şüpheli' sıfatıyla ifadeye çağırıldı. Gözaltına alınan Mustafa Balcı ve Şaban Sevinç adliyeye sevk edildi. Balcı ve Se",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/gundem/son-dakika-haberi-iki-gazeteci-saban-sevinc-ve-mustafa-balci-hakkinda-gozalti-karari-3918335",
-      "publishedAt": "Fri, 09 Oct 2026 08:52:59 GMT"
+      "publishedAt": "Fri, 09 Oct 2026 13:08:56 GMT"
     },
     {
-      "title": "Okul önünde bekçiye saldırı",
-      "summary": "İzmir'in Ödemiş ilçesinde ilkokul önünde bekçinin uyardığı kişi, çıkan tartışmada görevliye fiziki saldırıda bulundu. Bekçinin biber gazıyla müdahale ettiği olay kameraya yansırken, şüphelinin başka bir okulda öğretmen olduğu ortaya çıktı",
+      "title": "BM'den ABD'nin UCM kararına kınama",
+      "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, ABD'nin Uluslararası Ceza Mahkemesine (UCM) yaptırım uygulama kararını kınayarak, \"Bugünkü karar, UCM'nin kilit bir rol oynadığı uluslararası ceza adaletine yönelik ortak çabalara c",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-izmir-de-ilkokul-onunde-bekciye-saldirdi-biber-gaziyla-mudahale-edildi-3918427",
-      "publishedAt": "Fri, 09 Oct 2026 09:55:00 GMT"
+      "link": "https://www.haberturk.com/dunya/bm-den-abd-nin-ucm-kararina-kinama-3918562",
+      "publishedAt": "Fri, 09 Oct 2026 17:26:22 GMT"
     },
     {
-      "title": "52 öğrenci zehirlendi! Valilikten açıklama",
-      "summary": "Burdur’da, Safahat KYK kız öğrenci yurdunda kalan öğrencilerin bulantı, kusma ve ishal şikayetleriyle rahatsızlanmasının ardından 52 kişi hastaneye başvurdu. Burdur Valiliği, hastaneye başvuran 30 kişinin taburcu edildiğini, 9 kişinin tedbi",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/yurtta-zehirlenme-52-ogrenci-zehirlendi-valilikten-aciklama-burdur-haberleri-3918433",
-      "publishedAt": "Fri, 09 Oct 2026 09:51:44 GMT"
+      "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 17:43:03 GMT"
     },
     {
-      "title": "\"Şampiyonluk ihtimalimiz yüksek\"",
-      "summary": "Beşiktaş Başkanı Serdal Adalı, mazbata töreninin ardından basın mensuplarıyla sohbet toplantısında bir araya geldi. Alanyaspor ve Amedspor maçlarındaki hakem hataları nedeniyle lider olamadıklarını belirten Adalı, \"Bu sene takımımız iyi. He",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/spor/besiktas-baskani-serdal-adali-sampiyonluk-ihtimalimiz-yuksek-3918428",
-      "publishedAt": "Fri, 09 Oct 2026 09:51:30 GMT"
-    },
-    {
-      "title": "İstanbul bu pazar tarihe pedal çevirecek",
-      "summary": "İstanbul Büyükşehir Belediyesi (İBB) Gençlik ve Spor Hizmetleri Dairesi Başkanlığı ile İBB Spor İstanbul tarafından düzenlenen Tarihi Yarımada Bisiklet Turu, 11 Ekim Pazar günü gerçekleştirilecek. Yaklaşık bin bisikletlinin pedal çevireceği",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/istanbul-bu-pazar-tarihe-pedal-cevirecek-3918430",
-      "publishedAt": "Fri, 09 Oct 2026 09:47:41 GMT"
-    },
-    {
-      "title": "Nobel Barış Ödülü Navi Pillay'a verildi",
-      "summary": "Uluslararası Adalet Divanı yargıcı ve eski BM İnsan Hakları Yüksek Komiseri Navanethem “Navi” Pillay, Nobel Barış Ödülü'nü kazandı. Komite, uluslararası hukukun önemini vurguladı.",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/son-dakika-nobel-baris-odulu-navi-pillay-a-verildi-3918416",
-      "publishedAt": "Fri, 09 Oct 2026 09:42:40 GMT"
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 17:37:10 GMT"
     },
     {
       "title": "Firing squad execution to be livestreamed, Pentagon says",
@@ -145,119 +161,119 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:29:52 GMT"
+      "publishedAt": "Fri, 09 Oct 2026 16:29:47 GMT"
     },
     {
-      "title": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
-      "summary": "Alonzo Lunsford tells the BBC the punishment befits the crime but he has some doubts whether the public should be able to watch it.",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:43:22 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 17:14:44 GMT"
     },
     {
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-      "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
+      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 08 Oct 2026 23:11:10 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 09:09:03 GMT"
     },
     {
-      "title": "ICE agent shoots man in New York City",
-      "summary": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 04:26:19 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 16:32:22 GMT"
     },
     {
-      "title": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
-      "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 04:53:50 GMT"
-    },
-    {
-      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-      "summary": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:30:49 GMT"
-    },
-    {
-      "title": "Navi Pillay wins Nobel Peace Prize",
-      "summary": "International Court of Justice judge Navi Pillay has been awarded this year’s Nobel Peace Prize.",
+      "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
+      "summary": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:28:18 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 17:19:43 +0000"
     },
     {
-      "title": "Everton’s US owners seek sale of controlling stake in Premier League club",
-      "summary": "Premier League club Everton open to selling controlling stake after 'safely' balancing historical financial troubles.",
+      "title": "Palestinians seek protection from violent settlers during olive harvest",
+      "summary": "Palestinian farmers harvesting olives in the occupied West Bank are calling on international activists to protect them.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/10/9/evertons-us-owners-seek-sale-of-controlling-stake-in-premier-league-club?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:26:58 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 17:05:25 +0000"
     },
     {
-      "title": "2026 Nobel Peace Prize awarded to Navi Pillay",
-      "summary": "Pillay has been instrumental in ensuring war crimes and genocide are prosecuted, says the Nobel committee.",
+      "title": "Powerful tornado rips through western Sicily",
+      "summary": "A powerful tornado tore through western Sicily, causing destruction across the cities of Marsala and Petrosino.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:06:43 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/powerful-tornado-rips-through-western-sicily?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 16:37:33 +0000"
     },
     {
-      "title": "NBA star Wembanyama to French students: ‘I hear you’",
-      "summary": "San ​Antonio Spurs player Victor Wembanyama offers solidarity to students protesting conditions in schools in France.",
+      "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
+      "summary": "The shooting prompted protests in New York City and Mayor Zohran Mamdani condemned the incident.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/10/9/nba-star-wembanyama-to-french-students-i-hear-you?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:01:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 16:36:31 +0000"
     },
     {
-      "title": "New York police push politician to ground during anti-ICE protest",
-      "summary": "New York police push politician to ground during anti-ICE protest",
+      "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
+      "summary": "Belarus-linked incidents trouble Latvia and Lithuania, where experts warn of security challenges.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 08:59:49 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 16:33:26 +0000"
     },
     {
-      "title": "Japan’s Okinawa calls for review of US forces pact after killing",
-      "summary": "Assembly on the island, where tens of thousands of US soldiers are stationed, seeks change after Marine arrested.",
+      "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
+      "summary": "Belgian police respond to 'troublemakers' on sidelines of main rally with tear gas, water cannon and baton charges.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 08:51:04 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 16:07:29 +0000"
     },
     {
-      "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
-      "summary": "Plus: Nobels! Protests! Ambiguous quotes! A mysterious death in Russia!",
+      "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
+      "summary": "The Trump administration's effort to return Ahmed Soliman to the U.S. come after an Arizona judge said his deportation violated due process.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
-      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/09/g-s1-147476/trump-third-country-deportation-africa-reverse",
+      "publishedAt": "Fri, 09 Oct 2026 13:49:28 -0400"
     },
     {
-      "title": "In Central African Republic, deported immigrants find themselves in limbo",
-      "summary": "The Trump administration says it has deported more than 25,000 people to countries to which they have no ties. NPR spoke to three men who say it feels like they've lost control over their own lives.",
+      "title": "Did Russia play by the rules in reporting lab worker's death?",
+      "summary": "A global treaty signed by 197 countries — including Russia — requires reporting any death that could be a sign of an outbreak to come.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba",
-      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
+      "publishedAt": "Fri, 09 Oct 2026 12:43:45 -0400"
     },
     {
-      "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
-      "summary": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
+      "title": "How the oil industry is preparing for Hurricane Isaias",
+      "summary": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
-      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
+      "publishedAt": "Fri, 09 Oct 2026 12:03:32 -0400"
+    },
+    {
+      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
+      "summary": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
+      "publishedAt": "Fri, 09 Oct 2026 07:37:04 -0400"
+    },
+    {
+      "title": "Why American investors love European defense startups",
+      "summary": "As European defense spending takes off, just about half of the funding in Europe's defense tech industry is coming from American investors this year. One reason why: European investment firms have restrictions on how they can invest.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+      "publishedAt": "Fri, 09 Oct 2026 07:00:00 -0400"
     },
     {
       "title": "Why we remember: One student's journey into memory",
@@ -268,20 +284,20 @@
       "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400"
     },
     {
-      "title": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
-      "summary": "If you're using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes.",
-      "source": "NPR",
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in GazaThe Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the U",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
-      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400"
+      "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "publishedAt": "Fri, 09 Oct 2026 16:30:09 GMT"
     },
     {
-      "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
-      "summary": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm and suicide.",
-      "source": "NPR",
+      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+      "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river floodingIsaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975mb. I",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
-      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400"
+      "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+      "publishedAt": "Fri, 09 Oct 2026 09:59:06 GMT"
     },
     {
       "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
@@ -298,22 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
       "publishedAt": "Thu, 08 Oct 2026 20:20:31 GMT"
-    },
-    {
-      "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
-      "summary": "Government forces’ attack raises risk of internal conflict in Ethiopia that could trigger regional war Eritrean troops who crossed into Ethiopia’s Tigray region have come under drone attack from government forces, raising the risk that rene",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
-      "publishedAt": "Thu, 08 Oct 2026 16:11:32 GMT"
-    },
-    {
-      "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
-      "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on SaturdayKenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through t",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-      "publishedAt": "Tue, 06 Oct 2026 12:46:56 GMT"
     }
   ],
   "sports": [
@@ -321,7 +321,9 @@
       "league": "Süper Lig",
       "home": "Galatasaray",
       "away": "Kasımpaşa",
-      "status": "upcoming",
+      "homeScore": 1,
+      "awayScore": 0,
+      "status": "FT",
       "date": "2026-10-09"
     },
     {
@@ -342,16 +344,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 22,
+      "tempC": 19,
       "description": "clear sky",
-      "high": 22,
+      "high": 23,
       "low": 15
     },
     {
       "place": "London",
-      "tempC": 18,
-      "description": "overcast",
-      "high": 18,
+      "tempC": 17,
+      "description": "partly cloudy",
+      "high": 20,
       "low": 11
     }
   ],
