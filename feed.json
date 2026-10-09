@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:56:07.135Z",
+  "updated": "2026-10-09T22:16:39.038Z",
   "news": [
     {
       "title": "ABD'nin Uluslararası Ceza Mahkemesi'ne yaptırım uygulaması ne anlama geliyor?",
@@ -7,7 +7,7 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cx4g19m3p298o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 17:51:18 GMT"
+      "publishedAt": "Fri, 09 Oct 2026 18:30:31 GMT"
     },
     {
       "title": "TFF'de Hacıosmanoğlu devam ediyor, Vincenzo Montella ile yollar ayrıldı",
@@ -26,12 +26,12 @@
       "publishedAt": "Fri, 09 Oct 2026 16:52:11 GMT"
     },
     {
-      "title": "Sözcü editörü Mustafa Balcı ve gazeteci Şaban Sevinç için tutuklama talebi",
-      "summary": "Kamu görevlilerinin tasfiye sürecindeki fonlardan haksız kazanç elde ettiği iddialarını haberleştiren dört gazeteci hakkında soruşturma başlatıldı. Sözcü gazetesi editörü Mustafa Balcı ve gazeteci Şaban Sevinç tutuklama talebiyle mahkemeye ",
+      "title": "Anthropic, kullanıcıların yapay zeka sistemlerine karşı 'zalimce' davranmasını yasakladı",
+      "summary": "Şirket, kullanıcıların artık teknolojiye karşı \"sürekli ve gereksiz\" kötü niyetli davranışlarda bulunamayacaklarını belirtti.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cwvg0e409xp3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 16:23:49 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cqde892gyr01o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 19:04:44 GMT"
     },
     {
       "title": "Nobel Barış Ödülü, Gazze savaş suçları soruşturma komisyonu başkanı Navi Pillay'e verildi",
@@ -50,6 +50,41 @@
       "publishedAt": "Fri, 09 Oct 2026 16:04:06 GMT"
     },
     {
+      "title": "Sosyal medyaya 15 yaş sınırı: Yeni düzenleme Resmi Gazete'de",
+      "summary": "Sosyal medya platformlarının 15 yaşından küçüklere hizmet sunmasını yasaklayan yönetmelik Resmi Gazete'de yayımlandı. Yaş doğrulaması e-Devlet üzerinden yapılacak.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-10T00:51:25+03:00"
+    },
+    {
+      "title": "Türkiye'den Husilerin Suudi Arabistan'a yönelik saldırılarına tepki",
+      "summary": "Dışişleri Bakanlığı, Husilerin Suudi Arabistan'daki iki havalimanına düzenlediği saldırıları kınadı. İletişim Başkanı Burhanettin Duran da Suudi Arabistan'la dayanışma mesajı verdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-10T00:11:45+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 10 Ekim 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 10 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-10T01:00:00+03:00"
+    },
+    {
+      "title": "Son dakika Mersin'de deprem mi oldu? Az önce deprem Mersin'de nerede oldu? Mersin deprem Kandilli ve AFAD son depremler listesi 09 Ekim 2026",
+      "summary": "Son dakika Mersin deprem haberleri.. Mersin'de deprem mi oldu? Az önce deprem Mersin'de nerede oldu? Mersin Kandilli ve AFAD son depremler.. 09 Ekim 2026 Mersin deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Mersin'de",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-09T23:20:00+03:00"
+    },
+    {
+      "title": "AK Parti Sözcüsü Çelik: Linç kampanyasına izin vermeyiz",
+      "summary": "AK Parti Sözcüsü Ömer Çelik, fon soruşturmasına ilişkin, \"Bir iddia varsa üzerine gideriz, masum olanlar aklanır, suçlular bedelini öder.'' dedi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-10T00:22:05+03:00"
+    },
+    {
       "title": "150 milyon liralık yasa dışı bahis operasyonu: 12 gözaltı",
       "summary": "İstanbul’da yasa dışı bahis ve dolandırıcılık soruşturmasında 12 şüpheli yakalandı. Operasyonda 7 daire, 11 araç ve 3 motosiklete el konuldu.",
       "source": "NTV",
@@ -57,111 +92,84 @@
       "publishedAt": "2026-10-09T16:43:15+03:00"
     },
     {
-      "title": "Mahkemeden Seçil Erzan kararı",
-      "summary": "Hayali fonla suçlanan Seçil Erzan, yeniden yargılanıyor. \"Kimsenin iradesini fesada uğratmadım, kimsenin parasını cebime almadım.\" iddiasında bulunan Erzan'ın tutukluluğunun devamına hükmedildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-09T16:28:51+03:00"
-    },
-    {
-      "title": "Aşık Veysel'in kültürel mirası ABD'de bilim dünyasıyla buluştu",
-      "summary": "ABD'de düzenlenen Türk-Amerikan Bilim İnsanları ve Akademisyenler Konferansı'nda Aşık Veysel'in kültürel mirası ve evrensel mesajları ele alındı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-09T15:20:28+03:00"
-    },
-    {
-      "title": "DEM Parti heyetinden Bahçeli'ye ziyaret",
-      "summary": "DEM Parti heyetinden Pervin Buldan ve Mithat Sancar, MHP Genel Başkanı Devlet Bahçeli ile görüştü.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-09T15:53:18+03:00"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'dan muhalefete tepki: Siz önce para kulelerinin hesabını verin",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, muhalefeti FETÖ taktikleri kullanmakla suçladı. Haksızlık ve hukuksuzluğun üzerine ciddiyetle gidildiğini söyleyen Erdoğan, \"Yargı, suç işleyenin yakasında.\" dedi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-09T16:46:52+03:00"
-    },
-    {
-      "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 09 Ekim 2026",
-      "summary": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 09 Ekim 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğl",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-09T15:20:00+03:00"
-    },
-    {
-      "title": "Heyecan sürüyor!",
-      "summary": "Galatasaray Kasımpaşa maçının canlı anlatımı HT SPOR'da... Trendyol Süper Lig'in 7. haftasında Galatasaray sahasında Kasımpaşa ile karşı karşıya geliyor. Sarı-kırmızılılar rakibini mağlup ederek maç fazlasıyla liderlik koltuğuna oturmak ist",
+      "title": "Husilerin saldırısından memnun olmadığını belirtti",
+      "summary": "ABD Başkanı Donald Trump, Yemen'deki İran destekli Husilerin, Suudi Arabistan'ın başkenti Riyad'daki havalimanına yönelik saldırısından \"memnun olmadığını\" söyledi.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/galatasaray-kasimpasa-maci-canli-anlatim-gs-ksp-trendyol-super-ligi-maci-kac-kac-mac-skoru-ve-onemli-3918338",
-      "publishedAt": "Fri, 09 Oct 2026 17:24:33 GMT"
+      "link": "https://www.haberturk.com/dunya/husilerin-saldirisindan-memnun-olmadigini-belirtti-3918615",
+      "publishedAt": "Fri, 09 Oct 2026 22:06:20 GMT"
     },
     {
-      "title": "Osimhen ve Lemina, 35 gün sonra kadroda!",
-      "summary": "Trendyol Süper Lig'in 7. haftasında Kasımpaşa'yı ağırlayan Galatasaray'da sakatlığını atlatan Victor Osimhen ve Mario Lemina, 35 gün sonra kadroda yer aldı.",
+      "title": "Bayraklı Belediyesi'ne yönelik operasyonda 15 tutuklama",
+      "summary": "İzmir'de Bayraklı Belediyesi'ne yönelik \"suç işlemek amacıyla örgüt kurmak\", \"rüşvet\" ve \"ihaleye fesat karıştırmak\" iddialarına ilişkin soruşturmada, eski Belediye Başkanı Serdar Sandal'ın da aralarında bulunduğu 15 şüpheli tutuklandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/galatasaray-da-victor-osimhen-ve-mario-lemina-35-gun-sonra-kadroda-3918566",
-      "publishedAt": "Fri, 09 Oct 2026 17:42:49 GMT"
+      "link": "https://www.haberturk.com/gundem/bayrakli-belediyesi-ne-yonelik-operasyonda-15-tutuklama-3918612",
+      "publishedAt": "Fri, 09 Oct 2026 21:56:20 GMT"
     },
     {
-      "title": "Emekli zammı ne kadar olacak?",
-      "summary": "Milyonlarca SSK ve Bağ-Kur emeklisi gözünü ocak ayında alacağı emekli zammına çevrildi. TÜİK tarafından açıklanan Eylül ayı enflasyon verisi sonrasında 3 aylık enflasyon % 5,57 oldu. Bu verinin üzerine Ekim, Kasım ve Aralık enflasyonları da",
+      "title": "Sosyal medyaya 15 yaş düzenlemesi",
+      "summary": "Resmi Gazete'de yayımlanan \"Sosyal Ağ Sağlayıcı Tarafından Çocuklara Özgü Ayrıştırılmış Hizmet Sunulmasına ve Yaş Doğrulamaya İlişkin Yönetmelik\" ile sosyal ağ sağlayıcılarında çocukların korunmasına yönelik kapsamlı kurallar ve kısıtlamala",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/emekli-zammi-son-durum-ssk-bagkur-6-aylik-enflasyon-farkina-gore-en-dusuk-emekli-maas-zammi-ne-kadar-olacak-kac-tl-3918565",
-      "publishedAt": "Fri, 09 Oct 2026 17:38:46 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-sosyal-medyaya-15-yas-duzenlemesi-3918610",
+      "publishedAt": "Fri, 09 Oct 2026 21:47:44 GMT"
     },
     {
-      "title": "Bakan Fidan, Hamas heyeti ile görüştü",
-      "summary": "Dışişleri Bakanı Hakan Fidan, Hamas Siyasi Büro Başkanı Halil el-Hayye ve beraberindeki Hamas heyetini Ankara'da kabul etti.",
+      "title": "ABD ile Rusya dizel konusunda anlaştı",
+      "summary": "ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ile görüşmesinde dizel yakıt tedariki konusunda anlaşmaya vardıklarını duyurdu. Öte yandan, İran ile savaşın sona ermesinin ardından benzin fiyatlarının düşeceğini belirten Donal",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/bakan-fidan-hamas-heyeti-ile-gorustu-3918564",
-      "publishedAt": "Fri, 09 Oct 2026 17:29:56 GMT"
+      "link": "https://www.haberturk.com/dunya/trump-tan-benzin-fiyatlari-dusecek-mesaji-3918553",
+      "publishedAt": "Fri, 09 Oct 2026 21:45:11 GMT"
     },
     {
-      "title": "İki gazeteci hakkında tutuklama talebi",
-      "summary": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturmada, İsmail Saymaz ve Murat Ağırel 'dezenformasyon' suçlamasıyla 'şüpheli' sıfatıyla ifadeye çağırıldı. Gözaltına alınan Mustafa Balcı ve Şaban Sevinç adliyeye sevk edildi. Balcı ve Se",
+      "title": "İller Bankası'nın sermayesi 250 milyar liraya çıkarıldı",
+      "summary": "İller Bankası Anonim Şirketi'nin sermayesinin 250 milyar liraya yükseltilmesine ilişkin karar Resmi Gazete'de yayımlandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-iki-gazeteci-saban-sevinc-ve-mustafa-balci-hakkinda-gozalti-karari-3918335",
-      "publishedAt": "Fri, 09 Oct 2026 13:08:56 GMT"
+      "link": "https://www.haberturk.com/ekonomi/iller-bankasi-nin-sermayesi-250-milyar-liraya-cikarildi-3918609",
+      "publishedAt": "Fri, 09 Oct 2026 21:33:41 GMT"
     },
     {
-      "title": "BM'den ABD'nin UCM kararına kınama",
-      "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, ABD'nin Uluslararası Ceza Mahkemesine (UCM) yaptırım uygulama kararını kınayarak, \"Bugünkü karar, UCM'nin kilit bir rol oynadığı uluslararası ceza adaletine yönelik ortak çabalara c",
+      "title": "Yahşihan Belediyesi soruşturmasında 5 tutuklama",
+      "summary": "Kırıkkale'de Yahşihan Belediyesine yönelik yürütülen \"yolsuzluk\" soruşturmasının ikinci dalga operasyonunda, aralarında Belediye Başkanvekili Aydın Demirdirek'in de bulunduğu 5 kişi tutuklandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/bm-den-abd-nin-ucm-kararina-kinama-3918562",
-      "publishedAt": "Fri, 09 Oct 2026 17:26:22 GMT"
+      "link": "https://www.haberturk.com/gundem/yahsihan-belediyesi-sorusturmasinda-5-tutuklama-3918608",
+      "publishedAt": "Fri, 09 Oct 2026 21:27:25 GMT"
     },
     {
-      "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 21:54:28 GMT"
+    },
+    {
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
       "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 17:43:03 GMT"
+      "publishedAt": "Fri, 09 Oct 2026 18:40:10 GMT"
     },
     {
-      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+      "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 17:37:10 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 21:50:47 GMT"
     },
     {
-      "title": "Firing squad execution to be livestreamed, Pentagon says",
-      "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 16:29:47 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 09 Oct 2026 21:26:30 GMT"
     },
     {
       "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
@@ -172,14 +180,6 @@
       "publishedAt": "Fri, 09 Oct 2026 17:14:44 GMT"
     },
     {
-      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 09 Oct 2026 09:09:03 GMT"
-    },
-    {
       "title": "Man named Hitler Mussolini elected mayor in Peru",
       "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
       "source": "BBC World",
@@ -188,52 +188,76 @@
       "publishedAt": "Fri, 09 Oct 2026 16:32:22 GMT"
     },
     {
-      "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
-      "summary": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children.",
+      "title": "US judge rules Trump administration’s use of voter data unlawful",
+      "summary": "A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 17:19:43 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 21:29:01 +0000"
     },
     {
-      "title": "Palestinians seek protection from violent settlers during olive harvest",
-      "summary": "Palestinian farmers harvesting olives in the occupied West Bank are calling on international activists to protect them.",
+      "title": "Africa Cup of Nations may stay as a biennial event, says CAF chief Motsepe",
+      "summary": "CAF had declared the Africa Cup of Nations would be held every four years, but may reverse that decision.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 17:05:25 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/9/afcon-may-stay-as-a-biennial-event-says-caf-chief-motsepe?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 21:17:42 +0000"
     },
     {
-      "title": "Powerful tornado rips through western Sicily",
-      "summary": "A powerful tornado tore through western Sicily, causing destruction across the cities of Marsala and Petrosino.",
+      "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
+      "summary": "Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/powerful-tornado-rips-through-western-sicily?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 16:37:33 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 21:04:00 +0000"
     },
     {
-      "title": "DHS defends ICE shooting in NYC, says officers believed they were in danger",
-      "summary": "The shooting prompted protests in New York City and Mayor Zohran Mamdani condemned the incident.",
+      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "summary": "Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/9/dhs-defends-ice-shooting-in-nyc-says-officers-believed-they-were-in-danger?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 16:36:31 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 20:56:01 +0000"
     },
     {
-      "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-      "summary": "Belarus-linked incidents trouble Latvia and Lithuania, where experts warn of security challenges.",
+      "title": "How will Spain’s housing crisis affect elections?",
+      "summary": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 16:33:26 +0000"
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 20:39:11 +0000"
     },
     {
-      "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-      "summary": "Belgian police respond to 'troublemakers' on sidelines of main rally with tear gas, water cannon and baton charges.",
+      "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
+      "summary": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
-      "publishedAt": "Fri, 09 Oct 2026 16:07:29 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
+      "publishedAt": "Fri, 09 Oct 2026 20:29:30 +0000"
+    },
+    {
+      "title": "Fired OpenAI employees question the company's commitment to safety",
+      "summary": "The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
+      "publishedAt": "Fri, 09 Oct 2026 17:28:09 -0400"
+    },
+    {
+      "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+      "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+      "publishedAt": "Fri, 09 Oct 2026 17:24:13 -0400"
+    },
+    {
+      "title": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
+      "summary": "The Pentagon says it will livestream the firing squad execution of Nidal Hasan at Fort Hood, the site of his 2009 mass shooting. That would be the first public execution in the U.S. since the 1930s.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter",
+      "publishedAt": "Fri, 09 Oct 2026 14:55:38 -0400"
     },
     {
       "title": "U.S. working to reverse an Egyptian man's third-country deportation to Africa",
@@ -260,28 +284,12 @@
       "publishedAt": "Fri, 09 Oct 2026 12:03:32 -0400"
     },
     {
-      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
-      "summary": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
-      "source": "NPR",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward th",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
-      "publishedAt": "Fri, 09 Oct 2026 07:37:04 -0400"
-    },
-    {
-      "title": "Why American investors love European defense startups",
-      "summary": "As European defense spending takes off, just about half of the funding in Europe's defense tech industry is coming from American investors this year. One reason why: European investment firms have restrictions on how they can invest.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
-      "publishedAt": "Fri, 09 Oct 2026 07:00:00 -0400"
-    },
-    {
-      "title": "Why we remember: One student's journey into memory",
-      "summary": "Why one teen can't let go of the time he ate fries with his great-grandpa.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
-      "publishedAt": "Fri, 09 Oct 2026 05:00:00 -0400"
+      "link": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "publishedAt": "Fri, 09 Oct 2026 21:36:18 GMT"
     },
     {
       "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
       "publishedAt": "Fri, 09 Oct 2026 04:00:38 GMT"
-    },
-    {
-      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
-      "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programmeA survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is thrivi",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-      "publishedAt": "Thu, 08 Oct 2026 20:20:31 GMT"
     }
   ],
   "sports": [
@@ -321,8 +321,8 @@
       "league": "Süper Lig",
       "home": "Galatasaray",
       "away": "Kasımpaşa",
-      "homeScore": 1,
-      "awayScore": 0,
+      "homeScore": 3,
+      "awayScore": 1,
       "status": "FT",
       "date": "2026-10-09"
     },
@@ -330,29 +330,33 @@
       "league": "La Liga",
       "home": "Málaga",
       "away": "Espanyol",
-      "status": "upcoming",
+      "homeScore": 1,
+      "awayScore": 1,
+      "status": "FT",
       "date": "2026-10-09"
     },
     {
       "league": "Bundesliga",
       "home": "Borussia Dortmund",
       "away": "Werder Bremen",
-      "status": "upcoming",
+      "homeScore": 2,
+      "awayScore": 2,
+      "status": "FT",
       "date": "2026-10-09"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 19,
+      "tempC": 18,
       "description": "clear sky",
-      "high": 23,
-      "low": 15
+      "high": 26,
+      "low": 17
     },
     {
       "place": "London",
-      "tempC": 17,
-      "description": "partly cloudy",
+      "tempC": 14,
+      "description": "clear sky",
       "high": 20,
       "low": 11
     }
