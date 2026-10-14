@@ -1,37 +1,37 @@
 {
-  "updated": "2026-10-14T00:07:12.904Z",
+  "updated": "2026-10-14T08:21:55.451Z",
   "news": [
     {
+      "title": "Halk TV'ye kayyum atandı, haber yayını durduruldu",
+      "summary": "Halk TV televizyonuna 14 Ekim sabah saatlerinde kayyum atandı ve kanalın normal yayın akışı durduruldu. İstanbul Cumhuriyet Başsavcılığı, kanalın sahibi Cafer Mahiroğlu'na yönelik soruşturmada 11 kişinin gözaltında olduğunu açıkladı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cmy0eyerev48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 05:45:54 GMT"
+    },
+    {
+      "title": "Halk TV'ye kayyum atamasına ne tepkiler geliyor?",
+      "summary": "Halk TV'ye yapılan kayyum atamasına sendika ve siyasilerden tepki geliyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cvrlydy5zeero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 06:17:19 GMT"
+    },
+    {
+      "title": "İBB davasında Ekrem İmamoğlu savunmasına başlıyor",
+      "summary": "Silivri'deki İBB davasında bugün tutuklandıktan sonra görevden alınan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu savunma yapacak.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cmy93v7l7pleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 07:33:04 GMT"
+    },
+    {
       "title": "Türkiye'den Avrupa Birliği'nde vize muafiyeti hamlesi",
-      "summary": "Avrupa Birliği'nden (AB) vize muafiyeti alabilmek için ağustosta bakanlıklar arasında çalışma başlatan Türkiye, ilk somut adımı kişisel verilerin korunmasına ilişkin mevzuatta atıyor.",
+      "summary": "Avrupa Birliği'nden (AB) vize muafiyeti alabilmek için ağustos ayında bakanlıklar arasında çalışma başlatan Türkiye, ilk somut adımı kişisel verilerin korunmasına ilişkin mevzuatta atıyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cqzrdv24elemo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 13 Oct 2026 23:27:34 GMT"
-    },
-    {
-      "title": "Trump: Erdoğan Husiler konusunda 'istediğimi yapacaktır'",
-      "summary": "Donald Trump, Suudi Arabistan'ı desteklemek üzere, Yemen'e olası bir askeri müdahaleye Türkiye'nin de katılmasını isteyebileceğini söyledi. ABD Başkanı, 13 Ekim'de Alaska'da katılacağı bir mitingine doğru yola çıkmadan önce Beyaz Saray'ın ö",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ckz7x9g347yzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 19:47:29 GMT"
-    },
-    {
-      "title": "Suudi Arabistan Yemen'de akaryakıt deposunu vurdu; Riyad yakınlarında füze saldırısı engellendi",
-      "summary": "Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, TBMM'deki grup toplantısında Husilerin saldırılarını artırdığı Suudi Arabistan'a karşı \"caydırıcı güç\" kullanılmasının seçenekler arasında olabileceğini söyledi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cqj9kevpyl4ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 23:43:04 GMT"
-    },
-    {
-      "title": "Papa 14. Leo ameliyat oldu: Kanser nedeniyle akciğerinden parça alındı",
-      "summary": "Akciğerinde nodül tespit edildiği için ameliyata alınan Katolik Kilisesi lideri Papa 14. Leo'nun kanser (akciğer adenokarsinomu) olduğu ve akciğerinin sağ alt lobunun alındığı açıklandı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm5yn0wpded5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 21:25:34 GMT"
     },
     {
       "title": "'Klip editörü' gençler sosyal medyadan nasıl yüz binlerce dolar kazanıyor?",
@@ -42,113 +42,129 @@
       "publishedAt": "Tue, 13 Oct 2026 23:09:52 GMT"
     },
     {
-      "title": "AKP'den, gazeteciler Şaban Sevinç, Timur Soykan ve Yeni Partili Zeynel Emre'ye tazminat davası",
-      "summary": "AKP Genel Sekreteri Eyüp Kadir İnan, partisinin BirGün TV ve kanalın programcısı Timur Soykan, gazeteci Şaban Sevinç ve Yeni Parti Sözcüsü Zeynel Emre'ye toplam 1,6 milyon liralık manevi tazminat davası açtığını duyurdu.",
+      "title": "Trump: Erdoğan Husiler konusunda 'istediğimi yapacaktır'",
+      "summary": "Donald Trump, Suudi Arabistan'ı desteklemek üzere, Yemen'e olası bir askeri müdahaleye Türkiye'nin de katılmasını isteyebileceğini söyledi. ABD Başkanı, 13 Ekim'de Alaska'da katılacağı bir mitingine doğru yola çıkmadan önce Beyaz Saray'ın ö",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmz7x9nz928vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 17:15:22 GMT"
+      "link": "https://www.bbc.com/turkce/articles/ckz7x9g347yzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 13 Oct 2026 19:47:29 GMT"
     },
     {
-      "title": "İstanbul'da fırtına çıkacak. Saat verip, ilçe ilçe uyarı geldi",
-      "summary": "Bu hafta neredeyse her gün sağanak yağış var. İstanbul'da bugün şiddetini iyice artıracak yağışla beraber fırtına bekleniyor. AKOM ve İstanbul Valiliği saat vererek, ilçe ilçe uyarıda bulundu.",
+      "title": "Bayrampaşa'da sanayi sitesinde yangın. Ekipler müdahale ediyor",
+      "summary": "İstanbul'un Bayrampaşa ilçesinde bir sanayi sitesindeki iş yerinde yangın çıktı. İtfaiye ekiplerinin alevlere müdahalesi sürüyor.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-14T02:50:10+03:00"
+      "publishedAt": "2026-10-14T11:10:02+03:00"
     },
     {
-      "title": "Otobüs şoförleri kazaya davetiye çıkardı. Yine geri manevra ve seyir halinde sürücü değişimi",
-      "summary": "Manisa'da 11 kişinin öldüğü kazanın bir benzeri Yalova-Bursa yolunda meydana gelecekti. Sapağı kaçıran otobüs şoförünün geri manevrası faciaya davetiye çıkardı.",
+      "title": "Hemşirelik öğrencisi Edanur'u hayattan koparan sürücüye tahliye",
+      "summary": "Bartın'da hemşirelik öğrencisi Edanur Tatlıoğlu'nun ölümüne neden olan alkollü sürücü 4 yıl 5 ay 10 gün hapis cezasına çarptırılarak tahliye edildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-14T01:41:40+03:00"
+      "publishedAt": "2026-10-14T10:56:19+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Ekim 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
+      "title": "Baraj doluluk oranları 14 Ekim 2026: İstanbul barajları ne kadar, yüzde kaç dolu?",
+      "summary": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ), İstanbul'a su sağlayan barajların doluluk oranlarına ilişkin en güncel verileri paylaştı. Yaz aylarındaki sıcaklıklar ve mevsim normallerinin altında seyreden yağışların ardından baraj seviyeleri ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-14T03:00:00+03:00"
+      "publishedAt": "2026-10-14T10:55:47+03:00"
     },
     {
-      "title": "Şadi Yüksel'in ters kelepçe görüntülerine soruşturma",
-      "summary": "DEAŞ'a yönelik soruşturma kapsamında gözaltına alınan Şadi Yüksel ve beraberindeki şüphelilerin adliyeye getirilme şekliyle ilgili soruşturma başlatıldı.",
+      "title": "Mahmutbey-Habipler yolunda su baskını: Adeta trafik durdu",
+      "summary": "İstanbul’da etkili olan sağanak yağış, Mahmutbey-Habipler yolunda ulaşımı olumsuz etkiledi. Yolda biriken su nedeniyle araçlar ilerleyemedi, trafik adeta durma noktasına geldi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-13T23:48:43+03:00"
+      "publishedAt": "2026-10-14T10:24:52+03:00"
     },
     {
-      "title": "Fransa vizesinde yeni dönem: Randevu sistemi değişiyor",
-      "summary": "Fransa, Türkiye'den yapılan Schengen vizesi başvurularında randevu sistemini değiştiriyor. 15 Ekim'den itibaren turistik ve özel ziyaret amaçlı başvurularda bekleme listesi uygulamasına geçilecek.",
+      "title": "İstanbul'u sağanak ve fırtına vurdu. Yollar göle döndü, bir kadın suya kapıldı",
+      "summary": "Peş peşe gelen uyarıların ardından sağanak yağışın şiddetlendiği İstanbul'da yollar göle döndü. Esenyurt'ta suya kapılan kadın vatandaşların yardımıyla kurtarıldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-13T23:15:14+03:00"
+      "publishedAt": "2026-10-14T11:16:23+03:00"
     },
     {
-      "title": "Süper Loto çekiliş sonuçları belli oldu: 13 Ekim 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
-      "summary": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikrami",
+      "title": "İBB davasında Ekrem İmamoğlu savunma yapacak",
+      "summary": "Tutuklandıktan sonra İstanbul Büyükşehir Belediye (İBB) Başkanlığı görevinden uzaklaştırılan Ekrem İmamoğlu, bugün mahkemede savunma yapacak.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-13T22:05:19+03:00"
+      "publishedAt": "2026-10-14T10:30:14+03:00"
     },
     {
-      "title": "Papa 14. Leo'ya akciğer kanseri tanısı kondu",
-      "summary": "Vatikan Devlet Başkanı Papa 14. Leo'nun, akciğerinde tespit edilen kitle (nodül) nedeniyle dünkü ameliyatının başarılı geçtiği ve öncesindeki testlerde şüphelenildiği gibi akciğer kanseri tanısının doğrulandığı bildirildi",
+      "title": "Boğazını kesip öldürdü! Savunması şaşırttı",
+      "summary": "Bursa'da, tartıştığı 36 yaşındaki Hamdullah Yaman'ı boğazından bıçaklayıp öldüren tutuklu sanık 20 yaşındaki Maşallah Tan ile aynı yaştaki Mücahit Sertkaya'nın yargılanmasına devam edildi. Müebbet hapis cezası istenen Maşallah Tan, \"Olay sı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/papa-14-leo-ya-akciger-kanseri-tanisi-kondu-3919519",
-      "publishedAt": "Tue, 13 Oct 2026 23:20:06 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-bogazini-kesip-oldurdu-savunmasi-sasirtti-bursa-haberleri-3919568",
+      "publishedAt": "Wed, 14 Oct 2026 08:13:56 GMT"
     },
     {
-      "title": "İki ilde uyuşturucu operasyonu: 6 tutuklama",
-      "summary": "Aydın ve İzmir'de düzenlenen uyuşturucu operasyonunda gözaltına alınan 15 şüpheliden 6'sı tutuklandı",
+      "title": "Kumköy sahili, yine çöplüğe döndü",
+      "summary": "Antalya'nın Aksu ilçesinde daha önce çöpler, kumsala gömülen araç lastikleriyle oluşturulmuş lağım çukurları ile gündem olan Kumköy sahili, kirlilik haberleri sonrası temizlenmesinin ardından yeniden kendi haline bırakıldı. Caretta carettal",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/aydin-ve-izmir-de-uyusturucu-operasyonu-6-tutuklama-3919518",
-      "publishedAt": "Tue, 13 Oct 2026 22:51:11 GMT"
+      "link": "https://www.haberturk.com/gundem/foto/kumkoy-sahili-yine-copluge-dondu-3919586",
+      "publishedAt": "Wed, 14 Oct 2026 08:13:18 GMT"
     },
     {
-      "title": "\"Bu atmosferde oyunu değiştirmek önemliydi\"",
-      "summary": "Barcelona Teknik Direktörü Hansi Flick, UEFA Şampiyonlar Ligi'nde 4-1 kazandıkları Galatasaray maçının ardından açıklamalarda bulundu. 2. yarıda oyunu değiştirdiklerini belirten Alman çalıştırıcı, \"Bazı top kayıpları yaşadık. Özellikle raki",
+      "title": "Gaz sızıntısı nedeniyle 2 okul tahliye edildi",
+      "summary": "Kahramanmaraş'ta, okul yanındaki inşaat çalışması sırasında gaz sızıntısından etkilenen öğrenciler ambulanslarla hastaneye sevk edildi. Tedbiren 2 okul tahliye edildi. Olayla ilgili başlatılan soruşturma sürüyor",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/hansi-flick-bu-atmosferde-oyunu-degistirmek-onemliydi-3919517",
-      "publishedAt": "Tue, 13 Oct 2026 22:37:05 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-gaz-sizintisi-nedeniyle-2-okul-tahliye-edildi-3919603",
+      "publishedAt": "Wed, 14 Oct 2026 08:12:00 GMT"
     },
     {
-      "title": "\"Yemen Şafağı operasyonu hedefine doğru ilerlemektedir\"",
-      "summary": "Yemen Başkanlık Konseyi Başkanı Reşad el-Uleymi, \"Yemen Şafağı\" operasyonunun Suudi Arabistan'ın desteğiyle nihai hedefine doğru \"kararlılıkla\" ilerlediğini belirtti.",
+      "title": "Ukrayna'dan SpaceX'e suçlama",
+      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin savunma teknolojisi alanlarının geliştirilmesi konusundaki danışmanı Sergiy Beskrestnov, ABD merkezli SpaceX'in Starlink sisteminin, Ukrayna ordusunun kullandığı \"askeri paket\" internet hizmeti",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/yemen-safagi-operasyonu-hedefine-dogru-ilerlemektedir-3919515",
-      "publishedAt": "Tue, 13 Oct 2026 22:33:22 GMT"
+      "link": "https://www.haberturk.com/ekonomi/ukrayna-dan-spacex-e-suclama-3919604",
+      "publishedAt": "Wed, 14 Oct 2026 08:10:10 GMT"
     },
     {
-      "title": "Suudi Arabistan'a yönelik füzeli saldırı",
-      "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, başkent Riyad'da engellenen iki seyir füzesine ait şarapnel parçalarının düşmesi sonucu 4 kişinin yaralandığını ve 15 evde maddi hasar meydana geldiğini duyurdu.",
+      "title": "İstanbul'da yoğun yağış! Yollar göle döndü",
+      "summary": "İstanbul Esenyurt'ta şiddetli yağışta faciadan kıl payı dönüldü. İlçede sağanak yağış nedeniyle göle dönen yolda bir kadın suya kapıldı. Vatandaşlar kadını kurtarırken o anlar kameraya yansıdı. Öte yandan megakentin birçok ilçesinde şiddeti",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/suudi-arabistan-da-patlama-sesleri-3919471",
-      "publishedAt": "Tue, 13 Oct 2026 22:28:56 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-istanbul-da-korku-dolu-dakikalar-yollar-gole-dondu-kadin-suya-kapildi-3919548",
+      "publishedAt": "Wed, 14 Oct 2026 08:09:16 GMT"
     },
     {
-      "title": "\"AİHM'e uyumumuz yüzde 90 civarında\"",
-      "summary": "TBMM Avrupa Birliği Uyum Komisyonu'nda sunum yapan Dışişleri Bakan Yardımcısı Mehmet Kemal Bozay, \"Avrupa Konseyi’nin üyesiyiz. Avrupa Birliği üyesi değiliz ama kararlara uyum konusunda, yanılmıyorsam, yüzde 90 civarında bir oranımız var\" d",
+      "title": "Tuzla'da 60 yıllık 726 parsel sorunu çözülüyor",
+      "summary": "İstanbul'un Tuzla Belediye Başkanı Av. Eren Ali Bingöl, Mimar Sinan Mahallesi'nde yaklaşık 60 yıldır çözüme kavuşmayı bekleyen 726 parsel sorununa ilişkin vatandaşlarla bir araya geldi. Binlerce vatandaşı ilgilendiren mülkiyet ve kentsel dö",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/aihm-e-uyumumuz-yuzde-90-civarinda-3919516",
-      "publishedAt": "Tue, 13 Oct 2026 22:27:45 GMT"
+      "link": "https://www.haberturk.com/gundem/tuzla-da-60-yillik-726-parsel-sorunu-cozuldu-3919599",
+      "publishedAt": "Wed, 14 Oct 2026 08:08:35 GMT"
+    },
+    {
+      "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+      "summary": "Ukraine's president says \"critical\" infrastructure was hit overnight, while emergency services say at least three were killed.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 07:21:50 GMT"
     },
     {
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 20:46:06 GMT"
+      "publishedAt": "Wed, 14 Oct 2026 07:23:46 GMT"
     },
     {
-      "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 08:17:43 GMT"
+    },
+    {
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
       "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
       "source": "BBC World",
       "lang": "en",
@@ -172,68 +188,60 @@
       "publishedAt": "Tue, 13 Oct 2026 15:52:15 GMT"
     },
     {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 22:29:55 GMT"
-    },
-    {
-      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
-      "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 19:51:14 GMT"
-    },
-    {
-      "title": "Ex-gang leader gets 40 years to life for rapper Tupac Shakur’s 1996 murder",
-      "summary": "A 30-year hunt for justice ends with the sentencing of Duane 'Keffe D' Davis, who has written about Shakur's shooting.",
+      "title": "Palestinians say Israel’s democracy ‘is a joke’",
+      "summary": "As Israelis prepare to vote, Palestinians in the occupied West Bank say they have little hope of change.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/13/ex-gang-leader-gets-40-years-to-life-for-rapper-tupac-shakurs-1996-murder?traffic_source=rss",
-      "publishedAt": "Tue, 13 Oct 2026 23:42:57 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 07:41:20 +0000"
     },
     {
-      "title": "Manchester United’s Martinez blasts board’s lack of investment",
-      "summary": "Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club's failure to invest in team.",
+      "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
+      "summary": "Demolished homes, shifting military lines, stalled withdrawals leave Lebanese uncertain if they can return.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss",
-      "publishedAt": "Tue, 13 Oct 2026 22:57:56 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 07:38:09 +0000"
     },
     {
-      "title": "Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds",
-      "summary": "Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.",
+      "title": "Yamal magic helps Barcelona beat Galatasaray in Champions League",
+      "summary": "Yamal provided two assists and 'turned the game around' for Barcelona, who won 4-1 in Istanbul.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss",
-      "publishedAt": "Tue, 13 Oct 2026 22:56:24 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/14/yamal-magic-helps-barcelona-beat-galatasaray-in-champions-league?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 07:35:43 +0000"
     },
     {
-      "title": "Mauritius imposes curfew after night of unrest over police shooting",
-      "summary": "Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.",
+      "title": "Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters",
+      "summary": "Kabila's move confirms numerous accusations from the government in Kinshasa of his ties to armed rebels.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss",
-      "publishedAt": "Tue, 13 Oct 2026 22:41:59 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 07:32:24 +0000"
     },
     {
-      "title": "Albanian police fire tear gas at protesters as Education Ministry attacked",
-      "summary": "At least 23 protesters have been arrested in demonstrations in the capital.",
+      "title": "Why Sri Lanka’s Rajapaksas are being investigated for corruption and crimes",
+      "summary": "Several members and allies of once-powerful dynasty, including the wife of ex-President Mahinda Rajapaksa, are under arrest.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/13/albanian-police-fire-tear-gas-at-protesters-as-education-ministry-attacked?traffic_source=rss",
-      "publishedAt": "Tue, 13 Oct 2026 22:33:50 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 07:31:34 +0000"
     },
     {
-      "title": "Man City vs PSG: Champions League – teams, predictions, line ups",
-      "summary": "Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches.",
+      "title": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
+      "summary": "At least six people have been killed in overnight Russian attacks across Ukraine.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
-      "publishedAt": "Tue, 13 Oct 2026 22:17:26 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 07:08:32 +0000"
+    },
+    {
+      "title": "CNN, MS NOW and Politico prevail against White House — for now",
+      "summary": "A federal judge ruled late Tuesday that President Trump cannot ban news organizations from covering him at the White House because he does not like the nature of their coverage - at least, not until the matter goes to a formal trial.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban",
+      "publishedAt": "Wed, 14 Oct 2026 03:16:02 -0400"
     },
     {
       "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
@@ -276,14 +284,6 @@
       "publishedAt": "Tue, 13 Oct 2026 15:23:57 -0400"
     },
     {
-      "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
-      "summary": "Ukrainian President Volodymyr Zelenskyy sat down for an interview with NPR at a time of renewed tensions with the White House.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
-      "publishedAt": "Tue, 13 Oct 2026 14:51:55 -0400"
-    },
-    {
       "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
       "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward th",
       "source": "The Guardian",
@@ -320,17 +320,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 17,
+      "tempC": 18,
       "description": "light rain",
-      "high": 19,
+      "high": 20,
       "low": 16
     },
     {
       "place": "London",
-      "tempC": 14,
-      "description": "clear sky",
-      "high": 19,
-      "low": 11
+      "tempC": 11,
+      "description": "mainly clear",
+      "high": 18,
+      "low": 10
     }
   ],
   "facts": [
