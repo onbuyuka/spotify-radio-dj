@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T14:18:53.264Z",
+  "updated": "2026-10-14T19:09:27.548Z",
   "news": [
     {
       "title": "Başörtüsü protestoları Aliyev hükümeti için tehdit mi?",
@@ -10,12 +10,20 @@
       "publishedAt": "Wed, 14 Oct 2026 13:17:51 GMT"
     },
     {
-      "title": "İmamoğlu'nun savunması: 'Bir demokrasiyi öldürmenin üç yolu vardır'",
+      "title": "İstanbul'da sağanak yağış: Sel, su baskınları ve yoğun trafik",
+      "summary": "İstanbul'da etkisini artıran sağanak yağış yüzünden kentin birçok kesiminden sel ve su baskınları haberleri geliyor. İlde 15 Ekim'de okullar tatil edildi. Vali Gül halka zorunlu olmadıkça evlerinden çıkmamaları çağırısı yaptı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 17:55:02 GMT"
+    },
+    {
+      "title": "Ekrem İmamoğlu savunmasının ilk gününde Halk TV, fon krizi ve yasaklanan kitabı hakkında konuştu",
       "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, İstanbul Büyükşehir Belediyesi (İBB) davasında yaklaşık 600 gün sonra savunma yapıyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cmy93v7l7pleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 14:09:26 GMT"
+      "publishedAt": "Wed, 14 Oct 2026 15:45:23 GMT"
     },
     {
       "title": "CHP'den Halk TV açıklaması: 'Faturayı Kılıçdaroğlu'na çıkarmak hadsizliktir'",
@@ -23,7 +31,7 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cvrlydy5zeero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 06:17:19 GMT"
+      "publishedAt": "Wed, 14 Oct 2026 17:32:53 GMT"
     },
     {
       "title": "Halk TV nasıl kuruldu, CHP'yle ilişkileri nasıldı, yayın sürecinde neler yaşandı?",
@@ -34,20 +42,33 @@
       "publishedAt": "Wed, 14 Oct 2026 12:57:38 GMT"
     },
     {
-      "title": "Dünyanın en eski gemi batığı Antalya'da keşfedildi",
-      "summary": "Arkeologlar, batığın 4.700 yıla kadar eski olduğunu ve Erken Tunç Çağı'na ait olduğunu söylüyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cr15jvepdewxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 11:21:19 GMT"
-    },
-    {
       "title": "Trump: Erdoğan Husiler konusunda 'istediğimi yapacaktır'",
       "summary": "Donald Trump, Suudi Arabistan'ı desteklemek üzere, Yemen'e olası bir askeri müdahaleye Türkiye'nin de katılmasını isteyebileceğini söyledi. ABD Başkanı, 13 Ekim'de Alaska'da katılacağı bir mitingine doğru yola çıkmadan önce Beyaz Saray'ın ö",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/ckz7x9g347yzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 13 Oct 2026 19:47:29 GMT"
+    },
+    {
+      "title": "Cumhurbaşkanlığı Yüksek İstişare Kurulu toplandı",
+      "summary": "Cumhurbaşkanlığı Yüksek İstişare Kurulu, Cumhurbaşkanı Erdoğan başkanlığında toplandı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-14T20:49:01+03:00"
+    },
+    {
+      "title": "İstanbul'da okullar tatil edildi. Vali Gül'den \"dışarı çıkmayın\" uyarısı",
+      "summary": "İstanbul'da şiddetli yağış nedeniyle okullar yarın tatil edildi. Bugün saat 21.00 itibariyle motosikletlerin trafiğe çıkmaları da yasaklandı. Vali Gül'den de önemli bir uyarı geldi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-14T21:58:11+03:00"
+    },
+    {
+      "title": "Eski SPK Başkanı Gönül hakkında soruşturma izni",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, İstanbul Cumhuriyet Başsavcılığının talebi üzerine yapılan ön incelemenin ardından eski SPK Başkanı İbrahim Ömer Gönül hakkında soruşturma izni verdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-14T17:57:47+03:00"
     },
     {
       "title": "Başakşehir’de sağanak sonrası ilginç görüntü: Su basan yola olta attı",
@@ -71,73 +92,52 @@
       "publishedAt": "2026-10-14T15:08:51+03:00"
     },
     {
-      "title": "Kripto dünyasında \"Balina James\" olarak tanınıyor. Beşiktaş'ta yakalandı, evden servet çıktı",
-      "summary": "Interpol tarafından uluslararası düzeyde kırmızı bültenle aranan \"Balina James\" lakaplı kripto dolandırıcısı Richard James Schueler, İstanbul'da eşiyle birlikte yakalandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-14T14:37:22+03:00"
-    },
-    {
-      "title": "16 yaşındaki Gülden 30 bıçak darbesiyle öldürülmüştü. Delilleri gizleyen sanıklar hakkında karar",
-      "summary": "Edirne'de Gülden Coni'nin katilinin babası, annesi ve teyzesi iyi hal indirimi uygulanarak beşer ay hapis cezasına çarptırıldı. Hükmün açıklanması geri bırakıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-14T13:47:15+03:00"
-    },
-    {
-      "title": "Dışişleri Bakanı Hakan Fidan Azerbaycan'a gidiyor",
-      "summary": "Dışişleri Bakanı Hakan Fidan, yarın Azerbaycan'a gidiyor. Fidan, Asya'da İşbirliği ve Güven Artırıcı Önlemler Konferansı Devlet ve Hükümet Başkanları Konseyi Yedinci Toplantısı'na katılacak.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-14T13:05:51+03:00"
-    },
-    {
-      "title": "İstanbul Valiliği'nden kritik yağış uyarısı! Bu saatlere dikkat!",
-      "summary": "İstanbul Valiliği, kentte yağışların sağanak ve gök gürültülü sağanak şeklinde devam edeceğini belirtti. Açıklamada, \"Avrupa Yakası'nda sabah saatlerine, Anadolu Yakası'nda öğle saatlerine kadar kuvvetli, yer yer çok kuvvetli, sağanak ve gö",
+      "title": "İstanbul'u sağanak vurdu",
+      "summary": "İstanbul'da dün başlayan bugün de devam eden sağanak yağış akşam saatlerine doğru etkisini iyice artırdı. İşlerinden ve okullarından evlerine dönen vatandaşlar zor anlar yaşadı. Bazı noktalarda yollar göle döndü. Birçok ilçede evleri su bas",
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/gundem/son-dakika-hava-durumu-istanbul-valiligi-nden-kritik-yagis-uyarisi-bu-saatlere-dikkat-3919704",
-      "publishedAt": "Wed, 14 Oct 2026 13:57:59 GMT"
+      "publishedAt": "Wed, 14 Oct 2026 19:00:52 GMT"
     },
     {
-      "title": "Sigortacıların ortak gücü görünür oldu",
-      "summary": "Türkiye Sigorta Birliği öncülüğünde gerçekleştirilen 15’inci Sigorta Haftası, sigortanın günlük yaşamdan üretime, afetlere hazırlıktan geleceğin yatırımlarına uzanan rolünü geniş bir etkinlik programıyla gündeme taşıdı. Haftanın öne çıkan b",
+      "title": "Heyecan sürüyor!",
+      "summary": "Temsilcimiz Fenerbahçe, UEFA Şampiyonlar Ligi'nin ikinci haftasında İngiliz ekibi Aston Villa ile deplasmanda karşı karşıya geliyor. Avrupa'nın kulüpler düzeyindeki en büyük futbol organizasyonuna 18 yıl sonra elemelerden katılan Fenerbahçe",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/15inci-sigorta-haftasi-sigortanin-toplumsal-degerini-ve-sektorun-ortak-gucunu-gorunur-kildi--3919710",
-      "publishedAt": "Wed, 14 Oct 2026 14:00:45 GMT"
+      "link": "https://www.haberturk.com/spor/aston-villa-fenerbahce-maci-canli-anlatim-aston-villa-fb-uefa-sampiyonlar-ligi-maci-kac-kac-mac-3919562",
+      "publishedAt": "Wed, 14 Oct 2026 19:02:04 GMT"
     },
     {
-      "title": "Kadın girişimcilere e-ticaret eğitimi",
-      "summary": "Aile ve Sosyal Hizmetler Bakanlığı ile Hepsiburada iş birliğinde yürütülen “Türkiye’nin Girişimci Kadınları Buluşuyor” programı, Gaziantep’te düzenlenen dördüncü buluşmayla devam etti. Programda kadın girişimcilere e-ticaret, dijital pazarl",
+      "title": "Murat Boz'dan yardım çağrısı",
+      "summary": "Ünlü şarkıcı Murat Boz, İstanbul'daki sağanak yağış nedeniyle su basan stüdyoda yüzlerce çalışanla birlikte mahsur kaldığını açıkladı. Boz, yetkililerden yardım istedi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/turkiyenin-girisimci-kadinlari-gaziantepte-bulustu-3919709",
-      "publishedAt": "Wed, 14 Oct 2026 14:00:08 GMT"
+      "link": "https://www.haberturk.com/magazin/murat-boz-dan-yardim-cagrisi-3919738",
+      "publishedAt": "Wed, 14 Oct 2026 19:01:43 GMT"
     },
     {
-      "title": "'Kızılcık Şerbeti'nde büyük sürpriz",
-      "summary": "SHOW TV'nin fenomen yapımı 'Kızılcık Şerbeti'nin Nursema'sı Ceren Karakoç, diziye geri dönüyor",
+      "title": "\"Elimizden gelenin en iyisini yapmak istiyoruz\"",
+      "summary": "UEFA Avrupa Ligi 2. haftasında temsilcimiz Beşiktaş, deplasmanda Hoffenheim'a konuk olacak. Zorlu mücadele öncesi Beşiktaş Teknik Direktörü Vincenzo Italiano basın toplantısında, “Yarın da önümüzde çok zor bir deplasman var, iyi bir takıma ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/kizilcik-serbeti-nde-buyuk-surpriz-3919705",
-      "publishedAt": "Wed, 14 Oct 2026 13:56:33 GMT"
+      "link": "https://www.haberturk.com/spor/hoffenheim-maci-oncesi-besiktas-teknik-direktoru-vincenzo-italiano-elimizden-gelenin-en-iyisini-yapmak-istiyoruz-3919776",
+      "publishedAt": "Wed, 14 Oct 2026 19:01:18 GMT"
     },
     {
-      "title": "Antalya 14 milyon yabancı turist ağırladı",
-      "summary": "Akdeniz Turistik Otelciler ve İşletmeciler Birliği Başkanı Kavaloğlu, Antalya'nın yılın başından bu yana 14 milyon yabancı turisti konuk ettiğini, bunun küresel alandaki savaşlara ve ekonomik durgunluklara rağmen önemli bir başarı olduğunu ",
+      "title": "A101 aktüel ürünler kataloğu 15 Ekim 2026",
+      "summary": "A101 aktüel ürünler kataloğu yayınlandı. 15 Ekim Perşembe günü A101’de elektrikli çocuk motosikleti, oyuncak sesli ışıklı stantlı süpürge, elektrikli 4 tekerlekli kasalı golf arabası indirimde olacak. Dikkat çeken ürünler arasında ATV, Moto",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/antalya-yilin-basindan-bu-yana-14-milyon-yabanci-turist-agirladi-3919708",
-      "publishedAt": "Wed, 14 Oct 2026 13:53:31 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/a101-aktuel-urunler-katalogu-15-ekim-2026-atv-motosiklet-elektrikli-isitici-fan-a101-aktuel-urunler-katalogunda-neler-var-3919775",
+      "publishedAt": "Wed, 14 Oct 2026 18:56:58 GMT"
     },
     {
-      "title": "\"Bir yıldır bu maçlar için hazırlanıyoruz\"",
-      "summary": "UEFA Avrupa Ligi'nin ikinci haftasında Beşiktaş'ı konuk edecek Hoffenheim'ın teknik direktörü Christian Ilzer ve milli futbolcu Ozan Kabak açıklamalarda bulundu",
+      "title": "\"Husilerin sivilleri hedef alması savaş suçudur\"",
+      "summary": "Yemen Başbakanı Şayi Muhsin ez-Zindani, Husilerin sivilleri hedef almaya ve Taiz kentini kuşatmaya devam etmesinin zaman aşımına uğramayacak bir \"savaş suçu\" olduğunu belirterek, sorumluların cezasız kalmayacağını vurguladı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/christian-ilzer-bir-yildir-bu-maclar-icin-hazirlaniyoruz-3919706",
-      "publishedAt": "Wed, 14 Oct 2026 13:52:10 GMT"
+      "link": "https://www.haberturk.com/dunya/husilerin-sivilleri-hedef-almasi-savas-sucudur-3919774",
+      "publishedAt": "Wed, 14 Oct 2026 18:55:55 GMT"
     },
     {
       "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
@@ -148,20 +148,20 @@
       "publishedAt": "Wed, 14 Oct 2026 13:11:17 GMT"
     },
     {
-      "title": "US inflation rises more than expected ahead of midterm elections",
+      "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+      "summary": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 15:12:46 GMT"
+    },
+    {
+      "title": "US inflation rises more than expected - here's what is happening with prices",
       "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 13:40:36 GMT"
-    },
-    {
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 11:17:51 GMT"
+      "publishedAt": "Wed, 14 Oct 2026 15:26:14 GMT"
     },
     {
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
@@ -172,68 +172,68 @@
       "publishedAt": "Wed, 14 Oct 2026 13:41:51 GMT"
     },
     {
-      "title": "Saudi employee charged with planting recording device in OpenAI office",
-      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 13 Oct 2026 21:42:49 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 13:35:29 GMT"
     },
     {
-      "title": "Turkish police raid opposition TV station, halting live broadcasts",
-      "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 10:50:11 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 16:47:32 GMT"
     },
     {
-      "title": "Colombia inaugurates embassy to Israel in Jerusalem",
-      "summary": "Move by Colombia's new right-wing government marks a major shift after former President Petro severed ties with Israel.",
+      "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
+      "summary": "Twenty Bangladeshi victims have been killed after being used by Russia as 'bait' to locate enemy positions, police say.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 14:08:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 19:02:51 +0000"
     },
     {
-      "title": "Two scenarios for the Yemen war",
-      "summary": "What comes next is either a retreat for the Houthis or a war of attrition.",
+      "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
+      "summary": "Bar and Netanyahu have traded blame over the Hamas-led attack, as elections in Israel loom.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 13:50:28 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 18:39:03 +0000"
     },
     {
-      "title": "UK restaurateur claims losses after video calling for Gaza destruction",
-      "summary": "A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.",
+      "title": "Real Madrid’s Vinicius banned for Clasico after hair-pull red card",
+      "summary": "Vinicius will miss El Clasico on October 25 in his four-match ban for pulling Saliba's hair in La Liga.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 13:28:21 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 18:03:46 +0000"
     },
     {
-      "title": "How AI apps are offering free substitutes for Big Tech software",
-      "summary": "AI-developed ArtCraft is challenging Adobe after disrupting legacy software's economic model.",
+      "title": "How six Ukrainian divers could have blown up Russia’s $20bn pipelines",
+      "summary": "A Ukrainian military officer is on trial in Germany over an act of sabotage that remained unsolved for years.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 13:25:35 +0000"
+      "link": "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 18:00:44 +0000"
     },
     {
-      "title": "Russia arrests Japanese journalist on suspicion of ‘espionage’",
-      "summary": "A Japanese journalist has been detained in Russia on suspicion of spying for Japanese intelligence.",
+      "title": "Ex-UK army chef jailed for ‘terror’-related offence",
+      "summary": "The former British Army member harboured 'extreme right-wing' views and was ordering explosives components, say police.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 13:22:46 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 17:32:09 +0000"
     },
     {
-      "title": "What we know about OpenAI engineer arrested over office spying",
-      "summary": "Saudi OpenAI employee was arrested over allegations he planted a hidden device to record sensitive company conversations",
+      "title": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
+      "summary": "The Six Kings Slam exhibition tournament has been pushed from October to December by Saudi organisers.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 13:18:02 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/14/saudi-tennis-slam-with-alcaraz-djokovic-postponed-amid-houthi-attacks?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 17:11:57 +0000"
     },
     {
       "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
@@ -245,7 +245,7 @@
     },
     {
       "title": "Hands-on with the Ocarina of Time remake, the most ornate Zelda game ever made",
-      "summary": "We got to play the The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
+      "summary": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/10/14/nx-s1-5961483/preview-zelda-ocarina-of-time-remake-switch-2",
@@ -276,11 +276,11 @@
       "publishedAt": "Wed, 14 Oct 2026 05:09:39 -0400"
     },
     {
-      "title": "'They're stealing from the poor': A major source of SNAP fraud robs recipients of millions",
-      "summary": "Organized criminal rings target SNAP recipients because of the government program's outdated security features. But upgrading the tech costs money and states' SNAP budgets are getting squeezed.",
+      "title": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
+      "summary": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor's office back to Republican control, even in what could be a tough year for the GOP.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/14/nx-s1-5985198/snap-fraud-ebt-card-skimming-chip-cards",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
       "publishedAt": "Wed, 14 Oct 2026 05:00:00 -0400"
     },
     {
@@ -320,16 +320,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 18,
+      "tempC": 17,
       "description": "rain",
       "high": 19,
       "low": 16
     },
     {
       "place": "London",
-      "tempC": 18,
+      "tempC": 17,
       "description": "overcast",
-      "high": 18,
+      "high": 19,
       "low": 10
     }
   ],
