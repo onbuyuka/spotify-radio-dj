@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T19:09:27.548Z",
+  "updated": "2026-10-14T23:39:04.414Z",
   "news": [
     {
       "title": "Başörtüsü protestoları Aliyev hükümeti için tehdit mi?",
@@ -10,12 +10,12 @@
       "publishedAt": "Wed, 14 Oct 2026 13:17:51 GMT"
     },
     {
-      "title": "İstanbul'da sağanak yağış: Sel, su baskınları ve yoğun trafik",
+      "title": "İstanbul'da sağanak yağış: Sel, su baskınları ve Vali Gül'den dışarı çıkmayın uyarısı",
       "summary": "İstanbul'da etkisini artıran sağanak yağış yüzünden kentin birçok kesiminden sel ve su baskınları haberleri geliyor. İlde 15 Ekim'de okullar tatil edildi. Vali Gül halka zorunlu olmadıkça evlerinden çıkmamaları çağırısı yaptı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 17:55:02 GMT"
+      "publishedAt": "Wed, 14 Oct 2026 20:37:59 GMT"
     },
     {
       "title": "Ekrem İmamoğlu savunmasının ilk gününde Halk TV, fon krizi ve yasaklanan kitabı hakkında konuştu",
@@ -26,12 +26,12 @@
       "publishedAt": "Wed, 14 Oct 2026 15:45:23 GMT"
     },
     {
-      "title": "CHP'den Halk TV açıklaması: 'Faturayı Kılıçdaroğlu'na çıkarmak hadsizliktir'",
-      "summary": "Halk TV'ye yapılan kayyum atamasına sendika ve siyasilerden tepki geliyor.",
+      "title": "Fenerbahçe Aston Villa deplasmanında 6-0'lık farklı skorla yenildi",
+      "summary": "UEFA Şampiyonlar Ligi'nde mücadele eden Türk temsilcilerden Fenerbahçe, ligin ikinci hafta maçında İngiltere Premier Lig takımlarından Aston Villa'ya farklı mağlup oldu.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cvrlydy5zeero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 17:32:53 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 22:26:24 GMT"
     },
     {
       "title": "Halk TV nasıl kuruldu, CHP'yle ilişkileri nasıldı, yayın sürecinde neler yaşandı?",
@@ -50,6 +50,27 @@
       "publishedAt": "Tue, 13 Oct 2026 19:47:29 GMT"
     },
     {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 15 Ekim 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 15 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-15T02:30:00+03:00"
+    },
+    {
+      "title": "Su birikintisinde elektrik akımına kapılan çocuk hayatını kaybetti",
+      "summary": "İstanbul Valiliği, Fatih'te su birikintisinde elektrik akımına yapılan M.I'nın (14) hayatını kaybettiğini bildirdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-14T23:41:48+03:00"
+    },
+    {
+      "title": "43 uçak İstanbul Havalimanı'na inemedi",
+      "summary": "İstanbul'da şiddetli yağış, hava ulaşımını da etkiledi. İstanbul Havalimanı’na iniş yapamayan 43 uçak, alternatif havalimanlarına yönlendirildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-14T23:34:01+03:00"
+    },
+    {
       "title": "Cumhurbaşkanlığı Yüksek İstişare Kurulu toplandı",
       "summary": "Cumhurbaşkanlığı Yüksek İstişare Kurulu, Cumhurbaşkanı Erdoğan başkanlığında toplandı.",
       "source": "NTV",
@@ -57,11 +78,11 @@
       "publishedAt": "2026-10-14T20:49:01+03:00"
     },
     {
-      "title": "İstanbul'da okullar tatil edildi. Vali Gül'den \"dışarı çıkmayın\" uyarısı",
-      "summary": "İstanbul'da şiddetli yağış nedeniyle okullar yarın tatil edildi. Bugün saat 21.00 itibariyle motosikletlerin trafiğe çıkmaları da yasaklandı. Vali Gül'den de önemli bir uyarı geldi.",
+      "title": "5 ilde okullar tatil edildi. İstanbul Valisi Gül'den \"dışarı çıkmayın\" uyarısı",
+      "summary": "İstanbul da dahil 6 ilde şiddetli yağış nedeniyle okullar bugün tatil edildi. Motosikletlerin trafiğe çıkmaları yasaklandı. Vali Gül'den de önemli bir uyarı geldi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-14T21:58:11+03:00"
+      "publishedAt": "2026-10-15T02:23:22+03:00"
     },
     {
       "title": "Eski SPK Başkanı Gönül hakkında soruşturma izni",
@@ -71,81 +92,68 @@
       "publishedAt": "2026-10-14T17:57:47+03:00"
     },
     {
-      "title": "Başakşehir’de sağanak sonrası ilginç görüntü: Su basan yola olta attı",
-      "summary": "İstanbul’da sabah saatlerinden itibaren etkili olan şiddetli sağanak yağış nedeniyle Başakşehir’de bazı yollar su altında kaldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-14T15:59:17+03:00"
-    },
-    {
-      "title": "Bahçeli: Türkiye-Azerbaycan ilişkileri iki milletin gönül bağına dayanmaktadır",
-      "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, \"Türkiye ve Azerbaycan aynı gönül coğrafyasının iki güçlü devletidir. Aramıza nifak tohumu ekilmemeli.\" dedi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-14T15:58:54+03:00"
-    },
-    {
-      "title": "İstanbul'da yağmurun etkisiyle denizin rengi değişti",
-      "summary": "İstanbul'da etkili olan sağanak yağışın etkisiyle denizin rengi değişti. Sağanakla birlikte rengi kahverengiye dönen İstanbul Boğazı havadan görüntülendi",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-14T15:08:51+03:00"
-    },
-    {
-      "title": "İstanbul'u sağanak vurdu",
-      "summary": "İstanbul'da dün başlayan bugün de devam eden sağanak yağış akşam saatlerine doğru etkisini iyice artırdı. İşlerinden ve okullarından evlerine dönen vatandaşlar zor anlar yaşadı. Bazı noktalarda yollar göle döndü. Birçok ilçede evleri su bas",
+      "title": "5 ilde okullar tatil edildi!",
+      "summary": "Zonguldak, Sakarya, Yalova, Kocaeli ve Düzce'de etkisini artırması beklenen sağanak nedeniyle tüm okullarda eğitime bugün ara verildi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-hava-durumu-istanbul-valiligi-nden-kritik-yagis-uyarisi-bu-saatlere-dikkat-3919704",
-      "publishedAt": "Wed, 14 Oct 2026 19:00:52 GMT"
+      "link": "https://www.haberturk.com/gundem/yalova-valiligi-siddetli-yagis-nedeniyle-okullarin-tatil-edildigini-duyurdu-3919790",
+      "publishedAt": "Wed, 14 Oct 2026 23:28:53 GMT"
     },
     {
-      "title": "Heyecan sürüyor!",
-      "summary": "Temsilcimiz Fenerbahçe, UEFA Şampiyonlar Ligi'nin ikinci haftasında İngiliz ekibi Aston Villa ile deplasmanda karşı karşıya geliyor. Avrupa'nın kulüpler düzeyindeki en büyük futbol organizasyonuna 18 yıl sonra elemelerden katılan Fenerbahçe",
+      "title": "Yardım çağrısında bulundular",
+      "summary": "Ünlü şarkıcı Murat Boz ve oyuncu Demet Özdemir, İstanbul'daki sağanak yağış nedeniyle su basan stüdyoda mahsur kaldı. İkili, yetkililerden yardım istedi. Boz, sosyal medya hesabından kurtarma ekiplerinin kendilerine ulaştığını duyurdu. Tahl",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/aston-villa-fenerbahce-maci-canli-anlatim-aston-villa-fb-uefa-sampiyonlar-ligi-maci-kac-kac-mac-3919562",
-      "publishedAt": "Wed, 14 Oct 2026 19:02:04 GMT"
+      "link": "https://www.haberturk.com/magazin/murat-boz-dan-yardim-cagrisi-unlu-sarkici-murat-boz-studyoda-mahsur-kaldi-son-dakika-magazin-3919738",
+      "publishedAt": "Wed, 14 Oct 2026 23:11:57 GMT"
     },
     {
-      "title": "Murat Boz'dan yardım çağrısı",
-      "summary": "Ünlü şarkıcı Murat Boz, İstanbul'daki sağanak yağış nedeniyle su basan stüdyoda yüzlerce çalışanla birlikte mahsur kaldığını açıkladı. Boz, yetkililerden yardım istedi",
+      "title": "İstanbul'da metrekareye 242 kilogram yağış düştü",
+      "summary": "İstanbul Büyükşehir Belediyesi (İBB), bugünkü yağışlarda 1985 yılından bu yana kaydedilen en yüksek değerlerden birine ulaşıldığını belirterek, kentin bazı noktalarında metrekareye 242 kilogram yağış düştüğünü bildirdi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/murat-boz-dan-yardim-cagrisi-3919738",
-      "publishedAt": "Wed, 14 Oct 2026 19:01:43 GMT"
+      "link": "https://www.haberturk.com/gundem/istanbul-da-metrekareye-242-kilogram-yagis-dustu-3919821",
+      "publishedAt": "Wed, 14 Oct 2026 23:02:25 GMT"
     },
     {
-      "title": "\"Elimizden gelenin en iyisini yapmak istiyoruz\"",
-      "summary": "UEFA Avrupa Ligi 2. haftasında temsilcimiz Beşiktaş, deplasmanda Hoffenheim'a konuk olacak. Zorlu mücadele öncesi Beşiktaş Teknik Direktörü Vincenzo Italiano basın toplantısında, “Yarın da önümüzde çok zor bir deplasman var, iyi bir takıma ",
+      "title": "İstanbul'da sel 1 can aldı",
+      "summary": "İstanbul'da etkili olan sağanak nedeniyle Ayazağa'da meydana gelen selde 1 kişi boğularak hayatını kaybetti",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/hoffenheim-maci-oncesi-besiktas-teknik-direktoru-vincenzo-italiano-elimizden-gelenin-en-iyisini-yapmak-istiyoruz-3919776",
-      "publishedAt": "Wed, 14 Oct 2026 19:01:18 GMT"
+      "link": "https://www.haberturk.com/gundem/istanbul-da-sel-1-can-aldi-3919819",
+      "publishedAt": "Wed, 14 Oct 2026 22:46:19 GMT"
     },
     {
-      "title": "A101 aktüel ürünler kataloğu 15 Ekim 2026",
-      "summary": "A101 aktüel ürünler kataloğu yayınlandı. 15 Ekim Perşembe günü A101’de elektrikli çocuk motosikleti, oyuncak sesli ışıklı stantlı süpürge, elektrikli 4 tekerlekli kasalı golf arabası indirimde olacak. Dikkat çeken ürünler arasında ATV, Moto",
+      "title": "\"Dengeyi kurmak için zamana ihtiyacımız var\"",
+      "summary": "UEFA Şampiyonlar Ligi'nin ikinci haftasında konuk ettiği Fenerbahçe'yi 6-0 yenen Aston Villa'da teknik direktör Unai Emery, uzun vadede dengeyi kurmak için zamana ihtiyaç duyduklarını belirtti.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/a101-aktuel-urunler-katalogu-15-ekim-2026-atv-motosiklet-elektrikli-isitici-fan-a101-aktuel-urunler-katalogunda-neler-var-3919775",
-      "publishedAt": "Wed, 14 Oct 2026 18:56:58 GMT"
+      "link": "https://www.haberturk.com/spor/unai-emery-dengeyi-kurmak-icin-zamana-ihtiyacimiz-var-3919818",
+      "publishedAt": "Wed, 14 Oct 2026 22:41:02 GMT"
     },
     {
-      "title": "\"Husilerin sivilleri hedef alması savaş suçudur\"",
-      "summary": "Yemen Başbakanı Şayi Muhsin ez-Zindani, Husilerin sivilleri hedef almaya ve Taiz kentini kuşatmaya devam etmesinin zaman aşımına uğramayacak bir \"savaş suçu\" olduğunu belirterek, sorumluların cezasız kalmayacağını vurguladı.",
+      "title": "Fon düzenlemesi komisyonda kabul edildi",
+      "summary": "Tasfiyesine Karar Verilen Bazı Yatırım Fonlarına İlişkin Kanun Teklifi, TBMM Plan ve Bütçe Komisyonu'nda kabul edildi. Düzenleme, yasalaşmak üzere TBMM Genel Kurulu'nda görüşülecek.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/husilerin-sivilleri-hedef-almasi-savas-sucudur-3919774",
-      "publishedAt": "Wed, 14 Oct 2026 18:55:55 GMT"
+      "link": "https://www.haberturk.com/gundem/fon-duzenlemesi-tbmm-plan-ve-butce-komisyonu-nda-kabul-edildi-3919814",
+      "publishedAt": "Wed, 14 Oct 2026 22:31:49 GMT"
     },
     {
-      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 13:11:17 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 20:55:24 GMT"
+    },
+    {
+      "title": "Student protesters attack government buildings in Albania",
+      "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 14 Oct 2026 20:29:05 GMT"
     },
     {
       "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
@@ -177,63 +185,63 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 13:35:29 GMT"
+      "publishedAt": "Wed, 14 Oct 2026 22:31:10 GMT"
     },
     {
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 14 Oct 2026 16:47:32 GMT"
-    },
-    {
-      "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
-      "summary": "Twenty Bangladeshi victims have been killed after being used by Russia as 'bait' to locate enemy positions, police say.",
+      "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
+      "summary": "Recent US-Greenland-Denmark agreement excludes mining or drilling rights while reinforcing Greenland's sovereignty.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 19:02:51 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 23:03:10 +0000"
     },
     {
-      "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
-      "summary": "Bar and Netanyahu have traded blame over the Hamas-led attack, as elections in Israel loom.",
+      "title": "ICE pushes back on report suggesting body cameras that automatically record",
+      "summary": "The immigration agency rejects a report from a government watchdog recommending improvements to its body camera policy.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 18:39:03 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/14/ice-pushes-back-on-report-suggesting-body-cameras-that-automatically-record?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 22:57:13 +0000"
     },
     {
-      "title": "Real Madrid’s Vinicius banned for Clasico after hair-pull red card",
-      "summary": "Vinicius will miss El Clasico on October 25 in his four-match ban for pulling Saliba's hair in La Liga.",
+      "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
+      "summary": "Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 18:03:46 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 21:50:01 +0000"
     },
     {
-      "title": "How six Ukrainian divers could have blown up Russia’s $20bn pipelines",
-      "summary": "A Ukrainian military officer is on trial in Germany over an act of sabotage that remained unsolved for years.",
+      "title": "PSG beat Man City 4-2 in Champions League thriller",
+      "summary": "PSG score three first-half goals, but an Erling Haaland brace nearly drags Manchester City back into the match.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 18:00:44 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/14/psg-beat-man-city-4-2-in-champions-league-thriller?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 21:35:49 +0000"
     },
     {
-      "title": "Ex-UK army chef jailed for ‘terror’-related offence",
-      "summary": "The former British Army member harboured 'extreme right-wing' views and was ordering explosives components, say police.",
+      "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
+      "summary": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 17:32:09 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 21:35:27 +0000"
     },
     {
-      "title": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
-      "summary": "The Six Kings Slam exhibition tournament has been pushed from October to December by Saudi organisers.",
+      "title": "West Indies beat India to level T20 series as Hope continues record run",
+      "summary": "Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/sports/2026/10/14/saudi-tennis-slam-with-alcaraz-djokovic-postponed-amid-houthi-attacks?traffic_source=rss",
-      "publishedAt": "Wed, 14 Oct 2026 17:11:57 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run?traffic_source=rss",
+      "publishedAt": "Wed, 14 Oct 2026 20:52:25 +0000"
+    },
+    {
+      "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+      "summary": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+      "publishedAt": "Wed, 14 Oct 2026 15:42:03 -0400"
     },
     {
       "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
@@ -276,12 +284,12 @@
       "publishedAt": "Wed, 14 Oct 2026 05:09:39 -0400"
     },
     {
-      "title": "In Kansas, a newly competitive Senate race tests limit of Trump's unpopular policies",
-      "summary": "Kansas voters could send a Democrat to the Senate for the first time in nearly a century — and flip the governor's office back to Republican control, even in what could be a tough year for the GOP.",
-      "source": "NPR",
+      "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+      "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writersThe Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/14/nx-s1-5995633/kansas-senate-race-hamilton-marshall-tossup",
-      "publishedAt": "Wed, 14 Oct 2026 05:00:00 -0400"
+      "link": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+      "publishedAt": "Wed, 14 Oct 2026 19:01:29 GMT"
     },
     {
       "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
@@ -306,31 +314,23 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
       "publishedAt": "Fri, 09 Oct 2026 16:30:09 GMT"
-    },
-    {
-      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-      "summary": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river floodingIsaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975mb. I",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-      "publishedAt": "Fri, 09 Oct 2026 09:59:06 GMT"
     }
   ],
   "sports": [],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 17,
-      "description": "rain",
-      "high": 19,
-      "low": 16
+      "tempC": 16,
+      "description": "light rain",
+      "high": 17,
+      "low": 13
     },
     {
       "place": "London",
-      "tempC": 17,
-      "description": "overcast",
-      "high": 19,
-      "low": 10
+      "tempC": 15,
+      "description": "partly cloudy",
+      "high": 21,
+      "low": 15
     }
   ],
   "facts": [
