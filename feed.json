@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-18T02:55:09.390Z",
+  "updated": "2026-10-18T07:45:15.040Z",
   "news": [
+    {
+      "title": "İstanbul'da sel: Pendik'te iki kişi kayboldu",
+      "summary": "İstanbul'un Anadolu Yakası'nda etkili olan yağmur nedeniyle Pendik'te iki kişi sel sularına kapılarak kayboldu",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 07:41:45 GMT"
+    },
+    {
+      "title": "BBC araştırması: İsrail ordusu yüzlerce iç soruşturmasının sonuçlarını kamuoyuna açıklamadı",
+      "summary": "BBC'nin doğrulama birimi BBC Verify, İsrail ordusunun insanları öldürmek ve yaralamakla suçlandığı 254 olayla ilgili açılan soruşturmaların sonuçlarının kamuoyuna açıklanmadığını tespit etti. Bu olaylar, Gazze, işgal altındaki Batı Şeria, L",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cqdjv982nl4eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 07:05:49 GMT"
+    },
     {
       "title": "İstanbul'a düşen 'rekor' yağışın sele dönüşmesi nasıl önlenebilirdi?",
       "summary": "İstanbul'da, 14 Ekim'den beri aralıklı olarak süren yağışlar resmi kayıtların başlamasından bu yana kentte yaşanan en şiddetli hava olayları arasında yerini aldı. BBC Türkçe'ye konuşan uzmanlar yağışın şiddetinden daha çok İstanbul'da kentl",
@@ -10,12 +26,20 @@
       "publishedAt": "Sat, 17 Oct 2026 07:14:29 GMT"
     },
     {
-      "title": "İmamoğlu İBB davasındaki savunmasını dördüncü günde tamamladı",
-      "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, 14 Ekim'de başladığı İBB davasındaki savunmasını dördüncü gününde tamamladı.",
+      "title": "Nobel ödüllerinde cinsiyet ayrımı var mı: 'İstatistiklere göre cevap: Evet'",
+      "summary": "Tıp, fizik, kimya ve 1969 yılından bu yana verilen ekonomi gibi bilim alanlarındaki ödüllerde kadınların tarihsel temsiliyeti özellikle düşük. 1901 ve 2026 yılları arasında bu dört disiplinde verilen 769 ödülden yalnızca 30'u kadınlara veri",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmlyd2xp1jxwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 17:09:34 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c63el5jql99po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 07:04:35 GMT"
+    },
+    {
+      "title": "Nordik dillerde neden 'lütfen' kelimesi bulunmuyor?",
+      "summary": "Seyahat ederken nazik ve saygılı olmak çok önemli bir özellik, ancak \"lütfen\" kelimesinin bir karşılığının olmadığı bir yerde kendinizi nasıl kibarca ifade edebilirsiniz? Peki bu ülkelerde yaşayanlar kaba mı?",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cwn73x7zpr5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 07:08:12 GMT"
     },
     {
       "title": "Paris'te ve Fransa genelinde protestocular polisle çatıştı",
@@ -26,28 +50,25 @@
       "publishedAt": "Sat, 17 Oct 2026 15:44:02 GMT"
     },
     {
-      "title": "100 yıl önce amatör bir hırsızlıkta çalınan nadir pembe elmas",
-      "summary": "Nadir bulunan pembe bir elmas, neredeyse 100 yıl önce çalınmasının ardından ilk kez Fransa'da sergilenecek.",
-      "source": "BBC Türkçe",
+      "title": "Sarıyer'de sel sularında aracı böyle sürüklenmiş. \"İçinde adam var\"",
+      "summary": "İstanbul Sarıyer'de selde kaybolan 63 yaşındaki Ahmet Derin'in aracının sel sularında sürüklendiği anlara ait yeni görüntüler ortaya çıktı.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cwj34rd471j2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 15:31:04 GMT"
+      "publishedAt": "2026-10-18T10:23:00+03:00"
     },
     {
-      "title": "İnsan boyunun inişli ve çıkışlı tarihinde kritik dönüm noktaları neler?",
-      "summary": "Bugün 100 yıl öncesine göre yaklaşık 10 cm daha uzunuz ancak bu artış kesintisiz gerçekleşmedi.",
-      "source": "BBC Türkçe",
+      "title": "Firari üç FETÖ'cü İstanbul'da yakalandı",
+      "summary": "Haklarında arama kaydı bulunan Fetullahçı Terör Örgütü (FETÖ) üyesi üç firari şüpheli, İstanbul'da düzenlenen eş zamanlı operasyonlarla yakalandı.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ck240qpgj39do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 07:15:45 GMT"
+      "publishedAt": "2026-10-18T09:19:25+03:00"
     },
     {
-      "title": "İstanbul'da sel: Kimliği belirlenen kayıp üç kişiyi arama çalışmaları sürüyor",
-      "summary": "İstanbul Valisi Davut Gül, 17 Ekim'de İstanbul'daki yağışların ardından son duruma ilişkin açıklama yaptı. Kimliği belirlenen kayıp üç kişinin arama kurtarma çalışmalarının devam ettiğini ifade etti. 14 Ekim'deki yağışların ardından yaşanan",
-      "source": "BBC Türkçe",
+      "title": "Resmi Gazete'de bugün. 18 Ekim 2026 tarihli Resmi Gazete kararları neler?",
+      "summary": "Resmi Gazete'de 18 Ekim 2026 tarihli kararlar yayımlandı. Günün gündeminde kamu kurumlarının düzenleme ve uygulama yönetmelikleri kararları da yer aldı.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 09:48:39 GMT"
+      "publishedAt": "2026-10-18T08:34:52+03:00"
     },
     {
       "title": "Kocaeli’de Namazgah Barajı bölgesinde tahliye kararı",
@@ -71,113 +92,60 @@
       "publishedAt": "2026-10-18T00:13:35+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 18 Ekim 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 18 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-18T05:30:00+03:00"
-    },
-    {
-      "title": "8 yaşındaki kız çocuğuna ütüyle işkence iddiası: 3 kişi gözaltına alındı",
-      "summary": "Şanlıurfa'nın Siverek ilçesinde, 8 yaşındaki bir kız çocuğunun annesi tarafından dövüldüğü ve ütüyle yakıldığı iddiası üzerine anne ile 2 kişi gözaltına alındı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-17T23:53:02+03:00"
-    },
-    {
-      "title": "Sarıyer’de selde kayboldu. Ahmet Derin’in sürüklendiği anların görüntüsü ortaya çıktı",
-      "summary": "Sarıyer’de selde kaybolan Ahmet Derin’in (63) aracının akıntıyla sürüklendiği anlara ait cep telefonu görüntüleri ortaya çıktı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-17T23:19:23+03:00"
-    },
-    {
-      "title": "Şile'de cadde ulaşıma kapandı",
-      "summary": "İstanbul'da etkili olan şiddetli yağış sonrasında Şile Ahmetli Mahallesi'nde bulunan derenin taşması sonucu Üsküdar Caddesi ulaşıma kapandı. Bölgede ekiplerin yol açma ve su tahliye çalışmaları devam ediyor.",
+      "title": "İstanbul'daki sel faciasında son durum!",
+      "summary": "İstanbul'da şiddetli yağış bir faciaya daha neden oldu. Pendik'te etkili olan sağanakta sel sularına kapılan 2 kişinin bulunması için çalışma başlatıldı. Öte yandan Sarıyer’de selde kaybolan Ahmet Derin’in aracının sürüklendiği yeni görüntü",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/sile-de-siddetli-yagis-nedeniyle-cadde-ulasima-kapandi-3920570",
-      "publishedAt": "Sun, 18 Oct 2026 02:29:58 GMT"
+      "link": "https://www.haberturk.com/gundem/istanbul-daki-sel-faciasinda-son-durum-3920585",
+      "publishedAt": "Sun, 18 Oct 2026 07:31:35 GMT"
     },
     {
-      "title": "Fransa'da sokaklar savaş alanına döndü",
-      "summary": "Fransa'da liseliler, çiftçiler ve iklim aktivistleri başta olmak üzere, toplumun farklı kesimlerinin destek verdiği sarı yelekliler hareketi yüzlerce farklı noktada hayat pahalılığına karşı eylem yapıyor. Paris’te düzenlenen gösterilerde pr",
+      "title": "\"Aziz Yıldırım gaza getirmiş\"",
+      "summary": "Fenerbahçe, Süper Lig'in 8. haftasında ağırladığı Alanyaspor'u 3-0 mağlup ederek zirve iddiasını sürdürdü. Sarı-lacivertlilere Kadıköy'de üç puanı getiren golleri Lukaku, Kerem Aktürkoğlu ve Vedat Muriqi kaydetti. Spor yazarlar, Fenerbahçe'",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/fransa-da-sokaklar-savas-alanina-dondu-3920568",
-      "publishedAt": "Sun, 18 Oct 2026 01:09:28 GMT"
+      "link": "https://www.haberturk.com/spor/foto/spor-yazarlari-fenerbahce-alanyaspor-macini-degerlendirdi-3920586",
+      "publishedAt": "Sun, 18 Oct 2026 07:09:04 GMT"
     },
     {
-      "title": "Evde bıçaklanan kişi hayatını kaybetti",
-      "summary": "Eskişehir'in Odunpazarı ilçesinde bir evde misafir olarak bulunan Osman K. bıçaklanarak hayatını kaybetti. Bahse konu dairede ikamet eden ve olay yerinde gözaltına alınan Ş. E.'nin, \"Yalvarırım ölmedi deyin\" diyerek feryat ettiği öğrenildi.",
+      "title": "İran: Programı açıkladık, seçim ABD'nin",
+      "summary": "İran Dışişleri Bakanı Arakçi, Hürmüz Boğazı'nın açılması ve seyrüseferin normalleşmesi için Katar aracılığı ile ABD'ye bir program sunduklarını hatırlatarak, \"Yedi günlük programı açıkladık, seçim şimdi ABD'nin\" ifadelerini kullandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/eskisehir-de-evde-bicaklanan-kisi-hayatini-kaybetti-3920567",
-      "publishedAt": "Sun, 18 Oct 2026 00:51:45 GMT"
+      "link": "https://www.haberturk.com/dunya/iran-disisleri-bakani-arakci-yedi-gunluk-programi-acikladik-secim-abd-nin-3920588",
+      "publishedAt": "Sun, 18 Oct 2026 07:05:45 GMT"
     },
     {
-      "title": "Tarım işçilerinin kaldığı çadır alanını su bastı",
-      "summary": "Bursa'nın İnegöl ilçesinde etkili olan sağanak nedeniyle yaklaşık 1000 mevsimlik tarım işçisinin kaldığı çadır alanını su bastı. Ekiplerin çalışmaları sonucu alanda biriken su tahliye edildi.",
+      "title": "İronik bir polemik",
+      "summary": "Bolluğu nedeniyle fiyatının 35 liraya kadar düşmesi üzerine yapılan \"Palamut avlanmaya ara verilsin\" çağrısı, \"İnsanların erişilebilir fiyatla balık yemesine neden engel olmak istiyorsunuz?\" şeklinde büyük tepki çekti. Peki, kıyı uzunluğu 8",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/mevsimlik-tarim-iscilerinin-kaldigi-cadir-alanini-su-basti-3920566",
-      "publishedAt": "Sun, 18 Oct 2026 00:25:45 GMT"
+      "link": "https://www.haberturk.com/kesfet/turkiye-nin-balik-raporu-ne-soyluyor-3919931",
+      "publishedAt": "Sun, 18 Oct 2026 07:03:18 GMT"
     },
     {
-      "title": "\"Riyad’da Husilerin bir seyir füzesi engellendi\"",
-      "summary": "Suudi Arabistan liderliğindeki Arap Koalisyonu, Suudi Arabistan'ın başkenti Riyad’da Husiler tarafından fırlatılan bir seyir füzesinin engellendiğini duyurdu.",
+      "title": "Fransa'da sarı yelekliler eylemde",
+      "summary": "Fransa'da liseliler, çiftçiler ve iklim aktivistleri başta olmak üzere toplumun farklı kesimlerinin destek verdiği sarı yelekliler hareketi ülke genelinde sokağa döküldü. Fransa Cumhurbaşkanı Macron, eylemler kapsamında ortalığı kırıp döken",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/arap-koalisyonu-suudi-arabistan-in-baskenti-riyadda-husilerin-bir-seyir-fuzesi-engellendi-3920565",
-      "publishedAt": "Sat, 17 Oct 2026 23:27:01 GMT"
+      "link": "https://www.haberturk.com/dunya/fransa-da-sari-yelekliler-eylemde-3920584",
+      "publishedAt": "Sun, 18 Oct 2026 07:00:09 GMT"
     },
     {
-      "title": "Bektaşi Dedebabası Ali Haydar Ercan vefat etti",
-      "summary": "Bektaşi kanaat önderlerinden \"dedebaba\" Ali Haydar Ercan, İzmir'de tedavi gördüğü hastanede 90 yaşında hayatını kaybetti. İçişleri Bakanı Mustafa Çiftçi, başsağlığı mesajı paylaştı.",
+      "title": "\"Yumurtayı özlüyorum\"",
+      "summary": "Miranda Kerr, uyguladığı özel diyetine dair ayrıntıları paylaştı. 43 yaşındaki model, yumurta yerine bizon ve geyik eti de dahil olmak üzere çeşitli et türlerini tercih etmesinin nedenlerini açıkladı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/bektasi-dedebabasi-ali-haydar-ercan-vefat-etti-3920564",
-      "publishedAt": "Sat, 17 Oct 2026 23:00:35 GMT"
+      "link": "https://www.haberturk.com/magazin/foto/miranda-kerr-uyguladigi-diyeti-acikladi-yumurtayi-ozluyorum-3920581",
+      "publishedAt": "Sun, 18 Oct 2026 06:46:28 GMT"
     },
     {
-      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
       "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 20:52:17 GMT"
-    },
-    {
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 18 Oct 2026 01:10:25 GMT"
-    },
-    {
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 23:52:38 GMT"
-    },
-    {
-      "title": "Anti-government protesters battle with police in Albania",
-      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 20:53:00 GMT"
-    },
-    {
-      "title": "At least 17 dead in crush at Hindu festival event in India",
-      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 17 Oct 2026 19:19:16 GMT"
+      "publishedAt": "Sun, 18 Oct 2026 05:56:20 GMT"
     },
     {
       "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
@@ -188,52 +156,84 @@
       "publishedAt": "Sat, 17 Oct 2026 22:09:50 GMT"
     },
     {
-      "title": "Search continues for 11 missing after boat sank off Mexico’s Baja coast",
-      "summary": "Some of 16 survivors treated for suspected shark bites, US coastguard says.",
-      "source": "Al Jazeera",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
-      "publishedAt": "Sun, 18 Oct 2026 02:33:14 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 05:04:31 GMT"
     },
     {
-      "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
-      "summary": "Kabila’s move raises new questions about the war in eastern Congo and prospects for peace.",
-      "source": "Al Jazeera",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
-      "publishedAt": "Sun, 18 Oct 2026 02:21:48 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 17 Oct 2026 23:52:38 GMT"
     },
     {
-      "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
-      "summary": "The vessels, each carrying about two million barrels of crude oil, used an unauthorised route, the IRGC says.",
-      "source": "Al Jazeera",
+      "title": "Several dead or injured in major fire at Canada military base",
+      "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-      "publishedAt": "Sun, 18 Oct 2026 01:54:18 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 07:09:23 GMT"
     },
     {
-      "title": "Buildings burn as French protests go into the night",
-      "summary": "Witnesses say masked protesters set fire to Limoges town hall, which officials say is now ‘largely lost’.",
-      "source": "Al Jazeera",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
-      "publishedAt": "Sun, 18 Oct 2026 01:30:46 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 18 Oct 2026 01:10:25 GMT"
     },
     {
-      "title": "Saudi-led forces try to break Houthi siege of Taiz with airstrikes",
-      "summary": "Saudi-led forces say they’ve struck multiple positions around the Yemeni city of Taiz to break the Houthi siege.",
+      "title": "WNBA Finals: Gabby Williams leads Valkyries to nervy Game 1 win over Dream",
+      "summary": "Williams scored 26 points as the Golden State Valkyries came back to take the lead at home against the Atlanta Dream.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/saudi-led-forces-try-to-break-houthi-siege-of-taiz-with-airstrikes?traffic_source=rss",
-      "publishedAt": "Sun, 18 Oct 2026 01:12:44 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss",
+      "publishedAt": "Sun, 18 Oct 2026 07:08:33 +0000"
     },
     {
-      "title": "Israeli settlers attack European diplomats in the occupied West Bank",
-      "summary": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.",
+      "title": "Israel’s ties with Europe are fraying. Can its election change that?",
+      "summary": "European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
-      "publishedAt": "Sun, 18 Oct 2026 01:02:37 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+      "publishedAt": "Sun, 18 Oct 2026 07:05:00 +0000"
+    },
+    {
+      "title": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
+      "summary": "Champion dominates fellow British boxer in London before facing a challenge from IBO champion Hrgovic.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
+      "publishedAt": "Sun, 18 Oct 2026 06:34:02 +0000"
+    },
+    {
+      "title": "Guatemalan former prosecutor shot dead at sports centre",
+      "summary": "Guatemalan police say they arrested two men in connection with the killing of Juan Francisco Solorzano Foppa.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss",
+      "publishedAt": "Sun, 18 Oct 2026 05:53:33 +0000"
+    },
+    {
+      "title": "AI tool helps stranded protesters find their way home in the Indian capital",
+      "summary": "A lifeline that connects people detained and dropped off at distant locations with volunteers who ensure a safe return.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss",
+      "publishedAt": "Sun, 18 Oct 2026 05:37:36 +0000"
+    },
+    {
+      "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
+      "summary": "US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
+      "publishedAt": "Sun, 18 Oct 2026 05:16:49 +0000"
     },
     {
       "title": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
@@ -284,6 +284,14 @@
       "publishedAt": "Sat, 17 Oct 2026 07:43:14 -0400"
     },
     {
+      "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
+      "summary": "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was prese",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
+      "publishedAt": "Sun, 18 Oct 2026 07:00:53 GMT"
+    },
+    {
       "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
       "summary": "At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reportsMass arrests, forced HIV testing and barriers to legal representation are part of an escalating crackdown against LGBTQ+ peop",
       "source": "The Guardian",
@@ -306,14 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
       "publishedAt": "Wed, 14 Oct 2026 13:16:30 GMT"
-    },
-    {
-      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-      "summary": "Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchersA controversial research trial that will withhold hepatitis B vaccines from some African newborns was given approval to move forward th",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
-      "publishedAt": "Fri, 09 Oct 2026 21:36:18 GMT"
     }
   ],
   "sports": [
@@ -411,15 +411,15 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 11,
+      "tempC": 14,
       "description": "overcast",
-      "high": 16,
+      "high": 15,
       "low": 11
     },
     {
       "place": "London",
       "tempC": 9,
-      "description": "clear sky",
+      "description": "mainly clear",
       "high": 14,
       "low": 9
     }
