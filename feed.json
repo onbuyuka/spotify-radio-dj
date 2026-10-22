@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-21T21:13:16.017Z",
+  "updated": "2026-10-22T03:10:42.975Z",
   "news": [
+    {
+      "title": "Macron, Netanyahu ve Trump'ı Fransa'daki eylemleri istismar etmekle suçladı",
+      "summary": "Fransa cumhurbaşkanının yorumu, önümüzdeki haftalarda seçimlerle karşı karşıya olan Binyamin Netanyahu ve Donald Trump'a yönelik açık bir eleştiri niteliğinde.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cwx287g6e702o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 21:58:06 GMT"
+    },
+    {
+      "title": "Merkez Bankası faiz kararını açıklayacak: Beklentiler ne yönde?",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) 22 Ekim'deki Para Politikası Kurulu (PPK) toplantısında politika faizini açıklayacak. Merkez Bankası'nın ekim ayı faiz kararına yönelik beklentilerde ise piyasalardaki ayrışma dikkat çekiyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 23:56:31 GMT"
+    },
+    {
+      "title": "Kanada'dan Türkiye'ye başbakan düzeyinde ilk resmi ziyaret: 'Yeni bir stratejik ilişkinin başlangıcı'",
+      "summary": "Mark Carney bugün Kanada'dan Türkiye'ye başbakan düzeyinde ilk resmi ziyaret gerçekleştiren ilk lider olacak. Ziyaret hem sembolik hem de çok kapsamlı gündemi nedeniyle Türkiye-Kanada ilişkilerinde tarihi bir dönüm noktası olarak değerlendi",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c5m2dz18pr4ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 22 Oct 2026 00:08:15 GMT"
+    },
     {
       "title": "Azerbaycan 31 Türk vatandaşını istenmeyen kişi ilan etti, Erdoğan Aliyev ile görüştü",
       "summary": "Azerbaycan hükümeti 31 Türk vatandaşını, ülkedeki okullarda başörtüsünün yasaklanması sonucu doğuran yönetmelik değişikliğine yönelik açıklamaları ve paylaşımları sonrası “istenmeyen kişi” ilan etti.",
@@ -8,30 +32,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cqly0zjd1l87o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 21 Oct 2026 15:33:51 GMT"
-    },
-    {
-      "title": "'Rusya savaşı bitirmek için Ukrayna ve ABD ile görüşmelere yeniden başlamaya hazır'",
-      "summary": "Vladimir Putin'in baş danışmanı, savaşın sona erdirilmesi için Rusya'nın ABD ve Ukrayna ile müzakereleri yeniden başlatmaya \"ilkesel olarak hazır\" olduğunu söyledi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm8xzrxwggv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 19:07:07 GMT"
-    },
-    {
-      "title": "Libya’nın Türkiye anlaşmasını onaylaması Doğu Akdeniz'de dengeleri değiştirebilir mi?",
-      "summary": "Libya Temsilciler Meclisi'nin 2019 yılında Türkiye ile imzalanan Deniz Yetki Alanlarının Sınırlandırılması Anlaşması'nı yedi yıl sonra onaylaması, Doğu Akdeniz'deki süren rekabet ve müzakereler açısından yeni bir denklemin ortaya çıkmasına ",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cwrkyldnkgndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 20:45:54 GMT"
-    },
-    {
-      "title": "Bakan Gürlek: Fon soruşturmasında 'manipülatif işlem yapan 88 kişi tutuklandı'",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında 31 kişi hakkında daha gözaltı kararı verildi. 26 kişi gözaltına alındı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 15:59:01 GMT"
     },
     {
       "title": "Galatasaray Lille deplasmanından galibiyetle dönüyor",
@@ -42,114 +42,72 @@
       "publishedAt": "Wed, 21 Oct 2026 18:36:59 GMT"
     },
     {
-      "title": "Merkez Bankası faiz kararını açıklayacak, beklentiler ne yönde?",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) 22 Ekim'deki Para Politikası Kurulu (PPK) toplantısında politika faizini açıklayacak. Merkez Bankası'nın ekim ayı faiz kararına yönelik beklentilerde ise piyasalardaki ayrışma dikkat çekiyor.",
+      "title": "Bakan Gürlek: Fon soruşturmasında 'manipülatif işlem yapan 88 kişi tutuklandı'",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında 31 kişi hakkında daha gözaltı kararı verildi. 26 kişi gözaltına alındı.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 11:30:04 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 21 Oct 2026 15:59:01 GMT"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 22 Ekim 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 22 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-22T00:00:00+03:00"
-    },
-    {
-      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 21 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-21T22:45:31+03:00"
-    },
-    {
-      "title": "JP Morgan’dan açıklama: Türkiye’deki faaliyetlerimizi büyüteceğiz",
-      "summary": "Dünyanın en büyük finans kuruluşlarından JP Morgan, Türkiye’de 11 yıldır aracı kurum faaliyeti yürütmüyordu. Banka, Türkiye’deki faaliyetlerini de büyüteceğini açıkladı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-21T21:34:00+03:00"
-    },
-    {
-      "title": "\"Hakemler dosyası\" soruşturması. Ferdi Karadoruk için 8 yıla kadar hapis istemi",
-      "summary": "Hakemler dosyası soruşturmasında tutuklanan TFFHGD İstanbul Şubesi Başkanı Ferdi Karadoruk hakkında 8 yıla kadar hapis talep edildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-21T21:09:35+03:00"
-    },
-    {
-      "title": "Gazeteci İsmail Arı tutuklandı",
-      "summary": "Gazeteci İsmail Arı, RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine başlatılan soruşturma kapsamında tutuklandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-21T19:23:14+03:00"
-    },
-    {
-      "title": "Zonguldak'ta 3 katlı bina çöktü. Enkaz altında kalan 1 kişi hayatını kaybetti",
-      "summary": "Zonguldak'ta 3 katlı bina çöktü. Enkazdan bir kişi yaralı kurtarılırken, bir kişinin ise cansız bedenine ulaşıldı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-21T20:16:32+03:00"
-    },
-    {
-      "title": "\"İsrail, İran sınırına yakın uçuş gerçekleştirdi\" iddiası",
-      "summary": "İsrail'e ait savaş uçaklarının 19 Ekim Pazartesi günü İran sınırına yakın noktalarda uçuş gerçekleştirerek \"güç gösterisinde\" bulunduğu iddia edildi.",
+      "title": "Microsoft'tan siber saldırı açıklaması",
+      "summary": "ABD'li teknoloji şirketi Microsoft, Çin devletiyle bağlantılı bir siber aktörün yapay zeka destekli araçlar kullanarak dünya genelinde yüzlerce kuruluşu hedef aldığını bildirdi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/israil-den-iran-sinirina-yakin-ucus-3921562",
-      "publishedAt": "Wed, 21 Oct 2026 21:08:25 GMT"
+      "link": "https://www.haberturk.com/dunya/microsoft-tan-siber-saldiri-aciklamasi-3921580",
+      "publishedAt": "Thu, 22 Oct 2026 01:57:51 GMT"
     },
     {
-      "title": "Arda yıldızlaştı Real Madrid kazandı!",
-      "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında İspanyol devi Real Madrid, evinde ağırladığı RB Leipzig'i 4-1 mağlup etti. Mücadelede forma giyen milli futbolcumuz Arda Güler, takımının 2. golünü kaydetti. Bu sonuçla Real Madrid puanını 9'a yükselt",
+      "title": "Polise ateş açtı, bacağından vurularak yakalandı",
+      "summary": "İstanbul Zeytinburnu'nda ihbar üzerine adrese giden polis ekiplerine, şüphelilerden biri silahla ateş açtı. Ekiplerin açılan ateşe karşılık vermesi üzerine bacağından vurulan şüpheli hastaneye kaldırılırken, evdeki diğer şüpheli ise gözaltı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/real-madrid-4-1-rb-leipzig-mac-sonucu-ve-ozeti-arda-guler-atti-real-madrid-farkli-kazandi-3921565",
-      "publishedAt": "Wed, 21 Oct 2026 21:04:07 GMT"
+      "link": "https://www.haberturk.com/gundem/zeytinburnu-nda-polise-ates-acan-supheli-vurularak-yakalandi-3921579",
+      "publishedAt": "Thu, 22 Oct 2026 00:29:34 GMT"
     },
     {
-      "title": "Arda Turan'lı Shakhtar, Inter'e diş geçiremedi!",
-      "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Arda Turan'ın çalıştırdığı Shakhtar Donetsk, deplasmanda İtalyan devi Inter'e 1-0 mağlup oldu. Arda Turan'ın öğrencileri, 77. dakikada Carlos Augusto'nun golüne engel olamadı ve bu sezon Devler Ligi'n",
+      "title": "Brüksel'de Brükselli gibi olmak",
+      "summary": "Eğer Brüksel'de bir lokal gibi yaşasaydınız neler yapardınız ve nerelere giderdiniz? Lokalin Peşinde serisinin ikincisi Brüksel hakkında. Pınar Aksu yazdı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/inter-shakhtar-donetsk-mac-sonucu-iste-inter-shakhtar-donetsk-maci-ozeti-ve-golleri-uefa-sampiyonlar-ligi-3921564",
-      "publishedAt": "Wed, 21 Oct 2026 21:02:31 GMT"
+      "link": "https://www.haberturk.com/htgastro/seyahat/lokalin-pesinde-burokrasinin-arkasindaki-surrealist-bruksel-3921459",
+      "publishedAt": "Wed, 21 Oct 2026 23:32:47 GMT"
     },
     {
-      "title": "B. Münih ile Arsenal yenişemedi",
-      "summary": "UEFA Şampiyonlar Ligi 3. haftasında Bayern Münih sahasında Arsenal'i ağırladı. Gol düellosuna sahne olan mücadele, 2-2 beraberlikle sonuçlandı.",
+      "title": "Lokalin peşinde: Amsterdam",
+      "summary": "Bugünkü sorumuz şu: Eğer Amsterdam'da bir lokal gibi yaşasaydınız neler yapardınız ve nerelere giderdiniz? Pınar Aksu yazdı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/bayern-munih-2-arsenal-2-mac-sonucu-3921561",
-      "publishedAt": "Wed, 21 Oct 2026 20:57:06 GMT"
+      "link": "https://www.haberturk.com/htgastro/seyahat/lokalin-pesinde-amsterdam-3918012",
+      "publishedAt": "Mon, 12 Oct 2026 07:31:57 GMT"
     },
     {
-      "title": "Zeytin hasadına başladı",
-      "summary": "Oyuncu Filiz Taçbaş, İzmir'in Aliağa ilçesindeki çiftliğinde zeytin hasadına başladı. Tarlaya girerek zeytinlerini toplayan Taçbaş, o anları sosyal medya hesabından takipçileriyle paylaştı",
+      "title": "Suudi Arabistan'da havalimanına saldırı",
+      "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi (GACA), Dammam'daki Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişinin öldüğünü, 8 kişinin yaralandığını bildirdi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/filiz-tacbas-zeytin-hasadina-basladi-3921557",
-      "publishedAt": "Wed, 21 Oct 2026 20:50:42 GMT"
+      "link": "https://www.haberturk.com/dunya/suudi-arabistan-daki-bir-havalimanina-saldiri-3921578",
+      "publishedAt": "Wed, 21 Oct 2026 23:09:22 GMT"
     },
     {
-      "title": "Dünya genelinde PHP alarmı",
-      "summary": "Dünya genelindeki internet sitelerinin büyük bölümünde kullanılan PHP yazılımında, yapay zeka desteğiyle iki kritik güvenlik açığı tespit edildi. FBI'dan yapılan uyarıda bu güvenlik açıklarının hassas verileri ve ağları tehlikeye atabileceğ",
+      "title": "\"Sen neredeysen, ben oradayım!\"",
+      "summary": "SHOW TV'nin sevilen dizisi 'Muhtemel Aşk'ın yeni bölümünden tanıtım yayınlandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/dunya-genelinde-php-alarmi-guvenlik-acigi-uyarisi-geldi-pek-cok-site-sayfalarini-kapadi-3921539",
-      "publishedAt": "Wed, 21 Oct 2026 20:46:48 GMT"
+      "link": "https://www.haberturk.com/magazin/muhtemel-ask-tan-yeni-bolum-tanitimi-3920947",
+      "publishedAt": "Wed, 21 Oct 2026 22:55:16 GMT"
     },
     {
-      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 21 Oct 2026 17:42:34 GMT"
+      "publishedAt": "Wed, 21 Oct 2026 21:27:41 GMT"
     },
     {
       "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
+      "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
@@ -188,52 +146,68 @@
       "publishedAt": "Wed, 21 Oct 2026 16:58:16 GMT"
     },
     {
-      "title": "Video shows Israeli settler assaulting Palestinian child",
-      "summary": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+      "title": "Can Trump deport Congresswoman Ilhan Omar?",
+      "summary": "Can Trump deport Congresswoman Ilhan Omar?",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss",
-      "publishedAt": "Wed, 21 Oct 2026 20:34:57 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
+      "publishedAt": "Thu, 22 Oct 2026 02:34:46 +0000"
     },
     {
-      "title": "Jason Alexander recalls Palestinian protection in Ramallah",
-      "summary": "Seinfeld actor Jason Alexander recalls a visit to Ramallah that challenged his fears about visiting Palestinian cities.",
+      "title": "Russia frees American Stephen Hubbard after 4 years behind bars",
+      "summary": "Russia frees American Stephen Hubbard after 4 years behind bars",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jason-alexander-recalls-palestinian-protection-in-ramallah?traffic_source=rss",
-      "publishedAt": "Wed, 21 Oct 2026 20:18:02 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
+      "publishedAt": "Thu, 22 Oct 2026 02:16:25 +0000"
     },
     {
-      "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
-      "summary": "Havana says Washington is threatening countries with retaliation if they refuse to vote against condemning its embargo.",
+      "title": "Tigray resumes daily life amid fears of wider war",
+      "summary": "Mekelle’s reopening offers little relief as instability and economic hardship persist.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote?traffic_source=rss",
-      "publishedAt": "Wed, 21 Oct 2026 19:51:29 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
+      "publishedAt": "Thu, 22 Oct 2026 02:08:05 +0000"
     },
     {
-      "title": "What happened to Australian politician Helen Haines?",
-      "summary": "Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.",
+      "title": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
+      "summary": "Four former FDLR officers reveal how its anti-Tutsi ideology took root and endured in Africa.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss",
-      "publishedAt": "Wed, 21 Oct 2026 19:38:02 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss",
+      "publishedAt": "Thu, 22 Oct 2026 02:02:55 +0000"
     },
     {
-      "title": "UK Conservative Party suspends ex-candidate after Al Jazeera investigation",
-      "summary": "The UK's Conservatives suspend former candidate Jack Ross after he was filmed discussing hiring contract killers.",
+      "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+      "summary": "Qatari and French leaders stress need to restore freedom of navigation in Strait of Hormuz.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/21/conservative-party-suspends-ex-candidate-filmed-in-al-jazeera-investigation?traffic_source=rss",
-      "publishedAt": "Wed, 21 Oct 2026 19:36:54 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+      "publishedAt": "Thu, 22 Oct 2026 01:45:48 +0000"
     },
     {
-      "title": "India’s ‘Cockroach’ leaders free after a week in jail",
-      "summary": "Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.",
+      "title": "Colombian president purges National Museum of works promoting ‘communism’",
+      "summary": "Far-right President Abelardo de la Espriella says he will wage a 'counterrevolution' against cultural institutions.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss",
-      "publishedAt": "Wed, 21 Oct 2026 19:17:51 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
+      "publishedAt": "Thu, 22 Oct 2026 01:09:40 +0000"
+    },
+    {
+      "title": "AIPAC halts endorsements and direct contributions to candidates",
+      "summary": "The pro-Israel lobbying group and influential political funder announced it would no longer endorse candidates or give directly to campaigns. AIPAC's affiliated super PAC, though, will continue.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+      "publishedAt": "Wed, 21 Oct 2026 20:22:48 -0400"
+    },
+    {
+      "title": "The Justice Department begins notifying counties where it wants to monitor elections",
+      "summary": "The department has long deployed election monitors, but the Trump administration's unprecedented steps to try to wrestle control over elections have led to new concerns about DOJ monitoring this year.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors",
+      "publishedAt": "Wed, 21 Oct 2026 20:18:47 -0400"
     },
     {
       "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
@@ -268,22 +242,6 @@
       "publishedAt": "Wed, 21 Oct 2026 12:01:44 -0400"
     },
     {
-      "title": "Why local officials are feeling 'on edge' as election day approaches",
-      "summary": "Al Schmidt is the chief election official in the state of Pennsylvania. President Trump's insults put him in danger during the 2020 ballot count. Now Schmidt talks about preparing for the midterms.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
-      "publishedAt": "Wed, 21 Oct 2026 12:01:17 -0400"
-    },
-    {
-      "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
-      "summary": "The Supreme Court ruled Wednesday that the Trump administration has to continue providing gender-affirming care to inmates in federal prisons as litigation on efforts to change the policy continues.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
-      "publishedAt": "Wed, 21 Oct 2026 11:46:27 -0400"
-    },
-    {
       "title": "Controversial US-backed vaccine trial in African newborns halted",
       "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said ",
       "source": "The Guardian",
@@ -314,32 +272,38 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
       "publishedAt": "Tue, 20 Oct 2026 19:18:03 GMT"
-    }
-  ],
-  "sports": [
+    },
     {
-      "league": "La Liga",
-      "home": "Levante",
-      "away": "Athletic Bilbao",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-10-21"
+      "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+      "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on MondaySend us your questions about immigration and the midtermsMore than 100,000 people from Ukraine and Sudan can stay in the United States withou",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+      "publishedAt": "Mon, 19 Oct 2026 22:34:43 GMT"
+    },
+    {
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Cana",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "publishedAt": "Tue, 20 Oct 2026 16:24:05 GMT"
     }
   ],
+  "sports": [],
   "weather": [
     {
       "place": "İstanbul",
       "tempC": 14,
-      "description": "mainly clear",
-      "high": 22,
+      "description": "overcast",
+      "high": 21,
       "low": 14
     },
     {
       "place": "London",
-      "tempC": 9,
-      "description": "clear sky",
-      "high": 12,
+      "tempC": 10,
+      "description": "light drizzle",
+      "high": 14,
       "low": 9
     }
   ],
