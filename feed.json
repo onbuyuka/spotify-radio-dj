@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T23:45:43.821Z",
+  "updated": "2026-10-24T03:09:55.278Z",
   "news": [
     {
       "title": "Trump: İran'a yeni bir askeri operasyon olabilir",
@@ -58,17 +58,17 @@
     },
     {
       "title": "Dört yıl süren Martı TAG davasında karar çıktı",
-      "summary": "Taksiciler Odası'nın Martı TAG'a karşı açılan ve dört yıldır devam eden haksız rekabet davasında, Mahkeme, anayasada yer alan girişim özgürlüğünün bir sonucu olduğu ve kapatılamayacağına hükmetti.",
+      "summary": "Taksiciler Odası'nın Martı TAG'a karşı açılan ve dört yıldır devam eden haksız rekabet davasında mahkeme, anayasada yer alan girişim özgürlüğünün bir sonucu olduğu ve kapatılamayacağına hükmetti.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-24T00:29:23+03:00"
+      "publishedAt": "2026-10-24T04:54:54+03:00"
     },
     {
       "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 24 Ekim 2026",
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 24 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-24T02:30:00+03:00"
+      "publishedAt": "2026-10-24T06:00:00+03:00"
     },
     {
       "title": "Adana'da film gibi adam kaçırma: Otomobilin bagajına zorla bindirdiler",
@@ -90,6 +90,14 @@
       "source": "NTV",
       "lang": "tr",
       "publishedAt": "2026-10-23T21:44:10+03:00"
+    },
+    {
+      "title": "Milas Belediye Başkanı Fevzi Topuz tutuklandı",
+      "summary": "Muğla Cumhuriyet Başsavcılığı'nca Milas Belediyesi'ne yönelik yürütülen soruşturma kapsamında gözaltına alınan Belediye Başkanı Fevzi Topuz ve oğlu Doruk Topuz'un da aralarında bulunduğu 18 şüpheli tutuklandı",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/gundem/milas-belediye-baskani-fevzi-topuz-tutuklandi-3922161",
+      "publishedAt": "Sat, 24 Oct 2026 00:44:48 GMT"
     },
     {
       "title": "Türkiye, IMF raporunda üst sıralarda yer aldı",
@@ -132,16 +140,8 @@
       "publishedAt": "Fri, 23 Oct 2026 22:35:30 GMT"
     },
     {
-      "title": "24-25 Ekim hafta sonu hava nasıl olacak?",
-      "summary": "Meteoroloji Genel Müdürlüğü yurt geneli hava durumu raporunu duyurdu. Hafta sonu plan yapan vatandaşlar İstanbul, Ankara, İzmir ve diğer illerimizdeki güncel hava durumunu merak ediyor. Ege ve Akdeniz kıyılarında güneşli veya az bulutlu hav",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/meteoroloji-hava-durumu-raporunu-duyurdu-24-25-ekim-hafta-sonu-hava-nasil-olacak-3922119",
-      "publishedAt": "Fri, 23 Oct 2026 22:35:14 GMT"
-    },
-    {
       "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
@@ -188,6 +188,38 @@
       "publishedAt": "Fri, 23 Oct 2026 20:59:39 GMT"
     },
     {
+      "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+      "summary": "President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
+      "publishedAt": "Sat, 24 Oct 2026 01:21:18 +0000"
+    },
+    {
+      "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
+      "summary": "Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
+      "publishedAt": "Sat, 24 Oct 2026 00:50:05 +0000"
+    },
+    {
+      "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+      "summary": "A clinical trial begins to test the safety, efficacy and immunogenicity of multiple vaccines.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
+      "publishedAt": "Sat, 24 Oct 2026 00:27:21 +0000"
+    },
+    {
+      "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
+      "summary": "Saudi-led coalition says air defences downed a Houthi ballistic missile targeting Riyadh.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+      "publishedAt": "Sat, 24 Oct 2026 00:00:00 +0000"
+    },
+    {
       "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
       "summary": "Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.",
       "source": "Al Jazeera",
@@ -196,7 +228,7 @@
       "publishedAt": "Fri, 23 Oct 2026 23:25:11 +0000"
     },
     {
-      "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+      "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
       "summary": "Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.",
       "source": "Al Jazeera",
       "lang": "en",
@@ -204,36 +236,12 @@
       "publishedAt": "Fri, 23 Oct 2026 23:10:54 +0000"
     },
     {
-      "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
-      "summary": "The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.",
-      "source": "Al Jazeera",
+      "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+      "summary": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.",
+      "source": "NPR",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
-      "publishedAt": "Fri, 23 Oct 2026 22:33:48 +0000"
-    },
-    {
-      "title": "Why is Israel increasing its presence in the Balkans?",
-      "summary": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
-      "publishedAt": "Fri, 23 Oct 2026 22:01:52 +0000"
-    },
-    {
-      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-      "summary": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-      "publishedAt": "Fri, 23 Oct 2026 21:27:32 +0000"
-    },
-    {
-      "title": "‘Generation Right’: Israeli youth show strong support for the right",
-      "summary": "Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.",
-      "source": "Al Jazeera",
-      "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
-      "publishedAt": "Fri, 23 Oct 2026 20:52:32 +0000"
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+      "publishedAt": "Fri, 23 Oct 2026 20:40:42 -0400"
     },
     {
       "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
@@ -276,14 +284,6 @@
       "publishedAt": "Fri, 23 Oct 2026 10:16:10 -0400"
     },
     {
-      "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
-      "summary": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
-      "publishedAt": "Fri, 23 Oct 2026 08:41:39 -0400"
-    },
-    {
       "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
       "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infec",
       "source": "The Guardian",
@@ -319,6 +319,69 @@
   "sports": [
     {
       "league": "Süper Lig",
+      "home": "Gaziantep",
+      "away": "Erzurumspor",
+      "status": "upcoming",
+      "date": "2026-10-24"
+    },
+    {
+      "league": "Süper Lig",
+      "home": "Eyüpspor",
+      "away": "Kasımpaşa",
+      "status": "upcoming",
+      "date": "2026-10-24"
+    },
+    {
+      "league": "Süper Lig",
+      "home": "Samsunspor",
+      "away": "Amed",
+      "status": "upcoming",
+      "date": "2026-10-24"
+    },
+    {
+      "league": "Premier League",
+      "home": "Arsenal",
+      "away": "Everton",
+      "status": "upcoming",
+      "date": "2026-10-24"
+    },
+    {
+      "league": "Premier League",
+      "home": "Chelsea",
+      "away": "Tottenham Hotspur",
+      "status": "upcoming",
+      "date": "2026-10-24"
+    },
+    {
+      "league": "Premier League",
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "status": "upcoming",
+      "date": "2026-10-24"
+    },
+    {
+      "league": "La Liga",
+      "home": "Atlético Madrid",
+      "away": "Deportivo de A Coruña",
+      "status": "upcoming",
+      "date": "2026-10-24"
+    },
+    {
+      "league": "La Liga",
+      "home": "Valencia",
+      "away": "Villarreal",
+      "status": "upcoming",
+      "date": "2026-10-24"
+    },
+    {
+      "league": "La Liga",
+      "home": "Rayo Vallecano",
+      "away": "Elche",
+      "status": "upcoming",
+      "date": "2026-10-24"
+    },
+    {
+      "league": "Süper Lig",
       "home": "Alanyaspor",
       "away": "Kocaelispor",
       "homeScore": 1,
@@ -330,15 +393,6 @@
       "league": "Premier League",
       "home": "Ipswich Town",
       "away": "Nottingham Forest",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-10-23"
-    },
-    {
-      "league": "La Liga",
-      "home": "Deportivo Alavés",
-      "away": "Málaga",
       "homeScore": 1,
       "awayScore": 1,
       "status": "FT",
@@ -355,8 +409,8 @@
     },
     {
       "place": "London",
-      "tempC": 9,
-      "description": "clear sky",
+      "tempC": 8,
+      "description": "overcast",
       "high": 16,
       "low": 8
     }
