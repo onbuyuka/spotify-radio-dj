@@ -1,4 +1,4 @@
-import { describe, it, expect } from 'vitest';
+import { describe, it, expect, vi, afterEach } from 'vitest';
 import { getStation } from '../data/stations';
 import {
   buildSongSegment,
@@ -11,7 +11,7 @@ import {
 } from '../utils/segments';
 import { chunkText } from '../utils/tts';
 import { shuffled } from '../utils/random';
-import { isTrackEnd } from '../components/Director';
+import { Director, isSameTrack, isTrackEnd } from '../components/Director';
 import { normalizeState, defaultState } from '../utils/storage';
 import type { SpotifyTrack, FeedSnapshot } from '../types';
 
@@ -139,6 +139,113 @@ describe('isTrackEnd', () => {
     expect(isTrackEnd(state({ paused: true, position: 0 }), 'spotify:track:other', true)).toBe(
       false,
     );
+  });
+
+  it('recognises the end of a track Spotify relinked to a regional copy', () => {
+    const relinked = {
+      uri: 'spotify:track:regional',
+      id: 'regional',
+      linked_from: { uri: URI, id: 'current' },
+    };
+    const s = state({
+      paused: true,
+      position: 0,
+      track_window: { current_track: relinked, previous_tracks: [], next_tracks: [] },
+    });
+    expect(isTrackEnd(s, URI, true)).toBe(true);
+  });
+});
+
+describe('isSameTrack', () => {
+  const URI = 'spotify:track:abc';
+  it('matches by uri, id, or relink source', () => {
+    expect(isSameTrack({ uri: URI, id: 'abc' }, URI)).toBe(true);
+    expect(isSameTrack({ uri: 'spotify:track:x', id: 'abc' }, URI)).toBe(true);
+    expect(
+      isSameTrack({ uri: 'spotify:track:x', id: 'x', linked_from: { uri: URI, id: 'abc' } }, URI),
+    ).toBe(true);
+  });
+
+  it('rejects other tracks and missing input', () => {
+    expect(isSameTrack({ uri: 'spotify:track:x', id: 'x' }, URI)).toBe(false);
+    expect(isSameTrack(null, URI)).toBe(false);
+    expect(isSameTrack({ uri: URI, id: 'abc' }, undefined)).toBe(false);
+  });
+});
+
+describe('Director playback handoff', () => {
+  const playing = (
+    uri: string,
+    id: string,
+    over: { paused?: boolean; position?: number; linked?: { uri: string; id: string } } = {},
+  ): never =>
+    ({
+      paused: over.paused ?? false,
+      position: over.position ?? 5000,
+      duration: 200000,
+      track_window: {
+        current_track: { uri, id, ...(over.linked ? { linked_from: over.linked } : {}) },
+        previous_tracks: [],
+        next_tracks: [],
+      },
+    }) as never;
+
+  async function startShow() {
+    vi.stubGlobal('window', globalThis);
+    const played: string[] = [];
+    const player = {
+      connect: async () => 'device',
+      activate: async () => {},
+      playTrack: async (uri: string) => {
+        played.push(uri);
+      },
+      pause: async () => {},
+      resume: async () => {},
+      getState: async () => null,
+    };
+    const director = new Director({
+      player: player as never,
+      station: { ...getStation('night-owl'), persona: { ...getStation('night-owl').persona, intros: [] } },
+      cadence: 99,
+      speak: async () => {},
+      buildSegment: async () => null,
+      onState: () => {},
+    });
+    await director.start([
+      track({ id: 'one', uri: 'spotify:track:one' }),
+      track({ id: 'two', uri: 'spotify:track:two' }),
+    ]);
+    return { director, played };
+  }
+
+  afterEach(() => {
+    vi.unstubAllGlobals();
+  });
+
+  it('advances after a relinked first track ends', async () => {
+    const { director, played } = await startShow();
+    expect(played).toEqual(['spotify:track:one']);
+    const linked = { uri: 'spotify:track:one', id: 'one' };
+    director.handleState(playing('spotify:track:one-tr', 'one-tr', { linked }));
+    director.handleState(playing('spotify:track:one-tr', 'one-tr', { linked, paused: true, position: 0 }));
+    await vi.waitFor(() => expect(played).toEqual(['spotify:track:one', 'spotify:track:two']));
+    director.stop();
+  });
+
+  it('advances when Spotify moves on to another track after ours played', async () => {
+    const { director, played } = await startShow();
+    director.handleState(playing('spotify:track:one', 'one'));
+    director.handleState(playing('spotify:track:autoplay', 'autoplay'));
+    await vi.waitFor(() => expect(played).toEqual(['spotify:track:one', 'spotify:track:two']));
+    director.stop();
+  });
+
+  it('ignores a different track before ours has started playing', async () => {
+    const { director, played } = await startShow();
+    director.handleState(playing('spotify:track:previous', 'previous'));
+    await new Promise((r) => setTimeout(r, 20));
+    expect(played).toEqual(['spotify:track:one']);
+    director.stop();
   });
 });
 

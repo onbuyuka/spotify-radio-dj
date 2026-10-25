@@ -22,6 +22,21 @@ function withTimeout<T>(p: Promise<T>, ms: number): Promise<T | void> {
 }
 
 /**
+ * Whether an SDK track is the one we asked to play. Spotify may relink a
+ * requested track to a regional copy with a different URI (the original then
+ * appears under `linked_from`), so compare ids and the relink source too.
+ */
+export function isSameTrack(
+  t: Pick<Spotify.Track, 'uri' | 'id' | 'linked_from'> | null | undefined,
+  expectedUri: string | undefined,
+): boolean {
+  if (!t || !expectedUri) return false;
+  if (t.uri === expectedUri || t.linked_from?.uri === expectedUri) return true;
+  const id = expectedUri.split(':').pop();
+  return Boolean(id) && (t.id === id || t.linked_from?.id === id);
+}
+
+/**
  * Decide whether a playback state means the expected track has ended. Pure and
  * unit-tested so the (untestable-live) state machine has a verified core.
  *
@@ -37,14 +52,11 @@ export function isTrackEnd(
 ): boolean {
   if (!s) return false;
   const current = s.track_window?.current_track;
-  if (!current || current.uri !== expectedUri) return false;
+  if (!isSameTrack(current, expectedUri)) return false;
   const nearEnd = s.duration > 0 && s.duration - s.position <= END_THRESHOLD_MS;
   if (!s.paused) return nearEnd;
   if (!wasPlaying) return false;
-  const inPrev =
-    s.track_window?.previous_tracks?.some(
-      (t) => t.uri === current.uri || (t.id != null && t.id === current.id),
-    ) ?? false;
+  const inPrev = s.track_window?.previous_tracks?.some((t) => isSameTrack(t, expectedUri)) ?? false;
   return s.position === 0 || inPrev || nearEnd;
 }
 
@@ -404,7 +416,12 @@ export class Director {
     }
     const current = s.track_window?.current_track;
     const expected = this.queue[this.index]?.uri;
-    if (!current || current.uri !== expected) return;
+    if (!isSameTrack(current, expected)) {
+      // Spotify moved on to some other track (e.g. autoplay) after ours had
+      // been playing, so ours has finished.
+      if (current && this.wasPlaying) void this.onTrackEnded();
+      return;
+    }
 
     this.positionMs = s.position;
     if (s.duration) this.durationMs = s.duration;
@@ -439,7 +456,12 @@ export class Director {
 
     const current = s.track_window?.current_track;
     const expected = this.queue[this.index]?.uri;
-    if (!current || current.uri !== expected) return; // stale / transitioning
+    if (!isSameTrack(current, expected)) {
+      // Stale/transitioning state — unless ours already played and Spotify has
+      // moved on to another track, which means ours ended.
+      if (current && this.wasPlaying) void this.onTrackEnded();
+      return;
+    }
 
     if (!s.paused) {
       this.wasPlaying = true;

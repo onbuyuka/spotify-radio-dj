@@ -31,6 +31,8 @@ declare namespace Spotify {
     duration_ms: number;
     artists: Artist[];
     album: Album;
+    /** Set when Spotify relinked the requested track to a regional copy. */
+    linked_from?: { uri: string | null; id: string | null };
   }
 
   interface PlaybackTrackWindow {

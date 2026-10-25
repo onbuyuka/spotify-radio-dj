@@ -239,7 +239,12 @@ export async function getPlaylistTracks(
 
   let firstObj: RawPlaylistObject;
   try {
-    firstObj = await spotifyFetch<RawPlaylistObject>(tokens, `/playlists/${playlistId}`);
+    // market=from_token returns tracks as playable in the listener's country
+    // (already relinked, with an accurate is_playable flag).
+    firstObj = await spotifyFetch<RawPlaylistObject>(
+      tokens,
+      `/playlists/${playlistId}?market=from_token`,
+    );
   } catch (e) {
     if (e instanceof SpotifyApiError && (e.status === 401 || e.status === 403)) {
       throw new Error(
