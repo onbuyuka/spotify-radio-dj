@@ -35,6 +35,14 @@ GitHub Pages. Mirrors the structure of the other static apps in this workspace.
 | `npm run build:feed` | Build the data snapshot (`public/feed.json`) |
 | `npm run deploy` | Build + publish to the `gh-pages` branch |
 
+## Dependency maintenance
+
+[Dependabot](.github/dependabot.yml) checks npm dependencies and GitHub Actions
+weekly. Minor and patch npm version updates are grouped; major updates stay
+separate. Security updates run independently when GitHub detects a vulnerable
+dependency. Run the existing type-check, tests and production build before
+accepting updates. Site deployment remains a separate `npm run deploy` step.
+
 ## Status
 
 Under construction, phase by phase. Audio loop (Spotify control → gap → DJ → next
