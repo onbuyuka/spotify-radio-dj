@@ -198,7 +198,7 @@ export const Booth: React.FC<BoothProps> = ({ playlist, station, cadence, onExit
                       : 'border-metal-400 text-silver-300 hover:text-amber-400 hover:border-silver-400'
                 }`}
               >
-                <span className={`led !w-2 !h-2 ${on ? 'led-green' : ''}`} />
+                <span className={`led w-2! h-2! ${on ? 'led-green' : ''}`} />
                 {s.label}
                 {!s.available && <span className="text-silver-600"> ·SOON</span>}
               </button>
@@ -242,11 +242,11 @@ export const Booth: React.FC<BoothProps> = ({ playlist, station, cadence, onExit
                       <img
                         src={state.track.album.images[0].url}
                         alt=""
-                        className="w-16 h-16 object-cover rounded block"
+                        className="w-16 h-16 object-cover rounded-sm block"
                       />
                     </span>
                   ) : (
-                    <span className="w-16 h-16 shrink-0 grid place-items-center bg-chassis-900 rounded text-2xl">
+                    <span className="w-16 h-16 shrink-0 grid place-items-center bg-chassis-900 rounded-sm text-2xl">
                       💿
                     </span>
                   )}
@@ -262,7 +262,7 @@ export const Booth: React.FC<BoothProps> = ({ playlist, station, cadence, onExit
                 </div>
                 <div className="mt-3 panel-inset h-3 overflow-hidden">
                   <div
-                    className="h-full bg-gradient-to-r from-lime-500 to-amber-400 transition-[width] duration-1000 ease-linear"
+                    className="h-full bg-linear-to-r from-lime-500 to-amber-400 transition-[width] duration-1000 ease-linear"
                     style={{ width: `${progress}%` }}
                   />
                 </div>

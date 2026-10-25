@@ -22,7 +22,7 @@ The browser is a **conductor**, not a music player:
 
 ## Tech
 
-Vite + React 19 + TypeScript, Tailwind (CDN), HashRouter. Static site deployed to
+Vite + React 19 + TypeScript, build-time Tailwind CSS 4, HashRouter. Static site deployed to
 GitHub Pages. Mirrors the structure of the other static apps in this workspace.
 
 ## Scripts
@@ -42,6 +42,9 @@ weekly. Minor and patch npm version updates are grouped; major updates stay
 separate. Security updates run independently when GitHub detects a vulnerable
 dependency. Run the existing type-check, tests and production build before
 accepting updates. Site deployment remains a separate `npm run deploy` step.
+
+Tailwind CSS 4 requires Safari 16.4+, Chrome 111+ or Firefox 128+. Its theme and
+compatibility styles are maintained in `index.css`.
 
 ## Status
 

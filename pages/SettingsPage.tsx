@@ -59,7 +59,7 @@ export const SettingsPage: React.FC = () => {
               onChange={(e) => setClientIdState(e.target.value)}
               placeholder="e.g. 4f0c…"
               spellCheck={false}
-              className="w-full lcd px-3 py-2 font-lcd text-xl text-amber-400 placeholder:text-amber-600/50 focus:outline-none bg-transparent"
+              className="w-full lcd px-3 py-2 font-lcd text-xl text-amber-400 placeholder:text-amber-600/50 focus:outline-hidden bg-transparent"
             />
           </div>
           <button onClick={save} className="btn3d btn3d-amber">

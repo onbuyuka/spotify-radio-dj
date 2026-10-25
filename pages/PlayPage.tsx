@@ -120,11 +120,11 @@ export const PlayPage: React.FC = () => {
         <div className="flex items-center gap-3 min-w-0">
           {profile?.image ? (
             <span className="bezel">
-              <img src={profile.image} alt="" className="w-9 h-9 rounded object-cover block" />
+              <img src={profile.image} alt="" className="w-9 h-9 rounded-sm object-cover block" />
             </span>
           ) : (
             <span className="bezel">
-              <span className="w-9 h-9 grid place-items-center bg-chassis-900 rounded text-lg">
+              <span className="w-9 h-9 grid place-items-center bg-chassis-900 rounded-sm text-lg">
                 🎧
               </span>
             </span>
@@ -163,7 +163,7 @@ export const PlayPage: React.FC = () => {
               <button
                 key={s.id}
                 onClick={() => chooseStation(s.id)}
-                className={`btn3d ${active ? 'btn3d-on' : ''} flex-col !items-start text-left`}
+                className={`btn3d ${active ? 'btn3d-on' : ''} flex-col items-start! text-left`}
               >
                 <span className="flex items-center gap-2">
                   <span className={`led ${active ? 'led-green' : ''}`} />
@@ -190,7 +190,7 @@ export const PlayPage: React.FC = () => {
                 setShowAll(false);
               }}
               placeholder="SEARCH…"
-              className="lcd lcd-green px-3 py-1.5 w-56 font-lcd text-lg text-lime-400 placeholder:text-lime-600/50 focus:outline-none bg-transparent"
+              className="lcd lcd-green px-3 py-1.5 w-56 font-lcd text-lg text-lime-400 placeholder:text-lime-600/50 focus:outline-hidden bg-transparent"
             />
           </div>
         </div>
@@ -210,14 +210,14 @@ export const PlayPage: React.FC = () => {
                 {active && (
                   <span
                     aria-hidden
-                    className="pointer-events-none absolute inset-0 z-10 rounded border-2 border-amber-400 bg-amber-400/20"
+                    className="pointer-events-none absolute inset-0 z-10 rounded-sm border-2 border-amber-400 bg-amber-400/20"
                   />
                 )}
                 <span className="bezel block mb-2">
                   {p.image ? (
-                    <img src={p.image} alt="" className="w-full aspect-square object-cover rounded block" />
+                    <img src={p.image} alt="" className="w-full aspect-square object-cover rounded-sm block" />
                   ) : (
-                    <span className="w-full aspect-square grid place-items-center bg-chassis-900 rounded text-2xl">
+                    <span className="w-full aspect-square grid place-items-center bg-chassis-900 rounded-sm text-2xl">
                       📼
                     </span>
                   )}
@@ -244,7 +244,7 @@ export const PlayPage: React.FC = () => {
 
       {/* Transport bar */}
       <div className="panel p-4 flex items-center justify-between gap-4 flex-wrap">
-        <div className="bezel flex-1 min-w-[14rem]">
+        <div className="bezel flex-1 min-w-56">
           <div className="lcd px-3 py-2 font-lcd text-lg">
             {selectedPlaylist ? (
               <span className="text-amber-400">

@@ -90,7 +90,7 @@ export const VoiceSettings: React.FC = () => {
                       <select
                         value={chosen[lang] || ''}
                         onChange={(e) => choose(lang, e.target.value)}
-                        className="w-full lcd px-3 py-2 font-lcd text-lg text-amber-400 bg-transparent focus:outline-none"
+                        className="w-full lcd px-3 py-2 font-lcd text-lg text-amber-400 bg-transparent focus:outline-hidden"
                       >
                         <option value="">Default ({voices[0].name})</option>
                         {voices.map((v) => (

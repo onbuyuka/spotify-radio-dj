@@ -1,6 +1,92 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import 'tailwindcss';
+
+@theme {
+  --font-pixel: 'Press Start 2P', monospace;
+  --font-lcd: VT323, ui-monospace, monospace;
+  --font-sans: VT323, ui-monospace, monospace;
+
+  --color-chassis-600: #272219;
+  --color-chassis-700: #1d1a15;
+  --color-chassis-800: #15130f;
+  --color-chassis-900: #0e0d0b;
+
+  --color-metal-300: #5d5749;
+  --color-metal-400: #4a463d;
+  --color-metal-500: #322e27;
+  --color-metal-600: #272420;
+  --color-metal-700: #1d1b17;
+
+  --color-silver-300: #c4c8cc;
+  --color-silver-400: #9aa0a4;
+  --color-silver-500: #6c7075;
+  --color-silver-600: #44474a;
+
+  --color-amber-300: #ffd27a;
+  --color-amber-400: #ffb22e;
+  --color-amber-500: #ff9500;
+  --color-amber-600: #d97a00;
+
+  --color-lime-400: #5dff9e;
+  --color-lime-500: #2bff88;
+  --color-lime-600: #13c463;
+
+  --color-onair-400: #ff6a6a;
+  --color-onair-500: #ff2d2d;
+  --color-onair-600: #d61f1f;
+
+  --color-info-400: #5cc8ff;
+  --color-info-500: #35b6ff;
+
+  --animate-fade-in: fadeIn 0.35s ease-out;
+  --animate-blink: blink 1.1s steps(1) infinite;
+  --animate-marquee: marquee 14s linear infinite;
+  --animate-spin-slow: spin 3s linear infinite;
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  @keyframes blink {
+    0%,
+    49% {
+      opacity: 1;
+    }
+    50%,
+    100% {
+      opacity: 0.25;
+    }
+  }
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+}
+
+/*
+  The default border color has changed to `currentcolor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentcolor);
+  }
+}
 
 /* ===========================================================================
    RadioDJ hi-fi stereo design system.
