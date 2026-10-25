@@ -46,6 +46,10 @@ accepting updates. Site deployment remains a separate `npm run deploy` step.
 Tailwind CSS 4 requires Safari 16.4+, Chrome 111+ or Firefox 128+. Its theme and
 compatibility styles are maintained in `index.css`.
 
+[npm configuration](.npmrc) selects the public registry. Lockfiles retain exact
+versions and integrity hashes but omit registry-specific tarball URLs so local
+corporate caches cannot make Dependabot depend on inaccessible feeds.
+
 ## Status
 
 Under construction, phase by phase. Audio loop (Spotify control → gap → DJ → next
