@@ -1,13 +1,29 @@
 {
-  "updated": "2026-10-28T03:52:42.012Z",
+  "updated": "2026-10-28T12:03:26.843Z",
   "news": [
     {
-      "title": "İsrail seçimleri: Partiler meclis çoğunluğunu sağlayamıyor",
-      "summary": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu gösteriyor.",
+      "title": "İspanya'daki hızlı tren kazasında en az 30 ölü",
+      "summary": "İspanya'nın başkenti Madrid'in güneyindeki Toledo kentindeki hızlı tren hattında içlerinde 500'den fazla yolcunun bulunduğu iki tren çarpıştı. Yetkililer can kaybının 30'a ulaştığını aktardı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 10:38:15 GMT"
+    },
+    {
+      "title": "İsrail seçim sonuçları: Partiler meclis çoğunluğunu sağlayamıyor",
+      "summary": "İsrail seçimlerinde oyların %70'i sayıldı. Merkez Seçim Komitesi'nin açıkladığı kısmi sonuçlara göre Başbakan Netanyahu'nun liderliğindeki blok 54 sandalye, rakibi Eisenkot'un bloğu ise 47 sandalye kazanıyor. Kilit rol oynaması beklenen Ara",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 01:31:27 GMT"
+      "publishedAt": "Wed, 28 Oct 2026 11:27:51 GMT"
+    },
+    {
+      "title": "Yeni Parti'den Sarıgül açıklaması: 'Hakkında yoğun iddialar var, şu anda parti ile ilişkisi yok'",
+      "summary": "Erzincan Milletvekili Mustafa Sarıgül, kendisi ve ailesine yönelik 16 Ekim'de başlatılan soruşturma tamamlanıncaya kadar Yeni Parti üyeliğinin askıya alınması için başvuru yaptı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cxdd8q9ejvglo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 11:35:37 GMT"
     },
     {
       "title": "Emekli maaşlarına iyileştirme: Yaş ve hane geliri kriterleri tartışılıyor",
@@ -18,12 +34,12 @@
       "publishedAt": "Wed, 28 Oct 2026 00:17:09 GMT"
     },
     {
-      "title": "Fenerbahçe'de İsmail Kartal dönemi sona erdi",
+      "title": "Fenerbahçe'de İsmail Kartal yerine geçici olarak Dirk Kuyt görevlendirildi",
       "summary": "Fenerbahçe, futbol takımının teknik direktörü olarak Haziran ayında göreve başlayan İsmail Kartal ile yolların ayrıldığını duyurdu.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c3vgxjqk8rzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 17:54:47 GMT"
+      "publishedAt": "Wed, 28 Oct 2026 08:14:37 GMT"
     },
     {
       "title": "Brezilya'da seçimi kaybeden sağcı lider Bolsonaro ABD'ye gitti",
@@ -34,76 +50,126 @@
       "publishedAt": "Wed, 28 Oct 2026 01:23:59 GMT"
     },
     {
-      "title": "Şiddet mağduru kadınlar için Diyarbakır'da buluşma: 'Her kapı çaldığında irkiliyorum'",
-      "summary": "Diyarbakır'da kadın örgütlerinin biraraya gelerek oluşturduğu \"Amed (Diyarbakır) Şiddetle Mücadele Ağı\", öldürülen ve şüpheli şekilde yaşamını yitiren kadınlar için bir süre önce \"Kadın, Adalet ve Hafıza Nöbeti\" adıyla haftalık eylem başlat",
-      "source": "BBC Türkçe",
+      "title": "Emniyet mensuplarına müjde. PAEM amirlik eğitimi için 149 polis alımı yapacak",
+      "summary": "Emniyet Genel Müdürlüğü bünyesinde görev yapan polis memurları için amirlik kapısı açılıyor. Polis Akademisi Başkanlığı, PAEM 11. Dönem İlk Derece Amirlik Eğitimi kapsamında 134 erkek ve 15 kadın olmak üzere toplam 149 öğrenci alımı yapılac",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cqkg5lp7r4xno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 16:22:27 GMT"
+      "publishedAt": "2026-10-28T14:56:02+03:00"
     },
     {
-      "title": "Mekke İttifakı Anlaşması, TBMM Dışişleri Komisyonu'nda kabul edildi",
-      "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke İttifakı Anlaşması'na dair kanun teklifi, 27 Ekim'de TBMM Dışişleri Komisyonu'nda kabul edildi.",
-      "source": "BBC Türkçe",
+      "title": "İstanbul'da trafik yoğunluğu yüzde 80'e ulaştı",
+      "summary": "İstanbul'da 29 Ekim Cumhuriyet Bayramı arifesinde öğleden sonra başlayan resmi tatilin etkisiyle trafik yoğunluğu yüzde 80'i gördü.",
+      "source": "NTV",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cwj0l71r8lq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 14:28:51 GMT"
+      "publishedAt": "2026-10-28T14:37:19+03:00"
     },
     {
-      "title": "Yol kenarında cansız beden bulundu",
-      "summary": "Ankara Polatlı'da yol kenarında cansız beden bulundu. Olayla ilgili soruşturma başlatıldı",
+      "title": "Kadıköy'de tahliye krizi. Belediye \"Yıkılma riski var\" dedi",
+      "summary": "Kadıköy'de 3 binanın kolonlarında ve iç kısımlarında oluşan çatlaklar nedeniyle yıkım kararına bina sakinler, tebligat yapılmadığını iddia edip tepki göstermişti. Kadıköy Belediyesi açıklama yaptı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-28T14:06:44+03:00"
+    },
+    {
+      "title": "Hortum, sağanak, fırtına: 4 şehirde turuncu kodlu alarm verildi, İstanbul için saat belli oldu",
+      "summary": "Balkanlar ve Orta Akdeniz'den gelen soğuk ve yağışlı hava dalgası Türkiye'yi etkisi altına aldı. Dört şehir için turuncu kodlu uyarı yapılırken, İstanbul'da yağmurun şiddetleneceği saat belli oldu.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-28T13:55:37+03:00"
+    },
+    {
+      "title": "Bakan Kurum ile Mansur Yavaş görüştü",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ile Ankara Büyükşehir Belediye Başkanı Mansur Yavaş bir görüşme gerçekleştirdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-28T13:55:20+03:00"
+    },
+    {
+      "title": "Muğla'yı sağanak vurdu: Bodrum ve Marmaris'te yollar göle döndü",
+      "summary": "Muğla'nın Bodrum, Marmaris ve Dalaman ilçelerinde etkili olan sağanak nedeniyle yollarda su birikintileri oluştu, araçlar mahsur kaldı, dere taştı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-28T13:05:08+03:00"
+    },
+    {
+      "title": "İstanbul'da 29 Ekim'de bu yollara dikkat!",
+      "summary": "İstanbul Valiliği, 29 Ekim Cumhuriyet Bayramı'nın 103. Yıl Dönümü Kutlamaları nedeniyle İstanbul'da bazı yolların trafiğe kapatılacağını duyurdu. İşte kapatılacak yollar ve alternatif güzergahlar...",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/polatli-da-yol-kenarinda-cansiz-beden-bulundu-3923088",
-      "publishedAt": "Wed, 28 Oct 2026 03:36:06 GMT"
+      "link": "https://www.haberturk.com/gundem/istanbul-da-29-ekim-de-bu-yollara-dikkat-3923189",
+      "publishedAt": "Wed, 28 Oct 2026 11:57:01 GMT"
     },
     {
-      "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
-      "summary": "İstanbul Beyoğlu'nda 5 katlı metruk bina çöktü. Bitişiğindeki binaya da zarar veren binanın enkazında yürütülen arama çalışmaları tamamlandı",
+      "title": "Muratpaşa Kaymakamı hayatını kaybetti",
+      "summary": "Antalya'nın Muratpaşa ilçesi Kaymakamı İhsan Kara, geçirdiği kalp krizi sonucu yaşamını yitirdi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/beyoglu-nda-5-katli-metruk-bina-coktu-3923086",
-      "publishedAt": "Wed, 28 Oct 2026 03:19:58 GMT"
+      "link": "https://www.haberturk.com/gundem/muratpasa-kaymakami-ihsan-kara-hayatini-kaybetti-3923188",
+      "publishedAt": "Wed, 28 Oct 2026 11:52:52 GMT"
     },
     {
-      "title": "Suriye ile Ürdün arasındaki sınır kapısı yeniden açılıyor",
-      "summary": "Suriye, ülkenin güneyindeki Nasib Sınır Kapısı'nın sabah saatlerinde yeniden açılacağını duyurdu",
+      "title": "Bakanlık marka adı vererek ifşa etti",
+      "summary": "Tarım ve Orman Bakanlığı'nın taklit veya tağşiş yapılan gıdalar listesine yeni ürünler eklendi. Listede en dikkat çeken tağşiş sucuklarda tespit edilen domuz eti ve tek tırnaklı eti oldu. Zeytinyağı, yoğurt, tereyağı,kaşar peynir ve bal gib",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/suriye-ile-urdun-arasindaki-sinir-kapisi-yeniden-aciliyor-3923087",
-      "publishedAt": "Wed, 28 Oct 2026 00:32:46 GMT"
+      "link": "https://www.haberturk.com/ekonomi/bakanlik-marka-adi-vererek-ifsa-etti-dana-sucuk-diye-satilan-urunde-domuz-eti-cikti-3923175",
+      "publishedAt": "Wed, 28 Oct 2026 11:52:23 GMT"
     },
     {
-      "title": "Vücudunuzu ayakta tutan 20 besin",
-      "summary": "İnsan vücudunun sağlıklı, dinç ve zinde bir şekilde işleyebilmesi için çeşitli besinlere ihtiyacı vardır. Bilim adamları bu ihtiyacı karşılayan 20 temel ve en kritik besin ögesini sıraladı...",
+      "title": "Önce oğul sonra baba... Cem Akaş hayatını kaybetti",
+      "summary": "Can Yayınları Genel Yayın Yönetmeni, yazar, editör ve çevirmen Cem Akaş hayatını kaybetti. Akaş'ın acı haberi, Can Yayınları'nın sosyal medya hesabından duyuruldu. Akaş ile fotoğraf sanatçısı Esra Özdoğan'ın oğlu Can Akaş 19 Ekim'de yaşamın",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/yasam/foto/vucudunuzu-ayakta-tutan-20-besin-3923014",
-      "publishedAt": "Tue, 27 Oct 2026 23:04:31 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-once-ogul-sonra-baba-cem-akas-hayatini-kaybetti-3923133",
+      "publishedAt": "Wed, 28 Oct 2026 11:52:11 GMT"
     },
     {
-      "title": "İsrail'deki seçimlere yüksek katılım",
-      "summary": "İsrail'de dün sabah 07.00'de oy kullanma işleminin başlamasından saat 20.00'ye kadar gerçekleşen yüzde 74,3'lük katılım oranı, 1988'den bu yana aynı saat diliminde kaydedilen en yüksek katılım oranı oldu.",
+      "title": "Lemina dokunuşu",
+      "summary": "Lille'de dikkat çeken bir galibiyet alan Galatasaray'da teknik direktör Okan Buruk'tan derbi 11'ine tek dokunuş geldi: Mario Lemina... Gabonlu orta saha, Fenerbahçe karşısında görevini fazlasıyla yerine getirdi, derbi galibiyetinin görünmez",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/israil-deki-secimlere-yogun-katilim-3923056",
-      "publishedAt": "Tue, 27 Oct 2026 23:01:59 GMT"
+      "link": "https://www.haberturk.com/spor/galatasaray-da-okan-buruk-tan-lemina-dokunusu-3923183",
+      "publishedAt": "Wed, 28 Oct 2026 11:51:24 GMT"
     },
     {
-      "title": "4 Filistinli hayatını kaybetti",
-      "summary": "İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 4 Filistinli hayatını kaybetti, 5 kişi yaralandı.",
+      "title": "MGM'den Marmara için kritik uyarı! 29 kent için alarm verildi",
+      "summary": "Meteoroloji Genel Müdürlüğü (MGM), Marmara Bölgesi ile Doğu Akdeniz'deki bazı iller için kuvvetli ve şiddetli yağış uyarısında bulundu. Yarın sabah saatlerinden itibaren İstanbul, öğle saatlerinden itibaren Sakarya, Yalova çevreleri ile Bur",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/4-filistinli-hayatini-kaybetti-3923085",
-      "publishedAt": "Tue, 27 Oct 2026 22:31:20 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-mgm-den-marmara-icin-kritik-uyari-29-ekim-hava-durumu-istanbul-3923161",
+      "publishedAt": "Wed, 28 Oct 2026 11:48:34 GMT"
     },
     {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 18:28:23 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 10:31:22 GMT"
+    },
+    {
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 10:17:54 GMT"
+    },
+    {
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 10:18:40 GMT"
+    },
+    {
+      "title": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
+      "summary": "No official reason has been given for postponing next month’s hearing to May 2027, family says.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 08:28:39 GMT"
     },
     {
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
@@ -114,132 +180,116 @@
       "publishedAt": "Tue, 27 Oct 2026 22:11:08 GMT"
     },
     {
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
+      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 13:25:54 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 04:32:36 GMT"
     },
     {
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 01:46:38 GMT"
-    },
-    {
-      "title": "Dutch zookeeper dies after being mauled by leopard",
-      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 19:30:37 GMT"
-    },
-    {
-      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-      "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 27 Oct 2026 21:09:12 GMT"
-    },
-    {
-      "title": "Global stock markets rise as investors continue to bet on AI",
-      "summary": "Asian stock markets rise, following gains on Wall Street.",
+      "title": "Hackers target US campaign finance system days before midterm elections",
+      "summary": "An FEC email said a 'bad actor' tried to breach its systems as the US prepares for its most expensive elections ever.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 03:14:31 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/28/hackers-target-us-campaign-finance-system-days-before-midterm-elections?traffic_source=rss",
+      "publishedAt": "Wed, 28 Oct 2026 11:47:10 +0000"
     },
     {
-      "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
-      "summary": "Foreign ministers form security committee to share intelligence and follow up on impact of Jordan's strikes on Syria.",
+      "title": "Nigerian artist reframes children with albinism as heroes",
+      "summary": "Nigerian artist reframes children with albinism as heroes",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 03:10:17 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/nigerian-artist-reframes-children-with-albinism-as-heroes?traffic_source=rss",
+      "publishedAt": "Wed, 28 Oct 2026 11:46:49 +0000"
     },
     {
-      "title": "Five key takeaways from Israel’s parliamentary elections",
-      "summary": "Netanyahu's Likud emerges as single largest Israeli party, bloc edges past opposition.",
+      "title": "Cyclone leaves trail of destruction in India as thousands evacuated",
+      "summary": "Cyclone Arnab has left a trail of destruction along India’s eastern coast.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 02:53:35 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/cyclone-leaves-trail-of-destruction-in-india-as-thousands-evacuated?traffic_source=rss",
+      "publishedAt": "Wed, 28 Oct 2026 11:41:04 +0000"
     },
     {
-      "title": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
-      "summary": "Netanyahu has called the prospect of working with Arab parties to form a government ‘a disgrace and a shame’.",
+      "title": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps",
+      "summary": "Gaza's impending winter is likely to lead to further devastation for Palestinians.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 02:26:27 +0000"
+      "link": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
+      "publishedAt": "Wed, 28 Oct 2026 11:36:04 +0000"
     },
     {
-      "title": "Arab parties could win record 18 seats in Israel election, exit polls show",
-      "summary": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
+      "title": "Russia-Africa Summit: What is on the agenda, and why does it matter?",
+      "summary": "Moscow aims to strengthen economic and security ties with African leaders during the two-day gathering.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 00:43:56 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss",
+      "publishedAt": "Wed, 28 Oct 2026 11:33:26 +0000"
     },
     {
-      "title": "Netanyahu, Eisenkot camps clash over Israel election projections",
-      "summary": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
+      "title": "High voter turnout among Palestinian citizens of Israel threatens Netanyahu",
+      "summary": "A historic turnout among Palestinian citizens of Israel positions Arab parties as kingmakers against the far right.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 00:43:02 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu?traffic_source=rss",
+      "publishedAt": "Wed, 28 Oct 2026 11:33:13 +0000"
+    },
+    {
+      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+      "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+      "publishedAt": "Wed, 28 Oct 2026 07:28:55 -0400"
+    },
+    {
+      "title": "At least 30 dead in crash between two trains in central Spain, media say",
+      "summary": "A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 30 people on Wednesday in central Spain, according to local media.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+      "publishedAt": "Wed, 28 Oct 2026 06:09:46 -0400"
+    },
+    {
+      "title": "How a lifelong Republican came to lead the data center battle in Ohio",
+      "summary": "In Ohio, many people are displeased with the state's rapid buildout of data centers. It's a hot issue in the midterms, as political candidates from both parties try to ease voter concerns.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
+      "publishedAt": "Wed, 28 Oct 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Why many student voters have a right to choose where to register to vote",
+      "summary": "Student voters studying outside their hometown have a right to choose where they register to vote. Advocates say a Montana legal fight is a reminder of a misunderstanding of those students' rights.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-5793936/college-student-voting",
+      "publishedAt": "Wed, 28 Oct 2026 05:00:00 -0400"
     },
     {
       "title": "Partnerships between ICE and local police surge, report finds",
       "summary": "The number of state and local officers working with Immigration and Customs Enforcement has doubled in size in the last eight months, according to a new report from the immigration reform advocacy group FWD.us.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6014746/287g-local-police-immigration-ice",
-      "publishedAt": "Tue, 27 Oct 2026 23:19:32 -0400"
+      "link": "https://www.npr.org/2026/10/28/g-s1-150296/287g-local-police-immigration-ice",
+      "publishedAt": "Wed, 28 Oct 2026 05:00:00 -0400"
     },
     {
-      "title": "U.S. to issue visas to Flávio Bolsonaro as his whereabouts remain unclear",
-      "summary": "Flávio Bolsonaro leaves Brazil for the U.S. amid a money-laundering probe, as Washington agrees to issue visas to him and his family.",
+      "title": "Here's how Democrats in Congress are preparing for election fraud claims",
+      "summary": "Congressional Democrats are working with good governance groups to create an action plan for any potential claims of election fraud.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019678/u-s-to-issue-visas-to-flavio-bolsonaro-as-his-whereabouts-remain-unclear",
-      "publishedAt": "Tue, 27 Oct 2026 21:58:08 -0400"
+      "link": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
+      "publishedAt": "Wed, 28 Oct 2026 05:00:00 -0400"
     },
     {
-      "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
-      "summary": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
-      "source": "NPR",
+      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+      "summary": "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatmentThe “unprecedented” spread of the Ebola outbreak means it could reach the UK and other c",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
-      "publishedAt": "Tue, 27 Oct 2026 17:17:57 -0400"
-    },
-    {
-      "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
-      "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
-      "publishedAt": "Tue, 27 Oct 2026 16:45:39 -0400"
-    },
-    {
-      "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
-      "summary": "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed. How can it be stopped?",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
-      "publishedAt": "Tue, 27 Oct 2026 15:53:12 -0400"
-    },
-    {
-      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-      "summary": "A federal judge has barred the government from clearing more trees or making other alterations to D.C.'s East Potomac Park without proper notice. Trump says his administration will appeal.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-      "publishedAt": "Tue, 27 Oct 2026 13:01:37 -0400"
+      "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "publishedAt": "Wed, 28 Oct 2026 09:37:49 GMT"
     },
     {
       "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
@@ -264,47 +314,23 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
       "publishedAt": "Mon, 26 Oct 2026 09:59:27 GMT"
-    },
-    {
-      "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
-      "summary": "Calculations from the Center for Global Development say spending next year is likely to be £410m less than anticipatedThe UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by t",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-      "publishedAt": "Mon, 26 Oct 2026 06:59:36 GMT"
-    },
-    {
-      "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
-      "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in UgandaHealth officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infec",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
-      "publishedAt": "Fri, 23 Oct 2026 13:57:11 GMT"
-    },
-    {
-      "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
-      "summary": "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talksKing Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tou",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
-      "publishedAt": "Wed, 28 Oct 2026 00:07:22 GMT"
     }
   ],
   "sports": [],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 14,
+      "tempC": 16,
       "description": "overcast",
-      "high": 18,
+      "high": 17,
       "low": 13
     },
     {
       "place": "London",
-      "tempC": 9,
+      "tempC": 14,
       "description": "overcast",
       "high": 15,
-      "low": 9
+      "low": 8
     }
   ],
   "facts": [
