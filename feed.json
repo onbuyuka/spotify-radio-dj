@@ -1,14 +1,6 @@
 {
-  "updated": "2026-10-28T20:03:25.512Z",
+  "updated": "2026-10-29T00:35:11.100Z",
   "news": [
-    {
-      "title": "İspanya'daki hızlı tren kazasında can kaybı 68'e çıktı, üç günlük yas ilan edildi",
-      "summary": "İspanya'nın başkenti Madrid'in güneyindeki Toledo kentindeki hızlı tren hattında içlerinde 500'den fazla yolcunun bulunduğu iki tren çarpıştı. Yetkililer can kaybının 68'e yükseldiğini açıkladı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 15:42:48 GMT"
-    },
     {
       "title": "İsrail seçim sonuçları: Netanyahu'nun bloğu önde ancak meclis çoğunluğunu sağlayamıyor",
       "summary": "İsrail'de 27 Ekim Salı günü yapılan parlamento seçimlerinde Türkiye saatiyle 15.30 itibarıyla oyların %85,6'sı sayıldı.",
@@ -16,14 +8,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Wed, 28 Oct 2026 18:24:10 GMT"
-    },
-    {
-      "title": "Emekli maaşlarına iyileştirme: Yaş ve hane geliri kriterleri tartışılıyor",
-      "summary": "AKP kaynaklarının verdiği bilgiye göre yıl sonuna kadar yapılacak düzenlemede, emeklilere normal yıllık zammın yanı sıra, \"refah payı\" veya \"seyyanen zam\" seçeneği masada. Emekli maaşlarına yapılacak iyileştirmenin miktarında yaş, çalışma d",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c5y43w14wzm4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 00:17:09 GMT"
     },
     {
       "title": "İsrail seçim çıkmazını nasıl aşabilir? İşte olası dört senaryo",
@@ -34,12 +18,12 @@
       "publishedAt": "Wed, 28 Oct 2026 18:55:00 GMT"
     },
     {
-      "title": "Dondurulmuş veya konserve gıdalar sağlıklı mı?",
-      "summary": "Birçok kişi taze ürünlerin her halükarda en iyi seçenek olduğunu varsayar, ancak uzmanlara göre durum bu kadar basit değil.",
+      "title": "Emekli maaşlarına iyileştirme: Yaş ve hane geliri kriterleri tartışılıyor",
+      "summary": "AKP kaynaklarının verdiği bilgiye göre yıl sonuna kadar yapılacak düzenlemede, emeklilere normal yıllık zammın yanı sıra, \"refah payı\" veya \"seyyanen zam\" seçeneği masada. Emekli maaşlarına yapılacak iyileştirmenin miktarında yaş, çalışma d",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c9x284ex08lgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 16:19:51 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c5y43w14wzm4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 00:17:09 GMT"
     },
     {
       "title": "Brezilya'da seçimi kaybeden Flavio Bolsonaro ABD'ye gitti",
@@ -47,7 +31,30 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 13:52:59 GMT"
+      "publishedAt": "Wed, 28 Oct 2026 20:57:11 GMT"
+    },
+    {
+      "title": "ABD'li oyuncu Hayden Panettiere'nin ölümünün kaza sonucu olduğu belirlendi",
+      "summary": "Heroes ve Nashville dizilerinin yıldızı, Ağustos ayında fentanil, Xanax ve diğer bazı ilaçların toksik etkileri nedeniyle hayatını kaybetti.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cm62yl58x6gko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 29 Oct 2026 00:07:54 GMT"
+    },
+    {
+      "title": "İspanya'daki hızlı tren kazasında en az 68 kişi öldü, üç günlük yas ilan edildi",
+      "summary": "İspanya'nın başkenti Madrid'in güneyindeki Toledo kentindeki hızlı tren hattında içlerinde 500'den fazla yolcunun bulunduğu iki tren çarpıştı. Yetkililer can kaybının 68'e yükseldiğini açıkladı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 15:42:48 GMT"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 29 Ekim 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 29 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-29T03:30:00+03:00"
     },
     {
       "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 28 Ekim 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
@@ -85,67 +92,76 @@
       "publishedAt": "2026-10-28T21:10:24+03:00"
     },
     {
-      "title": "Şans Topu Sonuçları Sorgulama Ekranı 28 Ekim | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
-      "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-28T20:29:32+03:00"
-    },
-    {
-      "title": "\"Eşimi çok kıskanırım\"",
-      "summary": "Ünlü oyuncu Doğa Rutkay Kamal, eşi Kerimcan Kamal'ı kıskandığını belirterek, başka kadınların eşine iltifat etmesinden rahatsız olduğunu söyledi. Oyuncu, \"Eşime bakarlar, ederler; 'Çok şıksın' derler, acayip rahatsız olurum\" dedi",
+      "title": "Ankara'da TDT Zirvesi kapsamında denetim",
+      "summary": "Başkent'te, Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi kapsamında yürütülen güvenlik tedbirleri çerçevesinde polis ekiplerince asayiş ve trafik denetimi gerçekleştirildi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/foto/doga-rutkay-kamal-esimi-cok-kiskanirim-3923293",
-      "publishedAt": "Wed, 28 Oct 2026 19:50:00 GMT"
+      "link": "https://www.haberturk.com/gundem/ankara-da-tdt-zirvesi-kapsaminda-asayis-ve-trafik-denetimi-3923329",
+      "publishedAt": "Thu, 29 Oct 2026 00:07:16 GMT"
     },
     {
-      "title": "Suriye'den Ürdün'e nota",
-      "summary": "Suriye Dışişleri Bakanlığı, Ürdün'ün Şam Büyükelçisi Süfyan el-Kudat'ı ülkesinin Suriye'nin Dera ilindeki sivil yerleşim yerlerine düzenlediği hava saldırıları nedeniyle bakanlığa çağırarak protesto notası verdi.",
+      "title": "Kurtulmuş: Oyun bozan altında kalır!",
+      "summary": "TBMM Başkanı Numan Kurtulmuş, Plan ve Bütçe Komisyonunda Terörsüz Türkiye sürecine ilişkin açıklamalarda bulundu. Kurtulmuş, \"Oyun bozanlık yapan, kurduğu oyunun altında kalır. Hesap peşinde koşan, altında kalır\" dedi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/suriye-den-urdun-e-nota-3923303",
-      "publishedAt": "Wed, 28 Oct 2026 19:49:57 GMT"
+      "link": "https://www.haberturk.com/gundem/tbmm-baskani-kurtulmus-oyun-bozanlik-yapan-kurdugu-oyunun-altinda-kalir-3923258",
+      "publishedAt": "Thu, 29 Oct 2026 00:04:07 GMT"
     },
     {
-      "title": "Jülide Kural'dan iddialara yanıt",
-      "summary": "Kadir İnanır’ın hayat arkadaşı Jülide Kural, usta oyuncunun mal varlığı ve vasiyetine ilişkin iddialara yanıt verdi. Kural, ayrıca evlenmek istemeyen tarafın kendisi olduğunu da sözlerine ekledi",
+      "title": "İsrail'de Yahudi-Arap hükümeti kurulması talebi",
+      "summary": "İsrail'in başkenti Tel Aviv'de yüzlerce kişi, Yahudi ve Arap partilerin ortak hükümet kurması ve Başbakan Binyamin Netanyahu'nun istifa etmesi talebiyle gösteri düzenledi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/foto/kadir-inanirin-hayat-arkadasi-julide-kural-dan-iddialara-yanit-3923246",
-      "publishedAt": "Wed, 28 Oct 2026 19:31:57 GMT"
+      "link": "https://www.haberturk.com/dunya/israil-de-yahudi-arap-hukumeti-kurulmasi-talebi-3923328",
+      "publishedAt": "Wed, 28 Oct 2026 23:53:50 GMT"
     },
     {
-      "title": "Fenerbahçe liderliğini sürdürdü!",
-      "summary": "Fenerbahçe Tarfin Kadın Basketbol Takımı, FIBA Avrupa Ligi C Grubu üçüncü maçında konuk ettiği Fransa temsilcisi Flammes Carolo Basket'i 81-71 yendi.",
+      "title": "İstanbul Boğazı'nda gemi arızası",
+      "summary": "İstanbul Boğazı'nda, Saint Kitts ve Nevis bayraklı 'Alisuvar Mammadov' isimli kargo gemisi makine arızası nedeniyle Kanlıca açıklarında demirledi. Boğaz'da gemi trafiği çift yönlü olarak askıya alındı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/fenerbahce-tarfin-81-flammes-carolo-basket-71-mac-sonucu-3923302",
-      "publishedAt": "Wed, 28 Oct 2026 19:23:05 GMT"
+      "link": "https://www.haberturk.com/gundem/istanbul-bogazi-nda-gemi-arizasi-3923327",
+      "publishedAt": "Wed, 28 Oct 2026 22:55:21 GMT"
     },
     {
-      "title": "Fed faiz kararını açıkladı",
-      "summary": "ABD Merkez Bankası (Fed), politika faizini yüzde 3,75-4,00 aralığında sabit tuttu. 10'a karşı 2 oyla alınan kararda, ekonomik faaliyetin güçlü seyrettiği ve enflasyonun yüksek kalmaya devam ettiği belirtildi. Açıklamada enflasyonun hedefe z",
+      "title": "Kaçak göçmenleri taşıyan minibüs devrildi: 20 yaralı",
+      "summary": "Hakkari'de içerisinde Afganistan uyruklu kaçak göçmenlerin bulunduğu minibüs, jandarma ekiplerinden kaçmaya çalışırken sürücüsünün kontrolünü yitirmesi sonucu dereye yuvarlandı. Kazada 20 kişi yaralandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/son-dakika-fed-faiz-kararini-acikladi-3923277",
-      "publishedAt": "Wed, 28 Oct 2026 19:20:56 GMT"
+      "link": "https://www.haberturk.com/gundem/hakkari-de-kacak-gocmenleri-tasiyan-minibus-devrildi-20-yarali-3923326",
+      "publishedAt": "Wed, 28 Oct 2026 22:37:54 GMT"
     },
     {
-      "title": "ÇİMSA ÇBK Mersin'den 3'te 3!",
-      "summary": "Basketbol FIBA Kadınlar Avrupa Kupası D Grubu üçüncü maçında ÇİMSA ÇBK Mersin, deplasmanda Yunanistan'ın Olympiakos takımını 89-62 yendi.",
+      "title": "Kuvvetli yağış geliyor!",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, 29 Ekim Perşembe günü çeşitli bölgelerde kuvvetli sağanak ve gök gürültülü sağanak beklendiğini, Muğla, Antalya, Mersin ve Adana için turuncu kodlu uyarı yapıldığını belirten Çiftçi, vatandaşları sel, su bask",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/olympiakos-62-cimsa-cbk-mersin-89-mac-sonucu-3923301",
-      "publishedAt": "Wed, 28 Oct 2026 19:20:29 GMT"
+      "link": "https://www.haberturk.com/gundem/kuvvetli-yagis-geliyor-25-il-icin-sari-4-il-icin-turuncu-kod-uyari-3923325",
+      "publishedAt": "Wed, 28 Oct 2026 22:37:00 GMT"
     },
     {
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-      "summary": "His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 21:38:54 GMT"
+    },
+    {
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 21:24:41 GMT"
+    },
+    {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 18:42:45 GMT"
+      "publishedAt": "Wed, 28 Oct 2026 23:21:48 GMT"
     },
     {
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -153,7 +169,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 16:59:47 GMT"
+      "publishedAt": "Wed, 28 Oct 2026 20:24:39 GMT"
     },
     {
       "title": "How could Israel break election deadlock? Here are four scenarios",
@@ -164,76 +180,84 @@
       "publishedAt": "Wed, 28 Oct 2026 14:30:31 GMT"
     },
     {
-      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 10:31:22 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 28 Oct 2026 22:08:52 GMT"
     },
     {
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 10:17:54 GMT"
-    },
-    {
-      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 28 Oct 2026 10:18:40 GMT"
-    },
-    {
-      "title": "Spain demands answers after deadliest train disaster in over a decade",
-      "summary": "At least 68 people have been killed and more than 100 injured after two high-speed trains collided south of Madrid.",
+      "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+      "summary": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 19:32:57 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+      "publishedAt": "Thu, 29 Oct 2026 00:01:07 +0000"
     },
     {
-      "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
-      "summary": "Russian President Vladimir Putin told the leaders of dozens of African nations that Moscow was their best partner.",
+      "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "summary": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 19:13:32 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "publishedAt": "Thu, 29 Oct 2026 00:00:00 +0000"
     },
     {
-      "title": "Fed leaves interest rates unchanged despite inflation in the US",
-      "summary": "Rates will remain 3.75-4 percent even as inflation continues to rise.",
+      "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+      "summary": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 19:05:44 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+      "publishedAt": "Wed, 28 Oct 2026 23:43:06 +0000"
     },
     {
-      "title": "What are the implications of Israel’s elections?",
-      "summary": "No clear winner in Israel's first election since the October 7 attacks and genocidal war in Gaza.",
+      "title": "UN experts sound alarm at excessive use of force in French student protests",
+      "summary": "UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 19:03:03 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
+      "publishedAt": "Wed, 28 Oct 2026 22:34:51 +0000"
     },
     {
-      "title": "US jury convicts Rwandan American of lying about role in genocide",
-      "summary": "Jurors heard competing witness testimony on where Eric Nshimiye was and what he was doing in April 1994.",
+      "title": "Costa Rica’s mega-prison receives first inmates",
+      "summary": "President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/28/us-jury-convicts-rwandan-american-of-lying-about-role-in-genocide?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 19:02:38 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
+      "publishedAt": "Wed, 28 Oct 2026 21:36:16 +0000"
     },
     {
-      "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
-      "summary": "Speaking at the third Russia-Africa Summit, Putin frames Moscow as an alternative to former colonial powers.",
+      "title": "Indonesian students demand action on wildfires and rising costs",
+      "summary": "Hundreds of Indonesian students protested against the government's handling of forest fires and rising costs.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/28/putin-tells-african-leaders-moscow-will-not-pursue-neo-colonialism?traffic_source=rss",
-      "publishedAt": "Wed, 28 Oct 2026 19:01:46 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss",
+      "publishedAt": "Wed, 28 Oct 2026 21:23:17 +0000"
+    },
+    {
+      "title": "Trump administration will allow pharmacies to make popular peptides",
+      "summary": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be enough to meet demand.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+      "publishedAt": "Wed, 28 Oct 2026 18:26:48 -0400"
+    },
+    {
+      "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+      "summary": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in Brazil.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+      "publishedAt": "Wed, 28 Oct 2026 17:46:27 -0400"
+    },
+    {
+      "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+      "summary": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+      "publishedAt": "Wed, 28 Oct 2026 17:15:09 -0400"
     },
     {
       "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
@@ -258,30 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
       "publishedAt": "Wed, 28 Oct 2026 12:10:43 -0400"
-    },
-    {
-      "title": "What's gone up even faster than gas or rent? The cost of caregiving",
-      "summary": "A new study from AARP shows caregivers' out-of-pocket costs rose about 60% in the last five years.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019319/caregiving-costs-aarp-affordability",
-      "publishedAt": "Wed, 28 Oct 2026 09:05:33 -0400"
-    },
-    {
-      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-      "summary": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
-      "publishedAt": "Wed, 28 Oct 2026 07:28:55 -0400"
-    },
-    {
-      "title": "Dozens are dead in a high-speed train crash in Spain",
-      "summary": "The toll is rising after a high-speed train between slammed into the rear of another train that had stopped south of Madrid, derailing two cars. It was Spain's second major train accident this year.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-      "publishedAt": "Wed, 28 Oct 2026 06:09:46 -0400"
     },
     {
       "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -322,15 +322,15 @@
       "place": "İstanbul",
       "tempC": 16,
       "description": "overcast",
-      "high": 17,
-      "low": 13
+      "high": 18,
+      "low": 15
     },
     {
       "place": "London",
-      "tempC": 14,
+      "tempC": 12,
       "description": "overcast",
-      "high": 16,
-      "low": 8
+      "high": 17,
+      "low": 12
     }
   ],
   "facts": [
