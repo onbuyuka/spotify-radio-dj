@@ -1,287 +1,303 @@
 {
-  "updated": "2026-10-30T04:15:42.409Z",
+  "updated": "2026-10-30T12:05:11.781Z",
   "news": [
     {
-      "title": "31 Mart yerel seçimlerinden bugüne İstanbul'un belediye dağılımı nasıl değişti?",
-      "summary": "İstanbul'da seçilmiş 26 CHP'li ilçe belediye başkanından 14'ü çeşitli suçlamalarla soruşturma geçirdi. Tutuklu yargılamaların sürdüğü yönetimlerde başkanvekilliği seçimleri yapıldı. Bazı belediyelerde yönetimler başkanvekilliği seçimlerinde",
+      "title": "Aliyev, Türk Devletleri Teşkilatı Zirvesi'ne katılmadı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Sarayı'nda Türk Devletleri Teşkilatı 13. Zirvesi Devlet Başkanları Konseyi Toplantısı'na ev sahipliği yaptı. Azerbaycan Cumhurbaşkanı İlham Aliyev ise zirveye katılmadı",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ck054dlgm8zdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 00:14:01 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cmrlypdepxy4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 11:37:38 GMT"
     },
     {
-      "title": "İsrail muhalefeti Netanyahu'yu seçimleri \"gayrimeşrulaştırmaya\" çalışmakla suçluyor",
+      "title": "ABD ara seçimleri neden önemli? Yedi temel soru",
+      "summary": "ABD'li seçmenler, Donald Trump'ın başkanlığı üzerinde büyük etkisi olabilecek ara seçim için 3 Kasım'da sandık başına gidecek.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cmq8nwyxk1gdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 10:37:04 GMT"
+    },
+    {
+      "title": "Binance'te 'tarihin en büyük siber saldırısı': 6,3 milyar dolarlık kripto varlık etkilendi",
+      "summary": "Kripto para devi Binance, potansiyel bir siber saldırı sebebiyle 6,3 milyar dolar (yaklaşık 314 milyar lira) değerinde dijital varlığın etkilendiğini belirtti. İki analiz firması, olayın TraderTraitor adlı Kuzey Koreli bir siber saldırı bir",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cm4g10d03rp8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 10:14:28 GMT"
+    },
+    {
+      "title": "Türkiye'den 'İsrail seçimlerine müdahale ettiği' iddialarına yalanlama",
       "summary": "İsrail'in ana muhalefet lideri Gadi Eisenkot ve Arap partilerinin liderleri, koalisyonunun parlamentodaki çoğunluğu kaybettiği seçimlerin ardından \"yabancı müdahalesi\" iddiasında bulunan Başbakan Binyamin Netanyahu'yu kınadı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c6d93pd9pxw2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 23:22:43 GMT"
+      "publishedAt": "Fri, 30 Oct 2026 09:05:23 GMT"
     },
     {
-      "title": "Azerbaycan medyası: Aliyev Türkiye'ye gitmeyecek",
-      "summary": "Azerbaycan'da hükümete yakın medyada yer alan haberlere göre, Cumhurbaşkanı İlham Aliyev Ankara'daki Türk Devletleri Teşkilatı zirvesine katılmayacak. Cumhurbaşkanı Erdoğan, 21 Ekim'de Aliyev'i telefonla arayarak Ankara'daki zirveye davet e",
+      "title": "'Ferritin yüzü': Demir eksikliği dış görünüşten anlaşılabilir mi?",
+      "summary": "Sosyal medyada “ferritin yüzü” adıyla yayılan paylaşımlar solgun cilt, göz altı morlukları ve saç dökülmesini demir eksikliğine bağlarken, doktorlar yalnızca dış görünüşe bakılarak tanı konulamayacağını vurguluyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmeq3wdn4xjqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 16:43:55 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cmy93gj7d543o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 11:40:15 GMT"
     },
     {
-      "title": "Hakkında ev hapsi kararı verilen Sinem Dedetaş tahliye oldu",
-      "summary": "Tutuklandıktan sonra Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan Sinem Dedetaş hakkında tahliye ve ev hapsi kararı verildi. Dedetaş 31 Temmuz'dan bu yana tutuklu bulunuyordu.",
+      "title": "Borsada yapay zeka depremi: Google 500 milyar dolar değer kaybetti",
+      "summary": "Teknoloji devi Google'ın ana şirketi Alphabet, 29 Ekim Perşembe 500 milyar doları (yaklaşık 25 trilyon lira) aşkın kayıp yaşadı. Değer kaybı, şirketin arama motorundaki yapay zeka özeti sebebiyle reklam gelirlerinin düştüğünü açıklamasının ",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ckq6nj1vpzjeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 14:10:06 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cqe8lpmkpe2xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 10:13:43 GMT"
     },
     {
-      "title": "Star Trek efsanesi Patrick Stewart hayatını kaybetti",
-      "summary": "Alzheimer ve demans hastası olan 86 yaşındaki oyuncu Patrick Stewart 29 Ekim Çarşamba günü Los Angeles'taki evinde hayatını kaybetti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c59vzlv9glleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 20:38:33 GMT"
-    },
-    {
-      "title": "AKP'de 'süresiz nafaka' düzenlemesine yeni formül arayışı",
-      "summary": "AKP'nin yaklaşık 10 yıldır gündeminde olan süresiz nafaka düzenlemesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın üzerinde yeniden çalışılmasını istemesi üzerine, 13. Yargı Paketi'nden çıkarıldı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cq1kdr1v0ml9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 13:18:21 GMT"
-    },
-    {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 30 Ekim 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 30 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
+      "title": "Çukurova Belediye Başkanvekili belli oldu",
+      "summary": "Tutuklanıp görevinden uzaklaştırılan Yeni Partili Çukurova Belediye Başkanı Emrah Kozay'ın yerine CHP'li Sıtkı Keskin belediye başkanvekili seçildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-30T07:00:00+03:00"
+      "publishedAt": "2026-10-30T14:36:49+03:00"
     },
     {
-      "title": "Süper Loto çekiliş sonuçları belli oldu: 29 Ekim 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
-      "summary": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikrami",
+      "title": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 30 Ekim 2026",
+      "summary": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 30 Ekim 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem mi",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-29T23:52:09+03:00"
+      "publishedAt": "2026-10-30T14:10:00+03:00"
     },
     {
-      "title": "Cumhuriyet'in 103 yıllık ışığı Galata Kulesi'ni aydınlattı",
-      "summary": "Cumhuriyet’in 103’üncü yıl dönümünde Galata Kulesi, Gazi Mustafa Kemal Atatürk’ün fotoğrafları ve ay yıldızla aydınlandı.",
+      "title": "Dervişoğlu, Bahçeli'nin koluna girmesiyle ilgili konuştu: Bugün olsa yine yaparım",
+      "summary": "İYİ Parti lideri Müsavat Dervişoğlu, Anıtkabir'de Devlet Bahçeli'nin koluna girmesine yönelik eleştirilere yanıt verdi. Dervişoğlu, \"Bugün olsa yine aynısını yaparım\" dedi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-29T21:07:56+03:00"
+      "publishedAt": "2026-10-30T14:09:45+03:00"
     },
     {
-      "title": "GÖKTÜRK objektifinden Anadolu. Dağlara işlenen Türk bayrakları ve Atatürk portresi görüntüleri",
-      "summary": "GÖKTÜRK-1 uydusu, Anadolu'nun farklı noktalarında yer alan Türk bayrakları ile Gazi Mustafa Kemal Atatürk'ün portresini görüntüledi.",
+      "title": "Mustafa Sarıgül, Yeni Parti'den istifa etti",
+      "summary": "Erzincan Milletvekili Mustafa Sarıgül, hakkında yürütülen soruşturmalar nedeniyle Yeni Parti'den istifa ettiğini açıkladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-29T20:49:35+03:00"
+      "publishedAt": "2026-10-30T14:01:38+03:00"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan ve Trump arasında 24 saat içinde ikinci kez görüştü",
-      "summary": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump'la 24 saat içinde ikinci kez telefonda görüştü. ABD'nin Ankara Büyükelçisi Barrack da görüşmeye ilişkin açıklama yaptı.",
+      "title": "İstanbullular dikkat: 15 Temmuz Şehitler Köprüsü dahil birçok yol kapanacak",
+      "summary": "İstanbul Maratonu nedeniyle pazar günü megakentte bazı yollar trafiğe kapatılacak.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-29T22:37:47+03:00"
+      "publishedAt": "2026-10-30T13:26:41+03:00"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönem Türk asrı olacak",
-      "summary": "Cumhurbaşkanı Erdoğan, Türk dünyasının dayanışma içinde olduğunu belirterek \"Önümüzdeki dönemi Türk asrı yapmak için mücadele edeceğimize yürekten inanıyorum\" dedi.",
+      "title": "Avcılar'da okul önünde trafik kavgası: Bekçi, kendisine saldıran veliyi ayağından vurdu",
+      "summary": "İstanbul Avcılar'da bir bekçi, trafik tartışmasına müdahale ederken kendisini darbeden veliyi ayağından vurarak etkisiz hale getirdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-10-29T20:52:20+03:00"
+      "publishedAt": "2026-10-30T12:54:07+03:00"
     },
     {
-      "title": "Bugün okullar tatil mi?",
-      "summary": "29 Ekim’den bir sonraki gün olan 30 Ekim’de okulların tatil olup olmadığı merak ediliyor. Türkiye'de örgün eğitim veren tüm resmi ve özel okullarda eğitim gören öğrenciler 28 Ekim Çarşamba günü saat 13.00’ten sonra tatile başladı, 29 Ekim P",
+      "title": "8 milyar liralık kâr iddiasına yanıt",
+      "summary": "Uluslararası yatırım bankası Merrill Lynch, yatırım fonlarında meydana gelen piyasa bozucu işlemler sırasında 16 Eylül öncesi borsadan açığa satış yaparak 8 milyar lira kâr edildiği ve bu işlemleri yapanların da aslında Türk vatandaşları ol",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/bugun-okullar-tatil-mi-ankara-izmir-istanbul-ve-diger-illerde-30-ekim-2026-cuma-gunu-okul-var-mi-ders-islenecek-mi-3923595",
-      "publishedAt": "Fri, 30 Oct 2026 04:03:09 GMT"
+      "link": "https://www.haberturk.com/ekonomi/merrill-lynch-turk-musterimiz-yok-kar-milyonlar-seviyesinde-3923724",
+      "publishedAt": "Fri, 30 Oct 2026 11:13:36 GMT"
     },
     {
-      "title": "Usta oyuncu vefat etti",
-      "summary": "Star Trek' ve 'X-Men'in yıldızı Patrick Stewart, 86 yaşında yaşamını yitirdi",
+      "title": "Milan'ın NBA Avrupa planı!",
+      "summary": "İtalya Birinci Futbol Ligi (Serie A) ekibi Milan, basketbol takımı kurarak NBA Avrupa Ligi projesinde yer almayı planlıyor.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/usta-oyuncu-patrick-stewart-tan-aci-haber-3923592",
-      "publishedAt": "Fri, 30 Oct 2026 04:02:26 GMT"
+      "link": "https://www.haberturk.com/spor/milan-in-nba-avrupa-plani-3923748",
+      "publishedAt": "Fri, 30 Oct 2026 11:52:09 GMT"
     },
     {
-      "title": "\"İran, Keşm Adası yakınlarında 'düşman' savaş uçağını engelledi\"",
-      "summary": "İran'ın Hürmüzgan eyaletine bağlı Keşm Adası yakınlarında bir savaş uçağının Devrim Muhafızları Ordusu Hava-Uzay Kuvvetleri Komutanlığı'na bağlı unsurlar tarafından engellendiği bildirildi",
+      "title": "Dervişoğlu'ndan fotoğraf eleştirisine cevap",
+      "summary": "İYİ Parti Genel Başkanı Müsavat Dervişoğlu, MHP Genel Başkanı Devlet Bahçeli ile Anıtkabir’deki 29 Ekim Cumhuriyet Bayramı Töreni sırasında verdiği görüntüye ilişkin \"Bahçeli üzerinden, ona duyulan kinin ve nefretin cisme büründürülmesi içi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/iran-basini-kesm-adasi-yakinlarinda-dusman-savas-ucagi-engellendi-3923611",
-      "publishedAt": "Fri, 30 Oct 2026 03:58:31 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-devisoglu-ndan-bahceli-nin-koluna-girmesine-yonelik-elestirilere-aciklama-3923744",
+      "publishedAt": "Fri, 30 Oct 2026 11:49:04 GMT"
     },
     {
-      "title": "Direğe çarpan otomobil parçalandı! 2 ölü",
-      "summary": "Çanakkale'de refüjdeki aydınlatma direğine çarpan otomobil parçalandı. Korkunç kazada 2 kişi hayatını kaybetti",
+      "title": "MEB açıkladı: LGS tarihi belli oldu",
+      "summary": "Milli Eğitim Bakanlığı'na göre, 2026-2027 eğitim öğretim yılında Liselere Geçiş Sistemi (LGS) kapsamındaki merkezî sınav, 13 Haziran 2027 Pazar günü gerçekleştirilecek.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/canakkale-de-direge-carpan-otomobil-parcalandi-2-olu-3923609",
-      "publishedAt": "Fri, 30 Oct 2026 03:49:37 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-meb-acikladi-lgs-tarihi-belli-oldu-3923736",
+      "publishedAt": "Fri, 30 Oct 2026 11:38:29 GMT"
     },
     {
-      "title": "Yıldırım düşen tütün deposunda yangın",
-      "summary": "Mersin'de tütün depolanan antrepoda yıldırım düşmesi sonucu çıkan yangın kontrol altına alındı",
+      "title": "BiP'ten velilere kolaylık",
+      "summary": "Turkcell’in mesajlaşma uygulaması BiP, Okul Veli Asistanı (OVA) kanalıyla velilere sınav sonuçları, devamsızlık bilgileri ve okul duyurularına erişim imkânı sunuyor. Yeni dönemde devreye alınan otomatik sınıf sohbet gruplarıyla öğretmen ve ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/mersin-de-yildirim-dusen-tutun-deposunda-yangin-cikti-3923605",
-      "publishedAt": "Fri, 30 Oct 2026 03:31:43 GMT"
+      "link": "https://www.haberturk.com/ekonomi/bip-ten-velilere-yeni-donem-sinif-gruplari-otomatik-kurulacak-3923745",
+      "publishedAt": "Fri, 30 Oct 2026 11:36:38 GMT"
     },
     {
-      "title": "A101 29 Ekim aktüel ürünler kataloğu",
-      "summary": "A101 29 Ekim 2026 aktüel kataloğunda farklı ürün indirimleri yer alıyor. Bu hafta A101 mağazalarında indirimli olarak satışa sunulan ürünler arasında tencere, tava, elektrikli moped, Türk kahve makinesii, SEG buzdolabı, çamaşır ve bulaşık m",
+      "title": "Uzmanından yine \"köygöçüren\" uyarısı!",
+      "summary": "Sonbahar yağmurlarının ardından sepetlerini alarak İstanbul'un Sarıyer ve Eyüpsultan ilçelerinde yayılım gösteren Belgrad Ormanı'nın derinliklerine giren her yaştan doğasever, ağaç diplerinde, yaprakların arasında ve nemli toprakta gizlenen",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/a101-29-ekim-2026-aktuel-urunler-katalogu-yayinlandi-turk-kahve-makinesi-tencere-ve-tava-setleri-3922794",
-      "publishedAt": "Fri, 30 Oct 2026 03:14:05 GMT"
+      "link": "https://www.haberturk.com/gundem/foto/uzmanindan-yine-koygocuren-uyarisi-3923741",
+      "publishedAt": "Fri, 30 Oct 2026 11:36:00 GMT"
     },
     {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+      "summary": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 20:21:54 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 11:17:32 GMT"
     },
     {
-      "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-      "summary": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+      "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 11:07:35 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 01:35:40 GMT"
     },
     {
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 20:05:57 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 06:02:23 GMT"
     },
     {
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "title": "How Kenyans got caught in $130m US ghost student scam",
+      "summary": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 14:17:35 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 08:32:35 GMT"
     },
     {
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
+      "title": "Helicopter carrying six people crashes in northern Indian state",
+      "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 14:58:28 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 10:07:58 GMT"
     },
     {
-      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+      "summary": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 29 Oct 2026 13:25:07 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 07:53:38 GMT"
     },
     {
-      "title": "Why are Detroit gas stations selling discounted fuel in Trump’s name?",
-      "summary": "Gas stations promoted by President Trump are selling discounted fuel in Detroit as Americans grapple with rising prices.",
+      "title": "Palestinian voter turnout exposes Israel’s attitude towards Arab citizens",
+      "summary": "The strong Palestinian turnout has exposed how Arab citizens are treated within Israel's democracy, says Xavier Abu Eid.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 03:31:30 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 11:43:17 +0000"
     },
     {
-      "title": "Flash floods kill five in Syria",
-      "summary": "Four children drowned while a man died after his car was caught in floodwaters.",
+      "title": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
+      "summary": "A symbol of independent journalism, Novaya Gazeta has been classed as a 'foreign agent' by Moscow.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 03:11:55 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 11:08:00 +0000"
     },
     {
-      "title": "Husband of one of Modi’s closest advisors questions election integrity",
-      "summary": "The husband of India’s finance minister in the Modi government has joined mass protests against voter-list revision.",
+      "title": "Activists urge Eisenkot to form new Israeli gov’t with Arab parties",
+      "summary": "Israeli activists rally outside opposition leader Eisenkot’s home, urging him to join forces with Arab parties after ele",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 02:41:18 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/activists-urge-eisenkot-to-form-new-israeli-govt-with-arab-parties?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 10:52:08 +0000"
     },
     {
-      "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
-      "summary": "Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud.",
+      "title": "How can Israel break its election deadlock?",
+      "summary": "No political party has achieved the 61-seat majority required in the Knesset to form a government in Israel.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 02:40:26 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 10:50:21 +0000"
     },
     {
-      "title": "Fujimori tours El Salvador mega-prison with hopes to build one in Peru",
-      "summary": "Peru’s President Keiko Fujimori has inspected El Salvador’s mega-prison as she mulls a proposal to build one in Peru.",
+      "title": "Aid convoy enters besieged Ukrainian town Oleshky",
+      "summary": "Moscow and Kyiv have so far observed the six-day truce as evacuations from Oleshky get under way.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fujimori-tours-el-salvador-mega-prison-with-hopes-to-build-one-in-peru?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 02:38:35 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/30/aid-convoy-enters-besieged-ukrainian-town-oleshky?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 10:45:15 +0000"
     },
     {
-      "title": "Salvadoran ex-president Saca released after 10-year sentence for corruption",
-      "summary": "Elias Antonio Saca confessed to diverting more than $300m in public funds during his presidency and accepted a plea barg",
+      "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
+      "summary": "As Washington and Tehran send mixed signals, analysts say trust remains a key obstacle to any deal.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/30/salvadoran-ex-president-saca-released-after-serving-a-10-year-sentence-for-corruption?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 02:38:34 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 10:40:52 +0000"
     },
     {
-      "title": "Justice Department issues subpoenas to California election workers",
-      "summary": "Grand jury subpoenas sent to election workers in Los Angeles come amid escalating tensions between the Trump administration and California election officials over the state's voter rolls.",
+      "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
+      "summary": "It wasn't immediately clear the extent of the damage hackers might have been able to cause, and Binance had not explicitly confirmed that funds had been pilfered. The company said its teams are \"working around the clock\" to resolve the issu",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
-      "publishedAt": "Thu, 29 Oct 2026 21:35:54 -0400"
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
+      "publishedAt": "Fri, 30 Oct 2026 07:21:56 -0400"
     },
     {
-      "title": "Alaska's all-important Senate race is roiled by a report on alleged spoiler candidate",
-      "summary": "New reporting alleging Democratic efforts to prop up a spoiler candidate has roiled Alaska's all-important U.S. Senate race.",
+      "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+      "summary": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6022069/alaskas-all-important-senate-race-is-roiled-by-report-on-alleged-spoiler-candidate",
-      "publishedAt": "Thu, 29 Oct 2026 18:23:38 -0400"
+      "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
+      "publishedAt": "Fri, 30 Oct 2026 07:20:26 -0400"
     },
     {
-      "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
-      "summary": "Stewart was raised by an abusive father but became best known for playing kind, paternal leaders who united families of misfits.",
+      "title": "The two most interesting risks to Anthropic",
+      "summary": "Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
-      "publishedAt": "Thu, 29 Oct 2026 16:29:13 -0400"
+      "link": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
+      "publishedAt": "Fri, 30 Oct 2026 07:00:00 -0400"
     },
     {
-      "title": "Some rural Republicans in California say redistricting has left them without a voice",
-      "summary": "California's far northeastern corner used to be a reliably red congressional district. But Proposition 50 carved it up, meaning many voters there may soon have a Democrat representing them in D.C.",
+      "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
+      "summary": "Prices for candy, the most popular Halloween purchase, and gum have risen 7.7% in one year and are up more than 18% in two years, according to the latest federal data.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-5902139/some-rural-republicans-in-california-say-redistricting-has-left-them-without-a-voice",
-      "publishedAt": "Thu, 29 Oct 2026 16:19:31 -0400"
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
+      "publishedAt": "Fri, 30 Oct 2026 05:00:00 -0400"
     },
     {
-      "title": "What killed 500-plus penguins? How scientists solved the mystery",
-      "summary": "The penguins that perished lived on the Danger Islands in Antarctica. The prime suspect was avian flu. Researchers were surprised by what they found.",
+      "title": "Here are the Senate races to watch ahead of Election Day",
+      "summary": "The competitive map for control of the U.S. Senate has expanded considerably in the final days before Election Day. Here's a ranking of those competitive races from most likely to flip to least likely.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
-      "publishedAt": "Thu, 29 Oct 2026 16:03:26 -0400"
+      "link": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
+      "publishedAt": "Fri, 30 Oct 2026 05:00:00 -0400"
     },
     {
-      "title": "Lost your spark? The \"silent sister\" of depression, and a quiz to spot her",
-      "summary": "Always busy, but rarely joyful? Allison Aubrey and Juana Summers discuss a tool to spot \"high functioning depression.\"",
+      "title": "Democrats seek to weaken the Republican lead in state legislatures",
+      "summary": "Republicans control 10 more state legislatures than Democrats. That's where most laws on taxes, abortion, crime and schools are made.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-5996687/anhedonia-quiz-high-functioning-depression",
-      "publishedAt": "Thu, 29 Oct 2026 16:00:00 -0400"
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
+      "publishedAt": "Fri, 30 Oct 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+      "summary": "There is no end in sight for the drivers of illegal mining, while police action appears ineffectiveCora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, we",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+      "publishedAt": "Fri, 30 Oct 2026 05:00:45 GMT"
+    },
+    {
+      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+      "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSFMembers of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat f",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "publishedAt": "Fri, 30 Oct 2026 05:00:45 GMT"
     },
     {
       "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -298,22 +314,6 @@
       "lang": "en",
       "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
       "publishedAt": "Wed, 28 Oct 2026 09:37:49 GMT"
-    },
-    {
-      "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implicated in a “campaign of rape” have been ta",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "publishedAt": "Mon, 26 Oct 2026 15:07:23 GMT"
-    },
-    {
-      "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-      "summary": "Exclusive: Coordinated airstrikes on territory held by al-Shabaab are driving the civilian population to find refuge alongside a river where rising water levels are a threat to safety. Is it a deliberate military strategy?The water was risi",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-      "publishedAt": "Mon, 26 Oct 2026 11:00:40 GMT"
     }
   ],
   "sports": [
@@ -342,8 +342,8 @@
     },
     {
       "place": "London",
-      "tempC": 10,
-      "description": "overcast",
+      "tempC": 14,
+      "description": "clear sky",
       "high": 15,
       "low": 10
     }
