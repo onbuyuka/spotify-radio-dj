@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:49:58.974Z",
+  "updated": "2026-10-31T00:20:38.082Z",
   "news": [
     {
       "title": "'Sizin kardeşiniziz, bankanız değil': Ankara-Bakü geriliminde ekonominin yeri",
@@ -8,6 +8,14 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c5vgjzrmg4ngo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Fri, 30 Oct 2026 19:27:31 GMT"
+    },
+    {
+      "title": "Polonya'da siyasi gerginlik: Anayasa Mahkemesi'ne polis konuşlandırıldı",
+      "summary": "Polonya'da hükümet ile Anayasa Mahkemesi başkanı ve yardımcısı arasında tırmanan gerilim üzerine, mahkeme binasına çevik kuvvet polisleri konuşlandırıldı. Başbakan Donald Tusk hükümeti ile ana muhalefetteki sağcı Hukuk ve Adalet Partisi (Pi",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cm0e025gw751o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 22:43:11 GMT"
     },
     {
       "title": "Aliyev'in katılmadığı Türk Devletleri Zirvesi'nden hangi sonuçlar çıktı?",
@@ -26,14 +34,6 @@
       "publishedAt": "Fri, 30 Oct 2026 14:34:46 GMT"
     },
     {
-      "title": "ABD'de idam girişiminden sağ çıkan Christa Pike: 'Acı içinde uyandım'",
-      "summary": "ABD'de idam cezasına çarptırılan Christa Pike, Eylül ayında başarısızlıkla sonuçlanan infaz girişiminin ardından ilk kez kamuoyuna açıklama yaptı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c6x2v1j3ezn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 16:26:29 GMT"
-    },
-    {
       "title": "'Ferritin yüzü': Demir eksikliği dış görünüşten anlaşılabilir mi?",
       "summary": "Sosyal medyada “ferritin yüzü” adıyla yayılan paylaşımlar solgun cilt, göz altı morlukları ve saç dökülmesini demir eksikliğine bağlarken, doktorlar yalnızca dış görünüşe bakılarak tanı konulamayacağını vurguluyor.",
       "source": "BBC Türkçe",
@@ -50,6 +50,41 @@
       "publishedAt": "Fri, 30 Oct 2026 10:37:04 GMT"
     },
     {
+      "title": "Son dakika Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale deprem Kandilli ve AFAD son depremler listesi 31 Ekim 2026",
+      "summary": "Son dakika Çanakkale deprem haberleri.. Çanakkale'de deprem mi oldu? Az önce deprem Çanakkale'de nerede oldu? Çanakkale Kandilli ve AFAD son depremler.. 31 Ekim 2026 Çanakkale deprem son dakika haberleri haberin detayında... Artçı deprem mi",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-31T01:30:00+03:00"
+    },
+    {
+      "title": "Sakarya'da yol çalışmasında antik yazıtlı taş blok bulundu",
+      "summary": "Sakarya'da çalışma esnasında toprak altından çıkarılan antik dönem yazıtlı taş blok, mahallelinin dikkatini çekti. Devasa tarihi kalıntı, kısa sürede merak konusu haline geldi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-31T00:42:04+03:00"
+    },
+    {
+      "title": "Hamile kızını ve erkek arkadaşını öldürdü",
+      "summary": "Ankara'nın Mamak ilçesinde bir kişi, hamile kızını ve kızının beraber yaşadığı erkek arkadaşını öldürdü.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-31T00:25:01+03:00"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 31 Ekim 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 31 Ekim 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? Y",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-31T03:00:00+03:00"
+    },
+    {
+      "title": "Bakan Fidan'dan G20 zirvesinde diplomasi trafiği",
+      "summary": "Dışişleri Bakanı Hakan Fidan, G20 Dışişleri Bakanları Toplantısı kapsamında ABD'li ve Almanyalı mevkidaşlarıyla görüştü.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-10-31T00:02:17+03:00"
+    },
+    {
       "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 28 Ağustos 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
       "summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebili",
       "source": "NTV",
@@ -57,87 +92,60 @@
       "publishedAt": "2026-10-30T21:01:50+03:00"
     },
     {
-      "title": "DEVA Partili Ertuğrul Kaya istifa etti: Yeni Yol'un Meclis grubu düştü",
-      "summary": "DEVA Partisi Gaziantep Milletvekili Ertuğrul Kaya, partisinden istifa ettiğini açıkladı. Kaya'nın ayrılmasıyla Yeni Yol Partisi'nin milletvekili sayısı 19'a gerilerken, TBMM'deki grubu düştü.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-30T19:23:48+03:00"
-    },
-    {
-      "title": "Adalet Bakanı Gürlek duyurdu: Dört faili meçhul cinayet daha aydınlatıldı",
-      "summary": "Adalet Bakanı Akın Gürlek, faili meçhul cinayetlerde 4 dosyanın daha aydınlatıldığını açıkladı. Gürlek, 68 dosyada 75 cinayetin faili meçhul olmaktan çıkarıldığını belirtti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-30T19:29:19+03:00"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, Azerbaycan Dışişleri Bakanı Bayramov'u kabul etti",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov'u kabul etti.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-30T18:00:03+03:00"
-    },
-    {
-      "title": "Daltonlar soruşturması. 76 kişi için tutuklama talebi",
-      "summary": "İstanbul merkezli 30 ilde Daltonlar suç örgütüne düzenlenen operasyonlarda gözaltına alınan 90 şüpheliden 76'sı tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-30T20:48:33+03:00"
-    },
-    {
-      "title": "Zelenski yarın Türkiye'ye geliyor: Cumhurbaşkanı Erdoğan ile görüşecek",
-      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine yarın Türkiye'ye gelecek.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-10-30T21:50:47+03:00"
-    },
-    {
-      "title": "Rafael Leao ilk gol sevinci yaşadı!",
-      "summary": "Galatasaray, Süper Lig'in 10. haftasında deplasmanda Konyaspor'u 4-0 mağlup ederek liderliğini sürdürdü. Victor Osimhen, Yunus Akgün, Aleksey Batrakov ve Rafael Leao'nun golleriyle galibiyete uzanan Galatasaray'da Osimhen ligdeki gol sayısı",
+      "title": "Türkiye'nin BM Genel Sekreterliği adayı Sinirlioğlu",
+      "summary": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT) Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi başvurusunu yaptı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/galatasaray-ligde-ust-uste-4-galibiyetini-aldi-rafael-leao-ilk-gol-sevinci-yasadi-3923832",
-      "publishedAt": "Fri, 30 Oct 2026 19:42:42 GMT"
+      "link": "https://www.haberturk.com/dunya/turkiye-nin-bm-genel-sekreterligi-adayi-sinirlioglu-3923858",
+      "publishedAt": "Fri, 30 Oct 2026 23:46:04 GMT"
     },
     {
-      "title": "'Türkiye küresel şifa üssü oldu'",
-      "summary": "Sağlık Bakanı Kemal Memişoğlu, 12. Türk Tıp Dünyası Kurultayı'nda Türkiye'nin sağlık alanındaki gelişmelerine dikkat çekerek, \"Türkiye, küresel bir şifa üssü ve güven limanı olmuştur\" dedi. Yerli tıbbi cihazların birçok ülkeye ihraç edildiğ",
+      "title": "Polonya'da siyasi gerginlik",
+      "summary": "Polonya'da Anayasa Mahkemesi polis ablukasına alınırken Cumhurbaşkanı Karol Nawrocki Senegal'e planladığı ziyareti yarı yolda keserek ülkesine dönme kararı aldı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/saglik/bakan-memisoglu-turkiye-nin-kuresel-bir-sifa-ussune-donustugunu-soyledi-3923830",
-      "publishedAt": "Fri, 30 Oct 2026 19:30:29 GMT"
+      "link": "https://www.haberturk.com/dunya/polonya-da-anayasa-mahkemesi-krizi-3923844",
+      "publishedAt": "Fri, 30 Oct 2026 23:00:59 GMT"
     },
     {
-      "title": "Bakırköy Belediyesinde 40 tutuklama talebi",
-      "summary": "Bakırköy Belediyesine yönelik ihale usulsüzlüğü soruşturmasında 40 şüpheli tutuklama talebiyle hakimliğe sevk edildi. Aralarında Belediye Başkanı Ayşegül Ovalıoğlu'nun babası Mustafa Özdemir'in de bulunduğu 17 şüpheli hakkında ise adli kont",
+      "title": "İletişim Başkanlığı'ndan TDT Zirvesi'ne özel görseller",
+      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı koordinasyonunda, Türk Devletleri Teşkilatı (TDT) Devlet Başkanları Konseyi 13. Zirvesi kapsamında, Türk dünyasının ortak tarihini, kültürel bağlarını ve dayanışma ruhunu vurgulamak amacıyla İstanbul ve ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-bakirkoy-belediyesi-sorusturmasinda-40-tutuklama-talebi-3923808",
-      "publishedAt": "Fri, 30 Oct 2026 19:10:17 GMT"
+      "link": "https://www.haberturk.com/gundem/iletisim-baskanligi-ndan-tdt-zirvesi-ne-ozel-gorseller-3923856",
+      "publishedAt": "Fri, 30 Oct 2026 22:31:15 GMT"
     },
     {
-      "title": "Galatasaray'dan dört dörtlük galibiyet!",
-      "summary": "Süper Lig'in 10. haftasında Galatasaray deplasmanda Konyaspor'u 4-0 mağlup etti. Sarı-kırmızılılara galibiyeti getiren golleri 12. dakikada Victor Osimhen, 28. dakikada Yunus Akgün, 49. dakikada Aleksey Batrakov ve 55. dakikada Rafael Leao ",
+      "title": "Metrobüs hattında korkutan yangın",
+      "summary": "İstanbul Avcılar'da metrobüs yolundaki alt geçitte elektrik hattında yangın çıktı. Alevler itfaiye ekipleri tarafından söndürüldü",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/konyaspor-galatasaray-maci-canli-anlatim-konya-gs-super-lig-maci-kac-kac-mac-skoru-ve-onemli-3923654",
-      "publishedAt": "Fri, 30 Oct 2026 19:03:48 GMT"
+      "link": "https://www.haberturk.com/gundem/avcilar-metrobus-hattinda-korkutan-yangin-3923852",
+      "publishedAt": "Fri, 30 Oct 2026 22:24:45 GMT"
     },
     {
-      "title": "5 gollü maçta kazanan E.Erokspor!",
-      "summary": "Trendyol 1. Lig'in 13. haftasında Esenler Erokspor, evinde Keçiörengücü'nü 3-2 mağlup etti. Mame For Faye, Kubilay Kanatsızkuş ve Bahadır Öztürk'ün golleriyle kazanan Esenler Erokspor, puanını 15'e çıkardı. Ligde üst üste 2. kez mağlup olan",
+      "title": "İran: Bir tanker daha mayına çarptı",
+      "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazı’nda bir süper tankerin daha mayına çarptığını duyurdu.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/esenler-erokspor-keciorengucu-mac-sonucu-iste-esenler-erokspor-keciorengucu-maci-ozeti-ve-golleri-1-lig-3923828",
-      "publishedAt": "Fri, 30 Oct 2026 18:57:16 GMT"
+      "link": "https://www.haberturk.com/dunya/iran-bir-tanker-daha-mayina-carpti-3923855",
+      "publishedAt": "Fri, 30 Oct 2026 22:12:22 GMT"
     },
     {
-      "title": "Zelenskiy yarın Türkiye'ye geliyor",
-      "summary": "Ukrayna Devlet Başkanı Zelenskiy, Cumhurbaşkanı Erdoğan'ın davetiyle yarın Türkiye'ye gelecek.",
+      "title": "Fon soruşturmasında 2 kişinin mal varlıklarına tedbir",
+      "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya ile Lydia Holding Yönetim Kurulu Başkanı Enver Çevik'in mal varlıklarına ve finansal işlemlerin",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/son-dakika-zelenskiy-yarin-turkiye-ye-geliyor-3923776",
-      "publishedAt": "Fri, 30 Oct 2026 18:56:25 GMT"
+      "link": "https://www.haberturk.com/gundem/fon-sorusturmasinda-2-kisinin-mal-varliklarina-tedbir-3923854",
+      "publishedAt": "Fri, 30 Oct 2026 22:06:14 GMT"
+    },
+    {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 22:20:52 GMT"
     },
     {
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
@@ -145,7 +153,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 17:39:43 GMT"
+      "publishedAt": "Fri, 30 Oct 2026 21:13:14 GMT"
     },
     {
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
@@ -164,76 +172,84 @@
       "publishedAt": "Fri, 30 Oct 2026 16:26:11 GMT"
     },
     {
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 30 Oct 2026 20:52:01 GMT"
+    },
+    {
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
       "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 11:23:06 GMT"
+      "publishedAt": "Fri, 30 Oct 2026 20:41:51 GMT"
     },
     {
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 15:03:39 GMT"
-    },
-    {
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 30 Oct 2026 14:48:22 GMT"
-    },
-    {
-      "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
-      "summary": "The officer faces charges after allegedly striking a fleeing construction worker with an SUV during an immigration raid.",
+      "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
+      "summary": "Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 19:16:30 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 23:39:19 +0000"
     },
     {
-      "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
-      "summary": "Pakistan's military spokesman warns of 'powerful spoilers and detractors' who still believe the conflict serves them.",
+      "title": "Polish police deployed to top court after head judge suspended",
+      "summary": "Judge's suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 18:55:36 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 23:19:42 +0000"
     },
     {
-      "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-      "summary": "Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods",
+      "title": "Why AI could threaten much of the world’s digital infrastructure",
+      "summary": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 18:35:44 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 23:13:51 +0000"
     },
     {
-      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-      "summary": "Incident comes as Iran says three oil tankers were halted while attempting to use 'unauthorised routes' to cross Hormuz.",
+      "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+      "summary": "Judge Ana Reyes calls on US government lawyers to explain contradictory statements about the East Potomac Golf Links.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 18:33:29 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 22:58:38 +0000"
     },
     {
-      "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
-      "summary": "North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities.",
+      "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
+      "summary": "Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 18:03:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 21:00:51 +0000"
     },
     {
-      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
-      "summary": "Colombia's president plans to slash spending on a transitional justice court. But war crimes victims fear the cost.",
+      "title": "US appeals court again rejects Trump bid to set aside California ballots",
+      "summary": "The 9th Circuit Court calls the petition to remove 20,000 ballots from California's vote count unconstitutional.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-      "publishedAt": "Fri, 30 Oct 2026 17:43:21 +0000"
+      "link": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
+      "publishedAt": "Fri, 30 Oct 2026 20:39:50 +0000"
+    },
+    {
+      "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+      "summary": "Several children have had to leave the state to receive medical care, including abortions, that is unavailable in Texas.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
+      "publishedAt": "Fri, 30 Oct 2026 18:06:18 -0400"
+    },
+    {
+      "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+      "summary": "A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+      "publishedAt": "Fri, 30 Oct 2026 17:56:52 -0400"
     },
     {
       "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
       "publishedAt": "Fri, 30 Oct 2026 08:00:31 -0400"
-    },
-    {
-      "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
-      "summary": "It wasn't immediately clear the extent of the damage hackers might have been able to cause, and Binance had not explicitly confirmed that funds had been pilfered. The company said its teams are \"working around the clock\" to resolve the issu",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
-      "publishedAt": "Fri, 30 Oct 2026 07:21:56 -0400"
-    },
-    {
-      "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
-      "summary": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
-      "publishedAt": "Fri, 30 Oct 2026 07:20:26 -0400"
     },
     {
       "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -319,18 +319,74 @@
   "sports": [
     {
       "league": "Süper Lig",
+      "home": "Fenerbahçe",
+      "away": "Göztepe",
+      "status": "upcoming",
+      "date": "2026-10-31"
+    },
+    {
+      "league": "Süper Lig",
+      "home": "Erzurumspor",
+      "away": "Çorum",
+      "status": "upcoming",
+      "date": "2026-10-31"
+    },
+    {
+      "league": "Süper Lig",
+      "home": "Kocaelispor",
+      "away": "Rizespor",
+      "status": "upcoming",
+      "date": "2026-10-31"
+    },
+    {
+      "league": "Premier League",
+      "home": "Bournemouth",
+      "away": "Leeds United",
+      "status": "upcoming",
+      "date": "2026-10-31"
+    },
+    {
+      "league": "Premier League",
+      "home": "Tottenham Hotspur",
+      "away": "Crystal Palace",
+      "status": "upcoming",
+      "date": "2026-10-31"
+    },
+    {
+      "league": "Premier League",
+      "home": "Chelsea",
+      "away": "Manchester United",
+      "status": "upcoming",
+      "date": "2026-10-31"
+    },
+    {
+      "league": "La Liga",
+      "home": "Barcelona",
+      "away": "Deportivo Alavés",
+      "status": "upcoming",
+      "date": "2026-10-31"
+    },
+    {
+      "league": "La Liga",
+      "home": "Levante",
+      "away": "Atlético Madrid",
+      "status": "upcoming",
+      "date": "2026-10-31"
+    },
+    {
+      "league": "La Liga",
+      "home": "Real Betis",
+      "away": "Málaga",
+      "status": "upcoming",
+      "date": "2026-10-31"
+    },
+    {
+      "league": "Süper Lig",
       "home": "Konyaspor",
       "away": "Galatasaray",
       "homeScore": 0,
       "awayScore": 4,
       "status": "FT",
-      "date": "2026-10-30"
-    },
-    {
-      "league": "La Liga",
-      "home": "Villarreal",
-      "away": "Espanyol",
-      "status": "upcoming",
       "date": "2026-10-30"
     }
   ],
@@ -340,13 +396,13 @@
       "tempC": 14,
       "description": "overcast",
       "high": 16,
-      "low": 14
+      "low": 13
     },
     {
       "place": "London",
-      "tempC": 13,
-      "description": "overcast",
-      "high": 16,
+      "tempC": 12,
+      "description": "clear sky",
+      "high": 15,
       "low": 10
     }
   ],
