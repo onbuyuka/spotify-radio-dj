@@ -59,3 +59,12 @@ track) is being de-risked first.
 
 Coming with the first deploy: log in with your own Spotify Premium account (your
 email must be added to the app's allow-list first), choose a playlist, hit play.
+
+## License
+
+The original code and documentation in this repository are licensed under the
+[MIT License](LICENSE).
+
+Third-party code, dependencies, data, images, and other content retain their own
+licenses and terms and are not covered by this license. No trademark rights are
+granted.
