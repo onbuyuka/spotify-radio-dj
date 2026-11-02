@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T00:11:52.249Z",
+  "updated": "2026-11-02T10:29:56.682Z",
   "news": [
+    {
+      "title": "İBB davasında üçüncü celse: Gizli tanıklar dinleniyor",
+      "summary": "Görevden uzaklaştırılan İBB Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu 46'sı tutuklu 436 sanığın yargılandığı İBB davasının üçüncü celsesi bugün Silivri'deki Marmara Kapalı Cezaevi'nde başladı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cm87zngy4y5no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 10:23:06 GMT"
+    },
+    {
+      "title": "Öcalan'ın İmralı'daki yeni konumu hakkında neler biliniyor?",
+      "summary": "DEM Parti İmralı Heyeti üyesi Mithat Sancar, PKK lideri Abdullah Öcalan'ın İmralı'da kendisi için hazırlanan yeni bir yere geçtiğini açıkladı. Sancar, bu gelişmenin yürütülen sürecin hızlandırılmasını gerektirdiğini savundu.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c9146ym5302eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 07:17:46 GMT"
+    },
     {
       "title": "ABD ara seçimleri: Kim, nasıl kazanabilir ya da kaybedebilir?",
       "summary": "Trump'ın başkanlığının son iki yılını belirleyecek olan seçim öncesinde, önemli anketlere, yarışlara ve meselelere derinlemesine bir analiz.",
@@ -10,28 +26,20 @@
       "publishedAt": "Mon, 02 Nov 2026 00:00:38 GMT"
     },
     {
-      "title": "Mithat Sancar: 'Öcalan İmralı'da yapılan yeni yere geçti'",
-      "summary": "DEM Parti İmralı Heyeti üyesi Mithat Sancar, PKK lideri Abdullah Öcalan'ın İmralı'da kendisi için hazırlanan yeni bir yere geçtiğini açıkladı. Sancar, bu gelişmenin yürütülen sürecin hızlandırılmasını gerektirdiğini savundu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c9146ym5302eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 16:40:43 GMT"
-    },
-    {
-      "title": "Michigan'da Demokrat siyasetçi, seçimlere günler kala Cumhuriyetçi Senato adayına destek verdi",
-      "summary": "ABD’nin Michigan eyaletinde Demokrat Partili Haley Stevens’ın, kendi partisinin adayı Abdül El-Sayed ile yaşadığı gerilimin ardından Cumhuriyetçi aday Mike Rogers’a destek vermesi, kritik Senato seçimi öncesinde partisinde tepki çekti",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cq0meyy9dlrpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 21:10:44 GMT"
-    },
-    {
-      "title": "Bulgaristan'da cumhurbaşkanlığı seçimini resmi olmayan sonuçlara göre İliyana Yotova kazandı",
-      "summary": "Bulgaristan’da cumhurbaşkanlığı seçiminin ikinci turunda sandık çıkış anketleri, İliyana Yotova’nın yaklaşık yüzde 51 oyla önde olduğunu gösteriyor",
+      "title": "İliyana Yotova Bulgaristan'ın ilk kadın cumhurbaşkanı oldu",
+      "summary": "Bulgaristan'da Iliana Iotova, çok düşük katılımla yapılan cumhurbaşkanlığı seçimleri sonrası ülkenin ilk seçilmiş kadın devlet başkanı oldu.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c60e0yyyy9d3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 21:56:20 GMT"
+      "publishedAt": "Mon, 02 Nov 2026 10:15:22 GMT"
+    },
+    {
+      "title": "Bir zamanlar gökyüzüne hükmeden, insan avlayan dev kartallar",
+      "summary": "Dinozorların sonunu getiren asteroit çarptıktan sonra, dev kuşlar onlarca milyon yıl boyunca en üst düzey yırtıcılar haline geldi ve insanlar da avları arasındaydı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c679p4qlr359o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 00:18:01 GMT"
     },
     {
       "title": "Florida'da özel uçak yerleşim bölgesine düştü: 9 kişi hayatını kaybetti",
@@ -39,249 +47,241 @@
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/crz65v4wxxljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 22:18:53 GMT"
+      "publishedAt": "Mon, 02 Nov 2026 00:43:14 GMT"
     },
     {
-      "title": "Bahçeli '100 il 1000 ilçe projesi'ni açıkladı",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, 19 yeni il ve 78 yeni ilçe kurulması önerisini paylaştı. Bahçeli, Türkgün gazetesine \"100 İl 1000 İlçe Projesi\"nin detaylarını açıkladı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm1exy4dwlw6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 12:26:02 GMT"
-    },
-    {
-      "title": "Tarkan'dan COP31 için anlamlı şarkı",
-      "summary": "Türkiye'nin COP31 sürecine Tarkan, Wake Up isimli şarkıyla destek verdi. ''Eğer inanırsak her şey mümkün'' dedi.",
+      "title": "Bahçeli il olmasını önerdiği 19 ilçeyi açıkladı",
+      "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, \"100 il 1000 ilçe\" projelerinde il olmasını önerdikleri ilçeleri açıkladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-02T00:42:23+03:00"
+      "publishedAt": "2026-11-02T13:06:34+03:00"
     },
     {
-      "title": "Tarkan'dan COP31 için anlamlı şarkı",
-      "summary": "Türkiye'nin COP31 sürecine Tarkan, Wake Up isimli şarkıyla destek verdi. ''Eğer inanırsak her şey mümkün'' dedi.",
+      "title": "Sosyal medyada yaş doğrulaması tuzağına düşmeyin. Dolandırıcıların yöntemi nasıl işliyor?",
+      "summary": "Çocuklara sosyal medya yasağının devreye girmesiyle bu durumu fırsat bilen dolandırıcılar iş başına geçti. Uzmanı ise dikkatli olunması gereken noktalarda karşı uyarıda bulundu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-02T00:45:45+03:00"
+      "publishedAt": "2026-11-02T13:21:32+03:00"
     },
     {
-      "title": "Emir Sarıgül'den ek ifade. Babasının Özgür Özel'e 350 bin dolar verdiğini iddia etti",
-      "summary": "Kara para aklama soruşturmasında tutuklanan Mustafa Sarıgül'ün oğlu Emir Sarıgül'ün savcılık ifadesi ortaya çıktı. Sarıgül, babasının Yeni Parti Genel Başkanı Özel'e 350 bin dolar verdiğini iddia ett.",
+      "title": "Son dakika Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla deprem Kandilli ve AFAD son depremler listesi 02 Kasım 2026",
+      "summary": "Son dakika Muğla deprem haberleri.. Muğla'da deprem mi oldu? Az önce deprem Muğla'da nerede oldu? Muğla Kandilli ve AFAD son depremler.. 02 Kasım 2026 Muğla deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Muğla'da? Muğ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-02T00:12:38+03:00"
+      "publishedAt": "2026-11-02T12:30:00+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 02 Kasım 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 02 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "title": "15 Temmuz Şehitler Köprüsü girişinde kaza",
+      "summary": "İstanbul'da 15 Temmuz Şehitler Köprüsü'nde beş aracın karıştığı zincirleme trafik kazası nedeniyle trafik yoğunluğu yaşandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-02T03:00:00+03:00"
+      "publishedAt": "2026-11-02T12:30:59+03:00"
     },
     {
-      "title": "Fenerbahçe tribün liderine saldırı hazırlığı. Daltonlar çetesi üyesi 5 şüpheli yakalandı",
-      "summary": "İstanbul'da \"Daltonlar\" suç örgütüne yönelik yürütülen soruşturma kapsamında, Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik saldırı hazırlığında oldukları öne sürülen 5 şüpheli yakalandı.",
+      "title": "Doğum izninden döndü, soluğu mahkemede aldı. Yargıtay'dan ayrımcılığa tazminat kararı",
+      "summary": "Yargıtay, kadın işçinin doğum izni sonrası uzmanlığı dışında bir işte çalışmaya zorlanmasının ayrımcılık tazminatını gerektirdiğine hükmetti.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-01T23:20:38+03:00"
+      "publishedAt": "2026-11-02T11:41:10+03:00"
     },
     {
-      "title": "Bakan Çiftçi: İstanbul'da yeni nesil suç örgütlerine operasyonlarda bin 545 şüpheli tutuklandı",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, bu yıl İstanbul'da yeni nesil suç örgütlerine yönelik 190 operasyon gerçekleştirildiğini, 2 bin 67 şüphelinin yakalandığını, 1545 şüphelinin tutuklandığını bildirdi.",
+      "title": "Baraj doluluk oranları güncellendi. 2 Kasım 2026 İstanbul barajlarında son durum",
+      "summary": "Baraj doluluk oranları gün gün güncellenmeye devam ediyor. İstanbul Su ve Kanalizasyon İdaresi (İSKİ) tarafından paylaşılan 2 Kasım tarihli baraj doluluk oranlarıyla birlikte, İstanbul'un su ihtiyacı ve su rezervlerindeki son durum belli ol",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-01T22:52:56+03:00"
+      "publishedAt": "2026-11-02T11:24:09+03:00"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'a vekalet edecek",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın Güney Kore ziyareti nedeniyle Cumhurbaşkanlığı'na, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın vekalet etmesine dair tezkere Resmi Gazete'de yayımlandı",
+      "title": "G.Saray'da yönetim kurulu toplanıyor!",
+      "summary": "Galatasaray'da İkinci Başkan Metin Öztürk'ün ardından Yönetim Kurulu Üyesi ve Sportif A.Ş. Başkan Vekili Abdullah Kavukcu da görevinden istifa ettiğini açıkladı. Bu gelişme sonrası sarı-kırmızılılarda yönetim kurulu, bu akşam saat 19.00'da ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/cumhurbaskani-yardimcisi-yilmaz-cumhurbaskani-erdogan-a-vekalet-edecek-3924190",
-      "publishedAt": "Sun, 01 Nov 2026 22:59:32 GMT"
+      "link": "https://www.haberturk.com/spor/son-dakika-galatasaray-da-yonetim-kurulu-toplaniyor-3924306",
+      "publishedAt": "Mon, 02 Nov 2026 10:18:21 GMT"
     },
     {
-      "title": "Masterchef kim elendi, kim gitti?",
-      "summary": "MasterChef'te bu akşam eleme heyecanı yaşandı. Hafta boyunca potaya giren yarışmacılar eleme gecesinde kıran kırana bir mücadele verdi. İlk etabı geçenler MasterChef'te kalmayı en az bir hafta garanti altına alırken tabakları yeterli puanı ",
+      "title": "'Afife' İstanbul ve Ankara sahnelerinde",
+      "summary": "Afife Jale’nin ilham verici hayat hikayesini çağdaş bir yorumla sahneye taşıyan “Afife”, kapalı gişe geçen iki sezonun ardından hem Zorlu PSM’de hem de Türkiye turnesi kapsamında Ankara temsillerinde tiyatroseverlerle buluşmaya devam ediyor",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/masterchef-kim-elendi-kim-gitti-1-kasim-masterchef-turkiyeye-veda-eden-isim-aciklandi-mi-3924178",
-      "publishedAt": "Sun, 01 Nov 2026 22:56:31 GMT"
+      "link": "https://www.haberturk.com/kultur-sanat/afife-istanbul-ve-ankara-sahnelerinde-3924309",
+      "publishedAt": "Mon, 02 Nov 2026 10:18:07 GMT"
     },
     {
-      "title": "İzmir'de 3 bina tahliye edildi",
-      "summary": "İzmir'in Bayraklı ilçesinde temel kazısı yapılan inşaat alanında toprak kayması nedeniyle 3 bina tedbir amaçlı tahliye edildi",
+      "title": "Doğuş Çocuk Senfoni Orkestrası COP31'de",
+      "summary": "Doğuş Çocuk Senfoni Orkestrası, 20. yılını dünyanın geleceğinin konuşulduğu uluslararası bir platformda kutluyor. DÇSO, 18 Kasım’da Antalya’da düzenlenecek COP31 kapsamında vereceği özel konserde 10 şehirden 80 genç müzisyeni aynı sahnede b",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/izmir-de-3-bina-tahliye-edildi-3924189",
-      "publishedAt": "Sun, 01 Nov 2026 22:52:26 GMT"
+      "link": "https://www.haberturk.com/kultur-sanat/dogus-cocuk-senfoni-orkestrasi-cop31-de-3924308",
+      "publishedAt": "Mon, 02 Nov 2026 10:13:09 GMT"
     },
     {
-      "title": "Rusya: Zelenskiy ararsa Putin telefonu açacak",
-      "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin araması halinde, Rusya Devlet Başkanı Vladimir Putin'in telefonu açacağını belirterek, \"Putin, hiçbir zaman görüşmekten vazgeçmedi.\" dedi",
+      "title": "Böyle arkadaş olmaz olsun! Anahtarı kopyaladılar",
+      "summary": "Hatay'da, aynı iş yerinde çalıştıkları arkadaşlarının evinin anahtarını kopyalayan sevgili çift, kadının evde olmadığı sırada eve girerek yaklaşık 1.5 milyon TL değerindeki altın ve dövizi çaldı. Arkadaşlarının ev almak için biriktirdiği al",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/rusya-zelenskiy-ararsa-putin-telefonu-acacak-3924184",
-      "publishedAt": "Sun, 01 Nov 2026 22:50:41 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-boyle-arkadas-olmaz-olsun-anahtari-kopyaladilar-hatay-haberleri-3924205",
+      "publishedAt": "Mon, 02 Nov 2026 10:12:56 GMT"
     },
     {
-      "title": "KPSS sonuçları ne zaman açıklanacak?",
-      "summary": "Lise mezunları ve belirli şartları sağlayan lise öğrencilerinin katılım gösterdiği KPSS Ortaöğretim sınav sonuçları merak ediliyor. ÖSYM tarafından 25 Ekim’de gerçekleşen sınavın ardından gözler KPSS sonuç sorgulama ekranına çevrildi. İşlem",
+      "title": "Esnaf tehditle haraç isteyen saldırganı vurdu",
+      "summary": "İstanbul'da, İsmail A., kendisinden haraç isteyerek tehdit eden ve iş yerinin önüne gelerek silahla ateş açan şüpheliyi kovalayarak kendi silahıyla yaraladı. İsmail A. ifadesi alınmak üzere polis merkezine götürülürken, yaralanan saldırgan ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/kpss-sonuclari-ne-zaman-aciklanacak-osym-ile-2026-kpss-ortaogretim-sinav-sonuclari-sorgulamasi-nasil-yapilir-3924188",
-      "publishedAt": "Sun, 01 Nov 2026 22:47:53 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-esnaf-tehditle-harac-isteyen-saldirgani-vurdu-3924213",
+      "publishedAt": "Mon, 02 Nov 2026 10:12:21 GMT"
     },
     {
-      "title": "ABD'de 9 kişiyi taşıyan özel jetin düşüş anı görüntülendi",
-      "summary": "ABD'nin Florida eyaletinde 9 kişiyi taşıyan özel jetin yerleşim alanına düşerek alev aldığı anlara ilişkin görüntüler sosyal medyada paylaşıldı.",
+      "title": "'Daltonlar'dan Fenerbahçe tribün liderine suikast girişimi",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı, kamuoyunda \"Daltonlar\" olarak bilinen silahlı suç örgütüne yönelik soruşturma kapsamında, Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik silahlı eylem hazırlığında oldukları değerlendirilen 5 şüphelinin gö",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/abd-de-9-kisiyi-tasiyan-ozel-jetin-dusus-ani-goruntulendi-3924186",
-      "publishedAt": "Sun, 01 Nov 2026 22:41:34 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-daltonlar-dan-fenerbahce-tribun-lideri-cem-golbasi-na-suikast-girisimi-3924199",
+      "publishedAt": "Mon, 02 Nov 2026 10:12:00 GMT"
     },
     {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+      "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+      "summary": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 22:38:24 GMT"
+      "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 04:40:00 GMT"
     },
     {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "title": "Trump makes final campaign push in final weekend before election",
+      "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 21:55:01 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 04:04:28 GMT"
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "title": "Nine killed as small jet crashes on Florida street",
+      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Mon, 02 Nov 2026 00:02:15 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 09:10:19 GMT"
     },
     {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 17:06:32 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 07:42:33 GMT"
     },
     {
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "summary": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 17:05:18 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 10:04:39 GMT"
     },
     {
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "summary": "China Media Group, which acknowledged Mbappé's apology, has not said how long the blackout will last.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sun, 01 Nov 2026 11:57:48 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 02 Nov 2026 03:58:38 GMT"
     },
     {
-      "title": "Nine people dead after Learjet crashes in Florida",
-      "summary": "A private jet travelling from Austin, Texas, to the Bahamas crashed in Greenacres, near West Palm Beach, Florida.",
+      "title": "As aid situation worsens, displaced Sudanese worry about warnings of famine",
+      "summary": "Sudan's displaced people now face a mounting food crisis, with warnings of famine.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
-      "publishedAt": "Sun, 01 Nov 2026 23:29:48 +0000"
+      "link": "https://www.aljazeera.com/features/2026/11/2/as-aid-situation-worsens-displaced-sudanese-worry-about-warnings-of-famine?traffic_source=rss",
+      "publishedAt": "Mon, 02 Nov 2026 10:16:58 +0000"
     },
     {
-      "title": "Why governors’ races are important in the 2026 US midterms",
-      "summary": "Historic turnover in this election will allow dozens of states to vote on significant changes in leadership.",
+      "title": "‘Just the beginning’ for Antonelli, F1’s prodigious, charismatic new king",
+      "summary": "Kimi Antonelli, F1’s youngest world champion at 20, has become the life and soul of the paddock with his personality.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
-      "publishedAt": "Sun, 01 Nov 2026 23:24:56 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/11/2/just-the-beginning-for-antonelli-f1s-prodigious-charismatic-new-king?traffic_source=rss",
+      "publishedAt": "Mon, 02 Nov 2026 10:00:21 +0000"
     },
     {
-      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
-      "summary": "The mission, known as MINURSO, has been in place in the disputed region since a ceasefire in 1991.",
+      "title": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
+      "summary": "Houthi-affiliated media report that seven people were wounded in strikes on the city of Hodeidah.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
-      "publishedAt": "Sun, 01 Nov 2026 23:19:51 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
+      "publishedAt": "Mon, 02 Nov 2026 09:43:59 +0000"
     },
     {
-      "title": "High-ranking US Democratic senator suffers stroke",
-      "summary": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is 'alert' after a stroke.",
+      "title": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
+      "summary": "Warnings startle people in Ukraine, but authorities say they cleared up the confusion in under an hour.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
-      "publishedAt": "Sun, 01 Nov 2026 22:32:54 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
+      "publishedAt": "Mon, 02 Nov 2026 09:35:46 +0000"
     },
     {
-      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-      "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+      "title": "US midterms: 1 day to go – Democrats rally around El-Sayed amid attacks",
+      "summary": "Democrats slam Haley Stevens over her endorsement of a Republican candidate a day before the polls.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
-      "publishedAt": "Sun, 01 Nov 2026 22:15:14 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-1-day-to-go-democrats-rally-around-el-sayed-amid-attacks?traffic_source=rss",
+      "publishedAt": "Mon, 02 Nov 2026 09:06:20 +0000"
     },
     {
-      "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
-      "summary": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.",
+      "title": "MLB ‘spot-fixing’ trial set to begin in US court",
+      "summary": "MLB pitchers charged with conspiracy to influence sporting contests by bribery go on trial in New York.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
-      "publishedAt": "Sun, 01 Nov 2026 21:29:43 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/11/2/mlb-spot-fixing-trial-set-to-begin-in-us-court?traffic_source=rss",
+      "publishedAt": "Mon, 02 Nov 2026 09:01:49 +0000"
     },
     {
-      "title": "Do you know signs of a stroke? BE FAST are the words to remember",
-      "summary": "Sen. Chris Murphy is expected to fully recover from his stroke. The acronym BE FAST can help you remember the symptoms of stroke and what to do when it happens: Call 911 quickly.",
+      "title": "With students scarce, college admissions offices get friendlier, less intimidating",
+      "summary": "Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
-      "publishedAt": "Sun, 01 Nov 2026 17:22:12 -0500"
+      "link": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
+      "publishedAt": "Mon, 02 Nov 2026 05:00:00 -0500"
     },
     {
-      "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
-      "summary": "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.",
+      "title": "What Vance's midterm push reveals about his potential 2028 bid",
+      "summary": "Vance's delivery is different from the president's but his speeches contain plenty of MAGA DNA.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-      "publishedAt": "Sun, 01 Nov 2026 14:49:15 -0500"
+      "link": "https://www.npr.org/2026/11/02/nx-s1-6023159/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
+      "publishedAt": "Mon, 02 Nov 2026 05:00:00 -0500"
     },
     {
-      "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-      "summary": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.",
+      "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
+      "summary": "Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite. What do dentists say about it?",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
-      "publishedAt": "Sun, 01 Nov 2026 14:00:58 -0500"
+      "link": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
+      "publishedAt": "Mon, 02 Nov 2026 05:00:00 -0500"
     },
     {
-      "title": "How to think about the midterms — and the political moment the country is in",
-      "summary": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.",
+      "title": "6 things to watch for on election night",
+      "summary": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
-      "publishedAt": "Sun, 01 Nov 2026 13:27:06 -0500"
+      "link": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
+      "publishedAt": "Mon, 02 Nov 2026 05:00:00 -0500"
     },
     {
-      "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-      "summary": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
+      "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
+      "summary": "The districts that will decide control of the House and Senate next year are spread across the country. Voting officials in those places may face scrutiny and pressure they've never experienced.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
-      "publishedAt": "Sun, 01 Nov 2026 13:00:37 -0500"
+      "link": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
+      "publishedAt": "Mon, 02 Nov 2026 05:00:00 -0500"
     },
     {
-      "title": "The midterms will test the nation's political direction and confidence",
-      "summary": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.",
+      "title": "Morning news brief",
+      "summary": "Democratic Rep. Haley Stevens endorses GOP candidate in Michigan race, key races remain close in last day before midterm election, Gulf states concerned about possible U.S. attack on Iran.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
-      "publishedAt": "Sun, 01 Nov 2026 12:57:58 -0500"
+      "link": "https://www.npr.org/2026/11/02/nx-s1-6023084/morning-news-brief",
+      "publishedAt": "Mon, 02 Nov 2026 04:42:20 -0500"
     },
     {
       "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -378,17 +378,17 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 15,
-      "description": "light rain",
+      "tempC": 20,
+      "description": "overcast",
       "high": 20,
       "low": 15
     },
     {
       "place": "London",
-      "tempC": 10,
+      "tempC": 9,
       "description": "overcast",
       "high": 12,
-      "low": 9
+      "low": 8
     }
   ],
   "facts": [
