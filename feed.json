@@ -1,6 +1,30 @@
 {
-  "updated": "2026-11-05T19:27:35.213Z",
+  "updated": "2026-11-06T01:20:41.612Z",
   "news": [
+    {
+      "title": "Fatma Betül Sayan Kaya tutuklandı",
+      "summary": "Savcılığın, \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından tutuklama talep ettiği eski AKP'li bakan Fatma Betül Sayan Kaya, çıkarıldığı nöbetçi mahkemece tutuklandı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 23:23:19 GMT"
+    },
+    {
+      "title": "TBMM'de kabul edildi: Beş soruda Mekke Anlaşması",
+      "summary": "Türkiye, Suudi Arabistan ve Pakistan'ı askeri bir ittifakta bir araya getiren Mekke Ortak Savunma Anlaşması TBMM'de onaylandı. Böylece üç ülke de anlaşmanın yürürlüğe girmesi için gerekli iç onay süreçlerini tamamlamış oldu. Mekke İttifakı'",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/crq8njjvyg4vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 21:18:32 GMT"
+    },
+    {
+      "title": "Yeni Parti ilk kurultayına hazırlanıyor: Özel'den kapsamlı kadro revizyonu",
+      "summary": "Yeni Parti Genel Başkan Özgür Özel, partisinin 14-15 Kasım'da yapılacak ilk olağan kurultayına hazırlanıyor. Özel, kuruluş sürecinde oluşturulan geçici yönetim yapısını geride bırakarak partiyi iktidar hedefine taşıyacak daha geniş ve işlev",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c6d7q9128xqvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 00:15:24 GMT"
+    },
     {
       "title": "Türkiye ve AB'den vize mesajları: Ankara muafiyet, Brüksel uyum istiyor",
       "summary": "Türkiye'nin Avrupa Birliği'nden öncelikli beklentilerinden biri, Türk vatandaşlarına Schengen Bölgesi'nde vize muafiyeti. AB, bu konuda adım atması gerekenin Türkiye olduğu görüşünde. Brüksel'in Ankara'dan bir talebi var daha var: Vize poli",
@@ -8,30 +32,6 @@
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c5y43z3pdk3wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Thu, 05 Nov 2026 14:06:03 GMT"
-    },
-    {
-      "title": "Afyon'da 8 kişiyi öldüren saldırgan yakalandı",
-      "summary": "Afyonkarahisar Valiliği, ilde meydana gelen silahlı saldırılarda sekiz kişinin hayatını kaybettiğini ve bir kişinin de yaralandığını duyurdu. Eskişehir Valiliği saldırganın yakalandığını duyurdu.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm8xzzl5q98xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 19:10:03 GMT"
-    },
-    {
-      "title": "Avrupa uçuşlarında bomba tehdidi: En az 21 uçuş etkilendi",
-      "summary": "Avrupa genelinde en az 21 uçak, güvenlik tehdidi ve bomba ihbarı sebebiyle acil durum alarmı verdi. Bazı uçaklar güzergah değiştirdi. Bazıları askeri kuvvetler eşliğinde iniş yapabildi. Bu hafta, Avrupa'nın farklı noktalarına uçan yedi yolc",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ckz7xd2g9edqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 17:10:25 GMT"
-    },
-    {
-      "title": "Fatma Betül Sayan Kaya, eşi İlyas Kaya ve eski SPK başkanı Gönül İstanbul Adliyesi'nde ifade verdi",
-      "summary": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya eşi İlyas Kaya ve eski SPK başkanı İbrahim Ömer Gönül şüpheli sıfatıyla ifadeye çağrıldı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 13:33:59 GMT"
     },
     {
       "title": "Ömrünüzün kısa olacağını gösterebilecek bir test olsa yaptırır mıydınız?",
@@ -42,12 +42,26 @@
       "publishedAt": "Thu, 05 Nov 2026 13:53:16 GMT"
     },
     {
-      "title": "Erdoğan'dan fon açıklaması: 'Hiç ummadığınız insanlar bu işlerin içerisine girmişler'",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yüzbinlerce yatırımcıyı etkileyen ve hacmi yüzmilyarlarca lirayı aşan fon krizine \"ummadığı kişilerin\" dahil olduğunu öğrendiklerini söyledi, \"yargının gerekeni yaptığını\" belirtti.",
+      "title": "Afyon'da 8 kişiyi öldüren saldırgan yakalandı",
+      "summary": "Afyonkarahisar Valiliği, ilde meydana gelen silahlı saldırılarda sekiz kişinin hayatını kaybettiğini ve bir kişinin de yaralandığını duyurdu. Eskişehir Valiliği saldırganın yakalandığını duyurdu.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cr15j811q309o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 10:31:25 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cm8xzzl5q98xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 19:31:28 GMT"
+    },
+    {
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 06 Kasım 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 06 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-11-06T04:00:00+03:00"
+    },
+    {
+      "title": "Mekke Anlaşması TBMM'de kabul edildi",
+      "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Ortak Savunma Anlaşması'nın onaylanmasının uygun bulunmasına ilişkin kanun teklifi TBMM Genel Kurulu'nda kabul edildi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-11-06T00:07:17+03:00"
     },
     {
       "title": "Süper Loto çekiliş sonuçları belli oldu: 5 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
@@ -72,72 +86,82 @@
     },
     {
       "title": "Afyonkarahisar'da 8 kişiyi katleden saldırgan yakalandı",
-      "summary": "Afyonkarahisar'da 8 kişiyi öldüren, 1 kişiyi de ağır yaralayan şahıs, Eskişehir'de yakalandı.",
+      "summary": "Afyonkarahisar'da 8 kişiyi öldüren, 1 kişiyi de ağır yaralayan şahıs, Eskişehir'de yakalandı. Şüpheli Afyonkarahisar'a götürüldü.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-05T22:26:44+03:00"
+      "publishedAt": "2026-11-06T01:23:32+03:00"
     },
     {
-      "title": "Kasım ayında Konyaaltı Sahili'nde yazdan kalma gün: 23 dereceyi gören turistler denize koştu",
-      "summary": "Türkiye'nin birçok bölgesinde kış mevsimi kendisini hissettirmeye, bazı illerde ise kar yağışı etkili olmaya başlarken Antalya'da yazdan kalma günler yaşanıyor.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-11-05T16:39:38+03:00"
-    },
-    {
-      "title": "Bakan Yumaklı orman yangınlarının bilançosunu açıkladı, bir söylentiye de yanıt verdi",
-      "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, bu sene meydana gelen orman yangınlarının bilançosunu açıkladı. Zaman zaman gündeme gelen bir söylentiye de yanıt veren Yumaklı, olayın hikayesini anlattı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-11-05T16:44:50+03:00"
-    },
-    {
-      "title": "Afyonkarahisar'da bir şüpheli 8 kişiyi vurdu",
-      "summary": "Afyonkarahisar’ın İhsaniye ilçesinde iki farklı köyde araç içerisindeki kişilere silahlı saldırı düzenlendi. Afyonkarahisar Valiliği olayla ilgili yaptığı açıklamada \"Silahlı saldırılarda maalesef 8 vatandaşımız hayatını kaybetti, 1 kişi ağ",
+      "title": "İzmir'de uyuşturucu operasyonu: 7 gözaltı",
+      "summary": "İzmir Karşıyaka'da düzenlenen eş zamanlı uyuşturucu operasyonunda 7 şüpheli gözaltına alındı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-afyonkarahisar-da-bir-supheli-8-kisiyi-vurdu-3925198",
-      "publishedAt": "Thu, 05 Nov 2026 19:21:53 GMT"
+      "link": "https://www.haberturk.com/gundem/izmir-de-uyusturucu-operasyonu-7-gozalti-3925289",
+      "publishedAt": "Fri, 06 Nov 2026 00:45:47 GMT"
     },
     {
-      "title": "Heyecan sürüyor!",
-      "summary": "UEFA Konferans Ligi’nin 3. haftasında temsilcimiz Trabzonspor, sahasında Alman ekibi Freiburg’u konuk ediyor. Bordo-mavili ekip, teknik direktör Thomas Reis ile yükselişini Freiburg karşısında da sürdürmek istiyor. Konferans Ligi ilk maçınd",
+      "title": "Kayseri'de fabrika yangını: 3 işçi dumandan etkilendi",
+      "summary": "Kayseri'de çelik fabrikasında çıkan yangın söndürüldü, dumandan etkilenen 3 işçi hastanede tedavi altına alındı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/trabzonspor-freiburg-maci-canli-anlatim-trabzonspor-freiburg-uefa-konferans-ligi-maci-kac-kac-mac-3925044",
-      "publishedAt": "Thu, 05 Nov 2026 19:21:04 GMT"
+      "link": "https://www.haberturk.com/gundem/kayseri-de-fabrika-yangini-3-isci-dumandan-etkilendi-3925287",
+      "publishedAt": "Thu, 05 Nov 2026 23:46:47 GMT"
     },
     {
-      "title": "TÜREB Başkanı Erden: 2027 rüzgar enerjisinde yatırım yılı olacak",
-      "summary": "Türkiye Rüzgar Enerjisi Birliği (TÜREB) Başkanı İbrahim Erden, Türkiye'nin karasal rüzgar enerjisinde yaklaşık 25 bin megavatlık proje stokuna sahip olduğunu, proje geliştirme süreçlerinde sağlanan ilerlemeyle gelecek yıldan itibaren yatırı",
+      "title": "Fatma Betül Sayan Kaya tutuklandı",
+      "summary": "Fon soruşturması kapsamında \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından mahkemeye sevk edilen eski bakan Fatma Betül Sayan Kaya tutuklandı. Eşi İlyas Kaya ile eski Sermaye Piyasası K",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/tureb-baskani-erden-2027-ruzgar-enerjisinde-yatirim-yili-olacak-3925200",
-      "publishedAt": "Thu, 05 Nov 2026 19:03:09 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-fatma-betul-sayan-kaya-ya-tutuklama-talebi-3925256",
+      "publishedAt": "Thu, 05 Nov 2026 23:23:36 GMT"
     },
     {
-      "title": "Putin, Rızai ile görüştü",
-      "summary": "Rusya Devlet Başkanı Vladimir Putin, İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai ile başkent Moskova'da bir araya geldi.",
+      "title": "\"Değişiklikler olumlu sonuç verdi\"",
+      "summary": "UEFA Avrupa Ligi'nin 4. haftasında Beşiktaş'ı 3-2 yenerek ilk galibiyetini alan İskoçya ekibi Celtic'te teknik direktör Martin O'Neill, yaptıkları değişikliklerin sonucunu aldıklarını söyledi.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/vladimir-putin-iranli-yetkiliyle-gorustu-3925225",
-      "publishedAt": "Thu, 05 Nov 2026 18:53:42 GMT"
+      "link": "https://www.haberturk.com/spor/martin-o-neill-2-yaridaki-degisiklikler-olumlu-sonuc-verdi-3925286",
+      "publishedAt": "Thu, 05 Nov 2026 23:11:21 GMT"
     },
     {
-      "title": "İlk 11'ler belli oldu!",
-      "summary": "UEFA Avrupa Ligi'nin 4. haftasında temsilcimiz Beşiktaş, deplasmanda İskoç ekibi Celtic'e konuk oluyor. Zorlu mücadele öncesi Avrupa'daki ilk 3 maçından istediği sonuçları alan siyah-beyazlılar, Celtic deplasmanında da olumlu bir sonuç çıka",
+      "title": "\"Kaybetmememiz gereken bir maçı kaybettik!\"",
+      "summary": "UEFA Avrupa Ligi'nin 4. haftasında İskoçya ekibi Celtic'e 3-2 yenilen Beşiktaş'ta teknik direktör Vincenzo Italiano, 3 puanı rakibe hediye ettiklerini söyledi.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/celtic-besiktas-maci-canli-anlatim-celtic-bjk-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-celtic-besiktas-muhtelem-11-ler-3925071",
-      "publishedAt": "Thu, 05 Nov 2026 18:53:27 GMT"
+      "link": "https://www.haberturk.com/spor/vincenzo-italiano-kaybetmememiz-gereken-bir-maci-kaybettik-3925285",
+      "publishedAt": "Thu, 05 Nov 2026 23:02:24 GMT"
     },
     {
-      "title": "Şimşek'ten emekli ve fon açıklaması",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, emekli maaşlarına yönelik düzenlemenin tüm emeklileri kapsayacağını, artışta yaş ve prim ödeme gün sayısının dikkate alınacağını söyledi. Fon tasfiyelerine de değinen Şimşek, 401 milyar liralık işlemin",
+      "title": "Trump'tan İran açıklaması: Bir karar vereceğiz",
+      "summary": "ABD Başkanı Donald Trump, İran konusunda bir karar vereceklerini söylerken, \"Mümkünse ülkenin geri kalanını yok etmek istemem ama belki de bunu yapmak zorunda kalacağım. Yakında öğreneceksiniz.\" ifadelerini kullandı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/bakan-simsek-emekli-zamminin-kriterlerini-ve-fon-tasfiyelerini-acikladi-3925250",
-      "publishedAt": "Thu, 05 Nov 2026 18:49:45 GMT"
+      "link": "https://www.haberturk.com/dunya/trump-tan-iran-aciklamasi-bir-karar-verecegiz-3925276",
+      "publishedAt": "Thu, 05 Nov 2026 22:58:39 GMT"
+    },
+    {
+      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+      "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 01:02:17 GMT"
+    },
+    {
+      "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+      "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 23:31:35 GMT"
+    },
+    {
+      "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 06 Nov 2026 00:02:57 GMT"
     },
     {
       "title": "Hoax bomb threats target European airlines and airports for second time in a week",
@@ -148,6 +172,14 @@
       "publishedAt": "Thu, 05 Nov 2026 17:39:48 GMT"
     },
     {
+      "title": "California governor commutes sentences for state's 548 death row inmates",
+      "summary": "California has historically had the largest population of people on death row in the US.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 05 Nov 2026 23:09:33 GMT"
+    },
+    {
       "title": "French protests see numbers surge as unions join strikes over high cost of living",
       "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
       "source": "BBC World",
@@ -156,84 +188,84 @@
       "publishedAt": "Thu, 05 Nov 2026 17:59:53 GMT"
     },
     {
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 17:40:40 GMT"
-    },
-    {
-      "title": "Manhunt in western Turkey after eight killed in series of shootings",
-      "summary": "Eight people have been killed and one seriously injured in a series of shootings in western Turkey.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 18:48:53 GMT"
-    },
-    {
-      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 19:08:08 GMT"
-    },
-    {
-      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-      "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 05 Nov 2026 11:21:35 GMT"
-    },
-    {
-      "title": "Division among US Democrats over Schumer’s leadership role",
-      "summary": "Some Democratic senators – and the very voters that swept them into power – are demanding new leadership.",
+      "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+      "summary": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role?traffic_source=rss",
-      "publishedAt": "Thu, 05 Nov 2026 18:53:04 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+      "publishedAt": "Fri, 06 Nov 2026 00:19:57 +0000"
     },
     {
-      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
-      "summary": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "summary": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
-      "publishedAt": "Thu, 05 Nov 2026 18:47:10 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "publishedAt": "Fri, 06 Nov 2026 00:15:22 +0000"
     },
     {
-      "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
-      "summary": "Arab-majority party Ra’am and the Democrats have backed Gadi Eisenkot in a bid to form Israel’s next government.",
+      "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+      "summary": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
-      "publishedAt": "Thu, 05 Nov 2026 18:30:09 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+      "publishedAt": "Fri, 06 Nov 2026 00:06:31 +0000"
     },
     {
-      "title": "Could Football Change After Jesus de Miguel’s Death?",
-      "summary": "Could football change after the death of Jesus de Miguel?",
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "summary": "Trump says the US may have to 'destroy' the rest of Iran, adding that people will 'know soon enough'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/could-football-change-after-jesus-de-miguels-death?traffic_source=rss",
-      "publishedAt": "Thu, 05 Nov 2026 18:22:16 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "publishedAt": "Fri, 06 Nov 2026 00:00:00 +0000"
     },
     {
-      "title": "AI stocks plunge after US election, driving down markets",
-      "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
+      "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
+      "summary": "DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
-      "publishedAt": "Thu, 05 Nov 2026 17:56:17 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
+      "publishedAt": "Thu, 05 Nov 2026 23:46:52 +0000"
     },
     {
-      "title": "Jordanian officer killed in stabbing attack in Amman",
-      "summary": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman.",
+      "title": "Generation Z and young voters help redefine US politics after midterms",
+      "summary": "Melat Kiros becomes the first Generation Z woman elected to Congress, embodying a new era of political representation.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
-      "publishedAt": "Thu, 05 Nov 2026 17:08:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
+      "publishedAt": "Thu, 05 Nov 2026 21:49:31 +0000"
+    },
+    {
+      "title": "Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks",
+      "summary": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+      "publishedAt": "Thu, 05 Nov 2026 19:16:53 -0500"
+    },
+    {
+      "title": "These are the races in the House and Senate that haven't been called yet",
+      "summary": "Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here's where things stand in the races that are waiting to be called by the AP.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
+      "publishedAt": "Thu, 05 Nov 2026 19:03:45 -0500"
+    },
+    {
+      "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+      "summary": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+      "publishedAt": "Thu, 05 Nov 2026 18:52:48 -0500"
+    },
+    {
+      "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+      "summary": "All of these seats were in districts redrawn in 2023 to favor Republican candidates.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
+      "publishedAt": "Thu, 05 Nov 2026 18:34:36 -0500"
     },
     {
       "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
@@ -250,38 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
       "publishedAt": "Thu, 05 Nov 2026 13:01:57 -0500"
-    },
-    {
-      "title": "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?",
-      "summary": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: How Yung Miami's summer bop became a sweeping indictment.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat",
-      "publishedAt": "Thu, 05 Nov 2026 11:30:00 -0500"
-    },
-    {
-      "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
-      "summary": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
-      "publishedAt": "Thu, 05 Nov 2026 11:15:02 -0500"
-    },
-    {
-      "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
-      "summary": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
-      "publishedAt": "Thu, 05 Nov 2026 10:00:00 -0500"
-    },
-    {
-      "title": "Teens worldwide aren't getting enough exercise -- especially girls",
-      "summary": "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
-      "publishedAt": "Thu, 05 Nov 2026 07:24:14 -0500"
     },
     {
       "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
@@ -316,20 +316,42 @@
       "publishedAt": "Fri, 30 Oct 2026 05:00:45 GMT"
     }
   ],
-  "sports": [],
+  "sports": [
+    {
+      "league": "Süper Lig",
+      "home": "Gaziantep",
+      "away": "Kasımpaşa",
+      "status": "upcoming",
+      "date": "2026-11-06"
+    },
+    {
+      "league": "Premier League",
+      "home": "Everton",
+      "away": "Coventry City",
+      "status": "upcoming",
+      "date": "2026-11-06"
+    },
+    {
+      "league": "La Liga",
+      "home": "Sevilla",
+      "away": "Deportivo Alavés",
+      "status": "upcoming",
+      "date": "2026-11-06"
+    }
+  ],
   "weather": [
     {
       "place": "İstanbul",
       "tempC": 10,
       "description": "overcast",
-      "high": 13,
-      "low": 10
+      "high": 12,
+      "low": 8
     },
     {
       "place": "London",
       "tempC": 10,
       "description": "overcast",
-      "high": 11,
+      "high": 12,
       "low": 9
     }
   ],
