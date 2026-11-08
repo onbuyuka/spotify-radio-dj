@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T21:24:43.383Z",
+  "updated": "2026-11-08T04:17:51.878Z",
   "news": [
     {
       "title": "ABD'de sorgusuz sualsiz İsrail'e destek dönemi sona mı geliyor?",
@@ -50,11 +50,39 @@
       "publishedAt": "Sat, 07 Nov 2026 08:09:54 GMT"
     },
     {
+      "title": "Cumhurbaşkanı Erdoğan bugün Azerbaycan'a gidecek",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan 8 Kasım Zafer Günü dolayısıyla bugün Azerbaycan'ı ziyaret edecek. Erdoğan öncesindeyse Azerbaycan Cumhurbaşkanı İlham Aliyev'e tebrik mektubu gönderdi.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-11-08T06:05:42+03:00"
+    },
+    {
+      "title": "Yeni Parti'de bugün genel başkanlık ön seçimi yapılacak",
+      "summary": "Yeni Parti'de kurultay öncesinde bugün genel başkanlık ön seçimi yapılacak. Partinin il ve ilçe başkanlıklarında sandıklarda parti üyesi olan herkes oy kullanabilecek.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-11-08T05:53:24+03:00"
+    },
+    {
+      "title": "18 il için kar ve fırtına uyarısı. Yoğun kar yağışı var",
+      "summary": "Ülkeye kış bu yıl her zamankinden daha erken geldi. Bazı noktalarda dün başlayan yoğun kar yağışı bugün de birçok ilde devam ediyor.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-11-08T06:25:21+03:00"
+    },
+    {
+      "title": "Ankara ve Kayseri'de yılın ilk karı yağdı",
+      "summary": "Başkentte gece saatlerinde başlayan kar yağışı etkili oldu. Hava sıcaklığının hissedilir derecede düştüğü Kayseri'ye de yılın ilk karı yağdı.",
+      "source": "NTV",
+      "lang": "tr",
+      "publishedAt": "2026-11-08T07:16:44+03:00"
+    },
+    {
       "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 08 Kasım 2026",
       "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 08 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-08T00:00:00+03:00"
+      "publishedAt": "2026-11-08T07:00:00+03:00"
     },
     {
       "title": "Bakan Kurum: Antalya'dan tüm dünyaya çağrı yapacağız",
@@ -64,64 +92,12 @@
       "publishedAt": "2026-11-07T23:50:56+03:00"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 7 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-11-07T22:07:29+03:00"
-    },
-    {
-      "title": "Van'da feci kaza. 9 kişi hayatını kaybetti",
-      "summary": "Van'da tır ile minibüsün çarpıştığı kazada 9 kişi hayatını kaybetti, 5 kişi de yaralandı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-11-07T23:27:30+03:00"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
-      "summary": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü. Görüşmede ikili gelişmeler ile bölgesel ve küresel gelişmeler ele alındı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-11-07T20:36:49+03:00"
-    },
-    {
-      "title": "Afyonkarahisar'da 8 kişinin öldüğü katliamdan böyle kurtulmuş. Öğretmen dehşet anlarını anlattı",
-      "summary": "Afyonkarahisar'da 8 kişinin öldürüldüğü olaydan sağ kurtulan öğretmen Sultan Sema Gökçe'nin ifadesi ortaya çıktı. İfadesinde Gökçe, dehşet anlarını anlattı.",
-      "source": "NTV",
-      "lang": "tr",
-      "publishedAt": "2026-11-07T22:24:46+03:00"
-    },
-    {
-      "title": "Milli ara tarihleri belli oldu!",
-      "summary": "Kasım ayı milli maç arası için geri sayım başladı. Trendyol Süper Lig'de 11. hafta mücadelelerinin tamamlanmasının ardından maçlara ara verilecek. Avrupa'nın önde gelen liglerinde de milli maçlar nedeniyle karşılaşmalar oynanmayacak. Bu sür",
+      "title": "Suudi Arabistan'da 'tehlike alarmı' verildi",
+      "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, Dammam, Ahsa ve Bukayk kentlerinde erken uyarı sisteminin tehlike alarmı verdiğini, daha sonra tehlikenin geçtiğini duyurdu. Arap Koalisyonu Sözcüsü Tuğgeneral Turki el-Maliki, ülkenin doğu bölgesine",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/mi-lli-ara-tari-hleri-2026-2027-milli-ara-ne-zaman-baslayacak-ve-bitecek-a-milli-takim-uluslar-ligi-mac-programi-3925636",
-      "publishedAt": "Sat, 07 Nov 2026 21:14:02 GMT"
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'a gidecek",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, bugün Azerbaycan'a gidecek.",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-azerbaycan-a-gidecek-3925694",
-      "publishedAt": "Sat, 07 Nov 2026 21:12:29 GMT"
-    },
-    {
-      "title": "Öğrenciler dikkat! 9 günlük tatil yaklaşıyor",
-      "summary": "2026 Kasım ara tatili için geri sayım hızlandı. İlkokul, ortaokul ve lise öğrencileri, yoğun geçen ders dönemine kısa bir mola vermeye hazırlanırken veliler de tatil planlarını netleştirmeye başladı. Milli Eğitim Bakanlığının (MEB) yayımlad",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/kasim-ara-tati-li-yaklasiyor-i-lk-ara-tatil-ne-zaman-basliyor-kac-gun-kaldi-meb-2026-2027-takvimi-ile-1-donem-ara-tatili-tarihleri-3925627",
-      "publishedAt": "Sat, 07 Nov 2026 21:12:04 GMT"
-    },
-    {
-      "title": "VGM burs sonuçları için geri sayım!",
-      "summary": "VGM burs sonuçları 2026-2027 eğitim öğretim yılı için başvuru yapan öğrenciler tarafından bekleniyor. Vakıflar Genel Müdürlüğü (VGM) ortaöğrenim eğitim yardımı başvuruları 06-20 Ekim 2026 tarihleri arasında, yükseköğrenim bursu başvuruları ",
-      "source": "Habertürk",
-      "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/vgm-burs-sonuclari-2026-aciklandi-mi-vakiflar-genel-mudurlugu-vgm-ortaogrenim-ve-yuksekogrenim-burs-basvuru-sonuclari-ne-zaman-aciklanacak-3925584",
-      "publishedAt": "Sat, 07 Nov 2026 21:11:24 GMT"
+      "link": "https://www.haberturk.com/dunya/suudi-arabistan-da-tehlike-alarmi-verildi-3925722",
+      "publishedAt": "Sun, 08 Nov 2026 02:57:04 GMT"
     },
     {
       "title": "Polonya'da silahlı saldırı: 6 kişi hayatını kaybetti",
@@ -129,23 +105,55 @@
       "source": "Habertürk",
       "lang": "tr",
       "link": "https://www.haberturk.com/dunya/polonya-da-silahli-saldiri-5-kisi-hayatini-kaybetti-3925671",
-      "publishedAt": "Sat, 07 Nov 2026 21:09:32 GMT"
+      "publishedAt": "Sun, 08 Nov 2026 02:04:23 GMT"
     },
     {
-      "title": "Kombiyi çalıştırmadan önce 1 dakikanızı bu detaya ayırın",
-      "summary": "Havalar soğudukça kombiler yeniden çalışmaya başlıyor. Ancak cihazı açmadan önce evde gözden kaçan bazı ayrıntılar, hem peteklerin yeterince ısınmasını hem de doğal gaz tüketimini etkileyebiliyor. Peki, kış gelmeden hangi kontrolleri yapmak",
+      "title": "Taner Yıldız'dan 'fon' iddialarına yalanlama",
+      "summary": "Eski Enerji ve Tabii Kaynaklar Bakanı Taner Yıldız, yatırım fonlarında işlem yaptığıyla ilgili hakkında çıkan iddiaları yalanlayarak, \"Gerçeğe dayanmayan iddialar bütünüyle gerçek dışıdır, yalandır ve iftiradır\" dedi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/kombiyi-calistirmadan-once-1-dakikanizi-bu-detaya-ayirin-faturalari-katlayan-o-gizli-hata-3925404",
-      "publishedAt": "Sat, 07 Nov 2026 21:09:21 GMT"
+      "link": "https://www.haberturk.com/gundem/taner-yildiz-dan-fon-iddialarina-yalanlama-3925719",
+      "publishedAt": "Sun, 08 Nov 2026 01:16:39 GMT"
     },
     {
-      "title": "What we know so far after three bodies found at home of Krakow gunman",
-      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+      "title": "Üst geçidin ayağına saplandı: 2 ölü, 2 ağır yaralı",
+      "summary": "Gaziantep’te seyir halindeyken lastiği patlayan hafif ticari araç kontrolden çıkarak üst geçidin ayağına çarptı. Meydana gelen kazada 2 kişi hayatını kaybetti, 2 kişi ise ağır yaralandı",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/gundem/ust-gecidin-ayagina-saplandi-2-olu-2-agir-yarali-3925718",
+      "publishedAt": "Sun, 08 Nov 2026 00:14:08 GMT"
+    },
+    {
+      "title": "Ankara'ya kar yağdı",
+      "summary": "Ankara'da gece saatlerinde başlayan kar yağışı, kentin bazı noktalarında etkili oldu",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/gundem/ankara-ya-kar-yagdi-3925717",
+      "publishedAt": "Sat, 07 Nov 2026 22:54:43 GMT"
+    },
+    {
+      "title": "Umman Körfezi'nde yük gemisi ile askeri güçler arasında bir olay rapor edildi",
+      "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Umman Körfezi açıklarında yük gemisi ile askeri güçlerin karıştığı bir olayın rapor edildiğini açıkladı.",
+      "source": "Habertürk",
+      "lang": "tr",
+      "link": "https://www.haberturk.com/dunya/umman-korfezi-nde-yuk-gemisi-ile-askeri-gucler-arasinda-bir-olay-rapor-edildi-3925716",
+      "publishedAt": "Sat, 07 Nov 2026 22:32:39 GMT"
+    },
+    {
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 21:13:24 GMT"
+      "publishedAt": "Sun, 08 Nov 2026 01:47:41 GMT"
+    },
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 07 Nov 2026 22:19:59 GMT"
     },
     {
       "title": "No clear winner after tight New Zealand general election",
@@ -157,19 +165,19 @@
     },
     {
       "title": "US offers $20m reward for information about Iran's nuclear programme",
-      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Sat, 07 Nov 2026 18:14:38 GMT"
     },
     {
-      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
       "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Sat, 07 Nov 2026 17:09:24 GMT"
+      "publishedAt": "Sun, 08 Nov 2026 04:03:12 GMT"
     },
     {
       "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
@@ -180,60 +188,68 @@
       "publishedAt": "Sat, 07 Nov 2026 15:19:35 GMT"
     },
     {
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 06 Nov 2026 23:24:15 GMT"
-    },
-    {
-      "title": "Mélenchon promises action against Israeli annexation if elected President",
-      "summary": "Mélenchon promises action against Israeli annexation if elected President",
+      "title": "Trump asks UFC chief Dana White to be White House press secretary",
+      "summary": "Ultimate Fighting Championship CEO says he will meet with the US president on Monday to discuss the offer.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
-      "publishedAt": "Sat, 07 Nov 2026 20:53:47 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss",
+      "publishedAt": "Sun, 08 Nov 2026 03:12:44 +0000"
     },
     {
-      "title": "Who is behind Europe’s suspected hybrid attacks?",
-      "summary": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
+      "title": "Egypt sacks winning football coach after wives’ scandal",
+      "summary": "The Egyptian Football Association has sacked national team coach Hossam Hassan, cutting short a promising tenure.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
-      "publishedAt": "Sat, 07 Nov 2026 20:48:58 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_egypt-sacks-winning-football-coach-after-scandal-071126?traffic_source=rss",
+      "publishedAt": "Sun, 08 Nov 2026 03:04:28 +0000"
     },
     {
-      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
-      "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
+      "title": "US launches task force to disrupt Iran’s land-based supply routes",
+      "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-      "publishedAt": "Sat, 07 Nov 2026 20:44:34 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+      "publishedAt": "Sun, 08 Nov 2026 02:34:04 +0000"
     },
     {
-      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
-      "summary": "President Isaac Herzog formally assigns Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as PM.",
+      "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+      "summary": "El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
-      "publishedAt": "Sat, 07 Nov 2026 20:26:58 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
+      "publishedAt": "Sun, 08 Nov 2026 01:37:55 +0000"
     },
     {
-      "title": "More than 140,000 rally as new protests against rising costs sweep France",
-      "summary": "Tear gas fired in Paris and Lyon as interior minister warns authorities are 'ready and waiting' for rioters and looters.",
+      "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+      "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
-      "publishedAt": "Sat, 07 Nov 2026 20:12:22 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+      "publishedAt": "Sun, 08 Nov 2026 00:50:28 +0000"
     },
     {
-      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-      "summary": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
+      "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+      "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
-      "publishedAt": "Sat, 07 Nov 2026 20:10:38 +0000"
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "publishedAt": "Sun, 08 Nov 2026 00:00:56 +0000"
+    },
+    {
+      "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+      "summary": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+      "publishedAt": "Sat, 07 Nov 2026 19:19:52 -0500"
+    },
+    {
+      "title": "The surprising and often forgotten history of economic populism in Texas",
+      "summary": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
+      "publishedAt": "Sat, 07 Nov 2026 17:12:07 -0500"
     },
     {
       "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
@@ -244,7 +260,7 @@
       "publishedAt": "Sat, 07 Nov 2026 15:18:18 -0500"
     },
     {
-      "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+      "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
       "summary": "A gunman targeted random people as he drove into Krakow's Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight.",
       "source": "NPR",
       "lang": "en",
@@ -266,22 +282,6 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
       "publishedAt": "Sat, 07 Nov 2026 09:50:00 -0500"
-    },
-    {
-      "title": "Democrats plan to widen their probes of fatal ICE shootings",
-      "summary": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their deaths at the hands of immigration agents will likely be the ta",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
-      "publishedAt": "Sat, 07 Nov 2026 08:19:09 -0500"
-    },
-    {
-      "title": "Perspective: Simon Winchester was here to tell a story",
-      "summary": "British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Watergate.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
-      "publishedAt": "Sat, 07 Nov 2026 08:00:00 -0500"
     },
     {
       "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
@@ -319,6 +319,69 @@
   "sports": [
     {
       "league": "Süper Lig",
+      "home": "Beşiktaş",
+      "away": "Gençlerbirliği",
+      "status": "upcoming",
+      "date": "2026-11-08"
+    },
+    {
+      "league": "Süper Lig",
+      "home": "Alanyaspor",
+      "away": "Trabzonspor",
+      "status": "upcoming",
+      "date": "2026-11-08"
+    },
+    {
+      "league": "Süper Lig",
+      "home": "Rizespor",
+      "away": "Erzurumspor",
+      "status": "upcoming",
+      "date": "2026-11-08"
+    },
+    {
+      "league": "Premier League",
+      "home": "Manchester United",
+      "away": "Aston Villa",
+      "status": "upcoming",
+      "date": "2026-11-08"
+    },
+    {
+      "league": "Premier League",
+      "home": "Brighton and Hove Albion",
+      "away": "Brentford",
+      "status": "upcoming",
+      "date": "2026-11-08"
+    },
+    {
+      "league": "Premier League",
+      "home": "Crystal Palace",
+      "away": "Liverpool",
+      "status": "upcoming",
+      "date": "2026-11-08"
+    },
+    {
+      "league": "La Liga",
+      "home": "Atlético Madrid",
+      "away": "Barcelona",
+      "status": "upcoming",
+      "date": "2026-11-08"
+    },
+    {
+      "league": "La Liga",
+      "home": "Villarreal",
+      "away": "Getafe",
+      "status": "upcoming",
+      "date": "2026-11-08"
+    },
+    {
+      "league": "La Liga",
+      "home": "Celta Vigo",
+      "away": "Levante",
+      "status": "upcoming",
+      "date": "2026-11-08"
+    },
+    {
+      "league": "Süper Lig",
       "home": "Galatasaray",
       "away": "Amed",
       "homeScore": 4,
@@ -343,94 +406,22 @@
       "awayScore": 2,
       "status": "FT",
       "date": "2026-11-07"
-    },
-    {
-      "league": "Premier League",
-      "home": "Fulham",
-      "away": "Newcastle United",
-      "homeScore": 1,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-11-07"
-    },
-    {
-      "league": "Premier League",
-      "home": "Arsenal",
-      "away": "Hull City",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-11-07"
-    },
-    {
-      "league": "Premier League",
-      "home": "Leeds United",
-      "away": "Tottenham Hotspur",
-      "homeScore": 1,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-11-07"
-    },
-    {
-      "league": "La Liga",
-      "home": "Valencia",
-      "away": "Real Madrid",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-11-07"
-    },
-    {
-      "league": "La Liga",
-      "home": "Málaga",
-      "away": "Racing de Santander",
-      "homeScore": 1,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-11-07"
-    },
-    {
-      "league": "La Liga",
-      "home": "Espanyol",
-      "away": "Deportivo de A Coruña",
-      "homeScore": 0,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-11-07"
-    },
-    {
-      "league": "Süper Lig",
-      "home": "Gaziantep",
-      "away": "Kasımpaşa",
-      "homeScore": 0,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-11-06"
-    },
-    {
-      "league": "Premier League",
-      "home": "Everton",
-      "away": "Coventry City",
-      "homeScore": 3,
-      "awayScore": 1,
-      "status": "FT",
-      "date": "2026-11-06"
     }
   ],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 8,
+      "tempC": 6,
       "description": "partly cloudy",
-      "high": 10,
+      "high": 11,
       "low": 6
     },
     {
       "place": "London",
-      "tempC": 10,
-      "description": "partly cloudy",
+      "tempC": 9,
+      "description": "overcast",
       "high": 11,
-      "low": 7
+      "low": 8
     }
   ],
   "facts": [
