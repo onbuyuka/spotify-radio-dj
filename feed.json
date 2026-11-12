@@ -1,6 +1,46 @@
 {
-  "updated": "2026-11-12T05:39:51.006Z",
+  "updated": "2026-11-12T14:34:16.944Z",
   "news": [
+    {
+      "title": "Nvidia CEO'su Huang ikinci ilişki iddiası sonrası istifa etti",
+      "summary": "Nvidia yönetim kurulu, şirketin kurucu CEO'su Jensen Huang'ın yönetim görevlerinden istifa ettiğini duyurdu. İstifa Huang hakkındaki ikici evlilik dışı ilişki iddiası sonrası geldi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cvj6l247pr4ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 14:03:42 GMT"
+    },
+    {
+      "title": "Merkez Bankası yıl sonu enflasyon tahminini %29,5'e yükseltti",
+      "summary": "Merkez Bankası Enflasyon Raporu'nda yıl sonu enflasyon tahminlerini yükseltti. 2026 yıl sonu tahmini %28'den %29,5'e çıkarıldı. Ekonomistler nasıl değerlendirdi?",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ck1l05363jevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 09:58:19 GMT"
+    },
+    {
+      "title": "Türkiye'de yeni nükleer santral için Kanadalı şirketle fizibilite anlaşması",
+      "summary": "Kanadalı madencilik ve enerji şirketi AtkinsRealis, Perşembe günü yaptığı açıklamada Türkiye'nin nükleer enerji programını genişletme olasılığını değerlendirmek üzere Türkiye Nükleer Enerji A.Ş (TÜNAŞ) ile bir fizibilite çalışması yürütmek ",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c8x2r4970ew7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 14:25:35 GMT"
+    },
+    {
+      "title": "Manifest'in menajerine 'müstehcen yayın' davasının ilk duruşmasında tahliye",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında tutuklanan Manifest grubunun menajeri Tolga Akış hakkında altı aydan üç yıla kadar hapis istemiyle iddianame düzenlendi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c93eqpwjd7wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 11:44:46 GMT"
+    },
+    {
+      "title": "Araştırma: 'Escitalopram' depresyonun nüksetmesini engellemede daha etkili bir ilaç",
+      "summary": "Üç ilaç en üst sırada yer aldı ve çok sayıda hastada depresyonun yeniden ortaya çıkmasını önlemede Prozac'tan daha iyi performans gösterdi.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/c69w9j8k9y2zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 08:49:05 GMT"
+    },
     {
       "title": "HABAŞ patlaması: Dokuz kişi tutuklandı, yönetim kurulu başkanı adli kontrolle serbest",
       "summary": "İzmir'in Aliağa ilçesinde faaliyet gösteren HABAŞ Demir Çelik Fabrikası'nda 19 işçinin öldüğü patlamanın ardından gözaltına alınan 11 kişiden 9'u tutuklandı. Şirketin yönetim kurulu başkanı Mehmet Rüştü Başaran dahil iki şüpheli, ev hapsiyl",
@@ -10,278 +50,246 @@
       "publishedAt": "Thu, 12 Nov 2026 01:04:46 GMT"
     },
     {
-      "title": "Dokunulmazlık dosyaları için üç senaryo: Sarıgül dosyası 'koçbaşı' olur mu?",
-      "summary": "Bağımsız Erzincan Milletvekili Mustafa Sarıgül hakkında cinsel istismar ve nitelikli cinsel saldırı iddialarının da yer aldığı soruşturma dosyasının Ankara Cumhuriyet Başsavcılığı'na gönderilmesi, milletvekili dokunulmazlıklarının kaldırılm",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cv1j6lk0x3xwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 00:29:49 GMT"
-    },
-    {
-      "title": "İspanya'da 14 yıl sonra ilk genel grev: Madrid ve Barcelona'da 200 bine yakın kişi sokağa çıktı",
-      "summary": "İspanya'da işçiler 14 yıl sonra ilk kez genel greve çıktı. Ülkenin en büyük iki sendikasının desteklediği grevin nedeni konut krizi ve hayat pahalılığı. Madrid ve Barcelona'da toplam 200 bine yakın kişi eylem yaptı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmvg2rvpg774o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 21:40:37 GMT"
-    },
-    {
-      "title": "ABD Savunma Bakanı Hegseth'e nöbetçi askerden sert uyarı",
-      "summary": "ABD Savunma Bakanı Pete Hegseth ve birlikte bulunduğu danışmanlardan oluşan bir grup, çarşamba günü Arlington Ulusal Mezarlığı'ndaki Meçhul Asker Mezarı'nda bir nöbetçi asker tarafından sert şekilde uyarıldı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cmwy43jnqg9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 00:28:39 GMT"
-    },
-    {
-      "title": "Beyaz ailenin büyüttüğü siyah kız çocuğu: 'Bana gerçeği neden söylemediniz?'",
-      "summary": "Lacey Tezino, Teksas'ta ırkçılığın kol gezdiği bir kasabada beyaz bir aile tarafından büyütüldü. Babası Ronnie ile mutlu bir çocukluk geçirdi. Öldüğü söylenen annesinin izini sürdüğünde ise hakikatle yüzleşti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ckz6qx8841zjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 00:29:30 GMT"
-    },
-    {
-      "title": "Doğu Akdeniz'de Türk-Yunan 'kablo' düğümü çözüldü mü?",
-      "summary": "Türkiye, Yunanistan ve Fransa arasında aylardır süren müzakereler neticesinde Girit adasından Kıbrıs Cumhuriyeti'ne denizaltından döşenecek elektrik hattı konusunda ilk somut adım 10 Kasım'da atıldı. Ankara ve Atina, Girit'le Kıbrıs arasına",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cq772l6n4rlyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 14:10:22 GMT"
-    },
-    {
-      "title": "Hamile eşini öldürmekle suçlanıyordu. Yargıtay'dan tahliye kararı",
-      "summary": "Yargıtay Muğla'da fotoğraf çektirmek için çıktıkları kayalıklardan hamile eşi Semra Aysal'ı iterek ölümüne neden olduğu gerekçesiyle Hakan Aysal'a verilen ağırlaştırılmış müebbet hapis cezasını bozdu.",
+      "title": "İstanbul için uyarılar art arda: Seferler iptal oldu, rüzgar yarın daha da şiddetlenecek",
+      "summary": "İstanbul'da lodos nedeniyle bazı vapur seferleri iptal edildi, metro seferlerinde aksama yaşandı. İGDAŞ vatandaşları baca tıkanmasına karşı uyardı. Rüzgar yarın sabah daha da şiddetlenecek.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-12T08:24:41+03:00"
+      "publishedAt": "2026-11-12T16:44:45+03:00"
     },
     {
-      "title": "İngiltere Kralı 3. Charles'tan COP31 mesajı. Cumhurbaşkanı Erdoğan ve Türk halkına teşekkür etti",
-      "summary": "İngiltere Kralı 3. Charles, Antalya'da düzenlenen COP31 Liderler Zirvesi'ne mesaj gönderdi.",
+      "title": "Gümüşhane Üniversitesi'nde taciz iddiası. Öğretim üyesi açığa alındı",
+      "summary": "Gümüşhane Üniversitesi'nde bir öğretim üyesi, kız öğrenciye tacizde bulunduğu iddiaları üzerine açığa alındı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-12T06:04:39+03:00"
+      "publishedAt": "2026-11-12T15:47:39+03:00"
     },
     {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 12 Kasım 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 12 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "title": "Beyoğlu'nda evde halıya sarılı ceset bulundu",
+      "summary": "İstanbul Beyoğlu'nda bir evde halıya sarılı ceset bulundu.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-12T08:30:00+03:00"
+      "publishedAt": "2026-11-12T16:17:24+03:00"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 11 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
+      "title": "Melih Gökçek'in kardeşi yaşamını yitirdi",
+      "summary": "Ankara Büyükşehir Belediyesi'nin eski başkanlarından Melih Gökçek'in kardeşi son yolculuğuna uğurlandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-11T21:55:06+03:00"
+      "publishedAt": "2026-11-12T16:24:23+03:00"
     },
     {
-      "title": "Şans Topu Sonuçları Sorgulama Ekranı 11 Kasım | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
-      "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+      "title": "AK Partili Abdulhamit Gül: Fon soruşturmasında ismi geçenlerin listesi açıklanmalı",
+      "summary": "Fon soruşturmasında ismi geçenlerin kamuoyu ile paylaşılması gerektiğini söyleyen AK Parti Grup Başkanvekili Abdulhamit Gül, \"Liste açıklanmadıkça herkes suçluymuş gibi bir intiba oluşuyor.\" dedi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-11T21:20:38+03:00"
+      "publishedAt": "2026-11-12T15:35:52+03:00"
     },
     {
-      "title": "Antalya'dan dünyaya mesaj. \"Hayalimiz insanlığın ortak geleceği\"",
-      "summary": "COP31 Başkanı Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Gelecek nesiller bizleri yaptığımız konuşmalarla değil, aldığımız kararlarla hatırlayacak.\" dedi.",
+      "title": "İstanbul trafiğinde dehşet anları. Sopalarla saldıran 6 şüpheli yakalandı",
+      "summary": "Beşiktaş'ta 15 Temmuz Şehitler Köprüsü'nün Avrupa Yakası çıkışında, husumetli oldukları kişinin kullandığı minibüsün önünü keserek sürücüye ve araca sopalarla saldıran 6 şüpheli yakalandı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-12T05:21:44+03:00"
+      "publishedAt": "2026-11-12T15:10:01+03:00"
     },
     {
-      "title": "Ünlü çiftten müjdeli haber",
-      "summary": "Oyuncu Melisa Aslı Pamuk ile Olympiakos'ta forma giyen milli futbolcu Yusuf Yazıcı, ailesini büyütmeye hazırlanıyor. Çift, ikinci kez anne ve baba olmaya hazırlanıyor",
+      "title": "İhraç edilen 5 teğmenin başvurusuna ret",
+      "summary": "Anayasa Mahkemesi (AYM), Kara Harp Okulu mezuniyet töreninin ardından kılıçlı yemin etmeleri nedeniyle Türk Silahlı Kuvvetleri’nden (TSK) ihraç edilen 5 teğmenin, adil yargılanma haklarının ihlal edildiği iddiasıyla yaptığı bireysel başvuru",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/foto/melisa-asli-pamuk-ve-yusuf-yazici-dan-mujdeli-haber-3926645",
-      "publishedAt": "Thu, 12 Nov 2026 05:34:01 GMT"
+      "link": "https://www.haberturk.com/gundem/aym-tsk-dan-ihrac-edilen-5-tegmenin-basvurusunu-reddetti-3926900",
+      "publishedAt": "Thu, 12 Nov 2026 14:22:10 GMT"
     },
     {
-      "title": "\"Şükür canımdan olmadım\"",
-      "summary": "Oyuncu Bora Akkaş'ın eşi Oben Alkan, aylar önce trafikte geçirdiği kazayla ilgili hukuki sürecin takipsizlikle sonuçlandığını duyurdu. Karşı tarafın yaşına dikkat çekerek duruma tepki gösteren Alkan, \"Şükür canımdan olmadım\" dedi",
+      "title": "Yeni kariyerine adım attı",
+      "summary": "Cristiano Ronaldo, Portekiz Milli Takımı'ndan ayrıldığını açıklamasının ardından yeni projelere yöneldi. Yıldız futbolcu, televizyon dünyasına ilk adımını attı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/oben-alkan-aylar-once-trafikte-yasadigi-kazayi-anlatti-sukur-canimdan-olmadim-3926664",
-      "publishedAt": "Thu, 12 Nov 2026 05:25:53 GMT"
+      "link": "https://www.haberturk.com/magazin/portekizli-futbolcu-cristiano-ronaldo-yeni-bir-kariyer-yoluna-girdi-3926891",
+      "publishedAt": "Thu, 12 Nov 2026 14:20:13 GMT"
     },
     {
-      "title": "Küslük iddialarına yanıt",
-      "summary": "Yeşilçam'ın usta oyuncularından Türkan Şoray ile kardeşi Nazan Şoray'ın arasının açık olduğu ileri sürülmüştü. Küslük söylentilerine son noktayı koyan Nazan Şoray, \"Aramızda hep saygı var\" diyerek iddiaları yalanladı",
+      "title": "İSKİ 12 Kasım 2026 baraj doluluk oranı",
+      "summary": "İstanbul baraj doluluk oranı İSKİ tarafından duyuruluyor. Son yağan yağışların ardından barajlardaki su seviyesinde artış gözlemlendi. En son Darlık ve Ömerli yüksek doluluk oranlarıyla öne çıkarken Kazandere ve Pabuçdere barajlarında dolul",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/nazan-soray-dan-ablasi-turkan-soray-ile-kus-oldugu-yonundeki-iddialara-yanit-3926699",
-      "publishedAt": "Thu, 12 Nov 2026 05:11:20 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/i-ski-12-kasim-2026-baraj-doluluk-orani-yagislar-sonrasinda-i-stanbul-baraj-doluluk-orani-yuzde-kac-oldu-ne-kadar-artti-3926722",
+      "publishedAt": "Thu, 12 Nov 2026 14:19:48 GMT"
     },
     {
-      "title": "Eğlence vergisi kurtaracak mı?",
-      "summary": "Sinema sektörü içinde, yabancı filmlerden eğlence vergisi alınması ve bu gelirle bir havuz oluşturularak Türk filmlerinin yapımına aktarılması gerektiği yönünde sesler yükseliyor. Bu düşüncenin temelini, geçmişte uygulanan vergi avantajları",
+      "title": "Melisa Sabancı Tapan'a Singapur'da onur madalyası",
+      "summary": "İş Dünyası ve Hayırseverlik Forumu 2026'ya katılan Melisa Sabancı Tapan, yapay zeka çağında insana yatırımın önemine dikkat çekti; Alliance for Good'a katkıları nedeniyle onur madalyasına layık görüldü",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/kesfet/yabanci-filmlere-eglence-vergi-getirilmesi-kurtaracak-mi-3926547",
-      "publishedAt": "Thu, 12 Nov 2026 05:10:26 GMT"
+      "link": "https://www.haberturk.com/ekonomi/melisa-sabanci-tapan-a-singapur-da-onur-madalyasi-3926897",
+      "publishedAt": "Thu, 12 Nov 2026 14:18:35 GMT"
     },
     {
-      "title": "Vadideki ölüme Yargıtay'dan tahliye kararı",
-      "summary": "Yargıtay, Muğla'nın Fethiye ilçesinde, 6 yıl önce fotoğraf çektirmek için çıktıkları kayalıklardan 7 aylık hamile eşi, 33 yaşındaki Semra Aysal'ı iterek ölümüne neden olduğu gerekçesiyle eşi, 41 yaşındaki Hakan Aysal'a verilen ağırlaştırılm",
+      "title": "Beyaz Saray civarında silah sesleri",
+      "summary": "ABD’nin başkenti Washington DC’de Beyaz Saray’a yürüme mesafesinde bulunan bir noktada 4 kişi vuruldu. Olay yerine çok sayıda güvenlik gücü sevk edildi.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-semra-aysal-in-vadideki-olumune-yargitay-dan-tahliye-karari-3926702",
-      "publishedAt": "Thu, 12 Nov 2026 05:09:44 GMT"
+      "link": "https://www.haberturk.com/dunya/son-dakika-beyaz-saray-civarinda-silah-sesleri-3926896",
+      "publishedAt": "Thu, 12 Nov 2026 14:14:45 GMT"
     },
     {
-      "title": "Melih Gökçek'in kardeşi hayatını kaybetti",
-      "summary": "Eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek, kardeşi Deniz Gökçek'in hayatını kaybettiğini açıkladı. Gökçek, kardeşinin cenaze namazının perşembe günü öğle namazına müteakip Hacı Bayram Camii'nde kılınacağını bildirdi",
+      "title": "BASE, 129 yeni mezun sanatçıyı sanatseverlerle buluşturuyor",
+      "summary": "Türkiye’nin yeni mezun sanatçı platformu BASE, 10. edisyonuyla 9–13 Aralık 2026 tarihleri arasında Akaretler Sıraevler’de sanatseverlerle buluşuyor. Bu yıl 42 üniversite ve 29 şehirden 129 yeni mezun sanatçının yapıtlarına ev sahipliği yapa",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-melih-gokcek-in-kardesi-deniz-gokcek-hayatini-kaybetti-3926703",
-      "publishedAt": "Thu, 12 Nov 2026 05:07:21 GMT"
+      "link": "https://www.haberturk.com/kultur-sanat/base-129-yeni-mezun-sanatciyi-sanatseverlerle-bulusturuyor-3926895",
+      "publishedAt": "Thu, 12 Nov 2026 14:14:26 GMT"
     },
     {
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 07:59:33 GMT"
+    },
+    {
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 04:00:30 GMT"
+      "publishedAt": "Thu, 12 Nov 2026 12:56:55 GMT"
     },
     {
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 14:24:48 GMT"
+    },
+    {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 05:06:27 GMT"
+      "publishedAt": "Thu, 12 Nov 2026 14:27:30 GMT"
     },
     {
-      "title": "New York building collapse kills at least two, officials say",
-      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 05:12:56 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 12:14:51 GMT"
     },
     {
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 22:07:37 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 12 Nov 2026 07:45:52 GMT"
     },
     {
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 11 Nov 2026 18:04:58 GMT"
-    },
-    {
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 12 Nov 2026 02:40:18 GMT"
-    },
-    {
-      "title": "French guard collapses as Macron rushes to help",
-      "summary": "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace.",
+      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
+      "summary": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
-      "publishedAt": "Thu, 12 Nov 2026 05:11:15 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
+      "publishedAt": "Thu, 12 Nov 2026 14:23:01 +0000"
     },
     {
-      "title": "More than 300 migrants rescued off Spain’s Canary Islands",
-      "summary": "More than 300 migrants were rescued off Spain’s Canary Islands amid a surge in Atlantic crossings.",
+      "title": "Police say at least five people shot at busy thoroughfare in Washington, DC",
+      "summary": "Authorities have issued a shelter in place near the scene of attack in US capital.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss",
-      "publishedAt": "Thu, 12 Nov 2026 05:04:25 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
+      "publishedAt": "Thu, 12 Nov 2026 14:19:37 +0000"
     },
     {
-      "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
-      "summary": "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1.",
+      "title": "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
+      "summary": "Nvidia loses over $600bn in market value as CEO Jensen Huang steps down amid espionage and affair allegations.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
-      "publishedAt": "Thu, 12 Nov 2026 04:41:17 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
+      "publishedAt": "Thu, 12 Nov 2026 13:55:07 +0000"
     },
     {
-      "title": "Bolivia arrests former judge on suspicion of drug trafficking",
-      "summary": "Arrests in Bolivia linked to a US-backed security alliance crackdown on drug cartels in Latin America.",
+      "title": "Family of killed teen Javits Frimpong calls for justice",
+      "summary": "The family of slain Ghanaian teen Javits Frimpong have reiterated demands for justice after police arrested a suspect.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss",
-      "publishedAt": "Thu, 12 Nov 2026 04:40:25 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/family-of-killed-teen-javits-frimpong-calls-for-justice?traffic_source=rss",
+      "publishedAt": "Thu, 12 Nov 2026 13:27:32 +0000"
     },
     {
-      "title": "Iran’s chief negotiator tells Al Jazeera ‘ball in US court’",
-      "summary": "Iran’s chief negotiator says it’s up to the US to answer Iran’s position in the latest round of peace talks.",
+      "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
+      "summary": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
-      "publishedAt": "Thu, 12 Nov 2026 04:19:55 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
+      "publishedAt": "Thu, 12 Nov 2026 13:20:20 +0000"
     },
     {
-      "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
-      "summary": "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report.",
+      "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
+      "summary": "FIFA says its 'security assessments' for the 48-team tournament remain unchanged after US Soccer pulled out.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
-      "publishedAt": "Thu, 12 Nov 2026 04:00:24 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss",
+      "publishedAt": "Thu, 12 Nov 2026 12:57:12 +0000"
     },
     {
-      "title": "World's fastest ocean liner is sunk to break another record: largest artificial reef",
-      "summary": "The SS United States broke trans-Atlantic speed records. On Wednesday, it was sunk off the Florida coast and will become a diving destination and home for marine life.",
+      "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+      "summary": "Raka is the son of former President Joko Widodo. The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6030853/ss-united-states-artificial-reef-sinking",
-      "publishedAt": "Wed, 11 Nov 2026 22:10:32 -0500"
+      "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
+      "publishedAt": "Thu, 12 Nov 2026 09:22:50 -0500"
     },
     {
-      "title": "Democrat Scott Colom wins the closest Senate race in the country",
-      "summary": "Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years.",
+      "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+      "summary": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
-      "publishedAt": "Wed, 11 Nov 2026 18:33:59 -0500"
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-board-fired",
+      "publishedAt": "Thu, 12 Nov 2026 09:17:20 -0500"
     },
     {
-      "title": "Democrat Scott Colom wins Mississippi Senate race",
-      "summary": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.",
+      "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+      "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-      "publishedAt": "Wed, 11 Nov 2026 18:04:51 -0500"
+      "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+      "publishedAt": "Thu, 12 Nov 2026 07:15:48 -0500"
     },
     {
-      "title": "Why is gasoline suddenly under $4 a gallon?",
-      "summary": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?",
+      "title": "How Scott Colom defied the odds to go from district attorney to Mississippi's Democratic US Senator",
+      "summary": "In a state that hasn't had a Democrat in office since 1980 and hasn't sent a Black Senator to Washington since the 1870s, Colom's win represents a massive upset in state politics.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
-      "publishedAt": "Wed, 11 Nov 2026 14:59:14 -0500"
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6037438/scott-colom-defied-the-odds-mississippi-democratic-senator",
+      "publishedAt": "Thu, 12 Nov 2026 05:00:00 -0500"
     },
     {
-      "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
-      "summary": "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month. It's the first time Africa is hosting an Olympic event.",
+      "title": "A blue wave helped offset for now a falling tally of Black members in the U.S. House",
+      "summary": "A Supreme Court ruling that further weakened the Voting Rights Act paved the way for a record drop in Black representation in Congress. But a midterm blue wave helped hold off such a decline for now.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
-      "publishedAt": "Wed, 11 Nov 2026 12:23:10 -0500"
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6029640/black-voter-turnout-congress-redistricting",
+      "publishedAt": "Thu, 12 Nov 2026 05:00:00 -0500"
     },
     {
-      "title": "Kennedy relatives join the fight against Trump's arch, alleging harm to JFK's grave",
-      "summary": "Nine members of the Kennedy family have joined the legal fight against Trump's D.C. arch, arguing it would disrupt views and cast shadows over their ancestors' graves at Arlington National Cemetery.",
+      "title": "Senators don't always share bill text online before votes. They should, advocates say",
+      "summary": "The text of what lawmakers are considering isn't always made available for public review before it is voted on. A group of open governance advocates is calling on Senate leadership for a change.",
       "source": "NPR",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery",
-      "publishedAt": "Wed, 11 Nov 2026 11:59:32 -0500"
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6037381/senate-legislation-public-review",
+      "publishedAt": "Thu, 12 Nov 2026 05:00:00 -0500"
+    },
+    {
+      "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+      "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning sh",
+      "source": "The Guardian",
+      "lang": "en",
+      "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+      "publishedAt": "Thu, 12 Nov 2026 13:14:38 GMT"
     },
     {
       "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
@@ -306,30 +314,22 @@
       "lang": "en",
       "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
       "publishedAt": "Sun, 08 Nov 2026 12:00:39 GMT"
-    },
-    {
-      "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
-      "summary": "Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their familiesThe leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 childre",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
-      "publishedAt": "Fri, 06 Nov 2026 15:08:43 GMT"
     }
   ],
   "sports": [],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 18,
-      "description": "overcast",
+      "tempC": 19,
+      "description": "partly cloudy",
       "high": 21,
       "low": 17
     },
     {
       "place": "London",
-      "tempC": 6,
-      "description": "partly cloudy",
-      "high": 9,
+      "tempC": 8,
+      "description": "clear sky",
+      "high": 8,
       "low": 4
     }
   ],
