@@ -1,13 +1,29 @@
 {
-  "updated": "2026-11-13T13:52:56.375Z",
+  "updated": "2026-11-13T21:09:55.389Z",
   "news": [
     {
-      "title": "HABAŞ önünde eylem yapan işçilere müdahale: '20'ye yakın kişi gözaltına alındı'",
-      "summary": "19 işçinin hayatını kaybettiği, 14 kişinin yaralandığı HABAŞ demir çelik fabrikasında çalışan işçiler fabrika önünde eylem yaptı. Kolluk kuvvetleri işçilere müdahale etti. Ege İşçi Birliği, 20'ye yakın kişinin gözaltına alındığını açıkladı.",
+      "title": "Trump hükümetinin COP31'e katılmaması iklim diplomasisi için ne anlama geliyor?",
+      "summary": "ABD, Paris Anlaşması'ndan ikinci kez çekilmesinin ardından Antalya'da düzenlenen COP31'e federal hükümet düzeyinde katılmıyor. ABD'nin yokluğunun en görünür etkisi iklim finansmanında hissediliyor.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c539gl7dw2l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 13:07:15 GMT"
+      "link": "https://www.bbc.com/turkce/articles/cvlyj8yl7d49o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 14:11:22 GMT"
+    },
+    {
+      "title": "Nvidia'daki seks skandalı Beyaz Saray üzerinde nasıl baskı oluşturuyor?",
+      "summary": "Jensen Huang'ın özel hayatı krizi tetiklemiş olabilir, ancak sorular artık Beyaz Saray'ın kendisine kadar uzanıyor.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cwn83yp5ped7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 19:16:41 GMT"
+    },
+    {
+      "title": "Erkek kısırlaştırılması vazektomi ne demek, veriler Türkiye için ne gösteriyor?",
+      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, 1990'lı yıllarda \"SGK eliyle erkeklerin kısırlaştırıldığını\" iddia etmesi TBMM komisyonunda tartışmaya sebep oldu. Peki 1990'larda ne yaşandı?",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/ckm2m4r69ynjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 16:59:52 GMT"
     },
     {
       "title": "AKP'de fon krizi nasıl tartışılıyor, hangi seçenekler konuşuluyor?",
@@ -18,22 +34,6 @@
       "publishedAt": "Fri, 13 Nov 2026 00:02:26 GMT"
     },
     {
-      "title": "Microsoft uygulamalarında küresel kesinti: Outlook ve Teams neden çalışmıyor?",
-      "summary": "Dünya çapında yüz milyonlarca kullanıcısı olan Microsoft işletim sistemine ait bazı uygulamalara birçok ülkede erişim sorunu yaşanıyor. Şirket, sorunun siber saldırı kaynaklı olmadığını ve çözüm üzerinde çalıştıklarını açıkladı. Özellikle M",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c5n4ez3gvp1zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 10:16:01 GMT"
-    },
-    {
-      "title": "Nvidia CEO'su Huang, ABD Kongresi'nde ifade verecek",
-      "summary": "Teknoloji milyarderi Jensen Huang, dünyanın en değerli şirketlerinden birinde patlak veren büyük bir skandalın ardından, ABD ulusal güvenliğine ilişkin Kongre önünde ifade vermeye hazır olduğunu belirtti.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cvj6l247pr4ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 07:04:48 GMT"
-    },
-    {
       "title": "Dünya'nın yeni bir 'mini ay'ı var",
       "summary": "2026 QQ8 adlı mini uydu ağustos ayında keşfedildi, ancak bu Dünya'ya eşlik eden tek geçici gök cismi değil.",
       "source": "BBC Türkçe",
@@ -42,109 +42,118 @@
       "publishedAt": "Fri, 13 Nov 2026 10:36:22 GMT"
     },
     {
-      "title": "'Arda Güler'in golüyle şaşırdılar ve sonra tekrar ayağa kalktılar'",
-      "summary": "Belçika medyası, İzmir'de Gürsel Aksel Stadyumu'nda oynanan karşılaşmaya geniş yer ayırdı.",
+      "title": "Microsoft uygulamalarında küresel kesinti neden bu kadar uzun sürdü?",
+      "summary": "Dünya çapında yüz milyonlarca kullanıcısı olan Microsoft işletim sistemine ait bazı uygulamalara birçok ülkede erişim sorunu yaşanıyor. Şirket, sorunun siber saldırı kaynaklı olmadığını ve çözüm üzerinde çalıştıklarını açıkladı. Özellikle M",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/c9p83m2e2ze6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 00:04:01 GMT"
+      "link": "https://www.bbc.com/turkce/articles/c5n4ez3gvp1zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 16:27:39 GMT"
     },
     {
-      "title": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, NTV'ye konuştu",
-      "summary": "Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Antalya’daki COP31 İklim Zirvesi’nde NTV'nin sorularını yanıtladı. Genç, \"dayanıklı şehirler\" ve \"sıfır atık\" başlıklarının önemine dikkat çekti.",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 14 Kasım 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 14 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-13T16:33:43+03:00"
+      "publishedAt": "2026-11-14T00:00:00+03:00"
     },
     {
-      "title": "Kahraman pilotlar Malatya'da faciayı önlemiş",
-      "summary": "Malatya'da dört askerin şehit olduğu kazada, şehit pilotların helikopteri yerleşim alanına düşürmemek için büyük bir fedakarlık gösterdiği ortaya çıktı.",
+      "title": "On Numara sonuçları sorgulama 2026: Büyük ikramiye çıktı mı? 28 Ağustos 2026 MPİ On Numara bilet sorgulama ekranı ve kazanan numaralar",
+      "summary": "Şans oyunları tutkunlarının heyecanla beklediği On Numara çekiliş sonuçları belli oldu. Kazandıran şanslı numaralar ve ikramiye dağılımı açıklanırken, Milli Piyango İdaresi (MPİ) bilet sorgulama ekranı üzerinden hızlıca sonuçları öğrenebili",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-13T15:59:50+03:00"
+      "publishedAt": "2026-11-13T22:12:54+03:00"
     },
     {
-      "title": "Rüzgar tersine dönecek, sıcaklık sert düşecek. İstanbul'da dolu ve hortum alarmı",
-      "summary": "İstanbul'daki lodos yerini fırtına ve kuvvetli yağışlara bırakacak. Yarın poyraza dönecek rüzgar ile birlikte sıcaklık 8 derece düşecek. Kent genelinde ise dolu ve hortum oluşma riski var.",
+      "title": "Türkiye Sigorta fon kazancını TMSF'ye iade etti",
+      "summary": "Türkiye Sigorta AŞ, 1 milyar 599 milyon 887 bin 908 TL'nin iade edilecek kazanç olarak belirlendiğini ve iade tutarının bugün Tasarruf Mevduatı Sigorta Fonu (TMSF) hesabına yatırıldığını bildirdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-13T16:44:26+03:00"
+      "publishedAt": "2026-11-13T21:28:48+03:00"
     },
     {
-      "title": "Türkiye'ye iade edilen Sercan Sayal adliyeye sevk edildi",
-      "summary": "Yunanistan'da yakalanıp Türkiye'ye getirilen yeni nesil organize suç örgütü elebaşı Sercan Sayal, geniş güvenlik önlemleri altında adliyeye sevk edildi.",
+      "title": "Londra Belediye Başkanı Sadık Han İstanbul'da. \"Birbirimizden öğrenebileceğimiz çok şey var\"",
+      "summary": "Londra Belediye Başkanı Sadık Han, COP31 için bulunduğu Antalya'dan sonra İstanbul'a geldi. Han, Londra ve İstanbul arasındaki benzerliklere dikkat çekti. Haber: Derya Acemoğlu",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-13T15:16:15+03:00"
+      "publishedAt": "2026-11-13T21:17:33+03:00"
     },
     {
-      "title": "18 işçinin öldüğü HABAŞ'ta telefon yasağı iddiası: Fabrika önünde arbede çıktı",
-      "summary": "İzmir'de 18 işçinin yaşamını yitirdiği HABAŞ fabrikasında telefon yasağı getirildiği iddia edildi. Karara tepki gösteren işçiler fabrika önünde bekleyişe geçerken eylem sırasında arbede yaşandı.",
+      "title": "Uluslararası Enerji Ajansı Başkanı Fatih Birol, NTV'nin sorularını yanıtladı",
+      "summary": "Uluslararası Enerji Ajansı Başkanı Fatih Birol, COP31 Zirvesi’nde NTV diplomasi muhabiri Deniz Kilislioğlu'nun sorularını yanıtladı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-13T14:00:09+03:00"
+      "publishedAt": "2026-11-13T19:29:00+03:00"
     },
     {
-      "title": "Kara Maskeliler davasında ceza yağdı",
-      "summary": "İstanbul'da gerçekleştirdikleri kurşunlama eylemleriyle bilinen Kara Maskeliler isimli suç örgütünün iki üyesine toplam 116 yıl hapis cezası verildi.",
+      "title": "Bakan Gürlek: Üç faili meçhul cinayet dosyası daha aydınlatıldı",
+      "summary": "Adalet Bakanı Akın Gürlek, Bursa'da iki ve Bitlis'te bir kayıp dosyasının daha aydınlatıldığını açıklarken, bugüne kadar 76 dosyada 83 cinayetin faili meçhul olmaktan çıkarıldığını söyledi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-13T13:32:49+03:00"
+      "publishedAt": "2026-11-13T19:00:42+03:00"
     },
     {
-      "title": "\"Vazgeçemem\" dediği eşinden boşanıyor",
-      "summary": "Pink Floyd efsanesi Roger Waters, \"Nihayet hayatımın aşkını buldum\" açıklamasından beş yıl sonra, beşinci eşi Kamilah Chavis'a boşanma davası açtı",
+      "title": "\"Çocukluk hayalimi yaşıyorum\"",
+      "summary": "Beşiktaş'ın kaptanı Orkun Kökçü, UEFA'ya özel açıklamalarda bulundu. 25 yaşındaki oyuncu Beşiktaş'a özel duygular beslediğini ve bu formayı giymenin çocukluk hayali olduğunu dile getirdi.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/magazin/pink-floyd-un-gitaristi-roger-waters-vazgecemeyecegim-kadin-dedigi-besinci-esi-kamilah-chavis-ten-bosaniyor-3927164",
-      "publishedAt": "Fri, 13 Nov 2026 13:48:07 GMT"
+      "link": "https://www.haberturk.com/spor/foto/besiktas-ta-orkun-kokcu-cocukluk-hayalimi-yasiyorum-3927252",
+      "publishedAt": "Fri, 13 Nov 2026 20:59:30 GMT"
     },
     {
-      "title": "Skoda’nın mobil şarj turu tamamlandı",
+      "title": "\"Önemli bir galibiyet aldık\"",
+      "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 11. haftasında ağırladığı İtalya ekibi Virtus Bologna'yı 103-91 mağlup eden Anadolu Efes'te başantrenör Pablo Laso, özellikle ilk yarıda sergiledikleri performansın galibiyette önemli rol oynadığını sö",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/skodanin-mobil-sarj-araclari-karadeniz-turunda-4-bin-kilometre-yol-katetti-3927181",
-      "publishedAt": "Fri, 13 Nov 2026 13:47:14 GMT"
+      "link": "https://www.haberturk.com/spor/anadolu-efes-te-pablo-laso-onemli-bir-galibiyet-aldik-3927251",
+      "publishedAt": "Fri, 13 Nov 2026 20:50:30 GMT"
     },
     {
-      "title": "Yemekteyiz kim kazandı?",
-      "summary": "Tv8 ekranlarında yayınlanan Yemekteyiz haftanın finalinde büyük ödülü kazanan isim belli oluyor. TV8 ekranlarında hafta içi her gün yayınlanan, sunuculuğunu Zuhal Topal'ın üstlendiği Yemekteyiz'in 9-13 Kasım tarihli haftasında final günü so",
+      "title": "Ankara Film Festivali başladı",
+      "summary": "37. Ankara Film Festivali, dün akşam gerçekleştirilen Açılış ve Onur Ödülleri Töreni ile perdelerini açtı. Demet Akbağ, Bülent Ortaçgil, Atillâ Dorsay, Bige Önal ve Boran Kuzum’un ödüllendirildiği gecenin finalinde Zuhal Olcay & Orkestrası ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/yemekteyiz-kim-kazandi-13-kasim-zuhal-topal-la-yemekteyiz-haftanin-buyuk-odulu-kim-aldi-250-bin-tl-yi-kazanan-isim-aciklandi-mi-3927179",
-      "publishedAt": "Fri, 13 Nov 2026 13:45:43 GMT"
+      "link": "https://www.haberturk.com/kultur-sanat/ankara-film-festivali-basladi-3927248",
+      "publishedAt": "Fri, 13 Nov 2026 20:39:07 GMT"
     },
     {
-      "title": "ÖGG sonuçları açıklanıyor!",
-      "summary": "ÖGG sınav sonuçları için beklenen tarih geldi. Emniyet Genel Müdürlüğü (EGM) tarafından düzenlenen 123. Temel Eğitim ve 99. Yenileme Eğitimi sınavına katılan adaylar, 13 Kasım 2026 Cuma günü ÖGG sınav sonuçları duyurusunu takip ediyor. Peki",
+      "title": "Türkiye ve Katar'dan Gazze için ortak çağrı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan ve Katar Emiri Temim bin Hamed Al Sani başkanlığında İstanbul'da düzenlenen Türkiye-Katar Yüksek Stratejik Komite 12. Toplantısı'nın ortak bildirisi yayımlandı. İki ülke arasında karşılıklı savunma anlaşma",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/foto/ogg-sinav-sonuclari-2026-sorgulama-ekrani-egm-123-donem-ozel-guvenlik-sinav-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-3927010",
-      "publishedAt": "Fri, 13 Nov 2026 13:42:49 GMT"
+      "link": "https://www.haberturk.com/dunya/turkiye-ile-katar-savunma-ticaret-ve-guvenlik-alanlarinda-isbirligini-guclendirecek-3927249",
+      "publishedAt": "Fri, 13 Nov 2026 20:36:09 GMT"
     },
     {
-      "title": "Yatarken çorap giyenler dikkat!",
-      "summary": "Kimi gece yatağa çorapsız girmiyor, kimi ise çorapla uyumaya tahammül edemiyor. Oysa basit bir alışkanlık gibi görünen bu tercihin uyku üzerinde dikkat çekici etkileri bulunuyor. Bilim insanlarının yaptığı araştırmada, çorapla uyuyanların u",
+      "title": "A. Efes, Bologna'yı devirdi",
+      "summary": "EuroLeague'in 11. haftasında Anadolu Efes sahasında İtalya ekibi Virtus Bologna'yı ağırladı. Lacivert-beyazlılar parkeden 103-91'lik galibiyetle ayrıldı.",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/corapla-uyuyanlar-mi-hakli-cikarip-atanlar-mi-bilim-insanlari-son-noktayi-koydu-3927159",
-      "publishedAt": "Fri, 13 Nov 2026 13:42:08 GMT"
+      "link": "https://www.haberturk.com/spor/anadolu-efes-103-virtus-bologna-91-mac-sonucu-3927247",
+      "publishedAt": "Fri, 13 Nov 2026 19:54:51 GMT"
     },
     {
-      "title": "Köfte harcına 2 kaşık ekleyin! Puf puf kabarıyor",
-      "summary": "Tavada küçülen ve kuruyan köfteleri lokanta kıvamına getirmenin sırrı harcına katılan iki basit malzemede gizli. Doğru ölçüde eklenen bu malzemeler sayesinde dışı nar gibi kızaran, içi yumuşacık ve puf puf kabaran köfteler hazırlamak mümkün",
+      "title": "Fırtına ne kadar sürecek? İstanbul Valiliği: 74 ihbar aldık! Marmara'da fırtına",
+      "summary": "Marmara'da 11 il için verilen \"sarı\" alarmın ardından bu sabah saatlerinden itibaren bölgede fırtına etkisini göstermeye başladı. İstanbul Valiliği ve AKOM tarafından yapılan hızı saatte 90 km'yi bulması beklenen fırtına bazı binaların çatı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/bilgi/lokanta-usulu-koftenin-sirri-harca-2-kasik-eklemek-yetiyor-puf-puf-kabariyor-lokum-gibi-oluyor-3927109",
-      "publishedAt": "Fri, 13 Nov 2026 13:41:28 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-hizi-saatte-90-km-yi-bulacak-istanbul-da-firtina-3927043",
+      "publishedAt": "Fri, 13 Nov 2026 19:37:38 GMT"
     },
     {
-      "title": "What we know about the global Microsoft outage",
-      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 20:49:52 GMT"
+    },
+    {
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 13:34:53 GMT"
+      "publishedAt": "Fri, 13 Nov 2026 18:36:57 GMT"
     },
     {
       "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
@@ -155,84 +164,108 @@
       "publishedAt": "Fri, 13 Nov 2026 11:43:27 GMT"
     },
     {
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 03:57:01 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 16:40:31 GMT"
     },
     {
-      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 02:01:35 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 19:53:57 GMT"
     },
     {
-      "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
-      "summary": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 12:28:28 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 13 Nov 2026 15:42:52 GMT"
     },
     {
-      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-      "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Fri, 13 Nov 2026 07:01:43 GMT"
-    },
-    {
-      "title": "China warns against fresh US chip curbs",
-      "summary": "China has warned the US against imposing additional export controls on AI chips.",
+      "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
+      "summary": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
-      "publishedAt": "Fri, 13 Nov 2026 13:42:49 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
+      "publishedAt": "Fri, 13 Nov 2026 20:32:42 +0000"
     },
     {
-      "title": "Nvidia scandal: What’s next for the US tech company?",
-      "summary": "What happens next at one of the world's most valuable companies will have repercussions far beyond Silicon Valley.",
+      "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
+      "summary": "The Chicago-born pope was welcomed by huge crowds in the coastal city, on the final leg of his South America tour.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company?traffic_source=rss",
-      "publishedAt": "Fri, 13 Nov 2026 13:36:19 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
+      "publishedAt": "Fri, 13 Nov 2026 20:28:20 +0000"
     },
     {
-      "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
-      "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
+      "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
+      "summary": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
-      "publishedAt": "Fri, 13 Nov 2026 13:19:26 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
+      "publishedAt": "Fri, 13 Nov 2026 20:18:09 +0000"
     },
     {
-      "title": "Kenyan building collapse near Nairobi kills six people",
-      "summary": "Five people reportedly survive as emergency crews search for anyone still trapped in the rubble.",
+      "title": "Microsoft says services still returning amid widespread outage",
+      "summary": "Governments, businesses, individuals were disrupted globally as server failures stretch into second day.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/13/kenyan-building-collapse-near-nairobi-kills-six-people?traffic_source=rss",
-      "publishedAt": "Fri, 13 Nov 2026 13:11:24 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
+      "publishedAt": "Fri, 13 Nov 2026 20:16:13 +0000"
     },
     {
-      "title": "Delhi overtakes Lahore as world’s most polluted city",
-      "summary": "India’s capital New Delhi has overtaken Pakistan’s Lahore as the world’s most polluted city.",
+      "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
+      "summary": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/delhi-overtakes-lahore-as-worlds-most-polluted-city?traffic_source=rss",
-      "publishedAt": "Fri, 13 Nov 2026 13:11:08 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
+      "publishedAt": "Fri, 13 Nov 2026 20:12:34 +0000"
     },
     {
-      "title": "France slams Israel’s ‘demagogic’ ban on opposition leader Melenchon",
-      "summary": "Israel's move came after France banned a prominent Israeli settler from entering the country.",
+      "title": "Migrants risk deadly route to Spain’s Canary Islands",
+      "summary": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/13/france-slams-israels-demagogic-ban-on-left-wing-leader-melenchon?traffic_source=rss",
-      "publishedAt": "Fri, 13 Nov 2026 12:57:08 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
+      "publishedAt": "Fri, 13 Nov 2026 19:23:40 +0000"
+    },
+    {
+      "title": "What's Trump's strategy now with Iran? To keep things as they are",
+      "summary": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "publishedAt": "Fri, 13 Nov 2026 14:02:04 -0500"
+    },
+    {
+      "title": "The Trump administration's voter roll crusade could continue",
+      "summary": "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+      "publishedAt": "Fri, 13 Nov 2026 12:00:00 -0500"
+    },
+    {
+      "title": "Does Europe regret its bet on U.S. defense?",
+      "summary": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+      "publishedAt": "Fri, 13 Nov 2026 11:17:43 -0500"
+    },
+    {
+      "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
+      "summary": "He's the ranking member of the Senate Foreign Relations Subcommittee that oversees health aid and he's just announced he's running for Majority Leader. He spoke to NPR about his foreign aid vision.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
+      "publishedAt": "Fri, 13 Nov 2026 10:46:35 -0500"
     },
     {
       "title": "Remembering singer and actor Peggy King",
@@ -243,44 +276,12 @@
       "publishedAt": "Fri, 13 Nov 2026 08:35:22 -0500"
     },
     {
-      "title": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+      "title": "USMNT head coach Mauricio Pochettino is leaving for Manchester United",
       "summary": "Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manchester United.",
       "source": "NPR",
       "lang": "en",
       "link": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
       "publishedAt": "Fri, 13 Nov 2026 08:32:23 -0500"
-    },
-    {
-      "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
-      "summary": "Nvidia's chief financial officer has been appointed interim CEO after Jensen Huang stepped down from the role. And, Sen. Chris Van Hollen says he will challenge Chuck Schumer for majority leader.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
-      "publishedAt": "Fri, 13 Nov 2026 07:07:12 -0500"
-    },
-    {
-      "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
-      "summary": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
-      "publishedAt": "Fri, 13 Nov 2026 07:06:28 -0500"
-    },
-    {
-      "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
-      "summary": "In the last decade, strong support for kratom and 7-OH products have kept them federally legal. That's started to change. A crackdown for some highly potent products related to kratom is coming.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
-      "publishedAt": "Fri, 13 Nov 2026 06:00:00 -0500"
-    },
-    {
-      "title": "Hegseth awards medal to soldier who chastised him",
-      "summary": "Pete Hegseth was yelled at by a sentinel for poor decorum at Arlington National Cemetery. Now the Secretary of Defense hasgiven him a medal.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
-      "publishedAt": "Fri, 13 Nov 2026 05:27:08 -0500"
     },
     {
       "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
@@ -319,16 +320,16 @@
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 20,
-      "description": "mainly clear",
-      "high": 21,
-      "low": 19
+      "tempC": 19,
+      "description": "partly cloudy",
+      "high": 19,
+      "low": 12
     },
     {
       "place": "London",
-      "tempC": 7,
+      "tempC": 5,
       "description": "clear sky",
-      "high": 7,
+      "high": 8,
       "low": 2
     }
   ],
