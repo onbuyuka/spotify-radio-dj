@@ -1,13 +1,21 @@
 {
-  "updated": "2026-11-19T02:14:02.363Z",
+  "updated": "2026-11-19T11:05:20.640Z",
   "news": [
     {
-      "title": "AKP'de fon krizini seçim süreci başlamadan çözme arayışı",
-      "summary": "AKP, 17 Eylül'de patlak veren fon krizine ilişkin ödemeleri, soruşturmaları ve sermaye piyasalarında denetimin güçlendirilmesine yönelik yasal düzenlemeleri yılbaşına kadar sonuçlandırmayı hedefliyor.",
+      "title": "Eski BDDK Başkanı Şahap Kavcıoğlu'na yurt dışına çıkış yasağı",
+      "summary": "Fon soruşturması kapsamında eski Bankacılık Düzenleme ve Denetleme Kurulu (BDDK) Başkanı Şahap Kavcıoğlu hakkında yurt dışına çıkış yasağı kararı verildi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm36g02dk0e5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 23:35:45 GMT"
+      "link": "https://www.bbc.com/turkce/articles/ck1wre80j7ggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 08:54:26 GMT"
+    },
+    {
+      "title": "Putin: ABD, Rusya ve Çin'in küresel barışı koruma sorumluluğu var",
+      "summary": "Çin Devlet Başkanı Şi Cinping, ABD Başkanı Donald Trump ve Rusya Devlet Başkanı Vladimir Putin, Çin'in Shenzhen kentinde düzenlenen APEC Zirvesi kapsamında biraraya geldi. Rusya lideri Putin üç ülkenin küresel barışı koruma sorumluluğu bulu",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cr9d75xwg767o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 10:47:10 GMT"
     },
     {
       "title": "'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer niteliğinde'",
@@ -18,12 +26,20 @@
       "publishedAt": "Thu, 19 Nov 2026 00:22:46 GMT"
     },
     {
-      "title": "Fon krizinde yaklaşık yarım milyon yatırımcıyı etkileyen geri ödemeler ne aşamada?",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, yatırım fonu krizinde toplamda 444 bin yatırımcıya ödeme yapıldığını, 371 bin yatırımcının net yatırım tutarının tamamını aldığını açıkladı. Geri ödemelerle ilgili ne biliniyor?",
+      "title": "Gazeteci İsmail Arı'ya ilk duruşmada tahliye ve beraat",
+      "summary": "Eski RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine soruşturma açılan ve tutuklanan BirGün muhabiri İsmail Arı'nın ilk duruşmada beraatine ve tahliyesine karar verildi.",
       "source": "BBC Türkçe",
       "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm20veq65xz6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 23:48:25 GMT"
+      "link": "https://www.bbc.com/turkce/articles/ck20re4212ylo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 10:06:37 GMT"
+    },
+    {
+      "title": "Eyüpsultan Belediye Başkan Yardımcısı Çağdaş Can Elmalı gözaltına alındı",
+      "summary": "Ankara Cumhuriyet Başsavcılığınca Eyüpsultan Belediyesi'ne yönelik yürütülen soruşturmada Başkan Yardımcısı ve Özel Kalem Müdürü Çağdaş Can Elmalı da gözaltına alındı. Belediye Başkanı Mithat Bülent Özmen aynı soruşkturmada tutuklanmıştı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 07:45:52 GMT"
     },
     {
       "title": "Naza belgeselinin yönetmenleri, İsrail askerlerini Gazze'deki sivil kayıpları konuşmaya nasıl ikna etti?",
@@ -34,142 +50,118 @@
       "publishedAt": "Wed, 18 Nov 2026 23:56:47 GMT"
     },
     {
-      "title": "GTA 6 eleştirmenlerden tam not aldı: 'Başyapıt'",
-      "summary": "13 yıllık bekleyişin, rekor kıran fragmanların ve uzun gecikmelerin ardından eleştirmenler yılın en büyük sorularından birine yanıtını verdi: Tüm zamanların belki de en çok beklenen oyunu olan Grand Theft Auto 6 beklentileri karşılıyor mu?",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cvy0ep5l6zp2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Thu, 19 Nov 2026 00:07:25 GMT"
-    },
-    {
-      "title": "CHP kurultay davasında karar: Ekrem İmamoğlu dahil 9 kişiye hapis cezası ve siyaset yasağı",
-      "summary": "CHP'nin 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla açılan ceza davasında mahkeme kararını açıkladı. Ankara 26. Asliye Ceza Mahkemesi'nde görülen davada Ekrem İmamoğlu dahil dokuz sanığa 2 yıl 1'er ay hapis ve siyasi yasak ceza",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cx2r30k4ddyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 19:27:38 GMT"
-    },
-    {
-      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 19 Kasım 2026",
-      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 19 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
+      "title": "Gazeteci İsmail Arı hakkında ilk duruşmada beraat ve tahliye kararı",
+      "summary": "Eski RTÜK Başkanı'nın şikayeti üzerine başlatılan soruşturmada tutuklanan gazeteci İsmail Arı, ilk duruşmada beraat etti. Arı'nın tahliyesine karar verildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-19T05:00:00+03:00"
+      "publishedAt": "2026-11-19T13:28:46+03:00"
     },
     {
-      "title": "Fed tutanakları yetkililerin neredeyse tamamının ilave faiz artışı beklediğini gösterdi",
-      "summary": "Fed'in ekim ayı toplantı tutanakları, enflasyon endişelerinin sürdüğünü gösterdi. Yetkililerin büyük çoğunluğu, önümüzdeki aylarda ilave faiz artırımlarının uygun olabileceğini değerlendirdi.",
+      "title": "Gaziosmanpaşa'da akılalmaz olay: 'Yemek siparişiniz var' yalanıyla evine girip gasbettiler",
+      "summary": "Gaziosmanpaşa’da 'Yemek siparişiniz var' diyerek kapıyı açtıran 2 şüpheli, ev sahibini darbedip silahla tehdit ederek 430 bin liralık gasp yaptı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-18T23:41:07+03:00"
+      "publishedAt": "2026-11-19T13:13:31+03:00"
     },
     {
-      "title": "Bakan Güler: 2030 sonuna kadar 20 adet KAAN teslim edilecek",
-      "summary": "Milli Savunma Bakanı Yaşar Güler, 2030 yılı sonuna kadar Hava Kuvvetleri Komutanlığı'na 20 adet uçağın teslim edileceğini, 2035 yılı sonunda ise bu sayının 100’e ulaşağını belirtti.",
+      "title": "AK Parti'ye yeni katılımlar. Candan Yüceer, Büşra Özdemir ve Sefer Karaahmetoğlu Genel Merkez'de",
+      "summary": "Tekirdağ Belediye Başkanı Candan Yüceer, Antalya Büyükşehir Belediyesi Başkanvekili Büşra Özdemir ve Beyoğlu Belediyesi Başkanvekili Sefer Karaahmetoğlu AK Parti Genel Merkezi'ne geldi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-18T23:42:20+03:00"
+      "publishedAt": "2026-11-19T13:33:26+03:00"
     },
     {
-      "title": "Sayısal Loto sonuçları açıklandı: Dev ikramiye sahibini buldu mu? 18 Kasım 2026 MPİ Çılgın Sayısal Loto bilet sorgulama ekranı",
-      "summary": "Milyonların hayalini süsleyen Çılgın Sayısal Loto çekilişi tamamlandı. Büyük ikramiye miktarının katlanarak büyüdüğü çekilişte şanslı rakamlar belli oldu. Biletinizi sorgulamak ve kazanan numaraları görmek için Milli Piyango İdaresi (MPİ) ü",
+      "title": "İzleme Komisyonu'nda sona gelindi. Numan Kurtulmuş'tan Yeni Parti'ye: Ben resmi yazışmalara bakarım",
+      "summary": "TBMM Başkanı Numan Kurtulmuş, Yeni Parti'nin komisyona üye vermeme kararıyla ilgili olarak resmi bir yanıt almadığını belirtti. Kurtulmuş, \"Ben resmi yazışmalara bakarım.\" dedi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-18T22:30:15+03:00"
+      "publishedAt": "2026-11-19T12:41:47+03:00"
     },
     {
-      "title": "Şans Topu Sonuçları Sorgulama Ekranı 18 Kasım | MPİ Şans Topu Sonuçları Tıkla Hızlı Bilet Sorgula",
-      "summary": "Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazandıran şanslı numaraları görmek ve MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapmak için tıklayın.",
+      "title": "Son dakika Malatya'da deprem mi oldu? Az önce deprem Malatya'da nerede oldu? Malatya deprem Kandilli ve AFAD son depremler listesi 19 Kasım 2026",
+      "summary": "Son dakika Malatya deprem haberleri.. Malatya'da deprem mi oldu? Az önce deprem Malatya'da nerede oldu? Malatya Kandilli ve AFAD son depremler.. 19 Kasım 2026 Malatya deprem son dakika haberleri haberin detayında... Artçı deprem mi oldu Mal",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-18T22:27:19+03:00"
+      "publishedAt": "2026-11-19T12:10:00+03:00"
     },
     {
-      "title": "Doktor Pelin Pınar'ın şüpheli ölümü. Son görüntüleri ortaya çıktı",
-      "summary": "İstanbul'da sekizinci kattaki evinin balkonundan düşerek hayatını kaybeden Pelin Pınar'ın son görüntüleri ortaya çıktı.",
+      "title": "Malatya'daki helikopter kazası | MSB: Kaza kırım incelemesi devam ediyor",
+      "summary": "Milli Savunma Bakanlığı (MSB), Malatya'da 4 askerin şehit olduğu helikopter kazasına ilişkin incelemelerin sürdüğünü bildirdi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-18T21:34:33+03:00"
+      "publishedAt": "2026-11-19T12:10:03+03:00"
     },
     {
-      "title": "İstanbul'da şiddetli lodos",
-      "summary": "İstanbul'da etkili olan lodosun ardından metrelerce yükselen dalgalar kıyıya vurdu. Üsküdar sahilinde yürüyenler, dev dalgaların kıyıya vurmasıyla ıslandı",
+      "title": "Trump, Şi ve Putin'den tarihi zirve",
+      "summary": "Dünya, ABD Başkanı Trump, Çin Devlet Başkanı Şi ve Rusya Devlet Başkanı Putin'in Çin'in Shenzhen kentinde gerçekleştireceği tarihi görüşmeye odaklandı. Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi kapsamında yapın tarihi görüşme sona erdi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/istanbul-da-siddetli-lodos-3928363",
-      "publishedAt": "Thu, 19 Nov 2026 02:08:09 GMT"
+      "link": "https://www.haberturk.com/dunya/dunya-bu-gorusmeye-kilitlendi-trump-si-ve-putin-tarihi-bir-gorusme-gerceklestirecek-3928376",
+      "publishedAt": "Thu, 19 Nov 2026 10:46:48 GMT"
     },
     {
-      "title": "İngiltere: Umman açıklarında bir tanker saldırıya uğradı",
-      "summary": "İngiltere Deniz Ticareti Operasyonları (UKMTO), Umman'ın Hasab kentinin 6 deniz mili kuzeyinde bir tanker gemisinin saldırıya uğradığını duyurdu",
+      "title": "Yağmur hızır gibi yetişti",
+      "summary": "ABD-İran savaşı nedeniyle petrol fiyatlarının yüzde 60 artışla 120 dolara kadar çıkması net enerji ithalatçısı olan Türkiye'nin enerji faturasını şişiriyor. Bu yıl yağmurun bol yağması artan yenilenebilir enerji üretimi ise bu faturayı azal",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/ingiltere-umman-aciklarinda-bir-tanker-saldiriya-ugradi-3928357",
-      "publishedAt": "Wed, 18 Nov 2026 23:37:42 GMT"
+      "link": "https://www.haberturk.com/ekonomi/yagmur-yagdi-gunes-ve-ruzgar-artti-ayda-1-milyar-dolar-kurtardik-3928295",
+      "publishedAt": "Thu, 19 Nov 2026 08:44:34 GMT"
     },
     {
-      "title": "Denizli'de 'zimmet' soruşturması: 4 tutuklama",
-      "summary": "Denizli'de düzenlenen zimmet operasyonu kapsamında eski büyükşehir belediye başkanı Osman Zolan'ın danışmanı Mehmet Çağrı Sebzeci ile 10 şüpheli gözaltına alındı. Adliyeye sevk edilen şüphelilerden Sebzeci'nin de aralarında olduğu 4'ü tutuk",
+      "title": "ATM kabinleri sanat galerisi oldu",
+      "summary": "DenizBank, kültür ve sanatın daha geniş kitlelere ulaşmasını destekleme vizyonuyla, dünyanın ilk ATM art galerisi ArTM’yi hayata geçirdi. ATM kabinlerini dijital açık hava sanat galerilerine dönüştüren projeyle, 10 çağdaş sanatçıya ait 100 ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/denizli-de-zimmet-sorusturmasi-4-supheli-tutuklandi-3928351",
-      "publishedAt": "Wed, 18 Nov 2026 23:29:55 GMT"
+      "link": "https://www.haberturk.com/ekonomi/denizbank-atm-art-galerisi-artm-ile-yasamin-icinde-sanati-destekliyor-3928499",
+      "publishedAt": "Thu, 19 Nov 2026 10:51:36 GMT"
     },
     {
-      "title": "Pilot Lisans Yönetmeliği'nde değişiklik",
-      "summary": "Pilot Lisans Yönetmeliği'nde yapılan değişiklik kapsamında, pilot lisansı için başvuru yapacak adayların, 'göçmen kaçaklığı ve insan ticareti', 'cinsel dokunulmazlığa karşı' suçlar, 'uyuşturucu veya uyarıcı madde imal ve ticareti' gibi suçl",
+      "title": "Lavanta atıklarından çevre dostu enerji malzemesi",
+      "summary": "Süleyman Demirel Üniversitesi (SDÜ) akademisyenleri, Isparta'da lavanta hasadının ardından ortaya çıkan sap atıklarını enerji depolama teknolojilerinde kullanılabilecek süperkapasitör elektrotlarına dönüştürmek için çalışma yürütüyor",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/pilot-lisans-yonetmeligi-nde-degisiklik-3928356",
-      "publishedAt": "Wed, 18 Nov 2026 22:53:49 GMT"
+      "link": "https://www.haberturk.com/gundem/lavanta-atiklarindan-cevre-dostu-enerji-malzemesi-3928490",
+      "publishedAt": "Thu, 19 Nov 2026 10:51:25 GMT"
     },
     {
-      "title": "\"Fransız askerleri zaman zaman Ukrayna'da bulundu\"",
-      "summary": "Fransa Savunma Bakanı Catherine Vautrin, Fransız askerlerinin zaman zaman çatışma bölgesi dışında Ukrayna'da bulunduğunu söyledi",
+      "title": "100 metrelik uçuruma yuvarlandılar! Ölümle biten ders",
+      "summary": "Giresun’da ehliyetsiz sürücü 61 yaşındaki Emine Topşir’in kullandığı otomobil, 100 metrelik uçuruma yuvarlandı. Kazada Emine Topşir yaralanırken eşi, 57 yaşındaki Abdullah Topşir hayatını kaybetti. Abdullah Topşir'in eşine direksiyon dersi ",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/vautrin-fransiz-askerleri-zaman-zaman-ukrayna-da-bulundu-3928355",
-      "publishedAt": "Wed, 18 Nov 2026 22:53:41 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-100-metrelik-ucuruma-yuvarlandilar-olduren-ders-giresun-haberleri-3928381",
+      "publishedAt": "Thu, 19 Nov 2026 10:47:37 GMT"
     },
     {
-      "title": "Venezuela ve ABD, askeri işbirliğini yeniden başlattı",
-      "summary": "ABD Savunma Bakanı Pete Hegseth'in Venezuela ziyaretinde, iki ülke arasında eski Venezuela Devlet Başkanı Hugo Chavez tarafından 2005'te kesilen teknik ve askeri işbirliği yeniden başlatıldı",
+      "title": "Aksaray'daki köy İngiltere'ye taşındı",
+      "summary": "1970'li yıllarda geçim sıkıntısı nedeniyle para kazanmak için farklı yollarla İngiltere'ye giden köy halkı, aradan geçen 56 yılda adeta tüm köyü İngiltere'ye taşıdı. 800 hanesi bulunan ve gurbetçilerle birlikte 7 bin nüfusa sahip Yuva köyün",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/dunya/venezuela-ve-abd-askeri-isbirligini-yeniden-baslatti-3928354",
-      "publishedAt": "Wed, 18 Nov 2026 22:47:07 GMT"
+      "link": "https://www.haberturk.com/yasam/aksaray-in-7-bin-nufuslu-yuva-koyu-ingiltere-ye-tasindi-3928496",
+      "publishedAt": "Thu, 19 Nov 2026 10:47:06 GMT"
     },
     {
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 17:00:40 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 04:42:52 GMT"
     },
     {
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+      "summary": "Some local media report that at least four bodies have been recovered.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 17:00:04 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 09:02:52 GMT"
     },
     {
-      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "summary": "No state has ever been found guilty by an international court of committing genocide.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 23:04:06 GMT"
-    },
-    {
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 23:44:27 GMT"
+      "publishedAt": "Thu, 19 Nov 2026 10:48:04 GMT"
     },
     {
       "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
@@ -180,60 +172,92 @@
       "publishedAt": "Thu, 19 Nov 2026 00:49:19 GMT"
     },
     {
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "title": "Crimean Bridge attacked again, Russia says",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
       "source": "BBC World",
       "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Wed, 18 Nov 2026 22:34:56 GMT"
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 07:32:06 GMT"
     },
     {
-      "title": "Hegseth unveils new US-Venezuela military deal",
-      "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
-      "source": "Al Jazeera",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
+      "source": "BBC World",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-      "publishedAt": "Thu, 19 Nov 2026 01:48:46 +0000"
+      "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 19 Nov 2026 09:21:54 GMT"
     },
     {
-      "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-      "summary": "A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy.",
+      "title": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
+      "summary": "French football chief Philippe Diallo and Japan's Kozo Tashima will be the only candidates to run for FIFA presidency.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
-      "publishedAt": "Thu, 19 Nov 2026 01:17:08 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
+      "publishedAt": "Thu, 19 Nov 2026 10:42:53 +0000"
     },
     {
-      "title": "Settler rams into Palestinians at multiple locations in central Israel",
-      "summary": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
+      "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+      "summary": "In case filed at the ICJ in 2019, The Gambia accused Myanmar of breaching the 1948 Genocide Convention.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-      "publishedAt": "Thu, 19 Nov 2026 01:13:45 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
+      "publishedAt": "Thu, 19 Nov 2026 10:31:36 +0000"
     },
     {
-      "title": "German FA backs France’s Diallo for FIFA presidency",
-      "summary": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
+      "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
+      "summary": "With two million Palestinians confined to an area of less than 130sq km, UN-backed Gaza peace plan has collapsed.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss",
-      "publishedAt": "Thu, 19 Nov 2026 00:44:50 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+      "publishedAt": "Thu, 19 Nov 2026 10:05:33 +0000"
     },
     {
-      "title": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
-      "summary": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
+      "title": "Trump calls for nuclear arms reduction at APEC summit",
+      "summary": "Trump calls for nuclear arms reduction at APEC summit",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss",
-      "publishedAt": "Thu, 19 Nov 2026 00:40:01 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
+      "publishedAt": "Thu, 19 Nov 2026 10:03:27 +0000"
     },
     {
-      "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
-      "summary": "Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012.",
+      "title": "Malaysian weightlifting champion Roslin loses arm after motorbike crash",
+      "summary": "Muhammad Hafizuddin Roslin, who won a gold medal at the Commonwealth Games 2026, had his arm amputated after accident.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
-      "publishedAt": "Thu, 19 Nov 2026 00:37:03 +0000"
+      "link": "https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss",
+      "publishedAt": "Thu, 19 Nov 2026 09:56:07 +0000"
+    },
+    {
+      "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+      "summary": "North Korea can produce both highly enriched uranium and weapons-grade plutonium at its facilities, according to IAEA.",
+      "source": "Al Jazeera",
+      "lang": "en",
+      "link": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
+      "publishedAt": "Thu, 19 Nov 2026 09:16:47 +0000"
+    },
+    {
+      "title": "AI giant Anthropic raises more than $100 billion in record-setting IPO",
+      "summary": "Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+      "publishedAt": "Thu, 19 Nov 2026 05:00:00 -0500"
+    },
+    {
+      "title": "Morning news brief",
+      "summary": "President Trump meets with China's Xi and Russia's Putin, House Democrats nominate Hakeem Jeffries as next speaker of the House, AI giant Anthropic raises more than $100 billion in record-setting IPO.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6042289/morning-news-brief",
+      "publishedAt": "Thu, 19 Nov 2026 04:46:29 -0500"
+    },
+    {
+      "title": "Win a trip to go behind the news with NPR",
+      "summary": "Enter for a chance to go behind the scenes at HQ, meet our journalists face-to-face and experience public media like never before.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
+      "publishedAt": "Thu, 19 Nov 2026 00:01:00 -0500"
     },
     {
       "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
@@ -260,28 +284,12 @@
       "publishedAt": "Wed, 18 Nov 2026 17:12:56 -0500"
     },
     {
-      "title": "Democrats nominate Jeffries for speaker, prep investigations into Trump's orbit",
-      "summary": "Democrats gave the official nod to Hakeem Jeffries to be the next speaker of the House. Meanwhile, Democrats are ramping up their plans to investigate the Trump administration come January.",
-      "source": "NPR",
+      "title": "One in four women globally unable to refuse sex within marriage, says UN",
+      "summary": "Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA findsOne in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report.In ",
+      "source": "The Guardian",
       "lang": "en",
-      "link": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
-      "publishedAt": "Wed, 18 Nov 2026 17:01:19 -0500"
-    },
-    {
-      "title": "After Nepal's epic flood, they're restoring their community ... and their lives",
-      "summary": "As the emergency response to the flood ends, aid workers turn to the hard work of rebuilding communities that lost everything. Many of those workers lost everything, too.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/18/nx-s1-6022034/flood-nepal-survival-climate-change",
-      "publishedAt": "Wed, 18 Nov 2026 17:01:17 -0500"
-    },
-    {
-      "title": "Democratic Black women take over almost all state agencies in Georgia soon",
-      "summary": "In January, most of Georgia's state agencies will be headed by Black women who were all elected in the 2026 midterms.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/18/nx-s1-6043103/democratic-black-women-take-over-almost-all-state-agencies-in-georgia-soon",
-      "publishedAt": "Wed, 18 Nov 2026 16:51:33 -0500"
+      "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+      "publishedAt": "Thu, 19 Nov 2026 04:00:16 GMT"
     },
     {
       "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
@@ -306,30 +314,22 @@
       "lang": "en",
       "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
       "publishedAt": "Tue, 17 Nov 2026 01:10:59 GMT"
-    },
-    {
-      "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
-      "summary": "Suspect named as Greene Da’monte KhireeDrug smuggling carries life sentence in NigeriaAn American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country.Nigeria’s Nati",
-      "source": "The Guardian",
-      "lang": "en",
-      "link": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
-      "publishedAt": "Mon, 16 Nov 2026 13:16:36 GMT"
     }
   ],
   "sports": [],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 18,
-      "description": "overcast",
+      "tempC": 20,
+      "description": "partly cloudy",
       "high": 20,
-      "low": 17
+      "low": 16
     },
     {
       "place": "London",
-      "tempC": 9,
-      "description": "drizzle",
-      "high": 11,
+      "tempC": 8,
+      "description": "overcast",
+      "high": 9,
       "low": 7
     }
   ],
