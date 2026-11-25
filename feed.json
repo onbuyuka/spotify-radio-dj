@@ -1,21 +1,45 @@
 {
-  "updated": "2026-11-24T19:54:59.819Z",
+  "updated": "2026-11-25T03:56:05.827Z",
   "news": [
     {
-      "title": "Eskişehir'de askeri helikopter düştü, beş asker hayatını kaybetti",
-      "summary": "Eskişehir'de Hava Kuvvetleri Komutanlığı'na ait AS-532 tipi bir helikopter kaza kırıma uğradı, beş askerin hayatını kaybettiği bildirildi.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cm792qzv12wjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 18:29:07 GMT"
-    },
-    {
-      "title": "AKP Genel Başkan Yardımcısı Hayati Yazıcı görevlerinden istifa etti",
+      "title": "AKP Genel Başkan Yardımcısı Hayati Yazıcı neden istifa etti?",
       "summary": "AKP Genel Başkan Yardımcısı Hayati Yazıcı, oğlu Mustafa Yazıcı hakkındaki iddiaların ardından partideki görevlerinden istifa ettiğini açıkladı.",
       "source": "BBC Türkçe",
       "lang": "tr",
       "link": "https://www.bbc.com/turkce/articles/c5vg2nxdkmdro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "Tue, 24 Nov 2026 18:11:09 GMT"
+    },
+    {
+      "title": "Eskişehir'de askeri helikopter düştü, beş asker hayatını kaybetti",
+      "summary": "Eskişehir'de Hava Kuvvetleri Komutanlığı'na ait AS-532 tipi bir helikopter eğitim uçuşu sırasında kaza kırıma uğradı, beş asker hayatını kaybetti. Kazanın sebebi henüz açıklanmadı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cm792qzv12wjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 24 Nov 2026 21:47:21 GMT"
+    },
+    {
+      "title": "41 ilin valisi değişti, 14 vali merkeze çekildi",
+      "summary": "Cumhurbaşkanlığı kararıyla 41 ilin valisi değişti, 14 ilin valisi merkeze alındı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cmge3q17n44xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 24 Nov 2026 23:09:00 GMT"
+    },
+    {
+      "title": "Eski Fransa Cumhurbaşkanı Sarkozy ve eşi Carla Bruni yargılanacak",
+      "summary": "Eski Fransa cumhurbaşkanı Nicolas Sarkozy ve eşi Carla Bruni-Sarkozy, dönemin Libya lideri Muammer Kaddafi'nin 2007'de Fransa'daki seçim kampanyasına usulsüz şekilde mali destek sağladığı iddialarıyla ilgili gelecek yıl yargılanacak.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cmqj5qzzq02qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 24 Nov 2026 21:21:16 GMT"
+    },
+    {
+      "title": "Galatasaray, Aston Villa'yı 1-0 yendi",
+      "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin beşinci haftasında evinde İngiltere temsilcisi Aston Villa'yı ağırlıyor. Karşılaşmada henüz gol sesi duyulmadı.",
+      "source": "BBC Türkçe",
+      "lang": "tr",
+      "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 24 Nov 2026 19:59:42 GMT"
     },
     {
       "title": "Fatma Betül Sayan Kaya'nın ev hapsi kararıyla tahliyesine tepkiler ne oldu?",
@@ -26,118 +50,94 @@
       "publishedAt": "Tue, 24 Nov 2026 10:35:34 GMT"
     },
     {
-      "title": "Papa Francesco: 'Şeytanı üç kez gördüm'",
-      "summary": "Geçtiğimiz yıl hayatını kaybeden Papa Francesco, özel günlüğünden kamuoyuna yansıyan yeni bölümlerde, hayatı boyunca üç kez şeytanı gördüğünü yazıyor.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ck1wr3w05qd2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 12:45:56 GMT"
-    },
-    {
-      "title": "Galatasaray, Aston Villa karşısında 1-0 öne geçti",
-      "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin beşinci haftasında evinde İngiltere temsilcisi Aston Villa'yı ağırlıyor. Karşılaşmada henüz gol sesi duyulmadı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 19:21:53 GMT"
-    },
-    {
-      "title": "Ulaştırma Bakanı: HGS'yle ilgili usulsüz bütün ödemeleri geri iade ettireceğiz",
-      "summary": "Ulaştırma Bakanı Abdulkadir Uraloğlu, Hızlı Geçiş Sistemi'yle (HGS) ilgili \"usulüne uygun yapılmamış icra takiplerinde ödemelerin geri iade ettirileceğini\" açıkladı.",
-      "source": "BBC Türkçe",
-      "lang": "tr",
-      "link": "https://www.bbc.com/turkce/articles/ck62pgp2vm1qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 19:45:46 GMT"
-    },
-    {
-      "title": "Fon Koordinasyon Kurulu toplandı: Yeni düzenleme hazır",
-      "summary": "Fon Koordinasyon Kurulu Toplantısı sonrası açıklamada, yatırımcıların kayıplarının karşılanmasını ve piyasa dolandırıcılığına ilişkin cezaların artırılmasını öngören düzenleme taslağının hazırlandı.",
+      "title": "Çorum'da kadın cinayeti. Boşanma aşamasında olduğu eşini 3 çocuğunun önünde öldürdü",
+      "summary": "Çorum'da boşanma aşamasında olduğu eşi Esin Özdemir’i 3 çocuğunun gözü önünde öldüren saldırgan, 11 saat polise direndikten sonra intihara teşebbüs etti.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-24T22:52:48+03:00"
+      "publishedAt": "2026-11-25T06:28:35+03:00"
     },
     {
-      "title": "Bakan Uraloğlu duyurdu: HGS'de usulsüz tahsilatlar iade edilecek",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Hızlı Geçiş Sistemi (HGS) borçlarında usulüne uygun şekilde yapılmayan tüm tahsilatların iade edileceğini bildirdi.",
+      "title": "Trabzon'da cadde ve sokaklar göle döndü",
+      "summary": "Trabzon'un Ortahisar ilçesinde şiddetli yağış nedeniyle birçok noktada su baskınları yaşandı. Bir istinat duvarının çökmesi sonucu 5 araç zarar gördü. Sürmene ve Yomra' da dereler taştı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-24T22:03:13+03:00"
+      "publishedAt": "2026-11-25T06:01:33+03:00"
     },
     {
-      "title": "Süper Loto çekiliş sonuçları belli oldu: 24 Kasım 2026 MPİ Süper Loto kazandıran numaraları sorgulama ekranı",
-      "summary": "Süper Loto sonuçları için beklenen an geldi. Milyonlarca liralık büyük ikramiyenin sahibini bulup bulmadığı merak ediliyor. Süper Loto oyununda 6 bilen büyük ikramiyeyi almaya hak kazanırken; 5, 4, 3 ve 2 bilenler de farklı oranlarda ikrami",
+      "title": "Çin, Tiengong Uzay İstasyonu'na yeni astronot ekibini yolladı",
+      "summary": "Çin'in Dünya yörüngesinde kurduğu Tiengong (Gök Sarayı) Uzay İstasyonu'nda görev yapacak yeni astronot ekibi yola çıktı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-24T21:42:06+03:00"
+      "publishedAt": "2026-11-25T04:16:22+03:00"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan: 15 bin öğretmen alım duyurusu bu hafta içerisinde açıklanacak",
-      "summary": "Cumhurbaşkanı Erdoğan, \"2026 Akademi Giriş Sınavı sonuçlarına göre 15 bin öğretmen alım duyurusu ve branş dağılımı Milli Eğitim Bakanlığımız tarafından bu hafta içerisinde açıklanacak.\" dedi.",
+      "title": "Sahte plakayla trafiğe çıkan sürücüye 650 bin TL ceza yazıldı",
+      "summary": "Polis ekiplerinin \"dur\" ihtarına uymayarak, kaçan sürücü yakalanınca plakasının sahte olduğu anlaşıldı. Sürücüye 650 bin TL idari para cezası yazıldı.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-24T21:05:49+03:00"
+      "publishedAt": "2026-11-25T03:24:37+03:00"
     },
     {
-      "title": "Eskişehir'de askeri helikopter düştü, 5 asker şehit oldu",
-      "summary": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan askeri helikopterde görevli 5 asker şehit oldu.",
+      "title": "Atama kararları yayımlandı. 41 ilin valisi değişti, 14 vali merkeze çekildi",
+      "summary": "Resmi Gazete'de yayımlanan Valiler Kararnamesi ile aralarında Muğla Valisi'nin de bulunduğu 14 vali merkeze çekildi.",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-24T22:26:52+03:00"
+      "publishedAt": "2026-11-25T00:50:54+03:00"
     },
     {
-      "title": "Hayati Yazıcı, AK Parti'deki görevlerinden istifa etti",
-      "summary": "AK Parti'nin kurucu isimlerinden, Siyasi ve Hukuki İşlerden Sorumlu Genel Başkan Yardımcısı Hayati Yazıcı, partideki görevlerinden istifa etti.",
+      "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Kasım 2026",
+      "summary": "Son depremler...Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler.. 25 Kasım 2026 deprem son dakika haberleri haberin detayında...Artçı deprem mi oldu? Son deprem büyüklüğü ne kadar? ",
       "source": "NTV",
       "lang": "tr",
-      "publishedAt": "2026-11-24T20:59:05+03:00"
+      "publishedAt": "2026-11-25T06:30:00+03:00"
     },
     {
-      "title": "Galatasaray Deniz'le 'Gül'dü",
-      "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray sahasında İngiliz ekibi Aston Villa'yı ağırladı. Sarı-kırmızılılar mücadeledeyi Deniz Gül'ün golüyle 1-0 kazandı ve Devler Ligi'nde üst üste 3. galibiyetini elde ederek 9 puana yükseldi.",
+      "title": "Eski Meclis Başkanı Hikmet Çetin kimdir?",
+      "summary": "Türkiye siyasetinin önemli isimlerinden, eski Meclis Başkanı Hikmet Çetin hayatını kaybetti. Hayatını kaybetmesinin ardından başsağlığı mesajları gelmeye başladı. Türk siyasetinde uzun yıllar görev yapmış siyasetçi, ekonomist ve diplomat Hi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/galatasaray-aston-villa-mac-sonucu-iste-gs-aston-villa-maci-ozeti-ve-golleri-sampiyonlar-ligi-3929634",
-      "publishedAt": "Tue, 24 Nov 2026 19:49:09 GMT"
+      "link": "https://www.haberturk.com/bilgi/hikmet-cetin-hayatini-kaybetti-eski-meclis-baskani-hikmet-cetin-kimdir-kac-yasindaydi-ve-neden-oldu-3929811",
+      "publishedAt": "Wed, 25 Nov 2026 03:45:54 GMT"
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'dan şehitler için taziye mesajı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Eskişehir'de eğitim uçuşu sırasında Hava Kuvvetlerine ait helikopterin kaza kırıma uğraması sonucu 5 askerin şehit olması dolayısıyla taziye mesajı yayımladı. Acı haberi büyük üzüntüyle öğrendiğini belirt",
+      "title": "Sağlık Bakanlığı 38 bin personel alıyor!",
+      "summary": "Sağlık Bakanlığı 38 bin personel alımına ilişkin çalışmaların son aşamaya geldiği açıklanırken, adayların gözü İŞKUR ve ÖSYM başvuru ekranlarına çevrildi. Cumhurbaşkanı Recep Tayyip Erdoğan'ın 2026 yılı bitmeden yeni personel alımı yapılaca",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-eskisehir-deki-helikopter-kazasinda-sehit-olan-askerlerimiz-icin-taziye-3929866",
-      "publishedAt": "Tue, 24 Nov 2026 19:43:25 GMT"
+      "link": "https://www.haberturk.com/bilgi/foto/saglik-bakanligi-iskur-isci-alimi-2026-saglik-bakanligi-38-bin-personel-alimi-basvurulari-basladi-mi-ne-zaman-ve-hangi-kadrolarda-yapilacak-3929338",
+      "publishedAt": "Wed, 25 Nov 2026 03:45:13 GMT"
     },
     {
-      "title": "Avcılar'da yeraltı kabloları alev alev yandı",
-      "summary": "Avcılar’da yeraltı elektrik kablolarında meydana gelen patlamaların ardından yangın çıktı. Alevler itfaiye ekipleri tarafından söndürülürken, 4 sokakta elektrik kesintisi yaşandı.",
+      "title": "11 saat direndi! Bir ölü, bir yaralı",
+      "summary": "Çorum'da boşanma aşamasındaki eşini öldürdükten sonra polise teslim olmamak için yaklaşık 11 saat direnen şüpheli, intihara teşebbüs etmesi sonucu ağır yaralı olarak hastaneye kaldırıldı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/avcilar-da-yeralti-kablolari-alev-alev-yandi-3929865",
-      "publishedAt": "Tue, 24 Nov 2026 19:37:24 GMT"
+      "link": "https://www.haberturk.com/gundem/11-saat-direndi-bir-olu-bir-yarali-3929896",
+      "publishedAt": "Wed, 25 Nov 2026 03:40:05 GMT"
     },
     {
-      "title": "Galatasaray'da şok! Derbi öncesi sakatlık",
-      "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray, evinde İngiliz ekibi Aston Villa ile kozlarını paylaştı. Süper Lig'de Beşiktaş'a dev derbide konuk olacak sarı-kırmızılılara kötü haber Mario Lemina'dan geldi. Aston Villa maçında sakatla",
+      "title": "İşçi servisine çarptı: 8 yaralı",
+      "summary": "Bursa'nın Nilüfer ilçesinde işçi servisi ile hafif ticari aracın karıştığı kazada 8 kişi yaralandı",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/spor/besiktas-derbisi-oncesi-galatasaray-da-mario-lemina-soku-aston-villa-macinda-sakatlandi-oyuna-devam-edemedi-3929864",
-      "publishedAt": "Tue, 24 Nov 2026 19:32:35 GMT"
+      "link": "https://www.haberturk.com/gundem/isci-servisine-carpti-8-yarali-3929895",
+      "publishedAt": "Wed, 25 Nov 2026 03:18:59 GMT"
     },
     {
-      "title": "Uraloğlu duyurdu: HGS'de usulsüz tahsilatlar iade edilecek",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Kredi kartına bağlanmış olan hiçbir HGS geçişinde sıkıntı yok. Yasal takibi durdurduk. Usulune uygun yapılmamış olan bütün ödemeleri iade ettireceğiz\" dedi",
+      "title": "Ünlülere uyuşturucu operasyonu: 35 gözaltı kararı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen ünlülere yönelik uyuşturucu soruşturması kapsamında, aralarında oyuncu Özcan Deniz ve Deniz Çakır'ın da bulunduğu 35 kişi hakkında gözaltı kararı verildi. Soruşturma kapsamında 19 şüphel",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/ekonomi/bakan-uraloglu-acikladi-hgs-de-usulsuz-tahsilatlar-iade-edilecek-3929863",
-      "publishedAt": "Tue, 24 Nov 2026 19:29:06 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-unlulere-uyusturucu-operasyonu-35-gozalti-3929876",
+      "publishedAt": "Tue, 24 Nov 2026 23:54:05 GMT"
     },
     {
-      "title": "Siyasilerden taziye mesajları",
-      "summary": "Eskişehir'de eğitim uçuşu sırasında Hava Kuvvetlerine ait helikopterin kaza kırıma uğraması sonucu şehit olan askerler için siyaset dünyasından peş peşe taziye mesajları geldi. Siyasi isimler, şehitlerin ailelerine, Türk Silahlı Kuvvetlerin",
+      "title": "Resmi Gazete'de yayımlandı: 41 ilin valisi değişti",
+      "summary": "Resmi Gazete'de yayımlanan Valiler Kararnamesi ile 14 ilin valisi merkeze alındı, 41 ilin valisi değişti. Ağrı Valisi Önder Bozkurt, AFAD Başkanlığı görevine getirildi",
       "source": "Habertürk",
       "lang": "tr",
-      "link": "https://www.haberturk.com/gundem/eskisehir-deki-helikopter-kazasinda-sehit-olan-askerler-icin-taziye-mesajlari-yayimlandi-3929856",
-      "publishedAt": "Tue, 24 Nov 2026 19:13:20 GMT"
+      "link": "https://www.haberturk.com/gundem/son-dakika-resmi-gazete-de-yayimlandi-15-yeni-vali-atandi-3929881",
+      "publishedAt": "Tue, 24 Nov 2026 22:46:24 GMT"
     },
     {
       "title": "US attorney general dodges questions about Nvidia investigation",
@@ -145,23 +145,7 @@
       "source": "BBC World",
       "lang": "en",
       "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 18:55:59 GMT"
-    },
-    {
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 18:07:46 GMT"
-    },
-    {
-      "title": "Land mine casualties soar in Syria, two years after war",
-      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 15:17:28 GMT"
+      "publishedAt": "Wed, 25 Nov 2026 03:44:07 GMT"
     },
     {
       "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
@@ -172,6 +156,30 @@
       "publishedAt": "Tue, 24 Nov 2026 16:49:07 GMT"
     },
     {
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 24 Nov 2026 18:07:46 GMT"
+    },
+    {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Wed, 25 Nov 2026 02:59:27 GMT"
+    },
+    {
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+      "source": "BBC World",
+      "lang": "en",
+      "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Tue, 24 Nov 2026 15:17:28 GMT"
+    },
+    {
       "title": "Nigerian monarch, 92, suspended after sexual assault claims",
       "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
       "source": "BBC World",
@@ -180,60 +188,68 @@
       "publishedAt": "Tue, 24 Nov 2026 19:10:31 GMT"
     },
     {
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-      "source": "BBC World",
-      "lang": "en",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "Tue, 24 Nov 2026 15:35:53 GMT"
-    },
-    {
-      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
-      "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
+      "title": "Pakistani astronaut launches into space aboard Chinese rocket",
+      "summary": "Pakistani astronaut Muhammad Zeeshan Ali has launched into space aboard a Chinese rocket.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
-      "publishedAt": "Tue, 24 Nov 2026 19:22:44 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
+      "publishedAt": "Wed, 25 Nov 2026 02:44:45 +0000"
     },
     {
-      "title": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
-      "summary": "The agreement marks the US planemaker's first major order from China in almost a decade.",
+      "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+      "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
-      "publishedAt": "Tue, 24 Nov 2026 19:19:50 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
+      "publishedAt": "Wed, 25 Nov 2026 02:40:59 +0000"
     },
     {
-      "title": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
-      "summary": "Legal counsel challenges DOJ's assertion of House's involvement in controversial raid on Ilhan Omar's home.",
+      "title": "WHO chief urges end to US fuel blockade on Cuba",
+      "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home?traffic_source=rss",
-      "publishedAt": "Tue, 24 Nov 2026 19:15:25 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+      "publishedAt": "Wed, 25 Nov 2026 02:23:19 +0000"
     },
     {
-      "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
-      "summary": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
+      "title": "Senegal fans celebrate AFCON legal victory over Morocco",
+      "summary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
-      "publishedAt": "Tue, 24 Nov 2026 19:02:49 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+      "publishedAt": "Wed, 25 Nov 2026 01:39:53 +0000"
     },
     {
-      "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
-      "summary": "Landmine monitor found 84 percent of deaths caused by landmines were in Southeast Asia.",
+      "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+      "summary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
-      "publishedAt": "Tue, 24 Nov 2026 18:47:05 +0000"
+      "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+      "publishedAt": "Wed, 25 Nov 2026 01:30:44 +0000"
     },
     {
-      "title": "Is Libya a new front in the Ukraine war?",
-      "summary": "Ukraine's President Volodymyr Zelenskyy says two Russian vessels were targeted in Libya's waters.",
+      "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+      "summary": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
       "source": "Al Jazeera",
       "lang": "en",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
-      "publishedAt": "Tue, 24 Nov 2026 18:38:49 +0000"
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+      "publishedAt": "Wed, 25 Nov 2026 01:21:02 +0000"
+    },
+    {
+      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "summary": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "publishedAt": "Tue, 24 Nov 2026 16:09:29 -0500"
+    },
+    {
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "summary": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
+      "source": "NPR",
+      "lang": "en",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+      "publishedAt": "Tue, 24 Nov 2026 16:04:50 -0500"
     },
     {
       "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
@@ -266,58 +282,23 @@
       "lang": "en",
       "link": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
       "publishedAt": "Tue, 24 Nov 2026 05:00:00 -0500"
-    },
-    {
-      "title": "They attended Trump's meme coin dinner. It didn't go well",
-      "summary": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
-      "publishedAt": "Tue, 24 Nov 2026 05:00:00 -0500"
-    },
-    {
-      "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
-      "summary": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite.",
-      "source": "NPR",
-      "lang": "en",
-      "link": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
-      "publishedAt": "Tue, 24 Nov 2026 05:00:00 -0500"
     }
   ],
-  "sports": [
-    {
-      "league": "Süper Lig",
-      "home": "İstanbul Başakşehir",
-      "away": "Çorum",
-      "homeScore": 4,
-      "awayScore": 2,
-      "status": "FT",
-      "date": "2026-11-23"
-    },
-    {
-      "league": "Premier League",
-      "home": "Brentford",
-      "away": "Everton",
-      "homeScore": 4,
-      "awayScore": 0,
-      "status": "FT",
-      "date": "2026-11-23"
-    }
-  ],
+  "sports": [],
   "weather": [
     {
       "place": "İstanbul",
-      "tempC": 6,
+      "tempC": 3,
       "description": "clear sky",
-      "high": 12,
-      "low": 5
+      "high": 9,
+      "low": 3
     },
     {
       "place": "London",
       "tempC": 5,
       "description": "overcast",
       "high": 7,
-      "low": 3
+      "low": 4
     }
   ],
   "facts": [
